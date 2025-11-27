@@ -1,0 +1,4 @@
+Level,DropoutRate
+Primary,0.2
+UpperPrimary,0.9
+Secondary,6.0

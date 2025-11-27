@@ -1,0 +1,40 @@
+"Sl. No.",State/UT,Hindu,Muslim,Sikh,Christian,Others,Total
+1,"Andhra Pradesh",1891,251,0,194,24,2360
+2,"Arunachal Pradesh",52,6,0,42,26,126
+3,Assam,1335,1313,45,53,33,2779
+4,Bihar,6493,1225,7,10,6,7741
+5,Chhattisgarh,5632,212,32,219,7,6102
+6,Goa,76,11,0,18,0,105
+7,Gujarat,3050,755,12,33,3,3853
+8,Haryana,2559,558,177,44,0,3338
+9,"Himachal Pradesh",777,38,33,2,3,853
+10,Jharkhand,3604,642,42,361,435,5084
+11,Karnataka,2856,681,4,79,68,3688
+12,Kerala,1147,792,0,472,15,2426
+13,"Madhya Pradesh",11643,1775,102,45,87,13652
+14,Maharashtra,3685,1124,72,89,580,5550
+15,Manipur,73,12,0,16,4,105
+16,Meghalaya,18,10,0,143,7,178
+17,Mizoram,12,19,0,393,13,437
+18,Nagaland,14,5,3,73,0,95
+19,Odisha,2954,87,0,185,19,3245
+20,Punjab,828,203,1472,125,151,2779
+21,Rajasthan,4164,721,197,17,32,5131
+22,Sikkim,82,0,0,22,20,124
+23,"Tamil Nadu",3177,559,0,406,19,4161
+24,Telangana,1211,450,29,218,2,1910
+25,Tripura,301,47,0,33,14,395
+26,"Uttar Pradesh",21178,5411,114,17,14,26734
+27,Uttarakhand,1368,457,195,37,6,2063
+28,"West Bengal",3516,1794,1,39,17,5367
+"Total (States)","Total (States)",83696,19158,2537,3385,1605,110381
+29,"A & N Islands",76,19,0,32,10,137
+30,Chandigarh,290,23,31,5,0,349
+31,"Dadra and Nagar Haveli and Daman and Diu",10,5,0,0,0,15
+32,Delhi,1082,316,25,42,5,1470
+33,"Jammu & Kashmir",74,76,7,0,2,159
+34,Ladakh,3,1,0,0,1,5
+35,Lakshadweep,0,1,0,0,0,1
+36,Puducherry,63,5,0,4,0,72
+"Total (UTs)","Total (UTs)",1598,446,63,83,18,2208
+"Total (All-India)","Total (All-India)",85294,19604,2600,3468,1623,112589

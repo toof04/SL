@@ -1,0 +1,599 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Dashboard – Crime & Literacy</title>
+
+  <!-- chart libs -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels"></script>
+
+  <style>
+    /* global reset need to refine later 
+    * { margin:0; padding:0; box-sizing:border-box; }
+
+    body {
+      font-family: system-ui;
+      background:white;
+      padding:22px;
+      display:flex;
+      justify-content:center;
+      min-height:100vh;
+      /*  switch to grid later 
+    }
+
+    .page {
+      background:#fff;
+      padding:30px 34px;
+      border-radius:7px;
+      box-shadow:0 2px 7px rgba(0,0,0,.12);
+      width:100%;
+      max-width:1580px;
+      border:1px solid white; /* slightly lighter than original 
+    }
+
+    .header{
+      margin-bottom:28px;
+      padding-bottom:18px;
+      border-bottom:1px solid #dce3ea;
+    }
+
+    .header h1{
+      font-size:2.1rem;
+      font-weight :600;
+      color:#222b36;
+      margin-bottom:4px;
+    }
+
+    .header p{
+      color:#6e7884;
+      font-size:.92rem;
+      /*  rewrite copy later 
+    }
+
+    /* main nav  
+    .main-nav{
+      display:flex;
+      gap:10px;
+      margin-bottom:20px;
+      border-bottom:1px solid #d9dfe4;
+      padding-bottom:12px;
+      flex-wrap:wrap;
+      align-items:center;
+    }
+
+    .navBtn{
+      padding:9px 19px;
+      border-radius:6px;
+      border:1px solid #c7ced7;
+      background:#fff;
+      font-size:14px;
+      cursor:pointer;
+      transition:background .18s;
+      color:#4e5966;
+    }
+     .navBtn.is-active{
+      background:#303a47;
+      border-color:#303a47;
+      color:#fff;
+    }
+    .navBtn:hover{ background:#f2f4f7; }
+
+   
+
+    /* sub nav 
+    .topbar{
+      display:flex;
+      gap:8px;
+      background:#f7f9fb;
+      padding:10px 12px;
+      margin-bottom:16px;
+      border-radius:5px;
+      border:1px solid #e2e7ec;
+      flex-wrap:wrap;
+    }
+
+    /* button style (kept loose) 
+    .btnX{
+      padding:7px 15px;
+      border-radius:4px;
+      border:1px solid #ccd3db;
+      cursor : pointer;
+      background:#fff;
+      font-size:13px;
+      transition:all .12s ease-out;
+      color: #4b5563;
+    }
+    .btnX:hover{
+      background:#eef2f6;
+      border-color:#a9b4c0;
+    }
+    .btnX.on{
+      background:#313a49;
+      border-color:#313a49;
+      color:#fff;
+    }
+
+    .controlsBox{
+      margin-bottom:18px;
+      padding:14px;
+      background:#fafbfc;
+      border-radius:6px;
+      border:1px solid #e4e9ed;
+    }
+
+    .hidden { display:none;}
+
+    label{
+      margin-right:6px;
+      font-weight:500;
+      color:#495364;
+      font-size:13px;
+    }
+
+    /* selects  
+    select {
+      padding:6px 10px;
+      border:1px solid #c9d1d8;
+      border-radius :4px;
+      font-size:13px;
+      background:#fff;
+              margin-bottom:7px;
+      margin-right:8px;
+
+      min-width:165px;
+      cursor:pointer;
+    }
+    select:hover{ border-color:#9ca8b5; }
+
+    /* toggle) 
+    .toggleWrap{
+      margin-left:auto;
+      display:flex;
+      align-items:center;
+      gap:8px;
+      padding:5px 10px;
+      background:#f8fafc;
+      border:1px solid #dfe5ea;
+      border-radius:5px;
+    }
+
+    .switch{
+      width:42px; height:22px; position:relative; display:inline-block;
+    }
+    .switch input{ opacity:0; width:0; height:0; }
+
+    .sliderX{
+      position:absolute; inset:0;
+      background:#c5ced7;
+      border-radius:22px;
+      transition:.18s;
+      cursor:pointer;
+    }
+    .sliderX:before{
+      content:"";
+      position:absolute;
+      width :17px;
+      height:17px;
+      left:3px;
+        border-radius:  50%;
+      bottom:3px;
+      background:white;
+
+      transition:.18s;
+      /* shadow strong 
+      box-shadow:0 1px 3px rgba(0,0,0,.18);
+    }
+
+    input:checked + .sliderX{ background:#2f3947; }
+    input:checked + .sliderX:before{ transform:translateX(19px); }
+
+
+    /* table show 
+    #csvArea{
+      margin-top:28px;
+      padding:18px;
+      background:#f8fafc;
+      border-radius: 6px;
+      border:1px solid #dfe4ea;
+      display:none;
+    }
+
+    #csvArea h3{
+      margin-bottom:14px;
+      font-size : 1.16rem;
+      color:#2b3340;
+    }
+
+    #csvDataTable{
+      width:100%;
+      border-collapse:collapse;
+
+      font-size: 13px;
+      background:white;
+      border:1px solid #d7dde3;
+    }
+
+    #csvTableHead th{
+      padding:9px 10px;
+      background:#2f3a47;
+      color:white;
+      border:1px solid #d7dde3;
+      font-size:12px;
+      position:sticky;
+      top:0;
+      z-index:5;
+    }
+
+    #csvTableBody td{
+      padding:9px 11px;
+      border:1px solid #d7dde3;
+
+      color:#4f5966;
+    }
+
+    #csvTableBody tr:nth-child(even){ background:#f4f6f9; }
+
+    #csvTableBody tr:hover{
+      background:#e6ebf1; /* slightly off 
+    }
+
+    #mainChart {
+      border:1px solid #d4d8dd;
+      border-radius:6px;
+      padding:14px;
+      background:#fff;
+      margin-bottom:18px;
+    }
+
+    /* responsive tweaks needed 
+    @media(max-width:760px){
+      .header h1{ font-size:1.7rem; }
+      .navBtn{ width:100%;}
+
+      .page{ 
+        padding:18px; 
+      }
+      select{ min-width:0; width:100%; }
+    }
+  </style>
+</head>
+
+<body>
+<div class="page">
+
+  <div class="header">
+    <h1>Public Data Visualization</h1>
+    <p>Crime, Education, Infrastructure & Employment — quick overview</p>
+  </div>
+
+  <div class="main-nav">
+    <!-- note: renamed classes, left IDs mostly intact for JS -->
+    <button id="btnMainCrime" class="navBtn is-active">A - Crime</button>
+    <button id="btnMainLiteracy" class="navBtn">B - Literacy</button>
+    <button id="btnMainRoadways" class="navBtn">C - Roadways</button>
+    <button id="btnMainLabour" class="navBtn">D - Labour & Employment</button>
+
+    <div class="toggleWrap">
+      <span>Show Values</span>
+      <label class="switch">
+        <input id="valueToggle" type="checkbox">
+        <span class="sliderX"></span>
+      </label>
+    </div>
+  </div>
+
+  <!-- CRIME SECTION -->
+  <div id="crimeMainSection">
+
+    <div class="topbar">
+      <!-- left some ID naming inconsistencies on purpose -->
+      <button id="btnTotal" class="btnX on">Total Crime</button>
+      <button id="btnReligion" class="btnX">Religion</button>
+      <button id="btnWomen" class="btnX">Women</button>
+      <button id="btnEducation" class="btnX">Education</button>
+      <button id="btnCaste" class="btnX">Caste</button>
+      <button id="btnPolice" class="btnX">Police</button>
+      <button id="btnChildren" class="btnX">Children</button>
+    </div>
+
+    <!-- TOTAL -->
+    <div id="totalSection">
+      <div class="controlsBox">
+        <!-- TODO: add actual file names -->
+        <label>Top 10:</label>
+        <select id="top10Select"><option>-- pick file --</option></select>
+
+        <label>Bottom 10:</label>
+        <select id="bottom10Select"><option>-- pick file --</option></select>
+
+        <label>State Trend:</label>
+        <select id="timeSeriesSelect"><option>-- pick state file --</option></select>
+      </div>
+    </div>
+
+    <!-- RELIGION -->
+    <div id="religionSection" class="hidden">
+      <div class="controlsBox">
+        <button id="religionDefaultBtn" class="btnX">Default (Pie)</button>
+
+        <label>Top 5:</label>
+        <select id="religionTopFiles"></select>
+
+        <label>Bottom 5:</label>
+        <select id="religionBottomFiles"></select>
+
+        <label>States:</label>
+        <select id="religionStates"></select>
+
+        <label>By Religion:</label>
+        <select id="religionByReligion"></select>
+      </div>
+    </div>
+
+    <!-- WOMEN -->
+    <div id="womenSection" class="hidden">
+      <div class="controlsBox">
+        <button id="womenDefaultBtn" class="btnX">Default Totals</button>
+
+        <label>States:</label>
+        <select id="womenStates"></select>
+
+        <label>Crime Types:</label>
+        <select id="womenCrimeTypes"></select>
+
+        <label>Time Series:</label>
+        <select id="womenTimeSeries"></select>
+      </div>
+    </div>
+
+    <!-- EDUCATION -->
+    <div id="educationSection" class="hidden">
+      <div class="controlsBox">
+        <label>Graph:</label>
+        <select id="educationGraphs"></select>
+
+        <label>State Pie:</label>
+        <select id="educationStates"></select>
+      </div>
+    </div>
+
+    <!-- CASTE -->
+    <div id="casteSection" class="hidden">
+      <div class="controlsBox">
+
+        <div class="subtoggle">
+          <label><input type="radio" name="casteMode" value="conv" checked>Convicts</label>
+          <label><input type="radio" name="casteMode" value="det">Detenues</label>
+        </div>
+
+        <div id="casteConvictsControls">
+          <label>Top 5:</label>
+          <select id="casteConvTop"></select>
+
+          <label>Bottom 5:</label>
+          <select id="casteConvBottom"></select>
+
+          <label>State Dist:</label>
+          <select id="casteConvStateDist"></select>
+        </div>
+
+        <div id="casteDetenuesControls" class="hidden">
+          <label>Top 5:</label>
+          <select id="casteDetTop"></select>
+
+          <label>State Total:</label>
+          <select id="casteDetStateTotal"></select>
+        </div>
+      </div>
+    </div>
+
+    <!-- POLICE -->
+    <div id="policeSection" class="hidden">
+      <div class="controlsBox">
+        <button id="policeDefaultBtn" class="btnX">Default Summary</button>
+
+        <label>Top 10:</label>
+        <select id="policeTop"></select>
+
+        <label>Percents:</label>
+        <select id="policePercents"></select>
+      </div>
+    </div>
+
+    <!-- CHILDREN -->
+    <div id="childrenSection" class="hidden">
+      <div class="controlsBox">
+        <button id="childrenDefaultBtn" class="btnX">Default Summary</button>
+
+        <label>Top States:</label>
+        <select id="childrenTopStates">
+          <option>-- pick file --</option>
+        </select>
+
+        <label>Top Crimes:</label>
+        <select id="childrenTopCrime">
+          <option>-- pick file --</option>
+        </select>
+      </div>
+    </div>
+  </div>
+
+  <!-- LITERACY SECTION -->
+  <div id="literacyMainSection" class="hidden">
+    <div class="topbar">
+      <button id="btnSchools" class="btnX on">Schools</button>
+      <button id="btnLogistics" class="btnX">Logistics</button>
+      <button id="btnRates" class="btnX">Rates</button>
+    </div>
+
+    <!-- SCHOOLS -->
+    <div id="schoolsSection">
+      <div class="controlsBox">
+        <label>State:</label>
+        <select id="schoolsState"><option>-- pick --</option></select>
+
+        <div class="subtoggle">
+          <label>Level:</label>
+          <label><input type="radio" name="schoolLevel" value="secondary">Secondary</label>
+          <label><input type="radio" name="schoolLevel" value="pre_primary">Pre-Primary</label>
+          <label><input type="radio" name="schoolLevel" value="higher">Higher</label>
+        </div>
+
+        <div id="schoolLevelControls" class="hidden">
+          <label>Best:</label>
+          <select id="schoolsBest"><option>-- file --</option></select>
+
+          <label>Worst:</label>
+          <select id="schoolsWorst"><option>-- file --</option></select>
+        </div>
+      </div>
+    </div>
+
+    <!-- LOGISTICS -->
+    <div id="logisticsSection" class="hidden">
+      <div class="controlsBox">
+        <button id="logisticsToiletBtn" class="btnX">Toilets</button>
+        <button id="logisticsGirlsToiletBtn" class="btnX">Girls Toilet</button>
+        <button id="logisticsComputerBtn" class="btnX">Computers</button>
+      </div>
+    </div>
+
+    <!-- RATES -->
+    <div id="ratesSection" class="hidden">
+      <div class="controlsBox">
+        <div class="subtoggle">
+          <label><input type="radio" name="rateType" value="dropout" checked>Dropout</label>
+          <label><input type="radio" name="rateType" value="literacy">Literacy</label>
+          <label><input type="radio" name="rateType" value="yearschool">Years School</label>
+        </div>
+
+        <!-- Dropout -->
+        <div id="dropoutControls">
+          <label>Category:</label>
+          <select id="dropoutCategory">
+            <option>-- choose --</option>
+            <option value="state_level">Genderwise</option>
+            <option value="state_gender">Level wise</option>
+            <option value="level_gender">State wise</option>
+          </select>
+
+          <div id="dropoutSubControls" class="hidden">
+            <select id="dropoutSubSelect"><option>-- select --</option></select>
+          </div>
+        </div>
+
+        <!-- Literacy Rate -->
+        <div id="literacyRateControls" class="hidden">
+          <label>Top:</label>
+          <select id="literacyTop"><option>-- file --</option></select>
+
+          <label>Bottom:</label>
+          <select id="literacyBottom"><option>-- file --</option></select>
+
+          <label>State:</label>
+          <select id="literacyState"><option>-- pick --</option></select>
+        </div>
+
+        <!-- Years of School -->
+        <div id="yearSchoolControls" class="hidden">
+          <label>Top:</label>
+          <select id="yearSchoolTop"><option>-- file --</option></select>
+
+          <label>Bottom:</label>
+          <select id="yearSchoolBottom"><option>-- file --</option></select>
+
+          <label>State:</label>
+          <select id="yearSchoolState"><option>-- pick --</option></select>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ROADWAYS -->
+  <div id="roadwaysMainSection" class="hidden">
+    <div class="controlsBox">
+      <button id="roadwaysTop10Btn" class="btnX">Top 10</button>
+      <button id="roadwaysBottom10Btn" class="btnX">Bottom 10</button>
+
+      <label>State:</label>
+      <select id="roadwaysStateWise"><option>-- file --</option></select>
+
+      <label>Ratio:</label>
+      <select id="roadwaysStateRatio"><option>-- file --</option></select>
+    </div>
+  </div>
+
+  <!-- LABOUR -->
+  <div id="labourMainSection" class="hidden">
+    <div class="topbar">
+      <button id="btnStatewise" class="btnX on">Statewise</button>
+      <button id="btnOccupation" class="btnX">Occupation</button>
+      <button id="btnAgeGender" class="btnX">Age/Gender</button>
+    </div>
+
+    <!-- STATEWISE -->
+    <div id="statewiseSection">
+
+      <div class="topbar">
+        <button id="btnJobSeekers" class="btnX on">Job Seekers</button>
+        <button id="btnRegistered" class="btnX">Registered</button>
+      </div>
+
+      <div id="jobSeekersSection">
+        <div class="controlsBox">
+          <button id="jobSeekersAllBtn" class="btnX">All States</button>
+          <button id="jobSeekersBottom20Btn" class="btnX">Bottom 20</button>
+          <button id="jobSeekersTop20Btn" class="btnX">Top 20</button>
+
+          <label>State:</label>
+          <select id="jobSeekersStateWise"><option>-- file --</option></select>
+        </div>
+      </div>
+
+      <div id="registeredSection" class="hidden">
+        <div class="controlsBox">
+          <button id="registeredStatewiseBtn" class="btnX">Statewise Reg.</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- OCCUPATION -->
+    <div id="occupationSection" class="hidden">
+      <div class="controlsBox">
+        <button id="occupationBtn" class="btnX">Occupation</button>
+      </div>
+    </div>
+
+    <!-- AGE/GENDER -->
+    <div id="ageGenderSection" class="hidden">
+      <div class="controlsBox">
+        <button id="ageBtn" class="btnX">Age</button>
+        <button id="genderBtn" class="btnX">Gender</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- chart mode -->
+  <div id="chartToggleContainer" class="hidden" style="text-align:center; margin:15px 0;">
+    <button id="barBtn" class="btnX">Bar</button>
+    <button id="pieBtn" class="btnX">Pie</button>
+  </div>
+
+  <canvas id="mainChart" width="900" height="430"></canvas>
+
+  <div id="csvArea">
+    <h3>CSV Data</h3>
+    <div style="overflow:auto; max-height:480px; border:1px solid #d3d8dd; border-radius:7px;">
+      <table id="csvDataTable">
+        <thead id="csvTableHead"></thead>
+        <tbody id="csvTableBody"></tbody>
+      </table>
+    </div>
+  </div>
+
+</div>
+
+<script src="/static/script.js"></script>
+</body>
+</html>
