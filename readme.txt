@@ -23,5 +23,5 @@ index.html:
   - All the required buttons, divs and sections to hide/unhide are created here.
 
 
-DATA ANalysis folder contains, code used to clean and process the raw csv fetched
+plots folder contains the data analysis, code used to clean and process the raw csv fetched
 the code was initially ipynb converted to python file for the purpose of submission to academic integrity
