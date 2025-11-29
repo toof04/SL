@@ -1,5 +1,5 @@
 Directory Structure:
-Plots/  - containing the csvs file split into their respective categorized folders
+Plots/  - containing the csvs file split into their respective categorized folders. * Data Visualization code is also stored here *
 static/
       script.js
 templates/
