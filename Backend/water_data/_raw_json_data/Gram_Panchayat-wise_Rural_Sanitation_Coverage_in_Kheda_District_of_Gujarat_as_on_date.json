@@ -1,0 +1,4538 @@
+{
+  "index_name": "b0246b08-1a5f-46f4-b1f7-92b6a417473c",
+  "title": "Gram Panchayat-wise Rural Sanitation Coverage in Kheda District of Gujarat as on date",
+  "desc": "Gram Panchayat-wise Rural Sanitation Coverage in Kheda District of Gujarat as on date",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Jal Shakti",
+    "Department of Drinking Water and Sanitation"
+  ],
+  "sector": [
+    "Water and Sanitation"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1688360433,
+  "updated": 1688364946,
+  "created_date": "2023-07-03T07:00:33Z",
+  "updated_date": "2023-07-03T11:45:46Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "sbm",
+    "type": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+    "field": "b0246b08-1a5f-46f4-b1f7-92b6a417473c"
+  },
+  "field": [
+    {
+      "id": "statename",
+      "name": "StateName",
+      "type": "keyword"
+    },
+    {
+      "id": "districtname",
+      "name": "DistrictName",
+      "type": "keyword"
+    },
+    {
+      "id": "blockname",
+      "name": "BlockName",
+      "type": "keyword"
+    },
+    {
+      "id": "grampanchayatname",
+      "name": "GramPanchayatName",
+      "type": "keyword"
+    },
+    {
+      "id": "ihhltotalasperdetails",
+      "name": "IHHLTotalAsPerDetails",
+      "type": "double"
+    },
+    {
+      "id": "ihhltotalach",
+      "name": "IHHLTotalAch",
+      "type": "double"
+    },
+    {
+      "id": "date",
+      "name": "Date",
+      "type": "keyword"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 496,
+  "count": 496,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "GALTESHWAR",
+      "grampanchayatname": "AMBAV",
+      "ihhltotalasperdetails": 223,
+      "ihhltotalach": 223,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "GALTESHWAR",
+      "grampanchayatname": "ANGHADI",
+      "ihhltotalasperdetails": 1321,
+      "ihhltotalach": 1321,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "GALTESHWAR",
+      "grampanchayatname": "BAHIDAP",
+      "ihhltotalasperdetails": 212,
+      "ihhltotalach": 212,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "GALTESHWAR",
+      "grampanchayatname": "BALADHA",
+      "ihhltotalasperdetails": 105,
+      "ihhltotalach": 105,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "GALTESHWAR",
+      "grampanchayatname": "DABHALI",
+      "ihhltotalasperdetails": 577,
+      "ihhltotalach": 577,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "GALTESHWAR",
+      "grampanchayatname": "DABHSAR",
+      "ihhltotalasperdetails": 268,
+      "ihhltotalach": 268,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "GALTESHWAR",
+      "grampanchayatname": "FATEPURA",
+      "ihhltotalasperdetails": 133,
+      "ihhltotalach": 133,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "GALTESHWAR",
+      "grampanchayatname": "GADHIYA",
+      "ihhltotalasperdetails": 341,
+      "ihhltotalach": 341,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "GALTESHWAR",
+      "grampanchayatname": "GANGAJINAMUVADA",
+      "ihhltotalasperdetails": 205,
+      "ihhltotalach": 205,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "GALTESHWAR",
+      "grampanchayatname": "JARGAL",
+      "ihhltotalasperdetails": 206,
+      "ihhltotalach": 206,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "GALTESHWAR",
+      "grampanchayatname": "KATADI",
+      "ihhltotalasperdetails": 119,
+      "ihhltotalach": 119,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "GALTESHWAR",
+      "grampanchayatname": "KOSAM",
+      "ihhltotalasperdetails": 199,
+      "ihhltotalach": 199,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "GALTESHWAR",
+      "grampanchayatname": "KUNI",
+      "ihhltotalasperdetails": 592,
+      "ihhltotalach": 592,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "GALTESHWAR",
+      "grampanchayatname": "MAHI ITADI",
+      "ihhltotalasperdetails": 687,
+      "ihhltotalach": 687,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "GALTESHWAR",
+      "grampanchayatname": "MALVAN",
+      "ihhltotalasperdetails": 394,
+      "ihhltotalach": 394,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "GALTESHWAR",
+      "grampanchayatname": "MENPURA",
+      "ihhltotalasperdetails": 486,
+      "ihhltotalach": 486,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "GALTESHWAR",
+      "grampanchayatname": "MITHANA MUVADA",
+      "ihhltotalasperdetails": 235,
+      "ihhltotalach": 235,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "GALTESHWAR",
+      "grampanchayatname": "PADAL",
+      "ihhltotalasperdetails": 624,
+      "ihhltotalach": 624,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "GALTESHWAR",
+      "grampanchayatname": "PALAIYA",
+      "ihhltotalasperdetails": 262,
+      "ihhltotalach": 262,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "GALTESHWAR",
+      "grampanchayatname": "PALI",
+      "ihhltotalasperdetails": 1196,
+      "ihhltotalach": 1196,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "GALTESHWAR",
+      "grampanchayatname": "PARABIYA",
+      "ihhltotalasperdetails": 291,
+      "ihhltotalach": 291,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "GALTESHWAR",
+      "grampanchayatname": "RASULPUR PADAL",
+      "ihhltotalasperdetails": 485,
+      "ihhltotalach": 485,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "GALTESHWAR",
+      "grampanchayatname": "ROZVA",
+      "ihhltotalasperdetails": 748,
+      "ihhltotalach": 748,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "GALTESHWAR",
+      "grampanchayatname": "RUSTAMPURA",
+      "ihhltotalasperdetails": 291,
+      "ihhltotalach": 291,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "GALTESHWAR",
+      "grampanchayatname": "SANADRA",
+      "ihhltotalasperdetails": 445,
+      "ihhltotalach": 445,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "GALTESHWAR",
+      "grampanchayatname": "SANGOL",
+      "ihhltotalasperdetails": 302,
+      "ihhltotalach": 302,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "GALTESHWAR",
+      "grampanchayatname": "SARNAL",
+      "ihhltotalasperdetails": 214,
+      "ihhltotalach": 214,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "GALTESHWAR",
+      "grampanchayatname": "SONAIYA",
+      "ihhltotalasperdetails": 295,
+      "ihhltotalach": 295,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "GALTESHWAR",
+      "grampanchayatname": "SONIPUR",
+      "ihhltotalasperdetails": 786,
+      "ihhltotalach": 786,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "GALTESHWAR",
+      "grampanchayatname": "TIMBANA MUVADA",
+      "ihhltotalasperdetails": 434,
+      "ihhltotalach": 434,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "GALTESHWAR",
+      "grampanchayatname": "VADAD",
+      "ihhltotalasperdetails": 510,
+      "ihhltotalach": 510,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "GALTESHWAR",
+      "grampanchayatname": "VANODA",
+      "ihhltotalasperdetails": 290,
+      "ihhltotalach": 290,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "GALTESHWAR",
+      "grampanchayatname": "VASO",
+      "ihhltotalasperdetails": 569,
+      "ihhltotalach": 569,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "GALTESHWAR",
+      "grampanchayatname": "WANGHROLI",
+      "ihhltotalasperdetails": 364,
+      "ihhltotalach": 364,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "ABOCH",
+      "ihhltotalasperdetails": 339,
+      "ihhltotalach": 339,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "ABVEL",
+      "ihhltotalasperdetails": 344,
+      "ihhltotalach": 344,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "AGRAJINAMUVADA",
+      "ihhltotalasperdetails": 131,
+      "ihhltotalach": 131,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "ALAMPUR",
+      "ihhltotalasperdetails": 185,
+      "ihhltotalach": 185,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "ALAWA",
+      "ihhltotalasperdetails": 568,
+      "ihhltotalach": 568,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "AMBALIYARA",
+      "ihhltotalasperdetails": 946,
+      "ihhltotalach": 946,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "ANTISAR",
+      "ihhltotalasperdetails": 1519,
+      "ihhltotalach": 1519,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "ANTROLI",
+      "ihhltotalasperdetails": 1516,
+      "ihhltotalach": 1516,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "ATARSUMBA",
+      "ihhltotalasperdetails": 523,
+      "ihhltotalach": 523,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "BARIYANAMUVADA",
+      "ihhltotalasperdetails": 188,
+      "ihhltotalach": 188,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "BETAVADA",
+      "ihhltotalasperdetails": 229,
+      "ihhltotalach": 229,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "BHAGVANJINIMUVADI",
+      "ihhltotalasperdetails": 502,
+      "ihhltotalach": 502,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "BHAILAKUI",
+      "ihhltotalasperdetails": 157,
+      "ihhltotalach": 157,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "BHOJA NA MUVADA",
+      "ihhltotalasperdetails": 175,
+      "ihhltotalach": 175,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "BHUNGALIYA",
+      "ihhltotalasperdetails": 208,
+      "ihhltotalach": 208,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "BHUTIYA",
+      "ihhltotalasperdetails": 542,
+      "ihhltotalach": 542,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "CHIKHLOD",
+      "ihhltotalasperdetails": 337,
+      "ihhltotalach": 337,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "DAHIYAP",
+      "ihhltotalasperdetails": 476,
+      "ihhltotalach": 476,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "DANA",
+      "ihhltotalasperdetails": 137,
+      "ihhltotalach": 137,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "DANADRA",
+      "ihhltotalasperdetails": 350,
+      "ihhltotalach": 350,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "DANDIYAPUR",
+      "ihhltotalasperdetails": 218,
+      "ihhltotalach": 218,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "DANTALI",
+      "ihhltotalasperdetails": 346,
+      "ihhltotalach": 346,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "DASALVADA",
+      "ihhltotalasperdetails": 438,
+      "ihhltotalach": 438,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "DHOLIVAV",
+      "ihhltotalasperdetails": 154,
+      "ihhltotalach": 154,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "DUDHATHAL",
+      "ihhltotalasperdetails": 475,
+      "ihhltotalach": 475,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "FATIYABAD",
+      "ihhltotalasperdetails": 240,
+      "ihhltotalach": 240,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "GAROD",
+      "ihhltotalasperdetails": 203,
+      "ihhltotalach": 203,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "GHADIYA",
+      "ihhltotalasperdetails": 251,
+      "ihhltotalach": 251,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "GHAUVA",
+      "ihhltotalasperdetails": 122,
+      "ihhltotalach": 122,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "GOCHARNA MUVADA",
+      "ihhltotalasperdetails": 344,
+      "ihhltotalach": 344,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "JAGDUPUR",
+      "ihhltotalasperdetails": 322,
+      "ihhltotalach": 322,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "JALOYA",
+      "ihhltotalasperdetails": 105,
+      "ihhltotalach": 105,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "KABHAINA MUVADA",
+      "ihhltotalasperdetails": 138,
+      "ihhltotalach": 138,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "KALAJI",
+      "ihhltotalasperdetails": 373,
+      "ihhltotalach": 373,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "KARKARIYA",
+      "ihhltotalasperdetails": 145,
+      "ihhltotalach": 145,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "KASHIPURA",
+      "ihhltotalasperdetails": 359,
+      "ihhltotalach": 359,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "KAVATH",
+      "ihhltotalasperdetails": 346,
+      "ihhltotalach": 346,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "KEVADIYA",
+      "ihhltotalasperdetails": 306,
+      "ihhltotalach": 306,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "KHADOL",
+      "ihhltotalasperdetails": 307,
+      "ihhltotalach": 307,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "KOSAM",
+      "ihhltotalasperdetails": 154,
+      "ihhltotalach": 154,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "LADUJINA MUVADA",
+      "ihhltotalasperdetails": 217,
+      "ihhltotalach": 217,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "LAL MANDVA",
+      "ihhltotalasperdetails": 454,
+      "ihhltotalach": 454,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "LALATELINAMUVADA",
+      "ihhltotalasperdetails": 14,
+      "ihhltotalach": 14,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "LALPUR",
+      "ihhltotalasperdetails": 252,
+      "ihhltotalach": 252,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "LETAR",
+      "ihhltotalasperdetails": 211,
+      "ihhltotalach": 211,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "MAHAMADPURA",
+      "ihhltotalasperdetails": 119,
+      "ihhltotalach": 119,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "MAL ITADI BARAIYA BHAG",
+      "ihhltotalasperdetails": 402,
+      "ihhltotalach": 402,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "MAL ITADI PAGI BHAG",
+      "ihhltotalasperdetails": 444,
+      "ihhltotalach": 444,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "MALANA MUVADA",
+      "ihhltotalasperdetails": 114,
+      "ihhltotalach": 114,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "MIRAPUR",
+      "ihhltotalasperdetails": 104,
+      "ihhltotalach": 104,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "MOTI ZER",
+      "ihhltotalasperdetails": 534,
+      "ihhltotalach": 534,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "NANI  ZER",
+      "ihhltotalasperdetails": 369,
+      "ihhltotalach": 369,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "NARSHIPUR",
+      "ihhltotalasperdetails": 691,
+      "ihhltotalach": 691,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "NAVAGAM",
+      "ihhltotalasperdetails": 199,
+      "ihhltotalach": 199,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "NAVAPURA",
+      "ihhltotalasperdetails": 54,
+      "ihhltotalach": 54,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "NIKOL",
+      "ihhltotalasperdetails": 249,
+      "ihhltotalach": 249,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "NIRMALI",
+      "ihhltotalasperdetails": 884,
+      "ihhltotalach": 884,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "PATHODA",
+      "ihhltotalasperdetails": 201,
+      "ihhltotalach": 201,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "PIROJPUR",
+      "ihhltotalasperdetails": 181,
+      "ihhltotalach": 181,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "PUNADARA",
+      "ihhltotalasperdetails": 180,
+      "ihhltotalach": 180,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "RAMOSADI",
+      "ihhltotalasperdetails": 120,
+      "ihhltotalach": 120,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "RAMPURA (SUNDARVADI)",
+      "ihhltotalasperdetails": 363,
+      "ihhltotalach": 363,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "RELIYA",
+      "ihhltotalasperdetails": 202,
+      "ihhltotalach": 202,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "SALOD",
+      "ihhltotalasperdetails": 123,
+      "ihhltotalach": 123,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "SAVALI",
+      "ihhltotalasperdetails": 274,
+      "ihhltotalach": 274,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "SHIHORA",
+      "ihhltotalasperdetails": 46,
+      "ihhltotalach": 46,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "SINGALI",
+      "ihhltotalasperdetails": 326,
+      "ihhltotalach": 326,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "SORNA",
+      "ihhltotalasperdetails": 439,
+      "ihhltotalach": 439,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "SULTANPUR (TAIYABPUR)",
+      "ihhltotalasperdetails": 106,
+      "ihhltotalach": 106,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "SULTANPUR (VADADHARA)",
+      "ihhltotalasperdetails": 217,
+      "ihhltotalach": 217,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "SUNDA",
+      "ihhltotalasperdetails": 211,
+      "ihhltotalach": 211,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "TAIYABPUR",
+      "ihhltotalasperdetails": 359,
+      "ihhltotalach": 359,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "TELNAR",
+      "ihhltotalasperdetails": 639,
+      "ihhltotalach": 639,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "THAVAD",
+      "ihhltotalasperdetails": 430,
+      "ihhltotalach": 430,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "THUNCHAL",
+      "ihhltotalasperdetails": 151,
+      "ihhltotalach": 151,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "TORNA",
+      "ihhltotalasperdetails": 833,
+      "ihhltotalach": 833,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "UKARDINA MUVADA",
+      "ihhltotalasperdetails": 260,
+      "ihhltotalach": 260,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "VADALI",
+      "ihhltotalasperdetails": 454,
+      "ihhltotalach": 454,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "VADOL",
+      "ihhltotalasperdetails": 240,
+      "ihhltotalach": 240,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "VAGHAS",
+      "ihhltotalasperdetails": 116,
+      "ihhltotalach": 116,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "VAGHAVAT",
+      "ihhltotalasperdetails": 75,
+      "ihhltotalach": 75,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "VAGHJIPUR",
+      "ihhltotalasperdetails": 169,
+      "ihhltotalach": 169,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "VALVA MAHUDA",
+      "ihhltotalasperdetails": 145,
+      "ihhltotalach": 145,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "VASANA",
+      "ihhltotalasperdetails": 83,
+      "ihhltotalach": 83,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "VEJALPUR",
+      "ihhltotalasperdetails": 176,
+      "ihhltotalach": 176,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "VIRANIYA",
+      "ihhltotalasperdetails": 8,
+      "ihhltotalach": 8,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "VYAS VASNA",
+      "ihhltotalasperdetails": 183,
+      "ihhltotalach": 183,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "VYASJINA MUVADA",
+      "ihhltotalasperdetails": 201,
+      "ihhltotalach": 201,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KAPADVANJ",
+      "grampanchayatname": "ZANDA",
+      "ihhltotalasperdetails": 310,
+      "ihhltotalach": 310,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KATHLAL",
+      "grampanchayatname": "ABHRIPUR",
+      "ihhltotalasperdetails": 540,
+      "ihhltotalach": 540,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KATHLAL",
+      "grampanchayatname": "ANARA",
+      "ihhltotalasperdetails": 1053,
+      "ihhltotalach": 1053,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KATHLAL",
+      "grampanchayatname": "APRUJI",
+      "ihhltotalasperdetails": 781,
+      "ihhltotalach": 781,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KATHLAL",
+      "grampanchayatname": "ARAL",
+      "ihhltotalasperdetails": 760,
+      "ihhltotalach": 760,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KATHLAL",
+      "grampanchayatname": "BADARPUR",
+      "ihhltotalasperdetails": 526,
+      "ihhltotalach": 526,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KATHLAL",
+      "grampanchayatname": "BAGDOL",
+      "ihhltotalasperdetails": 763,
+      "ihhltotalach": 763,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KATHLAL",
+      "grampanchayatname": "BHAGATNA MUVADA",
+      "ihhltotalasperdetails": 264,
+      "ihhltotalach": 264,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KATHLAL",
+      "grampanchayatname": "BHANER",
+      "ihhltotalasperdetails": 996,
+      "ihhltotalach": 996,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KATHLAL",
+      "grampanchayatname": "BHARKUNDA",
+      "ihhltotalasperdetails": 1777,
+      "ihhltotalach": 1777,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KATHLAL",
+      "grampanchayatname": "BHATERA",
+      "ihhltotalasperdetails": 600,
+      "ihhltotalach": 600,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KATHLAL",
+      "grampanchayatname": "CHARAN NIKOL",
+      "ihhltotalasperdetails": 245,
+      "ihhltotalach": 245,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KATHLAL",
+      "grampanchayatname": "CHARED",
+      "ihhltotalasperdetails": 238,
+      "ihhltotalach": 238,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KATHLAL",
+      "grampanchayatname": "CHELAVAT",
+      "ihhltotalasperdetails": 240,
+      "ihhltotalach": 240,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KATHLAL",
+      "grampanchayatname": "CHHIPADI",
+      "ihhltotalasperdetails": 1790,
+      "ihhltotalach": 1790,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KATHLAL",
+      "grampanchayatname": "CHHIPIAL",
+      "ihhltotalasperdetails": 382,
+      "ihhltotalach": 382,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KATHLAL",
+      "grampanchayatname": "DADANAMUVADA",
+      "ihhltotalasperdetails": 58,
+      "ihhltotalach": 58,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KATHLAL",
+      "grampanchayatname": "DAMPAT",
+      "ihhltotalasperdetails": 663,
+      "ihhltotalach": 663,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KATHLAL",
+      "grampanchayatname": "FAGVEL",
+      "ihhltotalasperdetails": 708,
+      "ihhltotalach": 708,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KATHLAL",
+      "grampanchayatname": "FULCHHATRAPURA",
+      "ihhltotalasperdetails": 248,
+      "ihhltotalach": 248,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KATHLAL",
+      "grampanchayatname": "GADVEL",
+      "ihhltotalasperdetails": 231,
+      "ihhltotalach": 231,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KATHLAL",
+      "grampanchayatname": "GANGADASNI MUVADI",
+      "ihhltotalasperdetails": 123,
+      "ihhltotalach": 123,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KATHLAL",
+      "grampanchayatname": "GANGIYAL",
+      "ihhltotalasperdetails": 356,
+      "ihhltotalach": 356,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KATHLAL",
+      "grampanchayatname": "GHOGHAWADA",
+      "ihhltotalasperdetails": 590,
+      "ihhltotalach": 590,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KATHLAL",
+      "grampanchayatname": "GUGALIYA",
+      "ihhltotalasperdetails": 213,
+      "ihhltotalach": 213,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KATHLAL",
+      "grampanchayatname": "JAMNI",
+      "ihhltotalasperdetails": 362,
+      "ihhltotalach": 362,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KATHLAL",
+      "grampanchayatname": "KAKARKHAD",
+      "ihhltotalasperdetails": 603,
+      "ihhltotalach": 603,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KATHLAL",
+      "grampanchayatname": "KALETAR",
+      "ihhltotalasperdetails": 164,
+      "ihhltotalach": 164,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KATHLAL",
+      "grampanchayatname": "KANIYEL",
+      "ihhltotalasperdetails": 981,
+      "ihhltotalach": 981,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KATHLAL",
+      "grampanchayatname": "KATHANA",
+      "ihhltotalasperdetails": 504,
+      "ihhltotalach": 504,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KATHLAL",
+      "grampanchayatname": "KHADAL",
+      "ihhltotalasperdetails": 315,
+      "ihhltotalach": 315,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KATHLAL",
+      "grampanchayatname": "KHALAL",
+      "ihhltotalasperdetails": 182,
+      "ihhltotalach": 182,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KATHLAL",
+      "grampanchayatname": "KHOKHARWADA",
+      "ihhltotalasperdetails": 1,
+      "ihhltotalach": 1,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KATHLAL",
+      "grampanchayatname": "LADVEL",
+      "ihhltotalasperdetails": 357,
+      "ihhltotalach": 357,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KATHLAL",
+      "grampanchayatname": "LASUNDRA",
+      "ihhltotalasperdetails": 491,
+      "ihhltotalach": 491,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KATHLAL",
+      "grampanchayatname": "LAXMANPURA",
+      "ihhltotalasperdetails": 164,
+      "ihhltotalach": 164,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KATHLAL",
+      "grampanchayatname": "MADADARA",
+      "ihhltotalasperdetails": 2,
+      "ihhltotalach": 2,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KATHLAL",
+      "grampanchayatname": "MIRJAPUR",
+      "ihhltotalasperdetails": 202,
+      "ihhltotalach": 202,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KATHLAL",
+      "grampanchayatname": "MUDEL RATANPUR",
+      "ihhltotalasperdetails": 821,
+      "ihhltotalach": 821,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KATHLAL",
+      "grampanchayatname": "NARPURA ALIAS NARMIYANI MUVADI",
+      "ihhltotalasperdetails": 199,
+      "ihhltotalach": 199,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KATHLAL",
+      "grampanchayatname": "PAHAD",
+      "ihhltotalasperdetails": 126,
+      "ihhltotalach": 126,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KATHLAL",
+      "grampanchayatname": "PATO",
+      "ihhltotalasperdetails": 292,
+      "ihhltotalach": 292,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KATHLAL",
+      "grampanchayatname": "PITHAI",
+      "ihhltotalasperdetails": 916,
+      "ihhltotalach": 916,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KATHLAL",
+      "grampanchayatname": "PORDA BHATERA",
+      "ihhltotalasperdetails": 750,
+      "ihhltotalach": 750,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KATHLAL",
+      "grampanchayatname": "PORDA FAGVEL",
+      "ihhltotalasperdetails": 529,
+      "ihhltotalach": 529,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KATHLAL",
+      "grampanchayatname": "RAVDAVAT",
+      "ihhltotalasperdetails": 822,
+      "ihhltotalach": 822,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KATHLAL",
+      "grampanchayatname": "SANDESAR",
+      "ihhltotalasperdetails": 434,
+      "ihhltotalach": 434,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KATHLAL",
+      "grampanchayatname": "SARALI",
+      "ihhltotalasperdetails": 403,
+      "ihhltotalach": 403,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KATHLAL",
+      "grampanchayatname": "SARKHEJ",
+      "ihhltotalasperdetails": 743,
+      "ihhltotalach": 743,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KATHLAL",
+      "grampanchayatname": "SHAHPUR",
+      "ihhltotalasperdetails": 591,
+      "ihhltotalach": 591,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KATHLAL",
+      "grampanchayatname": "SURAVAT",
+      "ihhltotalasperdetails": 118,
+      "ihhltotalach": 118,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KATHLAL",
+      "grampanchayatname": "VISHVNATHPURA",
+      "ihhltotalasperdetails": 400,
+      "ihhltotalach": 400,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KHEDA",
+      "grampanchayatname": "BHERAI",
+      "ihhltotalasperdetails": 114,
+      "ihhltotalach": 114,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KHEDA",
+      "grampanchayatname": "BIDAJ",
+      "ihhltotalasperdetails": 497,
+      "ihhltotalach": 497,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KHEDA",
+      "grampanchayatname": "CHALINDRA",
+      "ihhltotalasperdetails": 180,
+      "ihhltotalach": 180,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KHEDA",
+      "grampanchayatname": "CHANDNA",
+      "ihhltotalasperdetails": 301,
+      "ihhltotalach": 301,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KHEDA",
+      "grampanchayatname": "CHITRASAR",
+      "ihhltotalasperdetails": 213,
+      "ihhltotalach": 213,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KHEDA",
+      "grampanchayatname": "DAMARI",
+      "ihhltotalasperdetails": 160,
+      "ihhltotalach": 160,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KHEDA",
+      "grampanchayatname": "DEDARDA",
+      "ihhltotalasperdetails": 161,
+      "ihhltotalach": 161,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KHEDA",
+      "grampanchayatname": "DHARODA",
+      "ihhltotalasperdetails": 481,
+      "ihhltotalach": 481,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KHEDA",
+      "grampanchayatname": "DHATHAL",
+      "ihhltotalasperdetails": 174,
+      "ihhltotalach": 174,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KHEDA",
+      "grampanchayatname": "GOBHALAJ",
+      "ihhltotalasperdetails": 406,
+      "ihhltotalach": 406,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KHEDA",
+      "grampanchayatname": "GOVINDPURA",
+      "ihhltotalasperdetails": 116,
+      "ihhltotalach": 116,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KHEDA",
+      "grampanchayatname": "HARIYALA",
+      "ihhltotalasperdetails": 862,
+      "ihhltotalach": 862,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KHEDA",
+      "grampanchayatname": "KAJIPURA",
+      "ihhltotalasperdetails": 389,
+      "ihhltotalach": 389,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KHEDA",
+      "grampanchayatname": "KALOLI",
+      "ihhltotalasperdetails": 397,
+      "ihhltotalach": 397,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KHEDA",
+      "grampanchayatname": "KANERA",
+      "ihhltotalasperdetails": 228,
+      "ihhltotalach": 228,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KHEDA",
+      "grampanchayatname": "KATHWADA",
+      "ihhltotalasperdetails": 300,
+      "ihhltotalach": 300,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KHEDA",
+      "grampanchayatname": "KHUMARVAD",
+      "ihhltotalasperdetails": 1293,
+      "ihhltotalach": 1293,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KHEDA",
+      "grampanchayatname": "LALI",
+      "ihhltotalasperdetails": 384,
+      "ihhltotalach": 384,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KHEDA",
+      "grampanchayatname": "MAHIJ",
+      "ihhltotalasperdetails": 363,
+      "ihhltotalach": 363,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KHEDA",
+      "grampanchayatname": "MALARPURA",
+      "ihhltotalasperdetails": 121,
+      "ihhltotalach": 121,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KHEDA",
+      "grampanchayatname": "NAIKA",
+      "ihhltotalasperdetails": 918,
+      "ihhltotalach": 918,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KHEDA",
+      "grampanchayatname": "NAVAGAM",
+      "ihhltotalasperdetails": 527,
+      "ihhltotalach": 527,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KHEDA",
+      "grampanchayatname": "PANSOLI",
+      "ihhltotalasperdetails": 139,
+      "ihhltotalach": 139,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KHEDA",
+      "grampanchayatname": "PARSANTAJ",
+      "ihhltotalasperdetails": 892,
+      "ihhltotalach": 892,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KHEDA",
+      "grampanchayatname": "PINGLAJ",
+      "ihhltotalasperdetails": 103,
+      "ihhltotalach": 103,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KHEDA",
+      "grampanchayatname": "RADHU",
+      "ihhltotalasperdetails": 1989,
+      "ihhltotalach": 1989,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KHEDA",
+      "grampanchayatname": "RASIKPURA",
+      "ihhltotalasperdetails": 390,
+      "ihhltotalach": 390,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KHEDA",
+      "grampanchayatname": "SAMADRA",
+      "ihhltotalasperdetails": 417,
+      "ihhltotalach": 417,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KHEDA",
+      "grampanchayatname": "SANKHEJ",
+      "ihhltotalasperdetails": 326,
+      "ihhltotalach": 326,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KHEDA",
+      "grampanchayatname": "SARSA",
+      "ihhltotalasperdetails": 278,
+      "ihhltotalach": 278,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KHEDA",
+      "grampanchayatname": "SHETRA",
+      "ihhltotalasperdetails": 186,
+      "ihhltotalach": 186,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KHEDA",
+      "grampanchayatname": "UMIYAPURA",
+      "ihhltotalasperdetails": 25,
+      "ihhltotalach": 25,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KHEDA",
+      "grampanchayatname": "VADALA",
+      "ihhltotalasperdetails": 140,
+      "ihhltotalach": 140,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KHEDA",
+      "grampanchayatname": "VAIKUNTHPURA",
+      "ihhltotalasperdetails": 26,
+      "ihhltotalach": 26,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KHEDA",
+      "grampanchayatname": "VARSANG",
+      "ihhltotalasperdetails": 346,
+      "ihhltotalach": 346,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KHEDA",
+      "grampanchayatname": "VASNA MARGIYA",
+      "ihhltotalasperdetails": 307,
+      "ihhltotalach": 307,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KHEDA",
+      "grampanchayatname": "VASNA-BUJERG",
+      "ihhltotalasperdetails": 138,
+      "ihhltotalach": 138,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KHEDA",
+      "grampanchayatname": "VASNA-KHURD",
+      "ihhltotalasperdetails": 295,
+      "ihhltotalach": 295,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "KHEDA",
+      "grampanchayatname": "VAVDI",
+      "ihhltotalasperdetails": 192,
+      "ihhltotalach": 192,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MAHUDHA",
+      "grampanchayatname": "ALINA",
+      "ihhltotalasperdetails": 2182,
+      "ihhltotalach": 2182,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MAHUDHA",
+      "grampanchayatname": "BAGDU",
+      "ihhltotalasperdetails": 291,
+      "ihhltotalach": 291,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MAHUDHA",
+      "grampanchayatname": "BALADI",
+      "ihhltotalasperdetails": 243,
+      "ihhltotalach": 243,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MAHUDHA",
+      "grampanchayatname": "BALOL",
+      "ihhltotalasperdetails": 426,
+      "ihhltotalach": 426,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MAHUDHA",
+      "grampanchayatname": "BHUMAS",
+      "ihhltotalasperdetails": 586,
+      "ihhltotalach": 586,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MAHUDHA",
+      "grampanchayatname": "CHUNEL",
+      "ihhltotalasperdetails": 1223,
+      "ihhltotalach": 1223,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MAHUDHA",
+      "grampanchayatname": "DADUSAR",
+      "ihhltotalasperdetails": 556,
+      "ihhltotalach": 556,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MAHUDHA",
+      "grampanchayatname": "DHANDHODI",
+      "ihhltotalasperdetails": 361,
+      "ihhltotalach": 361,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MAHUDHA",
+      "grampanchayatname": "FALOLI",
+      "ihhltotalasperdetails": 499,
+      "ihhltotalach": 499,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MAHUDHA",
+      "grampanchayatname": "FINAV",
+      "ihhltotalasperdetails": 373,
+      "ihhltotalach": 373,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MAHUDHA",
+      "grampanchayatname": "HAJATIYA",
+      "ihhltotalasperdetails": 124,
+      "ihhltotalach": 124,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MAHUDHA",
+      "grampanchayatname": "HERANJ",
+      "ihhltotalasperdetails": 674,
+      "ihhltotalach": 674,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MAHUDHA",
+      "grampanchayatname": "KADI",
+      "ihhltotalasperdetails": 134,
+      "ihhltotalach": 134,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MAHUDHA",
+      "grampanchayatname": "KAIYAJ",
+      "ihhltotalasperdetails": 217,
+      "ihhltotalach": 217,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MAHUDHA",
+      "grampanchayatname": "KAPRUPUR",
+      "ihhltotalasperdetails": 186,
+      "ihhltotalach": 186,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MAHUDHA",
+      "grampanchayatname": "KHALADI",
+      "ihhltotalasperdetails": 379,
+      "ihhltotalach": 379,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MAHUDHA",
+      "grampanchayatname": "KHANDIVAV",
+      "ihhltotalasperdetails": 237,
+      "ihhltotalach": 237,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MAHUDHA",
+      "grampanchayatname": "KHUNTAJ",
+      "ihhltotalasperdetails": 682,
+      "ihhltotalach": 682,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MAHUDHA",
+      "grampanchayatname": "MAHISA",
+      "ihhltotalasperdetails": 1809,
+      "ihhltotalach": 1809,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MAHUDHA",
+      "grampanchayatname": "MANGALPUR",
+      "ihhltotalasperdetails": 359,
+      "ihhltotalach": 359,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MAHUDHA",
+      "grampanchayatname": "MEHMEDABAD MUVADA",
+      "ihhltotalasperdetails": 224,
+      "ihhltotalach": 224,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MAHUDHA",
+      "grampanchayatname": "MINAWADA",
+      "ihhltotalasperdetails": 606,
+      "ihhltotalach": 606,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MAHUDHA",
+      "grampanchayatname": "MIRZAPUR",
+      "ihhltotalasperdetails": 150,
+      "ihhltotalach": 150,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MAHUDHA",
+      "grampanchayatname": "MOTI KHADOL",
+      "ihhltotalasperdetails": 194,
+      "ihhltotalach": 194,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MAHUDHA",
+      "grampanchayatname": "MULAJ",
+      "ihhltotalasperdetails": 163,
+      "ihhltotalach": 163,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MAHUDHA",
+      "grampanchayatname": "NADGAM",
+      "ihhltotalasperdetails": 574,
+      "ihhltotalach": 574,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MAHUDHA",
+      "grampanchayatname": "NAGVAL",
+      "ihhltotalasperdetails": 199,
+      "ihhltotalach": 199,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MAHUDHA",
+      "grampanchayatname": "NANI KHADOL",
+      "ihhltotalasperdetails": 564,
+      "ihhltotalach": 564,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MAHUDHA",
+      "grampanchayatname": "NIZAMPURA",
+      "ihhltotalasperdetails": 428,
+      "ihhltotalach": 428,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MAHUDHA",
+      "grampanchayatname": "PORDA",
+      "ihhltotalasperdetails": 150,
+      "ihhltotalach": 150,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MAHUDHA",
+      "grampanchayatname": "RUPPURA",
+      "ihhltotalasperdetails": 709,
+      "ihhltotalach": 709,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MAHUDHA",
+      "grampanchayatname": "SANALI",
+      "ihhltotalasperdetails": 600,
+      "ihhltotalach": 600,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MAHUDHA",
+      "grampanchayatname": "SAPLA",
+      "ihhltotalasperdetails": 378,
+      "ihhltotalach": 378,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MAHUDHA",
+      "grampanchayatname": "SASTAPUR",
+      "ihhltotalasperdetails": 222,
+      "ihhltotalach": 222,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MAHUDHA",
+      "grampanchayatname": "SHERI",
+      "ihhltotalasperdetails": 326,
+      "ihhltotalach": 326,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MAHUDHA",
+      "grampanchayatname": "SINGHALI",
+      "ihhltotalasperdetails": 405,
+      "ihhltotalach": 405,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MAHUDHA",
+      "grampanchayatname": "TORANIYA",
+      "ihhltotalasperdetails": 164,
+      "ihhltotalach": 164,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MAHUDHA",
+      "grampanchayatname": "UNDRA",
+      "ihhltotalasperdetails": 289,
+      "ihhltotalach": 289,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MAHUDHA",
+      "grampanchayatname": "VADTHAL",
+      "ihhltotalasperdetails": 931,
+      "ihhltotalach": 931,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MAHUDHA",
+      "grampanchayatname": "VASNA",
+      "ihhltotalasperdetails": 470,
+      "ihhltotalach": 470,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MATAR",
+      "grampanchayatname": "ANTROLI",
+      "ihhltotalasperdetails": 499,
+      "ihhltotalach": 499,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MATAR",
+      "grampanchayatname": "ASAMALI",
+      "ihhltotalasperdetails": 441,
+      "ihhltotalach": 441,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MATAR",
+      "grampanchayatname": "ASLALI",
+      "ihhltotalasperdetails": 257,
+      "ihhltotalach": 257,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MATAR",
+      "grampanchayatname": "BAMANGAM",
+      "ihhltotalasperdetails": 379,
+      "ihhltotalach": 379,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MATAR",
+      "grampanchayatname": "BARODA",
+      "ihhltotalasperdetails": 218,
+      "ihhltotalach": 218,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MATAR",
+      "grampanchayatname": "BHALADA",
+      "ihhltotalasperdetails": 919,
+      "ihhltotalach": 919,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MATAR",
+      "grampanchayatname": "CHANOR",
+      "ihhltotalasperdetails": 145,
+      "ihhltotalach": 145,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MATAR",
+      "grampanchayatname": "DALOLI",
+      "ihhltotalasperdetails": 329,
+      "ihhltotalach": 329,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MATAR",
+      "grampanchayatname": "DETHLI",
+      "ihhltotalasperdetails": 779,
+      "ihhltotalach": 779,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MATAR",
+      "grampanchayatname": "GARMALA",
+      "ihhltotalasperdetails": 442,
+      "ihhltotalach": 442,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MATAR",
+      "grampanchayatname": "HADEVA",
+      "ihhltotalasperdetails": 277,
+      "ihhltotalach": 277,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MATAR",
+      "grampanchayatname": "HAIJARABAD",
+      "ihhltotalasperdetails": 444,
+      "ihhltotalach": 444,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MATAR",
+      "grampanchayatname": "INDARVARNA",
+      "ihhltotalasperdetails": 339,
+      "ihhltotalach": 339,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MATAR",
+      "grampanchayatname": "KATHODA",
+      "ihhltotalasperdetails": 197,
+      "ihhltotalach": 197,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MATAR",
+      "grampanchayatname": "KHADIYARPURA",
+      "ihhltotalasperdetails": 429,
+      "ihhltotalach": 429,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MATAR",
+      "grampanchayatname": "KHARENTI",
+      "ihhltotalasperdetails": 345,
+      "ihhltotalach": 345,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MATAR",
+      "grampanchayatname": "KOSHIYAL",
+      "ihhltotalasperdetails": 680,
+      "ihhltotalach": 680,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MATAR",
+      "grampanchayatname": "LIMBASI",
+      "ihhltotalasperdetails": 1019,
+      "ihhltotalach": 1019,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MATAR",
+      "grampanchayatname": "MACHHIEL",
+      "ihhltotalasperdetails": 525,
+      "ihhltotalach": 525,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MATAR",
+      "grampanchayatname": "MAHELAJ",
+      "ihhltotalasperdetails": 728,
+      "ihhltotalach": 728,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MATAR",
+      "grampanchayatname": "MALAVADA",
+      "ihhltotalasperdetails": 504,
+      "ihhltotalach": 504,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MATAR",
+      "grampanchayatname": "MARALA",
+      "ihhltotalasperdetails": 3,
+      "ihhltotalach": 3,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MATAR",
+      "grampanchayatname": "MATAR",
+      "ihhltotalasperdetails": 1143,
+      "ihhltotalach": 1143,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MATAR",
+      "grampanchayatname": "NADHANPUR",
+      "ihhltotalasperdetails": 469,
+      "ihhltotalach": 469,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MATAR",
+      "grampanchayatname": "NANDOLI",
+      "ihhltotalasperdetails": 370,
+      "ihhltotalach": 370,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MATAR",
+      "grampanchayatname": "PALLA",
+      "ihhltotalasperdetails": 398,
+      "ihhltotalach": 398,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MATAR",
+      "grampanchayatname": "PARIYEJ",
+      "ihhltotalasperdetails": 473,
+      "ihhltotalach": 473,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MATAR",
+      "grampanchayatname": "PIPARIYA",
+      "ihhltotalasperdetails": 225,
+      "ihhltotalach": 225,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MATAR",
+      "grampanchayatname": "PUNAJ",
+      "ihhltotalasperdetails": 196,
+      "ihhltotalach": 196,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MATAR",
+      "grampanchayatname": "RADHVANAJ",
+      "ihhltotalasperdetails": 384,
+      "ihhltotalach": 384,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MATAR",
+      "grampanchayatname": "RANASAR",
+      "ihhltotalasperdetails": 111,
+      "ihhltotalach": 111,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MATAR",
+      "grampanchayatname": "RATANPUR",
+      "ihhltotalasperdetails": 799,
+      "ihhltotalach": 799,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MATAR",
+      "grampanchayatname": "SANDHANA",
+      "ihhltotalasperdetails": 1148,
+      "ihhltotalach": 1148,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MATAR",
+      "grampanchayatname": "SAYLA",
+      "ihhltotalasperdetails": 382,
+      "ihhltotalach": 382,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MATAR",
+      "grampanchayatname": "SHEKHUPUR",
+      "ihhltotalasperdetails": 391,
+      "ihhltotalach": 391,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MATAR",
+      "grampanchayatname": "SINJIWADA",
+      "ihhltotalasperdetails": 1435,
+      "ihhltotalach": 1435,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MATAR",
+      "grampanchayatname": "SOKHDA",
+      "ihhltotalasperdetails": 435,
+      "ihhltotalach": 435,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MATAR",
+      "grampanchayatname": "TRAJ",
+      "ihhltotalasperdetails": 507,
+      "ihhltotalach": 507,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MATAR",
+      "grampanchayatname": "TRANJA",
+      "ihhltotalasperdetails": 319,
+      "ihhltotalach": 319,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MATAR",
+      "grampanchayatname": "UNDHELA",
+      "ihhltotalasperdetails": 327,
+      "ihhltotalach": 327,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MATAR",
+      "grampanchayatname": "UNTAI",
+      "ihhltotalasperdetails": 223,
+      "ihhltotalach": 223,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MATAR",
+      "grampanchayatname": "VALOTRI",
+      "ihhltotalasperdetails": 274,
+      "ihhltotalach": 274,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MATAR",
+      "grampanchayatname": "VANSAR",
+      "ihhltotalasperdetails": 339,
+      "ihhltotalach": 339,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MATAR",
+      "grampanchayatname": "VASAI",
+      "ihhltotalasperdetails": 196,
+      "ihhltotalach": 196,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MATAR",
+      "grampanchayatname": "VASTANA",
+      "ihhltotalasperdetails": 267,
+      "ihhltotalach": 267,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MATAR",
+      "grampanchayatname": "VIROJA",
+      "ihhltotalasperdetails": 375,
+      "ihhltotalach": 375,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "AJABPURA",
+      "ihhltotalasperdetails": 152,
+      "ihhltotalach": 152,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "AKLACHA",
+      "ihhltotalasperdetails": 384,
+      "ihhltotalach": 384,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "AMRAPURA",
+      "ihhltotalasperdetails": 1,
+      "ihhltotalach": 1,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "AMSARAN",
+      "ihhltotalasperdetails": 617,
+      "ihhltotalach": 617,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "ARERI",
+      "ihhltotalasperdetails": 530,
+      "ihhltotalach": 530,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "BAVRA",
+      "ihhltotalasperdetails": 295,
+      "ihhltotalach": 295,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "BHUMAPURA",
+      "ihhltotalasperdetails": 28,
+      "ihhltotalach": 28,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "CHHAPRA",
+      "ihhltotalasperdetails": 519,
+      "ihhltotalach": 519,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "DAJIPURA",
+      "ihhltotalasperdetails": 186,
+      "ihhltotalach": 186,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "DEVKI VANSOL",
+      "ihhltotalasperdetails": 751,
+      "ihhltotalach": 751,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "GADVA",
+      "ihhltotalasperdetails": 366,
+      "ihhltotalach": 366,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "GHODALI",
+      "ihhltotalasperdetails": 662,
+      "ihhltotalach": 662,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "GHODASAR",
+      "ihhltotalasperdetails": 795,
+      "ihhltotalach": 795,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "GOKALPURA",
+      "ihhltotalasperdetails": 5,
+      "ihhltotalach": 5,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "GOTHAJ",
+      "ihhltotalasperdetails": 281,
+      "ihhltotalach": 281,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "HALDARVAS",
+      "ihhltotalasperdetails": 1673,
+      "ihhltotalach": 1673,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "HATHNOLI",
+      "ihhltotalasperdetails": 361,
+      "ihhltotalach": 361,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "IAWA",
+      "ihhltotalasperdetails": 335,
+      "ihhltotalach": 335,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "JALAMPUR",
+      "ihhltotalasperdetails": 411,
+      "ihhltotalach": 411,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "JALIYA",
+      "ihhltotalasperdetails": 342,
+      "ihhltotalach": 342,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "JARAVAT",
+      "ihhltotalasperdetails": 517,
+      "ihhltotalach": 517,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "JIBHAIPURA",
+      "ihhltotalasperdetails": 6,
+      "ihhltotalach": 6,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "JINJAR",
+      "ihhltotalasperdetails": 361,
+      "ihhltotalach": 361,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "KACHHAI",
+      "ihhltotalasperdetails": 970,
+      "ihhltotalach": 970,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "KANIJ",
+      "ihhltotalasperdetails": 1004,
+      "ihhltotalach": 1004,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "KAROLI",
+      "ihhltotalasperdetails": 982,
+      "ihhltotalach": 982,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "KATAKPURA",
+      "ihhltotalasperdetails": 204,
+      "ihhltotalach": 204,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "KESRA",
+      "ihhltotalasperdetails": 469,
+      "ihhltotalach": 469,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "KHAMBHALI",
+      "ihhltotalasperdetails": 473,
+      "ihhltotalach": 473,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "KHATRAJ",
+      "ihhltotalasperdetails": 1076,
+      "ihhltotalach": 1076,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "KOTHIPURA",
+      "ihhltotalasperdetails": 112,
+      "ihhltotalach": 112,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "KUNA",
+      "ihhltotalasperdetails": 326,
+      "ihhltotalach": 326,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "MALUTAJ",
+      "ihhltotalasperdetails": 137,
+      "ihhltotalach": 137,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "MANKWA",
+      "ihhltotalasperdetails": 1352,
+      "ihhltotalach": 1352,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "MODAJ",
+      "ihhltotalasperdetails": 1480,
+      "ihhltotalach": 1480,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "MOTI ADBOLI",
+      "ihhltotalasperdetails": 167,
+      "ihhltotalach": 167,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "NANI ADBOLI",
+      "ihhltotalasperdetails": 108,
+      "ihhltotalach": 108,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "NAVAGAM (DOLPURA)",
+      "ihhltotalasperdetails": 631,
+      "ihhltotalach": 631,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "NAVCHETAN",
+      "ihhltotalasperdetails": 357,
+      "ihhltotalach": 357,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "NENPUR",
+      "ihhltotalasperdetails": 921,
+      "ihhltotalach": 921,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "PAHAD",
+      "ihhltotalasperdetails": 252,
+      "ihhltotalach": 252,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "PATHAVAT",
+      "ihhltotalasperdetails": 6,
+      "ihhltotalach": 6,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "RASKA",
+      "ihhltotalasperdetails": 401,
+      "ihhltotalach": 401,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "RATANPURA",
+      "ihhltotalasperdetails": 252,
+      "ihhltotalach": 252,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "RINCHHOL",
+      "ihhltotalasperdetails": 726,
+      "ihhltotalach": 726,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "ROHISA",
+      "ihhltotalasperdetails": 309,
+      "ihhltotalach": 309,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "RUDAN",
+      "ihhltotalasperdetails": 1481,
+      "ihhltotalach": 1481,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "SADRA",
+      "ihhltotalasperdetails": 254,
+      "ihhltotalach": 254,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "SAMASPUR",
+      "ihhltotalasperdetails": 346,
+      "ihhltotalach": 346,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "SANSOLI",
+      "ihhltotalasperdetails": 824,
+      "ihhltotalach": 824,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "SARSAVANI",
+      "ihhltotalasperdetails": 912,
+      "ihhltotalach": 912,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "SHATRUNDA",
+      "ihhltotalasperdetails": 683,
+      "ihhltotalach": 683,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "SIHUNJ",
+      "ihhltotalasperdetails": 1254,
+      "ihhltotalach": 1254,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "SOJALI",
+      "ihhltotalasperdetails": 553,
+      "ihhltotalach": 553,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "SUNDHA",
+      "ihhltotalasperdetails": 502,
+      "ihhltotalach": 502,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "VADADLA",
+      "ihhltotalasperdetails": 399,
+      "ihhltotalach": 399,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "VAGHAVAT",
+      "ihhltotalasperdetails": 371,
+      "ihhltotalach": 371,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "VAMALI",
+      "ihhltotalasperdetails": 168,
+      "ihhltotalach": 168,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "VANSOL SUNDHA",
+      "ihhltotalasperdetails": 658,
+      "ihhltotalach": 658,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "VANSOLI",
+      "ihhltotalasperdetails": 200,
+      "ihhltotalach": 200,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "VARSOLA",
+      "ihhltotalasperdetails": 435,
+      "ihhltotalach": 435,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "VIROL",
+      "ihhltotalasperdetails": 259,
+      "ihhltotalach": 259,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "MEHMEDABAD",
+      "grampanchayatname": "WANTHVALI",
+      "ihhltotalasperdetails": 1743,
+      "ihhltotalach": 1743,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "NADIAD",
+      "grampanchayatname": "AKHDOL",
+      "ihhltotalasperdetails": 428,
+      "ihhltotalach": 428,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "NADIAD",
+      "grampanchayatname": "ALINDRA",
+      "ihhltotalasperdetails": 592,
+      "ihhltotalach": 592,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "NADIAD",
+      "grampanchayatname": "ALJADA",
+      "ihhltotalasperdetails": 6,
+      "ihhltotalach": 6,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "NADIAD",
+      "grampanchayatname": "ANDHAJ",
+      "ihhltotalasperdetails": 180,
+      "ihhltotalach": 180,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "NADIAD",
+      "grampanchayatname": "ARAJANPUR KOT",
+      "ihhltotalasperdetails": 207,
+      "ihhltotalach": 207,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "NADIAD",
+      "grampanchayatname": "ARERA",
+      "ihhltotalasperdetails": 775,
+      "ihhltotalach": 775,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "NADIAD",
+      "grampanchayatname": "BHUMEL",
+      "ihhltotalasperdetails": 727,
+      "ihhltotalach": 727,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "NADIAD",
+      "grampanchayatname": "BILODRA",
+      "ihhltotalasperdetails": 517,
+      "ihhltotalach": 517,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "NADIAD",
+      "grampanchayatname": "CHALALI",
+      "ihhltotalasperdetails": 1259,
+      "ihhltotalach": 1259,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "NADIAD",
+      "grampanchayatname": "DABHAN",
+      "ihhltotalasperdetails": 1201,
+      "ihhltotalach": 1201,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "NADIAD",
+      "grampanchayatname": "DAVDA",
+      "ihhltotalasperdetails": 795,
+      "ihhltotalach": 795,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "NADIAD",
+      "grampanchayatname": "DAWAPURA",
+      "ihhltotalasperdetails": 1,
+      "ihhltotalach": 1,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "NADIAD",
+      "grampanchayatname": "DEGAM",
+      "ihhltotalasperdetails": 662,
+      "ihhltotalach": 662,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "NADIAD",
+      "grampanchayatname": "DUMRAL",
+      "ihhltotalasperdetails": 662,
+      "ihhltotalach": 662,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "NADIAD",
+      "grampanchayatname": "FATEPUR",
+      "ihhltotalasperdetails": 556,
+      "ihhltotalach": 556,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "NADIAD",
+      "grampanchayatname": "GUTAL",
+      "ihhltotalasperdetails": 479,
+      "ihhltotalach": 479,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "NADIAD",
+      "grampanchayatname": "HATHAJ",
+      "ihhltotalasperdetails": 1049,
+      "ihhltotalach": 1049,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "NADIAD",
+      "grampanchayatname": "HATHNOLI",
+      "ihhltotalasperdetails": 302,
+      "ihhltotalach": 302,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "NADIAD",
+      "grampanchayatname": "JAVOL",
+      "ihhltotalasperdetails": 523,
+      "ihhltotalach": 523,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "NADIAD",
+      "grampanchayatname": "KAMLA (PART)",
+      "ihhltotalasperdetails": 539,
+      "ihhltotalach": 539,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "NADIAD",
+      "grampanchayatname": "KANJODA",
+      "ihhltotalasperdetails": 870,
+      "ihhltotalach": 870,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "NADIAD",
+      "grampanchayatname": "KERIAVI",
+      "ihhltotalasperdetails": 898,
+      "ihhltotalach": 898,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "NADIAD",
+      "grampanchayatname": "MAHOLEL",
+      "ihhltotalasperdetails": 1167,
+      "ihhltotalach": 1167,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "NADIAD",
+      "grampanchayatname": "MANJIPURA (PART)",
+      "ihhltotalasperdetails": 993,
+      "ihhltotalach": 993,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "NADIAD",
+      "grampanchayatname": "MARIDA",
+      "ihhltotalasperdetails": 728,
+      "ihhltotalach": 728,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "NADIAD",
+      "grampanchayatname": "MONGHROLI",
+      "ihhltotalasperdetails": 415,
+      "ihhltotalach": 415,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "NADIAD",
+      "grampanchayatname": "NANA VAGA",
+      "ihhltotalasperdetails": 377,
+      "ihhltotalach": 377,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "NADIAD",
+      "grampanchayatname": "NARSANDA",
+      "ihhltotalasperdetails": 1186,
+      "ihhltotalach": 1186,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "NADIAD",
+      "grampanchayatname": "NAVAGAM",
+      "ihhltotalasperdetails": 538,
+      "ihhltotalach": 538,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "NADIAD",
+      "grampanchayatname": "PALAIYA",
+      "ihhltotalasperdetails": 548,
+      "ihhltotalach": 548,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "NADIAD",
+      "grampanchayatname": "PALDI",
+      "ihhltotalasperdetails": 646,
+      "ihhltotalach": 646,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "NADIAD",
+      "grampanchayatname": "PIPLAG",
+      "ihhltotalasperdetails": 831,
+      "ihhltotalach": 831,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "NADIAD",
+      "grampanchayatname": "PIPLATA",
+      "ihhltotalasperdetails": 672,
+      "ihhltotalach": 672,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "NADIAD",
+      "grampanchayatname": "RAJNAGAR",
+      "ihhltotalasperdetails": 215,
+      "ihhltotalach": 215,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "NADIAD",
+      "grampanchayatname": "SALUN TALPAD",
+      "ihhltotalasperdetails": 523,
+      "ihhltotalach": 523,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "NADIAD",
+      "grampanchayatname": "SALUN VANTO",
+      "ihhltotalasperdetails": 596,
+      "ihhltotalach": 596,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "NADIAD",
+      "grampanchayatname": "SILOD",
+      "ihhltotalasperdetails": 635,
+      "ihhltotalach": 635,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "NADIAD",
+      "grampanchayatname": "SODPUR",
+      "ihhltotalasperdetails": 1174,
+      "ihhltotalach": 1174,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "NADIAD",
+      "grampanchayatname": "SURASAMAL",
+      "ihhltotalasperdetails": 941,
+      "ihhltotalach": 941,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "NADIAD",
+      "grampanchayatname": "TUNDEL",
+      "ihhltotalasperdetails": 592,
+      "ihhltotalach": 592,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "NADIAD",
+      "grampanchayatname": "UTTARSANDA",
+      "ihhltotalasperdetails": 794,
+      "ihhltotalach": 794,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "NADIAD",
+      "grampanchayatname": "VADTAL",
+      "ihhltotalasperdetails": 731,
+      "ihhltotalach": 731,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "NADIAD",
+      "grampanchayatname": "VALETVA",
+      "ihhltotalasperdetails": 497,
+      "ihhltotalach": 497,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "NADIAD",
+      "grampanchayatname": "VALLA",
+      "ihhltotalasperdetails": 98,
+      "ihhltotalach": 98,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "NADIAD",
+      "grampanchayatname": "VINA",
+      "ihhltotalasperdetails": 570,
+      "ihhltotalach": 570,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "NADIAD",
+      "grampanchayatname": "YOGINAGAR",
+      "ihhltotalasperdetails": 2,
+      "ihhltotalach": 2,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "AGARWA",
+      "ihhltotalasperdetails": 414,
+      "ihhltotalach": 414,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "AJROLI",
+      "ihhltotalasperdetails": 235,
+      "ihhltotalach": 235,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "AJUPURA",
+      "ihhltotalasperdetails": 74,
+      "ihhltotalach": 74,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "AKLACH",
+      "ihhltotalasperdetails": 205,
+      "ihhltotalach": 205,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "AMRUTPURA",
+      "ihhltotalasperdetails": 242,
+      "ihhltotalach": 242,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "AURANGPURA",
+      "ihhltotalasperdetails": 74,
+      "ihhltotalach": 74,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "BADHARPURA",
+      "ihhltotalasperdetails": 176,
+      "ihhltotalach": 176,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "BHADRASA",
+      "ihhltotalasperdetails": 306,
+      "ihhltotalach": 306,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "BHARTHARI",
+      "ihhltotalasperdetails": 284,
+      "ihhltotalach": 284,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "BHATVASNA",
+      "ihhltotalasperdetails": 207,
+      "ihhltotalach": 207,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "BORDI",
+      "ihhltotalasperdetails": 495,
+      "ihhltotalach": 495,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "CHANDASAR",
+      "ihhltotalasperdetails": 255,
+      "ihhltotalach": 255,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "CHETARSUMBA",
+      "ihhltotalasperdetails": 277,
+      "ihhltotalach": 277,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "CHITLAV",
+      "ihhltotalasperdetails": 312,
+      "ihhltotalach": 312,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "DHUNADARA",
+      "ihhltotalasperdetails": 970,
+      "ihhltotalach": 970,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "DHUNDI",
+      "ihhltotalasperdetails": 366,
+      "ihhltotalach": 366,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "EKALVELU",
+      "ihhltotalasperdetails": 242,
+      "ihhltotalach": 242,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "GOLAJ",
+      "ihhltotalasperdetails": 337,
+      "ihhltotalach": 337,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "GUMADIYA",
+      "ihhltotalasperdetails": 185,
+      "ihhltotalach": 185,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "HARKHOL",
+      "ihhltotalasperdetails": 245,
+      "ihhltotalach": 245,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "HIMATNAGAR(LAT)",
+      "ihhltotalasperdetails": 2,
+      "ihhltotalach": 2,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "JAKHED",
+      "ihhltotalasperdetails": 447,
+      "ihhltotalach": 447,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "JALANAGAR",
+      "ihhltotalasperdetails": 341,
+      "ihhltotalach": 341,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "JESAPURA",
+      "ihhltotalasperdetails": 17,
+      "ihhltotalach": 17,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "JESAPURA MITHAPURA",
+      "ihhltotalasperdetails": 589,
+      "ihhltotalach": 589,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "JORAPURA",
+      "ihhltotalasperdetails": 309,
+      "ihhltotalach": 309,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "KALSAR",
+      "ihhltotalasperdetails": 774,
+      "ihhltotalach": 774,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "KHAD GODHRA",
+      "ihhltotalasperdetails": 244,
+      "ihhltotalach": 244,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "KHERANAMUVADA",
+      "ihhltotalasperdetails": 3,
+      "ihhltotalach": 3,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "KHIJALPUR TALPAD",
+      "ihhltotalasperdetails": 312,
+      "ihhltotalach": 312,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "KHIJALPUR VANTO",
+      "ihhltotalasperdetails": 300,
+      "ihhltotalach": 300,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "KOTARIYA",
+      "ihhltotalasperdetails": 307,
+      "ihhltotalach": 307,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "KOTLINDORA",
+      "ihhltotalasperdetails": 372,
+      "ihhltotalach": 372,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "MALAI",
+      "ihhltotalasperdetails": 192,
+      "ihhltotalach": 192,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "MANJIPURA",
+      "ihhltotalasperdetails": 377,
+      "ihhltotalach": 377,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "MARGHAKUI",
+      "ihhltotalasperdetails": 170,
+      "ihhltotalach": 170,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "MASRA",
+      "ihhltotalasperdetails": 443,
+      "ihhltotalach": 443,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "MORAMBLI",
+      "ihhltotalasperdetails": 248,
+      "ihhltotalach": 248,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "MULIYAD",
+      "ihhltotalasperdetails": 416,
+      "ihhltotalach": 416,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "NANADARA",
+      "ihhltotalasperdetails": 274,
+      "ihhltotalach": 274,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "NES",
+      "ihhltotalasperdetails": 275,
+      "ihhltotalach": 275,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "OZARALA",
+      "ihhltotalasperdetails": 144,
+      "ihhltotalach": 144,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "PANDVANIA",
+      "ihhltotalasperdetails": 317,
+      "ihhltotalach": 317,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "PILOL",
+      "ihhltotalasperdetails": 67,
+      "ihhltotalach": 67,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "PIPALVADA",
+      "ihhltotalasperdetails": 638,
+      "ihhltotalach": 638,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "PORDA",
+      "ihhltotalasperdetails": 402,
+      "ihhltotalach": 402,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "RAKHIYAL (PART)",
+      "ihhltotalasperdetails": 232,
+      "ihhltotalach": 232,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "RANI PORDA",
+      "ihhltotalasperdetails": 77,
+      "ihhltotalach": 77,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "RANIYA",
+      "ihhltotalasperdetails": 834,
+      "ihhltotalach": 834,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "RASULPUR THASRA",
+      "ihhltotalasperdetails": 242,
+      "ihhltotalach": 242,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "RAWALIYA",
+      "ihhltotalasperdetails": 347,
+      "ihhltotalach": 347,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "SAIYAT",
+      "ihhltotalasperdetails": 443,
+      "ihhltotalach": 443,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "SALUN",
+      "ihhltotalasperdetails": 291,
+      "ihhltotalach": 291,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "SANDHELI",
+      "ihhltotalasperdetails": 570,
+      "ihhltotalach": 570,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "SANDHELIYA",
+      "ihhltotalasperdetails": 167,
+      "ihhltotalach": 167,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "SHAHPURA",
+      "ihhltotalasperdetails": 335,
+      "ihhltotalach": 335,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "SHAMARPURA",
+      "ihhltotalasperdetails": 116,
+      "ihhltotalach": 116,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "SIMLAJ",
+      "ihhltotalasperdetails": 177,
+      "ihhltotalach": 177,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "SUI",
+      "ihhltotalasperdetails": 456,
+      "ihhltotalach": 456,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "UDHMATPURA",
+      "ihhltotalasperdetails": 228,
+      "ihhltotalach": 228,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "UMBA",
+      "ihhltotalasperdetails": 370,
+      "ihhltotalach": 370,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "VAJEWAL",
+      "ihhltotalasperdetails": 212,
+      "ihhltotalach": 212,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "VALLAVPURA",
+      "ihhltotalasperdetails": 113,
+      "ihhltotalach": 113,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "VANOTI",
+      "ihhltotalasperdetails": 543,
+      "ihhltotalach": 543,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "VINZOL",
+      "ihhltotalasperdetails": 320,
+      "ihhltotalach": 320,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "THASRA",
+      "grampanchayatname": "VITHALPURA",
+      "ihhltotalasperdetails": 157,
+      "ihhltotalach": 157,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "VASO",
+      "grampanchayatname": "ALINDRA",
+      "ihhltotalasperdetails": 311,
+      "ihhltotalach": 311,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "VASO",
+      "grampanchayatname": "BAMROLI",
+      "ihhltotalasperdetails": 1589,
+      "ihhltotalach": 1589,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "VASO",
+      "grampanchayatname": "DANTALI",
+      "ihhltotalasperdetails": 1522,
+      "ihhltotalach": 1522,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "VASO",
+      "grampanchayatname": "DEVA VANTA",
+      "ihhltotalasperdetails": 443,
+      "ihhltotalach": 443,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "VASO",
+      "grampanchayatname": "GANGAPUR",
+      "ihhltotalasperdetails": 162,
+      "ihhltotalach": 162,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "VASO",
+      "grampanchayatname": "HERANJ",
+      "ihhltotalasperdetails": 368,
+      "ihhltotalach": 368,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "VASO",
+      "grampanchayatname": "KALOLI",
+      "ihhltotalasperdetails": 587,
+      "ihhltotalach": 587,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "VASO",
+      "grampanchayatname": "KHANDHLI",
+      "ihhltotalasperdetails": 411,
+      "ihhltotalach": 411,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "VASO",
+      "grampanchayatname": "LAVAL",
+      "ihhltotalasperdetails": 409,
+      "ihhltotalach": 409,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "VASO",
+      "grampanchayatname": "MALIYATAJ",
+      "ihhltotalasperdetails": 564,
+      "ihhltotalach": 564,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "VASO",
+      "grampanchayatname": "MITRAL",
+      "ihhltotalasperdetails": 1072,
+      "ihhltotalach": 1072,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "VASO",
+      "grampanchayatname": "NAVAGAM(P)",
+      "ihhltotalasperdetails": 267,
+      "ihhltotalach": 267,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "VASO",
+      "grampanchayatname": "PALANA",
+      "ihhltotalasperdetails": 860,
+      "ihhltotalach": 860,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "VASO",
+      "grampanchayatname": "PETLI",
+      "ihhltotalasperdetails": 1233,
+      "ihhltotalach": 1233,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "VASO",
+      "grampanchayatname": "PIJ",
+      "ihhltotalasperdetails": 1418,
+      "ihhltotalach": 1418,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "VASO",
+      "grampanchayatname": "RAMOL",
+      "ihhltotalasperdetails": 1176,
+      "ihhltotalach": 1176,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "VASO",
+      "grampanchayatname": "RAMPURA",
+      "ihhltotalasperdetails": 477,
+      "ihhltotalach": 477,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "VASO",
+      "grampanchayatname": "RUN",
+      "ihhltotalasperdetails": 357,
+      "ihhltotalach": 357,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "VASO",
+      "grampanchayatname": "SIHOLDI",
+      "ihhltotalasperdetails": 455,
+      "ihhltotalach": 455,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "VASO",
+      "grampanchayatname": "THALEDI",
+      "ihhltotalasperdetails": 268,
+      "ihhltotalach": 268,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "VASO",
+      "grampanchayatname": "VASO",
+      "ihhltotalasperdetails": 1734,
+      "ihhltotalach": 1734,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "KHEDA",
+      "blockname": "VASO",
+      "grampanchayatname": "ZAROL",
+      "ihhltotalasperdetails": 365,
+      "ihhltotalach": 365,
+      "date": "5/19/2020 12:00:00 AM"
+    }
+  ]
+}

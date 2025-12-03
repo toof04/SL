@@ -1,0 +1,481 @@
+{
+  "index_name": "fb044d2b-eaac-4222-a867-9b090f1144a1",
+  "title": "State Wise Distribution Of Enterprises By Type Of Organisation (Fourth All India Census of MSME: Unregistered Sector)",
+  "desc": "State Wise Distribution Of Enterprises By Type Of Organisation (Fourth All India Census of MSME: Unregistered Sector)",
+  "created": 1565003303,
+  "updated": 1565003303,
+  "created_date": "2019-08-05T16:38:23Z",
+  "updated_date": "2019-08-05T16:38:23Z",
+  "active": "1",
+  "visualizable": "1",
+  "catalog_uuid": "3fb4ce90-2f08-4a80-92a5-aaeec8082cd9",
+  "source": "data.gov.in",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Micro, Small and Medium Enterprises"
+  ],
+  "sector": [
+    "Industries",
+    "Micro",
+    "Small Scale"
+  ],
+  "field": [
+    {
+      "id": "sl_no",
+      "name": "Sl No",
+      "type": "double"
+    },
+    {
+      "id": "state_ut",
+      "name": "State/UT",
+      "type": "keyword"
+    },
+    {
+      "id": "proprietary_numbers_in_lakhs_",
+      "name": "Proprietary (Numbers in Lakhs)",
+      "type": "double"
+    },
+    {
+      "id": "partnership_numbers_in_lakhs_",
+      "name": "Partnership (Numbers in Lakhs)",
+      "type": "double"
+    },
+    {
+      "id": "private_co_numbers_in_lakhs_",
+      "name": "Private Co. (Numbers in Lakhs)",
+      "type": "double"
+    },
+    {
+      "id": "co_operative_numbers_in_lakhs_",
+      "name": "Co-operative (Numbers in Lakhs)",
+      "type": "double"
+    },
+    {
+      "id": "others_numbers_in_lakhs_",
+      "name": "Others (Numbers in Lakhs)",
+      "type": "double"
+    },
+    {
+      "id": "not_recorded_numbers_in_lakhs_",
+      "name": "Not Recorded (Numbers in Lakhs)",
+      "type": "double"
+    },
+    {
+      "id": "total_numbers_in_lakhs_",
+      "name": "Total (Numbers in Lakhs)",
+      "type": "double"
+    }
+  ],
+  "target_bucket": {
+    "index": "api",
+    "type": "3fb4ce90-2f08-4a80-92a5-aaeec8082cd9",
+    "field": "fb044d2b-eaac-4222-a867-9b090f1144a1"
+  },
+  "external_ws_url": "",
+  "external_ws": "0",
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 36,
+  "count": 36,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "sl_no": 1,
+      "state_ut": "Jammu and Kashmir",
+      "proprietary_numbers_in_lakhs_": 0.98,
+      "partnership_numbers_in_lakhs_": 0.02,
+      "private_co_numbers_in_lakhs_": 0,
+      "co_operative_numbers_in_lakhs_": 0,
+      "others_numbers_in_lakhs_": 0.02,
+      "not_recorded_numbers_in_lakhs_": 0.17,
+      "total_numbers_in_lakhs_": 1.18
+    },
+    {
+      "sl_no": 2,
+      "state_ut": "Himachal Pradesh",
+      "proprietary_numbers_in_lakhs_": 1.52,
+      "partnership_numbers_in_lakhs_": 0.01,
+      "private_co_numbers_in_lakhs_": 0,
+      "co_operative_numbers_in_lakhs_": 0,
+      "others_numbers_in_lakhs_": 0,
+      "not_recorded_numbers_in_lakhs_": 0.06,
+      "total_numbers_in_lakhs_": 1.6
+    },
+    {
+      "sl_no": 3,
+      "state_ut": "Punjab",
+      "proprietary_numbers_in_lakhs_": 9.22,
+      "partnership_numbers_in_lakhs_": 0.2,
+      "private_co_numbers_in_lakhs_": 0,
+      "co_operative_numbers_in_lakhs_": 0,
+      "others_numbers_in_lakhs_": 0.04,
+      "not_recorded_numbers_in_lakhs_": 0.19,
+      "total_numbers_in_lakhs_": 9.66
+    },
+    {
+      "sl_no": 4,
+      "state_ut": "Chandigarh",
+      "proprietary_numbers_in_lakhs_": 0,
+      "partnership_numbers_in_lakhs_": 0,
+      "private_co_numbers_in_lakhs_": 0,
+      "co_operative_numbers_in_lakhs_": 0,
+      "others_numbers_in_lakhs_": 0,
+      "not_recorded_numbers_in_lakhs_": 0.28,
+      "total_numbers_in_lakhs_": 0.28
+    },
+    {
+      "sl_no": 5,
+      "state_ut": "Uttarakhand",
+      "proprietary_numbers_in_lakhs_": 1.96,
+      "partnership_numbers_in_lakhs_": 0.01,
+      "private_co_numbers_in_lakhs_": 0,
+      "co_operative_numbers_in_lakhs_": 0,
+      "others_numbers_in_lakhs_": 0,
+      "not_recorded_numbers_in_lakhs_": 0.02,
+      "total_numbers_in_lakhs_": 2
+    },
+    {
+      "sl_no": 6,
+      "state_ut": "Haryana",
+      "proprietary_numbers_in_lakhs_": 4.3,
+      "partnership_numbers_in_lakhs_": 0.07,
+      "private_co_numbers_in_lakhs_": 0,
+      "co_operative_numbers_in_lakhs_": 0,
+      "others_numbers_in_lakhs_": 0.31,
+      "not_recorded_numbers_in_lakhs_": 0.18,
+      "total_numbers_in_lakhs_": 4.87
+    },
+    {
+      "sl_no": 7,
+      "state_ut": "Delhi",
+      "proprietary_numbers_in_lakhs_": 1.5,
+      "partnership_numbers_in_lakhs_": 0.02,
+      "private_co_numbers_in_lakhs_": 0.01,
+      "co_operative_numbers_in_lakhs_": 0,
+      "others_numbers_in_lakhs_": 0.19,
+      "not_recorded_numbers_in_lakhs_": 0.03,
+      "total_numbers_in_lakhs_": 1.75
+    },
+    {
+      "sl_no": 8,
+      "state_ut": "Rajasthan",
+      "proprietary_numbers_in_lakhs_": 8.6,
+      "partnership_numbers_in_lakhs_": 0.04,
+      "private_co_numbers_in_lakhs_": 0,
+      "co_operative_numbers_in_lakhs_": 0.05,
+      "others_numbers_in_lakhs_": 0.14,
+      "not_recorded_numbers_in_lakhs_": 0.31,
+      "total_numbers_in_lakhs_": 9.14
+    },
+    {
+      "sl_no": 9,
+      "state_ut": "Uttar Pradesh",
+      "proprietary_numbers_in_lakhs_": 21.32,
+      "partnership_numbers_in_lakhs_": 0.3,
+      "private_co_numbers_in_lakhs_": 0,
+      "co_operative_numbers_in_lakhs_": 0,
+      "others_numbers_in_lakhs_": 0.09,
+      "not_recorded_numbers_in_lakhs_": 0.62,
+      "total_numbers_in_lakhs_": 22.34
+    },
+    {
+      "sl_no": 10,
+      "state_ut": "Bihar",
+      "proprietary_numbers_in_lakhs_": 6.81,
+      "partnership_numbers_in_lakhs_": 0.1,
+      "private_co_numbers_in_lakhs_": 0,
+      "co_operative_numbers_in_lakhs_": 0.03,
+      "others_numbers_in_lakhs_": 0.33,
+      "not_recorded_numbers_in_lakhs_": 0.21,
+      "total_numbers_in_lakhs_": 7.48
+    },
+    {
+      "sl_no": 11,
+      "state_ut": "Sikkim",
+      "proprietary_numbers_in_lakhs_": 0,
+      "partnership_numbers_in_lakhs_": 0,
+      "private_co_numbers_in_lakhs_": 0,
+      "co_operative_numbers_in_lakhs_": 0,
+      "others_numbers_in_lakhs_": 0,
+      "not_recorded_numbers_in_lakhs_": 0.06,
+      "total_numbers_in_lakhs_": 0.06
+    },
+    {
+      "sl_no": 12,
+      "state_ut": "Arunachal Pradesh",
+      "proprietary_numbers_in_lakhs_": 0.2,
+      "partnership_numbers_in_lakhs_": 0,
+      "private_co_numbers_in_lakhs_": 0,
+      "co_operative_numbers_in_lakhs_": 0.01,
+      "others_numbers_in_lakhs_": 0,
+      "not_recorded_numbers_in_lakhs_": 0.04,
+      "total_numbers_in_lakhs_": 0.25
+    },
+    {
+      "sl_no": 13,
+      "state_ut": "Nagaland",
+      "proprietary_numbers_in_lakhs_": 0.14,
+      "partnership_numbers_in_lakhs_": 0,
+      "private_co_numbers_in_lakhs_": 0,
+      "co_operative_numbers_in_lakhs_": 0,
+      "others_numbers_in_lakhs_": 0,
+      "not_recorded_numbers_in_lakhs_": 0.03,
+      "total_numbers_in_lakhs_": 0.16
+    },
+    {
+      "sl_no": 14,
+      "state_ut": "Manipur",
+      "proprietary_numbers_in_lakhs_": 0.11,
+      "partnership_numbers_in_lakhs_": 0,
+      "private_co_numbers_in_lakhs_": 0,
+      "co_operative_numbers_in_lakhs_": 0,
+      "others_numbers_in_lakhs_": 0,
+      "not_recorded_numbers_in_lakhs_": 0.33,
+      "total_numbers_in_lakhs_": 0.44
+    },
+    {
+      "sl_no": 15,
+      "state_ut": "Mizoram",
+      "proprietary_numbers_in_lakhs_": 0.03,
+      "partnership_numbers_in_lakhs_": 0,
+      "private_co_numbers_in_lakhs_": 0,
+      "co_operative_numbers_in_lakhs_": 0,
+      "others_numbers_in_lakhs_": 0,
+      "not_recorded_numbers_in_lakhs_": 0.06,
+      "total_numbers_in_lakhs_": 0.1
+    },
+    {
+      "sl_no": 16,
+      "state_ut": "Tripura",
+      "proprietary_numbers_in_lakhs_": 0.26,
+      "partnership_numbers_in_lakhs_": 0,
+      "private_co_numbers_in_lakhs_": 0,
+      "co_operative_numbers_in_lakhs_": 0,
+      "others_numbers_in_lakhs_": 0,
+      "not_recorded_numbers_in_lakhs_": 0,
+      "total_numbers_in_lakhs_": 0.26
+    },
+    {
+      "sl_no": 17,
+      "state_ut": "Meghalaya",
+      "proprietary_numbers_in_lakhs_": 0.43,
+      "partnership_numbers_in_lakhs_": 0,
+      "private_co_numbers_in_lakhs_": 0,
+      "co_operative_numbers_in_lakhs_": 0,
+      "others_numbers_in_lakhs_": 0,
+      "not_recorded_numbers_in_lakhs_": 0.04,
+      "total_numbers_in_lakhs_": 0.47
+    },
+    {
+      "sl_no": 18,
+      "state_ut": "Assam",
+      "proprietary_numbers_in_lakhs_": 2.01,
+      "partnership_numbers_in_lakhs_": 0.06,
+      "private_co_numbers_in_lakhs_": 0,
+      "co_operative_numbers_in_lakhs_": 0,
+      "others_numbers_in_lakhs_": 0.02,
+      "not_recorded_numbers_in_lakhs_": 0.05,
+      "total_numbers_in_lakhs_": 2.14
+    },
+    {
+      "sl_no": 19,
+      "state_ut": "West Bengal",
+      "proprietary_numbers_in_lakhs_": 19.75,
+      "partnership_numbers_in_lakhs_": 0.32,
+      "private_co_numbers_in_lakhs_": 0.01,
+      "co_operative_numbers_in_lakhs_": 0.01,
+      "others_numbers_in_lakhs_": 0.05,
+      "not_recorded_numbers_in_lakhs_": 0.65,
+      "total_numbers_in_lakhs_": 20.8
+    },
+    {
+      "sl_no": 20,
+      "state_ut": "Jharkhand",
+      "proprietary_numbers_in_lakhs_": 4.02,
+      "partnership_numbers_in_lakhs_": 0.05,
+      "private_co_numbers_in_lakhs_": 0,
+      "co_operative_numbers_in_lakhs_": 0,
+      "others_numbers_in_lakhs_": 0.01,
+      "not_recorded_numbers_in_lakhs_": 0.18,
+      "total_numbers_in_lakhs_": 4.25
+    },
+    {
+      "sl_no": 21,
+      "state_ut": "Orissa",
+      "proprietary_numbers_in_lakhs_": 9.49,
+      "partnership_numbers_in_lakhs_": 0.05,
+      "private_co_numbers_in_lakhs_": 0,
+      "co_operative_numbers_in_lakhs_": 0,
+      "others_numbers_in_lakhs_": 0.08,
+      "not_recorded_numbers_in_lakhs_": 0.15,
+      "total_numbers_in_lakhs_": 9.77
+    },
+    {
+      "sl_no": 22,
+      "state_ut": "Chhattisgarh",
+      "proprietary_numbers_in_lakhs_": 2.72,
+      "partnership_numbers_in_lakhs_": 0.02,
+      "private_co_numbers_in_lakhs_": 0,
+      "co_operative_numbers_in_lakhs_": 0,
+      "others_numbers_in_lakhs_": 0,
+      "not_recorded_numbers_in_lakhs_": 0.04,
+      "total_numbers_in_lakhs_": 2.78
+    },
+    {
+      "sl_no": 23,
+      "state_ut": "Madhya Pradesh",
+      "proprietary_numbers_in_lakhs_": 10.7,
+      "partnership_numbers_in_lakhs_": 0.06,
+      "private_co_numbers_in_lakhs_": 0,
+      "co_operative_numbers_in_lakhs_": 0.01,
+      "others_numbers_in_lakhs_": 0.58,
+      "not_recorded_numbers_in_lakhs_": 0.16,
+      "total_numbers_in_lakhs_": 11.5
+    },
+    {
+      "sl_no": 24,
+      "state_ut": "Gujarat",
+      "proprietary_numbers_in_lakhs_": 12.93,
+      "partnership_numbers_in_lakhs_": 0.09,
+      "private_co_numbers_in_lakhs_": 0,
+      "co_operative_numbers_in_lakhs_": 0,
+      "others_numbers_in_lakhs_": 0,
+      "not_recorded_numbers_in_lakhs_": 0,
+      "total_numbers_in_lakhs_": 13.03
+    },
+    {
+      "sl_no": 25,
+      "state_ut": "Daman & Diu",
+      "proprietary_numbers_in_lakhs_": 0.01,
+      "partnership_numbers_in_lakhs_": 0,
+      "private_co_numbers_in_lakhs_": 0,
+      "co_operative_numbers_in_lakhs_": 0,
+      "others_numbers_in_lakhs_": 0,
+      "not_recorded_numbers_in_lakhs_": 0,
+      "total_numbers_in_lakhs_": 0.01
+    },
+    {
+      "sl_no": 26,
+      "state_ut": "Dadar and Nagar Haveli",
+      "proprietary_numbers_in_lakhs_": 0.02,
+      "partnership_numbers_in_lakhs_": 0,
+      "private_co_numbers_in_lakhs_": 0,
+      "co_operative_numbers_in_lakhs_": 0,
+      "others_numbers_in_lakhs_": 0,
+      "not_recorded_numbers_in_lakhs_": 0.02,
+      "total_numbers_in_lakhs_": 0.04
+    },
+    {
+      "sl_no": 27,
+      "state_ut": "Maharashtra",
+      "proprietary_numbers_in_lakhs_": 13.69,
+      "partnership_numbers_in_lakhs_": 0.23,
+      "private_co_numbers_in_lakhs_": 0,
+      "co_operative_numbers_in_lakhs_": 0.05,
+      "others_numbers_in_lakhs_": 0.07,
+      "not_recorded_numbers_in_lakhs_": 0.42,
+      "total_numbers_in_lakhs_": 14.45
+    },
+    {
+      "sl_no": 28,
+      "state_ut": "Andhra Pradesh",
+      "proprietary_numbers_in_lakhs_": 14.29,
+      "partnership_numbers_in_lakhs_": 0.04,
+      "private_co_numbers_in_lakhs_": 0,
+      "co_operative_numbers_in_lakhs_": 0.02,
+      "others_numbers_in_lakhs_": 0.23,
+      "not_recorded_numbers_in_lakhs_": 0.32,
+      "total_numbers_in_lakhs_": 14.9
+    },
+    {
+      "sl_no": 29,
+      "state_ut": "Karnataka",
+      "proprietary_numbers_in_lakhs_": 10.54,
+      "partnership_numbers_in_lakhs_": 0.22,
+      "private_co_numbers_in_lakhs_": 0,
+      "co_operative_numbers_in_lakhs_": 0.01,
+      "others_numbers_in_lakhs_": 0.02,
+      "not_recorded_numbers_in_lakhs_": 0.34,
+      "total_numbers_in_lakhs_": 11.12
+    },
+    {
+      "sl_no": 30,
+      "state_ut": "Goa",
+      "proprietary_numbers_in_lakhs_": 0.53,
+      "partnership_numbers_in_lakhs_": 0.02,
+      "private_co_numbers_in_lakhs_": 0,
+      "co_operative_numbers_in_lakhs_": 0,
+      "others_numbers_in_lakhs_": 0.01,
+      "not_recorded_numbers_in_lakhs_": 0,
+      "total_numbers_in_lakhs_": 0.56
+    },
+    {
+      "sl_no": 31,
+      "state_ut": "Lakshadweep",
+      "proprietary_numbers_in_lakhs_": 0,
+      "partnership_numbers_in_lakhs_": 0,
+      "private_co_numbers_in_lakhs_": 0,
+      "co_operative_numbers_in_lakhs_": 0,
+      "others_numbers_in_lakhs_": 0,
+      "not_recorded_numbers_in_lakhs_": 0.01,
+      "total_numbers_in_lakhs_": 0.01
+    },
+    {
+      "sl_no": 32,
+      "state_ut": "Kerala",
+      "proprietary_numbers_in_lakhs_": 12.34,
+      "partnership_numbers_in_lakhs_": 0.42,
+      "private_co_numbers_in_lakhs_": 0,
+      "co_operative_numbers_in_lakhs_": 0,
+      "others_numbers_in_lakhs_": 0.08,
+      "not_recorded_numbers_in_lakhs_": 0.1,
+      "total_numbers_in_lakhs_": 12.94
+    },
+    {
+      "sl_no": 33,
+      "state_ut": "Tamil Nadu",
+      "proprietary_numbers_in_lakhs_": 16.47,
+      "partnership_numbers_in_lakhs_": 0.3,
+      "private_co_numbers_in_lakhs_": 0.02,
+      "co_operative_numbers_in_lakhs_": 0.03,
+      "others_numbers_in_lakhs_": 0.33,
+      "not_recorded_numbers_in_lakhs_": 1.06,
+      "total_numbers_in_lakhs_": 18.21
+    },
+    {
+      "sl_no": 34,
+      "state_ut": "Puducherry",
+      "proprietary_numbers_in_lakhs_": 0.13,
+      "partnership_numbers_in_lakhs_": 0,
+      "private_co_numbers_in_lakhs_": 0,
+      "co_operative_numbers_in_lakhs_": 0,
+      "others_numbers_in_lakhs_": 0,
+      "not_recorded_numbers_in_lakhs_": 0,
+      "total_numbers_in_lakhs_": 0.13
+    },
+    {
+      "sl_no": 35,
+      "state_ut": "Andaman and Nicobar Islands",
+      "proprietary_numbers_in_lakhs_": 0.06,
+      "partnership_numbers_in_lakhs_": 0,
+      "private_co_numbers_in_lakhs_": 0,
+      "co_operative_numbers_in_lakhs_": 0,
+      "others_numbers_in_lakhs_": 0,
+      "not_recorded_numbers_in_lakhs_": 0,
+      "total_numbers_in_lakhs_": 0.07
+    },
+    {
+      "sl_no": "NA",
+      "state_ut": "All India",
+      "proprietary_numbers_in_lakhs_": 187.07,
+      "partnership_numbers_in_lakhs_": 2.65,
+      "private_co_numbers_in_lakhs_": 0.06,
+      "co_operative_numbers_in_lakhs_": 0.23,
+      "others_numbers_in_lakhs_": 2.58,
+      "not_recorded_numbers_in_lakhs_": 6.15,
+      "total_numbers_in_lakhs_": 198.74
+    }
+  ]
+}

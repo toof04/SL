@@ -1,0 +1,195 @@
+{
+  "created": 1495709665,
+  "updated": 1529054813,
+  "title": "Water Quality Affected Habitations As On 1st April 2011",
+  "desc": "Water Quality Affected Habitations As On 1st April 2011",
+  "source": "data.gov.in",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Jal Shakti",
+    "Department of Drinking Water and Sanitation"
+  ],
+  "sector": [
+    "Drinking Water",
+    "Water and Sanitation"
+  ],
+  "visualizable": "0",
+  "index_name": "d89395e0-7967-4496-9fa3-e2bb81e968cd",
+  "catalog_uuid": "89f660e6-a317-4115-a52d-6cfe886f16e7",
+  "status": "ok",
+  "field": [
+    {
+      "id": "state_name",
+      "name": "State Name",
+      "type": "keyword"
+    },
+    {
+      "id": "district_name",
+      "name": "District Name",
+      "type": "keyword"
+    },
+    {
+      "id": "block_name",
+      "name": "Block Name",
+      "type": "keyword"
+    },
+    {
+      "id": "panchayat_name",
+      "name": "Panchayat Name",
+      "type": "keyword"
+    },
+    {
+      "id": "village_name",
+      "name": "Village Name",
+      "type": "keyword"
+    },
+    {
+      "id": "habitation_name",
+      "name": "Habitation Name",
+      "type": "keyword"
+    },
+    {
+      "id": "quality_parameter",
+      "name": "Quality Parameter",
+      "type": "keyword"
+    },
+    {
+      "id": "_year",
+      "name": "Year",
+      "type": "keyword"
+    }
+  ],
+  "created_date": "2017-05-25T16:24:25Z",
+  "updated_date": "2018-06-15T14:56:53Z",
+  "active": "1",
+  "external_ws_url": "",
+  "external_ws": "0",
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "total": 12,
+  "count": 12,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "state_name": "ANDHRA PRADESH",
+      "district_name": "KHAMMAM(22)",
+      "block_name": "KHAMMAM RURAL  (37)",
+      "panchayat_name": "CHINTHA PALLI(14)",
+      "village_name": "AREKODU(010 )",
+      "habitation_name": "SRINAGAR COLONY NEW(2228037010031401)",
+      "quality_parameter": "Fluoride",
+      "_year": "1-04-2011"
+    },
+    {
+      "state_name": "ANDHRA PRADESH",
+      "district_name": "NALGONDA(23)",
+      "block_name": "THURKAPALLY (02)",
+      "panchayat_name": "VENKATAPUR(10)",
+      "village_name": "VENKATAPUR(012 )",
+      "habitation_name": "KADILABAI(2329102012031000)",
+      "quality_parameter": "Fluoride",
+      "_year": "1-04-2011"
+    },
+    {
+      "state_name": "ANDHRA PRADESH",
+      "district_name": "NALGONDA(23)",
+      "block_name": "THURKAPALLY (02)",
+      "panchayat_name": "M. THRUKAPALLY(11)",
+      "village_name": "M. THRUKAPALLY(013 )",
+      "habitation_name": "M. THRUKAPALLY(2329102013011100)",
+      "quality_parameter": "Fluoride",
+      "_year": "1-04-2011"
+    },
+    {
+      "state_name": "ANDHRA PRADESH",
+      "district_name": "NALGONDA(23)",
+      "block_name": "THURKAPALLY (02)",
+      "panchayat_name": "VASALAMARRI(12)",
+      "village_name": "VASALAMARRI(014 )",
+      "habitation_name": "RAMSHETTIPALLY(2329102014021200)",
+      "quality_parameter": "Fluoride",
+      "_year": "1-04-2011"
+    },
+    {
+      "state_name": "ANDHRA PRADESH",
+      "district_name": "NALGONDA(23)",
+      "block_name": "THURKAPALLY (02)",
+      "panchayat_name": "MALKAPUR(13)",
+      "village_name": "MALKAPUR(015 )",
+      "habitation_name": "CHAPRATHANDA(2329102015051301)",
+      "quality_parameter": "Fluoride",
+      "_year": "1-04-2011"
+    },
+    {
+      "state_name": "ANDHRA PRADESH",
+      "district_name": "NALGONDA(23)",
+      "block_name": "THURKAPALLY (02)",
+      "panchayat_name": "NAGAI PALLY(15)",
+      "village_name": "NAGAI PALLY(017 )",
+      "habitation_name": "NAGAIPALLY THANDA(2329102017021500)",
+      "quality_parameter": "Fluoride",
+      "_year": "1-04-2011"
+    },
+    {
+      "state_name": "ANDHRA PRADESH",
+      "district_name": "NALGONDA(23)",
+      "block_name": "THURKAPALLY (02)",
+      "panchayat_name": "MULKA PALLY(18)",
+      "village_name": "MULKA PALLY(020 )",
+      "habitation_name": "BHAGYA THANDA(2329102020061800)",
+      "quality_parameter": "Fluoride",
+      "_year": "1-04-2011"
+    },
+    {
+      "state_name": "ANDHRA PRADESH",
+      "district_name": "NALGONDA(23)",
+      "block_name": "RAJAPET (03)",
+      "panchayat_name": "NEMILLA(12)",
+      "village_name": "NEMILLA(011 )",
+      "habitation_name": "PULLIVANIBAI(2329103011021200)",
+      "quality_parameter": "Fluoride",
+      "_year": "1-04-2011"
+    },
+    {
+      "state_name": "ANDHRA PRADESH",
+      "district_name": "NALGONDA(23)",
+      "block_name": "RAJAPET (03)",
+      "panchayat_name": "BASANTHAPUR(15)",
+      "village_name": "BASANTHAPUR(015 )",
+      "habitation_name": "BASANTHAPUR(2329103015011500)",
+      "quality_parameter": "Fluoride",
+      "_year": "1-04-2011"
+    },
+    {
+      "state_name": "ANDHRA PRADESH",
+      "district_name": "NALGONDA(23)",
+      "block_name": "RAJAPET (03)",
+      "panchayat_name": "KALWAPALLY(16)",
+      "village_name": "KALWAPALLY(016 )",
+      "habitation_name": "KALWAPALLY(2329103016011600)",
+      "quality_parameter": "Fluoride",
+      "_year": "1-04-2011"
+    },
+    {
+      "state_name": "ANDHRA PRADESH",
+      "district_name": "NALGONDA(23)",
+      "block_name": "RAJAPET (03)",
+      "panchayat_name": "BEGUMPET(17)",
+      "village_name": "BEGUMPET(017 )",
+      "habitation_name": "NEELLAGUDEM(2329103017021700)",
+      "quality_parameter": "Fluoride",
+      "_year": "1-04-2011"
+    },
+    {
+      "state_name": "ANDHRA PRADESH",
+      "district_name": "NALGONDA(23)",
+      "block_name": "RAJAPET (03)",
+      "panchayat_name": "CHALLURU(18)",
+      "village_name": "CHALLURU(018 )",
+      "habitation_name": "VADDERAWADA(2329103018021800)",
+      "quality_parameter": "Fluoride",
+      "_year": "1-04-2011"
+    }
+  ]
+}

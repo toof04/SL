@@ -1,0 +1,40 @@
+"Sl. No.",State/UT,SC,ST,OBC,Others,Total
+1,"Andhra Pradesh",1,1,7,4,13
+2,"Arunachal Pradesh",0,0,0,0,0
+3,Assam,0,0,0,0,0
+4,Bihar,0,0,4,0,4
+5,Chhattisgarh,0,0,0,1,1
+6,Goa,0,0,0,0,0
+7,Gujarat,163,115,548,343,1169
+8,Haryana,0,0,0,20,20
+9,"Himachal Pradesh",0,0,0,0,0
+10,Jharkhand,0,0,0,3,3
+11,Karnataka,10,0,24,8,42
+12,Kerala,8,3,26,9,46
+13,"Madhya Pradesh",14,11,41,13,79
+14,Maharashtra,NA,NA,NA,NA,104
+15,Manipur,0,6,0,8,14
+16,Meghalaya,0,0,0,0,0
+17,Mizoram,0,0,0,0,0
+18,Nagaland,0,35,0,0,35
+19,Odisha,2,0,5,6,13
+20,Punjab,0,0,0,0,0
+21,Rajasthan,0,0,0,0,0
+22,Sikkim,0,0,0,0,0
+23,"Tamil Nadu",539,50,812,29,1430
+24,Telangana,56,14,95,93,258
+25,Tripura,0,0,0,0,0
+26,"Uttar Pradesh",11,0,62,28,101
+27,Uttarakhand,0,0,0,0,0
+28,"West Bengal",0,0,0,0,0
+"Total (States)","Total (States)",804,235,1624,565,3332
+29,"A & N Islands",0,0,0,0,0
+30,Chandigarh,0,0,0,0,0
+31,"Dadra and Nagar Haveli and Daman and Diu",0,2,0,2,4
+32,Delhi,0,0,2,14,16
+33,"Jammu & Kashmir",2,12,0,214,228
+34,Ladakh,0,0,0,0,0
+35,Lakshadweep,0,0,0,0,0
+36,Puducherry,2,0,8,0,10
+"Total (UTs)","Total (UTs)",4,14,10,230,258
+"Total (All-India)","Total (All-India)",808,249,1634,795,3590

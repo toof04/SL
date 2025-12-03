@@ -1,0 +1,2093 @@
+{
+  "index_name": "6426c254-dbfc-4267-82de-a08647b7f0e4",
+  "title": "Development Of 400 Railway Stations in 2015 (From :Ministry of Railways)",
+  "desc": "Development Of 400 Railway Stations in 2015 (From :Ministry of Railways)",
+  "org_type": "Central",
+  "org": [
+    "Rajya Sabha"
+  ],
+  "sector": [
+    "All"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "5ba37af5-11d9-4b25-826d-a7a51b2395cd",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1697910413,
+  "updated": 1698057988,
+  "created_date": "2023-10-21T19:46:53Z",
+  "updated_date": "2023-10-23T16:16:28Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "5ba37af5-11d9-4b25-826d-a7a51b2395cd",
+    "field": "6426c254-dbfc-4267-82de-a08647b7f0e4"
+  },
+  "field": [
+    {
+      "id": "_s_no",
+      "name": "S.No",
+      "type": "keyword"
+    },
+    {
+      "id": "name_of_station",
+      "name": "Name of station",
+      "type": "keyword"
+    },
+    {
+      "id": "state",
+      "name": "State",
+      "type": "keyword"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 408,
+  "count": 408,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "_s_no": "1",
+      "name_of_station": "Visakhapatnam",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "_s_no": "2",
+      "name_of_station": "Secunderabad Jn.",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "_s_no": "3",
+      "name_of_station": "Vijayawada",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "_s_no": "4",
+      "name_of_station": "Hyderabad",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "_s_no": "5",
+      "name_of_station": "Tirupati",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "_s_no": "6",
+      "name_of_station": "Kacheguda",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "_s_no": "7",
+      "name_of_station": "SSP Nilayam",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "_s_no": "8",
+      "name_of_station": "Palasa",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "_s_no": "9",
+      "name_of_station": "Srikakulam Road",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "_s_no": "10",
+      "name_of_station": "Vizianagaram",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "_s_no": "11",
+      "name_of_station": "Anantpur",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "_s_no": "12",
+      "name_of_station": "Anakapalle",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "_s_no": "13",
+      "name_of_station": "Bhimavaram Town",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "_s_no": "14",
+      "name_of_station": "Chirala",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "_s_no": "15",
+      "name_of_station": "Cuddapah",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "_s_no": "16",
+      "name_of_station": "Eluru",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "_s_no": "17",
+      "name_of_station": "Gudur Jn.",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "_s_no": "18",
+      "name_of_station": "Guntakal Jn.",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "_s_no": "19",
+      "name_of_station": "Guntur Jn.",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "_s_no": "20",
+      "name_of_station": "Kakinada Town",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "_s_no": "21",
+      "name_of_station": "Kazipet Jn.",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "_s_no": "22",
+      "name_of_station": "Khammam",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "_s_no": "23",
+      "name_of_station": "Kurnool Town",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "_s_no": "24",
+      "name_of_station": "Manchiryal",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "_s_no": "25",
+      "name_of_station": "Nellore",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "_s_no": "26",
+      "name_of_station": "Nizamabad",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "_s_no": "27",
+      "name_of_station": "Ongole",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "_s_no": "28",
+      "name_of_station": "Rajahmundry",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "_s_no": "29",
+      "name_of_station": "Renigunta",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "_s_no": "30",
+      "name_of_station": "Samalkot Jn.",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "_s_no": "31",
+      "name_of_station": "Tadepalligudem",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "_s_no": "32",
+      "name_of_station": "Tenali Jn.",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "_s_no": "33",
+      "name_of_station": "Tuni",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "_s_no": "34",
+      "name_of_station": "Warangal",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "_s_no": "35",
+      "name_of_station": "Guwahati",
+      "state": "Assam"
+    },
+    {
+      "_s_no": "36",
+      "name_of_station": "Barpeta Road",
+      "state": "Assam"
+    },
+    {
+      "_s_no": "37",
+      "name_of_station": "Bongaigaon",
+      "state": "Assam"
+    },
+    {
+      "_s_no": "38",
+      "name_of_station": "Dibrugarh Town",
+      "state": "Assam"
+    },
+    {
+      "_s_no": "39",
+      "name_of_station": "Jorhat Town",
+      "state": "Assam"
+    },
+    {
+      "_s_no": "40",
+      "name_of_station": "Kamakya",
+      "state": "Assam"
+    },
+    {
+      "_s_no": "41",
+      "name_of_station": "Lumding",
+      "state": "Assam"
+    },
+    {
+      "_s_no": "42",
+      "name_of_station": "Rangiya Jn.",
+      "state": "Assam"
+    },
+    {
+      "_s_no": "43",
+      "name_of_station": "Tinsukia",
+      "state": "Assam"
+    },
+    {
+      "_s_no": "44",
+      "name_of_station": "Silchar",
+      "state": "Assam"
+    },
+    {
+      "_s_no": "45",
+      "name_of_station": "Darbhanga Jn.",
+      "state": "Bihar"
+    },
+    {
+      "_s_no": "46",
+      "name_of_station": "Gaya Jn.",
+      "state": "Bihar"
+    },
+    {
+      "_s_no": "47",
+      "name_of_station": "Muzaffarpur Jn.",
+      "state": "Bihar"
+    },
+    {
+      "_s_no": "48",
+      "name_of_station": "Patna Jn.",
+      "state": "Bihar"
+    },
+    {
+      "_s_no": "49",
+      "name_of_station": "Chhapra Jn.",
+      "state": "Bihar"
+    },
+    {
+      "_s_no": "50",
+      "name_of_station": "Bhagalpur",
+      "state": "Bihar"
+    },
+    {
+      "_s_no": "51",
+      "name_of_station": "Anugraha Narayan Road",
+      "state": "Bihar"
+    },
+    {
+      "_s_no": "52",
+      "name_of_station": "Ara Jn.",
+      "state": "Bihar"
+    },
+    {
+      "_s_no": "53",
+      "name_of_station": "Bhaktiarpur Jn.",
+      "state": "Bihar"
+    },
+    {
+      "_s_no": "54",
+      "name_of_station": "Barauni Jn.",
+      "state": "Bihar"
+    },
+    {
+      "_s_no": "55",
+      "name_of_station": "Betiah",
+      "state": "Bihar"
+    },
+    {
+      "_s_no": "56",
+      "name_of_station": "Buxar",
+      "state": "Bihar"
+    },
+    {
+      "_s_no": "57",
+      "name_of_station": "Danapur",
+      "state": "Bihar"
+    },
+    {
+      "_s_no": "58",
+      "name_of_station": "Dehri-on-Sone",
+      "state": "Bihar"
+    },
+    {
+      "_s_no": "59",
+      "name_of_station": "Hajipur Jn",
+      "state": "Bihar"
+    },
+    {
+      "_s_no": "60",
+      "name_of_station": "Jamui",
+      "state": "Bihar"
+    },
+    {
+      "_s_no": "61",
+      "name_of_station": "Jayanagar",
+      "state": "Bihar"
+    },
+    {
+      "_s_no": "62",
+      "name_of_station": "Khagaria Jn.",
+      "state": "Bihar"
+    },
+    {
+      "_s_no": "63",
+      "name_of_station": "Kiul Jn.",
+      "state": "Bihar"
+    },
+    {
+      "_s_no": "64",
+      "name_of_station": "Madhubani",
+      "state": "Bihar"
+    },
+    {
+      "_s_no": "65",
+      "name_of_station": "Mokama",
+      "state": "Bihar"
+    },
+    {
+      "_s_no": "66",
+      "name_of_station": "Bapudham",
+      "state": "Bihar"
+    },
+    {
+      "_s_no": "67",
+      "name_of_station": "Motihari",
+      "state": "Bihar"
+    },
+    {
+      "_s_no": "68",
+      "name_of_station": "Narkatiaganj Jn.",
+      "state": "Bihar"
+    },
+    {
+      "_s_no": "69",
+      "name_of_station": "Patna Sahib Jn.",
+      "state": "Bihar"
+    },
+    {
+      "_s_no": "70",
+      "name_of_station": "Rajendra Nagar (T)",
+      "state": "Bihar"
+    },
+    {
+      "_s_no": "71",
+      "name_of_station": "Raxaul Jn.",
+      "state": "Bihar"
+    },
+    {
+      "_s_no": "72",
+      "name_of_station": "Sagauli Jn.",
+      "state": "Bihar"
+    },
+    {
+      "_s_no": "73",
+      "name_of_station": "Saharsa Jn.",
+      "state": "Bihar"
+    },
+    {
+      "_s_no": "74",
+      "name_of_station": "Samastipur Jn.",
+      "state": "Bihar"
+    },
+    {
+      "_s_no": "75",
+      "name_of_station": "Sasaram Jn.",
+      "state": "Bihar"
+    },
+    {
+      "_s_no": "76",
+      "name_of_station": "Sivan Jn.",
+      "state": "Bihar"
+    },
+    {
+      "_s_no": "77",
+      "name_of_station": "Jogbani",
+      "state": "Bihar"
+    },
+    {
+      "_s_no": "78",
+      "name_of_station": "Katihar Jn.",
+      "state": "Bihar"
+    },
+    {
+      "_s_no": "79",
+      "name_of_station": "Kishanganj",
+      "state": "Bihar"
+    },
+    {
+      "_s_no": "80",
+      "name_of_station": "Purnea Jn.",
+      "state": "Bihar"
+    },
+    {
+      "_s_no": "81",
+      "name_of_station": "Raiganj",
+      "state": "Bihar"
+    },
+    {
+      "_s_no": "82",
+      "name_of_station": "Jamalpur",
+      "state": "Bihar"
+    },
+    {
+      "_s_no": "83",
+      "name_of_station": "Raipur",
+      "state": "Chhattis -garh"
+    },
+    {
+      "_s_no": "84",
+      "name_of_station": "Bilaspur Jn.",
+      "state": "Chhattis -garh"
+    },
+    {
+      "_s_no": "85",
+      "name_of_station": "Bhilai Power House",
+      "state": "Chhattis -garh"
+    },
+    {
+      "_s_no": "86",
+      "name_of_station": "Champa Jn.",
+      "state": "Chhattis -garh"
+    },
+    {
+      "_s_no": "87",
+      "name_of_station": "Durg",
+      "state": "Chhattis -garh"
+    },
+    {
+      "_s_no": "88",
+      "name_of_station": "Raigarh",
+      "state": "Chhattis -garh"
+    },
+    {
+      "_s_no": "89",
+      "name_of_station": "Rajnandgaon",
+      "state": "Chhattis -garh"
+    },
+    {
+      "_s_no": "90",
+      "name_of_station": "Delhi Jn.",
+      "state": "Delhi"
+    },
+    {
+      "_s_no": "91",
+      "name_of_station": "New Delhi",
+      "state": "Delhi"
+    },
+    {
+      "_s_no": "92",
+      "name_of_station": "Hazrat Nizamuddin",
+      "state": "Delhi"
+    },
+    {
+      "_s_no": "93",
+      "name_of_station": "Anand Vihar Terminal",
+      "state": "Delhi"
+    },
+    {
+      "_s_no": "94",
+      "name_of_station": "Adarshnagar Delhi",
+      "state": "Delhi"
+    },
+    {
+      "_s_no": "95",
+      "name_of_station": "Delhi Cantt.",
+      "state": "Delhi"
+    },
+    {
+      "_s_no": "96",
+      "name_of_station": "Delhi Sarai Rohilla",
+      "state": "Delhi"
+    },
+    {
+      "_s_no": "97",
+      "name_of_station": "Delhi Shahdra",
+      "state": "Delhi"
+    },
+    {
+      "_s_no": "98",
+      "name_of_station": "Vasco-Da-Gama",
+      "state": "Goa"
+    },
+    {
+      "_s_no": "99",
+      "name_of_station": "Ahmedabad",
+      "state": "Gujarat"
+    },
+    {
+      "_s_no": "100",
+      "name_of_station": "Vododara",
+      "state": "Gujarat"
+    },
+    {
+      "_s_no": "101",
+      "name_of_station": "Rajkot",
+      "state": "Gujarat"
+    },
+    {
+      "_s_no": "102",
+      "name_of_station": "Surat",
+      "state": "Gujarat"
+    },
+    {
+      "_s_no": "103",
+      "name_of_station": "Anand",
+      "state": "Gujarat"
+    },
+    {
+      "_s_no": "104",
+      "name_of_station": "Ankleshwar",
+      "state": "Gujarat"
+    },
+    {
+      "_s_no": "105",
+      "name_of_station": "Bharuch",
+      "state": "Gujarat"
+    },
+    {
+      "_s_no": "106",
+      "name_of_station": "Bhavnagar Terminus",
+      "state": "Gujarat"
+    },
+    {
+      "_s_no": "107",
+      "name_of_station": "Gandhidham",
+      "state": "Gujarat"
+    },
+    {
+      "_s_no": "108",
+      "name_of_station": "Jamnagar",
+      "state": "Gujarat"
+    },
+    {
+      "_s_no": "109",
+      "name_of_station": "Mahesana",
+      "state": "Gujarat"
+    },
+    {
+      "_s_no": "110",
+      "name_of_station": "Nadiad",
+      "state": "Gujarat"
+    },
+    {
+      "_s_no": "111",
+      "name_of_station": "Navsari",
+      "state": "Gujarat"
+    },
+    {
+      "_s_no": "112",
+      "name_of_station": "New Bhuj",
+      "state": "Gujarat"
+    },
+    {
+      "_s_no": "113",
+      "name_of_station": "Palanpur",
+      "state": "Gujarat"
+    },
+    {
+      "_s_no": "114",
+      "name_of_station": "Surendranagar",
+      "state": "Gujarat"
+    },
+    {
+      "_s_no": "115",
+      "name_of_station": "Udhana",
+      "state": "Gujarat"
+    },
+    {
+      "_s_no": "116",
+      "name_of_station": "Valsad",
+      "state": "Gujarat"
+    },
+    {
+      "_s_no": "117",
+      "name_of_station": "Vapi",
+      "state": "Gujarat"
+    },
+    {
+      "_s_no": "118",
+      "name_of_station": "Veraval",
+      "state": "Gujarat"
+    },
+    {
+      "_s_no": "119",
+      "name_of_station": "Viramgam",
+      "state": "Gujarat"
+    },
+    {
+      "_s_no": "120",
+      "name_of_station": "Ambala Cantt.",
+      "state": "Haryana"
+    },
+    {
+      "_s_no": "121",
+      "name_of_station": "Ballabgarh",
+      "state": "Haryana"
+    },
+    {
+      "_s_no": "122",
+      "name_of_station": "Faridabad",
+      "state": "Haryana"
+    },
+    {
+      "_s_no": "123",
+      "name_of_station": "Gurgaon",
+      "state": "Haryana"
+    },
+    {
+      "_s_no": "124",
+      "name_of_station": "Jagadhri",
+      "state": "Haryana"
+    },
+    {
+      "_s_no": "125",
+      "name_of_station": "Kalka",
+      "state": "Haryana"
+    },
+    {
+      "_s_no": "126",
+      "name_of_station": "Karnal",
+      "state": "Haryana"
+    },
+    {
+      "_s_no": "127",
+      "name_of_station": "Panipat",
+      "state": "Haryana"
+    },
+    {
+      "_s_no": "128",
+      "name_of_station": "Rohtak",
+      "state": "Haryana"
+    },
+    {
+      "_s_no": "129",
+      "name_of_station": "Sonipat",
+      "state": "Haryana"
+    },
+    {
+      "_s_no": "130",
+      "name_of_station": "Bhiwani",
+      "state": "Haryana"
+    },
+    {
+      "_s_no": "131",
+      "name_of_station": "Hisar",
+      "state": "Haryana"
+    },
+    {
+      "_s_no": "132",
+      "name_of_station": "Rewari",
+      "state": "Haryana"
+    },
+    {
+      "_s_no": "132",
+      "name_of_station": "Rewari",
+      "state": "Haryana"
+    },
+    {
+      "_s_no": "133",
+      "name_of_station": "Jammu Tawi",
+      "state": "Jammu & Kashmir"
+    },
+    {
+      "_s_no": "134",
+      "name_of_station": "Udhampur",
+      "state": "Jammu & Kashmir"
+    },
+    {
+      "_s_no": "135",
+      "name_of_station": "Dhanbad Jn.",
+      "state": "Jharkhand"
+    },
+    {
+      "_s_no": "136",
+      "name_of_station": "Tatanagar",
+      "state": "Jharkhand"
+    },
+    {
+      "_s_no": "137",
+      "name_of_station": "Daltonganj",
+      "state": "Jharkhand"
+    },
+    {
+      "_s_no": "138",
+      "name_of_station": "Gomoh Jn.",
+      "state": "Jharkhand"
+    },
+    {
+      "_s_no": "139",
+      "name_of_station": "Koderma",
+      "state": "Jharkhand"
+    },
+    {
+      "_s_no": "140",
+      "name_of_station": "Parasnath",
+      "state": "Jharkhand"
+    },
+    {
+      "_s_no": "141",
+      "name_of_station": "Jasidih",
+      "state": "Jharkhand"
+    },
+    {
+      "_s_no": "142",
+      "name_of_station": "Madhupur",
+      "state": "Jharkhand"
+    },
+    {
+      "_s_no": "143",
+      "name_of_station": "Bokaro Steel City",
+      "state": "Jharkhand"
+    },
+    {
+      "_s_no": "144",
+      "name_of_station": "Hatia",
+      "state": "Jharkhand"
+    },
+    {
+      "_s_no": "145",
+      "name_of_station": "Ranchi",
+      "state": "Jharkhand"
+    },
+    {
+      "_s_no": "146",
+      "name_of_station": "Bangalore City",
+      "state": "Karnataka"
+    },
+    {
+      "_s_no": "147",
+      "name_of_station": "Yashwantpur",
+      "state": "Karnataka"
+    },
+    {
+      "_s_no": "148",
+      "name_of_station": "Gulbarga",
+      "state": "Karnataka"
+    },
+    {
+      "_s_no": "149",
+      "name_of_station": "Mangalore Central",
+      "state": "Karnataka"
+    },
+    {
+      "_s_no": "150",
+      "name_of_station": "Mangalore Jn.",
+      "state": "Karnataka"
+    },
+    {
+      "_s_no": "151",
+      "name_of_station": "Bangalore Cantt.",
+      "state": "Karnataka"
+    },
+    {
+      "_s_no": "152",
+      "name_of_station": "Bangarpet",
+      "state": "Karnataka"
+    },
+    {
+      "_s_no": "153",
+      "name_of_station": "Belgaum",
+      "state": "Karnataka"
+    },
+    {
+      "_s_no": "154",
+      "name_of_station": "Bellary",
+      "state": "Karnataka"
+    },
+    {
+      "_s_no": "155",
+      "name_of_station": "Bijapur",
+      "state": "Karnataka"
+    },
+    {
+      "_s_no": "156",
+      "name_of_station": "Davangere",
+      "state": "Karnataka"
+    },
+    {
+      "_s_no": "157",
+      "name_of_station": "Dharwad",
+      "state": "Karnataka"
+    },
+    {
+      "_s_no": "158",
+      "name_of_station": "Hospet",
+      "state": "Karnataka"
+    },
+    {
+      "_s_no": "159",
+      "name_of_station": "Hubli",
+      "state": "Karnataka"
+    },
+    {
+      "_s_no": "160",
+      "name_of_station": "Kengri",
+      "state": "Karnataka"
+    },
+    {
+      "_s_no": "161",
+      "name_of_station": "Krishnaraja- puram",
+      "state": "Karnataka"
+    },
+    {
+      "_s_no": "162",
+      "name_of_station": "Mysore",
+      "state": "Karnataka"
+    },
+    {
+      "_s_no": "163",
+      "name_of_station": "Shimoga Town",
+      "state": "Karnataka"
+    },
+    {
+      "_s_no": "164",
+      "name_of_station": "Raichur",
+      "state": "Karnataka"
+    },
+    {
+      "_s_no": "165",
+      "name_of_station": "Yadgir",
+      "state": "Karnataka"
+    },
+    {
+      "_s_no": "166",
+      "name_of_station": "Trivandrum Central",
+      "state": "Kerala"
+    },
+    {
+      "_s_no": "167",
+      "name_of_station": "Ernakulam Jn.",
+      "state": "Kerala"
+    },
+    {
+      "_s_no": "168",
+      "name_of_station": "Thrisur",
+      "state": "Kerala"
+    },
+    {
+      "_s_no": "169",
+      "name_of_station": "Kozhikkode",
+      "state": "Kerala"
+    },
+    {
+      "_s_no": "170",
+      "name_of_station": "Alappuzha",
+      "state": "Kerala"
+    },
+    {
+      "_s_no": "171",
+      "name_of_station": "Aluva",
+      "state": "Kerala"
+    },
+    {
+      "_s_no": "172",
+      "name_of_station": "Chengannur",
+      "state": "Kerala"
+    },
+    {
+      "_s_no": "173",
+      "name_of_station": "Ernakulam Town",
+      "state": "Kerala"
+    },
+    {
+      "_s_no": "174",
+      "name_of_station": "Kanhangad",
+      "state": "Kerala"
+    },
+    {
+      "_s_no": "175",
+      "name_of_station": "Kannur",
+      "state": "Kerala"
+    },
+    {
+      "_s_no": "176",
+      "name_of_station": "Kasargod",
+      "state": "Kerala"
+    },
+    {
+      "_s_no": "177",
+      "name_of_station": "Kayan- kulam Jn.",
+      "state": "Kerala"
+    },
+    {
+      "_s_no": "178",
+      "name_of_station": "Kollam Jn.",
+      "state": "Kerala"
+    },
+    {
+      "_s_no": "179",
+      "name_of_station": "Kottayam",
+      "state": "Kerala"
+    },
+    {
+      "_s_no": "180",
+      "name_of_station": "Palakkad Jn.",
+      "state": "Kerala"
+    },
+    {
+      "_s_no": "181",
+      "name_of_station": "Payyannur",
+      "state": "Kerala"
+    },
+    {
+      "_s_no": "182",
+      "name_of_station": "Shoranur Jn.",
+      "state": "Kerala"
+    },
+    {
+      "_s_no": "183",
+      "name_of_station": "Thalassery",
+      "state": "Kerala"
+    },
+    {
+      "_s_no": "184",
+      "name_of_station": "Tirur",
+      "state": "Kerala"
+    },
+    {
+      "_s_no": "185",
+      "name_of_station": "Tiruvalla",
+      "state": "Kerala"
+    },
+    {
+      "_s_no": "186",
+      "name_of_station": "Vadakara",
+      "state": "Kerala"
+    },
+    {
+      "_s_no": "187",
+      "name_of_station": "Bhopal",
+      "state": "Madhya Pradesh"
+    },
+    {
+      "_s_no": "188",
+      "name_of_station": "Jabalpur",
+      "state": "Madhya Pradesh"
+    },
+    {
+      "_s_no": "189",
+      "name_of_station": "Singrauli",
+      "state": "Madhya Pradesh"
+    },
+    {
+      "_s_no": "190 191",
+      "name_of_station": "Morena Gwalior",
+      "state": "Madhya Pradesh"
+    },
+    {
+      "_s_no": "192",
+      "name_of_station": "Indore",
+      "state": "Madhya Pradesh"
+    },
+    {
+      "_s_no": "193",
+      "name_of_station": "Nagda",
+      "state": "Madhya Pradesh"
+    },
+    {
+      "_s_no": "194",
+      "name_of_station": "Ratlam",
+      "state": "Madhya Pradesh"
+    },
+    {
+      "_s_no": "195",
+      "name_of_station": "Ujjain",
+      "state": "Madhya Pradesh"
+    },
+    {
+      "_s_no": "196",
+      "name_of_station": "Burhanpur",
+      "state": "Madhya Pradesh"
+    },
+    {
+      "_s_no": "197",
+      "name_of_station": "Khandwa",
+      "state": "Madhya Pradesh"
+    },
+    {
+      "_s_no": "198",
+      "name_of_station": "Betul",
+      "state": "Madhya Pradesh"
+    },
+    {
+      "_s_no": "199",
+      "name_of_station": "Bina",
+      "state": "Madhya Pradesh"
+    },
+    {
+      "_s_no": "200",
+      "name_of_station": "Damoh",
+      "state": "Madhya Pradesh"
+    },
+    {
+      "_s_no": "201",
+      "name_of_station": "Habibganj",
+      "state": "Madhya Pradesh"
+    },
+    {
+      "_s_no": "202",
+      "name_of_station": "Hoshangabad",
+      "state": "Madhya Pradesh"
+    },
+    {
+      "_s_no": "203",
+      "name_of_station": "Itarsi",
+      "state": "Madhya Pradesh"
+    },
+    {
+      "_s_no": "204",
+      "name_of_station": "Katni",
+      "state": "Madhya Pradesh"
+    },
+    {
+      "_s_no": "205",
+      "name_of_station": "Maihar",
+      "state": "Madhya Pradesh"
+    },
+    {
+      "_s_no": "206",
+      "name_of_station": "Pipariya",
+      "state": "Madhya Pradesh"
+    },
+    {
+      "_s_no": "207",
+      "name_of_station": "Rewa",
+      "state": "Madhya Pradesh"
+    },
+    {
+      "_s_no": "208",
+      "name_of_station": "Satna",
+      "state": "Madhya Pradesh"
+    },
+    {
+      "_s_no": "209",
+      "name_of_station": "Saugor",
+      "state": "Madhya Pradesh"
+    },
+    {
+      "_s_no": "210",
+      "name_of_station": "Vidhisha",
+      "state": "Madhya Pradesh"
+    },
+    {
+      "_s_no": "211",
+      "name_of_station": "CST Mumbai",
+      "state": "Mahara- shtra"
+    },
+    {
+      "_s_no": "212",
+      "name_of_station": "Lokmanya Tilak (T)",
+      "state": "Mahara- shtra"
+    },
+    {
+      "_s_no": "213",
+      "name_of_station": "Pune",
+      "state": "Mahara- shtra"
+    },
+    {
+      "_s_no": "214",
+      "name_of_station": "Nagpur",
+      "state": "Mahara- shtra"
+    },
+    {
+      "_s_no": "215",
+      "name_of_station": "Kalyan",
+      "state": "Mahara- shtra"
+    },
+    {
+      "_s_no": "216",
+      "name_of_station": "Dadar",
+      "state": "Maharashtra"
+    },
+    {
+      "_s_no": "217",
+      "name_of_station": "Thane",
+      "state": "Maharashtra"
+    },
+    {
+      "_s_no": "218",
+      "name_of_station": "Solapur",
+      "state": "Maharashtra"
+    },
+    {
+      "_s_no": "219",
+      "name_of_station": "Mumbai Central",
+      "state": "Maharashtra"
+    },
+    {
+      "_s_no": "220",
+      "name_of_station": "Bandra Terminus",
+      "state": "Maharashtra"
+    },
+    {
+      "_s_no": "221",
+      "name_of_station": "Akola",
+      "state": "Maharashtra"
+    },
+    {
+      "_s_no": "222",
+      "name_of_station": "Amravati",
+      "state": "Maharashtra"
+    },
+    {
+      "_s_no": "223",
+      "name_of_station": "Badnera",
+      "state": "Maharashtra"
+    },
+    {
+      "_s_no": "224",
+      "name_of_station": "Bhusawal",
+      "state": "Maharashtra"
+    },
+    {
+      "_s_no": "225",
+      "name_of_station": "Chalisgaon",
+      "state": "Maharashtra"
+    },
+    {
+      "_s_no": "226",
+      "name_of_station": "Jalgaon",
+      "state": "Maharashtra"
+    },
+    {
+      "_s_no": "227",
+      "name_of_station": "Kurduwadi",
+      "state": "Maharashtra"
+    },
+    {
+      "_s_no": "228",
+      "name_of_station": "Latur",
+      "state": "Maharashtra"
+    },
+    {
+      "_s_no": "229",
+      "name_of_station": "Manmad",
+      "state": "Maharashtra"
+    },
+    {
+      "_s_no": "230",
+      "name_of_station": "Miraj",
+      "state": "Maharashtra"
+    },
+    {
+      "_s_no": "231",
+      "name_of_station": "Nasik Road",
+      "state": "Maharashtra"
+    },
+    {
+      "_s_no": "232",
+      "name_of_station": "Panvel",
+      "state": "Maharashtra"
+    },
+    {
+      "_s_no": "233",
+      "name_of_station": "Sai Nagar Shirdi",
+      "state": "Maharashtra"
+    },
+    {
+      "_s_no": "234",
+      "name_of_station": "Shegaon",
+      "state": "Maharashtra"
+    },
+    {
+      "_s_no": "235",
+      "name_of_station": "Ahmednagar",
+      "state": "Maharashtra"
+    },
+    {
+      "_s_no": "236",
+      "name_of_station": "Daund",
+      "state": "Maharashtra"
+    },
+    {
+      "_s_no": "237",
+      "name_of_station": "Kolhapur",
+      "state": "Maharashtra"
+    },
+    {
+      "_s_no": "238",
+      "name_of_station": "Kopergaon",
+      "state": "Maharashtra"
+    },
+    {
+      "_s_no": "239",
+      "name_of_station": "Lonavla",
+      "state": "Maharashtra"
+    },
+    {
+      "_s_no": "240",
+      "name_of_station": "Ballarshah",
+      "state": "Maharashtra"
+    },
+    {
+      "_s_no": "241",
+      "name_of_station": "Chandrapur",
+      "state": "Maharashtra"
+    },
+    {
+      "_s_no": "242",
+      "name_of_station": "Wardha",
+      "state": "Maharashtra"
+    },
+    {
+      "_s_no": "243",
+      "name_of_station": "Nanded",
+      "state": "Maharashtra"
+    },
+    {
+      "_s_no": "244",
+      "name_of_station": "Aurangabad",
+      "state": "Maharashtra"
+    },
+    {
+      "_s_no": "245",
+      "name_of_station": "Jalna",
+      "state": "Maharashtra"
+    },
+    {
+      "_s_no": "246",
+      "name_of_station": "Nagarsol",
+      "state": "Maharashtra"
+    },
+    {
+      "_s_no": "247",
+      "name_of_station": "Parbani Jn.",
+      "state": "Maharashtra"
+    },
+    {
+      "_s_no": "248",
+      "name_of_station": "Gondia",
+      "state": "Maharashtra"
+    },
+    {
+      "_s_no": "249",
+      "name_of_station": "Dimapur",
+      "state": "Nagaland"
+    },
+    {
+      "_s_no": "250",
+      "name_of_station": "Bhubaneswar",
+      "state": "Odisha"
+    },
+    {
+      "_s_no": "251",
+      "name_of_station": "Puri",
+      "state": "Odisha"
+    },
+    {
+      "_s_no": "252",
+      "name_of_station": "Bhadrak",
+      "state": "Odisha"
+    },
+    {
+      "_s_no": "253",
+      "name_of_station": "Brahampur",
+      "state": "Odisha"
+    },
+    {
+      "_s_no": "254",
+      "name_of_station": "Cuttack",
+      "state": "Odisha"
+    },
+    {
+      "_s_no": "255",
+      "name_of_station": "Jajpur-Keonjhar Road",
+      "state": "Odisha"
+    },
+    {
+      "_s_no": "256",
+      "name_of_station": "Khurda Road",
+      "state": "Odisha"
+    },
+    {
+      "_s_no": "257",
+      "name_of_station": "Rayagada",
+      "state": "Odisha"
+    },
+    {
+      "_s_no": "258",
+      "name_of_station": "Sambalpur",
+      "state": "Odisha"
+    },
+    {
+      "_s_no": "259",
+      "name_of_station": "Balasore",
+      "state": "Odisha"
+    },
+    {
+      "_s_no": "260",
+      "name_of_station": "Jharsuguda",
+      "state": "Odisha"
+    },
+    {
+      "_s_no": "261",
+      "name_of_station": "Rourkela",
+      "state": "Odisha"
+    },
+    {
+      "_s_no": "262",
+      "name_of_station": "Amritsar",
+      "state": "Punjab"
+    },
+    {
+      "_s_no": "263",
+      "name_of_station": "Beas",
+      "state": "Punjab"
+    },
+    {
+      "_s_no": "264",
+      "name_of_station": "Chakki Bank",
+      "state": "Punjab"
+    },
+    {
+      "_s_no": "265",
+      "name_of_station": "Firozpur Cantt.",
+      "state": "Punjab"
+    },
+    {
+      "_s_no": "266",
+      "name_of_station": "Jalandhar Cantt.",
+      "state": "Punjab"
+    },
+    {
+      "_s_no": "267",
+      "name_of_station": "Jalandhar City",
+      "state": "Punjab"
+    },
+    {
+      "_s_no": "268",
+      "name_of_station": "Pathankot",
+      "state": "Punjab"
+    },
+    {
+      "_s_no": "269",
+      "name_of_station": "Patiala",
+      "state": "Punjab"
+    },
+    {
+      "_s_no": "270",
+      "name_of_station": "Phagwara",
+      "state": "Punjab"
+    },
+    {
+      "_s_no": "271",
+      "name_of_station": "Rajpur Jn.",
+      "state": "Punjab"
+    },
+    {
+      "_s_no": "272",
+      "name_of_station": "Sirhind",
+      "state": "Punjab"
+    },
+    {
+      "_s_no": "273",
+      "name_of_station": "Ludhiana",
+      "state": "Punjab"
+    },
+    {
+      "_s_no": "274",
+      "name_of_station": "Bhathinda Jn.",
+      "state": "Punjab"
+    },
+    {
+      "_s_no": "275",
+      "name_of_station": "Jaipur",
+      "state": "Rajasthan"
+    },
+    {
+      "_s_no": "276",
+      "name_of_station": "Jodhpur",
+      "state": "Rajasthan"
+    },
+    {
+      "_s_no": "277",
+      "name_of_station": "Ajmer",
+      "state": "Rajasthan"
+    },
+    {
+      "_s_no": "278",
+      "name_of_station": "Kota",
+      "state": "Rajasthan"
+    },
+    {
+      "_s_no": "279",
+      "name_of_station": "Sawai Madhopur",
+      "state": "Rajasthan"
+    },
+    {
+      "_s_no": "280",
+      "name_of_station": "Abu Road",
+      "state": "Rajasthan"
+    },
+    {
+      "_s_no": "281",
+      "name_of_station": "Alwar",
+      "state": "Rajasthan"
+    },
+    {
+      "_s_no": "282",
+      "name_of_station": "Bandikui",
+      "state": "Rajasthan"
+    },
+    {
+      "_s_no": "283",
+      "name_of_station": "Barmer",
+      "state": "Rajasthan"
+    },
+    {
+      "_s_no": "284",
+      "name_of_station": "Bhilwara",
+      "state": "Rajasthan"
+    },
+    {
+      "_s_no": "285",
+      "name_of_station": "Bikaner",
+      "state": "Rajasthan"
+    },
+    {
+      "_s_no": "286",
+      "name_of_station": "Falna",
+      "state": "Rajasthan"
+    },
+    {
+      "_s_no": "287",
+      "name_of_station": "Gandhinagar (Jaipur)",
+      "state": "Rajasthan"
+    },
+    {
+      "_s_no": "288",
+      "name_of_station": "Hanumangarh Jn.",
+      "state": "Rajasthan"
+    },
+    {
+      "_s_no": "289",
+      "name_of_station": "Lalgarh",
+      "state": "Rajasthan"
+    },
+    {
+      "_s_no": "290",
+      "name_of_station": "Marwar Jn.",
+      "state": "Rajasthan"
+    },
+    {
+      "_s_no": "291",
+      "name_of_station": "Nagaur",
+      "state": "Rajasthan"
+    },
+    {
+      "_s_no": "292",
+      "name_of_station": "Pali Marwar",
+      "state": "Rajasthan"
+    },
+    {
+      "_s_no": "293",
+      "name_of_station": "Phulera",
+      "state": "Rajasthan"
+    },
+    {
+      "_s_no": "294",
+      "name_of_station": "Rani",
+      "state": "Rajasthan"
+    },
+    {
+      "_s_no": "295",
+      "name_of_station": "Sri Ganganagar",
+      "state": "Rajasthan"
+    },
+    {
+      "_s_no": "296",
+      "name_of_station": "Suratgarh",
+      "state": "Rajasthan"
+    },
+    {
+      "_s_no": "297",
+      "name_of_station": "Udaipur City",
+      "state": "Rajasthan"
+    },
+    {
+      "_s_no": "298",
+      "name_of_station": "Jaisalmer",
+      "state": "Rajasthan"
+    },
+    {
+      "_s_no": "299",
+      "name_of_station": "Bharatpur",
+      "state": "Rajasthan"
+    },
+    {
+      "_s_no": "300",
+      "name_of_station": "Chittorgarh Jn.",
+      "state": "Rajasthan"
+    },
+    {
+      "_s_no": "301",
+      "name_of_station": "Chennai Central",
+      "state": "Tamil Nadu"
+    },
+    {
+      "_s_no": "302",
+      "name_of_station": "Chennai Egmore",
+      "state": "Tamil Nadu"
+    },
+    {
+      "_s_no": "303",
+      "name_of_station": "Coimbatore Jn.",
+      "state": "Tamil Nadu"
+    },
+    {
+      "_s_no": "304",
+      "name_of_station": "Madurai Jn.",
+      "state": "Tamil Nadu"
+    },
+    {
+      "_s_no": "305",
+      "name_of_station": "Arakkonam Jn.",
+      "state": "Tamil Nadu"
+    },
+    {
+      "_s_no": "306",
+      "name_of_station": "Chengalpattu Jn.",
+      "state": "Tamil Nadu"
+    },
+    {
+      "_s_no": "307",
+      "name_of_station": "Dindigul Jn.",
+      "state": "Tamil Nadu"
+    },
+    {
+      "_s_no": "308",
+      "name_of_station": "Erode Jn.",
+      "state": "Tamil Nadu"
+    },
+    {
+      "_s_no": "309",
+      "name_of_station": "Jolarpettai Jn.",
+      "state": "Tamil Nadu"
+    },
+    {
+      "_s_no": "310",
+      "name_of_station": "Kanyakumari",
+      "state": "Tamil Nadu"
+    },
+    {
+      "_s_no": "311",
+      "name_of_station": "Karur Jn.",
+      "state": "Tamil Nadu"
+    },
+    {
+      "_s_no": "312",
+      "name_of_station": "Katpadi",
+      "state": "Tamil Nadu"
+    },
+    {
+      "_s_no": "313",
+      "name_of_station": "Kovilpatti",
+      "state": "Tamil Nadu"
+    },
+    {
+      "_s_no": "314",
+      "name_of_station": "Kumbakonam",
+      "state": "Tamil Nadu"
+    },
+    {
+      "_s_no": "315",
+      "name_of_station": "Mayiladuthurai",
+      "state": "Tamil Nadu"
+    },
+    {
+      "_s_no": "316",
+      "name_of_station": "Mettupalaiyam",
+      "state": "Tamil Nadu"
+    },
+    {
+      "_s_no": "317",
+      "name_of_station": "Nagercoil Jn.",
+      "state": "Tamil Nadu"
+    },
+    {
+      "_s_no": "318",
+      "name_of_station": "Rameshwaram",
+      "state": "Tamil Nadu"
+    },
+    {
+      "_s_no": "319",
+      "name_of_station": "Salem Jn.",
+      "state": "Tamil Nadu"
+    },
+    {
+      "_s_no": "320",
+      "name_of_station": "Tambaram",
+      "state": "Tamil Nadu"
+    },
+    {
+      "_s_no": "321",
+      "name_of_station": "Thanjavur Jn.",
+      "state": "Tamil Nadu"
+    },
+    {
+      "_s_no": "322",
+      "name_of_station": "Trichy Jn.",
+      "state": "Tamil Nadu"
+    },
+    {
+      "_s_no": "323",
+      "name_of_station": "Tirunelveli",
+      "state": "Tamil Nadu"
+    },
+    {
+      "_s_no": "324",
+      "name_of_station": "Tiruppur",
+      "state": "Tamil Nadu"
+    },
+    {
+      "_s_no": "325",
+      "name_of_station": "Tuticorin",
+      "state": "Tamil Nadu"
+    },
+    {
+      "_s_no": "326",
+      "name_of_station": "Villupuram",
+      "state": "Tamil Nadu"
+    },
+    {
+      "_s_no": "327",
+      "name_of_station": "Virudhunagar",
+      "state": "Tamil Nadu"
+    },
+    {
+      "_s_no": "328",
+      "name_of_station": "Mughalsarai",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "329",
+      "name_of_station": "Allahabad",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "330",
+      "name_of_station": "Kanpur Central",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "331",
+      "name_of_station": "Jhansi",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "332",
+      "name_of_station": "Agra Cantt.",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "333",
+      "name_of_station": "Mathura Jn.",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "334",
+      "name_of_station": "Gorakhpur Jn.",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "335",
+      "name_of_station": "Lucknow Jn.",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "336",
+      "name_of_station": "Lucknow",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "337",
+      "name_of_station": "Varanasi",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "338",
+      "name_of_station": "Bareilly",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "339",
+      "name_of_station": "Agra Fort",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "340",
+      "name_of_station": "Aligarh",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "341",
+      "name_of_station": "Banda",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "342",
+      "name_of_station": "Chitrakut Dham Karvi",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "343",
+      "name_of_station": "Etawah",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "344",
+      "name_of_station": "Fatehpur",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "345",
+      "name_of_station": "Lalitpur",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "346",
+      "name_of_station": "Mahoba",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "347",
+      "name_of_station": "Orai",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "348",
+      "name_of_station": "Phaphund",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "349",
+      "name_of_station": "Raja Ki Mandi",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "350",
+      "name_of_station": "Tundla",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "351",
+      "name_of_station": "Mirzapur",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "352",
+      "name_of_station": "Azamgarh",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "353",
+      "name_of_station": "Ballia",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "354",
+      "name_of_station": "Basti",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "355",
+      "name_of_station": "Belthara Rd.",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "356",
+      "name_of_station": "Deoria Sadar",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "357",
+      "name_of_station": "Gondia Jn.",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "358",
+      "name_of_station": "Khalilabad",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "359",
+      "name_of_station": "Mau Jn.",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "360",
+      "name_of_station": "Akbarpur",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "361",
+      "name_of_station": "Ayodhya",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "362",
+      "name_of_station": "Barabanki",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "363",
+      "name_of_station": "Bhadohi",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "364",
+      "name_of_station": "Chandausi",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "365",
+      "name_of_station": "Faizabad",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "366",
+      "name_of_station": "Ghaziabad",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "367",
+      "name_of_station": "Hapur",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "368",
+      "name_of_station": "Hardoi",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "369",
+      "name_of_station": "Janghai",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "370",
+      "name_of_station": "Jaunpur",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "371",
+      "name_of_station": "Meerut Cantt.",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "372",
+      "name_of_station": "Meerut City",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "373",
+      "name_of_station": "Moradabad",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "374",
+      "name_of_station": "Muzaffarnagar",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "375",
+      "name_of_station": "Pratapgarh",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "376",
+      "name_of_station": "Rae Bareli Jn.",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "377",
+      "name_of_station": "Rampur",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "378",
+      "name_of_station": "Saharanpur Jn.",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "379",
+      "name_of_station": "Sahganj",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "380",
+      "name_of_station": "Shahjahanpur",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "381",
+      "name_of_station": "Sultanpur",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "382",
+      "name_of_station": "Unnao",
+      "state": "U.P."
+    },
+    {
+      "_s_no": "383",
+      "name_of_station": "Haridwar",
+      "state": "Uttarakhand"
+    },
+    {
+      "_s_no": "384",
+      "name_of_station": "Kathgodam",
+      "state": "Uttarakhand"
+    },
+    {
+      "_s_no": "385",
+      "name_of_station": "Rudrapur City",
+      "state": "Uttarakhand"
+    },
+    {
+      "_s_no": "386",
+      "name_of_station": "Dehradun",
+      "state": "Uttarakhand"
+    },
+    {
+      "_s_no": "387",
+      "name_of_station": "Kathgodham",
+      "state": "Uttarakhand"
+    },
+    {
+      "_s_no": "388",
+      "name_of_station": "Rudrapur City",
+      "state": "Uttarakhand"
+    },
+    {
+      "_s_no": "389",
+      "name_of_station": "Roorkee",
+      "state": "Uttarakhand"
+    },
+    {
+      "_s_no": "390",
+      "name_of_station": "New Jalpaiguri",
+      "state": "West Bengal"
+    },
+    {
+      "_s_no": "391",
+      "name_of_station": "Kharagpur",
+      "state": "West Bengal"
+    },
+    {
+      "_s_no": "392",
+      "name_of_station": "Asansol",
+      "state": "West Bengal"
+    },
+    {
+      "_s_no": "393",
+      "name_of_station": "Bandel",
+      "state": "West Bengal"
+    },
+    {
+      "_s_no": "394",
+      "name_of_station": "Barddhaman",
+      "state": "West Bengal"
+    },
+    {
+      "_s_no": "395",
+      "name_of_station": "Howrah",
+      "state": "West Bengal"
+    },
+    {
+      "_s_no": "396",
+      "name_of_station": "Durgapur",
+      "state": "West Bengal"
+    },
+    {
+      "_s_no": "397",
+      "name_of_station": "Kolkata Terminal",
+      "state": "West Bengal"
+    },
+    {
+      "_s_no": "398",
+      "name_of_station": "Malda Town",
+      "state": "West Bengal"
+    },
+    {
+      "_s_no": "399",
+      "name_of_station": "Naihati Jn.",
+      "state": "West Bengal"
+    },
+    {
+      "_s_no": "400",
+      "name_of_station": "New Farakka",
+      "state": "West Bengal"
+    },
+    {
+      "_s_no": "401",
+      "name_of_station": "Rampurhat",
+      "state": "West Bengal"
+    },
+    {
+      "_s_no": "402",
+      "name_of_station": "Alipurduar Jn.",
+      "state": "West Bengal"
+    },
+    {
+      "_s_no": "403",
+      "name_of_station": "Coochbehar",
+      "state": "West Bengal"
+    },
+    {
+      "_s_no": "404",
+      "name_of_station": "New Alipurduar",
+      "state": "West Bengal"
+    },
+    {
+      "_s_no": "405",
+      "name_of_station": "New Coochbehar",
+      "state": "West Bengal"
+    },
+    {
+      "_s_no": "406",
+      "name_of_station": "Siliguri Jn.",
+      "state": "West Bengal"
+    },
+    {
+      "_s_no": "407",
+      "name_of_station": "Digha",
+      "state": "West Bengal"
+    },
+    {
+      "_s_no": "408",
+      "name_of_station": "Shalimar",
+      "state": "West Bengal"
+    }
+  ]
+}

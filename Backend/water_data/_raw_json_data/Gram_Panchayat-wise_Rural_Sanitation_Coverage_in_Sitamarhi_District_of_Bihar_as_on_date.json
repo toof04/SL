@@ -1,0 +1,2531 @@
+{
+  "index_name": "32b0b1a5-aafb-41ff-b5e7-ece13d8d1785",
+  "title": "Gram Panchayat-wise Rural Sanitation Coverage in Sitamarhi District of Bihar as on date",
+  "desc": "Gram Panchayat-wise Rural Sanitation Coverage in Sitamarhi District of Bihar as on date",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Jal Shakti",
+    "Department of Drinking Water and Sanitation"
+  ],
+  "sector": [
+    "Water and Sanitation"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1688360295,
+  "updated": 1688364917,
+  "created_date": "2023-07-03T06:58:15Z",
+  "updated_date": "2023-07-03T11:45:17Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "sbm",
+    "type": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+    "field": "32b0b1a5-aafb-41ff-b5e7-ece13d8d1785"
+  },
+  "field": [
+    {
+      "id": "statename",
+      "name": "StateName",
+      "type": "keyword"
+    },
+    {
+      "id": "districtname",
+      "name": "DistrictName",
+      "type": "keyword"
+    },
+    {
+      "id": "blockname",
+      "name": "BlockName",
+      "type": "keyword"
+    },
+    {
+      "id": "grampanchayatname",
+      "name": "GramPanchayatName",
+      "type": "keyword"
+    },
+    {
+      "id": "ihhltotalasperdetails",
+      "name": "IHHLTotalAsPerDetails",
+      "type": "double"
+    },
+    {
+      "id": "ihhltotalach",
+      "name": "IHHLTotalAch",
+      "type": "double"
+    },
+    {
+      "id": "date",
+      "name": "Date",
+      "type": "keyword"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 273,
+  "count": 273,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BAIRGANIA",
+      "grampanchayatname": "AKHTA PASHCHIMI (CHAKWA)",
+      "ihhltotalasperdetails": 1249,
+      "ihhltotalach": 1249,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BAIRGANIA",
+      "grampanchayatname": "BELGANJ",
+      "ihhltotalasperdetails": 1736,
+      "ihhltotalach": 1736,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BAIRGANIA",
+      "grampanchayatname": "JAMUA",
+      "ihhltotalasperdetails": 2912,
+      "ihhltotalach": 2912,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BAIRGANIA",
+      "grampanchayatname": "MUSACHAK",
+      "ihhltotalasperdetails": 1589,
+      "ihhltotalach": 1589,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BAIRGANIA",
+      "grampanchayatname": "NANDWARA",
+      "ihhltotalasperdetails": 1907,
+      "ihhltotalach": 1907,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BAIRGANIA",
+      "grampanchayatname": "PACHTAKI YADU",
+      "ihhltotalasperdetails": 1692,
+      "ihhltotalach": 1692,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BAIRGANIA",
+      "grampanchayatname": "PARSAUNI",
+      "ihhltotalasperdetails": 1726,
+      "ihhltotalach": 1726,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BAIRGANIA",
+      "grampanchayatname": "PATAHI",
+      "ihhltotalasperdetails": 1815,
+      "ihhltotalach": 1815,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BAJPATTI",
+      "grampanchayatname": "BACHOPATTI NARHA",
+      "ihhltotalasperdetails": 2067,
+      "ihhltotalach": 2067,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BAJPATTI",
+      "grampanchayatname": "BAJITPUR",
+      "ihhltotalasperdetails": 1907,
+      "ihhltotalach": 1907,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BAJPATTI",
+      "grampanchayatname": "BAJPATTI",
+      "ihhltotalasperdetails": 1495,
+      "ihhltotalach": 1495,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BAJPATTI",
+      "grampanchayatname": "BANGAON DAKSHINI",
+      "ihhltotalasperdetails": 1640,
+      "ihhltotalach": 1640,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BAJPATTI",
+      "grampanchayatname": "BANGAON UTTARI",
+      "ihhltotalasperdetails": 1805,
+      "ihhltotalach": 1805,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BAJPATTI",
+      "grampanchayatname": "BARRI FULWARIYA",
+      "ihhltotalasperdetails": 962,
+      "ihhltotalach": 962,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BAJPATTI",
+      "grampanchayatname": "BELAHIYA",
+      "ihhltotalasperdetails": 2072,
+      "ihhltotalach": 2072,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BAJPATTI",
+      "grampanchayatname": "HARPURWA",
+      "ihhltotalasperdetails": 1738,
+      "ihhltotalach": 1738,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BAJPATTI",
+      "grampanchayatname": "HUMAYUNPUR",
+      "ihhltotalasperdetails": 1784,
+      "ihhltotalach": 1784,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BAJPATTI",
+      "grampanchayatname": "MADARIPUR",
+      "ihhltotalasperdetails": 1529,
+      "ihhltotalach": 1529,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BAJPATTI",
+      "grampanchayatname": "MADHOPUR",
+      "ihhltotalasperdetails": 1937,
+      "ihhltotalach": 1937,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BAJPATTI",
+      "grampanchayatname": "MADHUBAN BASAHA PASHCHIMI",
+      "ihhltotalasperdetails": 1128,
+      "ihhltotalach": 1128,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BAJPATTI",
+      "grampanchayatname": "MADHUBAN BASAHA PURVI",
+      "ihhltotalasperdetails": 1499,
+      "ihhltotalach": 1499,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BAJPATTI",
+      "grampanchayatname": "MADHURAPUR",
+      "ihhltotalasperdetails": 1669,
+      "ihhltotalach": 1669,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BAJPATTI",
+      "grampanchayatname": "PACHRA NIMAHI",
+      "ihhltotalasperdetails": 1271,
+      "ihhltotalach": 1271,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BAJPATTI",
+      "grampanchayatname": "PATDAURA",
+      "ihhltotalasperdetails": 1157,
+      "ihhltotalach": 1157,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BAJPATTI",
+      "grampanchayatname": "PIPRARHI",
+      "ihhltotalasperdetails": 1008,
+      "ihhltotalach": 1008,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BAJPATTI",
+      "grampanchayatname": "RASALPUR",
+      "ihhltotalasperdetails": 1534,
+      "ihhltotalach": 1534,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BAJPATTI",
+      "grampanchayatname": "RATWARA",
+      "ihhltotalasperdetails": 2431,
+      "ihhltotalach": 2431,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BATHANAHA",
+      "grampanchayatname": "BAIRAHA BARAHI JIWA",
+      "ihhltotalasperdetails": 2106,
+      "ihhltotalach": 2106,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BATHANAHA",
+      "grampanchayatname": "BAKHARI",
+      "ihhltotalasperdetails": 2375,
+      "ihhltotalach": 2375,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BATHANAHA",
+      "grampanchayatname": "BATHANAHA PASHCHIMI",
+      "ihhltotalasperdetails": 632,
+      "ihhltotalach": 632,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BATHANAHA",
+      "grampanchayatname": "BATHNAHA PURVI",
+      "ihhltotalasperdetails": 1208,
+      "ihhltotalach": 1208,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BATHANAHA",
+      "grampanchayatname": "DAYANCHHAPRA",
+      "ihhltotalasperdetails": 1281,
+      "ihhltotalach": 1281,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BATHANAHA",
+      "grampanchayatname": "DIGGHI",
+      "ihhltotalasperdetails": 1560,
+      "ihhltotalach": 1560,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BATHANAHA",
+      "grampanchayatname": "HARNAHIYA",
+      "ihhltotalasperdetails": 2339,
+      "ihhltotalach": 2339,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BATHANAHA",
+      "grampanchayatname": "HARPUR BHALAHA",
+      "ihhltotalasperdetails": 1864,
+      "ihhltotalach": 1864,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BATHANAHA",
+      "grampanchayatname": "KAMALDAH",
+      "ihhltotalasperdetails": 2349,
+      "ihhltotalach": 2349,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BATHANAHA",
+      "grampanchayatname": "MAHUAWA",
+      "ihhltotalasperdetails": 753,
+      "ihhltotalach": 753,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BATHANAHA",
+      "grampanchayatname": "MAJHAULIYA",
+      "ihhltotalasperdetails": 1906,
+      "ihhltotalach": 1906,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BATHANAHA",
+      "grampanchayatname": "MATIYAR KALA",
+      "ihhltotalasperdetails": 1970,
+      "ihhltotalach": 1970,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BATHANAHA",
+      "grampanchayatname": "MAUDAH",
+      "ihhltotalasperdetails": 1285,
+      "ihhltotalach": 1285,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BATHANAHA",
+      "grampanchayatname": "NARAHA",
+      "ihhltotalasperdetails": 1581,
+      "ihhltotalach": 1581,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BATHANAHA",
+      "grampanchayatname": "PANDAUL URF PANTH PAKAR",
+      "ihhltotalasperdetails": 2588,
+      "ihhltotalach": 2588,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BATHANAHA",
+      "grampanchayatname": "RANAULI",
+      "ihhltotalasperdetails": 1760,
+      "ihhltotalach": 1760,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BATHANAHA",
+      "grampanchayatname": "RAPAULI RUPAHARA",
+      "ihhltotalasperdetails": 1449,
+      "ihhltotalach": 1449,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BATHANAHA",
+      "grampanchayatname": "SAHIYARA",
+      "ihhltotalasperdetails": 830,
+      "ihhltotalach": 830,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BATHANAHA",
+      "grampanchayatname": "SHAHPUR SHITALPATTI",
+      "ihhltotalasperdetails": 1021,
+      "ihhltotalach": 1021,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BATHANAHA",
+      "grampanchayatname": "SINGRAHIYA",
+      "ihhltotalasperdetails": 1721,
+      "ihhltotalach": 1721,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BATHANAHA",
+      "grampanchayatname": "TURKAULIYA",
+      "ihhltotalasperdetails": 1306,
+      "ihhltotalach": 1306,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BELSAND",
+      "grampanchayatname": "BHANDARI",
+      "ihhltotalasperdetails": 1356,
+      "ihhltotalach": 1356,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BELSAND",
+      "grampanchayatname": "CHANDAULI",
+      "ihhltotalasperdetails": 1439,
+      "ihhltotalach": 1439,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BELSAND",
+      "grampanchayatname": "DUMRA",
+      "ihhltotalasperdetails": 2951,
+      "ihhltotalach": 2951,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BELSAND",
+      "grampanchayatname": "JAFFARPUR",
+      "ihhltotalasperdetails": 1309,
+      "ihhltotalach": 1309,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BELSAND",
+      "grampanchayatname": "KANSAR",
+      "ihhltotalasperdetails": 1320,
+      "ihhltotalach": 1320,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BELSAND",
+      "grampanchayatname": "LOHASI",
+      "ihhltotalasperdetails": 2244,
+      "ihhltotalach": 2244,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BELSAND",
+      "grampanchayatname": "PACHNAUR",
+      "ihhltotalasperdetails": 2264,
+      "ihhltotalach": 2264,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BELSAND",
+      "grampanchayatname": "PATAHI",
+      "ihhltotalasperdetails": 1231,
+      "ihhltotalach": 1231,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BELSAND",
+      "grampanchayatname": "SAULI RUPAULI",
+      "ihhltotalasperdetails": 1537,
+      "ihhltotalach": 1537,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BOKHRA",
+      "grampanchayatname": "BAJITPUR BHAUR",
+      "ihhltotalasperdetails": 1454,
+      "ihhltotalach": 1454,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BOKHRA",
+      "grampanchayatname": "BANAUL",
+      "ihhltotalasperdetails": 2473,
+      "ihhltotalach": 2473,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BOKHRA",
+      "grampanchayatname": "BOKHRA",
+      "ihhltotalasperdetails": 2287,
+      "ihhltotalach": 2287,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BOKHRA",
+      "grampanchayatname": "BUDHNAGARA",
+      "ihhltotalasperdetails": 1357,
+      "ihhltotalach": 1357,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BOKHRA",
+      "grampanchayatname": "CHAKAUTI",
+      "ihhltotalasperdetails": 1644,
+      "ihhltotalach": 1644,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BOKHRA",
+      "grampanchayatname": "KHARKA BASANT DAKSHINI",
+      "ihhltotalasperdetails": 1611,
+      "ihhltotalach": 1611,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BOKHRA",
+      "grampanchayatname": "KHARKA BASANT UTTARI",
+      "ihhltotalasperdetails": 1386,
+      "ihhltotalach": 1386,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BOKHRA",
+      "grampanchayatname": "KURHAR",
+      "ihhltotalasperdetails": 2789,
+      "ihhltotalach": 2789,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BOKHRA",
+      "grampanchayatname": "MADHUSUDANPUR DUMRI URF MAHISAUTHA",
+      "ihhltotalasperdetails": 1582,
+      "ihhltotalach": 1582,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BOKHRA",
+      "grampanchayatname": "POKHRAIRA",
+      "ihhltotalasperdetails": 1412,
+      "ihhltotalach": 1412,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "BOKHRA",
+      "grampanchayatname": "SINGHACHAURI",
+      "ihhltotalasperdetails": 1536,
+      "ihhltotalach": 1536,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "CHORAUT",
+      "grampanchayatname": "BARRI BEHTA",
+      "ihhltotalasperdetails": 1875,
+      "ihhltotalach": 1875,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "CHORAUT",
+      "grampanchayatname": "BHANTAWARI",
+      "ihhltotalasperdetails": 1439,
+      "ihhltotalach": 1439,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "CHORAUT",
+      "grampanchayatname": "CHORAUT PASHCHIM",
+      "ihhltotalasperdetails": 2429,
+      "ihhltotalach": 2429,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "CHORAUT",
+      "grampanchayatname": "CHORAUT PURVI",
+      "ihhltotalasperdetails": 1745,
+      "ihhltotalach": 1745,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "CHORAUT",
+      "grampanchayatname": "CHORAUT UTTAR",
+      "ihhltotalasperdetails": 1756,
+      "ihhltotalach": 1756,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "CHORAUT",
+      "grampanchayatname": "PARIGAMA",
+      "ihhltotalasperdetails": 1793,
+      "ihhltotalach": 1793,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "CHORAUT",
+      "grampanchayatname": "YADUPATTI",
+      "ihhltotalasperdetails": 1941,
+      "ihhltotalach": 1941,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "DUMRA",
+      "grampanchayatname": "AZAMGARH",
+      "ihhltotalasperdetails": 2053,
+      "ihhltotalach": 2053,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "DUMRA",
+      "grampanchayatname": "BARIYARPUR",
+      "ihhltotalasperdetails": 2302,
+      "ihhltotalach": 2302,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "DUMRA",
+      "grampanchayatname": "BERWAS",
+      "ihhltotalasperdetails": 2314,
+      "ihhltotalach": 2314,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "DUMRA",
+      "grampanchayatname": "BHASAR MACHHAHA DAKSHINI",
+      "ihhltotalasperdetails": 1436,
+      "ihhltotalach": 1436,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "DUMRA",
+      "grampanchayatname": "BHASAR MACHHAHA UTTARI",
+      "ihhltotalasperdetails": 2443,
+      "ihhltotalach": 2443,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "DUMRA",
+      "grampanchayatname": "BHOOP BHAIRO",
+      "ihhltotalasperdetails": 2624,
+      "ihhltotalach": 2624,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "DUMRA",
+      "grampanchayatname": "BISHANPUR",
+      "ihhltotalasperdetails": 1907,
+      "ihhltotalach": 1907,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "DUMRA",
+      "grampanchayatname": "CHAK RAJOPATTI",
+      "ihhltotalasperdetails": 2351,
+      "ihhltotalach": 2351,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "DUMRA",
+      "grampanchayatname": "HARI CHHAPRA",
+      "ihhltotalasperdetails": 2201,
+      "ihhltotalach": 2201,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "DUMRA",
+      "grampanchayatname": "KHAIRWA",
+      "ihhltotalasperdetails": 1898,
+      "ihhltotalach": 1898,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "DUMRA",
+      "grampanchayatname": "KUMHARA BISHANPUR",
+      "ihhltotalasperdetails": 2147,
+      "ihhltotalach": 2147,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "DUMRA",
+      "grampanchayatname": "LAGMA",
+      "ihhltotalasperdetails": 2931,
+      "ihhltotalach": 2931,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "DUMRA",
+      "grampanchayatname": "MADHOPUR RAUSHAN",
+      "ihhltotalasperdetails": 2129,
+      "ihhltotalach": 2129,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "DUMRA",
+      "grampanchayatname": "MADHUBAN",
+      "ihhltotalasperdetails": 2202,
+      "ihhltotalach": 2202,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "DUMRA",
+      "grampanchayatname": "MEHSAUL GOTE",
+      "ihhltotalasperdetails": 1943,
+      "ihhltotalach": 1943,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "DUMRA",
+      "grampanchayatname": "MEHSAUL PASHCHIM",
+      "ihhltotalasperdetails": 2091,
+      "ihhltotalach": 2091,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "DUMRA",
+      "grampanchayatname": "MEHSAUL PURVI",
+      "ihhltotalasperdetails": 3160,
+      "ihhltotalach": 3160,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "DUMRA",
+      "grampanchayatname": "METHAURA",
+      "ihhltotalasperdetails": 2041,
+      "ihhltotalach": 2041,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "DUMRA",
+      "grampanchayatname": "MIRZAPUR",
+      "ihhltotalasperdetails": 2922,
+      "ihhltotalach": 2922,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "DUMRA",
+      "grampanchayatname": "MISHRAULIA",
+      "ihhltotalasperdetails": 1619,
+      "ihhltotalach": 1619,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "DUMRA",
+      "grampanchayatname": "MURADPUR",
+      "ihhltotalasperdetails": 1791,
+      "ihhltotalach": 1791,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "DUMRA",
+      "grampanchayatname": "PAROHA",
+      "ihhltotalasperdetails": 2093,
+      "ihhltotalach": 2093,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "DUMRA",
+      "grampanchayatname": "PUNAURA PASHCHIM",
+      "ihhltotalasperdetails": 788,
+      "ihhltotalach": 788,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "DUMRA",
+      "grampanchayatname": "PUNAURA PURVI",
+      "ihhltotalasperdetails": 1546,
+      "ihhltotalach": 1546,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "DUMRA",
+      "grampanchayatname": "RAMPUR PARORI",
+      "ihhltotalasperdetails": 1940,
+      "ihhltotalach": 1940,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "DUMRA",
+      "grampanchayatname": "RANJEETPUR PASHCHIM",
+      "ihhltotalasperdetails": 1469,
+      "ihhltotalach": 1469,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "DUMRA",
+      "grampanchayatname": "RANJEETPUR PURVI",
+      "ihhltotalasperdetails": 1727,
+      "ihhltotalach": 1727,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "DUMRA",
+      "grampanchayatname": "RASALPUR",
+      "ihhltotalasperdetails": 1131,
+      "ihhltotalach": 1131,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "MAJORGANJ",
+      "grampanchayatname": "BAHERA",
+      "ihhltotalasperdetails": 1806,
+      "ihhltotalach": 1806,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "MAJORGANJ",
+      "grampanchayatname": "BASABITTA",
+      "ihhltotalasperdetails": 1979,
+      "ihhltotalach": 1979,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "MAJORGANJ",
+      "grampanchayatname": "DUMARI KALA",
+      "ihhltotalasperdetails": 3856,
+      "ihhltotalach": 3856,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "MAJORGANJ",
+      "grampanchayatname": "KHAIRWA",
+      "ihhltotalasperdetails": 2435,
+      "ihhltotalach": 2435,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "MAJORGANJ",
+      "grampanchayatname": "KUARI MADAN",
+      "ihhltotalasperdetails": 2520,
+      "ihhltotalach": 2520,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "MAJORGANJ",
+      "grampanchayatname": "MAJORGANJ",
+      "ihhltotalasperdetails": 1297,
+      "ihhltotalach": 1297,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "MAJORGANJ",
+      "grampanchayatname": "PACHAHARWA",
+      "ihhltotalasperdetails": 2084,
+      "ihhltotalach": 2084,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "MAJORGANJ",
+      "grampanchayatname": "RATANPUR",
+      "ihhltotalasperdetails": 1988,
+      "ihhltotalach": 1988,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "NANPUR",
+      "grampanchayatname": "BAHERA ZAHIDPUR",
+      "ihhltotalasperdetails": 1410,
+      "ihhltotalach": 1410,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "NANPUR",
+      "grampanchayatname": "BATH ASLI",
+      "ihhltotalasperdetails": 1505,
+      "ihhltotalach": 1505,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "NANPUR",
+      "grampanchayatname": "BHADIYAN",
+      "ihhltotalasperdetails": 1772,
+      "ihhltotalach": 1772,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "NANPUR",
+      "grampanchayatname": "BIRAR",
+      "ihhltotalasperdetails": 1998,
+      "ihhltotalach": 1998,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "NANPUR",
+      "grampanchayatname": "DADRI",
+      "ihhltotalasperdetails": 2197,
+      "ihhltotalach": 2197,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "NANPUR",
+      "grampanchayatname": "DORPUR",
+      "ihhltotalasperdetails": 928,
+      "ihhltotalach": 928,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "NANPUR",
+      "grampanchayatname": "GAURA",
+      "ihhltotalasperdetails": 1386,
+      "ihhltotalach": 1386,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "NANPUR",
+      "grampanchayatname": "GAURI",
+      "ihhltotalasperdetails": 1269,
+      "ihhltotalach": 1269,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "NANPUR",
+      "grampanchayatname": "JANIPUR",
+      "ihhltotalasperdetails": 1157,
+      "ihhltotalach": 1157,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "NANPUR",
+      "grampanchayatname": "KAURIYA RAIPUR",
+      "ihhltotalasperdetails": 1468,
+      "ihhltotalach": 1468,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "NANPUR",
+      "grampanchayatname": "KOILI",
+      "ihhltotalasperdetails": 1977,
+      "ihhltotalach": 1977,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "NANPUR",
+      "grampanchayatname": "MAJHAUR",
+      "ihhltotalasperdetails": 1660,
+      "ihhltotalach": 1660,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "NANPUR",
+      "grampanchayatname": "MOHINI",
+      "ihhltotalasperdetails": 985,
+      "ihhltotalach": 985,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "NANPUR",
+      "grampanchayatname": "NANPUR  UTTARI",
+      "ihhltotalasperdetails": 1213,
+      "ihhltotalach": 1213,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "NANPUR",
+      "grampanchayatname": "NANPUR DAKSHINI",
+      "ihhltotalasperdetails": 1684,
+      "ihhltotalach": 1684,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "NANPUR",
+      "grampanchayatname": "PANDAUL  BUZURG",
+      "ihhltotalasperdetails": 799,
+      "ihhltotalach": 799,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "NANPUR",
+      "grampanchayatname": "SIRSI",
+      "ihhltotalasperdetails": 1543,
+      "ihhltotalach": 1543,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "PARIHAR",
+      "grampanchayatname": "BABURBAN",
+      "ihhltotalasperdetails": 1920,
+      "ihhltotalach": 1920,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "PARIHAR",
+      "grampanchayatname": "BARAHI",
+      "ihhltotalasperdetails": 1536,
+      "ihhltotalach": 1536,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "PARIHAR",
+      "grampanchayatname": "BATHUARA",
+      "ihhltotalasperdetails": 1828,
+      "ihhltotalach": 1828,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "PARIHAR",
+      "grampanchayatname": "BAYA",
+      "ihhltotalasperdetails": 1530,
+      "ihhltotalach": 1530,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "PARIHAR",
+      "grampanchayatname": "BELA MACHHPAKAUNI",
+      "ihhltotalasperdetails": 1568,
+      "ihhltotalach": 1568,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "PARIHAR",
+      "grampanchayatname": "BETAHA",
+      "ihhltotalasperdetails": 1297,
+      "ihhltotalach": 1297,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "PARIHAR",
+      "grampanchayatname": "BHERRAHIYA",
+      "ihhltotalasperdetails": 2012,
+      "ihhltotalach": 2012,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "PARIHAR",
+      "grampanchayatname": "BISHANPUR",
+      "ihhltotalasperdetails": 2142,
+      "ihhltotalach": 2142,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "PARIHAR",
+      "grampanchayatname": "DHANAHA",
+      "ihhltotalasperdetails": 2082,
+      "ihhltotalach": 2082,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "PARIHAR",
+      "grampanchayatname": "DHARHARWA",
+      "ihhltotalasperdetails": 2190,
+      "ihhltotalach": 2190,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "PARIHAR",
+      "grampanchayatname": "JAGDAR",
+      "ihhltotalasperdetails": 1656,
+      "ihhltotalach": 1656,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "PARIHAR",
+      "grampanchayatname": "KANHAWA",
+      "ihhltotalasperdetails": 1675,
+      "ihhltotalach": 1675,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "PARIHAR",
+      "grampanchayatname": "KHAIRWA MALAH",
+      "ihhltotalasperdetails": 1736,
+      "ihhltotalach": 1736,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "PARIHAR",
+      "grampanchayatname": "KOIRIYA PIPRA",
+      "ihhltotalasperdetails": 1089,
+      "ihhltotalach": 1089,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "PARIHAR",
+      "grampanchayatname": "LAHURIA",
+      "ihhltotalasperdetails": 1315,
+      "ihhltotalach": 1315,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "PARIHAR",
+      "grampanchayatname": "MAHADEOPATTI",
+      "ihhltotalasperdetails": 1728,
+      "ihhltotalach": 1728,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "PARIHAR",
+      "grampanchayatname": "MANIKPUR MUSHAHARNIYA",
+      "ihhltotalasperdetails": 1338,
+      "ihhltotalach": 1338,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "PARIHAR",
+      "grampanchayatname": "MANPAUR",
+      "ihhltotalasperdetails": 1636,
+      "ihhltotalach": 1636,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "PARIHAR",
+      "grampanchayatname": "NARANGA DAKSHINI",
+      "ihhltotalasperdetails": 2208,
+      "ihhltotalach": 2208,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "PARIHAR",
+      "grampanchayatname": "NARANGA UTTARI",
+      "ihhltotalasperdetails": 1960,
+      "ihhltotalach": 1960,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "PARIHAR",
+      "grampanchayatname": "PARIHAR DAKSHINI",
+      "ihhltotalasperdetails": 1973,
+      "ihhltotalach": 1973,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "PARIHAR",
+      "grampanchayatname": "PARIHAR UTTARI",
+      "ihhltotalasperdetails": 1577,
+      "ihhltotalach": 1577,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "PARIHAR",
+      "grampanchayatname": "PARSA",
+      "ihhltotalasperdetails": 1446,
+      "ihhltotalach": 1446,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "PARIHAR",
+      "grampanchayatname": "PIPRA BISHAN PUR",
+      "ihhltotalasperdetails": 1896,
+      "ihhltotalach": 1896,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "PARIHAR",
+      "grampanchayatname": "PRASANDI",
+      "ihhltotalasperdetails": 2611,
+      "ihhltotalach": 2611,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "PARIHAR",
+      "grampanchayatname": "SIRSIYA",
+      "ihhltotalasperdetails": 2201,
+      "ihhltotalach": 2201,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "PARIHAR",
+      "grampanchayatname": "SUTIHARA",
+      "ihhltotalasperdetails": 2255,
+      "ihhltotalach": 2255,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "PARSAUNI",
+      "grampanchayatname": "DEMA",
+      "ihhltotalasperdetails": 1204,
+      "ihhltotalach": 1204,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "PARSAUNI",
+      "grampanchayatname": "GISARA",
+      "ihhltotalasperdetails": 1452,
+      "ihhltotalach": 1452,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "PARSAUNI",
+      "grampanchayatname": "KATHAUR",
+      "ihhltotalasperdetails": 2008,
+      "ihhltotalach": 2008,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "PARSAUNI",
+      "grampanchayatname": "MADANPUR",
+      "ihhltotalasperdetails": 2331,
+      "ihhltotalach": 2331,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "PARSAUNI",
+      "grampanchayatname": "PARSAUNI  KHIRODHAR",
+      "ihhltotalasperdetails": 2519,
+      "ihhltotalach": 2519,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "PARSAUNI",
+      "grampanchayatname": "PARSAUNI MAILWAR",
+      "ihhltotalasperdetails": 2029,
+      "ihhltotalach": 2029,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "PARSAUNI",
+      "grampanchayatname": "PARSURAMPUR",
+      "ihhltotalasperdetails": 1907,
+      "ihhltotalach": 1907,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "PUPRI",
+      "grampanchayatname": "AWAPUR DAKSHINI",
+      "ihhltotalasperdetails": 1291,
+      "ihhltotalach": 1291,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "PUPRI",
+      "grampanchayatname": "AWAPUR UTTARI",
+      "ihhltotalasperdetails": 1867,
+      "ihhltotalach": 1867,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "PUPRI",
+      "grampanchayatname": "BACHHARPUR",
+      "ihhltotalasperdetails": 1649,
+      "ihhltotalach": 1649,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "PUPRI",
+      "grampanchayatname": "BAJITPUR BAURA",
+      "ihhltotalasperdetails": 2158,
+      "ihhltotalach": 2158,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "PUPRI",
+      "grampanchayatname": "BALHA MAKSUDAN",
+      "ihhltotalasperdetails": 2394,
+      "ihhltotalach": 2394,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "PUPRI",
+      "grampanchayatname": "BHITHA DHARAMPUR",
+      "ihhltotalasperdetails": 2073,
+      "ihhltotalach": 2073,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "PUPRI",
+      "grampanchayatname": "GANGTI",
+      "ihhltotalasperdetails": 1107,
+      "ihhltotalach": 1107,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "PUPRI",
+      "grampanchayatname": "GARHA",
+      "ihhltotalasperdetails": 1974,
+      "ihhltotalach": 1974,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "PUPRI",
+      "grampanchayatname": "HARDIYA",
+      "ihhltotalasperdetails": 2516,
+      "ihhltotalach": 2516,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "PUPRI",
+      "grampanchayatname": "HARIHAR PUR",
+      "ihhltotalasperdetails": 2125,
+      "ihhltotalach": 2125,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "PUPRI",
+      "grampanchayatname": "JHAJHIHAT",
+      "ihhltotalasperdetails": 1566,
+      "ihhltotalach": 1566,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "PUPRI",
+      "grampanchayatname": "PUPRI",
+      "ihhltotalasperdetails": 1985,
+      "ihhltotalach": 1985,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "PUPRI",
+      "grampanchayatname": "RAM NAGAR BEDAUL",
+      "ihhltotalasperdetails": 1806,
+      "ihhltotalach": 1806,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "RIGA",
+      "grampanchayatname": "ANAHARI",
+      "ihhltotalasperdetails": 2253,
+      "ihhltotalach": 2253,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "RIGA",
+      "grampanchayatname": "BHAGWANPUR",
+      "ihhltotalasperdetails": 2372,
+      "ihhltotalach": 2372,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "RIGA",
+      "grampanchayatname": "BHAWDEPUR",
+      "ihhltotalasperdetails": 2586,
+      "ihhltotalach": 2586,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "RIGA",
+      "grampanchayatname": "BULAKIPUR",
+      "ihhltotalasperdetails": 2510,
+      "ihhltotalach": 2510,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "RIGA",
+      "grampanchayatname": "GANESHPUR BABHANGAMA",
+      "ihhltotalasperdetails": 1701,
+      "ihhltotalach": 1701,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "RIGA",
+      "grampanchayatname": "KUSUMARI",
+      "ihhltotalasperdetails": 1910,
+      "ihhltotalach": 1910,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "RIGA",
+      "grampanchayatname": "MEHASIA",
+      "ihhltotalasperdetails": 2470,
+      "ihhltotalach": 2470,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "RIGA",
+      "grampanchayatname": "PAKRI MATHWA",
+      "ihhltotalasperdetails": 2849,
+      "ihhltotalach": 2849,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "RIGA",
+      "grampanchayatname": "POSUA PATANIA",
+      "ihhltotalasperdetails": 1809,
+      "ihhltotalach": 1809,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "RIGA",
+      "grampanchayatname": "REWASI",
+      "ihhltotalasperdetails": 2693,
+      "ihhltotalach": 2693,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "RIGA",
+      "grampanchayatname": "RIGA FIRST",
+      "ihhltotalasperdetails": 3054,
+      "ihhltotalach": 3054,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "RIGA",
+      "grampanchayatname": "RIGA SECOND",
+      "ihhltotalasperdetails": 2422,
+      "ihhltotalach": 2422,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "RIGA",
+      "grampanchayatname": "SAHBAJPUR",
+      "ihhltotalasperdetails": 3731,
+      "ihhltotalach": 3731,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "RIGA",
+      "grampanchayatname": "SIRAHI",
+      "ihhltotalasperdetails": 2239,
+      "ihhltotalach": 2239,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "RIGA",
+      "grampanchayatname": "SIRAULI  FIRST",
+      "ihhltotalasperdetails": 2136,
+      "ihhltotalach": 2136,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "RIGA",
+      "grampanchayatname": "SIRAULI SECOND",
+      "ihhltotalasperdetails": 2700,
+      "ihhltotalach": 2700,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "RUNNISAIDPUR",
+      "grampanchayatname": "ATHARI",
+      "ihhltotalasperdetails": 2459,
+      "ihhltotalach": 2459,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "RUNNISAIDPUR",
+      "grampanchayatname": "BAGHARI",
+      "ihhltotalasperdetails": 2118,
+      "ihhltotalach": 2118,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "RUNNISAIDPUR",
+      "grampanchayatname": "BAHILWARA URF GARHA",
+      "ihhltotalasperdetails": 2832,
+      "ihhltotalach": 2832,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "RUNNISAIDPUR",
+      "grampanchayatname": "BALUA",
+      "ihhltotalasperdetails": 2192,
+      "ihhltotalach": 2192,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "RUNNISAIDPUR",
+      "grampanchayatname": "BARHETA",
+      "ihhltotalasperdetails": 2664,
+      "ihhltotalach": 2664,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "RUNNISAIDPUR",
+      "grampanchayatname": "BELAHI NILKANTH",
+      "ihhltotalasperdetails": 4554,
+      "ihhltotalach": 4554,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "RUNNISAIDPUR",
+      "grampanchayatname": "BENGAHI RAMNAGAR",
+      "ihhltotalasperdetails": 1791,
+      "ihhltotalach": 1791,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "RUNNISAIDPUR",
+      "grampanchayatname": "BILANDPUR",
+      "ihhltotalasperdetails": 335,
+      "ihhltotalach": 335,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "RUNNISAIDPUR",
+      "grampanchayatname": "DEONA BUZURG",
+      "ihhltotalasperdetails": 2547,
+      "ihhltotalach": 2547,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "RUNNISAIDPUR",
+      "grampanchayatname": "DHANUKHI",
+      "ihhltotalasperdetails": 2959,
+      "ihhltotalach": 2959,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "RUNNISAIDPUR",
+      "grampanchayatname": "GANGWARA BUZURG",
+      "ihhltotalasperdetails": 2009,
+      "ihhltotalach": 2009,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "RUNNISAIDPUR",
+      "grampanchayatname": "GIDDHA FULWARIYA",
+      "ihhltotalasperdetails": 1110,
+      "ihhltotalach": 1110,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "RUNNISAIDPUR",
+      "grampanchayatname": "GURUDAH URF GAUSNAGAR",
+      "ihhltotalasperdetails": 1283,
+      "ihhltotalach": 1283,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "RUNNISAIDPUR",
+      "grampanchayatname": "KAURIYA LALPUR",
+      "ihhltotalasperdetails": 2120,
+      "ihhltotalach": 2120,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "RUNNISAIDPUR",
+      "grampanchayatname": "KHARKA",
+      "ihhltotalasperdetails": 399,
+      "ihhltotalach": 399,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "RUNNISAIDPUR",
+      "grampanchayatname": "MADHAUL SHANI",
+      "ihhltotalasperdetails": 1812,
+      "ihhltotalach": 1812,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "RUNNISAIDPUR",
+      "grampanchayatname": "MAHESHA FARAKPUR",
+      "ihhltotalasperdetails": 1622,
+      "ihhltotalach": 1622,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "RUNNISAIDPUR",
+      "grampanchayatname": "MAHINDWARA",
+      "ihhltotalasperdetails": 1831,
+      "ihhltotalach": 1831,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "RUNNISAIDPUR",
+      "grampanchayatname": "MAHISAR",
+      "ihhltotalasperdetails": 1385,
+      "ihhltotalach": 1385,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "RUNNISAIDPUR",
+      "grampanchayatname": "MANIK CHAUK DAKSHINI",
+      "ihhltotalasperdetails": 2114,
+      "ihhltotalach": 2114,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "RUNNISAIDPUR",
+      "grampanchayatname": "MANIK CHAUK PASHCHIMI",
+      "ihhltotalasperdetails": 1526,
+      "ihhltotalach": 1526,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "RUNNISAIDPUR",
+      "grampanchayatname": "MANIK CHAUK UTTARI",
+      "ihhltotalasperdetails": 1586,
+      "ihhltotalach": 1586,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "RUNNISAIDPUR",
+      "grampanchayatname": "MORSAND",
+      "ihhltotalasperdetails": 3119,
+      "ihhltotalach": 3119,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "RUNNISAIDPUR",
+      "grampanchayatname": "OLIPUR SARHACHIYA",
+      "ihhltotalasperdetails": 1689,
+      "ihhltotalach": 1689,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "RUNNISAIDPUR",
+      "grampanchayatname": "PREM NAGAR",
+      "ihhltotalasperdetails": 1861,
+      "ihhltotalach": 1861,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "RUNNISAIDPUR",
+      "grampanchayatname": "RAIN BISHUNI",
+      "ihhltotalasperdetails": 1887,
+      "ihhltotalach": 1887,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "RUNNISAIDPUR",
+      "grampanchayatname": "RUNNI SAIDPUR DAKSHINI",
+      "ihhltotalasperdetails": 1839,
+      "ihhltotalach": 1839,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "RUNNISAIDPUR",
+      "grampanchayatname": "RUNNI SAIDPUR MADHYA",
+      "ihhltotalasperdetails": 1906,
+      "ihhltotalach": 1906,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "RUNNISAIDPUR",
+      "grampanchayatname": "RUNNI SAIDPUR UTTAR",
+      "ihhltotalasperdetails": 2386,
+      "ihhltotalach": 2386,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "RUNNISAIDPUR",
+      "grampanchayatname": "SIRKHIRIYA",
+      "ihhltotalasperdetails": 2164,
+      "ihhltotalach": 2164,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "RUNNISAIDPUR",
+      "grampanchayatname": "THUMMA",
+      "ihhltotalasperdetails": 2188,
+      "ihhltotalach": 2188,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "RUNNISAIDPUR",
+      "grampanchayatname": "TIKAULI",
+      "ihhltotalasperdetails": 2772,
+      "ihhltotalach": 2772,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "RUNNISAIDPUR",
+      "grampanchayatname": "TILAK TAJPUR",
+      "ihhltotalasperdetails": 2667,
+      "ihhltotalach": 2667,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "SONBARSA",
+      "grampanchayatname": "BAGAHA",
+      "ihhltotalasperdetails": 2425,
+      "ihhltotalach": 2425,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "SONBARSA",
+      "grampanchayatname": "BHALUAHA",
+      "ihhltotalasperdetails": 3089,
+      "ihhltotalach": 3089,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "SONBARSA",
+      "grampanchayatname": "BHUTAHI",
+      "ihhltotalasperdetails": 1500,
+      "ihhltotalach": 1500,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "SONBARSA",
+      "grampanchayatname": "BISHUNPUR ADHAR",
+      "ihhltotalasperdetails": 2044,
+      "ihhltotalach": 2044,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "SONBARSA",
+      "grampanchayatname": "BISHUNPUR GONAHI",
+      "ihhltotalasperdetails": 1135,
+      "ihhltotalach": 1135,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "SONBARSA",
+      "grampanchayatname": "DOSTIYA",
+      "ihhltotalasperdetails": 2240,
+      "ihhltotalach": 2240,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "SONBARSA",
+      "grampanchayatname": "GHURGHURA  HANUMANNAGAR",
+      "ihhltotalasperdetails": 1099,
+      "ihhltotalach": 1099,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "SONBARSA",
+      "grampanchayatname": "INDARWA",
+      "ihhltotalasperdetails": 2658,
+      "ihhltotalach": 2658,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "SONBARSA",
+      "grampanchayatname": "JAINAGAR",
+      "ihhltotalasperdetails": 1928,
+      "ihhltotalach": 1928,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "SONBARSA",
+      "grampanchayatname": "KACHAUR",
+      "ihhltotalasperdetails": 2179,
+      "ihhltotalach": 2179,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "SONBARSA",
+      "grampanchayatname": "KANHAULI",
+      "ihhltotalasperdetails": 2078,
+      "ihhltotalach": 2078,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "SONBARSA",
+      "grampanchayatname": "KHAP KHOPRAHA",
+      "ihhltotalasperdetails": 1105,
+      "ihhltotalach": 1105,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "SONBARSA",
+      "grampanchayatname": "MADHESARA",
+      "ihhltotalasperdetails": 1545,
+      "ihhltotalach": 1545,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "SONBARSA",
+      "grampanchayatname": "MADHIYA",
+      "ihhltotalasperdetails": 2159,
+      "ihhltotalach": 2159,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "SONBARSA",
+      "grampanchayatname": "MARPA",
+      "ihhltotalasperdetails": 1702,
+      "ihhltotalach": 1702,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "SONBARSA",
+      "grampanchayatname": "PIPRA PARSAIN",
+      "ihhltotalasperdetails": 1455,
+      "ihhltotalach": 1455,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "SONBARSA",
+      "grampanchayatname": "PURANDAHA RAJAWARA PASHCHIM",
+      "ihhltotalasperdetails": 2988,
+      "ihhltotalach": 2988,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "SONBARSA",
+      "grampanchayatname": "PURANDAHA RAJAWARA PURVI",
+      "ihhltotalasperdetails": 1600,
+      "ihhltotalach": 1600,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "SONBARSA",
+      "grampanchayatname": "SINGHWAHINI",
+      "ihhltotalasperdetails": 1906,
+      "ihhltotalach": 1906,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "SONBARSA",
+      "grampanchayatname": "SONBARSA",
+      "ihhltotalasperdetails": 2296,
+      "ihhltotalach": 2296,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "SUPPI",
+      "grampanchayatname": "AKHTA  POORAV",
+      "ihhltotalasperdetails": 2597,
+      "ihhltotalach": 2597,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "SUPPI",
+      "grampanchayatname": "AKHTA UTTAR",
+      "ihhltotalasperdetails": 1549,
+      "ihhltotalach": 1549,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "SUPPI",
+      "grampanchayatname": "BABHANGAMA",
+      "ihhltotalasperdetails": 2070,
+      "ihhltotalach": 2070,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "SUPPI",
+      "grampanchayatname": "BARHAHARWA",
+      "ihhltotalasperdetails": 2309,
+      "ihhltotalach": 2309,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "SUPPI",
+      "grampanchayatname": "GHARWARA",
+      "ihhltotalasperdetails": 2344,
+      "ihhltotalach": 2344,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "SUPPI",
+      "grampanchayatname": "HARPUR PIPRA",
+      "ihhltotalasperdetails": 2150,
+      "ihhltotalach": 2150,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "SUPPI",
+      "grampanchayatname": "KOTHIA RAI",
+      "ihhltotalasperdetails": 2287,
+      "ihhltotalach": 2287,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "SUPPI",
+      "grampanchayatname": "MANIYARI",
+      "ihhltotalasperdetails": 1784,
+      "ihhltotalach": 1784,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "SUPPI",
+      "grampanchayatname": "MOHANI MANDAL",
+      "ihhltotalasperdetails": 3086,
+      "ihhltotalach": 3086,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "SUPPI",
+      "grampanchayatname": "NARAHA",
+      "ihhltotalasperdetails": 1329,
+      "ihhltotalach": 1329,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "SUPPI",
+      "grampanchayatname": "SASAULA",
+      "ihhltotalasperdetails": 2319,
+      "ihhltotalach": 2319,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "SURSAND",
+      "grampanchayatname": "AMANA",
+      "ihhltotalasperdetails": 2103,
+      "ihhltotalach": 2103,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "SURSAND",
+      "grampanchayatname": "BAGHADI",
+      "ihhltotalasperdetails": 1897,
+      "ihhltotalach": 1897,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "SURSAND",
+      "grampanchayatname": "BANAULI",
+      "ihhltotalasperdetails": 1276,
+      "ihhltotalach": 1276,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "SURSAND",
+      "grampanchayatname": "BIRRAKH",
+      "ihhltotalasperdetails": 1094,
+      "ihhltotalach": 1094,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "SURSAND",
+      "grampanchayatname": "DADHAWARI",
+      "ihhltotalasperdetails": 1376,
+      "ihhltotalach": 1376,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "SURSAND",
+      "grampanchayatname": "DIWARI MATAUNA",
+      "ihhltotalasperdetails": 1234,
+      "ihhltotalach": 1234,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "SURSAND",
+      "grampanchayatname": "KADARWANA",
+      "ihhltotalasperdetails": 1921,
+      "ihhltotalach": 1921,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "SURSAND",
+      "grampanchayatname": "KORIYAHI",
+      "ihhltotalasperdetails": 738,
+      "ihhltotalach": 738,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "SURSAND",
+      "grampanchayatname": "KUMMA",
+      "ihhltotalasperdetails": 1980,
+      "ihhltotalach": 1980,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "SURSAND",
+      "grampanchayatname": "MALAHI",
+      "ihhltotalasperdetails": 2047,
+      "ihhltotalach": 2047,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "SURSAND",
+      "grampanchayatname": "MARUKI",
+      "ihhltotalasperdetails": 2180,
+      "ihhltotalach": 2180,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "SURSAND",
+      "grampanchayatname": "PATHANPURA",
+      "ihhltotalasperdetails": 1519,
+      "ihhltotalach": 1519,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "SURSAND",
+      "grampanchayatname": "RADHAUR",
+      "ihhltotalasperdetails": 2106,
+      "ihhltotalach": 2106,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "SURSAND",
+      "grampanchayatname": "SHRIKHANDI BHITTA  PASHCHIMI",
+      "ihhltotalasperdetails": 1423,
+      "ihhltotalach": 1423,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "SURSAND",
+      "grampanchayatname": "SRI KHANDI BHITTA  PURVI",
+      "ihhltotalasperdetails": 1058,
+      "ihhltotalach": 1058,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "SURSAND",
+      "grampanchayatname": "SURSAND PASHCHIMI",
+      "ihhltotalasperdetails": 1124,
+      "ihhltotalach": 1124,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "SURSAND",
+      "grampanchayatname": "SURSAND PURVI",
+      "ihhltotalasperdetails": 1122,
+      "ihhltotalach": 1122,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SITAMARHI",
+      "blockname": "SURSAND",
+      "grampanchayatname": "SURSAND UTTARI",
+      "ihhltotalasperdetails": 1898,
+      "ihhltotalach": 1898,
+      "date": "5/19/2020 12:00:00 AM"
+    }
+  ]
+}

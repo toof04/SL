@@ -1,0 +1,773 @@
+{
+  "index_name": "2f1c7513-81e9-41ee-a66a-52bb4bc1ad96",
+  "title": "Gram Panchayat-wise Rural Sanitation Coverage in Marigaon District of Assam as on date",
+  "desc": "Gram Panchayat-wise Rural Sanitation Coverage in Marigaon District of Assam as on date",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Jal Shakti",
+    "Department of Drinking Water and Sanitation"
+  ],
+  "sector": [
+    "Water and Sanitation"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1688360228,
+  "updated": 1688364896,
+  "created_date": "2023-07-03T06:57:08Z",
+  "updated_date": "2023-07-03T11:44:56Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "sbm",
+    "type": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+    "field": "2f1c7513-81e9-41ee-a66a-52bb4bc1ad96"
+  },
+  "field": [
+    {
+      "id": "statename",
+      "name": "StateName",
+      "type": "keyword"
+    },
+    {
+      "id": "districtname",
+      "name": "DistrictName",
+      "type": "keyword"
+    },
+    {
+      "id": "blockname",
+      "name": "blockName",
+      "type": "keyword"
+    },
+    {
+      "id": "grampanchayatname",
+      "name": "GramPanchayatName",
+      "type": "keyword"
+    },
+    {
+      "id": "ihhltotalasperdetails",
+      "name": "IHHLTotalAsPerDetails",
+      "type": "double"
+    },
+    {
+      "id": "ihhltotalach",
+      "name": "IHHLTotalAch",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 88,
+  "count": 88,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "BATABRABA (PART)",
+      "grampanchayatname": "SILPUKHURI",
+      "ihhltotalasperdetails": 2497,
+      "ihhltotalach": 712
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "BHURBANDHA",
+      "grampanchayatname": "AZARBARI",
+      "ihhltotalasperdetails": 1476,
+      "ihhltotalach": 1476
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "BHURBANDHA",
+      "grampanchayatname": "BAGHARA",
+      "ihhltotalasperdetails": 1483,
+      "ihhltotalach": 1438
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "BHURBANDHA",
+      "grampanchayatname": "BARANGABARI",
+      "ihhltotalasperdetails": 1707,
+      "ihhltotalach": 1707
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "BHURBANDHA",
+      "grampanchayatname": "BHURBANDHA",
+      "ihhltotalasperdetails": 2445,
+      "ihhltotalach": 2445
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "BHURBANDHA",
+      "grampanchayatname": "DANDUA",
+      "ihhltotalasperdetails": 2156,
+      "ihhltotalach": 2156
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "BHURBANDHA",
+      "grampanchayatname": "DIGHALBARI",
+      "ihhltotalasperdetails": 1742,
+      "ihhltotalach": 1655
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "BHURBANDHA",
+      "grampanchayatname": "HABI BARANGABARI",
+      "ihhltotalasperdetails": 1498,
+      "ihhltotalach": 1383
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "BHURBANDHA",
+      "grampanchayatname": "KONWARGAON",
+      "ihhltotalasperdetails": 1709,
+      "ihhltotalach": 1669
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "BHURBANDHA",
+      "grampanchayatname": "MANIPUR",
+      "ihhltotalasperdetails": 2395,
+      "ihhltotalach": 2177
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "BHURBANDHA",
+      "grampanchayatname": "MIKIRBHETA",
+      "ihhltotalasperdetails": 1703,
+      "ihhltotalach": 1616
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "BHURBANDHA",
+      "grampanchayatname": "RANGADARIA",
+      "ihhltotalasperdetails": 2424,
+      "ihhltotalach": 1812
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "BHURBANDHA",
+      "grampanchayatname": "SOLMARI",
+      "ihhltotalasperdetails": 1302,
+      "ihhltotalach": 1300
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "BHURBANDHA",
+      "grampanchayatname": "TARABORI",
+      "ihhltotalasperdetails": 2528,
+      "ihhltotalach": 2379
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "DOLONGGHAT (PART)",
+      "grampanchayatname": "BHAKATGAON",
+      "ihhltotalasperdetails": 1397,
+      "ihhltotalach": 1299
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "DOLONGGHAT (PART)",
+      "grampanchayatname": "BORCHILA",
+      "ihhltotalasperdetails": 2716,
+      "ihhltotalach": 1548
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "DOLONGGHAT (PART)",
+      "grampanchayatname": "CHABUKDHARA",
+      "ihhltotalasperdetails": 1598,
+      "ihhltotalach": 1482
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "DOLONGGHAT (PART)",
+      "grampanchayatname": "PAGHALI",
+      "ihhltotalasperdetails": 2503,
+      "ihhltotalach": 2236
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "KAPILI",
+      "grampanchayatname": "BORBHAGIA",
+      "ihhltotalasperdetails": 1708,
+      "ihhltotalach": 1708
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "KAPILI",
+      "grampanchayatname": "CHARAIBAHI",
+      "ihhltotalasperdetails": 1738,
+      "ihhltotalach": 1733
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "KAPILI",
+      "grampanchayatname": "JALUGUTI",
+      "ihhltotalasperdetails": 2062,
+      "ihhltotalach": 1997
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "KAPILI",
+      "grampanchayatname": "KALMOUBARI",
+      "ihhltotalasperdetails": 2103,
+      "ihhltotalach": 2069
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "KAPILI",
+      "grampanchayatname": "MIKIRGAON",
+      "ihhltotalasperdetails": 1769,
+      "ihhltotalach": 1767
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "LAHARIGHAT",
+      "grampanchayatname": "BALIDUNGA",
+      "ihhltotalasperdetails": 1807,
+      "ihhltotalach": 1177
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "LAHARIGHAT",
+      "grampanchayatname": "BARALIMARI",
+      "ihhltotalasperdetails": 2495,
+      "ihhltotalach": 1734
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "LAHARIGHAT",
+      "grampanchayatname": "BHURAGAON",
+      "ihhltotalasperdetails": 1356,
+      "ihhltotalach": 1228
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "LAHARIGHAT",
+      "grampanchayatname": "BORCHALA",
+      "ihhltotalasperdetails": 2230,
+      "ihhltotalach": 1078
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "LAHARIGHAT",
+      "grampanchayatname": "BORDUBATUP",
+      "ihhltotalasperdetails": 2422,
+      "ihhltotalach": 2005
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "LAHARIGHAT",
+      "grampanchayatname": "BOWALGURI",
+      "ihhltotalasperdetails": 1900,
+      "ihhltotalach": 873
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "LAHARIGHAT",
+      "grampanchayatname": "DHUMKURA",
+      "ihhltotalasperdetails": 1822,
+      "ihhltotalach": 1064
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "LAHARIGHAT",
+      "grampanchayatname": "DHUPGURI",
+      "ihhltotalasperdetails": 1851,
+      "ihhltotalach": 1491
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "LAHARIGHAT",
+      "grampanchayatname": "HAIBARGAON",
+      "ihhltotalasperdetails": 1166,
+      "ihhltotalach": 572
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "LAHARIGHAT",
+      "grampanchayatname": "JARIBOR",
+      "ihhltotalasperdetails": 1937,
+      "ihhltotalach": 1736
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "LAHARIGHAT",
+      "grampanchayatname": "KACHARIBORI",
+      "ihhltotalasperdetails": 2257,
+      "ihhltotalach": 1439
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "LAHARIGHAT",
+      "grampanchayatname": "KATHANI",
+      "ihhltotalasperdetails": 1643,
+      "ihhltotalach": 1124
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "LAHARIGHAT",
+      "grampanchayatname": "KUSHTOLI",
+      "ihhltotalasperdetails": 1387,
+      "ihhltotalach": 816
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "LAHARIGHAT",
+      "grampanchayatname": "LAHARIGHAT",
+      "ihhltotalasperdetails": 1465,
+      "ihhltotalach": 744
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "LAHARIGHAT",
+      "grampanchayatname": "LAWBHURUNGA",
+      "ihhltotalasperdetails": 1185,
+      "ihhltotalach": 691
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "LAHARIGHAT",
+      "grampanchayatname": "NAGABANDHA",
+      "ihhltotalasperdetails": 2440,
+      "ihhltotalach": 2256
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "LAHARIGHAT",
+      "grampanchayatname": "NIZ-CHAHARIA",
+      "ihhltotalasperdetails": 620,
+      "ihhltotalach": 450
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "LAHARIGHAT",
+      "grampanchayatname": "NIZ-GERUA",
+      "ihhltotalasperdetails": 3399,
+      "ihhltotalach": 2047
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "LAHARIGHAT",
+      "grampanchayatname": "OMARAGURI",
+      "ihhltotalasperdetails": 1994,
+      "ihhltotalach": 1839
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "LAHARIGHAT",
+      "grampanchayatname": "PAVAKATI",
+      "ihhltotalasperdetails": 1690,
+      "ihhltotalach": 1048
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "LAHARIGHAT",
+      "grampanchayatname": "RAJA GADHOWA",
+      "ihhltotalasperdetails": 1609,
+      "ihhltotalach": 1271
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "LAHARIGHAT",
+      "grampanchayatname": "TENGAGURI",
+      "ihhltotalasperdetails": 2022,
+      "ihhltotalach": 1964
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "LAHARIGHAT",
+      "grampanchayatname": "TINSUKIA MAHMARA",
+      "ihhltotalasperdetails": 1819,
+      "ihhltotalach": 1739
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "LAHARIGHAT",
+      "grampanchayatname": "TULSIBARI",
+      "ihhltotalasperdetails": 1761,
+      "ihhltotalach": 1185
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "MAYANG",
+      "grampanchayatname": "AHATGURI",
+      "ihhltotalasperdetails": 1383,
+      "ihhltotalach": 1383
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "MAYANG",
+      "grampanchayatname": "BAGHJAP",
+      "ihhltotalasperdetails": 1471,
+      "ihhltotalach": 989
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "MAYANG",
+      "grampanchayatname": "BOHA BORJARI",
+      "ihhltotalasperdetails": 1520,
+      "ihhltotalach": 993
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "MAYANG",
+      "grampanchayatname": "BORPAK",
+      "ihhltotalasperdetails": 1799,
+      "ihhltotalach": 995
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "MAYANG",
+      "grampanchayatname": "BURABURI",
+      "ihhltotalasperdetails": 1596,
+      "ihhltotalach": 1400
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "MAYANG",
+      "grampanchayatname": "BURGAON",
+      "ihhltotalasperdetails": 1431,
+      "ihhltotalach": 858
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "MAYANG",
+      "grampanchayatname": "DAKHIN DHARAMTUL",
+      "ihhltotalasperdetails": 2603,
+      "ihhltotalach": 1946
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "MAYANG",
+      "grampanchayatname": "DEOSAL",
+      "ihhltotalasperdetails": 1599,
+      "ihhltotalach": 1556
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "MAYANG",
+      "grampanchayatname": "DUNGABARI",
+      "ihhltotalasperdetails": 1838,
+      "ihhltotalach": 1094
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "MAYANG",
+      "grampanchayatname": "GAGALMARI",
+      "ihhltotalasperdetails": 1401,
+      "ihhltotalach": 943
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "MAYANG",
+      "grampanchayatname": "GAGALMARI ASHIGARH",
+      "ihhltotalasperdetails": 1339,
+      "ihhltotalach": 821
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "MAYANG",
+      "grampanchayatname": "GARMARI",
+      "ihhltotalasperdetails": 1720,
+      "ihhltotalach": 1480
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "MAYANG",
+      "grampanchayatname": "GHAGUA",
+      "ihhltotalasperdetails": 2332,
+      "ihhltotalach": 1947
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "MAYANG",
+      "grampanchayatname": "GOVA",
+      "ihhltotalasperdetails": 1536,
+      "ihhltotalach": 1536
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "MAYANG",
+      "grampanchayatname": "JAGIBHAKATGAON",
+      "ihhltotalasperdetails": 1464,
+      "ihhltotalach": 1083
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "MAYANG",
+      "grampanchayatname": "JAGIROAD",
+      "ihhltotalasperdetails": 1596,
+      "ihhltotalach": 1556
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "MAYANG",
+      "grampanchayatname": "JHARGAON",
+      "ihhltotalasperdetails": 2257,
+      "ihhltotalach": 2059
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "MAYANG",
+      "grampanchayatname": "KURANIBARI",
+      "ihhltotalasperdetails": 2361,
+      "ihhltotalach": 919
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "MAYANG",
+      "grampanchayatname": "LEHPATI",
+      "ihhltotalasperdetails": 1182,
+      "ihhltotalach": 341
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "MAYANG",
+      "grampanchayatname": "MANAHA",
+      "ihhltotalasperdetails": 2219,
+      "ihhltotalach": 2219
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "MAYANG",
+      "grampanchayatname": "MAYONG",
+      "ihhltotalasperdetails": 1690,
+      "ihhltotalach": 943
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "MAYANG",
+      "grampanchayatname": "NELLIE",
+      "ihhltotalasperdetails": 1416,
+      "ihhltotalach": 1415
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "MAYANG",
+      "grampanchayatname": "PALIGURI",
+      "ihhltotalasperdetails": 2447,
+      "ihhltotalach": 1677
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "MAYANG",
+      "grampanchayatname": "PAVAKATI",
+      "ihhltotalasperdetails": 1531,
+      "ihhltotalach": 955
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "MAYANG",
+      "grampanchayatname": "SILSANG",
+      "ihhltotalasperdetails": 1772,
+      "ihhltotalach": 1766
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "MAYANG",
+      "grampanchayatname": "TELAHI",
+      "ihhltotalasperdetails": 1632,
+      "ihhltotalach": 1543
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "MAYANG",
+      "grampanchayatname": "UTTAR DHARAMTUL",
+      "ihhltotalasperdetails": 1893,
+      "ihhltotalach": 1644
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "MOIRABARI",
+      "grampanchayatname": "BORBORI",
+      "ihhltotalasperdetails": 2087,
+      "ihhltotalach": 1654
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "MOIRABARI",
+      "grampanchayatname": "BORCHAPARI",
+      "ihhltotalasperdetails": 2154,
+      "ihhltotalach": 2037
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "MOIRABARI",
+      "grampanchayatname": "DATIALBORI",
+      "ihhltotalasperdetails": 2226,
+      "ihhltotalach": 2081
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "MOIRABARI",
+      "grampanchayatname": "DOLOIGAON",
+      "ihhltotalasperdetails": 2631,
+      "ihhltotalach": 2540
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "MOIRABARI",
+      "grampanchayatname": "GARIABORI",
+      "ihhltotalasperdetails": 1819,
+      "ihhltotalach": 1567
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "MOIRABARI",
+      "grampanchayatname": "HATIMURIA",
+      "ihhltotalasperdetails": 1858,
+      "ihhltotalach": 1432
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "MOIRABARI",
+      "grampanchayatname": "LENGRIBORI",
+      "ihhltotalasperdetails": 2689,
+      "ihhltotalach": 1987
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "MOIRABARI",
+      "grampanchayatname": "LOCHANABARI",
+      "ihhltotalasperdetails": 2056,
+      "ihhltotalach": 1819
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "MOIRABARI",
+      "grampanchayatname": "MOIRABARI",
+      "ihhltotalasperdetails": 1961,
+      "ihhltotalach": 1455
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "MOIRABARI",
+      "grampanchayatname": "TATIKATA",
+      "ihhltotalasperdetails": 2775,
+      "ihhltotalach": 2001
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "MOIRABARI",
+      "grampanchayatname": "ULUBARI",
+      "ihhltotalasperdetails": 1537,
+      "ihhltotalach": 897
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "KAPILI",
+      "grampanchayatname": "BARPUJIA",
+      "ihhltotalasperdetails": 2163,
+      "ihhltotalach": 2138
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "KAPILI",
+      "grampanchayatname": "JARABARI",
+      "ihhltotalasperdetails": 1343,
+      "ihhltotalach": 1271
+    },
+    {
+      "statename": "Assam",
+      "districtname": "MARIGAON",
+      "blockname": "KAPILI",
+      "grampanchayatname": "MANIPURTUP",
+      "ihhltotalasperdetails": 3692,
+      "ihhltotalach": 3566
+    }
+  ]
+}

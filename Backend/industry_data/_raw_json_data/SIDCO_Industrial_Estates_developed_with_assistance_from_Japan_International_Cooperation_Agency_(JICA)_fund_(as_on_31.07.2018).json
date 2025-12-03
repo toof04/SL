@@ -1,0 +1,111 @@
+{
+  "index_name": "117a7ec5-8338-44f6-a71d-9ca431b17c0f",
+  "title": "SIDCO Industrial Estates developed with assistance from Japan International Cooperation Agency (JICA) fund (as on 31.07.2018)",
+  "desc": "SIDCO Industrial Estates developed with assistance from Japan International Cooperation Agency (JICA) fund (as on 31.07.2018)",
+  "org_type": "State",
+  "org": [
+    "Tamil Nadu",
+    "Micro Small and Medium Enterprises Department, Tamil Nadu",
+    "Tamil Nadu Small Industries Development Corporation Ltd (TANSIDCO)"
+  ],
+  "sector": [
+    "Industries",
+    "Small Scale"
+  ],
+  "source": "tn.data.gov.in",
+  "catalog_uuid": "49dbc885-89c7-435d-af81-7d32a95ef134",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1538392215,
+  "updated": 1543529107,
+  "created_date": "2018-10-01T16:40:15Z",
+  "updated_date": "2018-11-30T03:35:07Z",
+  "target_bucket": {
+    "index": "tn_api",
+    "type": "49dbc885-89c7-435d-af81-7d32a95ef134",
+    "field": "117a7ec5-8338-44f6-a71d-9ca431b17c0f"
+  },
+  "field": [
+    {
+      "id": "_sl_no",
+      "name": "Sl.No",
+      "type": "keyword"
+    },
+    {
+      "id": "name_of_jica_project",
+      "name": "Name of JICA project",
+      "type": "keyword"
+    },
+    {
+      "id": "jica_assistance__in_crores_",
+      "name": "JICA Assistance (in crores)",
+      "type": "double"
+    },
+    {
+      "id": "state_government_assistance__in_crores_",
+      "name": "State Government Assistance (in crores)",
+      "type": "keyword"
+    },
+    {
+      "id": "own_resources__sidco___in_crores__",
+      "name": "Own Resources (SIDCO) (in crores) ",
+      "type": "keyword"
+    },
+    {
+      "id": "total__in_crores_",
+      "name": "Total (in crores)",
+      "type": "double"
+    }
+  ],
+  "external_ws_url": "",
+  "external_ws": "0",
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 5,
+  "count": 5,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "_sl_no": "1",
+      "name_of_jica_project": "Integrated Technical Textile Park at Thandarai in Kanchipuram District",
+      "jica_assistance__in_crores_": "13",
+      "state_government_assistance__in_crores_": "2",
+      "own_resources__sidco___in_crores__": "10",
+      "total__in_crores_": "25"
+    },
+    {
+      "_sl_no": "2",
+      "name_of_jica_project": "Integrated Textiles/ Apparels Park at Punjaikalakurichi in Karur District",
+      "jica_assistance__in_crores_": "14",
+      "state_government_assistance__in_crores_": "2",
+      "own_resources__sidco___in_crores__": "5",
+      "total__in_crores_": "21"
+    },
+    {
+      "_sl_no": "3",
+      "name_of_jica_project": "Integrated Food Park at Eachambadi in Dharmapuri District",
+      "jica_assistance__in_crores_": "15",
+      "state_government_assistance__in_crores_": "2",
+      "own_resources__sidco___in_crores__": "3",
+      "total__in_crores_": "20"
+    },
+    {
+      "_sl_no": "4",
+      "name_of_jica_project": "Integrated Sea Food Park at Sakkarakottai in Ramnadhapura District",
+      "jica_assistance__in_crores_": "16",
+      "state_government_assistance__in_crores_": "2",
+      "own_resources__sidco___in_crores__": "4",
+      "total__in_crores_": "22"
+    },
+    {
+      "_sl_no": "Total Project cost",
+      "name_of_jica_project": "Total Project cost",
+      "jica_assistance__in_crores_": "NA",
+      "state_government_assistance__in_crores_": "Na",
+      "own_resources__sidco___in_crores__": "Na",
+      "total__in_crores_": "88"
+    }
+  ]
+}

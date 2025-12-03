@@ -1,0 +1,522 @@
+{
+  "index_name": "7e8402f8-3aa6-4da1-9043-adbdae32e8b0",
+  "title": "State-Wise Enterpreneurship Profile : Enterprises Owned by (Fourth All India Census of MSME: Unregistered Sector)",
+  "desc": "State-Wise Enterpreneurship Profile : Enterprises Owned by (Fourth All India Census of MSME: Unregistered Sector)",
+  "created": 1565000001,
+  "updated": 1565000001,
+  "created_date": "2019-08-05T15:43:21Z",
+  "updated_date": "2019-08-05T15:43:21Z",
+  "active": "1",
+  "visualizable": "1",
+  "catalog_uuid": "d9871578-9672-4c77-88f0-39337f3b73a0",
+  "source": "data.gov.in",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Micro, Small and Medium Enterprises"
+  ],
+  "sector": [
+    "Industries",
+    "Micro",
+    "Small Scale"
+  ],
+  "field": [
+    {
+      "id": "sl_no",
+      "name": "Sl No",
+      "type": "double"
+    },
+    {
+      "id": "state_ut",
+      "name": "State/UT",
+      "type": "keyword"
+    },
+    {
+      "id": "female_numbers_in_lakh_",
+      "name": "Female (Numbers in Lakh)",
+      "type": "double"
+    },
+    {
+      "id": "male_numbers_in_lakh_",
+      "name": "Male (Numbers in Lakh)",
+      "type": "double"
+    },
+    {
+      "id": "not_recorded_numbers_in_lakh_",
+      "name": "Not Recorded (Numbers in Lakh)",
+      "type": "double"
+    },
+    {
+      "id": "total_numbers_in_lakh_",
+      "name": "Total (Numbers in Lakh)",
+      "type": "double"
+    },
+    {
+      "id": "sc_numbers_in_lakh_",
+      "name": "SC (Numbers in Lakh)",
+      "type": "double"
+    },
+    {
+      "id": "st_numbers_in_lakh_",
+      "name": "ST (Numbers in Lakh)",
+      "type": "double"
+    },
+    {
+      "id": "obc_numbers_in_lakh_",
+      "name": "OBC (Numbers in Lakh)",
+      "type": "double"
+    },
+    {
+      "id": "others_numbers_in_lakh_",
+      "name": "Others (Numbers in Lakh)",
+      "type": "double"
+    }
+  ],
+  "target_bucket": {
+    "index": "api",
+    "type": "d9871578-9672-4c77-88f0-39337f3b73a0",
+    "field": "7e8402f8-3aa6-4da1-9043-adbdae32e8b0"
+  },
+  "external_ws_url": "",
+  "external_ws": "0",
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 36,
+  "count": 36,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "sl_no": 1,
+      "state_ut": "Jammu and Kashmir",
+      "female_numbers_in_lakh_": 0.12,
+      "male_numbers_in_lakh_": 1.06,
+      "not_recorded_numbers_in_lakh_": "0.03",
+      "total_numbers_in_lakh_": "1.18",
+      "sc_numbers_in_lakh_": 0.08,
+      "st_numbers_in_lakh_": 0.06,
+      "obc_numbers_in_lakh_": 0.08,
+      "others_numbers_in_lakh_": 0.94
+    },
+    {
+      "sl_no": 2,
+      "state_ut": "Himachal Pradesh",
+      "female_numbers_in_lakh_": 0.11,
+      "male_numbers_in_lakh_": 1.48,
+      "not_recorded_numbers_in_lakh_": "0.01",
+      "total_numbers_in_lakh_": "1.60",
+      "sc_numbers_in_lakh_": 0.64,
+      "st_numbers_in_lakh_": 0.09,
+      "obc_numbers_in_lakh_": 0.15,
+      "others_numbers_in_lakh_": 0.7
+    },
+    {
+      "sl_no": 3,
+      "state_ut": "Punjab",
+      "female_numbers_in_lakh_": 0.78,
+      "male_numbers_in_lakh_": 8.84,
+      "not_recorded_numbers_in_lakh_": "0.11",
+      "total_numbers_in_lakh_": "9.66",
+      "sc_numbers_in_lakh_": 1.68,
+      "st_numbers_in_lakh_": 0.05,
+      "obc_numbers_in_lakh_": 3.53,
+      "others_numbers_in_lakh_": 4.29
+    },
+    {
+      "sl_no": 4,
+      "state_ut": "Chandigarh",
+      "female_numbers_in_lakh_": 0.06,
+      "male_numbers_in_lakh_": 0.22,
+      "not_recorded_numbers_in_lakh_": "0.00",
+      "total_numbers_in_lakh_": "0.28",
+      "sc_numbers_in_lakh_": 0.27,
+      "st_numbers_in_lakh_": 0.01,
+      "obc_numbers_in_lakh_": 0,
+      "others_numbers_in_lakh_": 0
+    },
+    {
+      "sl_no": 5,
+      "state_ut": "Uttarakhand",
+      "female_numbers_in_lakh_": 0.15,
+      "male_numbers_in_lakh_": 1.84,
+      "not_recorded_numbers_in_lakh_": "0.02",
+      "total_numbers_in_lakh_": "2.00",
+      "sc_numbers_in_lakh_": 0.4,
+      "st_numbers_in_lakh_": 0.1,
+      "obc_numbers_in_lakh_": 0.34,
+      "others_numbers_in_lakh_": 1.13
+    },
+    {
+      "sl_no": 6,
+      "state_ut": "Haryana",
+      "female_numbers_in_lakh_": 0.16,
+      "male_numbers_in_lakh_": 4.67,
+      "not_recorded_numbers_in_lakh_": "0.33",
+      "total_numbers_in_lakh_": "4.87",
+      "sc_numbers_in_lakh_": 0.51,
+      "st_numbers_in_lakh_": 0.07,
+      "obc_numbers_in_lakh_": 2.1,
+      "others_numbers_in_lakh_": 1.85
+    },
+    {
+      "sl_no": 7,
+      "state_ut": "Delhi",
+      "female_numbers_in_lakh_": 0.19,
+      "male_numbers_in_lakh_": 1.49,
+      "not_recorded_numbers_in_lakh_": "0.03",
+      "total_numbers_in_lakh_": "1.75",
+      "sc_numbers_in_lakh_": 0.07,
+      "st_numbers_in_lakh_": 0.07,
+      "obc_numbers_in_lakh_": 0.1,
+      "others_numbers_in_lakh_": 1.48
+    },
+    {
+      "sl_no": 8,
+      "state_ut": "Rajasthan",
+      "female_numbers_in_lakh_": 0.55,
+      "male_numbers_in_lakh_": 8.57,
+      "not_recorded_numbers_in_lakh_": "0.15",
+      "total_numbers_in_lakh_": "9.14",
+      "sc_numbers_in_lakh_": 1.16,
+      "st_numbers_in_lakh_": 0.61,
+      "obc_numbers_in_lakh_": 4.82,
+      "others_numbers_in_lakh_": 2.38
+    },
+    {
+      "sl_no": 9,
+      "state_ut": "Uttar Pradesh",
+      "female_numbers_in_lakh_": 0.75,
+      "male_numbers_in_lakh_": 21.56,
+      "not_recorded_numbers_in_lakh_": "0.33",
+      "total_numbers_in_lakh_": "22.34",
+      "sc_numbers_in_lakh_": 2.6,
+      "st_numbers_in_lakh_": 0.11,
+      "obc_numbers_in_lakh_": 12.04,
+      "others_numbers_in_lakh_": 7.26
+    },
+    {
+      "sl_no": 10,
+      "state_ut": "Bihar",
+      "female_numbers_in_lakh_": 0.47,
+      "male_numbers_in_lakh_": 6.98,
+      "not_recorded_numbers_in_lakh_": "0.17",
+      "total_numbers_in_lakh_": "7.48",
+      "sc_numbers_in_lakh_": 1.18,
+      "st_numbers_in_lakh_": 0.09,
+      "obc_numbers_in_lakh_": 4.72,
+      "others_numbers_in_lakh_": 1.32
+    },
+    {
+      "sl_no": 11,
+      "state_ut": "Sikkim",
+      "female_numbers_in_lakh_": 0.01,
+      "male_numbers_in_lakh_": 0.05,
+      "not_recorded_numbers_in_lakh_": "0.00",
+      "total_numbers_in_lakh_": "0.06",
+      "sc_numbers_in_lakh_": 0.05,
+      "st_numbers_in_lakh_": 0.01,
+      "obc_numbers_in_lakh_": 0,
+      "others_numbers_in_lakh_": 0
+    },
+    {
+      "sl_no": 12,
+      "state_ut": "Arunachal Pradesh",
+      "female_numbers_in_lakh_": 0.06,
+      "male_numbers_in_lakh_": 0.19,
+      "not_recorded_numbers_in_lakh_": "0.02",
+      "total_numbers_in_lakh_": "0.25",
+      "sc_numbers_in_lakh_": 0,
+      "st_numbers_in_lakh_": 0.21,
+      "obc_numbers_in_lakh_": 0,
+      "others_numbers_in_lakh_": 0.01
+    },
+    {
+      "sl_no": 13,
+      "state_ut": "Nagaland",
+      "female_numbers_in_lakh_": 0.04,
+      "male_numbers_in_lakh_": 0.12,
+      "not_recorded_numbers_in_lakh_": "0.01",
+      "total_numbers_in_lakh_": "0.16",
+      "sc_numbers_in_lakh_": 0,
+      "st_numbers_in_lakh_": 0.14,
+      "obc_numbers_in_lakh_": 0,
+      "others_numbers_in_lakh_": 0.01
+    },
+    {
+      "sl_no": 14,
+      "state_ut": "Manipur",
+      "female_numbers_in_lakh_": 0.01,
+      "male_numbers_in_lakh_": 0.42,
+      "not_recorded_numbers_in_lakh_": "0.02",
+      "total_numbers_in_lakh_": "0.44",
+      "sc_numbers_in_lakh_": 0.16,
+      "st_numbers_in_lakh_": 0.15,
+      "obc_numbers_in_lakh_": 0.02,
+      "others_numbers_in_lakh_": 0.1
+    },
+    {
+      "sl_no": 15,
+      "state_ut": "Mizoram",
+      "female_numbers_in_lakh_": 0.01,
+      "male_numbers_in_lakh_": 0.08,
+      "not_recorded_numbers_in_lakh_": "0.00",
+      "total_numbers_in_lakh_": "0.10",
+      "sc_numbers_in_lakh_": 0.06,
+      "st_numbers_in_lakh_": 0.03,
+      "obc_numbers_in_lakh_": 0,
+      "others_numbers_in_lakh_": 0
+    },
+    {
+      "sl_no": 16,
+      "state_ut": "Tripura",
+      "female_numbers_in_lakh_": 0.02,
+      "male_numbers_in_lakh_": 0.24,
+      "not_recorded_numbers_in_lakh_": "0.00",
+      "total_numbers_in_lakh_": "0.26",
+      "sc_numbers_in_lakh_": 0.03,
+      "st_numbers_in_lakh_": 0.02,
+      "obc_numbers_in_lakh_": 0.08,
+      "others_numbers_in_lakh_": 0.13
+    },
+    {
+      "sl_no": 17,
+      "state_ut": "Meghalaya",
+      "female_numbers_in_lakh_": 0.16,
+      "male_numbers_in_lakh_": 0.31,
+      "not_recorded_numbers_in_lakh_": "0.00",
+      "total_numbers_in_lakh_": "0.47",
+      "sc_numbers_in_lakh_": 0.01,
+      "st_numbers_in_lakh_": 0.42,
+      "obc_numbers_in_lakh_": 0,
+      "others_numbers_in_lakh_": 0.04
+    },
+    {
+      "sl_no": 18,
+      "state_ut": "Assam",
+      "female_numbers_in_lakh_": 0.2,
+      "male_numbers_in_lakh_": 1.93,
+      "not_recorded_numbers_in_lakh_": "0.09",
+      "total_numbers_in_lakh_": "2.14",
+      "sc_numbers_in_lakh_": 0.24,
+      "st_numbers_in_lakh_": 0.28,
+      "obc_numbers_in_lakh_": 0.44,
+      "others_numbers_in_lakh_": 1.09
+    },
+    {
+      "sl_no": 19,
+      "state_ut": "West Bengal",
+      "female_numbers_in_lakh_": 2.05,
+      "male_numbers_in_lakh_": 18.27,
+      "not_recorded_numbers_in_lakh_": "0.70",
+      "total_numbers_in_lakh_": "20.80",
+      "sc_numbers_in_lakh_": 4.05,
+      "st_numbers_in_lakh_": 0.33,
+      "obc_numbers_in_lakh_": 2.61,
+      "others_numbers_in_lakh_": 13.11
+    },
+    {
+      "sl_no": 20,
+      "state_ut": "Jharkhand",
+      "female_numbers_in_lakh_": 0.24,
+      "male_numbers_in_lakh_": 4.01,
+      "not_recorded_numbers_in_lakh_": "0.04",
+      "total_numbers_in_lakh_": "4.25",
+      "sc_numbers_in_lakh_": 0.2,
+      "st_numbers_in_lakh_": 0.67,
+      "obc_numbers_in_lakh_": 2.21,
+      "others_numbers_in_lakh_": 1.14
+    },
+    {
+      "sl_no": 21,
+      "state_ut": "Orissa",
+      "female_numbers_in_lakh_": 0.9,
+      "male_numbers_in_lakh_": 8.86,
+      "not_recorded_numbers_in_lakh_": "0.19",
+      "total_numbers_in_lakh_": "9.77",
+      "sc_numbers_in_lakh_": 1.04,
+      "st_numbers_in_lakh_": 1.59,
+      "obc_numbers_in_lakh_": 3.97,
+      "others_numbers_in_lakh_": 2.98
+    },
+    {
+      "sl_no": 22,
+      "state_ut": "Chhattisgarh",
+      "female_numbers_in_lakh_": 0.12,
+      "male_numbers_in_lakh_": 2.66,
+      "not_recorded_numbers_in_lakh_": "0.03",
+      "total_numbers_in_lakh_": "2.78",
+      "sc_numbers_in_lakh_": 0.36,
+      "st_numbers_in_lakh_": 0.53,
+      "obc_numbers_in_lakh_": 1.49,
+      "others_numbers_in_lakh_": 0.36
+    },
+    {
+      "sl_no": 23,
+      "state_ut": "Madhya Pradesh",
+      "female_numbers_in_lakh_": 1.06,
+      "male_numbers_in_lakh_": 10.42,
+      "not_recorded_numbers_in_lakh_": "0.32",
+      "total_numbers_in_lakh_": "11.50",
+      "sc_numbers_in_lakh_": 1.62,
+      "st_numbers_in_lakh_": 0.98,
+      "obc_numbers_in_lakh_": 6.02,
+      "others_numbers_in_lakh_": 2.56
+    },
+    {
+      "sl_no": 24,
+      "state_ut": "Gujarat",
+      "female_numbers_in_lakh_": 0.57,
+      "male_numbers_in_lakh_": 12.46,
+      "not_recorded_numbers_in_lakh_": "0.00",
+      "total_numbers_in_lakh_": "13.03",
+      "sc_numbers_in_lakh_": 2.2,
+      "st_numbers_in_lakh_": 2.1,
+      "obc_numbers_in_lakh_": 3.75,
+      "others_numbers_in_lakh_": 4.98
+    },
+    {
+      "sl_no": 25,
+      "state_ut": "Daman & Diu",
+      "female_numbers_in_lakh_": 0,
+      "male_numbers_in_lakh_": 0.01,
+      "not_recorded_numbers_in_lakh_": "0.00",
+      "total_numbers_in_lakh_": "0.01",
+      "sc_numbers_in_lakh_": 0,
+      "st_numbers_in_lakh_": 0,
+      "obc_numbers_in_lakh_": 0,
+      "others_numbers_in_lakh_": 0.01
+    },
+    {
+      "sl_no": 26,
+      "state_ut": "Dadar and Nagar Haveli",
+      "female_numbers_in_lakh_": 0,
+      "male_numbers_in_lakh_": 0.04,
+      "not_recorded_numbers_in_lakh_": "0.00",
+      "total_numbers_in_lakh_": "0.04",
+      "sc_numbers_in_lakh_": 0,
+      "st_numbers_in_lakh_": 0,
+      "obc_numbers_in_lakh_": 0,
+      "others_numbers_in_lakh_": 0.04
+    },
+    {
+      "sl_no": 27,
+      "state_ut": "Maharashtra",
+      "female_numbers_in_lakh_": 0.85,
+      "male_numbers_in_lakh_": 13.57,
+      "not_recorded_numbers_in_lakh_": "0.22",
+      "total_numbers_in_lakh_": "14.45",
+      "sc_numbers_in_lakh_": 0.72,
+      "st_numbers_in_lakh_": 0.41,
+      "obc_numbers_in_lakh_": 4.89,
+      "others_numbers_in_lakh_": 8.21
+    },
+    {
+      "sl_no": 28,
+      "state_ut": "Andhra Pradesh",
+      "female_numbers_in_lakh_": 1.11,
+      "male_numbers_in_lakh_": 13.69,
+      "not_recorded_numbers_in_lakh_": "0.24",
+      "total_numbers_in_lakh_": "14.90",
+      "sc_numbers_in_lakh_": 0.61,
+      "st_numbers_in_lakh_": 0.23,
+      "obc_numbers_in_lakh_": 9.36,
+      "others_numbers_in_lakh_": 4.47
+    },
+    {
+      "sl_no": 29,
+      "state_ut": "Karnataka",
+      "female_numbers_in_lakh_": 1.86,
+      "male_numbers_in_lakh_": 9.26,
+      "not_recorded_numbers_in_lakh_": "0.06",
+      "total_numbers_in_lakh_": "11.12",
+      "sc_numbers_in_lakh_": 0.6,
+      "st_numbers_in_lakh_": 0.52,
+      "obc_numbers_in_lakh_": 6.03,
+      "others_numbers_in_lakh_": 3.9
+    },
+    {
+      "sl_no": 30,
+      "state_ut": "Goa",
+      "female_numbers_in_lakh_": 0.1,
+      "male_numbers_in_lakh_": 0.46,
+      "not_recorded_numbers_in_lakh_": "0.00",
+      "total_numbers_in_lakh_": "0.56",
+      "sc_numbers_in_lakh_": 0,
+      "st_numbers_in_lakh_": 0,
+      "obc_numbers_in_lakh_": 0.05,
+      "others_numbers_in_lakh_": 0.51
+    },
+    {
+      "sl_no": 31,
+      "state_ut": "Lakshadweep",
+      "female_numbers_in_lakh_": 0,
+      "male_numbers_in_lakh_": 0.01,
+      "not_recorded_numbers_in_lakh_": "0.00",
+      "total_numbers_in_lakh_": "0.01",
+      "sc_numbers_in_lakh_": 0.01,
+      "st_numbers_in_lakh_": 0,
+      "obc_numbers_in_lakh_": 0,
+      "others_numbers_in_lakh_": 0
+    },
+    {
+      "sl_no": 32,
+      "state_ut": "Kerala",
+      "female_numbers_in_lakh_": 2.31,
+      "male_numbers_in_lakh_": 10.63,
+      "not_recorded_numbers_in_lakh_": "0.07",
+      "total_numbers_in_lakh_": "12.94",
+      "sc_numbers_in_lakh_": 0.46,
+      "st_numbers_in_lakh_": 0.06,
+      "obc_numbers_in_lakh_": 8.05,
+      "others_numbers_in_lakh_": 4.31
+    },
+    {
+      "sl_no": 33,
+      "state_ut": "Tamil Nadu",
+      "female_numbers_in_lakh_": 3.03,
+      "male_numbers_in_lakh_": 15.15,
+      "not_recorded_numbers_in_lakh_": "0.07",
+      "total_numbers_in_lakh_": "18.21",
+      "sc_numbers_in_lakh_": 1.58,
+      "st_numbers_in_lakh_": 0.34,
+      "obc_numbers_in_lakh_": 14.22,
+      "others_numbers_in_lakh_": 1.99
+    },
+    {
+      "sl_no": 34,
+      "state_ut": "Puducherry",
+      "female_numbers_in_lakh_": 0.02,
+      "male_numbers_in_lakh_": 0.1,
+      "not_recorded_numbers_in_lakh_": "0.00",
+      "total_numbers_in_lakh_": "0.13",
+      "sc_numbers_in_lakh_": 0.01,
+      "st_numbers_in_lakh_": 0,
+      "obc_numbers_in_lakh_": 0.1,
+      "others_numbers_in_lakh_": 0.01
+    },
+    {
+      "sl_no": 35,
+      "state_ut": "Andaman and Nicobar Islands",
+      "female_numbers_in_lakh_": 0,
+      "male_numbers_in_lakh_": 0.06,
+      "not_recorded_numbers_in_lakh_": "0.00",
+      "total_numbers_in_lakh_": "0.07",
+      "sc_numbers_in_lakh_": 0,
+      "st_numbers_in_lakh_": 0,
+      "obc_numbers_in_lakh_": 0,
+      "others_numbers_in_lakh_": 0.07
+    },
+    {
+      "sl_no": "NA",
+      "state_ut": "All India",
+      "female_numbers_in_lakh_": 18.06,
+      "male_numbers_in_lakh_": 179.74,
+      "not_recorded_numbers_in_lakh_": "3.27",
+      "total_numbers_in_lakh_": "198.74",
+      "sc_numbers_in_lakh_": 22.61,
+      "st_numbers_in_lakh_": 10.3,
+      "obc_numbers_in_lakh_": 91.17,
+      "others_numbers_in_lakh_": 71.39
+    }
+  ]
+}

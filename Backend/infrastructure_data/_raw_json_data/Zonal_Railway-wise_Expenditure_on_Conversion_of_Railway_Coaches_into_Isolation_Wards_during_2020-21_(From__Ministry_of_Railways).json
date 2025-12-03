@@ -1,0 +1,138 @@
+{
+  "index_name": "e1269fbc-3656-46f4-9e27-5746a6c8c584",
+  "title": "Zonal Railway-wise Expenditure on Conversion of Railway Coaches into Isolation Wards during 2020-21 (From: Ministry of Railways)",
+  "desc": "Zonal Railway-wise Expenditure on Conversion of Railway Coaches into Isolation Wards during 2020-21 (From: Ministry of Railways)",
+  "org_type": "Central",
+  "org": [
+    "Rajya Sabha"
+  ],
+  "sector": [
+    "All"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "88ec9509-df54-4c72-a623-f5d0183d2078",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1700492832,
+  "updated": 1700540317,
+  "created_date": "2023-11-20T16:07:12Z",
+  "updated_date": "2023-11-21T09:48:37Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "88ec9509-df54-4c72-a623-f5d0183d2078",
+    "field": "e1269fbc-3656-46f4-9e27-5746a6c8c584"
+  },
+  "field": [
+    {
+      "id": "sl__no_",
+      "name": "Sl. No.",
+      "type": "keyword"
+    },
+    {
+      "id": "zonal_railway",
+      "name": "Zonal Railway",
+      "type": "keyword"
+    },
+    {
+      "id": "expenditure_on_conversion_of_railway_coaches_into_isolation_wards_during_2020_21__upto_jan_2021___in_rs__crores_",
+      "name": "Expenditure on conversion of Railway coaches into isolation wards during 2020-21 (upto Jan-2021) (in Rs. Crores)",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 17,
+  "count": 17,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "sl__no_": "1",
+      "zonal_railway": "Central Railway",
+      "expenditure_on_conversion_of_railway_coaches_into_isolation_wards_during_2020_21__upto_jan_2021___in_rs__crores_": 4.6
+    },
+    {
+      "sl__no_": "2",
+      "zonal_railway": "Eastern Railway",
+      "expenditure_on_conversion_of_railway_coaches_into_isolation_wards_during_2020_21__upto_jan_2021___in_rs__crores_": 5.55
+    },
+    {
+      "sl__no_": "3",
+      "zonal_railway": "East Central Railway",
+      "expenditure_on_conversion_of_railway_coaches_into_isolation_wards_during_2020_21__upto_jan_2021___in_rs__crores_": 0.59
+    },
+    {
+      "sl__no_": "4",
+      "zonal_railway": "East Coast Railway",
+      "expenditure_on_conversion_of_railway_coaches_into_isolation_wards_during_2020_21__upto_jan_2021___in_rs__crores_": 2.31
+    },
+    {
+      "sl__no_": "5",
+      "zonal_railway": "Northern Railway",
+      "expenditure_on_conversion_of_railway_coaches_into_isolation_wards_during_2020_21__upto_jan_2021___in_rs__crores_": 3.24
+    },
+    {
+      "sl__no_": "6",
+      "zonal_railway": "North Central Railway",
+      "expenditure_on_conversion_of_railway_coaches_into_isolation_wards_during_2020_21__upto_jan_2021___in_rs__crores_": 1.45
+    },
+    {
+      "sl__no_": "7",
+      "zonal_railway": "North Eastern Railway",
+      "expenditure_on_conversion_of_railway_coaches_into_isolation_wards_during_2020_21__upto_jan_2021___in_rs__crores_": 0.67
+    },
+    {
+      "sl__no_": "8",
+      "zonal_railway": "Northeast Frontier Railway",
+      "expenditure_on_conversion_of_railway_coaches_into_isolation_wards_during_2020_21__upto_jan_2021___in_rs__crores_": 3.54
+    },
+    {
+      "sl__no_": "9",
+      "zonal_railway": "North Western Railway",
+      "expenditure_on_conversion_of_railway_coaches_into_isolation_wards_during_2020_21__upto_jan_2021___in_rs__crores_": 2.08
+    },
+    {
+      "sl__no_": "10",
+      "zonal_railway": "Southern Railway",
+      "expenditure_on_conversion_of_railway_coaches_into_isolation_wards_during_2020_21__upto_jan_2021___in_rs__crores_": 3.7
+    },
+    {
+      "sl__no_": "11",
+      "zonal_railway": "South Central Railway",
+      "expenditure_on_conversion_of_railway_coaches_into_isolation_wards_during_2020_21__upto_jan_2021___in_rs__crores_": 1.27
+    },
+    {
+      "sl__no_": "12",
+      "zonal_railway": "South Eastern Railway",
+      "expenditure_on_conversion_of_railway_coaches_into_isolation_wards_during_2020_21__upto_jan_2021___in_rs__crores_": 1.39
+    },
+    {
+      "sl__no_": "13",
+      "zonal_railway": "South East Central Railway",
+      "expenditure_on_conversion_of_railway_coaches_into_isolation_wards_during_2020_21__upto_jan_2021___in_rs__crores_": 0.41
+    },
+    {
+      "sl__no_": "14",
+      "zonal_railway": "South Western Railway",
+      "expenditure_on_conversion_of_railway_coaches_into_isolation_wards_during_2020_21__upto_jan_2021___in_rs__crores_": 2.77
+    },
+    {
+      "sl__no_": "15",
+      "zonal_railway": "Western Railway",
+      "expenditure_on_conversion_of_railway_coaches_into_isolation_wards_during_2020_21__upto_jan_2021___in_rs__crores_": 3.34
+    },
+    {
+      "sl__no_": "16",
+      "zonal_railway": "West Central Railway",
+      "expenditure_on_conversion_of_railway_coaches_into_isolation_wards_during_2020_21__upto_jan_2021___in_rs__crores_": 1.39
+    },
+    {
+      "sl__no_": "Total",
+      "zonal_railway": "Total",
+      "expenditure_on_conversion_of_railway_coaches_into_isolation_wards_during_2020_21__upto_jan_2021___in_rs__crores_": 38.3
+    }
+  ]
+}

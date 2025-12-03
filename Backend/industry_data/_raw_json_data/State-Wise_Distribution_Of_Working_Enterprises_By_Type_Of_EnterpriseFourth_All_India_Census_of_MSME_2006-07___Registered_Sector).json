@@ -1,0 +1,359 @@
+{
+  "index_name": "3beaa7cf-279d-440c-a3c1-f8e5b8e3d550",
+  "title": "State-Wise Distribution Of Working Enterprises By Type Of EnterpriseFourth All India Census of MSME 2006-07 : Registered Sector)",
+  "desc": "State-Wise Distribution Of Working Enterprises By Type Of EnterpriseFourth All India Census of MSME 2006-07 : Registered Sector)",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Micro, Small and Medium Enterprises"
+  ],
+  "sector": [
+    "Industries",
+    "Medium",
+    "Micro",
+    "Small Scale"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "b7664d10-dced-475f-b86c-c47a2204be01",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1668766365,
+  "updated": 1668766234,
+  "created_date": "2022-11-18T11:12:45Z",
+  "updated_date": "2022-11-18T15:40:34Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "b7664d10-dced-475f-b86c-c47a2204be01",
+    "field": "3beaa7cf-279d-440c-a3c1-f8e5b8e3d550"
+  },
+  "field": [
+    {
+      "id": "sl_no_",
+      "name": "Sl.No.",
+      "type": "keyword"
+    },
+    {
+      "id": "state_ut",
+      "name": "State/UT",
+      "type": "keyword"
+    },
+    {
+      "id": "micro",
+      "name": "Micro",
+      "type": "double"
+    },
+    {
+      "id": "small",
+      "name": "Small",
+      "type": "double"
+    },
+    {
+      "id": "medium",
+      "name": "Medium",
+      "type": "double"
+    },
+    {
+      "id": "_total",
+      "name": "Total",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 36,
+  "count": 36,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "sl_no_": "1",
+      "state_ut": "JAMMU & KASHMIR",
+      "micro": 14572,
+      "small": 408,
+      "medium": 13,
+      "_total": 14993
+    },
+    {
+      "sl_no_": "2",
+      "state_ut": "HIMACHAL PRADESH",
+      "micro": 11522,
+      "small": 384,
+      "medium": 25,
+      "_total": 11931
+    },
+    {
+      "sl_no_": "3",
+      "state_ut": "PUNJAB",
+      "micro": 45345,
+      "small": 2675,
+      "medium": 90,
+      "_total": 48110
+    },
+    {
+      "sl_no_": "4",
+      "state_ut": "CHANDIGARH",
+      "micro": 967,
+      "small": 28,
+      "medium": 1,
+      "_total": 996
+    },
+    {
+      "sl_no_": "5",
+      "state_ut": "UTTARAKHAND",
+      "micro": 23349,
+      "small": 389,
+      "medium": 27,
+      "_total": 23765
+    },
+    {
+      "sl_no_": "6",
+      "state_ut": "HARYANA",
+      "micro": 30741,
+      "small": 2329,
+      "medium": 80,
+      "_total": 33150
+    },
+    {
+      "sl_no_": "7",
+      "state_ut": "DELHI",
+      "micro": 3510,
+      "small": 236,
+      "medium": 8,
+      "_total": 3754
+    },
+    {
+      "sl_no_": "8",
+      "state_ut": "RAJASTHAN",
+      "micro": 52241,
+      "small": 2541,
+      "medium": 103,
+      "_total": 54885
+    },
+    {
+      "sl_no_": "9",
+      "state_ut": "UTTAR PRADESH",
+      "micro": 184503,
+      "small": 3089,
+      "medium": 150,
+      "_total": 187742
+    },
+    {
+      "sl_no_": "10",
+      "state_ut": "BIHAR",
+      "micro": 49867,
+      "small": 157,
+      "medium": 12,
+      "_total": 50036
+    },
+    {
+      "sl_no_": "11",
+      "state_ut": "SIKKIM",
+      "micro": 110,
+      "small": 12,
+      "medium": "0",
+      "_total": 122
+    },
+    {
+      "sl_no_": "12",
+      "state_ut": "ARUNACHAL PRADESH",
+      "micro": 399,
+      "small": 16,
+      "medium": 2,
+      "_total": 417
+    },
+    {
+      "sl_no_": "13",
+      "state_ut": "NAGALAND",
+      "micro": 1298,
+      "small": 33,
+      "medium": 1,
+      "_total": 1332
+    },
+    {
+      "sl_no_": "14",
+      "state_ut": "MANIPUR",
+      "micro": 4480,
+      "small": 12,
+      "medium": "0",
+      "_total": 4492
+    },
+    {
+      "sl_no_": "15",
+      "state_ut": "MIZORAM",
+      "micro": 3663,
+      "small": 51,
+      "medium": 1,
+      "_total": 3715
+    },
+    {
+      "sl_no_": "16",
+      "state_ut": "TRIPURA",
+      "micro": 1296,
+      "small": 43,
+      "medium": 4,
+      "_total": 1343
+    },
+    {
+      "sl_no_": "17",
+      "state_ut": "MEGHALAYA",
+      "micro": 2972,
+      "small": 37,
+      "medium": 1,
+      "_total": 3010
+    },
+    {
+      "sl_no_": "18",
+      "state_ut": "ASSAM",
+      "micro": 19238,
+      "small": 599,
+      "medium": 27,
+      "_total": 19864
+    },
+    {
+      "sl_no_": "19",
+      "state_ut": "WEST BENGAL",
+      "micro": 41420,
+      "small": 1758,
+      "medium": 81,
+      "_total": 43259
+    },
+    {
+      "sl_no_": "20",
+      "state_ut": "JHARKHAND",
+      "micro": 17699,
+      "small": 471,
+      "medium": 20,
+      "_total": 18190
+    },
+    {
+      "sl_no_": "21",
+      "state_ut": "ORISSA",
+      "micro": 18840,
+      "small": 745,
+      "medium": 21,
+      "_total": 19606
+    },
+    {
+      "sl_no_": "22",
+      "state_ut": "CHHATTISGARH",
+      "micro": 22402,
+      "small": 356,
+      "medium": 10,
+      "_total": 22768
+    },
+    {
+      "sl_no_": "23",
+      "state_ut": "MADHYA PRADESH",
+      "micro": 105998,
+      "small": 950,
+      "medium": 49,
+      "_total": 106997
+    },
+    {
+      "sl_no_": "24",
+      "state_ut": "GUJARAT",
+      "micro": 196894,
+      "small": 31676,
+      "medium": 1260,
+      "_total": 229830
+    },
+    {
+      "sl_no_": "25",
+      "state_ut": "DAMAN & DIU",
+      "micro": 413,
+      "small": 167,
+      "medium": 14,
+      "_total": 594
+    },
+    {
+      "sl_no_": "26",
+      "state_ut": "DADRA & NAGAR HAVELI",
+      "micro": 1671,
+      "small": 45,
+      "medium": "0",
+      "_total": 1716
+    },
+    {
+      "sl_no_": "27",
+      "state_ut": "MAHARASHTRA",
+      "micro": 73936,
+      "small": 12459,
+      "medium": 191,
+      "_total": 86586
+    },
+    {
+      "sl_no_": "28",
+      "state_ut": "ANDHRA PRADESH",
+      "micro": 42708,
+      "small": 2949,
+      "medium": 35,
+      "_total": 45692
+    },
+    {
+      "sl_no_": "29",
+      "state_ut": "KARNATAKA",
+      "micro": 133524,
+      "small": 2562,
+      "medium": 100,
+      "_total": 136186
+    },
+    {
+      "sl_no_": "30",
+      "state_ut": "GOA",
+      "micro": 2395,
+      "small": 207,
+      "medium": 19,
+      "_total": 2621
+    },
+    {
+      "sl_no_": "31",
+      "state_ut": "LAKSHADWEEP",
+      "micro": 2,
+      "small": "0",
+      "medium": "0",
+      "_total": 2
+    },
+    {
+      "sl_no_": "32",
+      "state_ut": "KERALA",
+      "micro": 148497,
+      "small": 1611,
+      "medium": 80,
+      "_total": 150188
+    },
+    {
+      "sl_no_": "33",
+      "state_ut": "TAMIL NADU",
+      "micro": 226285,
+      "small": 7349,
+      "medium": 247,
+      "_total": 233881
+    },
+    {
+      "sl_no_": "34",
+      "state_ut": "PUDUCHERRY",
+      "micro": 1275,
+      "small": 165,
+      "medium": 11,
+      "_total": 1451
+    },
+    {
+      "sl_no_": "35",
+      "state_ut": "ANDAMAN & NICOBAR ISLANDS",
+      "micro": 736,
+      "small": 14,
+      "medium": "0",
+      "_total": 750
+    },
+    {
+      "sl_no_": "NA",
+      "state_ut": "All India",
+      "micro": 1484768,
+      "small": 76523,
+      "medium": 2683,
+      "_total": 1563974
+    }
+  ]
+}

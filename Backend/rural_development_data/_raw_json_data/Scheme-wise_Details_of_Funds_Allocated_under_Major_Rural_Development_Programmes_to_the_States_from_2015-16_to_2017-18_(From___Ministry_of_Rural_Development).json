@@ -1,0 +1,94 @@
+{
+  "index_name": "f5bd4be3-69da-4720-a1d4-131cd043ba27",
+  "title": "Scheme-wise Details of Funds Allocated under Major Rural Development Programmes to the States from 2015-16 to 2017-18 (From : Ministry of Rural Development)",
+  "desc": "Scheme-wise Details of Funds Allocated under Major Rural Development Programmes to the States from 2015-16 to 2017-18 (From : Ministry of Rural Development)",
+  "org_type": "Central",
+  "org": [
+    "Rajya Sabha"
+  ],
+  "sector": [
+    "All"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "09685331-ed12-446c-8a2d-7ac2577a308c",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1697793864,
+  "updated": 1698053781,
+  "created_date": "2023-10-20T11:24:24Z",
+  "updated_date": "2023-10-23T15:06:21Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "09685331-ed12-446c-8a2d-7ac2577a308c",
+    "field": "f5bd4be3-69da-4720-a1d4-131cd043ba27"
+  },
+  "field": [
+    {
+      "id": "name_of_the_scheme",
+      "name": "Name of the scheme",
+      "type": "keyword"
+    },
+    {
+      "id": "central_allocation__in_crore____2015_16",
+      "name": "Central Allocation (In Crore) - 2015-16",
+      "type": "double"
+    },
+    {
+      "id": "central_allocation__in_crore____2016_17",
+      "name": "Central Allocation (In Crore) - 2016-17",
+      "type": "double"
+    },
+    {
+      "id": "central_allocation__in_crore____2017_18",
+      "name": "Central Allocation (In Crore) - 2017-18",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 6,
+  "count": 6,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "name_of_the_scheme": "MGNREGA*",
+      "central_allocation__in_crore____2015_16": 37335.69,
+      "central_allocation__in_crore____2016_17": 48214.02,
+      "central_allocation__in_crore____2017_18": 55166.75
+    },
+    {
+      "name_of_the_scheme": "PMAY-G",
+      "central_allocation__in_crore____2015_16": 9696.07,
+      "central_allocation__in_crore____2016_17": 34512.69,
+      "central_allocation__in_crore____2017_18": 24955.16
+    },
+    {
+      "name_of_the_scheme": "PMGSY",
+      "central_allocation__in_crore____2015_16": 15186,
+      "central_allocation__in_crore____2016_17": 16508,
+      "central_allocation__in_crore____2017_18": 16819
+    },
+    {
+      "name_of_the_scheme": "DAY-NRLM",
+      "central_allocation__in_crore____2015_16": 428.3,
+      "central_allocation__in_crore____2016_17": 532.5,
+      "central_allocation__in_crore____2017_18": 2028
+    },
+    {
+      "name_of_the_scheme": "DDU-GKY",
+      "central_allocation__in_crore____2015_16": 587.84,
+      "central_allocation__in_crore____2016_17": 792.96,
+      "central_allocation__in_crore____2017_18": 810
+    },
+    {
+      "name_of_the_scheme": "RSETI",
+      "central_allocation__in_crore____2015_16": 52.07,
+      "central_allocation__in_crore____2016_17": 101.78,
+      "central_allocation__in_crore____2017_18": 58.75
+    }
+  ]
+}

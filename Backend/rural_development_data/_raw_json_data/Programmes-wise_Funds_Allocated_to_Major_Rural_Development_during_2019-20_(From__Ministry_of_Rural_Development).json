@@ -1,0 +1,72 @@
+{
+  "index_name": "33d5482a-d010-48cb-a742-0bb01123fef4",
+  "title": "Programmes-wise Funds Allocated to Major Rural Development during 2019-20 (From: Ministry of Rural Development)",
+  "desc": "Programmes-wise Funds Allocated to Major Rural Development during 2019-20 (From: Ministry of Rural Development)",
+  "org_type": "Central",
+  "org": [
+    "Rajya Sabha"
+  ],
+  "sector": [
+    "All"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "d3d3d8bf-e170-4fdc-abc5-1fba050acf44",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1614843971,
+  "updated": 1616494125,
+  "created_date": "2021-03-04T07:46:11Z",
+  "updated_date": "2021-03-23T15:38:45Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "d3d3d8bf-e170-4fdc-abc5-1fba050acf44",
+    "field": "33d5482a-d010-48cb-a742-0bb01123fef4"
+  },
+  "field": [
+    {
+      "id": "programme",
+      "name": "Programme",
+      "type": "keyword"
+    },
+    {
+      "id": "funds_allocated_in_2019_20",
+      "name": "Funds Allocated in 2019-20",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 6,
+  "count": 6,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "programme": "MGNREGS",
+      "funds_allocated_in_2019_20": 60000
+    },
+    {
+      "programme": "PMAY-G",
+      "funds_allocated_in_2019_20": 19000
+    },
+    {
+      "programme": "PMGSY",
+      "funds_allocated_in_2019_20": 19000
+    },
+    {
+      "programme": "DAY-NRLM",
+      "funds_allocated_in_2019_20": 9024
+    },
+    {
+      "programme": "NSAP",
+      "funds_allocated_in_2019_20": 9200
+    },
+    {
+      "programme": "SPMRM",
+      "funds_allocated_in_2019_20": 800
+    }
+  ]
+}

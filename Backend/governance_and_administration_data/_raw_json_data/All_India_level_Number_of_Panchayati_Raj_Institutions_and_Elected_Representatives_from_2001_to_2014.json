@@ -1,0 +1,146 @@
+{
+  "index_name": "0d9b06d2-16d4-4a2b-b425-3cacf6c3abad",
+  "title": "All India level Number of Panchayati Raj Institutions and Elected Representatives from 2001 to 2014",
+  "desc": "All India level Number of Panchayati Raj Institutions and Elected Representatives from 2001 to 2014",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Statistics and Programme Implementation",
+    "Ministry of Statistics and Programme Implementation",
+    "Ministry of Statistics and Programme Implementation",
+    "Ministry of Statistics and Programme Implementation",
+    "Ministry of Statistics and Programme Implementation"
+  ],
+  "sector": [
+    "Panchayati Raj",
+    "Local Government",
+    "Governance and Administration",
+    "Rural",
+    "Statistics"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "c38fe80c-5a6a-4b22-b787-3ba0d11d8ad0",
+  "visualizable": "1",
+  "active": "1",
+  "field": [
+    {
+      "id": "year",
+      "name": "Year",
+      "type": "double"
+    },
+    {
+      "id": "village_panchayats___number",
+      "name": "Village Panchayats - Number",
+      "type": "double"
+    },
+    {
+      "id": "village_panchayats___elected_representatives",
+      "name": "Village Panchayats - Elected Representatives",
+      "type": "double"
+    },
+    {
+      "id": "intermediate_panchayats___number",
+      "name": "Intermediate Panchayats - Number",
+      "type": "double"
+    },
+    {
+      "id": "intermediate_panchayats___elected_representatives",
+      "name": "Intermediate Panchayats - Elected Representatives",
+      "type": "double"
+    },
+    {
+      "id": "district_panchayats___number",
+      "name": "District Panchayats - Number",
+      "type": "double"
+    },
+    {
+      "id": "district_panchayats___elected_representatives",
+      "name": "District Panchayats - Elected Representatives",
+      "type": "double"
+    }
+  ],
+  "updated": 1543528869,
+  "updated_date": "2018-11-30T03:31:09Z",
+  "external_ws_url": "",
+  "external_ws": "0",
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 8,
+  "count": 8,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "year": "2001",
+      "village_panchayats___number": "227590",
+      "village_panchayats___elected_representatives": "2739666",
+      "intermediate_panchayats___number": "5906",
+      "intermediate_panchayats___elected_representatives": "147701",
+      "district_panchayats___number": "474",
+      "district_panchayats___elected_representatives": "15389"
+    },
+    {
+      "year": "2002",
+      "village_panchayats___number": "234251",
+      "village_panchayats___elected_representatives": "1630327",
+      "intermediate_panchayats___number": "6007",
+      "intermediate_panchayats___elected_representatives": "72156",
+      "district_panchayats___number": "534",
+      "district_panchayats___elected_representatives": "10927"
+    },
+    {
+      "year": "2004",
+      "village_panchayats___number": "234676",
+      "village_panchayats___elected_representatives": "2073715",
+      "intermediate_panchayats___number": "6097",
+      "intermediate_panchayats___elected_representatives": "110070",
+      "district_panchayats___number": "537",
+      "district_panchayats___elected_representatives": "11825"
+    },
+    {
+      "year": "2006",
+      "village_panchayats___number": "233251",
+      "village_panchayats___elected_representatives": "2657112",
+      "intermediate_panchayats___number": "6105",
+      "intermediate_panchayats___elected_representatives": "157175",
+      "district_panchayats___number": "539",
+      "district_panchayats___elected_representatives": "15459"
+    },
+    {
+      "year": "2007",
+      "village_panchayats___number": "232855",
+      "village_panchayats___elected_representatives": "2645883",
+      "intermediate_panchayats___number": "6094",
+      "intermediate_panchayats___elected_representatives": "156794",
+      "district_panchayats___number": "633",
+      "district_panchayats___elected_representatives": "15613"
+    },
+    {
+      "year": "2008",
+      "village_panchayats___number": "232855",
+      "village_panchayats___elected_representatives": "2645880",
+      "intermediate_panchayats___number": "6094",
+      "intermediate_panchayats___elected_representatives": "156557",
+      "district_panchayats___number": "633",
+      "district_panchayats___elected_representatives": "15581"
+    },
+    {
+      "year": "2013",
+      "village_panchayats___number": "239741",
+      "village_panchayats___elected_representatives": "2741973",
+      "intermediate_panchayats___number": "6384",
+      "intermediate_panchayats___elected_representatives": "164271",
+      "district_panchayats___number": "595",
+      "district_panchayats___elected_representatives": "15137"
+    },
+    {
+      "year": "2014",
+      "village_panchayats___number": "240542",
+      "village_panchayats___elected_representatives": "2770755",
+      "intermediate_panchayats___number": "6332",
+      "intermediate_panchayats___elected_representatives": "163823",
+      "district_panchayats___number": "593",
+      "district_panchayats___elected_representatives": "15550"
+    }
+  ]
+}

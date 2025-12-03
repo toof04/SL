@@ -1,0 +1,5573 @@
+{
+  "index_name": "2b6d388c-421e-47b0-b87c-69665668f690",
+  "title": "Gram Panchayat-wise Rural Sanitation Coverage in Baloda Bazar District of Chhattisgarh as on date",
+  "desc": "Gram Panchayat-wise Rural Sanitation Coverage in Baloda Bazar District of Chhattisgarh as on date",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Jal Shakti",
+    "Department of Drinking Water and Sanitation"
+  ],
+  "sector": [
+    "Water and Sanitation"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1688360310,
+  "updated": 1688364921,
+  "created_date": "2023-07-03T06:58:30Z",
+  "updated_date": "2023-07-03T11:45:21Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "sbm",
+    "type": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+    "field": "2b6d388c-421e-47b0-b87c-69665668f690"
+  },
+  "field": [
+    {
+      "id": "statename",
+      "name": "StateName",
+      "type": "keyword"
+    },
+    {
+      "id": "districtname",
+      "name": "DistrictName",
+      "type": "keyword"
+    },
+    {
+      "id": "blockname",
+      "name": "BlockName",
+      "type": "keyword"
+    },
+    {
+      "id": "grampanchayatname",
+      "name": "GramPanchayatName",
+      "type": "keyword"
+    },
+    {
+      "id": "ihhltotalasperdetails",
+      "name": "IHHLTotalAsPerDetails",
+      "type": "double"
+    },
+    {
+      "id": "ihhltotalach",
+      "name": "IHHLTotalAch",
+      "type": "double"
+    },
+    {
+      "id": "date",
+      "name": "Date",
+      "type": "keyword"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 611,
+  "count": 611,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "AHILDA",
+      "ihhltotalasperdetails": 1110,
+      "ihhltotalach": 1110,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "AMALIDIH",
+      "ihhltotalasperdetails": 634,
+      "ihhltotalach": 634,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "AMALKUNDA",
+      "ihhltotalasperdetails": 350,
+      "ihhltotalach": 350,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "ARJUNI",
+      "ihhltotalasperdetails": 858,
+      "ihhltotalach": 858,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "BAGBUDA",
+      "ihhltotalasperdetails": 580,
+      "ihhltotalach": 580,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "BAMHANPURI",
+      "ihhltotalasperdetails": 167,
+      "ihhltotalach": 167,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "BARDA",
+      "ihhltotalasperdetails": 759,
+      "ihhltotalach": 759,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "BAZARBHATA",
+      "ihhltotalasperdetails": 471,
+      "ihhltotalach": 471,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "BEMETARA",
+      "ihhltotalasperdetails": 327,
+      "ihhltotalach": 327,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "BHADRA",
+      "ihhltotalasperdetails": 209,
+      "ihhltotalach": 209,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "BHADRAPALI",
+      "ihhltotalasperdetails": 94,
+      "ihhltotalach": 94,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "BHARSELA(BADA)",
+      "ihhltotalasperdetails": 297,
+      "ihhltotalach": 297,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "BHARSELA(NAYA)",
+      "ihhltotalasperdetails": 492,
+      "ihhltotalach": 492,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "BHARSELI",
+      "ihhltotalasperdetails": 434,
+      "ihhltotalach": 434,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "BHARUWADIH",
+      "ihhltotalasperdetails": 583,
+      "ihhltotalach": 583,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "BITKULI",
+      "ihhltotalasperdetails": 819,
+      "ihhltotalach": 819,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "CHAMPA",
+      "ihhltotalasperdetails": 220,
+      "ihhltotalach": 220,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "CHANGORI",
+      "ihhltotalasperdetails": 553,
+      "ihhltotalach": 553,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "CHARAUTI",
+      "ihhltotalasperdetails": 554,
+      "ihhltotalach": 554,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "CHICHIRDA",
+      "ihhltotalasperdetails": 440,
+      "ihhltotalach": 440,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "CHIRPOTA",
+      "ihhltotalasperdetails": 273,
+      "ihhltotalach": 273,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "DAMRU",
+      "ihhltotalasperdetails": 808,
+      "ihhltotalach": 808,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "DEVRI",
+      "ihhltotalasperdetails": 607,
+      "ihhltotalach": 607,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "DHABADIH",
+      "ihhltotalasperdetails": 503,
+      "ihhltotalach": 503,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "DHANDHANI",
+      "ihhltotalasperdetails": 232,
+      "ihhltotalach": 232,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "DHANVAI",
+      "ihhltotalasperdetails": 404,
+      "ihhltotalach": 404,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "DHARASHIV",
+      "ihhltotalasperdetails": 767,
+      "ihhltotalach": 767,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "DHASHRAMA",
+      "ihhltotalasperdetails": 458,
+      "ihhltotalach": 458,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "DONGARIDIH",
+      "ihhltotalasperdetails": 396,
+      "ihhltotalach": 396,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "DONGRA",
+      "ihhltotalasperdetails": 691,
+      "ihhltotalach": 691,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "DOTOPAR",
+      "ihhltotalasperdetails": 340,
+      "ihhltotalach": 340,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "GAITARA",
+      "ihhltotalasperdetails": 274,
+      "ihhltotalach": 274,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "GIDOLA",
+      "ihhltotalasperdetails": 594,
+      "ihhltotalach": 594,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "HARDI",
+      "ihhltotalasperdetails": 641,
+      "ihhltotalach": 641,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "JAMDIH",
+      "ihhltotalasperdetails": 186,
+      "ihhltotalach": 186,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "JUDA",
+      "ihhltotalasperdetails": 468,
+      "ihhltotalach": 468,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "KANJI",
+      "ihhltotalasperdetails": 501,
+      "ihhltotalach": 501,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "KARDA",
+      "ihhltotalasperdetails": 519,
+      "ihhltotalach": 519,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "KARI",
+      "ihhltotalasperdetails": 399,
+      "ihhltotalach": 399,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "KARMADA",
+      "ihhltotalasperdetails": 989,
+      "ihhltotalach": 989,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "KARMANDIH",
+      "ihhltotalasperdetails": 177,
+      "ihhltotalach": 177,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "KASIYARA",
+      "ihhltotalasperdetails": 178,
+      "ihhltotalach": 178,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "KHAINDA (D)",
+      "ihhltotalasperdetails": 931,
+      "ihhltotalach": 931,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "KHAINDA (KHAIRA)",
+      "ihhltotalasperdetails": 864,
+      "ihhltotalach": 864,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "KHAIRA",
+      "ihhltotalasperdetails": 642,
+      "ihhltotalach": 642,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "KHAIRTAL",
+      "ihhltotalasperdetails": 405,
+      "ihhltotalach": 405,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "KHAJURI",
+      "ihhltotalasperdetails": 275,
+      "ihhltotalach": 275,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "KHAMARDIH",
+      "ihhltotalasperdetails": 209,
+      "ihhltotalach": 209,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "KHAMHRIYA (YADU)",
+      "ihhltotalasperdetails": 206,
+      "ihhltotalach": 206,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "KHAMRIYA (CHANPA)",
+      "ihhltotalasperdetails": 303,
+      "ihhltotalach": 303,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "KHATIYAPATI",
+      "ihhltotalasperdetails": 389,
+      "ihhltotalach": 389,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "KOHRAUD",
+      "ihhltotalasperdetails": 1158,
+      "ihhltotalach": 1158,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "KOKDI",
+      "ihhltotalasperdetails": 442,
+      "ihhltotalach": 442,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "KOLIHA",
+      "ihhltotalasperdetails": 432,
+      "ihhltotalach": 432,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "KOLIYARI",
+      "ihhltotalasperdetails": 177,
+      "ihhltotalach": 177,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "KORDA",
+      "ihhltotalasperdetails": 405,
+      "ihhltotalach": 405,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "KOYADA",
+      "ihhltotalasperdetails": 377,
+      "ihhltotalach": 377,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "KUKURDI",
+      "ihhltotalasperdetails": 316,
+      "ihhltotalach": 316,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "KUMHARI",
+      "ihhltotalasperdetails": 408,
+      "ihhltotalach": 408,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "LAHOD",
+      "ihhltotalasperdetails": 652,
+      "ihhltotalach": 652,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "LATA",
+      "ihhltotalasperdetails": 186,
+      "ihhltotalach": 186,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "LATUVA",
+      "ihhltotalasperdetails": 1156,
+      "ihhltotalach": 1156,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "LAWANBAND",
+      "ihhltotalasperdetails": 269,
+      "ihhltotalach": 269,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "LIMAHI",
+      "ihhltotalasperdetails": 356,
+      "ihhltotalach": 356,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "MAGARCHABA",
+      "ihhltotalasperdetails": 294,
+      "ihhltotalach": 294,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "MARDA",
+      "ihhltotalasperdetails": 309,
+      "ihhltotalach": 309,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "MEDH",
+      "ihhltotalasperdetails": 598,
+      "ihhltotalach": 598,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "MOHTARA",
+      "ihhltotalasperdetails": 433,
+      "ihhltotalach": 433,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "MUDIYADIH",
+      "ihhltotalasperdetails": 375,
+      "ihhltotalach": 375,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "MUNDA",
+      "ihhltotalasperdetails": 533,
+      "ihhltotalach": 533,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "NAYAPARA",
+      "ihhltotalasperdetails": 664,
+      "ihhltotalach": 664,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "PAHANDA",
+      "ihhltotalasperdetails": 176,
+      "ihhltotalach": 176,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "PAIJANI",
+      "ihhltotalasperdetails": 574,
+      "ihhltotalach": 574,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "PANDARIYA",
+      "ihhltotalasperdetails": 340,
+      "ihhltotalach": 340,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "PANGAON",
+      "ihhltotalasperdetails": 1153,
+      "ihhltotalach": 1153,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "PARSADIH",
+      "ihhltotalasperdetails": 187,
+      "ihhltotalach": 187,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "PARSAPALI",
+      "ihhltotalasperdetails": 172,
+      "ihhltotalach": 172,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "PAUNSARI",
+      "ihhltotalasperdetails": 355,
+      "ihhltotalach": 355,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "PURENA (KHAPRI)",
+      "ihhltotalasperdetails": 304,
+      "ihhltotalach": 304,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "RASEDA",
+      "ihhltotalasperdetails": 540,
+      "ihhltotalach": 540,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "RASEDI",
+      "ihhltotalasperdetails": 549,
+      "ihhltotalach": 549,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "RAWAN",
+      "ihhltotalasperdetails": 462,
+      "ihhltotalach": 462,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "RISDA",
+      "ihhltotalasperdetails": 685,
+      "ihhltotalach": 685,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "SALONI",
+      "ihhltotalasperdetails": 327,
+      "ihhltotalach": 327,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "SANKARI",
+      "ihhltotalasperdetails": 592,
+      "ihhltotalach": 592,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "SARKHOR",
+      "ihhltotalasperdetails": 1459,
+      "ihhltotalach": 1459,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "SARKIPAR",
+      "ihhltotalasperdetails": 219,
+      "ihhltotalach": 219,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "SEMARADIH",
+      "ihhltotalasperdetails": 186,
+      "ihhltotalach": 186,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "SHUKLABHATA",
+      "ihhltotalasperdetails": 517,
+      "ihhltotalach": 517,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "SINGHARI",
+      "ihhltotalasperdetails": 607,
+      "ihhltotalach": 607,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "SIRIYADIH",
+      "ihhltotalasperdetails": 393,
+      "ihhltotalach": 393,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "SONADIH",
+      "ihhltotalasperdetails": 228,
+      "ihhltotalach": 228,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "SUDHELA",
+      "ihhltotalasperdetails": 976,
+      "ihhltotalach": 976,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "SUDHELI",
+      "ihhltotalasperdetails": 331,
+      "ihhltotalach": 331,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "SUNSUNIYA",
+      "ihhltotalasperdetails": 465,
+      "ihhltotalach": 465,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "TARASHIV",
+      "ihhltotalasperdetails": 639,
+      "ihhltotalach": 639,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "THELAKI",
+      "ihhltotalasperdetails": 358,
+      "ihhltotalach": 358,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "TILDA",
+      "ihhltotalasperdetails": 450,
+      "ihhltotalach": 450,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BALODA BAZAR",
+      "grampanchayatname": "TURMA",
+      "ihhltotalasperdetails": 719,
+      "ihhltotalach": 719,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "AKALTARA",
+      "ihhltotalasperdetails": 488,
+      "ihhltotalach": 488,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "ALESUR",
+      "ihhltotalasperdetails": 283,
+      "ihhltotalach": 283,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "AMETHI",
+      "ihhltotalasperdetails": 320,
+      "ihhltotalach": 320,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "AMLIDIH",
+      "ihhltotalasperdetails": 246,
+      "ihhltotalach": 246,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "BENDRI",
+      "ihhltotalasperdetails": 216,
+      "ihhltotalach": 216,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "BHARATPUR",
+      "ihhltotalasperdetails": 387,
+      "ihhltotalach": 387,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "BHOTHIDIH",
+      "ihhltotalasperdetails": 284,
+      "ihhltotalach": 284,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "BIJRADIH",
+      "ihhltotalasperdetails": 380,
+      "ihhltotalach": 380,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "BITKULI",
+      "ihhltotalasperdetails": 450,
+      "ihhltotalach": 450,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "BOARSI",
+      "ihhltotalasperdetails": 433,
+      "ihhltotalach": 433,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "BODTARA",
+      "ihhltotalasperdetails": 206,
+      "ihhltotalach": 206,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "BORSI",
+      "ihhltotalasperdetails": 603,
+      "ihhltotalach": 603,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "CHICHPOL",
+      "ihhltotalasperdetails": 358,
+      "ihhltotalach": 358,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "DABADIH",
+      "ihhltotalasperdetails": 623,
+      "ihhltotalach": 623,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "DATRENGA",
+      "ihhltotalasperdetails": 251,
+      "ihhltotalach": 251,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "DATRENGI",
+      "ihhltotalasperdetails": 809,
+      "ihhltotalach": 809,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "DEORI",
+      "ihhltotalasperdetails": 965,
+      "ihhltotalach": 965,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "DEVRANI",
+      "ihhltotalasperdetails": 385,
+      "ihhltotalach": 385,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "DHANELI",
+      "ihhltotalasperdetails": 372,
+      "ihhltotalach": 372,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "DHOURABHATA",
+      "ihhltotalasperdetails": 369,
+      "ihhltotalach": 369,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "DHURRABANDHA",
+      "ihhltotalasperdetails": 398,
+      "ihhltotalach": 398,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "GADADIH",
+      "ihhltotalasperdetails": 163,
+      "ihhltotalach": 163,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "GODHI (S)",
+      "ihhltotalasperdetails": 431,
+      "ihhltotalach": 431,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "GODI (T)",
+      "ihhltotalasperdetails": 589,
+      "ihhltotalach": 589,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "GOGIYA",
+      "ihhltotalasperdetails": 226,
+      "ihhltotalach": 226,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "GUDAGHAT",
+      "ihhltotalasperdetails": 415,
+      "ihhltotalach": 415,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "GUDELIYA",
+      "ihhltotalasperdetails": 44,
+      "ihhltotalach": 44,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "GURRA",
+      "ihhltotalasperdetails": 472,
+      "ihhltotalach": 472,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "HASDA",
+      "ihhltotalasperdetails": 251,
+      "ihhltotalach": 251,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "JARHAGAON",
+      "ihhltotalasperdetails": 161,
+      "ihhltotalach": 161,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "KADAR",
+      "ihhltotalasperdetails": 407,
+      "ihhltotalach": 407,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "KARHIBAZAR",
+      "ihhltotalasperdetails": 652,
+      "ihhltotalach": 652,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "KESLA",
+      "ihhltotalasperdetails": 441,
+      "ihhltotalach": 441,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "KHAIRA",
+      "ihhltotalasperdetails": 489,
+      "ihhltotalach": 489,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "KHAIRI",
+      "ihhltotalasperdetails": 315,
+      "ihhltotalach": 315,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "KHAIRI K",
+      "ihhltotalasperdetails": 186,
+      "ihhltotalach": 186,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "KHAMHRIYA",
+      "ihhltotalasperdetails": 524,
+      "ihhltotalach": 524,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "KHAPRADIH",
+      "ihhltotalasperdetails": 141,
+      "ihhltotalach": 141,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "KHAPRI (S)",
+      "ihhltotalasperdetails": 297,
+      "ihhltotalach": 297,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "KHAPRI(R )",
+      "ihhltotalasperdetails": 244,
+      "ihhltotalach": 244,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "KHOKHALI",
+      "ihhltotalasperdetails": 268,
+      "ihhltotalach": 268,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "KHOLWA",
+      "ihhltotalasperdetails": 565,
+      "ihhltotalach": 565,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "KODAPAR",
+      "ihhltotalasperdetails": 275,
+      "ihhltotalach": 275,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "KODVA",
+      "ihhltotalasperdetails": 560,
+      "ihhltotalach": 560,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "KONI",
+      "ihhltotalasperdetails": 578,
+      "ihhltotalach": 578,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "KOSMANDA",
+      "ihhltotalasperdetails": 285,
+      "ihhltotalach": 285,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "KOTMI",
+      "ihhltotalasperdetails": 349,
+      "ihhltotalach": 349,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "KUKDA",
+      "ihhltotalasperdetails": 289,
+      "ihhltotalach": 289,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "LACHANPUR",
+      "ihhltotalasperdetails": 436,
+      "ihhltotalach": 436,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "LALPUR",
+      "ihhltotalasperdetails": 378,
+      "ihhltotalach": 378,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "LAMTI",
+      "ihhltotalasperdetails": 332,
+      "ihhltotalach": 332,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "LEVAI",
+      "ihhltotalasperdetails": 528,
+      "ihhltotalach": 528,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "MADHUBAN",
+      "ihhltotalasperdetails": 384,
+      "ihhltotalach": 384,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "MAJHGAON",
+      "ihhltotalasperdetails": 181,
+      "ihhltotalach": 181,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "MALDI",
+      "ihhltotalasperdetails": 472,
+      "ihhltotalach": 472,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "MEKRI",
+      "ihhltotalasperdetails": 373,
+      "ihhltotalach": 373,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "MIRGI",
+      "ihhltotalasperdetails": 452,
+      "ihhltotalach": 452,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "MOPAR",
+      "ihhltotalasperdetails": 626,
+      "ihhltotalach": 626,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "MOPKA",
+      "ihhltotalasperdetails": 743,
+      "ihhltotalach": 743,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "MOPKI",
+      "ihhltotalasperdetails": 280,
+      "ihhltotalach": 280,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "NAWAGAON",
+      "ihhltotalasperdetails": 243,
+      "ihhltotalach": 243,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "NIPANIYA",
+      "ihhltotalasperdetails": 264,
+      "ihhltotalach": 264,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "OTEBANDH",
+      "ihhltotalasperdetails": 423,
+      "ihhltotalach": 423,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "PARASWANI",
+      "ihhltotalasperdetails": 405,
+      "ihhltotalach": 405,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "PARASWANI (A)",
+      "ihhltotalasperdetails": 581,
+      "ihhltotalach": 581,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "PASEED",
+      "ihhltotalasperdetails": 458,
+      "ihhltotalach": 458,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "PATAN",
+      "ihhltotalasperdetails": 412,
+      "ihhltotalach": 412,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "PATHARIYA",
+      "ihhltotalasperdetails": 354,
+      "ihhltotalach": 354,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "PENDRI",
+      "ihhltotalasperdetails": 421,
+      "ihhltotalach": 421,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "POUNSURI",
+      "ihhltotalasperdetails": 185,
+      "ihhltotalach": 185,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "RAJADHAR",
+      "ihhltotalasperdetails": 521,
+      "ihhltotalach": 521,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "RAJPUR",
+      "ihhltotalasperdetails": 235,
+      "ihhltotalach": 235,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "RAMPUR",
+      "ihhltotalasperdetails": 445,
+      "ihhltotalach": 445,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "SEMRADIH",
+      "ihhltotalasperdetails": 313,
+      "ihhltotalach": 313,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "SEMRIYA (B)",
+      "ihhltotalasperdetails": 388,
+      "ihhltotalach": 388,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "SEMRIYA (D)",
+      "ihhltotalasperdetails": 376,
+      "ihhltotalach": 376,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "SILWA",
+      "ihhltotalasperdetails": 316,
+      "ihhltotalach": 316,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "SINGARPUR",
+      "ihhltotalasperdetails": 766,
+      "ihhltotalach": 766,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "SUMA",
+      "ihhltotalasperdetails": 594,
+      "ihhltotalach": 594,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "SURJPURA",
+      "ihhltotalasperdetails": 452,
+      "ihhltotalach": 452,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "SURKHI",
+      "ihhltotalasperdetails": 252,
+      "ihhltotalach": 252,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "TARENGA",
+      "ihhltotalasperdetails": 2017,
+      "ihhltotalach": 2017,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "TEHKA",
+      "ihhltotalasperdetails": 530,
+      "ihhltotalach": 530,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "TIKULIYA",
+      "ihhltotalasperdetails": 464,
+      "ihhltotalach": 464,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "TONATAR",
+      "ihhltotalasperdetails": 840,
+      "ihhltotalach": 840,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "TOPA",
+      "ihhltotalasperdetails": 191,
+      "ihhltotalach": 191,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BHATAPARA",
+      "grampanchayatname": "TURMA",
+      "ihhltotalasperdetails": 313,
+      "ihhltotalach": 313,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "AMALDIHA",
+      "ihhltotalasperdetails": 450,
+      "ihhltotalach": 450,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "AMODI",
+      "ihhltotalasperdetails": 872,
+      "ihhltotalach": 872,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "BAGHMALLA",
+      "ihhltotalasperdetails": 745,
+      "ihhltotalach": 745,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "BALODI",
+      "ihhltotalasperdetails": 745,
+      "ihhltotalach": 745,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "BALPUR",
+      "ihhltotalasperdetails": 917,
+      "ihhltotalach": 917,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "BAMHANPURI",
+      "ihhltotalasperdetails": 613,
+      "ihhltotalach": 613,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "BANDARI",
+      "ihhltotalasperdetails": 319,
+      "ihhltotalach": 319,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "BANSURKULI",
+      "ihhltotalasperdetails": 376,
+      "ihhltotalach": 376,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "BEGPALI",
+      "ihhltotalasperdetails": 569,
+      "ihhltotalach": 569,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "BELHA",
+      "ihhltotalasperdetails": 231,
+      "ihhltotalach": 231,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "BELTIKRI",
+      "ihhltotalasperdetails": 601,
+      "ihhltotalach": 601,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "BHANDORA",
+      "ihhltotalasperdetails": 655,
+      "ihhltotalach": 655,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "BHINODA",
+      "ihhltotalasperdetails": 673,
+      "ihhltotalach": 673,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "BILASPUR",
+      "ihhltotalasperdetails": 597,
+      "ihhltotalach": 597,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "BISANPUR",
+      "ihhltotalasperdetails": 579,
+      "ihhltotalach": 579,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "BODA",
+      "ihhltotalasperdetails": 536,
+      "ihhltotalach": 536,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "CHAKARDA",
+      "ihhltotalasperdetails": 277,
+      "ihhltotalach": 277,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "CHARPALI",
+      "ihhltotalasperdetails": 248,
+      "ihhltotalach": 248,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "CHHIRRA",
+      "ihhltotalasperdetails": 538,
+      "ihhltotalach": 538,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "CHHUIHA",
+      "ihhltotalasperdetails": 482,
+      "ihhltotalach": 482,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "CHICHOLI",
+      "ihhltotalasperdetails": 250,
+      "ihhltotalach": 250,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "CHIKNIDIH",
+      "ihhltotalasperdetails": 485,
+      "ihhltotalach": 485,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "CHORBHATTI",
+      "ihhltotalasperdetails": 378,
+      "ihhltotalach": 378,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "DEVARBODI",
+      "ihhltotalasperdetails": 684,
+      "ihhltotalach": 684,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "DEVRAHA",
+      "ihhltotalasperdetails": 744,
+      "ihhltotalach": 744,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "DEVSAGAR",
+      "ihhltotalasperdetails": 595,
+      "ihhltotalach": 595,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "DHANDHANI",
+      "ihhltotalasperdetails": 649,
+      "ihhltotalach": 649,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "DHANGAON",
+      "ihhltotalasperdetails": 860,
+      "ihhltotalach": 860,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "DHANSIR",
+      "ihhltotalasperdetails": 377,
+      "ihhltotalach": 377,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "DHARASHIV",
+      "ihhltotalasperdetails": 794,
+      "ihhltotalach": 794,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "DHAURABHATHA",
+      "ihhltotalasperdetails": 542,
+      "ihhltotalach": 542,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "DHOBNI",
+      "ihhltotalasperdetails": 648,
+      "ihhltotalach": 648,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "DHOURABHATHA",
+      "ihhltotalasperdetails": 356,
+      "ihhltotalach": 356,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "DOKRIDIH",
+      "ihhltotalasperdetails": 474,
+      "ihhltotalach": 474,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "DUMHANI",
+      "ihhltotalasperdetails": 270,
+      "ihhltotalach": 270,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "DURUG",
+      "ihhltotalasperdetails": 774,
+      "ihhltotalach": 774,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "DURUMGARH",
+      "ihhltotalasperdetails": 721,
+      "ihhltotalach": 721,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "GADHABHATA",
+      "ihhltotalasperdetails": 750,
+      "ihhltotalach": 750,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "GAGORI",
+      "ihhltotalasperdetails": 822,
+      "ihhltotalach": 822,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "GARDIH",
+      "ihhltotalasperdetails": 243,
+      "ihhltotalach": 243,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "GATADIH",
+      "ihhltotalasperdetails": 1086,
+      "ihhltotalach": 1086,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "GEDAPALI",
+      "ihhltotalasperdetails": 656,
+      "ihhltotalach": 656,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "GHOGRA",
+      "ihhltotalasperdetails": 302,
+      "ihhltotalach": 302,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "GIRSA",
+      "ihhltotalasperdetails": 459,
+      "ihhltotalach": 459,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "GIRWANI",
+      "ihhltotalasperdetails": 660,
+      "ihhltotalach": 660,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "GORBA",
+      "ihhltotalasperdetails": 391,
+      "ihhltotalach": 391,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "GOVINDWAN",
+      "ihhltotalasperdetails": 456,
+      "ihhltotalach": 456,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "HARDI",
+      "ihhltotalasperdetails": 929,
+      "ihhltotalach": 929,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "JAMGAHAN",
+      "ihhltotalasperdetails": 471,
+      "ihhltotalach": 471,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "JHUMKA",
+      "ihhltotalasperdetails": 1039,
+      "ihhltotalach": 1039,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "JORA",
+      "ihhltotalasperdetails": 634,
+      "ihhltotalach": 634,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "JUNWANI",
+      "ihhltotalasperdetails": 543,
+      "ihhltotalach": 543,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "KAITHA",
+      "ihhltotalasperdetails": 602,
+      "ihhltotalach": 602,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "KARBADABRI",
+      "ihhltotalasperdetails": 365,
+      "ihhltotalach": 365,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "KARIYATAR",
+      "ihhltotalasperdetails": 564,
+      "ihhltotalach": 564,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "KHAJRI",
+      "ihhltotalasperdetails": 424,
+      "ihhltotalach": 424,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "KHAMHRIYA",
+      "ihhltotalasperdetails": 755,
+      "ihhltotalach": 755,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "KHAPRIDIH",
+      "ihhltotalasperdetails": 599,
+      "ihhltotalach": 599,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "KHIRJHITI",
+      "ihhltotalasperdetails": 330,
+      "ihhltotalach": 330,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "KHURDARHA",
+      "ihhltotalasperdetails": 347,
+      "ihhltotalach": 347,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "KHURSULA",
+      "ihhltotalasperdetails": 494,
+      "ihhltotalach": 494,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "KISDA",
+      "ihhltotalasperdetails": 285,
+      "ihhltotalach": 285,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "KODWA",
+      "ihhltotalasperdetails": 1001,
+      "ihhltotalach": 1001,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "KORKOTI",
+      "ihhltotalasperdetails": 524,
+      "ihhltotalach": 524,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "KOSAMKUNDA",
+      "ihhltotalasperdetails": 835,
+      "ihhltotalach": 835,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "KOT",
+      "ihhltotalasperdetails": 493,
+      "ihhltotalach": 493,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "LIMTARI",
+      "ihhltotalasperdetails": 261,
+      "ihhltotalach": 261,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "MADAIBHATA",
+      "ihhltotalasperdetails": 451,
+      "ihhltotalach": 451,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "MADKADI",
+      "ihhltotalasperdetails": 379,
+      "ihhltotalach": 379,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "MALDI",
+      "ihhltotalasperdetails": 778,
+      "ihhltotalach": 778,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "MANPASAR",
+      "ihhltotalasperdetails": 599,
+      "ihhltotalach": 599,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "MIRCHID",
+      "ihhltotalasperdetails": 619,
+      "ihhltotalach": 619,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "MOHTARA",
+      "ihhltotalasperdetails": 450,
+      "ihhltotalach": 450,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "MOHTARA (N)",
+      "ihhltotalasperdetails": 808,
+      "ihhltotalach": 808,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "MUCHHAMALDA",
+      "ihhltotalasperdetails": 517,
+      "ihhltotalach": 517,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "MUDPAR",
+      "ihhltotalasperdetails": 604,
+      "ihhltotalach": 604,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "NAGARADA",
+      "ihhltotalasperdetails": 650,
+      "ihhltotalach": 650,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "ODKAKAN",
+      "ihhltotalasperdetails": 427,
+      "ihhltotalach": 427,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "PACHARI",
+      "ihhltotalasperdetails": 497,
+      "ihhltotalach": 497,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "PANDRIPALI",
+      "ihhltotalasperdetails": 700,
+      "ihhltotalach": 700,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "PANDRIPANI",
+      "ihhltotalasperdetails": 478,
+      "ihhltotalach": 478,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "PARSADIH",
+      "ihhltotalasperdetails": 359,
+      "ihhltotalach": 359,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "PARSAPALI",
+      "ihhltotalasperdetails": 406,
+      "ihhltotalach": 406,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "PAWNI",
+      "ihhltotalasperdetails": 782,
+      "ihhltotalach": 782,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "PENDRAWAN",
+      "ihhltotalasperdetails": 691,
+      "ihhltotalach": 691,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "PIPARBHONA",
+      "ihhltotalasperdetails": 428,
+      "ihhltotalach": 428,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "PIPERBHAWANA",
+      "ihhltotalasperdetails": 599,
+      "ihhltotalach": 599,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "PIRDA",
+      "ihhltotalasperdetails": 463,
+      "ihhltotalach": 463,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "PURGAON",
+      "ihhltotalasperdetails": 776,
+      "ihhltotalach": 776,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "RAIKONA",
+      "ihhltotalasperdetails": 725,
+      "ihhltotalach": 725,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "RIKOTAR",
+      "ihhltotalasperdetails": 225,
+      "ihhltotalach": 225,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "ROHINA",
+      "ihhltotalasperdetails": 412,
+      "ihhltotalach": 412,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "SALIHA",
+      "ihhltotalasperdetails": 1076,
+      "ihhltotalach": 1076,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "SALIHAGHAT",
+      "ihhltotalasperdetails": 386,
+      "ihhltotalach": 386,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "SALONIKALA",
+      "ihhltotalasperdetails": 591,
+      "ihhltotalach": 591,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "SARDHABHATHA",
+      "ihhltotalasperdetails": 447,
+      "ihhltotalach": 447,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "SARSIVA",
+      "ihhltotalasperdetails": 1115,
+      "ihhltotalach": 1115,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "SENDURAS",
+      "ihhltotalasperdetails": 679,
+      "ihhltotalach": 679,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "SINDHICHUWA",
+      "ihhltotalasperdetails": 444,
+      "ihhltotalach": 444,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "SINGHITAR",
+      "ihhltotalasperdetails": 321,
+      "ihhltotalach": 321,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "SOHAGPUR",
+      "ihhltotalasperdetails": 753,
+      "ihhltotalach": 753,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "SONADULA",
+      "ihhltotalasperdetails": 242,
+      "ihhltotalach": 242,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "SONIYADIH",
+      "ihhltotalasperdetails": 478,
+      "ihhltotalach": 478,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "SURGULI",
+      "ihhltotalasperdetails": 408,
+      "ihhltotalach": 408,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "SUTIURKULI",
+      "ihhltotalasperdetails": 364,
+      "ihhltotalach": 364,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "TATA",
+      "ihhltotalasperdetails": 725,
+      "ihhltotalach": 725,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "TEDIBHADRA",
+      "ihhltotalasperdetails": 457,
+      "ihhltotalach": 457,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "TENDUDARHA",
+      "ihhltotalasperdetails": 445,
+      "ihhltotalach": 445,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "TIHALIPALI",
+      "ihhltotalasperdetails": 765,
+      "ihhltotalach": 765,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "TILAIPALI",
+      "ihhltotalasperdetails": 556,
+      "ihhltotalach": 556,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "TOULIDIH",
+      "ihhltotalasperdetails": 345,
+      "ihhltotalach": 345,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "BILAIGARH",
+      "grampanchayatname": "TUNDRI",
+      "ihhltotalasperdetails": 650,
+      "ihhltotalach": 650,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "AMAKHOHA",
+      "ihhltotalasperdetails": 416,
+      "ihhltotalach": 416,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "AMGAON",
+      "ihhltotalasperdetails": 293,
+      "ihhltotalach": 293,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "AMODI",
+      "ihhltotalasperdetails": 485,
+      "ihhltotalach": 485,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "AMRUNWA",
+      "ihhltotalasperdetails": 543,
+      "ihhltotalach": 543,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "ARJUNI(B)",
+      "ihhltotalasperdetails": 572,
+      "ihhltotalach": 572,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "ARJUNI(M)",
+      "ihhltotalasperdetails": 390,
+      "ihhltotalach": 390,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "ASNIND",
+      "ihhltotalasperdetails": 721,
+      "ihhltotalach": 721,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "AWARAI",
+      "ihhltotalasperdetails": 356,
+      "ihhltotalach": 356,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "BADGAON",
+      "ihhltotalasperdetails": 390,
+      "ihhltotalach": 390,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "BAGAR",
+      "ihhltotalasperdetails": 279,
+      "ihhltotalach": 279,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "BAIJNATH",
+      "ihhltotalasperdetails": 358,
+      "ihhltotalach": 358,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "BALDAKACHHAR",
+      "ihhltotalasperdetails": 586,
+      "ihhltotalach": 586,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "BALODA",
+      "ihhltotalasperdetails": 1814,
+      "ihhltotalach": 1814,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "BAMHANI",
+      "ihhltotalasperdetails": 465,
+      "ihhltotalach": 465,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "BAR",
+      "ihhltotalasperdetails": 429,
+      "ihhltotalach": 429,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "BARELI",
+      "ihhltotalasperdetails": 714,
+      "ihhltotalach": 714,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "BARPALI",
+      "ihhltotalasperdetails": 336,
+      "ihhltotalach": 336,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "BARPANI",
+      "ihhltotalasperdetails": 752,
+      "ihhltotalach": 752,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "BAYA",
+      "ihhltotalasperdetails": 882,
+      "ihhltotalach": 882,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "BHADRA",
+      "ihhltotalasperdetails": 288,
+      "ihhltotalach": 288,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "BHINBHORI",
+      "ihhltotalasperdetails": 425,
+      "ihhltotalach": 425,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "BHUSADIPALI (VIRNARAYANPUR)",
+      "ihhltotalasperdetails": 381,
+      "ihhltotalach": 381,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "BILARI(J)",
+      "ihhltotalasperdetails": 534,
+      "ihhltotalach": 534,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "BILARI(K)",
+      "ihhltotalasperdetails": 751,
+      "ihhltotalach": 751,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "BORASI",
+      "ihhltotalasperdetails": 519,
+      "ihhltotalach": 519,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "CHAANDAN",
+      "ihhltotalasperdetails": 509,
+      "ihhltotalach": 509,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "CHARODA(B)",
+      "ihhltotalasperdetails": 265,
+      "ihhltotalach": 265,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "CHARODA(K)",
+      "ihhltotalasperdetails": 634,
+      "ihhltotalach": 634,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "CHATA",
+      "ihhltotalasperdetails": 560,
+      "ihhltotalach": 560,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "CHECHRAPALI",
+      "ihhltotalasperdetails": 230,
+      "ihhltotalach": 230,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "CHHANCHI",
+      "ihhltotalasperdetails": 170,
+      "ihhltotalach": 170,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "CHHARCHHED",
+      "ihhltotalasperdetails": 749,
+      "ihhltotalach": 749,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "CHHATWAN",
+      "ihhltotalasperdetails": 569,
+      "ihhltotalach": 569,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "CHHECHHAR",
+      "ihhltotalasperdetails": 905,
+      "ihhltotalach": 905,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "CHIKHALI",
+      "ihhltotalasperdetails": 478,
+      "ihhltotalach": 478,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "DARRA",
+      "ihhltotalasperdetails": 742,
+      "ihhltotalach": 742,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "DARRA M",
+      "ihhltotalasperdetails": 312,
+      "ihhltotalach": 312,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "DEORIKALA",
+      "ihhltotalasperdetails": 428,
+      "ihhltotalach": 428,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "DEOTARAI",
+      "ihhltotalasperdetails": 560,
+      "ihhltotalach": 560,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "DERADIH",
+      "ihhltotalasperdetails": 762,
+      "ihhltotalach": 762,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "DHAMALPUR",
+      "ihhltotalasperdetails": 395,
+      "ihhltotalach": 395,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "DHAMALPURA",
+      "ihhltotalasperdetails": 487,
+      "ihhltotalach": 487,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "DHEBI",
+      "ihhltotalasperdetails": 424,
+      "ihhltotalach": 424,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "DUMARPALI",
+      "ihhltotalasperdetails": 1014,
+      "ihhltotalach": 1014,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "GHATMADWA",
+      "ihhltotalasperdetails": 228,
+      "ihhltotalach": 228,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "GIDHORI",
+      "ihhltotalasperdetails": 402,
+      "ihhltotalach": 402,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "GIRAUD",
+      "ihhltotalasperdetails": 668,
+      "ihhltotalach": 668,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "GOLAJHAR",
+      "ihhltotalasperdetails": 499,
+      "ihhltotalach": 499,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "HASUWA",
+      "ihhltotalasperdetails": 578,
+      "ihhltotalach": 578,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "HATOD",
+      "ihhltotalasperdetails": 774,
+      "ihhltotalach": 774,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "JHABADI",
+      "ihhltotalasperdetails": 527,
+      "ihhltotalach": 527,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "KANJIA",
+      "ihhltotalasperdetails": 386,
+      "ihhltotalach": 386,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "KATAGI",
+      "ihhltotalasperdetails": 702,
+      "ihhltotalach": 702,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "KHAIRA",
+      "ihhltotalasperdetails": 552,
+      "ihhltotalach": 552,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "KHAIRA (B)",
+      "ihhltotalasperdetails": 287,
+      "ihhltotalach": 287,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "KHAPARIDIH",
+      "ihhltotalasperdetails": 802,
+      "ihhltotalach": 802,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "KHARRI",
+      "ihhltotalasperdetails": 495,
+      "ihhltotalach": 495,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "KHARVE",
+      "ihhltotalasperdetails": 499,
+      "ihhltotalach": 499,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "KHUDMUDI",
+      "ihhltotalasperdetails": 338,
+      "ihhltotalach": 338,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "KOSAMSARA(B)",
+      "ihhltotalasperdetails": 595,
+      "ihhltotalach": 595,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "KOSAMSARA(K)",
+      "ihhltotalasperdetails": 514,
+      "ihhltotalach": 514,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "KOT(K)",
+      "ihhltotalasperdetails": 592,
+      "ihhltotalach": 592,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "KOT(RA)",
+      "ihhltotalasperdetails": 421,
+      "ihhltotalach": 421,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "KOTIADIH",
+      "ihhltotalasperdetails": 656,
+      "ihhltotalach": 656,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "KOUWATAL",
+      "ihhltotalasperdetails": 662,
+      "ihhltotalach": 662,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "KUMHARI",
+      "ihhltotalasperdetails": 831,
+      "ihhltotalach": 831,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "KURKUTI",
+      "ihhltotalasperdetails": 630,
+      "ihhltotalach": 630,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "KURMAJHAR",
+      "ihhltotalasperdetails": 576,
+      "ihhltotalach": 576,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "KUSHBHATA",
+      "ihhltotalasperdetails": 560,
+      "ihhltotalach": 560,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "KUSHGADH",
+      "ihhltotalasperdetails": 323,
+      "ihhltotalach": 323,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "MADKADA",
+      "ihhltotalasperdetails": 690,
+      "ihhltotalach": 690,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "MADWA",
+      "ihhltotalasperdetails": 430,
+      "ihhltotalach": 430,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "MAHARAJI",
+      "ihhltotalasperdetails": 517,
+      "ihhltotalach": 517,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "MALDA",
+      "ihhltotalasperdetails": 408,
+      "ihhltotalach": 408,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "MANAKONI",
+      "ihhltotalasperdetails": 410,
+      "ihhltotalach": 410,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "MATIA",
+      "ihhltotalasperdetails": 710,
+      "ihhltotalach": 710,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "MOHTARA(H)",
+      "ihhltotalasperdetails": 511,
+      "ihhltotalach": 511,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "MOHTARA(K)",
+      "ihhltotalasperdetails": 474,
+      "ihhltotalach": 474,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "MOTIPUR",
+      "ihhltotalasperdetails": 325,
+      "ihhltotalach": 325,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "MUDHIPAR",
+      "ihhltotalasperdetails": 410,
+      "ihhltotalach": 410,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "MUDIYADIH",
+      "ihhltotalasperdetails": 159,
+      "ihhltotalach": 159,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "MUDPAR",
+      "ihhltotalasperdetails": 412,
+      "ihhltotalach": 412,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "MUDPAR(B)",
+      "ihhltotalasperdetails": 413,
+      "ihhltotalach": 413,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "NAGARADA",
+      "ihhltotalasperdetails": 575,
+      "ihhltotalach": 575,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "NAGEDA",
+      "ihhltotalasperdetails": 348,
+      "ihhltotalach": 348,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "NAGEDI",
+      "ihhltotalasperdetails": 458,
+      "ihhltotalach": 458,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "NARDHA",
+      "ihhltotalasperdetails": 645,
+      "ihhltotalach": 645,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "NAVRANGPUR",
+      "ihhltotalasperdetails": 396,
+      "ihhltotalach": 396,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "NAWAGAON",
+      "ihhltotalasperdetails": 647,
+      "ihhltotalach": 647,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "NAWAPARA",
+      "ihhltotalasperdetails": 196,
+      "ihhltotalach": 196,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "PARSADA",
+      "ihhltotalasperdetails": 395,
+      "ihhltotalach": 395,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "PIPARCHEDI",
+      "ihhltotalasperdetails": 312,
+      "ihhltotalach": 312,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "PISID",
+      "ihhltotalasperdetails": 745,
+      "ihhltotalach": 745,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "PULENI",
+      "ihhltotalasperdetails": 276,
+      "ihhltotalach": 276,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "PUTPURA",
+      "ihhltotalasperdetails": 652,
+      "ihhltotalach": 652,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "RAJADEORI",
+      "ihhltotalasperdetails": 559,
+      "ihhltotalach": 559,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "RANGORA",
+      "ihhltotalasperdetails": 377,
+      "ihhltotalach": 377,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "RAWAN",
+      "ihhltotalasperdetails": 499,
+      "ihhltotalach": 499,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "RIKOKALA",
+      "ihhltotalasperdetails": 378,
+      "ihhltotalach": 378,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "SABAR",
+      "ihhltotalasperdetails": 484,
+      "ihhltotalach": 484,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "SARVA",
+      "ihhltotalasperdetails": 723,
+      "ihhltotalach": 723,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "SEL",
+      "ihhltotalasperdetails": 970,
+      "ihhltotalach": 970,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "SEMRIA",
+      "ihhltotalasperdetails": 438,
+      "ihhltotalach": 438,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "SINODHA",
+      "ihhltotalasperdetails": 239,
+      "ihhltotalach": 239,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "SONAKHAN",
+      "ihhltotalasperdetails": 601,
+      "ihhltotalach": 601,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "SONPUR",
+      "ihhltotalasperdetails": 690,
+      "ihhltotalach": 690,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "SUKALI",
+      "ihhltotalasperdetails": 438,
+      "ihhltotalach": 438,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "TEMARI",
+      "ihhltotalasperdetails": 539,
+      "ihhltotalach": 539,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "THARGAON",
+      "ihhltotalasperdetails": 518,
+      "ihhltotalach": 518,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "KASDOL",
+      "grampanchayatname": "TUNDRA",
+      "ihhltotalasperdetails": 260,
+      "ihhltotalach": 260,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "ACHHOLI",
+      "ihhltotalasperdetails": 553,
+      "ihhltotalach": 553,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "AMERA",
+      "ihhltotalasperdetails": 980,
+      "ihhltotalach": 980,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "AMETHI",
+      "ihhltotalasperdetails": 291,
+      "ihhltotalach": 291,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "AURASI",
+      "ihhltotalasperdetails": 438,
+      "ihhltotalach": 438,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "BALODI",
+      "ihhltotalasperdetails": 699,
+      "ihhltotalach": 699,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "BAMHANI",
+      "ihhltotalasperdetails": 369,
+      "ihhltotalach": 369,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "BANSBINORI",
+      "ihhltotalasperdetails": 374,
+      "ihhltotalach": 374,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "BELHA",
+      "ihhltotalasperdetails": 381,
+      "ihhltotalach": 381,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "BHAVANIPUR",
+      "ihhltotalasperdetails": 568,
+      "ihhltotalach": 568,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "BIJRADIH",
+      "ihhltotalasperdetails": 460,
+      "ihhltotalach": 460,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "BINORI",
+      "ihhltotalasperdetails": 820,
+      "ihhltotalach": 820,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "BOHARDIH",
+      "ihhltotalasperdetails": 392,
+      "ihhltotalach": 392,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "BOIRDIH",
+      "ihhltotalasperdetails": 345,
+      "ihhltotalach": 345,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "CHARKADIH (S)",
+      "ihhltotalasperdetails": 275,
+      "ihhltotalach": 275,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "CHARODA",
+      "ihhltotalasperdetails": 335,
+      "ihhltotalach": 335,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "CHHADIA",
+      "ihhltotalasperdetails": 290,
+      "ihhltotalach": 290,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "CHHERAKADIH",
+      "ihhltotalasperdetails": 348,
+      "ihhltotalach": 348,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "CHHERAKAPUR",
+      "ihhltotalasperdetails": 755,
+      "ihhltotalach": 755,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "CHUCHRUNGPUR",
+      "ihhltotalasperdetails": 247,
+      "ihhltotalach": 247,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "DATAN (KH)",
+      "ihhltotalasperdetails": 904,
+      "ihhltotalach": 904,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "DATAN (P)",
+      "ihhltotalasperdetails": 504,
+      "ihhltotalach": 504,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "DATRENGI",
+      "ihhltotalasperdetails": 445,
+      "ihhltotalach": 445,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "DEVGAON",
+      "ihhltotalasperdetails": 354,
+      "ihhltotalach": 354,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "DEVSUNDRA",
+      "ihhltotalasperdetails": 685,
+      "ihhltotalach": 685,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "DHAMANI",
+      "ihhltotalasperdetails": 328,
+      "ihhltotalach": 328,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "DHOURABHATA",
+      "ihhltotalasperdetails": 333,
+      "ihhltotalach": 333,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "GABAOD (M)",
+      "ihhltotalasperdetails": 247,
+      "ihhltotalach": 247,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "GABOD",
+      "ihhltotalasperdetails": 561,
+      "ihhltotalach": 561,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "GADABHATHA",
+      "ihhltotalasperdetails": 495,
+      "ihhltotalach": 495,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "GADAKUSMI",
+      "ihhltotalasperdetails": 353,
+      "ihhltotalach": 353,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "GADHIDIH",
+      "ihhltotalasperdetails": 162,
+      "ihhltotalach": 162,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "GAITRA",
+      "ihhltotalasperdetails": 448,
+      "ihhltotalach": 448,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "GATAPAR",
+      "ihhltotalasperdetails": 452,
+      "ihhltotalach": 452,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "GHIGHOL",
+      "ihhltotalasperdetails": 409,
+      "ihhltotalach": 409,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "GHOTIYA",
+      "ihhltotalasperdetails": 214,
+      "ihhltotalach": 214,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "GIDHAPURI",
+      "ihhltotalasperdetails": 15,
+      "ihhltotalach": 15,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "GIRRA",
+      "ihhltotalasperdetails": 404,
+      "ihhltotalach": 404,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "GITKERA",
+      "ihhltotalasperdetails": 331,
+      "ihhltotalach": 331,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "GODA",
+      "ihhltotalasperdetails": 530,
+      "ihhltotalach": 530,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "GUMA",
+      "ihhltotalasperdetails": 426,
+      "ihhltotalach": 426,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "HARINBHATTA",
+      "ihhltotalasperdetails": 423,
+      "ihhltotalach": 423,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "JANGLOR",
+      "ihhltotalasperdetails": 303,
+      "ihhltotalach": 303,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "JARA",
+      "ihhltotalasperdetails": 682,
+      "ihhltotalach": 682,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "JARVE",
+      "ihhltotalasperdetails": 737,
+      "ihhltotalach": 737,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "KANAKOT",
+      "ihhltotalasperdetails": 343,
+      "ihhltotalach": 343,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "KESALA",
+      "ihhltotalasperdetails": 422,
+      "ihhltotalach": 422,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "KHAIRA",
+      "ihhltotalasperdetails": 378,
+      "ihhltotalach": 378,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "KHAPRI",
+      "ihhltotalasperdetails": 219,
+      "ihhltotalach": 219,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "KHAPRI (BH)",
+      "ihhltotalasperdetails": 656,
+      "ihhltotalach": 656,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "KHAPRI (S)",
+      "ihhltotalasperdetails": 285,
+      "ihhltotalach": 285,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "KHARTORA",
+      "ihhltotalasperdetails": 306,
+      "ihhltotalach": 306,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "KODIA",
+      "ihhltotalasperdetails": 342,
+      "ihhltotalach": 342,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "KODWA",
+      "ihhltotalasperdetails": 466,
+      "ihhltotalach": 466,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "KONARI",
+      "ihhltotalasperdetails": 629,
+      "ihhltotalach": 629,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "KOSMANDA",
+      "ihhltotalasperdetails": 454,
+      "ihhltotalach": 454,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "KOSMANDI",
+      "ihhltotalasperdetails": 464,
+      "ihhltotalach": 464,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "KUKADA",
+      "ihhltotalasperdetails": 264,
+      "ihhltotalach": 264,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "KUSMI",
+      "ihhltotalasperdetails": 432,
+      "ihhltotalach": 432,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "LACHCHANPUR",
+      "ihhltotalasperdetails": 343,
+      "ihhltotalach": 343,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "LAKADIYA",
+      "ihhltotalasperdetails": 288,
+      "ihhltotalach": 288,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "LARIYA",
+      "ihhltotalasperdetails": 215,
+      "ihhltotalach": 215,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "LATERA",
+      "ihhltotalasperdetails": 204,
+      "ihhltotalach": 204,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "MALLIN",
+      "ihhltotalasperdetails": 562,
+      "ihhltotalach": 562,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "MALPURI",
+      "ihhltotalasperdetails": 444,
+      "ihhltotalach": 444,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "MOHAGAON",
+      "ihhltotalasperdetails": 262,
+      "ihhltotalach": 262,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "MOHAN",
+      "ihhltotalasperdetails": 130,
+      "ihhltotalach": 130,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "MUDIYADIH",
+      "ihhltotalasperdetails": 380,
+      "ihhltotalach": 380,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "MUDPAR",
+      "ihhltotalasperdetails": 299,
+      "ihhltotalach": 299,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "MUSWADIH",
+      "ihhltotalasperdetails": 262,
+      "ihhltotalach": 262,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "NAWAGAON",
+      "ihhltotalasperdetails": 169,
+      "ihhltotalach": 169,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "ODAN",
+      "ihhltotalasperdetails": 762,
+      "ihhltotalach": 762,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "PARASWARNI",
+      "ihhltotalasperdetails": 163,
+      "ihhltotalach": 163,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "PATHARIDIH",
+      "ihhltotalasperdetails": 161,
+      "ihhltotalach": 161,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "PHUNDARDIH",
+      "ihhltotalasperdetails": 368,
+      "ihhltotalach": 368,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "RASOTA",
+      "ihhltotalasperdetails": 504,
+      "ihhltotalach": 504,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "RENGADIH",
+      "ihhltotalasperdetails": 214,
+      "ihhltotalach": 214,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "RIWADIH",
+      "ihhltotalasperdetails": 258,
+      "ihhltotalach": 258,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "ROHANSI",
+      "ihhltotalasperdetails": 1097,
+      "ihhltotalach": 1097,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "SAHADA",
+      "ihhltotalasperdetails": 380,
+      "ihhltotalach": 380,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "SAIHA",
+      "ihhltotalasperdetails": 275,
+      "ihhltotalach": 275,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "SAKARI(P)",
+      "ihhltotalasperdetails": 334,
+      "ihhltotalach": 334,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "SALONI",
+      "ihhltotalasperdetails": 578,
+      "ihhltotalach": 578,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "SANKRI(S)",
+      "ihhltotalasperdetails": 411,
+      "ihhltotalach": 411,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "SARADIH",
+      "ihhltotalasperdetails": 259,
+      "ihhltotalach": 259,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "SARRA",
+      "ihhltotalasperdetails": 193,
+      "ihhltotalach": 193,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "SARSENI",
+      "ihhltotalasperdetails": 297,
+      "ihhltotalach": 297,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "SASAHA",
+      "ihhltotalasperdetails": 690,
+      "ihhltotalach": 690,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "SEMRIA",
+      "ihhltotalasperdetails": 282,
+      "ihhltotalach": 282,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "SINGHORA",
+      "ihhltotalasperdetails": 222,
+      "ihhltotalach": 222,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "SISDEORI",
+      "ihhltotalasperdetails": 619,
+      "ihhltotalach": 619,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "SITAPAR",
+      "ihhltotalasperdetails": 269,
+      "ihhltotalach": 269,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "SONARDEORI",
+      "ihhltotalasperdetails": 565,
+      "ihhltotalach": 565,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "SUNDARI",
+      "ihhltotalasperdetails": 193,
+      "ihhltotalach": 193,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "SUNDRAVAN",
+      "ihhltotalasperdetails": 554,
+      "ihhltotalach": 554,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "TELASI",
+      "ihhltotalasperdetails": 749,
+      "ihhltotalach": 749,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "TEMRI",
+      "ihhltotalasperdetails": 253,
+      "ihhltotalach": 253,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "THELKI",
+      "ihhltotalasperdetails": 205,
+      "ihhltotalach": 205,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "TILA",
+      "ihhltotalasperdetails": 273,
+      "ihhltotalach": 273,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "TILDA",
+      "ihhltotalasperdetails": 456,
+      "ihhltotalach": 456,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "TIPAWAN",
+      "ihhltotalasperdetails": 433,
+      "ihhltotalach": 433,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "PALARI",
+      "grampanchayatname": "VATGAN",
+      "ihhltotalasperdetails": 779,
+      "ihhltotalach": 779,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "ADBANDHA",
+      "ihhltotalasperdetails": 366,
+      "ihhltotalach": 366,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "AKALTARA",
+      "ihhltotalasperdetails": 518,
+      "ihhltotalach": 518,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "AMAKONI",
+      "ihhltotalasperdetails": 315,
+      "ihhltotalach": 315,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "AMERI",
+      "ihhltotalasperdetails": 68,
+      "ihhltotalach": 68,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "AURETHI",
+      "ihhltotalasperdetails": 369,
+      "ihhltotalach": 369,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "BACHHERA",
+      "ihhltotalasperdetails": 288,
+      "ihhltotalach": 288,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "BANSANKRA",
+      "ihhltotalasperdetails": 551,
+      "ihhltotalach": 551,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "BARDIH",
+      "ihhltotalasperdetails": 335,
+      "ihhltotalach": 335,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "BASIN",
+      "ihhltotalasperdetails": 304,
+      "ihhltotalach": 304,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "BEKONI",
+      "ihhltotalasperdetails": 438,
+      "ihhltotalach": 438,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "BHAINSA",
+      "ihhltotalasperdetails": 410,
+      "ihhltotalach": 410,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "BHALESUR",
+      "ihhltotalasperdetails": 306,
+      "ihhltotalach": 306,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "BHANWARGARH",
+      "ihhltotalasperdetails": 284,
+      "ihhltotalach": 284,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "BHATBHERA",
+      "ihhltotalasperdetails": 450,
+      "ihhltotalach": 450,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "BHOTHADIH",
+      "ihhltotalasperdetails": 207,
+      "ihhltotalach": 207,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "BILAIDABRI",
+      "ihhltotalasperdetails": 261,
+      "ihhltotalach": 261,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "BINAIKA",
+      "ihhltotalasperdetails": 212,
+      "ihhltotalach": 212,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "BITKULI",
+      "ihhltotalasperdetails": 424,
+      "ihhltotalach": 424,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "BUCHIPAR",
+      "ihhltotalasperdetails": 297,
+      "ihhltotalach": 297,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "BUDGAHAN",
+      "ihhltotalasperdetails": 443,
+      "ihhltotalach": 443,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "CHAKRAVAY",
+      "ihhltotalasperdetails": 488,
+      "ihhltotalach": 488,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "CHANDERI",
+      "ihhltotalasperdetails": 194,
+      "ihhltotalach": 194,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "CHANDI",
+      "ihhltotalasperdetails": 442,
+      "ihhltotalach": 442,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "CHANDIYAPATHRA",
+      "ihhltotalasperdetails": 484,
+      "ihhltotalach": 484,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "CHOURENGA",
+      "ihhltotalasperdetails": 899,
+      "ihhltotalach": 899,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "DAMAKHEDA",
+      "ihhltotalasperdetails": 964,
+      "ihhltotalach": 964,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "DARCHURA",
+      "ihhltotalasperdetails": 509,
+      "ihhltotalach": 509,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "DAWANBOD",
+      "ihhltotalasperdetails": 371,
+      "ihhltotalach": 371,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "DHABADIH",
+      "ihhltotalasperdetails": 263,
+      "ihhltotalach": 263,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "DHEKUNA",
+      "ihhltotalasperdetails": 586,
+      "ihhltotalach": 586,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "DHODHA",
+      "ihhltotalasperdetails": 382,
+      "ihhltotalach": 382,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "DIGGI",
+      "ihhltotalasperdetails": 227,
+      "ihhltotalach": 227,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "DONGARIYA",
+      "ihhltotalasperdetails": 448,
+      "ihhltotalach": 448,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "DOURENGA",
+      "ihhltotalasperdetails": 789,
+      "ihhltotalach": 789,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "DULDULA",
+      "ihhltotalasperdetails": 346,
+      "ihhltotalach": 346,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "FARHADA",
+      "ihhltotalasperdetails": 483,
+      "ihhltotalach": 483,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "FULWARI",
+      "ihhltotalasperdetails": 162,
+      "ihhltotalach": 162,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "GANESHPUR",
+      "ihhltotalasperdetails": 278,
+      "ihhltotalach": 278,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "GORDI",
+      "ihhltotalasperdetails": 523,
+      "ihhltotalach": 523,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "HARINBHATTHA",
+      "ihhltotalasperdetails": 227,
+      "ihhltotalach": 227,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "HATHBANDH",
+      "ihhltotalasperdetails": 493,
+      "ihhltotalach": 493,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "HIRMI",
+      "ihhltotalasperdetails": 743,
+      "ihhltotalach": 743,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "JANGDA",
+      "ihhltotalasperdetails": 545,
+      "ihhltotalach": 545,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "JAROUD",
+      "ihhltotalasperdetails": 950,
+      "ihhltotalach": 950,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "JHIPAN",
+      "ihhltotalasperdetails": 580,
+      "ihhltotalach": 580,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "JHIRIYA",
+      "ihhltotalasperdetails": 254,
+      "ihhltotalach": 254,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "KACHLONE",
+      "ihhltotalasperdetails": 659,
+      "ihhltotalach": 659,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "KAMTA",
+      "ihhltotalasperdetails": 359,
+      "ihhltotalach": 359,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "KARELI",
+      "ihhltotalasperdetails": 194,
+      "ihhltotalach": 194,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "KARHUL",
+      "ihhltotalasperdetails": 419,
+      "ihhltotalach": 419,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "KESDA",
+      "ihhltotalasperdetails": 571,
+      "ihhltotalach": 571,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "KESLI",
+      "ihhltotalasperdetails": 247,
+      "ihhltotalach": 247,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "KHAIRGHAT",
+      "ihhltotalasperdetails": 238,
+      "ihhltotalach": 238,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "KHANDUWA",
+      "ihhltotalasperdetails": 411,
+      "ihhltotalach": 411,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "KHAPARADIH",
+      "ihhltotalasperdetails": 171,
+      "ihhltotalach": 171,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "KHILORA",
+      "ihhltotalasperdetails": 532,
+      "ihhltotalach": 532,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "KIRVAI",
+      "ihhltotalasperdetails": 559,
+      "ihhltotalach": 559,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "KOLIHA",
+      "ihhltotalasperdetails": 696,
+      "ihhltotalach": 696,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "KUKRACHUNDA",
+      "ihhltotalasperdetails": 506,
+      "ihhltotalach": 506,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "KUTHROUD",
+      "ihhltotalasperdetails": 542,
+      "ihhltotalach": 542,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "LANJA",
+      "ihhltotalasperdetails": 118,
+      "ihhltotalach": 118,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "LAWAR",
+      "ihhltotalasperdetails": 547,
+      "ihhltotalach": 547,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "LIMTARA",
+      "ihhltotalasperdetails": 465,
+      "ihhltotalach": 465,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "LOHARI",
+      "ihhltotalasperdetails": 50,
+      "ihhltotalach": 50,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "MACHABHAT",
+      "ihhltotalasperdetails": 374,
+      "ihhltotalach": 374,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "MANDAR",
+      "ihhltotalasperdetails": 219,
+      "ihhltotalach": 219,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "MANOHARA",
+      "ihhltotalasperdetails": 431,
+      "ihhltotalach": 431,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "MARRAKONA",
+      "ihhltotalasperdetails": 340,
+      "ihhltotalach": 340,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "MATIYA",
+      "ihhltotalasperdetails": 356,
+      "ihhltotalach": 356,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "MOHBHATTHA",
+      "ihhltotalasperdetails": 693,
+      "ihhltotalach": 693,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "MOHRA",
+      "ihhltotalasperdetails": 635,
+      "ihhltotalach": 635,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "MOTIYARDIH",
+      "ihhltotalasperdetails": 427,
+      "ihhltotalach": 427,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "MUDPAR",
+      "ihhltotalasperdetails": 475,
+      "ihhltotalach": 475,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "MUSUWADIH",
+      "ihhltotalasperdetails": 658,
+      "ihhltotalach": 658,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "NAVAGAON",
+      "ihhltotalasperdetails": 300,
+      "ihhltotalach": 300,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "NAVAPARA",
+      "ihhltotalasperdetails": 518,
+      "ihhltotalach": 518,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "NEVARI",
+      "ihhltotalasperdetails": 211,
+      "ihhltotalach": 211,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "NEVDHA",
+      "ihhltotalasperdetails": 310,
+      "ihhltotalach": 310,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "PADKIDIH",
+      "ihhltotalasperdetails": 264,
+      "ihhltotalach": 264,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "PARASWANI",
+      "ihhltotalasperdetails": 206,
+      "ihhltotalach": 206,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "PENDRI",
+      "ihhltotalasperdetails": 484,
+      "ihhltotalach": 484,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "POUSARI",
+      "ihhltotalasperdetails": 333,
+      "ihhltotalach": 333,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "POUSARI HATBANDH",
+      "ihhltotalasperdetails": 192,
+      "ihhltotalach": 192,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "RANIJAROUD",
+      "ihhltotalasperdetails": 318,
+      "ihhltotalach": 318,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "RAWAN",
+      "ihhltotalasperdetails": 470,
+      "ihhltotalach": 470,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "RAWELI",
+      "ihhltotalasperdetails": 221,
+      "ihhltotalach": 221,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "RENGABOD",
+      "ihhltotalasperdetails": 318,
+      "ihhltotalach": 318,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "RINGNI",
+      "ihhltotalasperdetails": 225,
+      "ihhltotalach": 225,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "ROHRA",
+      "ihhltotalasperdetails": 475,
+      "ihhltotalach": 475,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "SAKLOR",
+      "ihhltotalasperdetails": 399,
+      "ihhltotalach": 399,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "SANJARI NAWAGAON",
+      "ihhltotalasperdetails": 246,
+      "ihhltotalach": 246,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "SANKRI",
+      "ihhltotalasperdetails": 194,
+      "ihhltotalach": 194,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "SIKARIKESALI",
+      "ihhltotalasperdetails": 488,
+      "ihhltotalach": 488,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "SINODHA",
+      "ihhltotalasperdetails": 698,
+      "ihhltotalach": 698,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "SITAPAR",
+      "ihhltotalasperdetails": 391,
+      "ihhltotalach": 391,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "SUHELA",
+      "ihhltotalasperdetails": 515,
+      "ihhltotalach": 515,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "TEKARI",
+      "ihhltotalasperdetails": 276,
+      "ihhltotalach": 276,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "TILDABANDHA",
+      "ihhltotalasperdetails": 312,
+      "ihhltotalach": 312,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "TORA",
+      "ihhltotalasperdetails": 364,
+      "ihhltotalach": 364,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "TULSI",
+      "ihhltotalasperdetails": 410,
+      "ihhltotalach": 410,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "UDELA",
+      "ihhltotalasperdetails": 165,
+      "ihhltotalach": 165,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "BALODA BAZAR",
+      "blockname": "SIMGA",
+      "grampanchayatname": "VISHRAMPUR",
+      "ihhltotalasperdetails": 213,
+      "ihhltotalach": 213,
+      "date": "5/19/2020 12:00:00 AM"
+    }
+  ]
+}

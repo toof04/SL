@@ -1,0 +1,2315 @@
+{
+  "index_name": "88e094c9-4315-48eb-a0a0-e518080e87cf",
+  "title": "Gram Panchayat-wise Rural Sanitation Coverage in Nalanda District of Bihar as on date",
+  "desc": "Gram Panchayat-wise Rural Sanitation Coverage in Nalanda District of Bihar as on date",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Jal Shakti",
+    "Department of Drinking Water and Sanitation"
+  ],
+  "sector": [
+    "Water and Sanitation"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1688360275,
+  "updated": 1688364912,
+  "created_date": "2023-07-03T06:57:55Z",
+  "updated_date": "2023-07-03T11:45:12Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "sbm",
+    "type": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+    "field": "88e094c9-4315-48eb-a0a0-e518080e87cf"
+  },
+  "field": [
+    {
+      "id": "statename",
+      "name": "StateName",
+      "type": "keyword"
+    },
+    {
+      "id": "districtname",
+      "name": "DistrictName",
+      "type": "keyword"
+    },
+    {
+      "id": "blockname",
+      "name": "BlockName",
+      "type": "keyword"
+    },
+    {
+      "id": "grampanchayatname",
+      "name": "GramPanchayatName",
+      "type": "keyword"
+    },
+    {
+      "id": "ihhltotalasperdetails",
+      "name": "IHHLTotalAsPerDetails",
+      "type": "double"
+    },
+    {
+      "id": "ihhltotalach",
+      "name": "IHHLTotalAch",
+      "type": "double"
+    },
+    {
+      "id": "date",
+      "name": "Date",
+      "type": "keyword"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 249,
+  "count": 249,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "ASTHAWAN",
+      "grampanchayatname": "AMANWAN",
+      "ihhltotalasperdetails": 813,
+      "ihhltotalach": 813,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "ASTHAWAN",
+      "grampanchayatname": "ANDI",
+      "ihhltotalasperdetails": 1073,
+      "ihhltotalach": 1073,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "ASTHAWAN",
+      "grampanchayatname": "ASTHAWAN",
+      "ihhltotalasperdetails": 2437,
+      "ihhltotalach": 2437,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "ASTHAWAN",
+      "grampanchayatname": "DUMRANWAN",
+      "ihhltotalasperdetails": 2623,
+      "ihhltotalach": 2623,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "ASTHAWAN",
+      "grampanchayatname": "GILANI",
+      "ihhltotalasperdetails": 771,
+      "ihhltotalach": 771,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "ASTHAWAN",
+      "grampanchayatname": "JANA",
+      "ihhltotalasperdetails": 907,
+      "ihhltotalach": 907,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "ASTHAWAN",
+      "grampanchayatname": "JIAR",
+      "ihhltotalasperdetails": 1365,
+      "ihhltotalach": 1365,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "ASTHAWAN",
+      "grampanchayatname": "KAILA",
+      "ihhltotalasperdetails": 1502,
+      "ihhltotalach": 1502,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "ASTHAWAN",
+      "grampanchayatname": "KATHARI",
+      "ihhltotalasperdetails": 722,
+      "ihhltotalach": 722,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "ASTHAWAN",
+      "grampanchayatname": "KONAND",
+      "ihhltotalasperdetails": 1853,
+      "ihhltotalach": 1853,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "ASTHAWAN",
+      "grampanchayatname": "MAHAMMADPUR",
+      "ihhltotalasperdetails": 878,
+      "ihhltotalach": 878,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "ASTHAWAN",
+      "grampanchayatname": "MALTI",
+      "ihhltotalasperdetails": 1455,
+      "ihhltotalach": 1455,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "ASTHAWAN",
+      "grampanchayatname": "MURGIA CHAK",
+      "ihhltotalasperdetails": 1913,
+      "ihhltotalach": 1913,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "ASTHAWAN",
+      "grampanchayatname": "NERUT",
+      "ihhltotalasperdetails": 1945,
+      "ihhltotalach": 1945,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "ASTHAWAN",
+      "grampanchayatname": "NOANWAN",
+      "ihhltotalasperdetails": 590,
+      "ihhltotalach": 590,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "ASTHAWAN",
+      "grampanchayatname": "OIYAV",
+      "ihhltotalasperdetails": 539,
+      "ihhltotalach": 539,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "ASTHAWAN",
+      "grampanchayatname": "ONDA",
+      "ihhltotalasperdetails": 1179,
+      "ihhltotalach": 1179,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "ASTHAWAN",
+      "grampanchayatname": "SARE",
+      "ihhltotalasperdetails": 875,
+      "ihhltotalach": 875,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "ASTHAWAN",
+      "grampanchayatname": "UGANWAN",
+      "ihhltotalasperdetails": 2266,
+      "ihhltotalach": 2266,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "BEN",
+      "grampanchayatname": "AANT",
+      "ihhltotalasperdetails": 1210,
+      "ihhltotalach": 1210,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "BEN",
+      "grampanchayatname": "AKAUNA",
+      "ihhltotalasperdetails": 705,
+      "ihhltotalach": 705,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "BEN",
+      "grampanchayatname": "ARAWAN",
+      "ihhltotalasperdetails": 891,
+      "ihhltotalach": 891,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "BEN",
+      "grampanchayatname": "BARA",
+      "ihhltotalasperdetails": 1619,
+      "ihhltotalach": 1619,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "BEN",
+      "grampanchayatname": "BEN",
+      "ihhltotalasperdetails": 1023,
+      "ihhltotalach": 1023,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "BEN",
+      "grampanchayatname": "EKSARA",
+      "ihhltotalasperdetails": 1363,
+      "ihhltotalach": 1363,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "BEN",
+      "grampanchayatname": "KHAIRA",
+      "ihhltotalasperdetails": 1457,
+      "ihhltotalach": 1457,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "BEN",
+      "grampanchayatname": "MAIJARA",
+      "ihhltotalasperdetails": 1651,
+      "ihhltotalach": 1651,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "BEN",
+      "grampanchayatname": "NOHSA",
+      "ihhltotalasperdetails": 704,
+      "ihhltotalach": 704,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "BIHARSHARIF",
+      "grampanchayatname": "BIYAWANI",
+      "ihhltotalasperdetails": 1965,
+      "ihhltotalach": 1965,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "BIHARSHARIF",
+      "grampanchayatname": "CHHABILA PUR",
+      "ihhltotalasperdetails": 829,
+      "ihhltotalach": 829,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "BIHARSHARIF",
+      "grampanchayatname": "DUMRAWAN",
+      "ihhltotalasperdetails": 1049,
+      "ihhltotalach": 1049,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "BIHARSHARIF",
+      "grampanchayatname": "HARGAWAN",
+      "ihhltotalasperdetails": 1402,
+      "ihhltotalach": 1402,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "BIHARSHARIF",
+      "grampanchayatname": "KORAI",
+      "ihhltotalasperdetails": 1719,
+      "ihhltotalach": 1719,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "BIHARSHARIF",
+      "grampanchayatname": "MAGHRA",
+      "ihhltotalasperdetails": 1454,
+      "ihhltotalach": 1454,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "BIHARSHARIF",
+      "grampanchayatname": "MEGHI NGAWAN",
+      "ihhltotalasperdetails": 1031,
+      "ihhltotalach": 1031,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "BIHARSHARIF",
+      "grampanchayatname": "MHAMMADPUR",
+      "ihhltotalasperdetails": 1112,
+      "ihhltotalach": 1112,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "BIHARSHARIF",
+      "grampanchayatname": "MURAURA",
+      "ihhltotalasperdetails": 911,
+      "ihhltotalach": 911,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "BIHARSHARIF",
+      "grampanchayatname": "PACHAURI",
+      "ihhltotalasperdetails": 1041,
+      "ihhltotalach": 1041,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "BIHARSHARIF",
+      "grampanchayatname": "PALAT PURA",
+      "ihhltotalasperdetails": 723,
+      "ihhltotalach": 723,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "BIHARSHARIF",
+      "grampanchayatname": "PAROHA",
+      "ihhltotalasperdetails": 709,
+      "ihhltotalach": 709,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "BIHARSHARIF",
+      "grampanchayatname": "PAWA",
+      "ihhltotalasperdetails": 1545,
+      "ihhltotalach": 1545,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "BIHARSHARIF",
+      "grampanchayatname": "RANA BIGHA",
+      "ihhltotalasperdetails": 1631,
+      "ihhltotalach": 1631,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "BIHARSHARIF",
+      "grampanchayatname": "SAKRAUL",
+      "ihhltotalasperdetails": 815,
+      "ihhltotalach": 815,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "BIHARSHARIF",
+      "grampanchayatname": "SARBAHDI",
+      "ihhltotalasperdetails": 688,
+      "ihhltotalach": 688,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "BIHARSHARIF",
+      "grampanchayatname": "SINGTHU",
+      "ihhltotalasperdetails": 656,
+      "ihhltotalach": 656,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "BIHARSHARIF",
+      "grampanchayatname": "TETRAWAN",
+      "ihhltotalasperdetails": 1031,
+      "ihhltotalach": 1031,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "BIHARSHARIF",
+      "grampanchayatname": "TIURI",
+      "ihhltotalasperdetails": 688,
+      "ihhltotalach": 688,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "BIHARSHARIF",
+      "grampanchayatname": "TUNGI",
+      "ihhltotalasperdetails": 877,
+      "ihhltotalach": 877,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "BIND",
+      "grampanchayatname": "BIND",
+      "ihhltotalasperdetails": 1844,
+      "ihhltotalach": 1844,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "BIND",
+      "grampanchayatname": "JAHANA",
+      "ihhltotalasperdetails": 1195,
+      "ihhltotalach": 1195,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "BIND",
+      "grampanchayatname": "JAMSARI",
+      "ihhltotalasperdetails": 1853,
+      "ihhltotalach": 1853,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "BIND",
+      "grampanchayatname": "KATHRAHI",
+      "ihhltotalasperdetails": 1729,
+      "ihhltotalach": 1729,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "BIND",
+      "grampanchayatname": "LODIPUR",
+      "ihhltotalasperdetails": 2844,
+      "ihhltotalach": 2844,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "BIND",
+      "grampanchayatname": "TAJNIPUR",
+      "ihhltotalasperdetails": 3147,
+      "ihhltotalach": 3147,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "BIND",
+      "grampanchayatname": "UTARTHU",
+      "ihhltotalasperdetails": 1950,
+      "ihhltotalach": 1950,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "CHANDI",
+      "grampanchayatname": "ARAUT",
+      "ihhltotalasperdetails": 945,
+      "ihhltotalach": 945,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "CHANDI",
+      "grampanchayatname": "BARHAUNA",
+      "ihhltotalasperdetails": 1374,
+      "ihhltotalach": 1374,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "CHANDI",
+      "grampanchayatname": "BELCHHI",
+      "ihhltotalasperdetails": 2121,
+      "ihhltotalach": 2121,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "CHANDI",
+      "grampanchayatname": "BHAGWANPUR",
+      "ihhltotalasperdetails": 1673,
+      "ihhltotalach": 1673,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "CHANDI",
+      "grampanchayatname": "CHANDI",
+      "ihhltotalasperdetails": 2184,
+      "ihhltotalach": 2184,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "CHANDI",
+      "grampanchayatname": "GANGAURA",
+      "ihhltotalasperdetails": 660,
+      "ihhltotalach": 660,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "CHANDI",
+      "grampanchayatname": "HASNI",
+      "ihhltotalasperdetails": 2362,
+      "ihhltotalach": 2362,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "CHANDI",
+      "grampanchayatname": "MADHOPUR",
+      "ihhltotalasperdetails": 1749,
+      "ihhltotalach": 1749,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "CHANDI",
+      "grampanchayatname": "MAHKAR",
+      "ihhltotalasperdetails": 1671,
+      "ihhltotalach": 1671,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "CHANDI",
+      "grampanchayatname": "NARSANDA",
+      "ihhltotalasperdetails": 923,
+      "ihhltotalach": 923,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "CHANDI",
+      "grampanchayatname": "RUKHAI",
+      "ihhltotalasperdetails": 1892,
+      "ihhltotalach": 1892,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "CHANDI",
+      "grampanchayatname": "SALEHPUR",
+      "ihhltotalasperdetails": 1340,
+      "ihhltotalach": 1340,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "CHANDI",
+      "grampanchayatname": "SARTHA",
+      "ihhltotalasperdetails": 2036,
+      "ihhltotalach": 2036,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "CHANDI",
+      "grampanchayatname": "SIRNAWA N",
+      "ihhltotalasperdetails": 2489,
+      "ihhltotalach": 2489,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "CHANDI",
+      "grampanchayatname": "TULSIGARH",
+      "ihhltotalasperdetails": 1223,
+      "ihhltotalach": 1223,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "EKANGARSARAI",
+      "grampanchayatname": "AMANAR KHAS",
+      "ihhltotalasperdetails": 1937,
+      "ihhltotalach": 1937,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "EKANGARSARAI",
+      "grampanchayatname": "AUNGARI",
+      "ihhltotalasperdetails": 1795,
+      "ihhltotalach": 1795,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "EKANGARSARAI",
+      "grampanchayatname": "BADRABAD",
+      "ihhltotalasperdetails": 1472,
+      "ihhltotalach": 1472,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "EKANGARSARAI",
+      "grampanchayatname": "DANIAWAN PENDAPUR",
+      "ihhltotalasperdetails": 2564,
+      "ihhltotalach": 2564,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "EKANGARSARAI",
+      "grampanchayatname": "DHURGAON",
+      "ihhltotalasperdetails": 823,
+      "ihhltotalach": 823,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "EKANGARSARAI",
+      "grampanchayatname": "EKANGARDIH",
+      "ihhltotalasperdetails": 1899,
+      "ihhltotalach": 1899,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "EKANGARSARAI",
+      "grampanchayatname": "EKANGARSARAI",
+      "ihhltotalasperdetails": 3537,
+      "ihhltotalach": 3537,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "EKANGARSARAI",
+      "grampanchayatname": "GOMHAR",
+      "ihhltotalasperdetails": 1697,
+      "ihhltotalach": 1697,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "EKANGARSARAI",
+      "grampanchayatname": "GYAS PUR",
+      "ihhltotalasperdetails": 1437,
+      "ihhltotalach": 1437,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "EKANGARSARAI",
+      "grampanchayatname": "JAMUAWAN",
+      "ihhltotalasperdetails": 1524,
+      "ihhltotalach": 1524,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "EKANGARSARAI",
+      "grampanchayatname": "KESHOPUR",
+      "ihhltotalasperdetails": 4840,
+      "ihhltotalach": 4840,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "EKANGARSARAI",
+      "grampanchayatname": "KOSIYAWAN",
+      "ihhltotalasperdetails": 3887,
+      "ihhltotalach": 3887,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "EKANGARSARAI",
+      "grampanchayatname": "MANDACHH",
+      "ihhltotalasperdetails": 1645,
+      "ihhltotalach": 1645,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "EKANGARSARAI",
+      "grampanchayatname": "NARYANPUR",
+      "ihhltotalasperdetails": 1596,
+      "ihhltotalach": 1596,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "EKANGARSARAI",
+      "grampanchayatname": "OPE",
+      "ihhltotalasperdetails": 1151,
+      "ihhltotalach": 1151,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "EKANGARSARAI",
+      "grampanchayatname": "PARTHU",
+      "ihhltotalasperdetails": 976,
+      "ihhltotalach": 976,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "EKANGARSARAI",
+      "grampanchayatname": "SONIYAWAN",
+      "ihhltotalasperdetails": 1719,
+      "ihhltotalach": 1719,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "EKANGARSARAI",
+      "grampanchayatname": "TELHARA",
+      "ihhltotalasperdetails": 1217,
+      "ihhltotalach": 1217,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "GIRIAK",
+      "grampanchayatname": "ADAMPUR",
+      "ihhltotalasperdetails": 1755,
+      "ihhltotalach": 1755,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "GIRIAK",
+      "grampanchayatname": "CHORSUA",
+      "ihhltotalasperdetails": 989,
+      "ihhltotalach": 989,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "GIRIAK",
+      "grampanchayatname": "DURGAPUR",
+      "ihhltotalasperdetails": 1467,
+      "ihhltotalach": 1467,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "GIRIAK",
+      "grampanchayatname": "GAJIPUR",
+      "ihhltotalasperdetails": 1471,
+      "ihhltotalach": 1471,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "GIRIAK",
+      "grampanchayatname": "GHOSRAWAN",
+      "ihhltotalasperdetails": 2002,
+      "ihhltotalach": 2002,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "GIRIAK",
+      "grampanchayatname": "GIRIYAK",
+      "ihhltotalasperdetails": 2325,
+      "ihhltotalach": 2325,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "GIRIAK",
+      "grampanchayatname": "POKHARPUR",
+      "ihhltotalasperdetails": 590,
+      "ihhltotalach": 590,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "GIRIAK",
+      "grampanchayatname": "PURAINI",
+      "ihhltotalasperdetails": 2881,
+      "ihhltotalach": 2881,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "GIRIAK",
+      "grampanchayatname": "PYAREPUR",
+      "ihhltotalasperdetails": 2090,
+      "ihhltotalach": 2090,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "GIRIAK",
+      "grampanchayatname": "RAITAR",
+      "ihhltotalasperdetails": 1914,
+      "ihhltotalach": 1914,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "HARNAUT",
+      "grampanchayatname": "BASNIYAWAN",
+      "ihhltotalasperdetails": 2027,
+      "ihhltotalach": 2027,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "HARNAUT",
+      "grampanchayatname": "BASTI",
+      "ihhltotalasperdetails": 1123,
+      "ihhltotalach": 1123,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "HARNAUT",
+      "grampanchayatname": "BRAH",
+      "ihhltotalasperdetails": 3077,
+      "ihhltotalach": 3077,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "HARNAUT",
+      "grampanchayatname": "CHERAN",
+      "ihhltotalasperdetails": 2207,
+      "ihhltotalach": 2207,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "HARNAUT",
+      "grampanchayatname": "CHERO",
+      "ihhltotalasperdetails": 981,
+      "ihhltotalach": 981,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "HARNAUT",
+      "grampanchayatname": "CHOURIYA",
+      "ihhltotalasperdetails": 2247,
+      "ihhltotalach": 2247,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "HARNAUT",
+      "grampanchayatname": "DIHRI",
+      "ihhltotalasperdetails": 973,
+      "ihhltotalach": 973,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "HARNAUT",
+      "grampanchayatname": "GONAWAN",
+      "ihhltotalasperdetails": 962,
+      "ihhltotalach": 962,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "HARNAUT",
+      "grampanchayatname": "KOLAWAN",
+      "ihhltotalasperdetails": 1316,
+      "ihhltotalach": 1316,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "HARNAUT",
+      "grampanchayatname": "LOHARA",
+      "ihhltotalasperdetails": 1021,
+      "ihhltotalach": 1021,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "HARNAUT",
+      "grampanchayatname": "NEHUSA",
+      "ihhltotalasperdetails": 1269,
+      "ihhltotalach": 1269,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "HARNAUT",
+      "grampanchayatname": "PACHAURA",
+      "ihhltotalasperdetails": 1061,
+      "ihhltotalach": 1061,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "HARNAUT",
+      "grampanchayatname": "PAKAR",
+      "ihhltotalasperdetails": 1112,
+      "ihhltotalach": 1112,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "HARNAUT",
+      "grampanchayatname": "POWARI",
+      "ihhltotalasperdetails": 913,
+      "ihhltotalach": 913,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "HARNAUT",
+      "grampanchayatname": "SABNAHUA",
+      "ihhltotalasperdetails": 1052,
+      "ihhltotalach": 1052,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "HARNAUT",
+      "grampanchayatname": "SUDARI",
+      "ihhltotalasperdetails": 1513,
+      "ihhltotalach": 1513,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "HARNAUT",
+      "grampanchayatname": "TELMAR",
+      "ihhltotalasperdetails": 2059,
+      "ihhltotalach": 2059,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "HILSA",
+      "grampanchayatname": "AKABARPUR",
+      "ihhltotalasperdetails": 2073,
+      "ihhltotalach": 2073,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "HILSA",
+      "grampanchayatname": "ARPA",
+      "ihhltotalasperdetails": 2134,
+      "ihhltotalach": 2134,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "HILSA",
+      "grampanchayatname": "ASARI",
+      "ihhltotalasperdetails": 1365,
+      "ihhltotalach": 1365,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "HILSA",
+      "grampanchayatname": "BARA",
+      "ihhltotalasperdetails": 879,
+      "ihhltotalach": 879,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "HILSA",
+      "grampanchayatname": "CHIKSAURA",
+      "ihhltotalasperdetails": 1040,
+      "ihhltotalach": 1040,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "HILSA",
+      "grampanchayatname": "INDAUT",
+      "ihhltotalasperdetails": 1351,
+      "ihhltotalach": 1351,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "HILSA",
+      "grampanchayatname": "JUNIYAR",
+      "ihhltotalasperdetails": 1684,
+      "ihhltotalach": 1684,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "HILSA",
+      "grampanchayatname": "KAMTA",
+      "ihhltotalasperdetails": 1379,
+      "ihhltotalach": 1379,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "HILSA",
+      "grampanchayatname": "KAPASIAWAN",
+      "ihhltotalasperdetails": 783,
+      "ihhltotalach": 783,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "HILSA",
+      "grampanchayatname": "KAWA",
+      "ihhltotalasperdetails": 1475,
+      "ihhltotalach": 1475,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "HILSA",
+      "grampanchayatname": "KORAWAN",
+      "ihhltotalasperdetails": 1454,
+      "ihhltotalach": 1454,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "HILSA",
+      "grampanchayatname": "MIRJAPUR",
+      "ihhltotalasperdetails": 1400,
+      "ihhltotalach": 1400,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "HILSA",
+      "grampanchayatname": "PUNA",
+      "ihhltotalasperdetails": 1177,
+      "ihhltotalach": 1177,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "HILSA",
+      "grampanchayatname": "RERI",
+      "ihhltotalasperdetails": 1404,
+      "ihhltotalach": 1404,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "HILSA",
+      "grampanchayatname": "YOGI PUR",
+      "ihhltotalasperdetails": 2033,
+      "ihhltotalach": 2033,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "ISLAMPUR",
+      "grampanchayatname": "AATAMA",
+      "ihhltotalasperdetails": 1149,
+      "ihhltotalach": 1149,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "ISLAMPUR",
+      "grampanchayatname": "BARDAHA",
+      "ihhltotalasperdetails": 1641,
+      "ihhltotalach": 1641,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "ISLAMPUR",
+      "grampanchayatname": "BARDIH",
+      "ihhltotalasperdetails": 1571,
+      "ihhltotalach": 1571,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "ISLAMPUR",
+      "grampanchayatname": "BELE",
+      "ihhltotalasperdetails": 1837,
+      "ihhltotalach": 1837,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "ISLAMPUR",
+      "grampanchayatname": "BESHWAK",
+      "ihhltotalasperdetails": 885,
+      "ihhltotalach": 885,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "ISLAMPUR",
+      "grampanchayatname": "BOURADIH",
+      "ihhltotalasperdetails": 1240,
+      "ihhltotalach": 1240,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "ISLAMPUR",
+      "grampanchayatname": "CHANDHARI",
+      "ihhltotalasperdetails": 1744,
+      "ihhltotalach": 1744,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "ISLAMPUR",
+      "grampanchayatname": "DHEKWAHA",
+      "ihhltotalasperdetails": 1276,
+      "ihhltotalach": 1276,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "ISLAMPUR",
+      "grampanchayatname": "DHOBDIHA",
+      "ihhltotalasperdetails": 1450,
+      "ihhltotalach": 1450,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "ISLAMPUR",
+      "grampanchayatname": "ICHHOUS",
+      "ihhltotalasperdetails": 1431,
+      "ihhltotalach": 1431,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "ISLAMPUR",
+      "grampanchayatname": "KOCHARA",
+      "ihhltotalasperdetails": 2267,
+      "ihhltotalach": 2267,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "ISLAMPUR",
+      "grampanchayatname": "MAHMUDA",
+      "ihhltotalasperdetails": 2933,
+      "ihhltotalach": 2933,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "ISLAMPUR",
+      "grampanchayatname": "MOHANCHAK",
+      "ihhltotalasperdetails": 1278,
+      "ihhltotalach": 1278,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "ISLAMPUR",
+      "grampanchayatname": "MOJAPHRA",
+      "ihhltotalasperdetails": 1383,
+      "ihhltotalach": 1383,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "ISLAMPUR",
+      "grampanchayatname": "PANAHAR",
+      "ihhltotalasperdetails": 3444,
+      "ihhltotalach": 3444,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "ISLAMPUR",
+      "grampanchayatname": "PANCHLOWA",
+      "ihhltotalasperdetails": 2688,
+      "ihhltotalach": 2688,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "ISLAMPUR",
+      "grampanchayatname": "RANIPUR",
+      "ihhltotalasperdetails": 1335,
+      "ihhltotalach": 1335,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "ISLAMPUR",
+      "grampanchayatname": "SAKARI",
+      "ihhltotalasperdetails": 1150,
+      "ihhltotalach": 1150,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "ISLAMPUR",
+      "grampanchayatname": "SANDA",
+      "ihhltotalasperdetails": 743,
+      "ihhltotalach": 743,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "ISLAMPUR",
+      "grampanchayatname": "SUDHI",
+      "ihhltotalasperdetails": 971,
+      "ihhltotalach": 971,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "KARAI PARSURAI",
+      "grampanchayatname": "BERTHU",
+      "ihhltotalasperdetails": 1794,
+      "ihhltotalach": 1794,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "KARAI PARSURAI",
+      "grampanchayatname": "DIYAWAN",
+      "ihhltotalasperdetails": 2933,
+      "ihhltotalach": 2933,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "KARAI PARSURAI",
+      "grampanchayatname": "GONDU BIGHA",
+      "ihhltotalasperdetails": 1165,
+      "ihhltotalach": 1165,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "KARAI PARSURAI",
+      "grampanchayatname": "KARAI PARSURAI",
+      "ihhltotalasperdetails": 2247,
+      "ihhltotalach": 2247,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "KARAI PARSURAI",
+      "grampanchayatname": "MAKHDUMPUR",
+      "ihhltotalasperdetails": 1130,
+      "ihhltotalach": 1130,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "KARAI PARSURAI",
+      "grampanchayatname": "MAKROUTA",
+      "ihhltotalasperdetails": 1866,
+      "ihhltotalach": 1866,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "KARAI PARSURAI",
+      "grampanchayatname": "SANDH",
+      "ihhltotalasperdetails": 2251,
+      "ihhltotalach": 2251,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "KATRISARAI",
+      "grampanchayatname": "BILARI",
+      "ihhltotalasperdetails": 1129,
+      "ihhltotalach": 1129,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "KATRISARAI",
+      "grampanchayatname": "DARWESHPURA",
+      "ihhltotalasperdetails": 1037,
+      "ihhltotalach": 1037,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "KATRISARAI",
+      "grampanchayatname": "KATAUNA",
+      "ihhltotalasperdetails": 1071,
+      "ihhltotalach": 1071,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "KATRISARAI",
+      "grampanchayatname": "KATRI",
+      "ihhltotalasperdetails": 1268,
+      "ihhltotalach": 1268,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "KATRISARAI",
+      "grampanchayatname": "MAIRA BARITH",
+      "ihhltotalasperdetails": 1679,
+      "ihhltotalach": 1679,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "NAGAR NAUSA",
+      "grampanchayatname": "ARIYAWAN",
+      "ihhltotalasperdetails": 3167,
+      "ihhltotalach": 3167,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "NAGAR NAUSA",
+      "grampanchayatname": "BHUTHAKHAR",
+      "ihhltotalasperdetails": 1670,
+      "ihhltotalach": 1670,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "NAGAR NAUSA",
+      "grampanchayatname": "DAMODARPUR BALDHA",
+      "ihhltotalasperdetails": 1847,
+      "ihhltotalach": 1847,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "NAGAR NAUSA",
+      "grampanchayatname": "GORAIPUR",
+      "ihhltotalasperdetails": 1680,
+      "ihhltotalach": 1680,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "NAGAR NAUSA",
+      "grampanchayatname": "KACHHIYAWAN",
+      "ihhltotalasperdetails": 1588,
+      "ihhltotalach": 1588,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "NAGAR NAUSA",
+      "grampanchayatname": "KAILA",
+      "ihhltotalasperdetails": 2019,
+      "ihhltotalach": 2019,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "NAGAR NAUSA",
+      "grampanchayatname": "KHAJURA",
+      "ihhltotalasperdetails": 1341,
+      "ihhltotalach": 1341,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "NAGAR NAUSA",
+      "grampanchayatname": "NAGARNAUSA",
+      "ihhltotalasperdetails": 3077,
+      "ihhltotalach": 3077,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "NAGAR NAUSA",
+      "grampanchayatname": "RAMPUR",
+      "ihhltotalasperdetails": 1584,
+      "ihhltotalach": 1584,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "NOORSARAI",
+      "grampanchayatname": "AJAYPUR",
+      "ihhltotalasperdetails": 1203,
+      "ihhltotalach": 1203,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "NOORSARAI",
+      "grampanchayatname": "ANDHNA",
+      "ihhltotalasperdetails": 2027,
+      "ihhltotalach": 2027,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "NOORSARAI",
+      "grampanchayatname": "BARAKHURD",
+      "ihhltotalasperdetails": 1859,
+      "ihhltotalach": 1859,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "NOORSARAI",
+      "grampanchayatname": "BARARA",
+      "ihhltotalasperdetails": 805,
+      "ihhltotalach": 805,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "NOORSARAI",
+      "grampanchayatname": "CHANDASI",
+      "ihhltotalasperdetails": 1395,
+      "ihhltotalach": 1395,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "NOORSARAI",
+      "grampanchayatname": "CHARUIPAR",
+      "ihhltotalasperdetails": 1321,
+      "ihhltotalach": 1321,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "NOORSARAI",
+      "grampanchayatname": "DARUARA",
+      "ihhltotalasperdetails": 2215,
+      "ihhltotalach": 2215,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "NOORSARAI",
+      "grampanchayatname": "DOIYA",
+      "ihhltotalasperdetails": 2671,
+      "ihhltotalach": 2671,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "NOORSARAI",
+      "grampanchayatname": "JAGDISHPUR TIARI",
+      "ihhltotalasperdetails": 2409,
+      "ihhltotalach": 2409,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "NOORSARAI",
+      "grampanchayatname": "MAMURABAD",
+      "ihhltotalasperdetails": 1493,
+      "ihhltotalach": 1493,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "NOORSARAI",
+      "grampanchayatname": "MEYAR",
+      "ihhltotalasperdetails": 2017,
+      "ihhltotalach": 2017,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "NOORSARAI",
+      "grampanchayatname": "MUZAFFARPUR",
+      "ihhltotalasperdetails": 1104,
+      "ihhltotalach": 1104,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "NOORSARAI",
+      "grampanchayatname": "NADIAUNA",
+      "ihhltotalasperdetails": 1652,
+      "ihhltotalach": 1652,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "NOORSARAI",
+      "grampanchayatname": "NIRDUR",
+      "ihhltotalasperdetails": 751,
+      "ihhltotalach": 751,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "NOORSARAI",
+      "grampanchayatname": "NOORSARAI",
+      "ihhltotalasperdetails": 391,
+      "ihhltotalach": 391,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "NOORSARAI",
+      "grampanchayatname": "PAPARNOUSA",
+      "ihhltotalasperdetails": 1461,
+      "ihhltotalach": 1461,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "NOORSARAI",
+      "grampanchayatname": "RASALPUR",
+      "ihhltotalasperdetails": 2792,
+      "ihhltotalach": 2792,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "PARBALPUR",
+      "grampanchayatname": "ALAWAN",
+      "ihhltotalasperdetails": 1733,
+      "ihhltotalach": 1733,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "PARBALPUR",
+      "grampanchayatname": "CHAUSANDA",
+      "ihhltotalasperdetails": 2982,
+      "ihhltotalach": 2982,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "PARBALPUR",
+      "grampanchayatname": "MAI",
+      "ihhltotalasperdetails": 2514,
+      "ihhltotalach": 2514,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "PARBALPUR",
+      "grampanchayatname": "PILICHH",
+      "ihhltotalasperdetails": 1652,
+      "ihhltotalach": 1652,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "PARBALPUR",
+      "grampanchayatname": "SHANKARDIH",
+      "ihhltotalasperdetails": 2840,
+      "ihhltotalach": 2840,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "PARBALPUR",
+      "grampanchayatname": "SHIVNAGAR",
+      "ihhltotalasperdetails": 3697,
+      "ihhltotalach": 3697,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "RAHUI",
+      "grampanchayatname": "AMBA",
+      "ihhltotalasperdetails": 825,
+      "ihhltotalach": 825,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "RAHUI",
+      "grampanchayatname": "BARANDI",
+      "ihhltotalasperdetails": 544,
+      "ihhltotalach": 544,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "RAHUI",
+      "grampanchayatname": "DOSUT",
+      "ihhltotalasperdetails": 998,
+      "ihhltotalach": 998,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "RAHUI",
+      "grampanchayatname": "HAWANPURA",
+      "ihhltotalasperdetails": 1089,
+      "ihhltotalach": 1089,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "RAHUI",
+      "grampanchayatname": "IMAMGANJ",
+      "ihhltotalasperdetails": 1583,
+      "ihhltotalach": 1583,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "RAHUI",
+      "grampanchayatname": "ITASANG BHADWA",
+      "ihhltotalasperdetails": 2195,
+      "ihhltotalach": 2195,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "RAHUI",
+      "grampanchayatname": "MAI FARIDA",
+      "ihhltotalasperdetails": 442,
+      "ihhltotalach": 442,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "RAHUI",
+      "grampanchayatname": "MORATALAO",
+      "ihhltotalasperdetails": 1280,
+      "ihhltotalach": 1280,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "RAHUI",
+      "grampanchayatname": "PAITHNA",
+      "ihhltotalasperdetails": 377,
+      "ihhltotalach": 377,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "RAHUI",
+      "grampanchayatname": "PATASANG",
+      "ihhltotalasperdetails": 689,
+      "ihhltotalach": 689,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "RAHUI",
+      "grampanchayatname": "PESHAUR",
+      "ihhltotalasperdetails": 639,
+      "ihhltotalach": 639,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "RAHUI",
+      "grampanchayatname": "RAHUI",
+      "ihhltotalasperdetails": 1305,
+      "ihhltotalach": 1305,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "RAHUI",
+      "grampanchayatname": "SONSA",
+      "ihhltotalasperdetails": 818,
+      "ihhltotalach": 818,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "RAHUI",
+      "grampanchayatname": "SOSANDI",
+      "ihhltotalasperdetails": 579,
+      "ihhltotalach": 579,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "RAHUI",
+      "grampanchayatname": "SUPASANG",
+      "ihhltotalasperdetails": 852,
+      "ihhltotalach": 852,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "RAHUI",
+      "grampanchayatname": "UTTAR NAWAN",
+      "ihhltotalasperdetails": 908,
+      "ihhltotalach": 908,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "RAJGIR",
+      "grampanchayatname": "BARNOUSA",
+      "ihhltotalasperdetails": 2233,
+      "ihhltotalach": 2233,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "RAJGIR",
+      "grampanchayatname": "BHUI",
+      "ihhltotalasperdetails": 2171,
+      "ihhltotalach": 2171,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "RAJGIR",
+      "grampanchayatname": "GOROUR",
+      "ihhltotalasperdetails": 2781,
+      "ihhltotalach": 2781,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "RAJGIR",
+      "grampanchayatname": "LODIPUR",
+      "ihhltotalasperdetails": 3165,
+      "ihhltotalach": 3165,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "RAJGIR",
+      "grampanchayatname": "MEYAR",
+      "ihhltotalasperdetails": 2522,
+      "ihhltotalach": 2522,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "RAJGIR",
+      "grampanchayatname": "NAHUB",
+      "ihhltotalasperdetails": 2988,
+      "ihhltotalach": 2988,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "RAJGIR",
+      "grampanchayatname": "NAI POKHAR",
+      "ihhltotalasperdetails": 3238,
+      "ihhltotalach": 3238,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "RAJGIR",
+      "grampanchayatname": "PATHROURA",
+      "ihhltotalasperdetails": 2152,
+      "ihhltotalach": 2152,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "RAJGIR",
+      "grampanchayatname": "PILKHI",
+      "ihhltotalasperdetails": 3724,
+      "ihhltotalach": 3724,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "SARMERA",
+      "grampanchayatname": "CHERO",
+      "ihhltotalasperdetails": 1241,
+      "ihhltotalach": 1241,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "SARMERA",
+      "grampanchayatname": "DHANUKI",
+      "ihhltotalasperdetails": 2256,
+      "ihhltotalach": 2256,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "SARMERA",
+      "grampanchayatname": "HUSAINA",
+      "ihhltotalasperdetails": 1291,
+      "ihhltotalach": 1291,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "SARMERA",
+      "grampanchayatname": "ISUA",
+      "ihhltotalasperdetails": 753,
+      "ihhltotalach": 753,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "SARMERA",
+      "grampanchayatname": "KENAR",
+      "ihhltotalasperdetails": 2241,
+      "ihhltotalach": 2241,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "SARMERA",
+      "grampanchayatname": "MALAWAN",
+      "ihhltotalasperdetails": 1230,
+      "ihhltotalach": 1230,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "SARMERA",
+      "grampanchayatname": "MIRNAGAR",
+      "ihhltotalasperdetails": 1964,
+      "ihhltotalach": 1964,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "SARMERA",
+      "grampanchayatname": "SARMERA",
+      "ihhltotalasperdetails": 1888,
+      "ihhltotalach": 1888,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "SARMERA",
+      "grampanchayatname": "SASAURA",
+      "ihhltotalasperdetails": 806,
+      "ihhltotalach": 806,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "SILAO",
+      "grampanchayatname": "BARAKAR",
+      "ihhltotalasperdetails": 2062,
+      "ihhltotalach": 2062,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "SILAO",
+      "grampanchayatname": "BARGAON",
+      "ihhltotalasperdetails": 2144,
+      "ihhltotalach": 2144,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "SILAO",
+      "grampanchayatname": "DHARHARA",
+      "ihhltotalasperdetails": 1066,
+      "ihhltotalach": 1066,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "SILAO",
+      "grampanchayatname": "GHOSTAWAN",
+      "ihhltotalasperdetails": 1648,
+      "ihhltotalach": 1648,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "SILAO",
+      "grampanchayatname": "GORAWAN",
+      "ihhltotalasperdetails": 1387,
+      "ihhltotalach": 1387,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "SILAO",
+      "grampanchayatname": "GORMA",
+      "ihhltotalasperdetails": 1469,
+      "ihhltotalach": 1469,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "SILAO",
+      "grampanchayatname": "KARIYANNA",
+      "ihhltotalasperdetails": 1400,
+      "ihhltotalach": 1400,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "SILAO",
+      "grampanchayatname": "KUL PHTEHPUR",
+      "ihhltotalasperdetails": 1440,
+      "ihhltotalach": 1440,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "SILAO",
+      "grampanchayatname": "MAHURI",
+      "ihhltotalasperdetails": 1261,
+      "ihhltotalach": 1261,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "SILAO",
+      "grampanchayatname": "NANAND",
+      "ihhltotalasperdetails": 2109,
+      "ihhltotalach": 2109,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "SILAO",
+      "grampanchayatname": "NIRPUR",
+      "ihhltotalasperdetails": 1639,
+      "ihhltotalach": 1639,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "SILAO",
+      "grampanchayatname": "PAWADIH",
+      "ihhltotalasperdetails": 1891,
+      "ihhltotalach": 1891,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "SILAO",
+      "grampanchayatname": "SABBAIT",
+      "ihhltotalasperdetails": 1870,
+      "ihhltotalach": 1870,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "SILAO",
+      "grampanchayatname": "SURAJPUR",
+      "ihhltotalasperdetails": 1552,
+      "ihhltotalach": 1552,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "THARTHARI",
+      "grampanchayatname": "AMERA",
+      "ihhltotalasperdetails": 2128,
+      "ihhltotalach": 2128,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "THARTHARI",
+      "grampanchayatname": "ASTA",
+      "ihhltotalasperdetails": 2118,
+      "ihhltotalach": 2118,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "THARTHARI",
+      "grampanchayatname": "CHHARIYARI",
+      "ihhltotalasperdetails": 1161,
+      "ihhltotalach": 1161,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "THARTHARI",
+      "grampanchayatname": "JAITPUR",
+      "ihhltotalasperdetails": 2124,
+      "ihhltotalach": 2124,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "THARTHARI",
+      "grampanchayatname": "KACHAHRIA",
+      "ihhltotalasperdetails": 983,
+      "ihhltotalach": 983,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "THARTHARI",
+      "grampanchayatname": "NARAIYANPUR",
+      "ihhltotalasperdetails": 1209,
+      "ihhltotalach": 1209,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NALANDA",
+      "blockname": "THARTHARI",
+      "grampanchayatname": "THARTHARI",
+      "ihhltotalasperdetails": 1838,
+      "ihhltotalach": 1838,
+      "date": "5/19/2020 12:00:00 AM"
+    }
+  ]
+}

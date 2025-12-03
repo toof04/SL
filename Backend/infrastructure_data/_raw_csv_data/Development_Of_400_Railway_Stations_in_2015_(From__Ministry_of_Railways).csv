@@ -1,0 +1,409 @@
+S.No,"Name of station",State
+1,Visakhapatnam,"Andhra Pradesh"
+2,"Secunderabad Jn.","Andhra Pradesh"
+3,Vijayawada,"Andhra Pradesh"
+4,Hyderabad,"Andhra Pradesh"
+5,Tirupati,"Andhra Pradesh"
+6,Kacheguda,"Andhra Pradesh"
+7,"SSP Nilayam","Andhra Pradesh"
+8,Palasa,"Andhra Pradesh"
+9,"Srikakulam Road","Andhra Pradesh"
+10,Vizianagaram,"Andhra Pradesh"
+11,Anantpur,"Andhra Pradesh"
+12,Anakapalle,"Andhra Pradesh"
+13,"Bhimavaram Town","Andhra Pradesh"
+14,Chirala,"Andhra Pradesh"
+15,Cuddapah,"Andhra Pradesh"
+16,Eluru,"Andhra Pradesh"
+17,"Gudur Jn.","Andhra Pradesh"
+18,"Guntakal Jn.","Andhra Pradesh"
+19,"Guntur Jn.","Andhra Pradesh"
+20,"Kakinada Town","Andhra Pradesh"
+21,"Kazipet Jn.","Andhra Pradesh"
+22,Khammam,"Andhra Pradesh"
+23,"Kurnool Town","Andhra Pradesh"
+24,Manchiryal,"Andhra Pradesh"
+25,Nellore,"Andhra Pradesh"
+26,Nizamabad,"Andhra Pradesh"
+27,Ongole,"Andhra Pradesh"
+28,Rajahmundry,"Andhra Pradesh"
+29,Renigunta,"Andhra Pradesh"
+30,"Samalkot Jn.","Andhra Pradesh"
+31,Tadepalligudem,"Andhra Pradesh"
+32,"Tenali Jn.","Andhra Pradesh"
+33,Tuni,"Andhra Pradesh"
+34,Warangal,"Andhra Pradesh"
+35,Guwahati,Assam
+36,"Barpeta Road",Assam
+37,Bongaigaon,Assam
+38,"Dibrugarh Town",Assam
+39,"Jorhat Town",Assam
+40,Kamakya,Assam
+41,Lumding,Assam
+42,"Rangiya Jn.",Assam
+43,Tinsukia,Assam
+44,Silchar,Assam
+45,"Darbhanga Jn.",Bihar
+46,"Gaya Jn.",Bihar
+47,"Muzaffarpur Jn.",Bihar
+48,"Patna Jn.",Bihar
+49,"Chhapra Jn.",Bihar
+50,Bhagalpur,Bihar
+51,"Anugraha Narayan Road",Bihar
+52,"Ara Jn.",Bihar
+53,"Bhaktiarpur Jn.",Bihar
+54,"Barauni Jn.",Bihar
+55,Betiah,Bihar
+56,Buxar,Bihar
+57,Danapur,Bihar
+58,Dehri-on-Sone,Bihar
+59,"Hajipur Jn",Bihar
+60,Jamui,Bihar
+61,Jayanagar,Bihar
+62,"Khagaria Jn.",Bihar
+63,"Kiul Jn.",Bihar
+64,Madhubani,Bihar
+65,Mokama,Bihar
+66,Bapudham,Bihar
+67,Motihari,Bihar
+68,"Narkatiaganj Jn.",Bihar
+69,"Patna Sahib Jn.",Bihar
+70,"Rajendra Nagar (T)",Bihar
+71,"Raxaul Jn.",Bihar
+72,"Sagauli Jn.",Bihar
+73,"Saharsa Jn.",Bihar
+74,"Samastipur Jn.",Bihar
+75,"Sasaram Jn.",Bihar
+76,"Sivan Jn.",Bihar
+77,Jogbani,Bihar
+78,"Katihar Jn.",Bihar
+79,Kishanganj,Bihar
+80,"Purnea Jn.",Bihar
+81,Raiganj,Bihar
+82,Jamalpur,Bihar
+83,Raipur,"Chhattis -garh"
+84,"Bilaspur Jn.","Chhattis -garh"
+85,"Bhilai Power House","Chhattis -garh"
+86,"Champa Jn.","Chhattis -garh"
+87,Durg,"Chhattis -garh"
+88,Raigarh,"Chhattis -garh"
+89,Rajnandgaon,"Chhattis -garh"
+90,"Delhi Jn.",Delhi
+91,"New Delhi",Delhi
+92,"Hazrat Nizamuddin",Delhi
+93,"Anand Vihar Terminal",Delhi
+94,"Adarshnagar Delhi",Delhi
+95,"Delhi Cantt.",Delhi
+96,"Delhi Sarai Rohilla",Delhi
+97,"Delhi Shahdra",Delhi
+98,Vasco-Da-Gama,Goa
+99,Ahmedabad,Gujarat
+100,Vododara,Gujarat
+101,Rajkot,Gujarat
+102,Surat,Gujarat
+103,Anand,Gujarat
+104,Ankleshwar,Gujarat
+105,Bharuch,Gujarat
+106,"Bhavnagar Terminus",Gujarat
+107,Gandhidham,Gujarat
+108,Jamnagar,Gujarat
+109,Mahesana,Gujarat
+110,Nadiad,Gujarat
+111,Navsari,Gujarat
+112,"New Bhuj",Gujarat
+113,Palanpur,Gujarat
+114,Surendranagar,Gujarat
+115,Udhana,Gujarat
+116,Valsad,Gujarat
+117,Vapi,Gujarat
+118,Veraval,Gujarat
+119,Viramgam,Gujarat
+120,"Ambala Cantt.",Haryana
+121,Ballabgarh,Haryana
+122,Faridabad,Haryana
+123,Gurgaon,Haryana
+124,Jagadhri,Haryana
+125,Kalka,Haryana
+126,Karnal,Haryana
+127,Panipat,Haryana
+128,Rohtak,Haryana
+129,Sonipat,Haryana
+130,Bhiwani,Haryana
+131,Hisar,Haryana
+132,Rewari,Haryana
+132,Rewari,Haryana
+133,"Jammu Tawi","Jammu & Kashmir"
+134,Udhampur,"Jammu & Kashmir"
+135,"Dhanbad Jn.",Jharkhand
+136,Tatanagar,Jharkhand
+137,Daltonganj,Jharkhand
+138,"Gomoh Jn.",Jharkhand
+139,Koderma,Jharkhand
+140,Parasnath,Jharkhand
+141,Jasidih,Jharkhand
+142,Madhupur,Jharkhand
+143,"Bokaro Steel City",Jharkhand
+144,Hatia,Jharkhand
+145,Ranchi,Jharkhand
+146,"Bangalore City",Karnataka
+147,Yashwantpur,Karnataka
+148,Gulbarga,Karnataka
+149,"Mangalore Central",Karnataka
+150,"Mangalore Jn.",Karnataka
+151,"Bangalore Cantt.",Karnataka
+152,Bangarpet,Karnataka
+153,Belgaum,Karnataka
+154,Bellary,Karnataka
+155,Bijapur,Karnataka
+156,Davangere,Karnataka
+157,Dharwad,Karnataka
+158,Hospet,Karnataka
+159,Hubli,Karnataka
+160,Kengri,Karnataka
+161,"Krishnaraja- puram",Karnataka
+162,Mysore,Karnataka
+163,"Shimoga Town",Karnataka
+164,Raichur,Karnataka
+165,Yadgir,Karnataka
+166,"Trivandrum Central",Kerala
+167,"Ernakulam Jn.",Kerala
+168,Thrisur,Kerala
+169,Kozhikkode,Kerala
+170,Alappuzha,Kerala
+171,Aluva,Kerala
+172,Chengannur,Kerala
+173,"Ernakulam Town",Kerala
+174,Kanhangad,Kerala
+175,Kannur,Kerala
+176,Kasargod,Kerala
+177,"Kayan- kulam Jn.",Kerala
+178,"Kollam Jn.",Kerala
+179,Kottayam,Kerala
+180,"Palakkad Jn.",Kerala
+181,Payyannur,Kerala
+182,"Shoranur Jn.",Kerala
+183,Thalassery,Kerala
+184,Tirur,Kerala
+185,Tiruvalla,Kerala
+186,Vadakara,Kerala
+187,Bhopal,"Madhya Pradesh"
+188,Jabalpur,"Madhya Pradesh"
+189,Singrauli,"Madhya Pradesh"
+"190 191","Morena Gwalior","Madhya Pradesh"
+192,Indore,"Madhya Pradesh"
+193,Nagda,"Madhya Pradesh"
+194,Ratlam,"Madhya Pradesh"
+195,Ujjain,"Madhya Pradesh"
+196,Burhanpur,"Madhya Pradesh"
+197,Khandwa,"Madhya Pradesh"
+198,Betul,"Madhya Pradesh"
+199,Bina,"Madhya Pradesh"
+200,Damoh,"Madhya Pradesh"
+201,Habibganj,"Madhya Pradesh"
+202,Hoshangabad,"Madhya Pradesh"
+203,Itarsi,"Madhya Pradesh"
+204,Katni,"Madhya Pradesh"
+205,Maihar,"Madhya Pradesh"
+206,Pipariya,"Madhya Pradesh"
+207,Rewa,"Madhya Pradesh"
+208,Satna,"Madhya Pradesh"
+209,Saugor,"Madhya Pradesh"
+210,Vidhisha,"Madhya Pradesh"
+211,"CST Mumbai","Mahara- shtra"
+212,"Lokmanya Tilak (T)","Mahara- shtra"
+213,Pune,"Mahara- shtra"
+214,Nagpur,"Mahara- shtra"
+215,Kalyan,"Mahara- shtra"
+216,Dadar,Maharashtra
+217,Thane,Maharashtra
+218,Solapur,Maharashtra
+219,"Mumbai Central",Maharashtra
+220,"Bandra Terminus",Maharashtra
+221,Akola,Maharashtra
+222,Amravati,Maharashtra
+223,Badnera,Maharashtra
+224,Bhusawal,Maharashtra
+225,Chalisgaon,Maharashtra
+226,Jalgaon,Maharashtra
+227,Kurduwadi,Maharashtra
+228,Latur,Maharashtra
+229,Manmad,Maharashtra
+230,Miraj,Maharashtra
+231,"Nasik Road",Maharashtra
+232,Panvel,Maharashtra
+233,"Sai Nagar Shirdi",Maharashtra
+234,Shegaon,Maharashtra
+235,Ahmednagar,Maharashtra
+236,Daund,Maharashtra
+237,Kolhapur,Maharashtra
+238,Kopergaon,Maharashtra
+239,Lonavla,Maharashtra
+240,Ballarshah,Maharashtra
+241,Chandrapur,Maharashtra
+242,Wardha,Maharashtra
+243,Nanded,Maharashtra
+244,Aurangabad,Maharashtra
+245,Jalna,Maharashtra
+246,Nagarsol,Maharashtra
+247,"Parbani Jn.",Maharashtra
+248,Gondia,Maharashtra
+249,Dimapur,Nagaland
+250,Bhubaneswar,Odisha
+251,Puri,Odisha
+252,Bhadrak,Odisha
+253,Brahampur,Odisha
+254,Cuttack,Odisha
+255,"Jajpur-Keonjhar Road",Odisha
+256,"Khurda Road",Odisha
+257,Rayagada,Odisha
+258,Sambalpur,Odisha
+259,Balasore,Odisha
+260,Jharsuguda,Odisha
+261,Rourkela,Odisha
+262,Amritsar,Punjab
+263,Beas,Punjab
+264,"Chakki Bank",Punjab
+265,"Firozpur Cantt.",Punjab
+266,"Jalandhar Cantt.",Punjab
+267,"Jalandhar City",Punjab
+268,Pathankot,Punjab
+269,Patiala,Punjab
+270,Phagwara,Punjab
+271,"Rajpur Jn.",Punjab
+272,Sirhind,Punjab
+273,Ludhiana,Punjab
+274,"Bhathinda Jn.",Punjab
+275,Jaipur,Rajasthan
+276,Jodhpur,Rajasthan
+277,Ajmer,Rajasthan
+278,Kota,Rajasthan
+279,"Sawai Madhopur",Rajasthan
+280,"Abu Road",Rajasthan
+281,Alwar,Rajasthan
+282,Bandikui,Rajasthan
+283,Barmer,Rajasthan
+284,Bhilwara,Rajasthan
+285,Bikaner,Rajasthan
+286,Falna,Rajasthan
+287,"Gandhinagar (Jaipur)",Rajasthan
+288,"Hanumangarh Jn.",Rajasthan
+289,Lalgarh,Rajasthan
+290,"Marwar Jn.",Rajasthan
+291,Nagaur,Rajasthan
+292,"Pali Marwar",Rajasthan
+293,Phulera,Rajasthan
+294,Rani,Rajasthan
+295,"Sri Ganganagar",Rajasthan
+296,Suratgarh,Rajasthan
+297,"Udaipur City",Rajasthan
+298,Jaisalmer,Rajasthan
+299,Bharatpur,Rajasthan
+300,"Chittorgarh Jn.",Rajasthan
+301,"Chennai Central","Tamil Nadu"
+302,"Chennai Egmore","Tamil Nadu"
+303,"Coimbatore Jn.","Tamil Nadu"
+304,"Madurai Jn.","Tamil Nadu"
+305,"Arakkonam Jn.","Tamil Nadu"
+306,"Chengalpattu Jn.","Tamil Nadu"
+307,"Dindigul Jn.","Tamil Nadu"
+308,"Erode Jn.","Tamil Nadu"
+309,"Jolarpettai Jn.","Tamil Nadu"
+310,Kanyakumari,"Tamil Nadu"
+311,"Karur Jn.","Tamil Nadu"
+312,Katpadi,"Tamil Nadu"
+313,Kovilpatti,"Tamil Nadu"
+314,Kumbakonam,"Tamil Nadu"
+315,Mayiladuthurai,"Tamil Nadu"
+316,Mettupalaiyam,"Tamil Nadu"
+317,"Nagercoil Jn.","Tamil Nadu"
+318,Rameshwaram,"Tamil Nadu"
+319,"Salem Jn.","Tamil Nadu"
+320,Tambaram,"Tamil Nadu"
+321,"Thanjavur Jn.","Tamil Nadu"
+322,"Trichy Jn.","Tamil Nadu"
+323,Tirunelveli,"Tamil Nadu"
+324,Tiruppur,"Tamil Nadu"
+325,Tuticorin,"Tamil Nadu"
+326,Villupuram,"Tamil Nadu"
+327,Virudhunagar,"Tamil Nadu"
+328,Mughalsarai,U.P.
+329,Allahabad,U.P.
+330,"Kanpur Central",U.P.
+331,Jhansi,U.P.
+332,"Agra Cantt.",U.P.
+333,"Mathura Jn.",U.P.
+334,"Gorakhpur Jn.",U.P.
+335,"Lucknow Jn.",U.P.
+336,Lucknow,U.P.
+337,Varanasi,U.P.
+338,Bareilly,U.P.
+339,"Agra Fort",U.P.
+340,Aligarh,U.P.
+341,Banda,U.P.
+342,"Chitrakut Dham Karvi",U.P.
+343,Etawah,U.P.
+344,Fatehpur,U.P.
+345,Lalitpur,U.P.
+346,Mahoba,U.P.
+347,Orai,U.P.
+348,Phaphund,U.P.
+349,"Raja Ki Mandi",U.P.
+350,Tundla,U.P.
+351,Mirzapur,U.P.
+352,Azamgarh,U.P.
+353,Ballia,U.P.
+354,Basti,U.P.
+355,"Belthara Rd.",U.P.
+356,"Deoria Sadar",U.P.
+357,"Gondia Jn.",U.P.
+358,Khalilabad,U.P.
+359,"Mau Jn.",U.P.
+360,Akbarpur,U.P.
+361,Ayodhya,U.P.
+362,Barabanki,U.P.
+363,Bhadohi,U.P.
+364,Chandausi,U.P.
+365,Faizabad,U.P.
+366,Ghaziabad,U.P.
+367,Hapur,U.P.
+368,Hardoi,U.P.
+369,Janghai,U.P.
+370,Jaunpur,U.P.
+371,"Meerut Cantt.",U.P.
+372,"Meerut City",U.P.
+373,Moradabad,U.P.
+374,Muzaffarnagar,U.P.
+375,Pratapgarh,U.P.
+376,"Rae Bareli Jn.",U.P.
+377,Rampur,U.P.
+378,"Saharanpur Jn.",U.P.
+379,Sahganj,U.P.
+380,Shahjahanpur,U.P.
+381,Sultanpur,U.P.
+382,Unnao,U.P.
+383,Haridwar,Uttarakhand
+384,Kathgodam,Uttarakhand
+385,"Rudrapur City",Uttarakhand
+386,Dehradun,Uttarakhand
+387,Kathgodham,Uttarakhand
+388,"Rudrapur City",Uttarakhand
+389,Roorkee,Uttarakhand
+390,"New Jalpaiguri","West Bengal"
+391,Kharagpur,"West Bengal"
+392,Asansol,"West Bengal"
+393,Bandel,"West Bengal"
+394,Barddhaman,"West Bengal"
+395,Howrah,"West Bengal"
+396,Durgapur,"West Bengal"
+397,"Kolkata Terminal","West Bengal"
+398,"Malda Town","West Bengal"
+399,"Naihati Jn.","West Bengal"
+400,"New Farakka","West Bengal"
+401,Rampurhat,"West Bengal"
+402,"Alipurduar Jn.","West Bengal"
+403,Coochbehar,"West Bengal"
+404,"New Alipurduar","West Bengal"
+405,"New Coochbehar","West Bengal"
+406,"Siliguri Jn.","West Bengal"
+407,Digha,"West Bengal"
+408,Shalimar,"West Bengal"

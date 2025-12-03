@@ -1,0 +1,369 @@
+{
+  "created": 1497007506,
+  "updated": 1543519125,
+  "title": "Status Of Political Parties In Election To The Lok Sabha (House of people) upto 2014 - India",
+  "source": "data.gov.in",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Statistics and Programme Implementation"
+  ],
+  "sector": [
+    "Lok Sabha",
+    "Governance and Administration",
+    "Statistics"
+  ],
+  "visualizable": "1",
+  "index_name": "7385bb09-0ce3-44c0-bebf-dfcd240e85ca",
+  "catalog_uuid": "a3fbe08b-eb74-4f6d-9fe5-7e4f04f18d6b",
+  "status": "ok",
+  "field": [
+    {
+      "id": "year",
+      "name": "Year",
+      "type": "double"
+    },
+    {
+      "id": "no_of_seats_for_which_elections_were_held_",
+      "name": "No. of Seats for which elections were held ",
+      "type": "double"
+    },
+    {
+      "id": "bhartiya_janta_party_bjp___recognized_national_parties",
+      "name": "Bhartiya Janta Party (BJP) - Recognized National Parties",
+      "type": "double"
+    },
+    {
+      "id": "bahujan_samaj_party_bsp___recognized_national_parties",
+      "name": "Bahujan Samaj Party (BSP) - Recognized National Parties",
+      "type": "double"
+    },
+    {
+      "id": "communist_party_of_india_cpi___recognized_national_parties",
+      "name": "Communist Party of India (CPI) - Recognized National Parties",
+      "type": "double"
+    },
+    {
+      "id": "communist_party_of_india_marxist___recognized_national_parties",
+      "name": "Communist Party of India (Marxist) - Recognized National Parties",
+      "type": "double"
+    },
+    {
+      "id": "indian_national_congress_inc___recognized_national_parties",
+      "name": "Indian National Congress (INC) - Recognized National Parties",
+      "type": "double"
+    },
+    {
+      "id": "nationalist_congress_party_ncp___recognized_national_parties",
+      "name": "Nationalist Congress Party (NCP) - Recognized National Parties",
+      "type": "double"
+    },
+    {
+      "id": "recognized_national_parties_total",
+      "name": "Recognized National Parties Total",
+      "type": "double"
+    },
+    {
+      "id": "recognized_state_parties",
+      "name": "Recognized State Parties",
+      "type": "double"
+    },
+    {
+      "id": "unrecognised_registered_parties",
+      "name": "Unrecognised (Registered) Parties",
+      "type": "double"
+    },
+    {
+      "id": "independents_",
+      "name": "Independents ",
+      "type": "double"
+    },
+    {
+      "id": "total_other_than_recognized_national_parties_",
+      "name": "Total (Other than Recognized National Parties)",
+      "type": "double"
+    }
+  ],
+  "created_date": "2017-06-09T11:25:06Z",
+  "updated_date": "2018-11-30T00:48:45Z",
+  "active": "1",
+  "external_ws_url": "",
+  "external_ws": "0",
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "total": 18,
+  "count": 18,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "year": "1951",
+      "no_of_seats_for_which_elections_were_held_": "489",
+      "bhartiya_janta_party_bjp___recognized_national_parties": "NA",
+      "bahujan_samaj_party_bsp___recognized_national_parties": "NA",
+      "communist_party_of_india_cpi___recognized_national_parties": "16",
+      "communist_party_of_india_marxist___recognized_national_parties": "NA",
+      "indian_national_congress_inc___recognized_national_parties": "364",
+      "nationalist_congress_party_ncp___recognized_national_parties": "NA",
+      "recognized_national_parties_total": "418",
+      "recognized_state_parties": "34",
+      "unrecognised_registered_parties": "NA",
+      "independents_": "37",
+      "total_other_than_recognized_national_parties_": "71"
+    },
+    {
+      "year": "1957",
+      "no_of_seats_for_which_elections_were_held_": "494",
+      "bhartiya_janta_party_bjp___recognized_national_parties": "NA",
+      "bahujan_samaj_party_bsp___recognized_national_parties": "NA",
+      "communist_party_of_india_cpi___recognized_national_parties": "27",
+      "communist_party_of_india_marxist___recognized_national_parties": "NA",
+      "indian_national_congress_inc___recognized_national_parties": "371",
+      "nationalist_congress_party_ncp___recognized_national_parties": "NA",
+      "recognized_national_parties_total": "421",
+      "recognized_state_parties": "31",
+      "unrecognised_registered_parties": "NA",
+      "independents_": "42",
+      "total_other_than_recognized_national_parties_": "73"
+    },
+    {
+      "year": "1962",
+      "no_of_seats_for_which_elections_were_held_": "494",
+      "bhartiya_janta_party_bjp___recognized_national_parties": "NA",
+      "bahujan_samaj_party_bsp___recognized_national_parties": "NA",
+      "communist_party_of_india_cpi___recognized_national_parties": "29",
+      "communist_party_of_india_marxist___recognized_national_parties": "NA",
+      "indian_national_congress_inc___recognized_national_parties": "361",
+      "nationalist_congress_party_ncp___recognized_national_parties": "NA",
+      "recognized_national_parties_total": "440",
+      "recognized_state_parties": "28",
+      "unrecognised_registered_parties": "6",
+      "independents_": "20",
+      "total_other_than_recognized_national_parties_": "54"
+    },
+    {
+      "year": "1967",
+      "no_of_seats_for_which_elections_were_held_": "520",
+      "bhartiya_janta_party_bjp___recognized_national_parties": "NA",
+      "bahujan_samaj_party_bsp___recognized_national_parties": "NA",
+      "communist_party_of_india_cpi___recognized_national_parties": "23",
+      "communist_party_of_india_marxist___recognized_national_parties": "19",
+      "indian_national_congress_inc___recognized_national_parties": "283",
+      "nationalist_congress_party_ncp___recognized_national_parties": "NA",
+      "recognized_national_parties_total": "440",
+      "recognized_state_parties": "43",
+      "unrecognised_registered_parties": "2",
+      "independents_": "35",
+      "total_other_than_recognized_national_parties_": "80"
+    },
+    {
+      "year": "1971",
+      "no_of_seats_for_which_elections_were_held_": "518",
+      "bhartiya_janta_party_bjp___recognized_national_parties": "NA",
+      "bahujan_samaj_party_bsp___recognized_national_parties": "NA",
+      "communist_party_of_india_cpi___recognized_national_parties": "23",
+      "communist_party_of_india_marxist___recognized_national_parties": "25",
+      "indian_national_congress_inc___recognized_national_parties": "352",
+      "nationalist_congress_party_ncp___recognized_national_parties": "NA",
+      "recognized_national_parties_total": "451",
+      "recognized_state_parties": "40",
+      "unrecognised_registered_parties": "13",
+      "independents_": "14",
+      "total_other_than_recognized_national_parties_": "67"
+    },
+    {
+      "year": "1977",
+      "no_of_seats_for_which_elections_were_held_": "542",
+      "bhartiya_janta_party_bjp___recognized_national_parties": "NA",
+      "bahujan_samaj_party_bsp___recognized_national_parties": "NA",
+      "communist_party_of_india_cpi___recognized_national_parties": "7",
+      "communist_party_of_india_marxist___recognized_national_parties": "22",
+      "indian_national_congress_inc___recognized_national_parties": "154",
+      "nationalist_congress_party_ncp___recognized_national_parties": "NA",
+      "recognized_national_parties_total": "481",
+      "recognized_state_parties": "49",
+      "unrecognised_registered_parties": "3",
+      "independents_": "9",
+      "total_other_than_recognized_national_parties_": "61"
+    },
+    {
+      "year": "1980",
+      "no_of_seats_for_which_elections_were_held_": "529",
+      "bhartiya_janta_party_bjp___recognized_national_parties": "NA",
+      "bahujan_samaj_party_bsp___recognized_national_parties": "NA",
+      "communist_party_of_india_cpi___recognized_national_parties": "10",
+      "communist_party_of_india_marxist___recognized_national_parties": "37",
+      "indian_national_congress_inc___recognized_national_parties": "353",
+      "nationalist_congress_party_ncp___recognized_national_parties": "NA",
+      "recognized_national_parties_total": "485",
+      "recognized_state_parties": "34",
+      "unrecognised_registered_parties": "1",
+      "independents_": "9",
+      "total_other_than_recognized_national_parties_": "44"
+    },
+    {
+      "year": "1984",
+      "no_of_seats_for_which_elections_were_held_": "514",
+      "bhartiya_janta_party_bjp___recognized_national_parties": "2",
+      "bahujan_samaj_party_bsp___recognized_national_parties": "NA",
+      "communist_party_of_india_cpi___recognized_national_parties": "6",
+      "communist_party_of_india_marxist___recognized_national_parties": "22",
+      "indian_national_congress_inc___recognized_national_parties": "404",
+      "nationalist_congress_party_ncp___recognized_national_parties": "NA",
+      "recognized_national_parties_total": "451",
+      "recognized_state_parties": "58",
+      "unrecognised_registered_parties": "0",
+      "independents_": "5",
+      "total_other_than_recognized_national_parties_": "63"
+    },
+    {
+      "year": "1985",
+      "no_of_seats_for_which_elections_were_held_": "27",
+      "bhartiya_janta_party_bjp___recognized_national_parties": "0",
+      "bahujan_samaj_party_bsp___recognized_national_parties": "NA",
+      "communist_party_of_india_cpi___recognized_national_parties": "0",
+      "communist_party_of_india_marxist___recognized_national_parties": "0",
+      "indian_national_congress_inc___recognized_national_parties": "10",
+      "nationalist_congress_party_ncp___recognized_national_parties": "NA",
+      "recognized_national_parties_total": "11",
+      "recognized_state_parties": "8",
+      "unrecognised_registered_parties": "NA",
+      "independents_": "8",
+      "total_other_than_recognized_national_parties_": "16"
+    },
+    {
+      "year": "1989",
+      "no_of_seats_for_which_elections_were_held_": "529",
+      "bhartiya_janta_party_bjp___recognized_national_parties": "85",
+      "bahujan_samaj_party_bsp___recognized_national_parties": "NA",
+      "communist_party_of_india_cpi___recognized_national_parties": "12",
+      "communist_party_of_india_marxist___recognized_national_parties": "33",
+      "indian_national_congress_inc___recognized_national_parties": "197",
+      "nationalist_congress_party_ncp___recognized_national_parties": "NA",
+      "recognized_national_parties_total": "471",
+      "recognized_state_parties": "27",
+      "unrecognised_registered_parties": "19",
+      "independents_": "12",
+      "total_other_than_recognized_national_parties_": "58"
+    },
+    {
+      "year": "1991",
+      "no_of_seats_for_which_elections_were_held_": "524",
+      "bhartiya_janta_party_bjp___recognized_national_parties": "120",
+      "bahujan_samaj_party_bsp___recognized_national_parties": "NA",
+      "communist_party_of_india_cpi___recognized_national_parties": "14",
+      "communist_party_of_india_marxist___recognized_national_parties": "35",
+      "indian_national_congress_inc___recognized_national_parties": "232",
+      "nationalist_congress_party_ncp___recognized_national_parties": "NA",
+      "recognized_national_parties_total": "466",
+      "recognized_state_parties": "50",
+      "unrecognised_registered_parties": "4",
+      "independents_": "1",
+      "total_other_than_recognized_national_parties_": "55"
+    },
+    {
+      "year": "1992",
+      "no_of_seats_for_which_elections_were_held_": "13",
+      "bhartiya_janta_party_bjp___recognized_national_parties": "0",
+      "bahujan_samaj_party_bsp___recognized_national_parties": "NA",
+      "communist_party_of_india_cpi___recognized_national_parties": "NA",
+      "communist_party_of_india_marxist___recognized_national_parties": "NA",
+      "indian_national_congress_inc___recognized_national_parties": "12",
+      "nationalist_congress_party_ncp___recognized_national_parties": "NA",
+      "recognized_national_parties_total": "12",
+      "recognized_state_parties": "1",
+      "unrecognised_registered_parties": "NA",
+      "independents_": "NA",
+      "total_other_than_recognized_national_parties_": "1"
+    },
+    {
+      "year": "1996",
+      "no_of_seats_for_which_elections_were_held_": "543",
+      "bhartiya_janta_party_bjp___recognized_national_parties": "161",
+      "bahujan_samaj_party_bsp___recognized_national_parties": "NA",
+      "communist_party_of_india_cpi___recognized_national_parties": "12",
+      "communist_party_of_india_marxist___recognized_national_parties": "32",
+      "indian_national_congress_inc___recognized_national_parties": "140",
+      "nationalist_congress_party_ncp___recognized_national_parties": "NA",
+      "recognized_national_parties_total": "403",
+      "recognized_state_parties": "129",
+      "unrecognised_registered_parties": "2",
+      "independents_": "9",
+      "total_other_than_recognized_national_parties_": "140"
+    },
+    {
+      "year": "1998",
+      "no_of_seats_for_which_elections_were_held_": "543",
+      "bhartiya_janta_party_bjp___recognized_national_parties": "182",
+      "bahujan_samaj_party_bsp___recognized_national_parties": "5",
+      "communist_party_of_india_cpi___recognized_national_parties": "9",
+      "communist_party_of_india_marxist___recognized_national_parties": "32",
+      "indian_national_congress_inc___recognized_national_parties": "141",
+      "nationalist_congress_party_ncp___recognized_national_parties": "NA",
+      "recognized_national_parties_total": "387",
+      "recognized_state_parties": "101",
+      "unrecognised_registered_parties": "49",
+      "independents_": "6",
+      "total_other_than_recognized_national_parties_": "156"
+    },
+    {
+      "year": "1999",
+      "no_of_seats_for_which_elections_were_held_": "543",
+      "bhartiya_janta_party_bjp___recognized_national_parties": "182",
+      "bahujan_samaj_party_bsp___recognized_national_parties": "14",
+      "communist_party_of_india_cpi___recognized_national_parties": "4",
+      "communist_party_of_india_marxist___recognized_national_parties": "33",
+      "indian_national_congress_inc___recognized_national_parties": "114",
+      "nationalist_congress_party_ncp___recognized_national_parties": "NA",
+      "recognized_national_parties_total": "369",
+      "recognized_state_parties": "158",
+      "unrecognised_registered_parties": "10",
+      "independents_": "6",
+      "total_other_than_recognized_national_parties_": "174"
+    },
+    {
+      "year": "2004",
+      "no_of_seats_for_which_elections_were_held_": "543",
+      "bhartiya_janta_party_bjp___recognized_national_parties": "138",
+      "bahujan_samaj_party_bsp___recognized_national_parties": "19",
+      "communist_party_of_india_cpi___recognized_national_parties": "10",
+      "communist_party_of_india_marxist___recognized_national_parties": "43",
+      "indian_national_congress_inc___recognized_national_parties": "145",
+      "nationalist_congress_party_ncp___recognized_national_parties": "9",
+      "recognized_national_parties_total": "364",
+      "recognized_state_parties": "159",
+      "unrecognised_registered_parties": "15",
+      "independents_": "5",
+      "total_other_than_recognized_national_parties_": "179"
+    },
+    {
+      "year": "2009",
+      "no_of_seats_for_which_elections_were_held_": "543",
+      "bhartiya_janta_party_bjp___recognized_national_parties": "116",
+      "bahujan_samaj_party_bsp___recognized_national_parties": "21",
+      "communist_party_of_india_cpi___recognized_national_parties": "4",
+      "communist_party_of_india_marxist___recognized_national_parties": "16",
+      "indian_national_congress_inc___recognized_national_parties": "206",
+      "nationalist_congress_party_ncp___recognized_national_parties": "9",
+      "recognized_national_parties_total": "376",
+      "recognized_state_parties": "146",
+      "unrecognised_registered_parties": "12",
+      "independents_": "9",
+      "total_other_than_recognized_national_parties_": "167"
+    },
+    {
+      "year": "2014",
+      "no_of_seats_for_which_elections_were_held_": "543",
+      "bhartiya_janta_party_bjp___recognized_national_parties": "282",
+      "bahujan_samaj_party_bsp___recognized_national_parties": "0",
+      "communist_party_of_india_cpi___recognized_national_parties": "1",
+      "communist_party_of_india_marxist___recognized_national_parties": "9",
+      "indian_national_congress_inc___recognized_national_parties": "44",
+      "nationalist_congress_party_ncp___recognized_national_parties": "6",
+      "recognized_national_parties_total": "342",
+      "recognized_state_parties": "176",
+      "unrecognised_registered_parties": "22",
+      "independents_": "3",
+      "total_other_than_recognized_national_parties_": "201"
+    }
+  ]
+}

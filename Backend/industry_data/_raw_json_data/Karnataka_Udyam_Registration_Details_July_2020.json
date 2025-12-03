@@ -1,0 +1,246 @@
+{
+  "index_name": "5c491d1b-c7fc-4c2e-8439-ce58e33df258",
+  "title": "Karnataka Udyam Registration Details July 2020",
+  "desc": "Karnataka Udyam Registration Details July 2020",
+  "org_type": "State",
+  "org": [
+    "Karnataka",
+    "Department of Industries and Commerce"
+  ],
+  "sector": [
+    "Industries",
+    "Small Scale"
+  ],
+  "source": "karnataka.data.gov.in",
+  "catalog_uuid": "1acd0295-2e3c-4efa-badb-0da6e87207bc",
+  "visualizable": "0",
+  "active": "1",
+  "created": 1760085628,
+  "updated": 1760085628,
+  "created_date": "2025-10-10T10:40:28Z",
+  "updated_date": "2025-10-10T10:40:28Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "1acd0295-2e3c-4efa-badb-0da6e87207bc",
+    "field": "5c491d1b-c7fc-4c2e-8439-ce58e33df258"
+  },
+  "field": [
+    {
+      "id": "sl_no",
+      "name": "Sl No ",
+      "type": "double"
+    },
+    {
+      "id": "districts",
+      "name": "Districts ",
+      "type": "keyword"
+    },
+    {
+      "id": "number_of_units",
+      "name": "Number of Units",
+      "type": "double"
+    },
+    {
+      "id": "employment_provided",
+      "name": "Employment Provided",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 31,
+  "count": 31,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "sl_no": 1,
+      "districts": "BAGALKOT",
+      "number_of_units": 189,
+      "employment_provided": 918
+    },
+    {
+      "sl_no": 2,
+      "districts": "BALLARI",
+      "number_of_units": 135,
+      "employment_provided": 1678
+    },
+    {
+      "sl_no": 3,
+      "districts": "BELAGAVI",
+      "number_of_units": 663,
+      "employment_provided": 4013
+    },
+    {
+      "sl_no": 4,
+      "districts": "BENGALURU (RURAL)",
+      "number_of_units": 489,
+      "employment_provided": 8920
+    },
+    {
+      "sl_no": 5,
+      "districts": "BENGALURU (URBAN)",
+      "number_of_units": 3535,
+      "employment_provided": 65056
+    },
+    {
+      "sl_no": 6,
+      "districts": "BIDAR",
+      "number_of_units": 94,
+      "employment_provided": 727
+    },
+    {
+      "sl_no": 7,
+      "districts": "CHAMARAJNAGAR",
+      "number_of_units": 29,
+      "employment_provided": 199
+    },
+    {
+      "sl_no": 8,
+      "districts": "CHIKBALLAPUR",
+      "number_of_units": 67,
+      "employment_provided": 351
+    },
+    {
+      "sl_no": 9,
+      "districts": "CHIKKAMAGALURU",
+      "number_of_units": 72,
+      "employment_provided": 369
+    },
+    {
+      "sl_no": 10,
+      "districts": "CHITRADURGA",
+      "number_of_units": 71,
+      "employment_provided": 724
+    },
+    {
+      "sl_no": 11,
+      "districts": "DAKSHIN KANNAD",
+      "number_of_units": 230,
+      "employment_provided": 3552
+    },
+    {
+      "sl_no": 12,
+      "districts": "DAVANGERE",
+      "number_of_units": 104,
+      "employment_provided": 484
+    },
+    {
+      "sl_no": 13,
+      "districts": "DHARWAD",
+      "number_of_units": 413,
+      "employment_provided": 2805
+    },
+    {
+      "sl_no": 14,
+      "districts": "GADAG",
+      "number_of_units": 61,
+      "employment_provided": 286
+    },
+    {
+      "sl_no": 15,
+      "districts": "HASSAN",
+      "number_of_units": 87,
+      "employment_provided": 397
+    },
+    {
+      "sl_no": 16,
+      "districts": "HAVERI",
+      "number_of_units": 53,
+      "employment_provided": 264
+    },
+    {
+      "sl_no": 17,
+      "districts": "KALABURAGI",
+      "number_of_units": 104,
+      "employment_provided": 844
+    },
+    {
+      "sl_no": 18,
+      "districts": "KODAGU",
+      "number_of_units": 41,
+      "employment_provided": 224
+    },
+    {
+      "sl_no": 19,
+      "districts": "KOLAR",
+      "number_of_units": 101,
+      "employment_provided": 1026
+    },
+    {
+      "sl_no": 20,
+      "districts": "KOPPAL",
+      "number_of_units": 64,
+      "employment_provided": 471
+    },
+    {
+      "sl_no": 21,
+      "districts": "MANDYA",
+      "number_of_units": 65,
+      "employment_provided": 355
+    },
+    {
+      "sl_no": 22,
+      "districts": "MYSURU",
+      "number_of_units": 340,
+      "employment_provided": 6331
+    },
+    {
+      "sl_no": 23,
+      "districts": "RAICHUR",
+      "number_of_units": 62,
+      "employment_provided": 679
+    },
+    {
+      "sl_no": 24,
+      "districts": "RAMANAGARA",
+      "number_of_units": 69,
+      "employment_provided": 2053
+    },
+    {
+      "sl_no": 25,
+      "districts": "SHIVAMOGGA",
+      "number_of_units": 177,
+      "employment_provided": 1126
+    },
+    {
+      "sl_no": 26,
+      "districts": "TUMAKURU",
+      "number_of_units": 196,
+      "employment_provided": 1993
+    },
+    {
+      "sl_no": 27,
+      "districts": "UDUPI",
+      "number_of_units": 192,
+      "employment_provided": 2798
+    },
+    {
+      "sl_no": 28,
+      "districts": "UTTAR KANNAD",
+      "number_of_units": 148,
+      "employment_provided": 667
+    },
+    {
+      "sl_no": 29,
+      "districts": "VIJAYAPURA",
+      "number_of_units": 143,
+      "employment_provided": 4060
+    },
+    {
+      "sl_no": 30,
+      "districts": "YADGIR",
+      "number_of_units": 36,
+      "employment_provided": 156
+    },
+    {
+      "sl_no": "NA",
+      "districts": "Grand Total",
+      "number_of_units": 8030,
+      "employment_provided": 113526
+    }
+  ]
+}

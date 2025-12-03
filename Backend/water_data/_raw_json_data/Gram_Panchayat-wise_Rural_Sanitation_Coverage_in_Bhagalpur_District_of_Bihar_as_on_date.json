@@ -1,0 +1,2252 @@
+{
+  "index_name": "257a1786-3d29-4387-90f8-71aad73faf31",
+  "title": "Gram Panchayat-wise Rural Sanitation Coverage in Bhagalpur District of Bihar as on date",
+  "desc": "Gram Panchayat-wise Rural Sanitation Coverage in Bhagalpur District of Bihar as on date",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Jal Shakti",
+    "Department of Drinking Water and Sanitation"
+  ],
+  "sector": [
+    "Water and Sanitation"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1688360243,
+  "updated": 1688364903,
+  "created_date": "2023-07-03T06:57:23Z",
+  "updated_date": "2023-07-03T11:45:03Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "sbm",
+    "type": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+    "field": "257a1786-3d29-4387-90f8-71aad73faf31"
+  },
+  "field": [
+    {
+      "id": "statename",
+      "name": "StateName",
+      "type": "keyword"
+    },
+    {
+      "id": "districtname",
+      "name": "DistrictName",
+      "type": "keyword"
+    },
+    {
+      "id": "blockname",
+      "name": "BlockName",
+      "type": "keyword"
+    },
+    {
+      "id": "grampanchayatname",
+      "name": "GramPanchayatName",
+      "type": "keyword"
+    },
+    {
+      "id": "ihhltotalasperdetails",
+      "name": "IHHLTotalAsPerDetails",
+      "type": "double"
+    },
+    {
+      "id": "ihhltotalach",
+      "name": "IHHLTotalAch",
+      "type": "double"
+    },
+    {
+      "id": "date",
+      "name": "Date",
+      "type": "keyword"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 242,
+  "count": 242,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "BIHPUR",
+      "grampanchayatname": "BABHANGAMA",
+      "ihhltotalasperdetails": 1345,
+      "ihhltotalach": 1345,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "BIHPUR",
+      "grampanchayatname": "BIHPUR  MIDDLE",
+      "ihhltotalasperdetails": 1706,
+      "ihhltotalach": 1706,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "BIHPUR",
+      "grampanchayatname": "BIHPUR EAST",
+      "ihhltotalasperdetails": 1541,
+      "ihhltotalach": 1541,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "BIHPUR",
+      "grampanchayatname": "BIHPUR JAMALPUR",
+      "ihhltotalasperdetails": 1871,
+      "ihhltotalach": 1871,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "BIHPUR",
+      "grampanchayatname": "BIHPUR SOUTH",
+      "ihhltotalasperdetails": 2212,
+      "ihhltotalach": 2212,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "BIHPUR",
+      "grampanchayatname": "DHRAMPUR RATTI",
+      "ihhltotalasperdetails": 2200,
+      "ihhltotalach": 2200,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "BIHPUR",
+      "grampanchayatname": "HARIO",
+      "ihhltotalasperdetails": 1161,
+      "ihhltotalach": 1161,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "BIHPUR",
+      "grampanchayatname": "JHANDAPUR   WEST",
+      "ihhltotalasperdetails": 1717,
+      "ihhltotalach": 1717,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "BIHPUR",
+      "grampanchayatname": "JHANDAPUR EAST",
+      "ihhltotalasperdetails": 2188,
+      "ihhltotalach": 2188,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "BIHPUR",
+      "grampanchayatname": "LATTIPUR   SOUTH",
+      "ihhltotalasperdetails": 2109,
+      "ihhltotalach": 2109,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "BIHPUR",
+      "grampanchayatname": "LATTIPUR NORTH",
+      "ihhltotalasperdetails": 1753,
+      "ihhltotalach": 1753,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "BIHPUR",
+      "grampanchayatname": "MARWA  WEST",
+      "ihhltotalasperdetails": 1449,
+      "ihhltotalach": 1449,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "BIHPUR",
+      "grampanchayatname": "MARWA EAST",
+      "ihhltotalasperdetails": 2026,
+      "ihhltotalach": 2026,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "COLGONG",
+      "grampanchayatname": "ANTICHAK",
+      "ihhltotalasperdetails": 490,
+      "ihhltotalach": 490,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "COLGONG",
+      "grampanchayatname": "BANSI PUR",
+      "ihhltotalasperdetails": 998,
+      "ihhltotalach": 998,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "COLGONG",
+      "grampanchayatname": "BHOLSAR",
+      "ihhltotalasperdetails": 3151,
+      "ihhltotalach": 3151,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "COLGONG",
+      "grampanchayatname": "BIRBANNA",
+      "ihhltotalasperdetails": 559,
+      "ihhltotalach": 559,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "COLGONG",
+      "grampanchayatname": "DHANORA",
+      "ihhltotalasperdetails": 1131,
+      "ihhltotalach": 1131,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "COLGONG",
+      "grampanchayatname": "EKCHARI",
+      "ihhltotalasperdetails": 1616,
+      "ihhltotalach": 1616,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "COLGONG",
+      "grampanchayatname": "EKDARA",
+      "ihhltotalasperdetails": 2089,
+      "ihhltotalach": 2089,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "COLGONG",
+      "grampanchayatname": "GHOGHA",
+      "ihhltotalasperdetails": 2703,
+      "ihhltotalach": 2703,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "COLGONG",
+      "grampanchayatname": "JANI DIH",
+      "ihhltotalasperdetails": 1566,
+      "ihhltotalach": 1566,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "COLGONG",
+      "grampanchayatname": "KAIRIYA",
+      "ihhltotalasperdetails": 2733,
+      "ihhltotalach": 2733,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "COLGONG",
+      "grampanchayatname": "KISUNDAS PUR",
+      "ihhltotalasperdetails": 743,
+      "ihhltotalach": 743,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "COLGONG",
+      "grampanchayatname": "KODWAR",
+      "ihhltotalasperdetails": 728,
+      "ihhltotalach": 728,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "COLGONG",
+      "grampanchayatname": "KURMA",
+      "ihhltotalasperdetails": 1237,
+      "ihhltotalach": 1237,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "COLGONG",
+      "grampanchayatname": "LAGAMA",
+      "ihhltotalasperdetails": 792,
+      "ihhltotalach": 792,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "COLGONG",
+      "grampanchayatname": "MAHESA MUNDA",
+      "ihhltotalasperdetails": 1528,
+      "ihhltotalach": 1528,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "COLGONG",
+      "grampanchayatname": "MATHURA PUR",
+      "ihhltotalasperdetails": 1921,
+      "ihhltotalach": 1921,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "COLGONG",
+      "grampanchayatname": "MOHANPUR GOGHATTA",
+      "ihhltotalasperdetails": 1109,
+      "ihhltotalach": 1109,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "COLGONG",
+      "grampanchayatname": "NANDLAL PUR",
+      "ihhltotalasperdetails": 1699,
+      "ihhltotalach": 1699,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "COLGONG",
+      "grampanchayatname": "OGARI",
+      "ihhltotalasperdetails": 1242,
+      "ihhltotalach": 1242,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "COLGONG",
+      "grampanchayatname": "ORIUP",
+      "ihhltotalasperdetails": 1599,
+      "ihhltotalach": 1599,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "COLGONG",
+      "grampanchayatname": "PAKKI SARAI",
+      "ihhltotalasperdetails": 316,
+      "ihhltotalach": 316,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "COLGONG",
+      "grampanchayatname": "PRASASTDIH",
+      "ihhltotalasperdetails": 1030,
+      "ihhltotalach": 1030,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "COLGONG",
+      "grampanchayatname": "RAM PUR",
+      "ihhltotalasperdetails": 1547,
+      "ihhltotalach": 1547,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "COLGONG",
+      "grampanchayatname": "RAMJANI PUR",
+      "ihhltotalasperdetails": 491,
+      "ihhltotalach": 491,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "COLGONG",
+      "grampanchayatname": "SADANANDPUR BAISA",
+      "ihhltotalasperdetails": 2755,
+      "ihhltotalach": 2755,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "COLGONG",
+      "grampanchayatname": "SALEMPUR SAINI",
+      "ihhltotalasperdetails": 1986,
+      "ihhltotalach": 1986,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "COLGONG",
+      "grampanchayatname": "SHYAM PUR",
+      "ihhltotalasperdetails": 509,
+      "ihhltotalach": 509,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "COLGONG",
+      "grampanchayatname": "SINYA",
+      "ihhltotalasperdetails": 704,
+      "ihhltotalach": 704,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "GOPALPUR",
+      "grampanchayatname": "ABHIA PACHAGACHIA",
+      "ihhltotalasperdetails": 2068,
+      "ihhltotalach": 2068,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "GOPALPUR",
+      "grampanchayatname": "BABU TOLA KAMLAKUND",
+      "ihhltotalasperdetails": 173,
+      "ihhltotalach": 173,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "GOPALPUR",
+      "grampanchayatname": "DUMARIA CHAPERGHAT",
+      "ihhltotalasperdetails": 2338,
+      "ihhltotalach": 2338,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "GOPALPUR",
+      "grampanchayatname": "GOPALPUR DIMAHA",
+      "ihhltotalasperdetails": 1494,
+      "ihhltotalach": 1494,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "GOPALPUR",
+      "grampanchayatname": "GOSHAINGAON",
+      "ihhltotalasperdetails": 2136,
+      "ihhltotalach": 2136,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "GOPALPUR",
+      "grampanchayatname": "MAKANDPUR",
+      "ihhltotalasperdetails": 3847,
+      "ihhltotalach": 3847,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "GOPALPUR",
+      "grampanchayatname": "SAIDPUR",
+      "ihhltotalasperdetails": 1239,
+      "ihhltotalach": 1239,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "GOPALPUR",
+      "grampanchayatname": "SUKATIA BAZAR",
+      "ihhltotalasperdetails": 1808,
+      "ihhltotalach": 1808,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "GOPALPUR",
+      "grampanchayatname": "TINTANGA KARARI",
+      "ihhltotalasperdetails": 1127,
+      "ihhltotalach": 1127,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "GORADIH",
+      "grampanchayatname": "AGARPUR",
+      "ihhltotalasperdetails": 2066,
+      "ihhltotalach": 2066,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "GORADIH",
+      "grampanchayatname": "AGARPUR MACHIPUR",
+      "ihhltotalasperdetails": 1055,
+      "ihhltotalach": 1055,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "GORADIH",
+      "grampanchayatname": "BISHUNPUR JICHHO",
+      "ihhltotalasperdetails": 2440,
+      "ihhltotalach": 2440,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "GORADIH",
+      "grampanchayatname": "GORADIH",
+      "ihhltotalasperdetails": 1843,
+      "ihhltotalach": 1843,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "GORADIH",
+      "grampanchayatname": "KASIMPUR",
+      "ihhltotalasperdetails": 633,
+      "ihhltotalach": 633,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "GORADIH",
+      "grampanchayatname": "KHUTAHA",
+      "ihhltotalasperdetails": 467,
+      "ihhltotalach": 467,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "GORADIH",
+      "grampanchayatname": "MOHANPUR",
+      "ihhltotalasperdetails": 1425,
+      "ihhltotalach": 1425,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "GORADIH",
+      "grampanchayatname": "MURHAN JAMIN",
+      "ihhltotalasperdetails": 1323,
+      "ihhltotalach": 1323,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "GORADIH",
+      "grampanchayatname": "NADIYAMA",
+      "ihhltotalasperdetails": 1030,
+      "ihhltotalach": 1030,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "GORADIH",
+      "grampanchayatname": "PITHNA",
+      "ihhltotalasperdetails": 1177,
+      "ihhltotalach": 1177,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "GORADIH",
+      "grampanchayatname": "SALPUR",
+      "ihhltotalasperdetails": 1411,
+      "ihhltotalach": 1411,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "GORADIH",
+      "grampanchayatname": "SARATH   DAHARPUR",
+      "ihhltotalasperdetails": 1052,
+      "ihhltotalach": 1052,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "GORADIH",
+      "grampanchayatname": "SONUDIH SATJORY",
+      "ihhltotalasperdetails": 2243,
+      "ihhltotalach": 2243,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "GORADIH",
+      "grampanchayatname": "TARCHHA DAMUCHAK",
+      "ihhltotalasperdetails": 964,
+      "ihhltotalach": 964,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "GORADIH",
+      "grampanchayatname": "USHTU",
+      "ihhltotalasperdetails": 1465,
+      "ihhltotalach": 1465,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "ISMAILPUR",
+      "grampanchayatname": "ISMAILPUR PASCHIMI BHITHA",
+      "ihhltotalasperdetails": 879,
+      "ihhltotalach": 879,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "ISMAILPUR",
+      "grampanchayatname": "ISMAILPUR PURABI BHITHA",
+      "ihhltotalasperdetails": 413,
+      "ihhltotalach": 413,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "ISMAILPUR",
+      "grampanchayatname": "KAMLA KUND",
+      "ihhltotalasperdetails": 2010,
+      "ihhltotalach": 2010,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "ISMAILPUR",
+      "grampanchayatname": "NARAYANPUR LAXMIPUR",
+      "ihhltotalasperdetails": 726,
+      "ihhltotalach": 726,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "ISMAILPUR",
+      "grampanchayatname": "PARBATTA",
+      "ihhltotalasperdetails": 2231,
+      "ihhltotalach": 2231,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "JAGDISHPUR",
+      "grampanchayatname": "BAIJANI",
+      "ihhltotalasperdetails": 4713,
+      "ihhltotalach": 4713,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "JAGDISHPUR",
+      "grampanchayatname": "BALUWA CHAK PURAINI",
+      "ihhltotalasperdetails": 1464,
+      "ihhltotalach": 1464,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "JAGDISHPUR",
+      "grampanchayatname": "BHAWANIPUR DESARI",
+      "ihhltotalasperdetails": 1607,
+      "ihhltotalach": 1607,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "JAGDISHPUR",
+      "grampanchayatname": "CHANDPUR",
+      "ihhltotalasperdetails": 1446,
+      "ihhltotalach": 1446,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "JAGDISHPUR",
+      "grampanchayatname": "EMAMPUR",
+      "ihhltotalasperdetails": 1757,
+      "ihhltotalach": 1757,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "JAGDISHPUR",
+      "grampanchayatname": "HABIBPUR",
+      "ihhltotalasperdetails": 1170,
+      "ihhltotalach": 1170,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "JAGDISHPUR",
+      "grampanchayatname": "JAGADISHPUR",
+      "ihhltotalasperdetails": 1589,
+      "ihhltotalach": 1589,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "JAGDISHPUR",
+      "grampanchayatname": "JAMNI",
+      "ihhltotalasperdetails": 1484,
+      "ihhltotalach": 1484,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "JAGDISHPUR",
+      "grampanchayatname": "KHIRIBANDH",
+      "ihhltotalasperdetails": 1633,
+      "ihhltotalach": 1633,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "JAGDISHPUR",
+      "grampanchayatname": "PURAINI NORTH",
+      "ihhltotalasperdetails": 1031,
+      "ihhltotalach": 1031,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "JAGDISHPUR",
+      "grampanchayatname": "PURAINI SOUTH",
+      "ihhltotalasperdetails": 1678,
+      "ihhltotalach": 1678,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "JAGDISHPUR",
+      "grampanchayatname": "PURAINI TOLA SONU CHAK",
+      "ihhltotalasperdetails": 1384,
+      "ihhltotalach": 1384,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "JAGDISHPUR",
+      "grampanchayatname": "SAINO",
+      "ihhltotalasperdetails": 967,
+      "ihhltotalach": 967,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "JAGDISHPUR",
+      "grampanchayatname": "SANHAULI",
+      "ihhltotalasperdetails": 1163,
+      "ihhltotalach": 1163,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "JAGDISHPUR",
+      "grampanchayatname": "SHAHJANGI",
+      "ihhltotalasperdetails": 3199,
+      "ihhltotalach": 3199,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "KHARIK",
+      "grampanchayatname": "AKIDATPUR",
+      "ihhltotalasperdetails": 904,
+      "ihhltotalach": 904,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "KHARIK",
+      "grampanchayatname": "BHAWANPURA",
+      "ihhltotalasperdetails": 3010,
+      "ihhltotalach": 3010,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "KHARIK",
+      "grampanchayatname": "CHORHAR",
+      "ihhltotalasperdetails": 1938,
+      "ihhltotalach": 1938,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "KHARIK",
+      "grampanchayatname": "DHORIYA DADPUR",
+      "ihhltotalasperdetails": 3502,
+      "ihhltotalach": 3502,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "KHARIK",
+      "grampanchayatname": "DHURUBGANG",
+      "ihhltotalasperdetails": 1978,
+      "ihhltotalach": 1978,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "KHARIK",
+      "grampanchayatname": "GOT-KHARIK",
+      "ihhltotalasperdetails": 2553,
+      "ihhltotalach": 2553,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "KHARIK",
+      "grampanchayatname": "KHAIRPUR",
+      "ihhltotalasperdetails": 279,
+      "ihhltotalach": 279,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "KHARIK",
+      "grampanchayatname": "KHARIK  BAZAR",
+      "ihhltotalasperdetails": 1801,
+      "ihhltotalach": 1801,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "KHARIK",
+      "grampanchayatname": "LOKMANPUR",
+      "ihhltotalasperdetails": 961,
+      "ihhltotalach": 961,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "KHARIK",
+      "grampanchayatname": "RAGHOPUR",
+      "ihhltotalasperdetails": 2358,
+      "ihhltotalach": 2358,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "KHARIK",
+      "grampanchayatname": "TELGHI",
+      "ihhltotalasperdetails": 1335,
+      "ihhltotalach": 1335,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "KHARIK",
+      "grampanchayatname": "TULSIPUR",
+      "ihhltotalasperdetails": 2870,
+      "ihhltotalach": 2870,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "KHARIK",
+      "grampanchayatname": "USMANPUR",
+      "ihhltotalasperdetails": 2416,
+      "ihhltotalach": 2416,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "NARAYANPUR",
+      "grampanchayatname": "BAIKATPUR DUDHAILA",
+      "ihhltotalasperdetails": 2198,
+      "ihhltotalach": 2198,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "NARAYANPUR",
+      "grampanchayatname": "BHAWANIPUR",
+      "ihhltotalasperdetails": 934,
+      "ihhltotalach": 934,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "NARAYANPUR",
+      "grampanchayatname": "JAIPURCHUHAR WEST",
+      "ihhltotalasperdetails": 2473,
+      "ihhltotalach": 2473,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "NARAYANPUR",
+      "grampanchayatname": "JAYPURCHUHAR EAST",
+      "ihhltotalasperdetails": 1397,
+      "ihhltotalach": 1397,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "NARAYANPUR",
+      "grampanchayatname": "NAGARPARA  EAST",
+      "ihhltotalasperdetails": 3451,
+      "ihhltotalach": 3451,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "NARAYANPUR",
+      "grampanchayatname": "NAGARPARA NORTH",
+      "ihhltotalasperdetails": 1040,
+      "ihhltotalach": 1040,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "NARAYANPUR",
+      "grampanchayatname": "NAGARPARA SOUTH",
+      "ihhltotalasperdetails": 5596,
+      "ihhltotalach": 5596,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "NARAYANPUR",
+      "grampanchayatname": "RAIPUR",
+      "ihhltotalasperdetails": 3053,
+      "ihhltotalach": 3053,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "NARAYANPUR",
+      "grampanchayatname": "SHAHZADPUR",
+      "ihhltotalasperdetails": 876,
+      "ihhltotalach": 876,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "NARAYANPUR",
+      "grampanchayatname": "SIHPUR EAST",
+      "ihhltotalasperdetails": 1906,
+      "ihhltotalach": 1906,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "NARAYANPUR",
+      "grampanchayatname": "SIHPUR WEST",
+      "ihhltotalasperdetails": 642,
+      "ihhltotalach": 642,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "NATHNAGAR",
+      "grampanchayatname": "BELKHURIYA",
+      "ihhltotalasperdetails": 2353,
+      "ihhltotalach": 2353,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "NATHNAGAR",
+      "grampanchayatname": "BHATORIA",
+      "ihhltotalasperdetails": 1536,
+      "ihhltotalach": 1536,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "NATHNAGAR",
+      "grampanchayatname": "BHUWAL PUR",
+      "ihhltotalasperdetails": 1606,
+      "ihhltotalach": 1606,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "NATHNAGAR",
+      "grampanchayatname": "BISANRAM PUR",
+      "ihhltotalasperdetails": 1589,
+      "ihhltotalach": 1589,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "NATHNAGAR",
+      "grampanchayatname": "GOSAIDAS PUR",
+      "ihhltotalasperdetails": 1577,
+      "ihhltotalach": 1577,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "NATHNAGAR",
+      "grampanchayatname": "GOURA CHOKI",
+      "ihhltotalasperdetails": 2062,
+      "ihhltotalach": 2062,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "NATHNAGAR",
+      "grampanchayatname": "KAJRAILY",
+      "ihhltotalasperdetails": 2055,
+      "ihhltotalach": 2055,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "NATHNAGAR",
+      "grampanchayatname": "NISF  AMBE",
+      "ihhltotalasperdetails": 2269,
+      "ihhltotalach": 2269,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "NATHNAGAR",
+      "grampanchayatname": "NOOR PUR",
+      "ihhltotalasperdetails": 3050,
+      "ihhltotalach": 3050,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "NATHNAGAR",
+      "grampanchayatname": "RAGHOPUR",
+      "ihhltotalasperdetails": 901,
+      "ihhltotalach": 901,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "NATHNAGAR",
+      "grampanchayatname": "RAMPUR KHURD",
+      "ihhltotalasperdetails": 2566,
+      "ihhltotalach": 2566,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "NATHNAGAR",
+      "grampanchayatname": "RANU CHAK   MAKANDPUR",
+      "ihhltotalasperdetails": 2182,
+      "ihhltotalach": 2182,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "NATHNAGAR",
+      "grampanchayatname": "RATTIPUR BARIYA",
+      "ihhltotalasperdetails": 737,
+      "ihhltotalach": 737,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "NATHNAGAR",
+      "grampanchayatname": "SHANKER PUR",
+      "ihhltotalasperdetails": 222,
+      "ihhltotalach": 222,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "NAUGACHHIA",
+      "grampanchayatname": "DHOLBAZZA",
+      "ihhltotalasperdetails": 1011,
+      "ihhltotalach": 1011,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "NAUGACHHIA",
+      "grampanchayatname": "JAGATPUR",
+      "ihhltotalasperdetails": 2312,
+      "ihhltotalach": 2312,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "NAUGACHHIA",
+      "grampanchayatname": "JAMUNIA",
+      "ihhltotalasperdetails": 1831,
+      "ihhltotalach": 1831,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "NAUGACHHIA",
+      "grampanchayatname": "KADAWA DIYARA",
+      "ihhltotalasperdetails": 2476,
+      "ihhltotalach": 2476,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "NAUGACHHIA",
+      "grampanchayatname": "KHAGARA",
+      "ihhltotalasperdetails": 2028,
+      "ihhltotalach": 2028,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "NAUGACHHIA",
+      "grampanchayatname": "KHAIRPUR KADAWA",
+      "ihhltotalasperdetails": 1017,
+      "ihhltotalach": 1017,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "NAUGACHHIA",
+      "grampanchayatname": "NAGRAH",
+      "ihhltotalasperdetails": 1335,
+      "ihhltotalach": 1335,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "NAUGACHHIA",
+      "grampanchayatname": "PAKRA",
+      "ihhltotalasperdetails": 2602,
+      "ihhltotalach": 2602,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "NAUGACHHIA",
+      "grampanchayatname": "PUNAMA PRATAP NAGAR",
+      "ihhltotalasperdetails": 1238,
+      "ihhltotalach": 1238,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "NAUGACHHIA",
+      "grampanchayatname": "TETARI",
+      "ihhltotalasperdetails": 2348,
+      "ihhltotalach": 2348,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "PIRPAINTI",
+      "grampanchayatname": "BABUPUR",
+      "ihhltotalasperdetails": 350,
+      "ihhltotalach": 350,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "PIRPAINTI",
+      "grampanchayatname": "BAKHARPUR EAST",
+      "ihhltotalasperdetails": 1555,
+      "ihhltotalach": 1555,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "PIRPAINTI",
+      "grampanchayatname": "BAKHRPUR WEST",
+      "ihhltotalasperdetails": 1571,
+      "ihhltotalach": 1571,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "PIRPAINTI",
+      "grampanchayatname": "BANDHU JAIRAM",
+      "ihhltotalasperdetails": 1033,
+      "ihhltotalach": 1033,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "PIRPAINTI",
+      "grampanchayatname": "BARA",
+      "ihhltotalasperdetails": 1365,
+      "ihhltotalach": 1365,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "PIRPAINTI",
+      "grampanchayatname": "EKCHARI     DIYARA",
+      "ihhltotalasperdetails": 1184,
+      "ihhltotalach": 1184,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "PIRPAINTI",
+      "grampanchayatname": "GOBINDPUR",
+      "ihhltotalasperdetails": 1634,
+      "ihhltotalach": 1634,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "PIRPAINTI",
+      "grampanchayatname": "HARDEO CHAK",
+      "ihhltotalasperdetails": 698,
+      "ihhltotalach": 698,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "PIRPAINTI",
+      "grampanchayatname": "HARIN KOL",
+      "ihhltotalasperdetails": 1314,
+      "ihhltotalach": 1314,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "PIRPAINTI",
+      "grampanchayatname": "KHAVASPUR",
+      "ihhltotalasperdetails": 2330,
+      "ihhltotalach": 2330,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "PIRPAINTI",
+      "grampanchayatname": "KIRTANIA",
+      "ihhltotalasperdetails": 694,
+      "ihhltotalach": 694,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "PIRPAINTI",
+      "grampanchayatname": "MAHESHRAM",
+      "ihhltotalasperdetails": 1533,
+      "ihhltotalach": 1533,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "PIRPAINTI",
+      "grampanchayatname": "MANIK PUR",
+      "ihhltotalasperdetails": 762,
+      "ihhltotalach": 762,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "PIRPAINTI",
+      "grampanchayatname": "MOHAN PUR MADHU BAN",
+      "ihhltotalasperdetails": 574,
+      "ihhltotalach": 574,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "PIRPAINTI",
+      "grampanchayatname": "MOHANPUR",
+      "ihhltotalasperdetails": 595,
+      "ihhltotalach": 595,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "PIRPAINTI",
+      "grampanchayatname": "OLAPUR",
+      "ihhltotalasperdetails": 2260,
+      "ihhltotalach": 2260,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "PIRPAINTI",
+      "grampanchayatname": "PARAS BANNA",
+      "ihhltotalasperdetails": 1054,
+      "ihhltotalach": 1054,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "PIRPAINTI",
+      "grampanchayatname": "PARSU RAMPUR",
+      "ihhltotalasperdetails": 2298,
+      "ihhltotalach": 2298,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "PIRPAINTI",
+      "grampanchayatname": "PAYALA PUR",
+      "ihhltotalasperdetails": 1726,
+      "ihhltotalach": 1726,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "PIRPAINTI",
+      "grampanchayatname": "PIRPAINTI",
+      "ihhltotalasperdetails": 1178,
+      "ihhltotalach": 1178,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "PIRPAINTI",
+      "grampanchayatname": "RAJ GAON ARAZI",
+      "ihhltotalasperdetails": 1066,
+      "ihhltotalach": 1066,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "PIRPAINTI",
+      "grampanchayatname": "RAJGAON",
+      "ihhltotalasperdetails": 1174,
+      "ihhltotalach": 1174,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "PIRPAINTI",
+      "grampanchayatname": "RANI DIARA",
+      "ihhltotalasperdetails": 1853,
+      "ihhltotalach": 1853,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "PIRPAINTI",
+      "grampanchayatname": "RIFATPUR",
+      "ihhltotalasperdetails": 1184,
+      "ihhltotalach": 1184,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "PIRPAINTI",
+      "grampanchayatname": "RIFATPUR  SIMANPUR",
+      "ihhltotalasperdetails": 1349,
+      "ihhltotalach": 1349,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "PIRPAINTI",
+      "grampanchayatname": "ROUSHANPUR",
+      "ihhltotalasperdetails": 859,
+      "ihhltotalach": 859,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "PIRPAINTI",
+      "grampanchayatname": "SALEMPUR",
+      "ihhltotalasperdetails": 1187,
+      "ihhltotalach": 1187,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "PIRPAINTI",
+      "grampanchayatname": "SHRIMATPUR  GOPALICHAK",
+      "ihhltotalasperdetails": 1336,
+      "ihhltotalach": 1336,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "PIRPAINTI",
+      "grampanchayatname": "SHRIMATPUR  K UZUR NAGAR",
+      "ihhltotalasperdetails": 3239,
+      "ihhltotalach": 3239,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "RANGRACHOWK",
+      "grampanchayatname": "BAISI JAHANGIRPUR",
+      "ihhltotalasperdetails": 1065,
+      "ihhltotalach": 1065,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "RANGRACHOWK",
+      "grampanchayatname": "BANIA BAISI",
+      "ihhltotalasperdetails": 462,
+      "ihhltotalach": 462,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "RANGRACHOWK",
+      "grampanchayatname": "BHAWANIPUR",
+      "ihhltotalasperdetails": 1753,
+      "ihhltotalach": 1753,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "RANGRACHOWK",
+      "grampanchayatname": "KOSHKIPUR SAHAURA",
+      "ihhltotalasperdetails": 532,
+      "ihhltotalach": 532,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "RANGRACHOWK",
+      "grampanchayatname": "MADRAUNI",
+      "ihhltotalasperdetails": 1057,
+      "ihhltotalach": 1057,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "RANGRACHOWK",
+      "grampanchayatname": "MURLI",
+      "ihhltotalasperdetails": 1355,
+      "ihhltotalach": 1355,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "RANGRACHOWK",
+      "grampanchayatname": "RANGRA",
+      "ihhltotalasperdetails": 1126,
+      "ihhltotalach": 1126,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "RANGRACHOWK",
+      "grampanchayatname": "SADHUA CHAPAR",
+      "ihhltotalasperdetails": 1912,
+      "ihhltotalach": 1912,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "RANGRACHOWK",
+      "grampanchayatname": "TINTANGA  DIYARA NORTH",
+      "ihhltotalasperdetails": 597,
+      "ihhltotalach": 597,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "RANGRACHOWK",
+      "grampanchayatname": "TINTANGA  DIYARA SOUTH",
+      "ihhltotalasperdetails": 2019,
+      "ihhltotalach": 2019,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SABOUR",
+      "grampanchayatname": "BAIJALPUR",
+      "ihhltotalasperdetails": 3563,
+      "ihhltotalach": 3563,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SABOUR",
+      "grampanchayatname": "BARARI",
+      "ihhltotalasperdetails": 2198,
+      "ihhltotalach": 2198,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SABOUR",
+      "grampanchayatname": "CHANDHERI",
+      "ihhltotalasperdetails": 1486,
+      "ihhltotalach": 1486,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SABOUR",
+      "grampanchayatname": "FARKA",
+      "ihhltotalasperdetails": 810,
+      "ihhltotalach": 810,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SABOUR",
+      "grampanchayatname": "FATEHPUR",
+      "ihhltotalasperdetails": 2195,
+      "ihhltotalach": 2195,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SABOUR",
+      "grampanchayatname": "KHANKITA",
+      "ihhltotalasperdetails": 365,
+      "ihhltotalach": 365,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SABOUR",
+      "grampanchayatname": "LAILAKH",
+      "ihhltotalasperdetails": 1318,
+      "ihhltotalach": 1318,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SABOUR",
+      "grampanchayatname": "LODIPUR",
+      "ihhltotalasperdetails": 2592,
+      "ihhltotalach": 2592,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SABOUR",
+      "grampanchayatname": "MAMALKHA",
+      "ihhltotalasperdetails": 2276,
+      "ihhltotalach": 2276,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SABOUR",
+      "grampanchayatname": "PARGHARI",
+      "ihhltotalasperdetails": 878,
+      "ihhltotalach": 878,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SABOUR",
+      "grampanchayatname": "RAJANDIPUR",
+      "ihhltotalasperdetails": 2310,
+      "ihhltotalach": 2310,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SABOUR",
+      "grampanchayatname": "SABOUR",
+      "ihhltotalasperdetails": 978,
+      "ihhltotalach": 978,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SABOUR",
+      "grampanchayatname": "SARDHO",
+      "ihhltotalasperdetails": 1105,
+      "ihhltotalach": 1105,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SABOUR",
+      "grampanchayatname": "SHANKARPUR   DIYARA",
+      "ihhltotalasperdetails": 448,
+      "ihhltotalach": 448,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SHAHKUND",
+      "grampanchayatname": "AMBA",
+      "ihhltotalasperdetails": 1630,
+      "ihhltotalach": 1630,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SHAHKUND",
+      "grampanchayatname": "BASUDEO PUR",
+      "ihhltotalasperdetails": 1132,
+      "ihhltotalach": 1132,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SHAHKUND",
+      "grampanchayatname": "BELTHU",
+      "ihhltotalasperdetails": 1717,
+      "ihhltotalach": 1717,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SHAHKUND",
+      "grampanchayatname": "BHULNI",
+      "ihhltotalasperdetails": 1891,
+      "ihhltotalach": 1891,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SHAHKUND",
+      "grampanchayatname": "DARIYAPUR",
+      "ihhltotalasperdetails": 2039,
+      "ihhltotalach": 2039,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SHAHKUND",
+      "grampanchayatname": "DAS PUR",
+      "ihhltotalasperdetails": 1870,
+      "ihhltotalach": 1870,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SHAHKUND",
+      "grampanchayatname": "DINDAYAL PUR",
+      "ihhltotalasperdetails": 1185,
+      "ihhltotalach": 1185,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SHAHKUND",
+      "grampanchayatname": "GOVRAIN",
+      "ihhltotalasperdetails": 1195,
+      "ihhltotalach": 1195,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SHAHKUND",
+      "grampanchayatname": "HAJIPUR",
+      "ihhltotalasperdetails": 2122,
+      "ihhltotalach": 2122,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SHAHKUND",
+      "grampanchayatname": "HAR NATH",
+      "ihhltotalasperdetails": 1643,
+      "ihhltotalach": 1643,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SHAHKUND",
+      "grampanchayatname": "JAGARIA",
+      "ihhltotalasperdetails": 2433,
+      "ihhltotalach": 2433,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SHAHKUND",
+      "grampanchayatname": "KASWA KHERHI",
+      "ihhltotalasperdetails": 1883,
+      "ihhltotalach": 1883,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SHAHKUND",
+      "grampanchayatname": "KHAIRA",
+      "ihhltotalasperdetails": 1302,
+      "ihhltotalach": 1302,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SHAHKUND",
+      "grampanchayatname": "KHULNI",
+      "ihhltotalasperdetails": 920,
+      "ihhltotalach": 920,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SHAHKUND",
+      "grampanchayatname": "KISHANPUR AMKHORIA",
+      "ihhltotalasperdetails": 1583,
+      "ihhltotalach": 1583,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SHAHKUND",
+      "grampanchayatname": "MAKANPUR",
+      "ihhltotalasperdetails": 794,
+      "ihhltotalach": 794,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SHAHKUND",
+      "grampanchayatname": "PAIR DOMINIA MAL",
+      "ihhltotalasperdetails": 601,
+      "ihhltotalach": 601,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SHAHKUND",
+      "grampanchayatname": "SAJAUR",
+      "ihhltotalasperdetails": 1360,
+      "ihhltotalach": 1360,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SHAHKUND",
+      "grampanchayatname": "SARAUNI",
+      "ihhltotalasperdetails": 1455,
+      "ihhltotalach": 1455,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SONHAULA",
+      "grampanchayatname": "AMDANDA",
+      "ihhltotalasperdetails": 2146,
+      "ihhltotalach": 2146,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SONHAULA",
+      "grampanchayatname": "AMDIHA",
+      "ihhltotalasperdetails": 1212,
+      "ihhltotalach": 1212,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SONHAULA",
+      "grampanchayatname": "ARAR",
+      "ihhltotalasperdetails": 1222,
+      "ihhltotalach": 1222,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SONHAULA",
+      "grampanchayatname": "BARI NAKI",
+      "ihhltotalasperdetails": 1665,
+      "ihhltotalach": 1665,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SONHAULA",
+      "grampanchayatname": "BHURIA MAHIYAMA",
+      "ihhltotalasperdetails": 1332,
+      "ihhltotalach": 1332,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SONHAULA",
+      "grampanchayatname": "BORA PATHAKDIH",
+      "ihhltotalasperdetails": 2048,
+      "ihhltotalach": 2048,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SONHAULA",
+      "grampanchayatname": "DHUABEY",
+      "ihhltotalasperdetails": 1551,
+      "ihhltotalach": 1551,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SONHAULA",
+      "grampanchayatname": "FAZILPUR SAKRAMA",
+      "ihhltotalasperdetails": 1839,
+      "ihhltotalach": 1839,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SONHAULA",
+      "grampanchayatname": "KAMALPUR SRICHAK",
+      "ihhltotalasperdetails": 1155,
+      "ihhltotalach": 1155,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SONHAULA",
+      "grampanchayatname": "MADARGANJ",
+      "ihhltotalasperdetails": 1681,
+      "ihhltotalach": 1681,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SONHAULA",
+      "grampanchayatname": "MADHOPUR BATHANI",
+      "ihhltotalasperdetails": 1013,
+      "ihhltotalach": 1013,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SONHAULA",
+      "grampanchayatname": "MAHESPUR GHANSHYAM CHAK",
+      "ihhltotalasperdetails": 1984,
+      "ihhltotalach": 1984,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SONHAULA",
+      "grampanchayatname": "POTHIA",
+      "ihhltotalasperdetails": 885,
+      "ihhltotalach": 885,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SONHAULA",
+      "grampanchayatname": "SANHAULLA",
+      "ihhltotalasperdetails": 1379,
+      "ihhltotalach": 1379,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SONHAULA",
+      "grampanchayatname": "SANOKHAR",
+      "ihhltotalasperdetails": 1240,
+      "ihhltotalach": 1240,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SONHAULA",
+      "grampanchayatname": "SILHAN KHAJURIA",
+      "ihhltotalasperdetails": 1901,
+      "ihhltotalach": 1901,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SONHAULA",
+      "grampanchayatname": "TARAR",
+      "ihhltotalasperdetails": 1838,
+      "ihhltotalach": 1838,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SONHAULA",
+      "grampanchayatname": "TELONDHA",
+      "ihhltotalasperdetails": 1690,
+      "ihhltotalach": 1690,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SULTANGANJ",
+      "grampanchayatname": "ABZUGANJ",
+      "ihhltotalasperdetails": 2866,
+      "ihhltotalach": 2866,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SULTANGANJ",
+      "grampanchayatname": "AKABAR NAGAR",
+      "ihhltotalasperdetails": 2301,
+      "ihhltotalach": 2301,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SULTANGANJ",
+      "grampanchayatname": "ASHIA CHAK",
+      "ihhltotalasperdetails": 1742,
+      "ihhltotalach": 1742,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SULTANGANJ",
+      "grampanchayatname": "BHIRKHURD",
+      "ihhltotalasperdetails": 1201,
+      "ihhltotalach": 1201,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SULTANGANJ",
+      "grampanchayatname": "E. CHICHARAUN",
+      "ihhltotalasperdetails": 380,
+      "ihhltotalach": 380,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SULTANGANJ",
+      "grampanchayatname": "GANGANIA",
+      "ihhltotalasperdetails": 1601,
+      "ihhltotalach": 1601,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SULTANGANJ",
+      "grampanchayatname": "GHANGHI BELARI",
+      "ihhltotalasperdetails": 2267,
+      "ihhltotalach": 2267,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SULTANGANJ",
+      "grampanchayatname": "KAMARGANJ",
+      "ihhltotalasperdetails": 712,
+      "ihhltotalach": 712,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SULTANGANJ",
+      "grampanchayatname": "KARHARIA",
+      "ihhltotalasperdetails": 2960,
+      "ihhltotalach": 2960,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SULTANGANJ",
+      "grampanchayatname": "KATAHARA",
+      "ihhltotalasperdetails": 1550,
+      "ihhltotalach": 1550,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SULTANGANJ",
+      "grampanchayatname": "KHANPUR",
+      "ihhltotalasperdetails": 3447,
+      "ihhltotalach": 3447,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SULTANGANJ",
+      "grampanchayatname": "KHERAHIA",
+      "ihhltotalasperdetails": 1621,
+      "ihhltotalach": 1621,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SULTANGANJ",
+      "grampanchayatname": "KISHANPUR",
+      "ihhltotalasperdetails": 2475,
+      "ihhltotalach": 2475,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SULTANGANJ",
+      "grampanchayatname": "KUMAITHA",
+      "ihhltotalasperdetails": 1386,
+      "ihhltotalach": 1386,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SULTANGANJ",
+      "grampanchayatname": "MAHESHI",
+      "ihhltotalasperdetails": 1528,
+      "ihhltotalach": 1528,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SULTANGANJ",
+      "grampanchayatname": "MASDI",
+      "ihhltotalasperdetails": 908,
+      "ihhltotalach": 908,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SULTANGANJ",
+      "grampanchayatname": "MIRHATTI",
+      "ihhltotalasperdetails": 1368,
+      "ihhltotalach": 1368,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SULTANGANJ",
+      "grampanchayatname": "NAYAGAON",
+      "ihhltotalasperdetails": 1210,
+      "ihhltotalach": 1210,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHAGALPUR",
+      "blockname": "SULTANGANJ",
+      "grampanchayatname": "TILAKPUR",
+      "ihhltotalasperdetails": 3229,
+      "ihhltotalach": 3229,
+      "date": "5/19/2020 12:00:00 AM"
+    }
+  ]
+}

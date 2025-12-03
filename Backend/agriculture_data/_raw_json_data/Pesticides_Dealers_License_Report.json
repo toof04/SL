@@ -1,0 +1,1296 @@
+{
+  "index_name": "8db62b11-d6a1-41bd-8d9d-5d560b47b8a6",
+  "title": "Pesticides Dealers License Report",
+  "desc": "Pesticides Dealers License Report",
+  "org_type": "State",
+  "org": [
+    "Karnataka",
+    "Agriculture Department, Karnataka"
+  ],
+  "sector": [
+    "Agriculture",
+    "Fertilizers"
+  ],
+  "source": "karnataka.data.gov.in",
+  "catalog_uuid": "cc32c383-dc12-4eea-8d99-0524707e2474",
+  "visualizable": "0",
+  "active": "1",
+  "created": 1757782280,
+  "updated": 1757782280,
+  "created_date": "2025-09-13T18:51:20Z",
+  "updated_date": "2025-09-13T18:51:20Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "cc32c383-dc12-4eea-8d99-0524707e2474",
+    "field": "8db62b11-d6a1-41bd-8d9d-5d560b47b8a6"
+  },
+  "field": [
+    {
+      "id": "sl_no",
+      "name": "Sl No",
+      "type": "double"
+    },
+    {
+      "id": "district",
+      "name": "District",
+      "type": "keyword"
+    },
+    {
+      "id": "taluk",
+      "name": "Taluk",
+      "type": "keyword"
+    },
+    {
+      "id": "pesticides_dealers__numbers_",
+      "name": "Pesticides Dealers (Numbers)",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 206,
+  "count": 206,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "sl_no": 1,
+      "district": "Belgaum",
+      "taluk": "Chikkodi",
+      "pesticides_dealers__numbers_": 139
+    },
+    {
+      "sl_no": 2,
+      "district": "Belgaum",
+      "taluk": "Athani",
+      "pesticides_dealers__numbers_": 182
+    },
+    {
+      "sl_no": 3,
+      "district": "Belgaum",
+      "taluk": "Raibag",
+      "pesticides_dealers__numbers_": 132
+    },
+    {
+      "sl_no": 4,
+      "district": "Belgaum",
+      "taluk": "Gokak",
+      "pesticides_dealers__numbers_": 170
+    },
+    {
+      "sl_no": 5,
+      "district": "Belgaum",
+      "taluk": "Hukkeri",
+      "pesticides_dealers__numbers_": 107
+    },
+    {
+      "sl_no": 6,
+      "district": "Belgaum",
+      "taluk": "Belgaum",
+      "pesticides_dealers__numbers_": 117
+    },
+    {
+      "sl_no": 7,
+      "district": "Belgaum",
+      "taluk": "Khanapur",
+      "pesticides_dealers__numbers_": 26
+    },
+    {
+      "sl_no": 8,
+      "district": "Belgaum",
+      "taluk": "Savadatti",
+      "pesticides_dealers__numbers_": 80
+    },
+    {
+      "sl_no": 9,
+      "district": "Belgaum",
+      "taluk": "Bailhongal",
+      "pesticides_dealers__numbers_": 51
+    },
+    {
+      "sl_no": 10,
+      "district": "Belgaum",
+      "taluk": "Ramadurg",
+      "pesticides_dealers__numbers_": 36
+    },
+    {
+      "sl_no": 11,
+      "district": "Belgaum",
+      "taluk": "Kittur",
+      "pesticides_dealers__numbers_": 23
+    },
+    {
+      "sl_no": 12,
+      "district": "Belgaum",
+      "taluk": "Nippani",
+      "pesticides_dealers__numbers_": 42
+    },
+    {
+      "sl_no": 13,
+      "district": "Bagalkot",
+      "taluk": "Jamakhandi",
+      "pesticides_dealers__numbers_": 118
+    },
+    {
+      "sl_no": 14,
+      "district": "Bagalkot",
+      "taluk": "Bilagi",
+      "pesticides_dealers__numbers_": 40
+    },
+    {
+      "sl_no": 15,
+      "district": "Bagalkot",
+      "taluk": "Mudhol",
+      "pesticides_dealers__numbers_": 98
+    },
+    {
+      "sl_no": 16,
+      "district": "Bagalkot",
+      "taluk": "Badami",
+      "pesticides_dealers__numbers_": 26
+    },
+    {
+      "sl_no": 17,
+      "district": "Bagalkot",
+      "taluk": "Bagalkot",
+      "pesticides_dealers__numbers_": 65
+    },
+    {
+      "sl_no": 18,
+      "district": "Bagalkot",
+      "taluk": "Hungund",
+      "pesticides_dealers__numbers_": 29
+    },
+    {
+      "sl_no": 19,
+      "district": "Bagalkot",
+      "taluk": "Guledagudda",
+      "pesticides_dealers__numbers_": 11
+    },
+    {
+      "sl_no": 20,
+      "district": "Bagalkot",
+      "taluk": "Illkal",
+      "pesticides_dealers__numbers_": 9
+    },
+    {
+      "sl_no": 21,
+      "district": "Vijayapura",
+      "taluk": "Bijapur",
+      "pesticides_dealers__numbers_": 107
+    },
+    {
+      "sl_no": 22,
+      "district": "Vijayapura",
+      "taluk": "Indi",
+      "pesticides_dealers__numbers_": 85
+    },
+    {
+      "sl_no": 23,
+      "district": "Vijayapura",
+      "taluk": "Sindagi",
+      "pesticides_dealers__numbers_": 164
+    },
+    {
+      "sl_no": 24,
+      "district": "Vijayapura",
+      "taluk": "Basvana Bagewadi",
+      "pesticides_dealers__numbers_": 46
+    },
+    {
+      "sl_no": 25,
+      "district": "Vijayapura",
+      "taluk": "Muddebihal",
+      "pesticides_dealers__numbers_": 48
+    },
+    {
+      "sl_no": 26,
+      "district": "Vijayapura",
+      "taluk": "Nidagundi",
+      "pesticides_dealers__numbers_": 51
+    },
+    {
+      "sl_no": 27,
+      "district": "Vijayapura",
+      "taluk": "Babaleshwar",
+      "pesticides_dealers__numbers_": 57
+    },
+    {
+      "sl_no": 28,
+      "district": "Vijayapura",
+      "taluk": "Chadachan",
+      "pesticides_dealers__numbers_": 44
+    },
+    {
+      "sl_no": 29,
+      "district": "Vijayapura",
+      "taluk": "Talikote",
+      "pesticides_dealers__numbers_": 22
+    },
+    {
+      "sl_no": 30,
+      "district": "Vijayapura",
+      "taluk": "Thikota",
+      "pesticides_dealers__numbers_": 62
+    },
+    {
+      "sl_no": 31,
+      "district": "Vijayapura",
+      "taluk": "Devarahipparagi",
+      "pesticides_dealers__numbers_": "0"
+    },
+    {
+      "sl_no": 32,
+      "district": "Vijayapura",
+      "taluk": "Kholar",
+      "pesticides_dealers__numbers_": "0"
+    },
+    {
+      "sl_no": 33,
+      "district": "Kalaburgi",
+      "taluk": "Aland",
+      "pesticides_dealers__numbers_": 66
+    },
+    {
+      "sl_no": 34,
+      "district": "Kalaburgi",
+      "taluk": "Afzalpur",
+      "pesticides_dealers__numbers_": 51
+    },
+    {
+      "sl_no": 35,
+      "district": "Kalaburgi",
+      "taluk": "Gulbarga",
+      "pesticides_dealers__numbers_": 117
+    },
+    {
+      "sl_no": 36,
+      "district": "Kalaburgi",
+      "taluk": "Chincholi",
+      "pesticides_dealers__numbers_": 54
+    },
+    {
+      "sl_no": 37,
+      "district": "Kalaburgi",
+      "taluk": "Sedam",
+      "pesticides_dealers__numbers_": 36
+    },
+    {
+      "sl_no": 38,
+      "district": "Kalaburgi",
+      "taluk": "Chittapur",
+      "pesticides_dealers__numbers_": 44
+    },
+    {
+      "sl_no": 39,
+      "district": "Kalaburgi",
+      "taluk": "Jevargi",
+      "pesticides_dealers__numbers_": 94
+    },
+    {
+      "sl_no": 40,
+      "district": "Kalaburgi",
+      "taluk": "Kalagi",
+      "pesticides_dealers__numbers_": 13
+    },
+    {
+      "sl_no": 41,
+      "district": "Kalaburgi",
+      "taluk": "Gulbarga North",
+      "pesticides_dealers__numbers_": 10
+    },
+    {
+      "sl_no": 42,
+      "district": "Kalaburgi",
+      "taluk": "Yedrami",
+      "pesticides_dealers__numbers_": 51
+    },
+    {
+      "sl_no": 43,
+      "district": "Bidar",
+      "taluk": "Basavakalyan",
+      "pesticides_dealers__numbers_": 66
+    },
+    {
+      "sl_no": 44,
+      "district": "Bidar",
+      "taluk": "Bhalki",
+      "pesticides_dealers__numbers_": 84
+    },
+    {
+      "sl_no": 45,
+      "district": "Bidar",
+      "taluk": "Aurad",
+      "pesticides_dealers__numbers_": 67
+    },
+    {
+      "sl_no": 46,
+      "district": "Bidar",
+      "taluk": "Bidar",
+      "pesticides_dealers__numbers_": 58
+    },
+    {
+      "sl_no": 47,
+      "district": "Bidar",
+      "taluk": "Humnabad",
+      "pesticides_dealers__numbers_": 41
+    },
+    {
+      "sl_no": 48,
+      "district": "Bidar",
+      "taluk": "Chitaguppa",
+      "pesticides_dealers__numbers_": 11
+    },
+    {
+      "sl_no": 49,
+      "district": "Raichur",
+      "taluk": "Lingasugur",
+      "pesticides_dealers__numbers_": 95
+    },
+    {
+      "sl_no": 50,
+      "district": "Raichur",
+      "taluk": "Devdurga",
+      "pesticides_dealers__numbers_": 157
+    },
+    {
+      "sl_no": 51,
+      "district": "Raichur",
+      "taluk": "Raichur",
+      "pesticides_dealers__numbers_": 270
+    },
+    {
+      "sl_no": 52,
+      "district": "Raichur",
+      "taluk": "Manvi",
+      "pesticides_dealers__numbers_": 231
+    },
+    {
+      "sl_no": 53,
+      "district": "Raichur",
+      "taluk": "Sindhanur",
+      "pesticides_dealers__numbers_": 287
+    },
+    {
+      "sl_no": 54,
+      "district": "Raichur",
+      "taluk": "Maski",
+      "pesticides_dealers__numbers_": 35
+    },
+    {
+      "sl_no": 55,
+      "district": "Koppal",
+      "taluk": "Yelburga",
+      "pesticides_dealers__numbers_": 37
+    },
+    {
+      "sl_no": 56,
+      "district": "Koppal",
+      "taluk": "Kushtagi",
+      "pesticides_dealers__numbers_": 50
+    },
+    {
+      "sl_no": 57,
+      "district": "Koppal",
+      "taluk": "Gangavathi",
+      "pesticides_dealers__numbers_": 208
+    },
+    {
+      "sl_no": 58,
+      "district": "Koppal",
+      "taluk": "Koppal",
+      "pesticides_dealers__numbers_": 74
+    },
+    {
+      "sl_no": 59,
+      "district": "Koppal",
+      "taluk": "Karatagi",
+      "pesticides_dealers__numbers_": 57
+    },
+    {
+      "sl_no": 60,
+      "district": "Gadag",
+      "taluk": "Naragund",
+      "pesticides_dealers__numbers_": 48
+    },
+    {
+      "sl_no": 61,
+      "district": "Gadag",
+      "taluk": "Ron",
+      "pesticides_dealers__numbers_": 28
+    },
+    {
+      "sl_no": 62,
+      "district": "Gadag",
+      "taluk": "Gadag",
+      "pesticides_dealers__numbers_": 55
+    },
+    {
+      "sl_no": 63,
+      "district": "Gadag",
+      "taluk": "Shirahatti",
+      "pesticides_dealers__numbers_": 16
+    },
+    {
+      "sl_no": 64,
+      "district": "Gadag",
+      "taluk": "Mundargi",
+      "pesticides_dealers__numbers_": 23
+    },
+    {
+      "sl_no": 65,
+      "district": "Gadag",
+      "taluk": "Gajendragad",
+      "pesticides_dealers__numbers_": 28
+    },
+    {
+      "sl_no": 66,
+      "district": "Gadag",
+      "taluk": "Lakshmeshwar",
+      "pesticides_dealers__numbers_": 21
+    },
+    {
+      "sl_no": 67,
+      "district": "Dharwad",
+      "taluk": "Dharwad",
+      "pesticides_dealers__numbers_": 77
+    },
+    {
+      "sl_no": 68,
+      "district": "Dharwad",
+      "taluk": "Navalgund",
+      "pesticides_dealers__numbers_": 59
+    },
+    {
+      "sl_no": 69,
+      "district": "Dharwad",
+      "taluk": "Hubli",
+      "pesticides_dealers__numbers_": 156
+    },
+    {
+      "sl_no": 70,
+      "district": "Dharwad",
+      "taluk": "Kalgatigi",
+      "pesticides_dealers__numbers_": 41
+    },
+    {
+      "sl_no": 71,
+      "district": "Dharwad",
+      "taluk": "Kundgol",
+      "pesticides_dealers__numbers_": 56
+    },
+    {
+      "sl_no": 72,
+      "district": "Uttar Kannada",
+      "taluk": "Karwar",
+      "pesticides_dealers__numbers_": 1
+    },
+    {
+      "sl_no": 73,
+      "district": "Uttar Kannada",
+      "taluk": "Joida",
+      "pesticides_dealers__numbers_": "0"
+    },
+    {
+      "sl_no": 74,
+      "district": "Uttar Kannada",
+      "taluk": "haliyal",
+      "pesticides_dealers__numbers_": 13
+    },
+    {
+      "sl_no": 75,
+      "district": "Uttar Kannada",
+      "taluk": "Yellapur",
+      "pesticides_dealers__numbers_": 6
+    },
+    {
+      "sl_no": 76,
+      "district": "Uttar Kannada",
+      "taluk": "Mundgod",
+      "pesticides_dealers__numbers_": 24
+    },
+    {
+      "sl_no": 77,
+      "district": "Uttar Kannada",
+      "taluk": "Sirsi",
+      "pesticides_dealers__numbers_": 21
+    },
+    {
+      "sl_no": 78,
+      "district": "Uttar Kannada",
+      "taluk": "Ankola",
+      "pesticides_dealers__numbers_": 2
+    },
+    {
+      "sl_no": 79,
+      "district": "Uttar Kannada",
+      "taluk": "Kumta",
+      "pesticides_dealers__numbers_": 4
+    },
+    {
+      "sl_no": 80,
+      "district": "Uttar Kannada",
+      "taluk": "Siddapur",
+      "pesticides_dealers__numbers_": 16
+    },
+    {
+      "sl_no": 81,
+      "district": "Uttar Kannada",
+      "taluk": "Honnavar",
+      "pesticides_dealers__numbers_": "0"
+    },
+    {
+      "sl_no": 82,
+      "district": "Uttar Kannada",
+      "taluk": "Bhatkal",
+      "pesticides_dealers__numbers_": 9
+    },
+    {
+      "sl_no": 83,
+      "district": "Haveri",
+      "taluk": "Shiggaon",
+      "pesticides_dealers__numbers_": 58
+    },
+    {
+      "sl_no": 84,
+      "district": "Haveri",
+      "taluk": "Savanur",
+      "pesticides_dealers__numbers_": 68
+    },
+    {
+      "sl_no": 85,
+      "district": "Haveri",
+      "taluk": "Hangal",
+      "pesticides_dealers__numbers_": 119
+    },
+    {
+      "sl_no": 86,
+      "district": "Haveri",
+      "taluk": "Haveri",
+      "pesticides_dealers__numbers_": 148
+    },
+    {
+      "sl_no": 87,
+      "district": "Haveri",
+      "taluk": "Byadagi",
+      "pesticides_dealers__numbers_": 86
+    },
+    {
+      "sl_no": 88,
+      "district": "Haveri",
+      "taluk": "Hirekerur",
+      "pesticides_dealers__numbers_": 124
+    },
+    {
+      "sl_no": 89,
+      "district": "Haveri",
+      "taluk": "Ranebennur",
+      "pesticides_dealers__numbers_": 141
+    },
+    {
+      "sl_no": 90,
+      "district": "Bellary",
+      "taluk": "hadagli",
+      "pesticides_dealers__numbers_": 44
+    },
+    {
+      "sl_no": 91,
+      "district": "Bellary",
+      "taluk": "HagariBommannaHalli",
+      "pesticides_dealers__numbers_": 42
+    },
+    {
+      "sl_no": 92,
+      "district": "Bellary",
+      "taluk": "Hospet",
+      "pesticides_dealers__numbers_": 88
+    },
+    {
+      "sl_no": 93,
+      "district": "Bellary",
+      "taluk": "Sirguppa",
+      "pesticides_dealers__numbers_": 155
+    },
+    {
+      "sl_no": 94,
+      "district": "Bellary",
+      "taluk": "Bellary",
+      "pesticides_dealers__numbers_": 324
+    },
+    {
+      "sl_no": 95,
+      "district": "Bellary",
+      "taluk": "Sandur",
+      "pesticides_dealers__numbers_": 16
+    },
+    {
+      "sl_no": 96,
+      "district": "Bellary",
+      "taluk": "Kudligi",
+      "pesticides_dealers__numbers_": 45
+    },
+    {
+      "sl_no": 97,
+      "district": "Bellary",
+      "taluk": "Kurugodu",
+      "pesticides_dealers__numbers_": 91
+    },
+    {
+      "sl_no": 98,
+      "district": "Bellary",
+      "taluk": "Harapanahalli",
+      "pesticides_dealers__numbers_": 68
+    },
+    {
+      "sl_no": 99,
+      "district": "Chitradurga",
+      "taluk": "Molakalmur",
+      "pesticides_dealers__numbers_": 24
+    },
+    {
+      "sl_no": 100,
+      "district": "Chitradurga",
+      "taluk": "Challakere",
+      "pesticides_dealers__numbers_": 62
+    },
+    {
+      "sl_no": 101,
+      "district": "Chitradurga",
+      "taluk": "Chitradurga",
+      "pesticides_dealers__numbers_": 93
+    },
+    {
+      "sl_no": 102,
+      "district": "Chitradurga",
+      "taluk": "Holalkere",
+      "pesticides_dealers__numbers_": 43
+    },
+    {
+      "sl_no": 103,
+      "district": "Chitradurga",
+      "taluk": "Hosdurga",
+      "pesticides_dealers__numbers_": 29
+    },
+    {
+      "sl_no": 104,
+      "district": "Chitradurga",
+      "taluk": "Hiiriyur",
+      "pesticides_dealers__numbers_": 37
+    },
+    {
+      "sl_no": 105,
+      "district": "Davangere",
+      "taluk": "Harihar",
+      "pesticides_dealers__numbers_": 122
+    },
+    {
+      "sl_no": 106,
+      "district": "Davangere",
+      "taluk": "Jagalur",
+      "pesticides_dealers__numbers_": 38
+    },
+    {
+      "sl_no": 107,
+      "district": "Davangere",
+      "taluk": "Davanagere",
+      "pesticides_dealers__numbers_": 318
+    },
+    {
+      "sl_no": 108,
+      "district": "Davangere",
+      "taluk": "Honnali",
+      "pesticides_dealers__numbers_": 120
+    },
+    {
+      "sl_no": 109,
+      "district": "Davangere",
+      "taluk": "Channagiri",
+      "pesticides_dealers__numbers_": 137
+    },
+    {
+      "sl_no": 110,
+      "district": "Shimoga",
+      "taluk": "Sagar",
+      "pesticides_dealers__numbers_": 48
+    },
+    {
+      "sl_no": 111,
+      "district": "Shimoga",
+      "taluk": "Sorab",
+      "pesticides_dealers__numbers_": 74
+    },
+    {
+      "sl_no": 112,
+      "district": "Shimoga",
+      "taluk": "Shikaripura",
+      "pesticides_dealers__numbers_": 125
+    },
+    {
+      "sl_no": 113,
+      "district": "Shimoga",
+      "taluk": "Hosanagar",
+      "pesticides_dealers__numbers_": 32
+    },
+    {
+      "sl_no": 114,
+      "district": "Shimoga",
+      "taluk": "Thirthalli",
+      "pesticides_dealers__numbers_": 26
+    },
+    {
+      "sl_no": 115,
+      "district": "Shimoga",
+      "taluk": "Shimoga",
+      "pesticides_dealers__numbers_": 114
+    },
+    {
+      "sl_no": 116,
+      "district": "Shimoga",
+      "taluk": "Bhadravathi",
+      "pesticides_dealers__numbers_": 71
+    },
+    {
+      "sl_no": 117,
+      "district": "Udupi",
+      "taluk": "Kundapura",
+      "pesticides_dealers__numbers_": 14
+    },
+    {
+      "sl_no": 118,
+      "district": "Udupi",
+      "taluk": "Udupi",
+      "pesticides_dealers__numbers_": 18
+    },
+    {
+      "sl_no": 119,
+      "district": "Udupi",
+      "taluk": "Karkala",
+      "pesticides_dealers__numbers_": 11
+    },
+    {
+      "sl_no": 120,
+      "district": "Udupi",
+      "taluk": "Byandur",
+      "pesticides_dealers__numbers_": 3
+    },
+    {
+      "sl_no": 121,
+      "district": "Udupi",
+      "taluk": "Brahmavara",
+      "pesticides_dealers__numbers_": 10
+    },
+    {
+      "sl_no": 122,
+      "district": "Chikmagalur",
+      "taluk": "Sringeri",
+      "pesticides_dealers__numbers_": 10
+    },
+    {
+      "sl_no": 123,
+      "district": "Chikmagalur",
+      "taluk": "Koppa",
+      "pesticides_dealers__numbers_": 14
+    },
+    {
+      "sl_no": 124,
+      "district": "Chikmagalur",
+      "taluk": "Narasimharajapura",
+      "pesticides_dealers__numbers_": 16
+    },
+    {
+      "sl_no": 125,
+      "district": "Chikmagalur",
+      "taluk": "Tarikere",
+      "pesticides_dealers__numbers_": 69
+    },
+    {
+      "sl_no": 126,
+      "district": "Chikmagalur",
+      "taluk": "Kadur",
+      "pesticides_dealers__numbers_": 70
+    },
+    {
+      "sl_no": 127,
+      "district": "Chikmagalur",
+      "taluk": "Chikmagalur",
+      "pesticides_dealers__numbers_": 100
+    },
+    {
+      "sl_no": 128,
+      "district": "Chikmagalur",
+      "taluk": "Mudigere",
+      "pesticides_dealers__numbers_": 23
+    },
+    {
+      "sl_no": 129,
+      "district": "Tumkur",
+      "taluk": "Chiknayakanahalli",
+      "pesticides_dealers__numbers_": 15
+    },
+    {
+      "sl_no": 130,
+      "district": "Tumkur",
+      "taluk": "Sira",
+      "pesticides_dealers__numbers_": 39
+    },
+    {
+      "sl_no": 131,
+      "district": "Tumkur",
+      "taluk": "Pavagada",
+      "pesticides_dealers__numbers_": 28
+    },
+    {
+      "sl_no": 132,
+      "district": "Tumkur",
+      "taluk": "Madhugiri",
+      "pesticides_dealers__numbers_": 13
+    },
+    {
+      "sl_no": 133,
+      "district": "Tumkur",
+      "taluk": "Koratagere",
+      "pesticides_dealers__numbers_": 19
+    },
+    {
+      "sl_no": 134,
+      "district": "Tumkur",
+      "taluk": "Tumkur",
+      "pesticides_dealers__numbers_": 65
+    },
+    {
+      "sl_no": 135,
+      "district": "Tumkur",
+      "taluk": "Gubbi",
+      "pesticides_dealers__numbers_": 29
+    },
+    {
+      "sl_no": 136,
+      "district": "Tumkur",
+      "taluk": "Tiptur",
+      "pesticides_dealers__numbers_": 22
+    },
+    {
+      "sl_no": 137,
+      "district": "Tumkur",
+      "taluk": "Turuvekere",
+      "pesticides_dealers__numbers_": 10
+    },
+    {
+      "sl_no": 138,
+      "district": "Tumkur",
+      "taluk": "Kunigal",
+      "pesticides_dealers__numbers_": 21
+    },
+    {
+      "sl_no": 139,
+      "district": "Kolar",
+      "taluk": "Srinivaspura",
+      "pesticides_dealers__numbers_": 75
+    },
+    {
+      "sl_no": 140,
+      "district": "Kolar",
+      "taluk": "Kolar",
+      "pesticides_dealers__numbers_": 65
+    },
+    {
+      "sl_no": 141,
+      "district": "Kolar",
+      "taluk": "Mallur",
+      "pesticides_dealers__numbers_": 68
+    },
+    {
+      "sl_no": 142,
+      "district": "Kolar",
+      "taluk": "Bangarpet",
+      "pesticides_dealers__numbers_": 48
+    },
+    {
+      "sl_no": 143,
+      "district": "Kolar",
+      "taluk": "Mulbagal",
+      "pesticides_dealers__numbers_": 60
+    },
+    {
+      "sl_no": 144,
+      "district": "Kolar",
+      "taluk": "K.G.F",
+      "pesticides_dealers__numbers_": 3
+    },
+    {
+      "sl_no": 145,
+      "district": "Bangalore Urban",
+      "taluk": "Bangalore North",
+      "pesticides_dealers__numbers_": 212
+    },
+    {
+      "sl_no": 146,
+      "district": "Bangalore Urban",
+      "taluk": "Bangalore South",
+      "pesticides_dealers__numbers_": 173
+    },
+    {
+      "sl_no": 147,
+      "district": "Bangalore Urban",
+      "taluk": "Anekal",
+      "pesticides_dealers__numbers_": 58
+    },
+    {
+      "sl_no": 148,
+      "district": "Bangalore Urban",
+      "taluk": "Bangalore-East",
+      "pesticides_dealers__numbers_": 80
+    },
+    {
+      "sl_no": 149,
+      "district": "Bangalore Urban",
+      "taluk": "Yalahanka",
+      "pesticides_dealers__numbers_": 50
+    },
+    {
+      "sl_no": 150,
+      "district": "Bangalore Rural",
+      "taluk": "Nelamangala",
+      "pesticides_dealers__numbers_": 31
+    },
+    {
+      "sl_no": 151,
+      "district": "Bangalore Rural",
+      "taluk": "Doddaballapura",
+      "pesticides_dealers__numbers_": 48
+    },
+    {
+      "sl_no": 152,
+      "district": "Bangalore Rural",
+      "taluk": "Devanahalli",
+      "pesticides_dealers__numbers_": 37
+    },
+    {
+      "sl_no": 153,
+      "district": "Bangalore Rural",
+      "taluk": "Hoskote",
+      "pesticides_dealers__numbers_": 68
+    },
+    {
+      "sl_no": 154,
+      "district": "Mandya",
+      "taluk": "K.R.Pet",
+      "pesticides_dealers__numbers_": 40
+    },
+    {
+      "sl_no": 155,
+      "district": "Mandya",
+      "taluk": "Nagmangala",
+      "pesticides_dealers__numbers_": 29
+    },
+    {
+      "sl_no": 156,
+      "district": "Mandya",
+      "taluk": "Pandavapura",
+      "pesticides_dealers__numbers_": 56
+    },
+    {
+      "sl_no": 157,
+      "district": "Mandya",
+      "taluk": "Srirangapatna",
+      "pesticides_dealers__numbers_": 34
+    },
+    {
+      "sl_no": 158,
+      "district": "Mandya",
+      "taluk": "Mandya",
+      "pesticides_dealers__numbers_": 63
+    },
+    {
+      "sl_no": 159,
+      "district": "Mandya",
+      "taluk": "Maddur",
+      "pesticides_dealers__numbers_": 31
+    },
+    {
+      "sl_no": 160,
+      "district": "Mandya",
+      "taluk": "Malavalli",
+      "pesticides_dealers__numbers_": 42
+    },
+    {
+      "sl_no": 161,
+      "district": "Hassan",
+      "taluk": "Sakleshpura",
+      "pesticides_dealers__numbers_": 36
+    },
+    {
+      "sl_no": 162,
+      "district": "Hassan",
+      "taluk": "Belur",
+      "pesticides_dealers__numbers_": 73
+    },
+    {
+      "sl_no": 163,
+      "district": "Hassan",
+      "taluk": "Arsikere",
+      "pesticides_dealers__numbers_": 67
+    },
+    {
+      "sl_no": 164,
+      "district": "Hassan",
+      "taluk": "Hassan",
+      "pesticides_dealers__numbers_": 140
+    },
+    {
+      "sl_no": 165,
+      "district": "Hassan",
+      "taluk": "Alur",
+      "pesticides_dealers__numbers_": 33
+    },
+    {
+      "sl_no": 166,
+      "district": "Hassan",
+      "taluk": "Arkalgud",
+      "pesticides_dealers__numbers_": 77
+    },
+    {
+      "sl_no": 167,
+      "district": "Hassan",
+      "taluk": "Holenarasipura",
+      "pesticides_dealers__numbers_": 33
+    },
+    {
+      "sl_no": 168,
+      "district": "Hassan",
+      "taluk": "Chanrayapatna",
+      "pesticides_dealers__numbers_": 33
+    },
+    {
+      "sl_no": 169,
+      "district": "Dakshina Kannada",
+      "taluk": "Mangalore",
+      "pesticides_dealers__numbers_": 33
+    },
+    {
+      "sl_no": 170,
+      "district": "Dakshina Kannada",
+      "taluk": "Bantwal",
+      "pesticides_dealers__numbers_": 15
+    },
+    {
+      "sl_no": 171,
+      "district": "Dakshina Kannada",
+      "taluk": "Belthangady",
+      "pesticides_dealers__numbers_": 28
+    },
+    {
+      "sl_no": 172,
+      "district": "Dakshina Kannada",
+      "taluk": "Puttur",
+      "pesticides_dealers__numbers_": 19
+    },
+    {
+      "sl_no": 173,
+      "district": "Dakshina Kannada",
+      "taluk": "Sullia",
+      "pesticides_dealers__numbers_": 14
+    },
+    {
+      "sl_no": 174,
+      "district": "Dakshina Kannada",
+      "taluk": "Mudabidre",
+      "pesticides_dealers__numbers_": 6
+    },
+    {
+      "sl_no": 175,
+      "district": "Dakshina Kannada",
+      "taluk": "Kadaba",
+      "pesticides_dealers__numbers_": 7
+    },
+    {
+      "sl_no": 176,
+      "district": "Kodagu",
+      "taluk": "Madikeri",
+      "pesticides_dealers__numbers_": 19
+    },
+    {
+      "sl_no": 177,
+      "district": "Kodagu",
+      "taluk": "Somawarpet",
+      "pesticides_dealers__numbers_": 58
+    },
+    {
+      "sl_no": 178,
+      "district": "Kodagu",
+      "taluk": "Virajpet",
+      "pesticides_dealers__numbers_": 32
+    },
+    {
+      "sl_no": 179,
+      "district": "Mysore",
+      "taluk": "Periyapatana",
+      "pesticides_dealers__numbers_": 67
+    },
+    {
+      "sl_no": 180,
+      "district": "Mysore",
+      "taluk": "Hunsur",
+      "pesticides_dealers__numbers_": 82
+    },
+    {
+      "sl_no": 181,
+      "district": "Mysore",
+      "taluk": "K.R.Nagar",
+      "pesticides_dealers__numbers_": 54
+    },
+    {
+      "sl_no": 182,
+      "district": "Mysore",
+      "taluk": "Mysore",
+      "pesticides_dealers__numbers_": 112
+    },
+    {
+      "sl_no": 183,
+      "district": "Mysore",
+      "taluk": "Heggadadevankote",
+      "pesticides_dealers__numbers_": 61
+    },
+    {
+      "sl_no": 184,
+      "district": "Mysore",
+      "taluk": "Nanjangud",
+      "pesticides_dealers__numbers_": 65
+    },
+    {
+      "sl_no": 185,
+      "district": "Mysore",
+      "taluk": "T-Narsipur",
+      "pesticides_dealers__numbers_": 46
+    },
+    {
+      "sl_no": 186,
+      "district": "Chamrajnagar",
+      "taluk": "Gundlupet",
+      "pesticides_dealers__numbers_": 44
+    },
+    {
+      "sl_no": 187,
+      "district": "Chamrajnagar",
+      "taluk": "ChamarajaNagara",
+      "pesticides_dealers__numbers_": 72
+    },
+    {
+      "sl_no": 188,
+      "district": "Chamrajnagar",
+      "taluk": "Yalandur",
+      "pesticides_dealers__numbers_": 10
+    },
+    {
+      "sl_no": 189,
+      "district": "Chamrajnagar",
+      "taluk": "Kollegala",
+      "pesticides_dealers__numbers_": 41
+    },
+    {
+      "sl_no": 190,
+      "district": "Chamrajnagar",
+      "taluk": "Hanur",
+      "pesticides_dealers__numbers_": 68
+    },
+    {
+      "sl_no": 191,
+      "district": "Chikkaballapur",
+      "taluk": "Gauribidanur",
+      "pesticides_dealers__numbers_": 35
+    },
+    {
+      "sl_no": 192,
+      "district": "Chikkaballapur",
+      "taluk": "Chikballapur",
+      "pesticides_dealers__numbers_": 80
+    },
+    {
+      "sl_no": 193,
+      "district": "Chikkaballapur",
+      "taluk": "Gudibande",
+      "pesticides_dealers__numbers_": 13
+    },
+    {
+      "sl_no": 194,
+      "district": "Chikkaballapur",
+      "taluk": "Bagepalli",
+      "pesticides_dealers__numbers_": 48
+    },
+    {
+      "sl_no": 195,
+      "district": "Chikkaballapur",
+      "taluk": "Sidlaghatta",
+      "pesticides_dealers__numbers_": 51
+    },
+    {
+      "sl_no": 196,
+      "district": "Chikkaballapur",
+      "taluk": "Chinthamani",
+      "pesticides_dealers__numbers_": 101
+    },
+    {
+      "sl_no": 197,
+      "district": "Ramnagar",
+      "taluk": "Magadi",
+      "pesticides_dealers__numbers_": 18
+    },
+    {
+      "sl_no": 198,
+      "district": "Ramnagar",
+      "taluk": "Ramanagar",
+      "pesticides_dealers__numbers_": 12
+    },
+    {
+      "sl_no": 199,
+      "district": "Ramnagar",
+      "taluk": "Channapatna",
+      "pesticides_dealers__numbers_": 15
+    },
+    {
+      "sl_no": 200,
+      "district": "Ramnagar",
+      "taluk": "Kanakpura",
+      "pesticides_dealers__numbers_": 16
+    },
+    {
+      "sl_no": 201,
+      "district": "Yadgir",
+      "taluk": "Yadgir",
+      "pesticides_dealers__numbers_": 96
+    },
+    {
+      "sl_no": 202,
+      "district": "Yadgir",
+      "taluk": "Shahapur",
+      "pesticides_dealers__numbers_": 204
+    },
+    {
+      "sl_no": 203,
+      "district": "Yadgir",
+      "taluk": "Shorapur",
+      "pesticides_dealers__numbers_": 125
+    },
+    {
+      "sl_no": 204,
+      "district": "Yadgir",
+      "taluk": "Gurmitkal",
+      "pesticides_dealers__numbers_": 31
+    },
+    {
+      "sl_no": 205,
+      "district": "Yadgir",
+      "taluk": "Vadagera",
+      "pesticides_dealers__numbers_": 39
+    },
+    {
+      "sl_no": 206,
+      "district": "Yadgir",
+      "taluk": "Hunisigi",
+      "pesticides_dealers__numbers_": 99
+    }
+  ]
+}

@@ -1,0 +1,383 @@
+{
+  "index_name": "c0673563-096c-4847-8c14-de616d109753",
+  "title": "Summary Results & Comparison With Third All India Census Of SSIs 2001-02: Unregistered Sector. (Fourth All India Census of MSME: Unregistered Sector)",
+  "desc": "Summary Results & Comparison With Third All India Census Of SSIs 2001-02: Unregistered Sector. (Fourth All India Census of MSME: Unregistered Sector)",
+  "created": 1503640889,
+  "updated": 1543533701,
+  "visualizable": "1",
+  "source": "data.gov.in",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Micro, Small and Medium Enterprises"
+  ],
+  "sector": [
+    "Micro"
+  ],
+  "catalog_uuid": "21149452-f58a-4d1e-a1f7-8646b50b13c7",
+  "status": "ok",
+  "field": [
+    {
+      "id": "__sl_no_",
+      "name": "Sl. No.",
+      "type": "double"
+    },
+    {
+      "id": "characteristics",
+      "name": "Characteristics",
+      "type": "keyword"
+    },
+    {
+      "id": "third_census_2001_02_numbers_",
+      "name": "Third Census (2001-02) (Numbers)",
+      "type": "keyword"
+    },
+    {
+      "id": "fourth_census_2006_07_numbers_",
+      "name": "Fourth Census (2006-07) (Numbers)",
+      "type": "double"
+    },
+    {
+      "id": "third_census_2001_02_percent_",
+      "name": "Third Census (2001-02)(Percent)",
+      "type": "double"
+    },
+    {
+      "id": "fourth_census_2006_07_percent_",
+      "name": "Fourth Census (2006-07)(Percent)",
+      "type": "double"
+    }
+  ],
+  "created_date": "2017-08-25T11:31:29Z",
+  "updated_date": "2018-11-30T04:51:41Z",
+  "active": "1",
+  "external_ws_url": "",
+  "external_ws": "0",
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "total": 40,
+  "count": 40,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "__sl_no_": "1",
+      "characteristics": "Size of the Sector(in Lakh)",
+      "third_census_2001_02_numbers_": "91.46",
+      "fourth_census_2006_07_numbers_": "198.74",
+      "third_census_2001_02_percent_": "100",
+      "fourth_census_2006_07_percent_": "100"
+    },
+    {
+      "__sl_no_": "2",
+      "characteristics": "Number of Rural Units(in Lakh)",
+      "third_census_2001_02_numbers_": "51.99",
+      "fourth_census_2006_07_numbers_": "119.69",
+      "third_census_2001_02_percent_": "56.84",
+      "fourth_census_2006_07_percent_": "60.22"
+    },
+    {
+      "__sl_no_": "3",
+      "characteristics": "Number of Urban Units(in Lakh)",
+      "third_census_2001_02_numbers_": "39.47",
+      "fourth_census_2006_07_numbers_": "79.05",
+      "third_census_2001_02_percent_": "43.16",
+      "fourth_census_2006_07_percent_": "39.78"
+    },
+    {
+      "__sl_no_": "4",
+      "characteristics": "Micro Enterprises(in Lakh)",
+      "third_census_2001_02_numbers_": "NA",
+      "fourth_census_2006_07_numbers_": "198.39",
+      "third_census_2001_02_percent_": "NA",
+      "fourth_census_2006_07_percent_": "99.83"
+    },
+    {
+      "__sl_no_": "5",
+      "characteristics": "Small Enterprises(in Lakh)",
+      "third_census_2001_02_numbers_": "NA",
+      "fourth_census_2006_07_numbers_": "0.35",
+      "third_census_2001_02_percent_": "NA",
+      "fourth_census_2006_07_percent_": "0.17"
+    },
+    {
+      "__sl_no_": "6",
+      "characteristics": "Number of Women Enterprises (in Lakh)",
+      "third_census_2001_02_numbers_": "9.26",
+      "fourth_census_2006_07_numbers_": "18.06",
+      "third_census_2001_02_percent_": "10.13",
+      "fourth_census_2006_07_percent_": "9.09"
+    },
+    {
+      "__sl_no_": "7",
+      "characteristics": "Nature of Activity : Manufacturing (in Lakh)",
+      "third_census_2001_02_numbers_": "33.03",
+      "fourth_census_2006_07_numbers_": "104.5",
+      "third_census_2001_02_percent_": "36.12",
+      "fourth_census_2006_07_percent_": "52.59"
+    },
+    {
+      "__sl_no_": "8",
+      "characteristics": "Nature of Activity : Repair and Maintenance (in Lakh)",
+      "third_census_2001_02_numbers_": "16.93",
+      "fourth_census_2006_07_numbers_": "12.31",
+      "third_census_2001_02_percent_": "18.5",
+      "fourth_census_2006_07_percent_": "6.19"
+    },
+    {
+      "__sl_no_": "9",
+      "characteristics": "Nature of Activity : Services (in Lakh)",
+      "third_census_2001_02_numbers_": "41.5",
+      "fourth_census_2006_07_numbers_": "81.93",
+      "third_census_2001_02_percent_": "45.38",
+      "fourth_census_2006_07_percent_": "41.22"
+    },
+    {
+      "__sl_no_": "10",
+      "characteristics": "Type of Organization :Proprietary  (in Lakh)",
+      "third_census_2001_02_numbers_": "88.63",
+      "fourth_census_2006_07_numbers_": "187.07",
+      "third_census_2001_02_percent_": "96.9",
+      "fourth_census_2006_07_percent_": "94.13"
+    },
+    {
+      "__sl_no_": "11",
+      "characteristics": "Type of Organization : Partnership  (in Lakh)",
+      "third_census_2001_02_numbers_": "1.04",
+      "fourth_census_2006_07_numbers_": "2.65",
+      "third_census_2001_02_percent_": "1.13",
+      "fourth_census_2006_07_percent_": "1.33"
+    },
+    {
+      "__sl_no_": "12",
+      "characteristics": "Type of Organization : Private Company  (in Lakh)",
+      "third_census_2001_02_numbers_": "0.38",
+      "fourth_census_2006_07_numbers_": "0.06",
+      "third_census_2001_02_percent_": "0.42",
+      "fourth_census_2006_07_percent_": "0.03"
+    },
+    {
+      "__sl_no_": "13",
+      "characteristics": "Type of Organization : Cooperatives  (in Lakh)",
+      "third_census_2001_02_numbers_": "0.09",
+      "fourth_census_2006_07_numbers_": "0.23",
+      "third_census_2001_02_percent_": "0.11",
+      "fourth_census_2006_07_percent_": "0.12"
+    },
+    {
+      "__sl_no_": "14",
+      "characteristics": "Type of Organization : Others (in Lakh)",
+      "third_census_2001_02_numbers_": "1.32",
+      "fourth_census_2006_07_numbers_": "8.73",
+      "third_census_2001_02_percent_": "1.44",
+      "fourth_census_2006_07_percent_": "4.39"
+    },
+    {
+      "__sl_no_": "15",
+      "characteristics": "Number of Units Owned by : SC (in Lakh)",
+      "third_census_2001_02_numbers_": "9.44",
+      "fourth_census_2006_07_numbers_": "22.61",
+      "third_census_2001_02_percent_": "10.32",
+      "fourth_census_2006_07_percent_": "11.38"
+    },
+    {
+      "__sl_no_": "16",
+      "characteristics": "Number of Units Owned by : ST (in Lakh)",
+      "third_census_2001_02_numbers_": "4.74",
+      "fourth_census_2006_07_numbers_": "10.3",
+      "third_census_2001_02_percent_": "5.19",
+      "fourth_census_2006_07_percent_": "5.18"
+    },
+    {
+      "__sl_no_": "17",
+      "characteristics": "Number of Units Owned by : OBC (in Lakh)",
+      "third_census_2001_02_numbers_": "38.11",
+      "fourth_census_2006_07_numbers_": "91.17",
+      "third_census_2001_02_percent_": "41.67",
+      "fourth_census_2006_07_percent_": "45.87"
+    },
+    {
+      "__sl_no_": "18",
+      "characteristics": "Number of Units Owned by : Others (in Lakh)",
+      "third_census_2001_02_numbers_": "39.17",
+      "fourth_census_2006_07_numbers_": "74.66",
+      "third_census_2001_02_percent_": "42.82",
+      "fourth_census_2006_07_percent_": "37.57"
+    },
+    {
+      "__sl_no_": "19",
+      "characteristics": "Number of Units Managed by Women",
+      "third_census_2001_02_numbers_": "8.81",
+      "fourth_census_2006_07_numbers_": "17.99",
+      "third_census_2001_02_percent_": "9.63",
+      "fourth_census_2006_07_percent_": "9.05"
+    },
+    {
+      "__sl_no_": "20",
+      "characteristics": "Main Source of Power : No Power Needed (in Lakh)",
+      "third_census_2001_02_numbers_": "38.55",
+      "fourth_census_2006_07_numbers_": "76.68",
+      "third_census_2001_02_percent_": "42.15",
+      "fourth_census_2006_07_percent_": "38.59"
+    },
+    {
+      "__sl_no_": "21",
+      "characteristics": "Main Source of Power : Coal (in Lakh)",
+      "third_census_2001_02_numbers_": "2.95",
+      "fourth_census_2006_07_numbers_": "3.57",
+      "third_census_2001_02_percent_": "3.23",
+      "fourth_census_2006_07_percent_": "1.79"
+    },
+    {
+      "__sl_no_": "22",
+      "characteristics": "Main Source of Power : Oil (in Lakh)",
+      "third_census_2001_02_numbers_": "5.55",
+      "fourth_census_2006_07_numbers_": "10.52",
+      "third_census_2001_02_percent_": "6.07",
+      "fourth_census_2006_07_percent_": "5.29"
+    },
+    {
+      "__sl_no_": "23",
+      "characteristics": "Main Source of Power : LPG (in Lakh)",
+      "third_census_2001_02_numbers_": "0.55",
+      "fourth_census_2006_07_numbers_": "1.18",
+      "third_census_2001_02_percent_": "0.6",
+      "fourth_census_2006_07_percent_": "0.59"
+    },
+    {
+      "__sl_no_": "24",
+      "characteristics": "Main Source of Power : Electricity (in Lakh)",
+      "third_census_2001_02_numbers_": "40.25",
+      "fourth_census_2006_07_numbers_": "95.74",
+      "third_census_2001_02_percent_": "44.01",
+      "fourth_census_2006_07_percent_": "48.18"
+    },
+    {
+      "__sl_no_": "25",
+      "characteristics": "Main Source of Power : Non-Conventional Energy (in Lakh)",
+      "third_census_2001_02_numbers_": "0.61",
+      "fourth_census_2006_07_numbers_": "0.57",
+      "third_census_2001_02_percent_": "0.66",
+      "fourth_census_2006_07_percent_": "0.29"
+    },
+    {
+      "__sl_no_": "26",
+      "characteristics": "Main Source of Power : Traditional Energy/Firewood (in Lakh)",
+      "third_census_2001_02_numbers_": "3",
+      "fourth_census_2006_07_numbers_": "3.88",
+      "third_census_2001_02_percent_": "3.28",
+      "fourth_census_2006_07_percent_": "1.95"
+    },
+    {
+      "__sl_no_": "27",
+      "characteristics": "Main Source of Power : Others (in Lakh)",
+      "third_census_2001_02_numbers_": "Null",
+      "fourth_census_2006_07_numbers_": "6.6",
+      "third_census_2001_02_percent_": "0",
+      "fourth_census_2006_07_percent_": "3.32"
+    },
+    {
+      "__sl_no_": "28",
+      "characteristics": "Total Employment(in Lakh)",
+      "third_census_2001_02_numbers_": "187.69",
+      "fourth_census_2006_07_numbers_": "408.84",
+      "third_census_2001_02_percent_": "NA",
+      "fourth_census_2006_07_percent_": "NA"
+    },
+    {
+      "__sl_no_": "29",
+      "characteristics": "Total Original Value of P&M (in  Crore)",
+      "third_census_2001_02_numbers_": "24564.92",
+      "fourth_census_2006_07_numbers_": "94639.6",
+      "third_census_2001_02_percent_": "NA",
+      "fourth_census_2006_07_percent_": "NA"
+    },
+    {
+      "__sl_no_": "30",
+      "characteristics": "Per Unit Original Value of P&M ((in  Lakh)",
+      "third_census_2001_02_numbers_": "0.27",
+      "fourth_census_2006_07_numbers_": "0.48",
+      "third_census_2001_02_percent_": "NA",
+      "fourth_census_2006_07_percent_": "NA"
+    },
+    {
+      "__sl_no_": "31",
+      "characteristics": "Total Fixed Investment  (in  Crore)",
+      "third_census_2001_02_numbers_": "62556.6",
+      "fourth_census_2006_07_numbers_": "240816.46",
+      "third_census_2001_02_percent_": "NA",
+      "fourth_census_2006_07_percent_": "NA"
+    },
+    {
+      "__sl_no_": "32",
+      "characteristics": "Per Unit Fixed Investment (in   Lakh)",
+      "third_census_2001_02_numbers_": "0.68",
+      "fourth_census_2006_07_numbers_": "1.21",
+      "third_census_2001_02_percent_": "NA",
+      "fourth_census_2006_07_percent_": "NA"
+    },
+    {
+      "__sl_no_": "33",
+      "characteristics": "Per Unit Employment",
+      "third_census_2001_02_numbers_": "2.05",
+      "fourth_census_2006_07_numbers_": "2.06",
+      "third_census_2001_02_percent_": "NA",
+      "fourth_census_2006_07_percent_": "NA"
+    },
+    {
+      "__sl_no_": "34",
+      "characteristics": "Gross Output (in  Crore)",
+      "third_census_2001_02_numbers_": "79015.36",
+      "fourth_census_2006_07_numbers_": "369702.59",
+      "third_census_2001_02_percent_": "NA",
+      "fourth_census_2006_07_percent_": "NA"
+    },
+    {
+      "__sl_no_": "35",
+      "characteristics": "Per Unit Gross Output (in  Lakh)",
+      "third_census_2001_02_numbers_": "0.86",
+      "fourth_census_2006_07_numbers_": "1.86",
+      "third_census_2001_02_percent_": "NA",
+      "fourth_census_2006_07_percent_": "NA"
+    },
+    {
+      "__sl_no_": "36",
+      "characteristics": "Gross Output per  one lakh Fixed Investment(in  lakh)",
+      "third_census_2001_02_numbers_": "1.26",
+      "fourth_census_2006_07_numbers_": "1.54",
+      "third_census_2001_02_percent_": "NA",
+      "fourth_census_2006_07_percent_": "NA"
+    },
+    {
+      "__sl_no_": "37",
+      "characteristics": "Gross Output per  one lakh Original Value of P&M(in  lakh)",
+      "third_census_2001_02_numbers_": "3.22",
+      "fourth_census_2006_07_numbers_": "3.9",
+      "third_census_2001_02_percent_": "NA",
+      "fourth_census_2006_07_percent_": "NA"
+    },
+    {
+      "__sl_no_": "38",
+      "characteristics": "Employment per one lakh Fixed Investment",
+      "third_census_2001_02_numbers_": "3",
+      "fourth_census_2006_07_numbers_": "1.7",
+      "third_census_2001_02_percent_": "NA",
+      "fourth_census_2006_07_percent_": "NA"
+    },
+    {
+      "__sl_no_": "39",
+      "characteristics": "Employment per one lakh Original Value of P&M",
+      "third_census_2001_02_numbers_": "7.64",
+      "fourth_census_2006_07_numbers_": "4.32",
+      "third_census_2001_02_percent_": "NA",
+      "fourth_census_2006_07_percent_": "NA"
+    },
+    {
+      "__sl_no_": "40",
+      "characteristics": "Employment per one lakh Gross Output",
+      "third_census_2001_02_numbers_": "2.38",
+      "fourth_census_2006_07_numbers_": "1.11",
+      "third_census_2001_02_percent_": "NA",
+      "fourth_census_2006_07_percent_": "NA"
+    }
+  ]
+}

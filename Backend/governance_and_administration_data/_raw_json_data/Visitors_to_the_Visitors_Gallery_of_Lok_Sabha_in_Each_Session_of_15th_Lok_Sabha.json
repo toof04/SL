@@ -1,0 +1,102 @@
+{
+  "index_name": "cd079600-026b-46d9-9af1-6ac5944b008c",
+  "title": "Visitors to the Visitors Gallery of Lok Sabha in Each Session of 15th Lok Sabha",
+  "desc": "Visitors to the Visitors Gallery of Lok Sabha in Each Session of 15th Lok Sabha",
+  "org_type": "Central",
+  "org": [
+    "Lok Sabha Secretariat"
+  ],
+  "sector": [
+    "Parliament Of india",
+    "Governance and Administration",
+    "Lok Sabha"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "9ba2c4a6-3b1a-4076-b79a-848c837c4630",
+  "visualizable": "0",
+  "active": "1",
+  "created": 1759229532,
+  "updated": 1759229532,
+  "created_date": "2025-09-30T12:52:12Z",
+  "updated_date": "2025-09-30T12:52:12Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "9ba2c4a6-3b1a-4076-b79a-848c837c4630",
+    "field": "cd079600-026b-46d9-9af1-6ac5944b008c"
+  },
+  "field": [
+    {
+      "id": "sessions",
+      "name": "Sessions",
+      "type": "keyword"
+    },
+    {
+      "id": "no__of_visitors_passes_issued_during_the_session",
+      "name": "No. of Visitors Passes Issued During the Session",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 13,
+  "count": 13,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "sessions": "First",
+      "no__of_visitors_passes_issued_during_the_session": 4911
+    },
+    {
+      "sessions": "Second",
+      "no__of_visitors_passes_issued_during_the_session": 13589
+    },
+    {
+      "sessions": "Third",
+      "no__of_visitors_passes_issued_during_the_session": 14168
+    },
+    {
+      "sessions": "Fourth",
+      "no__of_visitors_passes_issued_during_the_session": 24752
+    },
+    {
+      "sessions": "Fifth",
+      "no__of_visitors_passes_issued_during_the_session": 16230
+    },
+    {
+      "sessions": "Sixth",
+      "no__of_visitors_passes_issued_during_the_session": 6775
+    },
+    {
+      "sessions": "Seventh",
+      "no__of_visitors_passes_issued_during_the_session": 15628
+    },
+    {
+      "sessions": "Eighth",
+      "no__of_visitors_passes_issued_during_the_session": 15091
+    },
+    {
+      "sessions": "Ninth",
+      "no__of_visitors_passes_issued_during_the_session": 13820
+    },
+    {
+      "sessions": "Tenth",
+      "no__of_visitors_passes_issued_during_the_session": 23081
+    },
+    {
+      "sessions": "Eleventh",
+      "no__of_visitors_passes_issued_during_the_session": 15000
+    },
+    {
+      "sessions": "Twelfth",
+      "no__of_visitors_passes_issued_during_the_session": 13000
+    },
+    {
+      "sessions": "Thirteenth",
+      "no__of_visitors_passes_issued_during_the_session": 22424
+    }
+  ]
+}

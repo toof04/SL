@@ -1,0 +1,492 @@
+S.No.,"Division/Seat No.","Name of Member","Lok Sabha",Session,State,Constituency,"Total Sittings","No. of days member signed the register"
+1,3,"Smt.  Sonia  Gandhi                                            ",15,2,"Uttar Pradesh                                               ","Rae Barelii",26,20
+2,10,"Shri  Kapil  Sibal                                             ",15,2,"Delhi                                                       ","Chandni Chowk",26,M
+3,11,"Shri  Ajit  Singh                                             ",15,2,"Uttar Pradesh                                               ",Baghpat,26,M
+4,14,"Shri  Paban Singh  Ghatowar                                          ",15,2,"Assam                                                       ",Dibrugarh,26,M
+5,18,"Kumari    Selja                                             ",15,2,"Haryana                                                     ",Ambala,26,M
+6,24,"Shri  V. Kishore Chandra S.  Deo                                               ",15,2,"Andhra Pradesh                                              ",Araku,26,M
+7,25,"Shri  Beni Prasad  Verma                                             ",15,2,"Uttar Pradesh                                               ",Gonda,26,M
+8,26,"Shri  Dinsha  Patel                                             ",15,2,"Gujarat                                                     ",Kheda,26,M
+9,29,"Shri  Harish  Rawat                                             ",15,2,"Uttarakhand                                                 ",Hardwar,26,M
+10,30,"Smt.  Chandresh  Kumari                                            ",15,2,"Rajasthan                                                   ",Jodhpur,26,M
+11,32,"Prof.  K.V.  Thomas                                            ",15,2,"Kerala                                                      ",Ernakulam,26,M
+12,34,"Shri  Jyotiraditya Madhavrao  Scindia                                           ",15,2,"Madhya Pradesh                                              ",Guna,26,M
+13,38,"Shri  Jitender  Singh                                             ",15,2,"Haryana                                                     ",Sonipat,26,M
+14,39,"Shri  Manish  Tewari                                            ",15,2,"Punjab                                                      ",Ludhiana,26,M
+15,41,"Shri  Mullappally  Ramachandran                                      ",15,2,"Kerala                                                      ",Vadakara,26,M
+16,48,"Smt.    Preneet Kaur                                      ",15,2,"Punjab                                                      ",Patiala,26,M
+17,52,"Dr.  Tusharbhai   A.  Chaudhari                                         ",15,2,"Gujarat                                                     ",Bardoli,26,M
+18,53,"Shri  Pratik  Patil                                             ",15,2,"Maharashtra                                                 ",Sangli,26,M
+19,54,"Shri  R.P.N.  Singh                                             ",15,2,"Uttar Pradesh                                               ","Khushi Nagar",26,M
+20,55,"Dr.  Shashi  Tharoor                                           ",15,2,"Kerala                                                      ",Thiruvananthapuram,26,M
+21,57,"Shri  K. C.  Venugopal                                         ",15,2,"Kerala                                                      ",Alappuzha,26,M
+22,58,"Dr.  Charan Das  Mahant                                            ",15,2,"Chhattisgarh                                                ",Korba,26,M
+23,59,"Shri  Milind  Deora                                             ",15,2,"Maharashtra                                                 ",Mumbai-South,26,M
+24,60,"Shri    Kodikunnil  Suresh                                ",15,2,"Kerala                                                      ",Mavelikkara,26,M
+25,61,"Shri  Rahul  Gandhi                                            ",15,2,"Uttar Pradesh                                               ",Amethi,26,20
+26,62,"Shri  K. J.S.P.  Reddy                                             ",15,2,"Andhra Pradesh                                              ",Kurnool,26,M
+27,63,"Shri  A.H.   Khan  Choudhury                                         ",15,2,"West Bengal                                                 ","Maldaha Dakshin",26,M
+28,64,"Shri  Adhir Ranjan  Chowdhury                                         ",15,2,"West Bengal                                                 ",Baharampur,26,M
+29,65,"Smt.  Ranee  Narah                                             ",15,2,"Assam                                                       ",Lakhimpur,26,M
+30,66,"Shri   Sarvey  Sathyanarayana                                    ",15,2,"Andhra Pradesh                                              ",Malkajgiri,26,M
+31,67,"Shri  Ninong  Ering                                             ",15,2,"Arunachal Pradesh                                           ","Arunachal East",26,M
+32,68,"Smt.  Deepa  Dasmunsi                                          ",15,2,"West Bengal                                                 ",Raiganj,26,M
+33,69,"Shri  P.  Balram  Naik                                      ",15,2,"Andhra Pradesh                                              ",Mahabubabad,26,M
+34,70,"Dr.  Krupa Rani  Killi                                             ",15,2,"Andhra Pradesh                                              ",Srikakulam,26,M
+35,71,"Shri  Lal Chand  Kataria                                           ",15,2,"Rajasthan                                                   ","Jaipur Rural",26,M
+36,72,"Shri  Sandeep  Dikshit                                           ",15,2,"Delhi                                                       ","East Delhi",26,25
+37,73,"Shri  J.M.  Aaron Rashid                                      ",15,2,"Tamil Nadu                                                  ",Theni,26,18
+38,74,"Shri  Arun  Yadav                                             ",15,2,"Madhya Pradesh                                              ",Khandwa,26,M
+39,75,"Shri  Naveen  Jindal                                            ",15,2,"Haryana                                                     ",Kurukshetra,26,20
+40,76,"Shri  Madhu Goud  Yaskhi                                            ",15,2,"Andhra Pradesh                                              ",Nizamabad,26,24
+41,77,"Shri  Satpal  Maharaj                                           ",15,2,"Uttarakhand                                                 ",Garhwal,26,25
+42,78,"Shri  Vijay  Bahuguna                                          ",15,2,"Uttarakhand                                                 ","Tehri Garhwal",26,23
+43,78,"Shri  Vincent H.  Pala                                              ",15,2,"Meghalaya                                                   ",Shillong,26,M
+44,79,"Shri  Madan Lal  Sharma                                            ",15,2,"Jammu and Kashmir                                           ",Jammu,26,24
+45,80,"Chaudhary  Lal  Singh                                             ",15,2,"Jammu and Kashmir                                           ",Udhampur,26,21
+46,81,"Shri  Mohammed  Azharuddin                                        ",15,2,"Uttar Pradesh                                               ",Moradabad,26,21
+47,82,"Shri  Hamdullah  Sayeed                                            ",15,2,"Lakshadweep                                                 ",Lakshadweep,26,26
+48,83,"Shri  Ashok  Tanwar                                            ",15,2,"Haryana                                                     ",Sirsa,26,23
+49,84,"Shri  K.C.  Singh Baba                                        ",15,2,"Uttarakhand                                                 ","Nainital-Udhamsingh Nagar",26,18
+50,85,"Shri  Vijay Inder  Singla                                            ",15,2,"Punjab                                                      ",Sangrur,26,M
+51,88,"Shri  Sabbam  Hari                                              ",15,2,"Andhra Pradesh                                              ",Anakapalli,26,26
+52,89,"Shri  Ravneet  Singh                                             ",15,2,"Punjab                                                      ","Anandpur Sahib",26,17
+53,90,"Shri  Mahabal  Mishra                                            ",15,2,"Delhi                                                       ","West Delhi",26,23
+54,91,"Shri  Ramesh  Kumar                                             ",15,2,"Delhi                                                       ","South Delhi",26,26
+55,92,"Shri  Ismail Hussain  ",15,2,"Assam                                                       ",Barpeta,26,25
+56,93,"Shri  Mohammad Asrarul  Haque                                             ",15,2,"Bihar                                                       ",Kishanganj,26,22
+57,94,"Shri  Takam  Sanjoy                                            ",15,2,"Arunachal Pradesh                                           ","Arunachal West",26,22
+58,97,"Shri  P.  Viswanathan                                       ",15,2,"Tamil Nadu                                                  ",Kancheepuram,26,24
+59,98,"Shri  Sheesh Ram  Ola                                               ",15,2,"Rajasthan                                                   ",Jhunjhunu,26,24
+60,99,"Shri  T.R.  Baalu                                             ",15,2,"Tamil Nadu                                                  ",Sriperumbudur,26,22
+61,100,"Shri  Vilasrao Baburao  Muttemwar                                         ",15,2,"Maharashtra                                                 ",Nagpur,26,25
+62,101,"Shri  Manikrao Hodlya  Gavit                                             ",15,2,"Maharashtra                                                 ",Nandurbar,26,M
+63,102,"Shri  Suresh  Kalmadi                                           ",15,2,"Maharashtra                                                 ",Pune,26,22
+64,103,"Shri  Bijoy Krishna  Handique                                          ",15,2,"Assam                                                       ",Jorhat,26,M
+65,106,"Dr.    Chinta Mohan                                      ",15,2,"Andhra Pradesh                                              ",Tirupati,26,26
+66,107,"Shri  Biren Singh  Engti                                             ",15,2,"Assam                                                       ","Autonomous District",26,26
+67,108,"Dr.  Kavuri Samba Siva  Rao                                               ",15,2,"Andhra Pradesh                                              ",Eluru,26,23
+68,110,"Shri  Jai Prakash  Agarwal                                           ",15,2,"Delhi                                                       ","North East Delhi",26,26
+69,112,"Shri  Datta  Meghe                                             ",15,2,"Maharashtra                                                 ",Wardha,26,23
+70,113,"Shri   Rayapati S.  Rao                                               ",15,2,"Andhra Pradesh                                              ",Guntur,26,18
+71,115,"Dr.  Manda  Jagannath                                         ",15,2,"Andhra Pradesh                                              ",Nagarkurnool,26,21
+72,116,"Shri  A. Venkatarami  Reddy                                             ",15,2,"Andhra Pradesh                                              ",Anantapur,26,23
+73,117,"Shri  Somabhai Gandalal Koli  Patel                                             ",15,2,"Gujarat                                                     ",Surendranagar,26,21
+74,118,"Shri  Avtar Singh  Bhadana                                           ",15,2,"Haryana                                                     ",Faridabad,26,11
+75,119,"Shri  P.C.  Chacko                                            ",15,2,"Kerala                                                      ",Thrissur,26,26
+76,120,"Dr.  Girija  Vyas                                              ",15,2,"Rajasthan                                                   ",Chittorgarh,26,24
+77,121,"Shri  Inderjit Singh  Rao                                              ",15,2,"Haryana                                                     ",Gurgaon,26,20
+78,123,"Shri  Sanjay  Nirupam                                           ",15,2,"Maharashtra                                                 ",Mumbai-North,26,25
+79,124,"Shri  Dip  Gogoi                                             ",15,2,"Assam                                                       ",Kaliabor,26,22
+80,125,"Shri  Subodh Kant  Sahay                                             ",15,2,"Jharkhand                                                   ",Ranchi,26,M
+81,126,"Shri  Francisco  Sardinha                                          ",15,2,"Goa                                                         ","South Goa",26,25
+82,127,"Shri  Magunta Srinivasulu  Reddy                                             ",15,2,"Andhra Pradesh                                              ",Ongole,26,16
+83,128,"Shri  N.S.V.  Chitthan                                          ",15,2,"Tamil Nadu                                                  ",Dindigul,26,23
+84,129,"Dr.  Arvind Kumar  Sharma                                            ",15,2,"Haryana                                                     ",Karnal,26,20
+85,130,"Dr.  Sanjay  Singh                                             ",15,2,"Uttar Pradesh                                               ",Sultanpur,26,20
+86,131,"Shri  Jayant  Chaudhary                                         ",15,2,"Uttar Pradesh                                               ",Mathura,26,19
+87,132,"Shri  Bhaskarrao  Patil  Khatgaonkar  ",15,2,"Maharashtra                                                 ",Nanded,26,18
+88,133,"Shri  Deepender Singh  Hooda                                             ",15,2,"Haryana                                                     ",Rohtak,26,17
+89,134,"Shri  Bhakta Charan  Das                                               ",15,2,"Orissa                                                      ",Kalahandi,26,25
+90,135,"Shri  Tarachand  Bhagora                                           ",15,2,"Rajasthan                                                   ",Banswara,26,22
+91,136,"Km.  Agatha K.  Sangma                                            ",15,2,"Meghalaya                                                   ",Tura,26,M
+92,137,"Rajkumari  Ratna  Singh                                             ",15,2,"Uttar Pradesh                                               ",Pratapgarh,26,22
+93,138,"Smt.  Priya  Dutt                                              ",15,2,"Maharashtra                                                 ",Mumbai-North-Central,26,18
+94,139,"Smt.  Santosh  Chowdhary                                         ",15,2,"Punjab                                                      ",Hoshiarpur,26,23
+95,140,"Sardar  Sukhdev  Singh    Libra                                    ",15,2,"Punjab                                                      ","Fategarh Sabhib",26,26
+96,141,"Shri  Gajendra Singh  Rajukhedi                                         ",15,2,"Madhya Pradesh                                              ",Dhar,26,21
+97,142,"Shri  Sanjay Singh  Chauhan                                           ",15,2,"Uttar Pradesh                                               ",Bijnor,26,19
+98,143,"Shri  Anjan Kumar  Yadav. M                                          ",15,2,"Andhra Pradesh                                              ",Secunderabad,26,11
+99,144,"Shri  Gutha  Sukender Reddy                                    ",15,2,"Andhra Pradesh                                              ",Nalgonda,26,21
+100,145,"Shri  G.V.  Harsha Kumar                                      ",15,2,"Andhra Pradesh                                              ",Amalapuram,26,21
+101,146,"Shri  Aruna Kumar  Vundavalli                                        ",15,2,"Andhra Pradesh                                              ",Rajahmundry,26,26
+102,147,"Shri  S.P.Y.  Reddy                                             ",15,2,"Andhra Pradesh                                              ",Nandyal,26,15
+103,148,"Shri  Lalit  Mohan  Suklabaidya                                       ",15,2,"Assam                                                       ",Karimganj,26,24
+104,149,"Shri  Vikrambhai Arjanbhai  Maadam    Ahir                                    ",15,2,"Gujarat                                                     ",Jamnagar,26,18
+105,150,"Shri    Lagadapati   Rajagopal                            ",15,2,"Andhra Pradesh                                              ",Vijayawada,26,21
+106,151,"Smt.    Botcha Jhansi Lakshmi                             ",15,2,"Andhra Pradesh                                              ",Vizianagaram,26,23
+107,153,"Shri    Bapiraju  Kanumuru                                ",15,2,"Andhra Pradesh                                              ",Narsapuram,26,25
+108,154,"Shri  Kishan V.  Patel                                             ",15,2,"Gujarat                                                     ",Valsad,26,24
+109,155,"Shri  Eknath  Gaikwad                                           ",15,2,"Maharashtra                                                 ",Mumbai-South-Central,26,26
+110,156,"Dr.  Thokchom  Meinya                                            ",15,2,"Manipur                                                     ","Inner Manipur",26,26
+111,157,"Shri  M.  Krishnaswamy                                      ",15,2,"Tamil Nadu                                                  ",Arani,26,25
+112,158,"Dr.  Nirmal  Khatri                                            ",15,2,"Uttar Pradesh                                               ",Faizabad,26,26
+113,160,"Smt.  Shruti  Choudhry                                          ",15,2,"Haryana                                                     ",Bhiwani-Mahendragarh,26,23
+114,161,"Dr.  Prabha Kishore  Taviad                                            ",15,2,"Gujarat                                                     ",Dahod,26,26
+115,162,"Smt.  Rajesh Nandini  Singh                                             ",15,2,"Madhya Pradesh                                              ",Shahdol,26,26
+116,163,"Ms.  Mausam  Noor                                              ",15,2,"West Bengal                                                 ","Maldaha Uttar",26,16
+117,164,"Smt.  Sarika  D.S. Baghel                                       ",15,2,"Uttar Pradesh                                               ",Hathras,26,18
+118,165,"Smt.  Annu  Tandon                                            ",15,2,"Uttar Pradesh                                               ",Unnao,26,25
+119,166,"Smt.  Meenakshi  Natrajan                                          ",15,2,"Madhya Pradesh                                              ",Mandsour,26,17
+120,167,"Dr.  Jyoti  Mirdha                                            ",15,2,"Rajasthan                                                   ",Nagaur,26,25
+121,168,"Shri  Devendra  Nagpal                                            ",15,2,"Uttar Pradesh                                               ",Amroha,26,12
+122,169,"Shri  Manicka  Tagore                                            ",15,2,"Tamil Nadu                                                  ",Virudhunagar,26,22
+123,170,"Shri  Prabhakar  Ponnam                                            ",15,2,"Andhra Pradesh                                              ",Karimnagar,26,25
+124,171,"Shri  Sajjan Singh  Verma                                             ",15,2,"Madhya Pradesh                                              ",Dewas,26,24
+125,172,"Shri  Abdul Mannan  Hossain                                           ",15,2,"West Bengal                                                 ",Murshidabad,26,16
+126,173,"Shri  S.  Alagiri                                           ",15,2,"Tamil Nadu                                                  ",Cuddalore,26,22
+127,174,"Shri  Basori Singh  Masram                                            ",15,2,"Madhya Pradesh                                              ",Mandla,26,18
+128,175,"Shri  Kuvarjibhai Mohanbhai  Bavalia                                           ",15,2,"Gujarat                                                     ",Rajkot,26,21
+129,176,"Shri   Vitthalbhai  Harnsrajbhai   Radadiya                           ",15,2,"Gujarat                                                     ",Porbandar,26,8
+130,177,"Dr.  G.  Vivekanand                                        ",15,2,"Andhra Pradesh                                              ",Peddapalle,26,21
+131,178,"Shri  Suresh Kumar  Shetkar                                           ",15,2,"Andhra Pradesh                                              ",Zahirabad,26,24
+132,179,"Shri  Mukeshkumar  Bheiravdanji  Gadhvi                              ",15,2,"Gujarat                                                     ",Banaskantha,26,18
+133,180,"Shri  Jagdish  Thakor                                            ",15,2,"Gujarat                                                     ",Patan,26,15
+134,181,"Shri  Adagooru  Vishwanath                                        ",15,2,"Karnataka                                                   ",Mysore,26,21
+135,182,"Shri  R.  Dhruvanarayana                                    ",15,2,"Karnataka                                                   ",Chamrajanagar,26,18
+136,183,"Shri  K.  Sudhakaran                                        ",15,2,"Kerala                                                      ",Kannur,26,19
+137,185,"Shri  M. K.  Raghavan                                          ",15,2,"Kerala                                                      ",Kozhikode,26,22
+138,186,"Shri  K. P.  Dhanapalan                                        ",15,2,"Kerala                                                      ",Chalakudy,26,26
+139,187,"Shri  Dara Singh  Chauhan                                           ",15,2,"Uttar Pradesh                                               ",Ghosi,26,24
+140,188,"Shri    Lalu Prasad                                       ",15,2,"Bihar                                                       ",Saran,26,24
+141,189,"Shri  Shibu  Soren                                             ",15,2,"Jharkhand                                                   ",Dumka,26,5
+142,190,"Shri  T.K.S.  Elangovan                                         ",15,2,"Tamil Nadu                                                  ","Chennai North",26,26
+143,191,"Shri  Sudip  Bandyopadhyay                                     ",15,2,"West Bengal                                                 ","Kolkata Uttar",26,21
+144,192,"Smt.  Supriya  Sule                                              ",15,2,"Maharashtra                                                 ",Baramati,26,18
+145,193,"Shri   Udayanraje  Bhonsle                                          ",15,2,"Maharashtra                                                 ",Satara,26,16
+146,194,"Shri  Sameer  Bhujbal                                           ",15,2,"Maharashtra                                                 ",Nashik,26,13
+147,195,"Shri  D.  Venugopal                                         ",15,2,"Tamil Nadu                                                  ",Tiruvannamalai,26,22
+148,196,"Shri  Kalyan  Banerjee                                          ",15,2,"West Bengal                                                 ",Sreerampur,26,21
+149,197,"Shri  A.K.S.  Vijayan                                           ",15,2,"Tamil Nadu                                                  ",Nagapattinam,26,17
+150,198,"Shri  E.G.  Sugavanam                                         ",15,2,"Tamil Nadu                                                  ",Krisnagiri,26,8
+151,199,"Shri    Adhi Sankar                                       ",15,2,"Tamil Nadu                                                  ",Kallakurichi,26,19
+152,200,"Dr.  Sanjeev Ganesh  Naik                                              ",15,2,"Maharashtra                                                 ",Thane,26,26
+153,201,"Shri  Asaduddin  Owaisi                                            ",15,2,"Andhra Pradesh                                              ",Hyderabad,26,20
+154,202,"Shri  Sansuma Khunggur  Bwiswmuthiary                                     ",15,2,"Assam                                                       ",Kokrajhar,26,23
+155,203,"Dr.  Raghuvansh Prasad  Singh                                             ",15,2,"Bihar                                                       ",Vaishali,26,26
+156,204,"Shri  Hassan  Khan                                              ",15,2,"Jammu and Kashmir                                           ",Ladakh,26,26
+157,205,"Shri  Sadashivrao Dadoba  Mandlik                                           ",15,2,"Maharashtra                                                 ",Kolhapur,26,14
+158,206,"Shri  R.  Thamaraiselvan                                    ",15,2,"Tamil Nadu                                                  ",Dharmapuri,26,24
+159,207,"Shri    Abdul Rahman                                      ",15,2,"Tamil Nadu                                                  ",Vellore,26,22
+160,208,"Shri  Somendranath  Mitra                                             ",15,2,"West Bengal                                                 ","Diamond Harbour",26,12
+161,210,"Shri  Badruddin  Ajmal                                             ",15,2,"Assam                                                       ",Dhubri,26,18
+162,211,"Shri  Babu Lal  Marandi                                           ",15,2,"Jharkhand                                                   ",Kodarma,26,13
+163,212,"Shri  Mirza Mehboob  Beg                                               ",15,2,"Jammu and Kashmir                                           ",Anantnag,26,21
+164,213,"Shri  Jagdambika  Pal                                               ",15,2,"Uttar Pradesh                                               ",Domariyaganj,26,25
+165,214,"Shri  N.Dharam  Singh                                             ",15,2,"Karnataka                                                   ",Bidar,26,23
+166,215,"Shri  H.D.  Kumaraswamy                                       ",15,2,"Karnataka                                                   ","Bangalore Rural",26,12
+167,217,"Dr.  Kakoli Ghosh  Dastidar                                          ",15,2,"West Bengal                                                 ",Barasat,26,14
+168,218,"Shri  K. R. G.  Reddy                                             ",15,2,"Andhra Pradesh                                              ",Bhongir,26,23
+169,219,"Shri  Rajaiah  Siricilla                                         ",15,2,"Andhra Pradesh                                              ",Warangal,26,26
+170,220,"Shri  Jitendra  Singh Malik                                       ",15,2,"Rajasthan                                                   ",Alwar,26,19
+171,221,"Shri  P.L.  Punia                                             ",15,2,"Uttar Pradesh                                               ",Barabanki,26,26
+172,222,"Shri  Kamal  Kishor   Commando                                 ",15,2,"Uttar Pradesh                                               ",Bahraich,26,26
+173,223,"Dr.  Vinay Kumar  Panday \"Vinnu\"                                    ",15,2,"Uttar Pradesh                                               ",Shrawasti,26,24
+174,224,"Shri  Harsh  Vardhan                                           ",15,2,"Uttar Pradesh                                               ",Maharajganj,26,21
+175,225,"Shri  Praveen Singh  Aron                                              ",15,2,"Uttar Pradesh                                               ",Bareilly,26,25
+176,226,"Shri  Pradeep  Tamta                                             ",15,2,"Uttarakhand                                                 ",Almora,26,26
+177,227,"Shri  S. S.  Ramasubbu                                         ",15,2,"Tamil Nadu                                                  ",Tirunelveli,26,25
+178,228,"Shri  Sharief Ud Din  Shariq                                            ",15,2,"Jammu and Kashmir                                           ",Baramulla,26,22
+179,229,"Shri  Mahesh  Joshi                                             ",15,2,"Rajasthan                                                   ",Jaipur,26,26
+180,230,"Shri  Ijyaraj  Singh                                             ",15,2,"Rajasthan                                                   ",Kota,26,25
+181,231,"Shri  E. T. Muhammed  Basheer                                           ",15,2,"Kerala                                                      ",Ponnani,26,23
+182,232,"Shri  Gopal  Singh  Shekhawat                                  ",15,2,"Rajasthan                                                   ",Rajsamand,26,23
+183,233,"Shri  Raghuvir Singh  Meena                                             ",15,2,"Rajasthan                                                   ",Udaipur,26,25
+184,234,"Shri  Harish  Choudhary                                         ",15,2,"Rajasthan                                                   ",Barmer,26,25
+185,235,"Shri  Badri Ram  Jakhar                                            ",15,2,"Rajasthan                                                   ",Pali,26,24
+186,236,"Shri  Khiladi Lal  Bairwa                                            ",15,2,"Rajasthan                                                   ",Karauli-Dholpur,26,23
+187,237,"Shri  Ratan  Singh                                             ",15,2,"Rajasthan                                                   ",Bharatpur,26,24
+188,238,"Shri  Raja Ram  Pal                                               ",15,2,"Uttar Pradesh                                               ",Akbarpur,26,23
+189,239,"Shri  Bharat Ram  Meghwal                                           ",15,2,"Rajasthan                                                   ",Ganganagar,26,25
+190,240,"Shri  Zafar Ali  Naqvi                                             ",15,2,"Uttar Pradesh                                               ",Kheri,26,26
+191,243,"Shri  Mohinder Singh  Kaypee                                            ",15,2,"Punjab                                                      ",Jalandhar,26,16
+192,244,"Shri  Partap Singh  Bajwa                                             ",15,2,"Punjab                                                      ",Gurdaspur,26,7
+193,245,"Adv.  P. T.  Thomas                                            ",15,2,"Kerala                                                      ",Idukki,26,26
+194,246,"Shri  M. I.  Shanavas                                          ",15,2,"Kerala                                                      ",Wayanad,26,21
+195,247,"Shri  Anto  Antony                                            ",15,2,"Kerala                                                      ",Pathanamthitta,26,24
+196,248,"Shri  N.  Peethambarakurup                                  ",15,2,"Kerala                                                      ",Kollam,26,17
+197,249,"Shri  Om Prakash  Yadav                                             ",15,2,"Bihar                                                       ",Siwan,26,18
+198,250,"Shri    Sivakumar @  Ritheesh                             ",15,2,"Tamil Nadu                                                  ",Ramanthapuram,26,11
+199,251,"Shri  Sanjay Dina  Patil                                             ",15,2,"Maharashtra                                                 ",Mumbai-North-East,26,17
+200,252,"Shri  Narayan Singh  Amlabe                                            ",15,2,"Madhya Pradesh                                              ",Rajgarh,26,25
+201,253,"Shri  Jose K.  Mani                                              ",15,2,"Kerala                                                      ",Kottayam,26,26
+202,255,"Shri  N. Cheluvaraya Swamy  ",15,2,"Karnataka                                                   ",Mandya,26,18
+203,256,"Shri  Thol Thirumaavalavan  ",15,2,"Tamil Nadu                                                  ",Chidambaram,26,16
+204,257,"Shri  Prem Das  Rai                                               ",15,2,"Sikkim                                                      ",Sikkim,26,26
+205,258,"Shri  C. M.  Chang                                             ",15,2,"Nagaland                                                    ",Nagaland,26,23
+206,259,"Shri   Baliram  Jadhav                                          ",15,2,"Maharashtra                                                 ",Palghar,26,26
+207,260,"Shri  Jagada Nand  Singh                                             ",15,2,"Bihar                                                       ",Buxar,26,24
+208,261,"Shri  Uma Shanaker  Singh                                             ",15,2,"Bihar                                                       ",Maharajganj,26,25
+209,262,"Smt.  J. Helen Davidson  ",15,2,"Tamil Nadu                                                  ",Kanniyakumari,26,24
+210,263,"Shri  S. R.  Jeyadurai                                         ",15,2,"Tamil Nadu                                                  ",Thoothukkudi,26,15
+211,264,"Shri  Uday Pratap  Singh                                             ",15,2,"Madhya Pradesh                                              ",Hoshangabad,26,19
+212,265,"Shri  Premchand  Guddu                                             ",15,2,"Madhya Pradesh                                              ",Ujjain,26,22
+213,266,"Shri  Marotrao  Sainuji   Kowase                                  ",15,2,"Maharashtra                                                 ",Gadchiroli-Chimur,26,24
+214,267,"Shri   Suresh  Kashinath   Taware                                ",15,2,"Maharashtra                                                 ",Bhiwandi,26,21
+215,268,"Shri  Jaywant  Gangaram   Awale                                  ",15,2,"Maharashtra                                                 ",Latur,26,21
+216,269,"Dr.  Nilesh N.  Rane                                              ",15,2,"Maharashtra                                                 ",Ratnagiri-Sindhudurg,26,23
+217,270,"Shri  Thangso  Baite                                             ",15,2,"Manipur                                                     ","Outer Manipur",26,26
+218,271,"Shri  Pradeep  Majhi                                             ",15,2,"Orissa                                                      ",Nabarangpur,26,23
+219,272,"Shri  Amarnath  Pradhan                                           ",15,2,"Orissa                                                      ",Sambalpur,26,24
+220,273,"Shri  Hemanand  Biswal                                            ",15,2,"Orissa                                                      ",Sundargarh,26,24
+221,274,"Shri  Sanjay  Bhoi                                              ",15,2,"Orissa                                                      ",Bargarh,26,26
+222,275,"Shri  C. L.  Ruala                                             ",15,2,"Mizoram                                                     ",Mizoram,26,26
+223,276,"Shri  Mulayam Singh  Yadav                                             ",15,2,"Uttar Pradesh                                               ",Mainpuri,26,21
+224,277,"Shri  H.D.  Devegowda                                         ",15,2,"Karnataka                                                   ",Hassan,26,16
+225,278,"Kunwar  Rewati Raman  Singh                                             ",15,2,"Uttar Pradesh                                               ",Allahabad,26,25
+226,279,"Dr.    Bali Ram                                          ",15,2,"Uttar Pradesh                                               ",Lalganj,26,25
+227,280,"Shri  Gurudas  Das Gupta                                         ",15,2,"West Bengal                                                 ",Ghatal,26,26
+228,282,"Prof.  Saugata  Ray                                               ",15,2,"West Bengal                                                 ","Dum Dum",26,16
+229,283,"Shri  Shailendra  Kumar                                             ",15,2,"Uttar Pradesh                                               ","Kaushambi ",26,26
+230,284,"Shri  Bhisma  Shankar Alias Kushal Tiwari                       ",15,2,"Uttar Pradesh                                               ","Sant Kabir Nagar",26,22
+231,285,"Dr.  M.  Thambidurai                                       ",15,2,"Tamil Nadu                                                  ",Karur,26,25
+232,286,"Shri  Akhilesh  Yadav                                             ",15,2,"Uttar Pradesh                                               ",Kannauj,26,17
+233,287,"Shri  Ashok Kumar  Rawat                                             ",15,2,"Uttar Pradesh                                               ",Misrikh,26,22
+234,288,"Dr.  Shafiqur Rahman  Barq                                              ",15,2,"Uttar Pradesh                                               ",Sambhal,26,25
+235,289,"Shri  Baju Ban  Riyan                                             ",15,2,"Tripura                                                     ","Tripura East",26,21
+236,290,"Shri  S.  Semmalai                                          ",15,2,"Tamil Nadu                                                  ",Salem,26,24
+237,291,"Shri  Kalyan  Singh                                             ",15,2,"Uttar Pradesh                                               ",Etah,26,22
+238,292,"Shri  Brij Bhushan Sharan  Singh                                             ",15,2,"Uttar Pradesh                                               ",Kaiserganj,26,25
+239,293,"Shri  Tufani  Saroj                                             ",15,2,"Uttar Pradesh                                               ",Machhlishahr,26,25
+240,294,"Shri  Jagdish Singh  Rana                                              ",15,2,"Uttar Pradesh                                               ",Saharanpur,26,25
+241,295,"Shri  Vijay Bahadur  Singh                                             ",15,2,"Uttar Pradesh                                               ",Hamirpur,26,22
+242,296,"Dr.  Ram Chandra  Dome                                              ",15,2,"West Bengal                                                 ",Bolpur,26,23
+243,297,"Shri  Khagen  Das                                               ",15,2,"Tripura                                                     ","Tripura West",26,9
+244,298,"Shri  O. S.  Manian                                            ",15,2,"Tamil Nadu                                                  ",Mayiladuthurai,26,18
+245,299,"Shri  R.K. Singh  Patel                                             ",15,2,"Uttar Pradesh                                               ",Banda,26,22
+246,300,"Smt.  Sushila  Saroj                                             ",15,2,"Uttar Pradesh                                               ",Mohanlalganj,26,24
+247,301,"Smt.  Seema  Upadhyay                                          ",15,2,"Uttar Pradesh                                               ","Fatehpur Sikri",26,21
+248,302,"  Smt. Tabassum  Hasan  ",15,2,"Uttar Pradesh                                               ",Kairana,26,21
+249,303,"Shri  Prabodh  Panda                                             ",15,2,"West Bengal                                                 ",Medinipur,26,26
+250,304,"Shri  Bansagopal  Chowdhury                                         ",15,2,"West Bengal                                                 ",Asansol,26,18
+251,305,"Shri  P.  Venugopal                                         ",15,2,"Tamil Nadu                                                  ",Tiruvallur,26,24
+252,306,"Shri    Bhajan Lal                                        ",15,2,"Haryana                                                     ",Hisar,26,10
+253,306,"Shri  C.  Rajendran                                         ",15,2,"Tamil Nadu                                                  ","Chennai South",26,22
+254,307,"Shri  Madhu  Koda                                              ",15,2,"Jharkhand                                                   ",Singhbhum,26,18
+255,308,"  Choudhury Mohan  Jatua                                             ",15,2,"West Bengal                                                 ",Mathurapur,26,2
+256,309,"Shri  S.K. Nurul  Islam                                             ",15,2,"West Bengal                                                 ",Basirhat,26,14
+257,310,"Shri    Ramkishun                                         ",15,2,"Uttar Pradesh                                               ",Chandauli,26,35
+258,311,"Shri  Rakesh  Sachan                                            ",15,2,"Uttar Pradesh                                               ",Fatehpur,26,25
+259,312,"Smt.  Raj Kumari  Chauhan                                           ",15,2,"Uttar Pradesh                                               ",Aligarh,26,23
+260,313,"Smt.  Kaisar  Jahan                                             ",15,2,"Uttar Pradesh                                               ",Sitapur,26,12
+261,314,"Shri  P.R.  Natarajan                                         ",15,2,"Tamil Nadu                                                  ",Coimbatore,26,19
+262,315,"Adv.  A.  Sampath                                           ",15,2,"Kerala                                                      ",Attingal,26,22
+263,316,"Shri  Manohar  Tirkey                                            ",15,2,"West Bengal                                                 ",Alipurduars,26,19
+264,317,"Shri  M.  Anandan                                           ",15,2,"Tamil Nadu                                                  ",Viluppuram,26,26
+265,318,"Shri  Dinesh  Trivedi                                           ",15,2,"West Bengal                                                 ",Barrackpur,26,22
+266,319,"Shri  Gobinda Chandra  Naskar                                            ",15,2,"West Bengal                                                 ",Bangaon,26,24
+267,320,"Shri  Premdas  Katheria                                          ",15,2,"Uttar Pradesh                                               ",Etawah,26,23
+268,321,"Shri  Dharmendra  Yadav                                             ",15,2,"Uttar Pradesh                                               ",Badaun,26,24
+269,322,"Shri  Neeraj  Shekhar                                           ",15,2,"Uttar Pradesh                                               ",Ballia,26,25
+270,323,"Shri    Gorakhnath  Pandey                                ",15,2,"Uttar Pradesh                                               ","Bhadohi ",26,25
+271,324,"Shri  Dhananjay  Singh                                             ",15,2,"Uttar Pradesh                                               ",Jaunpur,26,15
+272,325,"Smt.  Susmita  Bauri                                             ",15,2,"West Bengal                                                 ",Bishnupur,26,25
+273,326,"Dr.  Anup Kumar  Saha                                              ",15,2,"West Bengal                                                 ","Bardhaman Purba",26,26
+274,327,"Shri  Pulin Bihari  Baske                                             ",15,2,"West Bengal                                                 ",Jhargram,26,26
+275,328,"Shri  K.  Sugumar                                           ",15,2,"Tamil Nadu                                                  ",Pollachi,26,25
+276,330,"Shri    Suvendu   Adhikari                                ",15,2,"West Bengal                                                 ",Tamluk,26,8
+277,331,"Smt.  Usha  Verma                                             ",15,2,"Uttar Pradesh                                               ",Hardoi,26,21
+278,332,"Shri  Bal Kumar  Patel                                             ",15,2,"Uttar Pradesh                                               ",Mirzapur,26,23
+279,333,"Shri  Rakesh  Pandey                                            ",15,2,"Uttar Pradesh                                               ","Ambedkar Nagar",26,25
+280,334,"Shri  Gorakh Prasad  Jaiswal                                           ",15,2,"Uttar Pradesh                                               ",Deoria,26,22
+281,335,"Sk.   Saidul  Haque                                             ",15,2,"West Bengal                                                 ",Bardhaman-Durgapur,26,25
+282,336,"Shri  Mahendra Kumar  Roy                                               ",15,2,"West Bengal                                                 ",Jalpaiguri,26,18
+283,337,"Shri  C.  Sivasami                                          ",15,2,"Tamil Nadu                                                  ",Tiruppur,26,23
+284,338,"Smt.  Satabdi  Roy                                               ",15,2,"West Bengal                                                 ",Birbhum,26,23
+285,339,"Shri  Tapas  Paul                                              ",15,2,"West Bengal                                                 ",Krishnanagar,26,23
+286,340,"Dr.  Sucharu Ranjan  Haldar                                            ",15,2,"West Bengal                                                 ",Ranaghat,26,22
+287,341,"Shri  Pakauri  Lal                                               ",15,2,"Uttar Pradesh                                               ",Robertsganj,26,24
+288,342,"Shri  Ghanshyam  Anuragi                                           ",15,2,"Uttar Pradesh                                               ",Jalaun,26,26
+289,343,"Shri  Kamlesh  Balmiki                                           ",15,2,"Uttar Pradesh                                               ",Bulandshahr,26,20
+290,344,"Shri  Arvind Kumar  Chaudhary                                         ",15,2,"Uttar Pradesh                                               ",Basti,26,26
+291,345,"Shri  Deoraj Singh  Patel                                             ",15,2,"Madhya Pradesh                                              ",Rewa,26,18
+292,346,"Shri  Ramashankar  Rajbhar                                           ",15,2,"Uttar Pradesh                                               ",Salempur,26,24
+293,347,"Shri  P. K.  Biju                                              ",15,2,"Kerala                                                      ",Alathur,26,24
+294,348,"Shri  M. B.  Rajesh                                            ",15,2,"Kerala                                                      ",Palakkad,26,26
+295,349,"Shri  P.  Lingam                                            ",15,2,"Tamil Nadu                                                  ",Tenkasi,26,26
+296,350,"Shri  P.  Kumar                                             ",15,2,"Tamil Nadu                                                  ",Tiruchirappalli,26,26
+297,352,"Dr.  Ratna  De (Nag)                                          ",15,2,"West Bengal                                                 ",Hooghly,26,24
+298,353,"Shri  Kabir  Suman                                             ",15,2,"West Bengal                                                 ",Jadavpur,26,19
+299,354,"Shri    Mithlesh Kumar                                    ",15,2,"Uttar Pradesh                                               ",Shahjahanpur,26,21
+300,355,"Shri  Yashvir  Singh                                             ",15,2,"Uttar Pradesh                                               ",Nagina,26,24
+301,356,"Shri  Radhey Mohan  Singh                                             ",15,2,"Uttar Pradesh                                               ",Ghazipur,26,21
+302,357,"Shri  Kapil Muni  Karwariya                                         ",15,2,"Uttar Pradesh                                               ",Phulpur,26,23
+303,358,"Shri  Surendra Singh  Nagar                                             ",15,2,"Uttar Pradesh                                               ","Gautam Buddha Nagar",26,23
+304,359,"Shri  Kadir  Rana                                              ",15,2,"Uttar Pradesh                                               ",Muzaffarnagar,26,8
+305,360,"Shri  Bibhu Prasad  Tarai                                             ",15,2,"Orissa                                                      ",Jagatsinghpur,26,26
+306,361,"Shri  Sakti  Mohan   Malik                                     ",15,2,"West Bengal                                                 ",Arambagh,26,26
+307,362,"Shri  Prasanta Kumar  Majumdar                                          ",15,2,"West Bengal                                                 ",Balurghat,26,20
+308,363,"Shri  Mekapati Rajamohan  Reddy                                             ",15,2,"Andhra Pradesh                                              ",Nellore,26,20
+309,364,"Dr.  Tarun  Mondal                                            ",15,2,"West Bengal                                                 ",Joynagar,26,19
+310,365,"Shri  Basudeb  Acharia                                           ",15,2,"West Bengal                                                 ",Bankura,26,25
+311,366,"Shri  Sharad  Yadav                                             ",15,2,"Bihar                                                       ",Madhepura,26,23
+312,367,"Shri  Arjun Charan  Sethi                                             ",15,2,"Orissa                                                      ",Bhadrak,26,26
+313,368,"Shri  Anant Gangaram  Geete                                             ",15,2,"Maharashtra                                                 ",Raigad,26,22
+314,369,"Shri  Ram Sundar  Das                                               ",15,2,"Bihar                                                       ",Hajipur,26,26
+315,370,"Shri  Bhartruhari  Mahtab                                            ",15,2,"Orissa                                                      ",Cuttack,26,26
+316,371,"Shri  P.  Karunakaran                                       ",15,2,"Kerala                                                      ",Kasaragod,26,20
+317,372,"Shri  Chandrakant  Khaire                                            ",15,2,"Maharashtra                                                 ",Aurangabad,26,13
+318,373,"Shri  Anandrao  Adsul                                             ",15,2,"Maharashtra                                                 ",Amravati,26,M
+319,374,"Shri  Rajiv Ranjan  Singh  @ Lalan Singh                              ",15,2,"Bihar                                                       ",Munger,26,26
+320,375,"Shri  K. Chandrasekhar  Rao                                               ",15,2,"Andhra Pradesh                                              ",Mahabubnagar,26,1
+321,376,"Dr.  Rattan Singh  Ajnala                                            ",15,2,"Punjab                                                      ","Khadoor Sahib",26,23
+322,377,"Shri  Prasanna  Kumar Patasani                                    ",15,2,"Orissa                                                      ",Bhubaneswar,26,24
+323,378,"Smt.  Bhavana  Gawali                                            ",15,2,"Maharashtra                                                 ",Yavatmal-Washim,26,13
+324,379,"Shri  Dinesh Chandra  Yadav                                             ",15,2,"Bihar                                                       ",Khagaria,26,26
+325,380,"Shri   Mangani Lal  Mandal                                            ",15,2,"Bihar                                                       ",Jhanjharpur,26,24
+326,381,"Shri  Digvijay  Singh                                             ",15,2,"Bihar                                                       ",Banka,26,25
+327,381,"Shri  Inder Singh  Namdhari                                          ",15,2,"Jharkhand                                                   ",Chatra,26,23
+328,382,"Smt.  Jaya Prada  Nahata                                            ",15,2,"Uttar Pradesh                                               ",Rampur,26,15
+329,383,"Shri  Tathagata  Satpathy                                          ",15,2,"Orissa                                                      ",Dhenkanal,26,26
+330,384,"Shri  Shivaji  Adhalrao Patil                                    ",15,2,"Maharashtra                                                 ",Shirur,26,11
+331,385,"Dr.  Ranjan Prasad  Yadav                                             ",15,2,"Bihar                                                       ",Pataliputra,26,21
+332,386,"Capt.(Retd.)  Jainarayan Prasad  Nishad                                            ",15,2,"Bihar                                                       ",Muzaffarpur,26,23
+333,387,"Dr.  Monazir  Hassan                                            ",15,2,"Bihar                                                       ",Begusarai,26,25
+334,388,"Shri  Nama Nageswara  Rao                                               ",15,2,"Andhra Pradesh                                              ",Khammam,26,26
+335,389,"Smt.  Harsimrat Kaur  Badal                                             ",15,2,"Punjab                                                      ",Bathinda,26,10
+336,390,"Smt.  Paramjit Kaur  Gulshan                                           ",15,2,"Punjab                                                      ",Faridkot,26,24
+337,391,"Shri  Mohan  Jena                                              ",15,2,"Orissa                                                      ",Jajpur,26,22
+338,392,"Shri  Anand Prakash  Paranjpe                                          ",15,2,"Maharashtra                                                 ",Kalyan,26,15
+339,393,"Shri  Jagdish  Sharma                                            ",15,2,"Bihar                                                       ",Jahanabad,26,21
+340,394,"Shri  Sushil Kumar  Singh                                             ",15,2,"Bihar                                                       ",Aurangabad,26,24
+341,396,"Shri  Narahari  Mahato                                            ",15,2,"West Bengal                                                 ",Purulia,26,20
+342,397,"Shri  Ramesh  Rathod                                            ",15,2,"Andhra Pradesh                                              ",Adilabad,26,16
+343,398,"Ms.  M. Vijaya  Shanthi                                           ",15,2,"Andhra Pradesh                                              ",Medak,26,6
+344,399,"Shri  Pinaki  Misra                                             ",15,2,"Orissa                                                      ",Puri,26,20
+345,400,"Shri  Baijayant  Panda                                             ",15,2,"Orissa                                                      ",Kendrapara,26,18
+346,402,"Shri  Vishwa Mohan  Kumar                                             ",15,2,"Bihar                                                       ",Supaul,26,22
+347,403,"Shri  Baidyanath Prasad  Mahto                                             ",15,2,"Bihar                                                       ","Valmiki Nagar",26,21
+348,404,"Shri  Angadi Suresh  Channabasappa                                     ",15,2,"Karnataka                                                   ",Belgaum,26,20
+349,405,"Shri  Ramen  Deka                                              ",15,2,"Assam                                                       ",Mangaldoi,26,15
+350,406,"Smt.    Rama Devi                                         ",15,2,"Bihar                                                       ",Sheohar,26,21
+351,407,"Shri  Nripendra Nath  Roy                                               ",15,2,"West Bengal                                                 ","Cooch Behar",26,17
+352,408,"Shri  K. Narayana  Rao                                               ",15,2,"Andhra Pradesh                                              ",Machilipatnam,26,23
+353,409,"Shri  Jayaram  Pangi                                             ",15,2,"Orissa                                                      ",Koraput,26,23
+354,410,"Shri  Rudramadhab  Ray                                               ",15,2,"Orissa                                                      ",Kandhamal,26,24
+355,411,"Shri  A.  Ganeshamurthi                                     ",15,2,"Tamil Nadu                                                  ",Erode,26,21
+356,412,"Shri   Prataprao  Ganpatrao Jadhav                                  ",15,2,"Maharashtra                                                 ",Buldhana,26,12
+357,413,"Shri  Arjun  Roy                                               ",15,2,"Bihar                                                       ",Sitamarhi,26,19
+358,414,"Smt.  Aswamedh  Devi                                              ",15,2,"Bihar                                                       ",Ujiarpur,26,24
+359,415,"Shri  P. C.  Mohan                                             ",15,2,"Karnataka                                                   ","Bangalore Central",26,22
+360,416,"Shri  Jeetendra Singh  Bundela                                           ",15,2,"Madhya Pradesh                                              ",Khajuraho,26,26
+361,417,"Shri  Hari  Manjhi                                            ",15,2,"Bihar                                                       ",Gaya,26,25
+362,418,"Shri  Modugula Venugopala  Reddy                                             ",15,2,"Andhra Pradesh                                              ",Narasaraopet,26,15
+363,419,"Shri  Naramalli  Sivaprasad                                        ",15,2,"Andhra Pradesh                                              ",Chittoor,26,18
+364,420,"Dr.  Kirodi  Lal  Meena                                        ",15,2,"Rajasthan                                                   ",Dausa,26,20
+365,421,"Shri  Nityananda  Pradhan                                           ",15,2,"Orissa                                                      ",Aska,26,13
+366,422,"Shri  Subhash Bapurao  Wankhede                                          ",15,2,"Maharashtra                                                 ",Hingoli,26,13
+367,423,"Shri  Mahabali  Singh                                             ",15,2,"Bihar                                                       ",Karakat,26,25
+368,424,"Shri  Purnmasi  Ram                                               ",15,2,"Bihar                                                       ",Gopalganj,26,15
+369,425,"Smt.  Darshana  Jardosh                                           ",15,2,"Gujarat                                                     ",Surat,26,23
+370,426,"Kum.  Saroj  Pandey                                            ",15,2,"Chhattisgarh                                                ",Durg,26,22
+371,427,"Shri  Yashbant N.S.  Laguri                                            ",15,2,"Orissa                                                      ",Keonjhar,26,24
+372,428,"Shri  Kalikesh N. Singh  Deo                                               ",15,2,"Orissa                                                      ",Bolangir,26,21
+373,429,"Shri  Kristappa  Nimmala                                           ",15,2,"Andhra Pradesh                                              ",Hindupur,26,26
+374,430,"Shri  Y.S.Jagan Mohan  Reddy                                             ",15,2,"Andhra Pradesh                                              ",Kadapa,26,19
+375,431,"Shri  Gajanan D.  Babar                                             ",15,2,"Maharashtra                                                 ",Maval,26,13
+376,432,"Adv.   Ganeshrao  Nagorao Dudhgaonkar                               ",15,2,"Maharashtra                                                 ",Parbhani,26,22
+377,433,"Smt.  Meena  Singh                                             ",15,2,"Bihar                                                       ",Arrah,26,25
+378,434,"Shri  Bhudeo  Choudhary                                         ",15,2,"Bihar                                                       ",Jamui,26,25
+379,435,"Shri   Bhausaheb  Rajaram   Wakchaure                               ",15,2,"Maharashtra                                                 ",Shirdi,26,17
+380,436,"Shri  Kamlesh  Paswan                                            ",15,2,"Uttar Pradesh                                               ",Bansgaon,26,23
+381,437,"Prof.(Dr.)  Ram Shankar  Katheria                                          ",15,2,"Uttar Pradesh                                               ",Agra,26,17
+382,438,"Shri  Rajendra  Agarwal                                           ",15,2,"Uttar Pradesh                                               ",Meerut,26,26
+383,439,"Shri    Varun  Gandhi                                            ",15,2,"Uttar Pradesh                                               ",Pilibhit,26,15
+384,440,"Shri   Raju Shetti  ",15,2,"Maharashtra                                                 ",Hatkanangle,26,18
+385,441,"Shri  Sidhant  Mohapatra                                         ",15,2,"Orissa                                                      ",Berhampur,26,26
+386,442,"Shri  Laxman  Tudu                                              ",15,2,"Orissa                                                      ",Mayurbhanj,26,15
+387,444,"Shri  Kaushalendra  Kumar                                             ",15,2,"Bihar                                                       ",Nalanda,26,26
+388,445,"Shri  Maheshwar  Hazari                                            ",15,2,"Bihar                                                       ",Samastipur,26,25
+389,446,"Shri  Sher Singh  Ghubaya                                           ",15,2,"Punjab                                                      ",Ferozpur,26,7
+390,447,"Shri  Joseph  Toppo                                             ",15,2,"Assam                                                       ",Tezpur,26,12
+391,448,"Shri  Virender  Kashyap                                           ",15,2,"Himachal Pradesh                                            ",Shimla,26,24
+392,449,"Shri  Shivarama  Gouda                                             ",15,2,"Karnataka                                                   ",Koppal,26,21
+393,450,"Shri  Udasi Shivkumar  Chanabasappa                                      ",15,2,"Karnataka                                                   ",Haveri,26,23
+394,451,"Dr.  Rajan  Sushant                                           ",15,2,"Himachal Pradesh                                            ",Kangra,26,25
+395,452,"Shri  Ramesh  Vishwanath   Katti                                ",15,2,"Karnataka                                                   ",Chikkodi,26,21
+396,453,"Shri  S.  Pakkirappa                                        ",15,2,"Karnataka                                                   ",Raichur,26,22
+397,454,"Dr.  Murli Manohar  Joshi                                             ",15,2,"Uttar Pradesh                                               ",Varanasi,26,25
+398,455,"Shri  Rajnath  Singh                                             ",15,2,"Uttar Pradesh                                               ",Ghaziabad,26,23
+399,456,"Shri   Gopinathrao  Pandurang   Munde                                 ",15,2,"Maharashtra                                                 ",Beed,26,17
+400,458,"Smt.  Sushma  Swaraj                                            ",15,2,"Madhya Pradesh                                              ",Vidisha,26,26
+401,460,"Shri  Shatrughan  Sinha                                             ",15,2,"Bihar                                                       ","Patna Sahib",26,17
+402,461,"Shri  Syed Shahnawaz  Hussain                                           ",15,2,"Bihar                                                       ",Bhagalpur,26,25
+403,462,"Shri  Hukamdeo Narayan  Yadav                                             ",15,2,"Bihar                                                       ",Madhubani,26,25
+404,463,"Shri  Yashwant  Sinha                                             ",15,2,"Jharkhand                                                   ",Hazaribagh,26,24
+405,464,"Shri  Ramesh  Bais                                              ",15,2,"Chhattisgarh                                                ",Raipur,26,26
+406,465,"Shri    Ananth Kumar                                      ",15,2,"Karnataka                                                   ","Bangalore South",26,24
+407,466,"Shri  Jaswant  Singh                                             ",15,2,"West Bengal                                                 ",Darjeeling,26,12
+408,467,"Smt.  Maneka  Gandhi                                            ",15,2,"Uttar Pradesh                                               ",Aonla,26,12
+409,468,"Shri  Kabindra  Purkayastha                                       ",15,2,"Assam                                                       ",Silchar,26,14
+410,469,"Shri  Dilip Singh  Judev                                             ",15,2,"Chhattisgarh                                                ",Bilaspur,26,19
+411,470,"Smt.  Bijoya  Chakravarty                                       ",15,2,"Assam                                                       ",Gauhati,26,16
+412,471,"Shri  Harin  Pathak                                            ",15,2,"Gujarat                                                     ","Ahmedabad East",26,24
+413,472,"Shri  Arjun  Munda                                             ",15,2,"Jharkhand                                                   ",Jamshedpur,26,23
+414,473,"Shri  Kailash  Joshi                                             ",15,2,"Madhya Pradesh                                              ",Bhopal,26,23
+415,474,"Smt.  Sumitra  Mahajan                                           ",15,2,"Madhya Pradesh                                              ",Indore,26,24
+416,475,"Shri  Yogi  Adityanath                                        ",15,2,"Uttar Pradesh                                               ",Gorakhpur,26,21
+417,476,"Shri  Rajendrasinh  Rana                                              ",15,2,"Gujarat                                                     ",Bhavnagar,26,24
+418,477,"Shri  Narendra Singh  Tomar                                             ",15,2,"Madhya Pradesh                                              ",Morena,26,16
+419,478,"Smt.  Yashodhara Raje  Scindia                                           ",15,2,"Madhya Pradesh                                              ",Gwalior,26,23
+420,478,"Shri  D.V. Sadananda  Gowda                                             ",15,2,"Karnataka                                                   ","Udupi Chikmagalur",26,11
+421,479,"Shri  Vishnu Deo  Sai                                               ",15,2,"Chhattisgarh                                                ",Raigarh,26,15
+422,480,"Shri  Radha Mohan  Singh                                             ",15,2,"Bihar                                                       ","Purvi Champaran ",26,20
+423,481,"Shri  Shripad Yesso  Naik                                              ",15,2,"Goa                                                         ","North Goa",26,21
+424,482,"Shri  Nikhil Kumar  Choudhary                                         ",15,2,"Bihar                                                       ",Katihar,26,18
+425,483,"Shri  Dilip Kumar Mansukhlal  Gandhi                                            ",15,2,"Maharashtra                                                 ",Ahmednagar,26,15
+426,484,"Shri  Anant Kumar  Hegde                                             ",15,2,"Karnataka                                                   ","Uttara Kannada",26,23
+427,485,"Shri  Ramakant  Yadav                                             ",15,2,"Uttar Pradesh                                               ",Azamgarh,26,15
+428,486,"Shri  Ram Singh  Kaswan                                            ",15,2,"Rajasthan                                                   ",Churu,26,26
+429,487,"Shri  Mansukhbhai Dhanjibhai  Vasava                                            ",15,2,"Gujarat                                                     ",Bharuch,26,23
+430,488,"Shri  G.S.  Basavaraj                                         ",15,2,"Karnataka                                                   ",Tumkur,26,25
+431,489,"Shri  D.B. Chandre  Gowda                                             ",15,2,"Karnataka                                                   ","Bangalore North",26,20
+432,490,"Shri  Lalji  Tandon                                            ",15,2,"Uttar Pradesh                                               ",Lucknow,26,5
+433,491,"Shri  Ashok  Argal                                             ",15,2,"Madhya Pradesh                                              ",Bhind,26,21
+434,492,"Shri    Virendra Kumar                                    ",15,2,"Madhya Pradesh                                              ",Tikamgarh,26,26
+435,493,"Shri  Ganesh  Singh                                             ",15,2,"Madhya Pradesh                                              ",Satna,26,22
+436,494,"Shri  Rakesh  Singh                                             ",15,2,"Madhya Pradesh                                              ",Jabalpur,26,21
+437,495,"Shri  Anurag Singh  Thakur                                            ",15,2,"Himachal Pradesh                                            ",Hamirpur,26,24
+438,496,"Shri  Raosaheb  Dadarao  Danve                                             ",15,2,"Maharashtra                                                 ",Jalna,26,15
+439,497,"Shri  Rajen  Gohain                                            ",15,2,"Assam                                                       ",Nawgong,26,9
+440,498,"Shri  Hansraj Gangaram  Ahir                                              ",15,2,"Maharashtra                                                 ",Chandrapur,26,13
+441,499,"Shri  Sohan  Potai                                             ",15,2,"Chhattisgarh                                                ",Kanker,26,22
+442,500,"Shri  Ramsinhbhai Patalbhai  Rathwa                                            ",15,2,"Gujarat                                                     ","Chhota Udaipur",26,23
+443,501,"Shri  Ramesh Chandappa  Jigajinagi                                        ",15,2,"Karnataka                                                   ",Bijapur,26,21
+444,502,"Shri  Ravindra Kumar  Pandey                                            ",15,2,"Jharkhand                                                   ",Giridih,26,25
+445,503,"Shri  Kirti  Azad                                              ",15,2,"Bihar                                                       ",Darbhanga,26,23
+446,504,"Shri  Prahlad  Joshi                                             ",15,2,"Karnataka                                                   ",Dharwad,26,17
+447,505,"Shri  Sanjay  Dhotre                                            ",15,2,"Maharashtra                                                 ",Akola,26,20
+448,506,"Shri  P.C.  Gaddigoudar                                       ",15,2,"Karnataka                                                   ",Bagalkot,26,15
+449,507,"Shri  Navjot Singh  Sidhu                                             ",15,2,"Punjab                                                      ",Amritsar,26,6
+450,508,"Shri  Harischandra Deoram  Chavan                                            ",15,2,"Maharashtra                                                 ",Dindori,26,17
+451,509,"Shri  Haribhau  Jawale                                            ",15,2,"Maharashtra                                                 ",Raver,26,20
+452,510,"Shri   G.M.  Siddeswara                                        ",15,2,"Karnataka                                                   ",Davanagere,26,20
+453,511,"Shri  Dushyant  Singh                                             ",15,2,"Rajasthan                                                   ",Jhalawar-Baran,26,21
+454,512,"Shri  Bishnu Pada  Ray                                               ",15,2,"Andaman and Nicobar Islands                                 ","Andaman and Nicobar Islands",26,20
+455,513,"Shri  Uday  Singh                                             ",15,2,"Bihar                                                       ",Purnia,26,17
+456,514,"Shri  Govind Prasad  Mishra                                            ",15,2,"Madhya Pradesh                                              ",Sidhi,26,26
+457,515,"Shri  Dinubhai  Boghabhal   Solanki                               ",15,2,"Gujarat                                                     ",Junagadh,26,7
+458,516,"Shri  Chandulal Sahu  Chandu Bhaiya  ",15,2,"Chhattisgarh                                                ",Mahasamund,26,22
+459,517,"Shri  Bhupendra  Singh                                             ",15,2,"Madhya Pradesh                                              ",Sagar,26,20
+460,518,"Shri  Sudarshan  Bhagat                                            ",15,2,"Jharkhand                                                   ",Lohardaga,26,24
+461,519,"Dr.  Sanjay  Jaiswal                                           ",15,2,"Bihar                                                       ","Paschim Champaran",26,24
+462,520,"Shri  Prabhatsinh  Pratapsinh Chauhan                                ",15,2,"Gujarat                                                     ",Panchmahal,26,18
+463,521,"Shri  Pashupati Nath  Singh                                             ",15,2,"Jharkhand                                                   ",Dhanbad,26,25
+464,523,"Shri  Devidhan  Besra                                             ",15,2,"Jharkhand                                                   ",Rajmahal,26,22
+465,524,"Dr.  Bhola  Singh                                             ",15,2,"Bihar                                                       ",Nawada,26,24
+466,525,"Shri  Devji M.  Patel                                             ",15,2,"Rajasthan                                                   ",Jalore,26,18
+467,526,"Shri  C. R.  Patil                                             ",15,2,"Gujarat                                                     ",Navsari,26,26
+468,527,"Shri  Balkrishna Khanderao  Shukla                                            ",15,2,"Gujarat                                                     ",Vadodara,26,18
+469,528,"Shri  B. Y.  Raghavendra                                       ",15,2,"Karnataka                                                   ",Shimoga,26,18
+470,529,"Shri  Arjun Ram  Meghwal                                           ",15,2,"Rajasthan                                                   ",Bikaner,26,26
+471,530,"Shri  A.T. Nana  Patil                                             ",15,2,"Maharashtra                                                 ",Jalgaon,26,25
+472,531,"Shri  Shivraj  Bhaiya                                            ",15,2,"Madhya Pradesh                                              ",Damoh,26,17
+473,532,"Shri  Sonawane  Pratap Narayanrao                                 ",15,2,"Maharashtra                                                 ",Dhule,26,15
+474,533,"Shri  Pradeep Kumar  Singh                                             ",15,2,"Bihar                                                       ",Araria,26,13
+475,534,"Shri  Makhansingh  Solanki                                           ",15,2,"Madhya Pradesh                                              ",Khargone,26,16
+476,535,"Shri  Chauhan  Mahendrasinh                                      ",15,2,"Gujarat                                                     ",Sabarkantha,26,26
+477,536,"Shri  Madhusudan  Yadav                                             ",15,2,"Chhattisgarh                                                ",Rajnandgaon,26,10
+478,537,"Shri  Lalubhai  B.  Patel                                             ",15,2,"Daman and Diu                                               ","Daman and Diu",26,18
+479,538,"Dr.  Kiritbhai  Premajibhai    Solanki                            ",15,2,"Gujarat                                                     ","Ahmedabad West",26,24
+480,539,"Shri  K. D.  Deshmukh                                          ",15,2,"Madhya Pradesh                                              ",Balaghat,26,15
+481,540,"Shri  Janardhana  Swamy                                             ",15,2,"Karnataka                                                   ",Chitradurga,26,17
+482,541,"Smt.  Kamla Devi  Patle                                             ",15,2,"Chhattisgarh                                                ","Janjgir-Champa ",26,21
+483,542,"Smt.  Jyoti  Dhurve                                            ",15,2,"Madhya Pradesh                                              ",Betul,26,21
+484,543,"Ms.  J.  Shantha                                           ",15,2,"Karnataka                                                   ",Bellary,26,22
+485,544,"Smt.  Jayshreeben  Kanubhai    Patel                                 ",15,2,"Gujarat                                                     ",Mehesana,26,25
+486,545,"Shri  Nishikant  Dubey                                             ",15,2,"Jharkhand                                                   ",Godda,26,25
+487,546,"Shri  Natubhai Gomanbhai  Patel                                             ",15,2,"Dadra and Nagar Haveli                                      ","Dadra and Nagar Haveli",26,17
+488,547,"Shri    Naranbhai   Kachhadia                             ",15,2,"Gujarat                                                     ",Amreli,26,19
+489,548,"Shri  Nalin Kumar  Kateel                                            ",15,2,"Karnataka                                                   ","Dakshina Kannada",26,22
+490,549,"Shri  Murarilal  Singh                                             ",15,2,"Chhattisgarh                                                ",Surguja,26,25
+491,550,"Smt.  Jat Poonamben  Veljibhai                                         ",15,2,"Gujarat                                                     ",Kachchh,26,26

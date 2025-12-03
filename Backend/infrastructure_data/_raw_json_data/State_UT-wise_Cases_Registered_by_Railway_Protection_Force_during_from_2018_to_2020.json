@@ -1,0 +1,471 @@
+{
+  "index_name": "2ccbb67c-02f0-4895-b268-b3ed5b5ac72b",
+  "title": "State/UT-wise Cases Registered by Railway Protection Force during from 2018 to 2020",
+  "desc": "State/UT-wise Cases Registered by Railway Protection Force during from 2018 to 2020",
+  "org_type": "Central",
+  "org": [
+    "Department of States",
+    "Ministry of Home Affairs",
+    "National Crime Records Bureau (NCRB)"
+  ],
+  "sector": [
+    "Home Affairs and Enforcement",
+    "Police"
+  ],
+  "source": "",
+  "catalog_uuid": "d84b3af6-b122-42e4-8263-47680eaf5c92",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1683698776,
+  "updated": 1683700780,
+  "created_date": "2023-05-10T08:06:16Z",
+  "updated_date": "2023-05-10T12:09:40Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "ncrb",
+    "type": "d84b3af6-b122-42e4-8263-47680eaf5c92",
+    "field": "2ccbb67c-02f0-4895-b268-b3ed5b5ac72b"
+  },
+  "field": [
+    {
+      "id": "si__no__col__1_",
+      "name": "Si. No (Col. 1)",
+      "type": "keyword"
+    },
+    {
+      "id": "category_",
+      "name": "Category ",
+      "type": "keyword"
+    },
+    {
+      "id": "state_ut__col__2_",
+      "name": "State/UT (Col. 2)",
+      "type": "keyword"
+    },
+    {
+      "id": "_2018____col__3_",
+      "name": "2018 - (Col. 3)",
+      "type": "double"
+    },
+    {
+      "id": "_2019____col__4_",
+      "name": "2019 - (Col. 4)",
+      "type": "double"
+    },
+    {
+      "id": "_2020____col__5_",
+      "name": "2020 - (Col. 5)",
+      "type": "double"
+    },
+    {
+      "id": "mid_year_projected_population__in_lakhs___2020_____col__6_",
+      "name": "Mid-Year Projected Population (in Lakhs) (2020) - (Col. 6)",
+      "type": "double"
+    },
+    {
+      "id": "rate_of_cognizable_crimes__2020_____col__7_",
+      "name": "Rate of Cognizable Crimes (2020) - (Col. 7)",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 39,
+  "count": 39,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "si__no__col__1_": "1",
+      "category_": "State",
+      "state_ut__col__2_": "Andhra Pradesh",
+      "_2018____col__3_": 74654,
+      "_2019____col__4_": 59821,
+      "_2020____col__5_": 13596,
+      "mid_year_projected_population__in_lakhs___2020_____col__6_": 526,
+      "rate_of_cognizable_crimes__2020_____col__7_": 25.8
+    },
+    {
+      "si__no__col__1_": "2",
+      "category_": "State",
+      "state_ut__col__2_": "Arunachal Pradesh",
+      "_2018____col__3_": "0",
+      "_2019____col__4_": "0",
+      "_2020____col__5_": "0",
+      "mid_year_projected_population__in_lakhs___2020_____col__6_": 15.2,
+      "rate_of_cognizable_crimes__2020_____col__7_": "0"
+    },
+    {
+      "si__no__col__1_": "3",
+      "category_": "State",
+      "state_ut__col__2_": "Assam",
+      "_2018____col__3_": 8698,
+      "_2019____col__4_": 8819,
+      "_2020____col__5_": 2101,
+      "mid_year_projected_population__in_lakhs___2020_____col__6_": 347.9,
+      "rate_of_cognizable_crimes__2020_____col__7_": 6
+    },
+    {
+      "si__no__col__1_": "4",
+      "category_": "State",
+      "state_ut__col__2_": "Bihar",
+      "_2018____col__3_": 41400,
+      "_2019____col__4_": 29553,
+      "_2020____col__5_": 8666,
+      "mid_year_projected_population__in_lakhs___2020_____col__6_": 1219,
+      "rate_of_cognizable_crimes__2020_____col__7_": 7.1
+    },
+    {
+      "si__no__col__1_": "5",
+      "category_": "State",
+      "state_ut__col__2_": "Chhattisgarh",
+      "_2018____col__3_": 23987,
+      "_2019____col__4_": 21461,
+      "_2020____col__5_": 4897,
+      "mid_year_projected_population__in_lakhs___2020_____col__6_": 292.4,
+      "rate_of_cognizable_crimes__2020_____col__7_": 16.7
+    },
+    {
+      "si__no__col__1_": "6",
+      "category_": "State",
+      "state_ut__col__2_": "Goa",
+      "_2018____col__3_": 464,
+      "_2019____col__4_": 661,
+      "_2020____col__5_": 109,
+      "mid_year_projected_population__in_lakhs___2020_____col__6_": 15.5,
+      "rate_of_cognizable_crimes__2020_____col__7_": 7
+    },
+    {
+      "si__no__col__1_": "7",
+      "category_": "State",
+      "state_ut__col__2_": "Gujarat",
+      "_2018____col__3_": 74214,
+      "_2019____col__4_": 72469,
+      "_2020____col__5_": 19651,
+      "mid_year_projected_population__in_lakhs___2020_____col__6_": 691.7,
+      "rate_of_cognizable_crimes__2020_____col__7_": 28.4
+    },
+    {
+      "si__no__col__1_": "8",
+      "category_": "State",
+      "state_ut__col__2_": "Haryana",
+      "_2018____col__3_": 14950,
+      "_2019____col__4_": 13187,
+      "_2020____col__5_": 3495,
+      "mid_year_projected_population__in_lakhs___2020_____col__6_": 292.1,
+      "rate_of_cognizable_crimes__2020_____col__7_": 12
+    },
+    {
+      "si__no__col__1_": "9",
+      "category_": "State",
+      "state_ut__col__2_": "Himachal Pradesh",
+      "_2018____col__3_": 323,
+      "_2019____col__4_": 268,
+      "_2020____col__5_": 41,
+      "mid_year_projected_population__in_lakhs___2020_____col__6_": 73.6,
+      "rate_of_cognizable_crimes__2020_____col__7_": 0.6
+    },
+    {
+      "si__no__col__1_": "10",
+      "category_": "State",
+      "state_ut__col__2_": "Jharkhand",
+      "_2018____col__3_": 25715,
+      "_2019____col__4_": 19958,
+      "_2020____col__5_": 5094,
+      "mid_year_projected_population__in_lakhs___2020_____col__6_": 381.2,
+      "rate_of_cognizable_crimes__2020_____col__7_": 13.4
+    },
+    {
+      "si__no__col__1_": "11",
+      "category_": "State",
+      "state_ut__col__2_": "Karnataka",
+      "_2018____col__3_": 34396,
+      "_2019____col__4_": 30575,
+      "_2020____col__5_": 8917,
+      "mid_year_projected_population__in_lakhs___2020_____col__6_": 665,
+      "rate_of_cognizable_crimes__2020_____col__7_": 13.4
+    },
+    {
+      "si__no__col__1_": "12",
+      "category_": "State",
+      "state_ut__col__2_": "Kerala",
+      "_2018____col__3_": 28458,
+      "_2019____col__4_": 35197,
+      "_2020____col__5_": 7997,
+      "mid_year_projected_population__in_lakhs___2020_____col__6_": 353.7,
+      "rate_of_cognizable_crimes__2020_____col__7_": 22.6
+    },
+    {
+      "si__no__col__1_": "13",
+      "category_": "State",
+      "state_ut__col__2_": "Madhya Pradesh",
+      "_2018____col__3_": 89036,
+      "_2019____col__4_": 61748,
+      "_2020____col__5_": 19099,
+      "mid_year_projected_population__in_lakhs___2020_____col__6_": 837.6,
+      "rate_of_cognizable_crimes__2020_____col__7_": 22.8
+    },
+    {
+      "si__no__col__1_": "14",
+      "category_": "State",
+      "state_ut__col__2_": "Maharashtra",
+      "_2018____col__3_": 223289,
+      "_2019____col__4_": 244866,
+      "_2020____col__5_": 68215,
+      "mid_year_projected_population__in_lakhs___2020_____col__6_": 1236.8,
+      "rate_of_cognizable_crimes__2020_____col__7_": 55.2
+    },
+    {
+      "si__no__col__1_": "15",
+      "category_": "State",
+      "state_ut__col__2_": "Manipur",
+      "_2018____col__3_": "0",
+      "_2019____col__4_": "0",
+      "_2020____col__5_": "0",
+      "mid_year_projected_population__in_lakhs___2020_____col__6_": 31.4,
+      "rate_of_cognizable_crimes__2020_____col__7_": "0"
+    },
+    {
+      "si__no__col__1_": "16",
+      "category_": "State",
+      "state_ut__col__2_": "Meghalaya",
+      "_2018____col__3_": "0",
+      "_2019____col__4_": "0",
+      "_2020____col__5_": "0",
+      "mid_year_projected_population__in_lakhs___2020_____col__6_": 32.6,
+      "rate_of_cognizable_crimes__2020_____col__7_": "0"
+    },
+    {
+      "si__no__col__1_": "17",
+      "category_": "State",
+      "state_ut__col__2_": "Mizoram",
+      "_2018____col__3_": "0",
+      "_2019____col__4_": "0",
+      "_2020____col__5_": "0",
+      "mid_year_projected_population__in_lakhs___2020_____col__6_": 12.1,
+      "rate_of_cognizable_crimes__2020_____col__7_": "0"
+    },
+    {
+      "si__no__col__1_": "18",
+      "category_": "State",
+      "state_ut__col__2_": "Nagaland",
+      "_2018____col__3_": 214,
+      "_2019____col__4_": 384,
+      "_2020____col__5_": 109,
+      "mid_year_projected_population__in_lakhs___2020_____col__6_": 21.8,
+      "rate_of_cognizable_crimes__2020_____col__7_": 5
+    },
+    {
+      "si__no__col__1_": "19",
+      "category_": "State",
+      "state_ut__col__2_": "Odisha",
+      "_2018____col__3_": 41897,
+      "_2019____col__4_": 32173,
+      "_2020____col__5_": 6416,
+      "mid_year_projected_population__in_lakhs___2020_____col__6_": 454.7,
+      "rate_of_cognizable_crimes__2020_____col__7_": 14.1
+    },
+    {
+      "si__no__col__1_": "20",
+      "category_": "State",
+      "state_ut__col__2_": "Punjab",
+      "_2018____col__3_": 20967,
+      "_2019____col__4_": 19231,
+      "_2020____col__5_": 3621,
+      "mid_year_projected_population__in_lakhs___2020_____col__6_": 301.8,
+      "rate_of_cognizable_crimes__2020_____col__7_": 12
+    },
+    {
+      "si__no__col__1_": "21",
+      "category_": "State",
+      "state_ut__col__2_": "Rajasthan",
+      "_2018____col__3_": 66487,
+      "_2019____col__4_": 50627,
+      "_2020____col__5_": 17812,
+      "mid_year_projected_population__in_lakhs___2020_____col__6_": 786.1,
+      "rate_of_cognizable_crimes__2020_____col__7_": 22.7
+    },
+    {
+      "si__no__col__1_": "22",
+      "category_": "State",
+      "state_ut__col__2_": "Sikkim",
+      "_2018____col__3_": "0",
+      "_2019____col__4_": "0",
+      "_2020____col__5_": "0",
+      "mid_year_projected_population__in_lakhs___2020_____col__6_": 6.7,
+      "rate_of_cognizable_crimes__2020_____col__7_": "0"
+    },
+    {
+      "si__no__col__1_": "23",
+      "category_": "State",
+      "state_ut__col__2_": "Tamil Nadu",
+      "_2018____col__3_": 79383,
+      "_2019____col__4_": 56652,
+      "_2020____col__5_": 12036,
+      "mid_year_projected_population__in_lakhs___2020_____col__6_": 761.7,
+      "rate_of_cognizable_crimes__2020_____col__7_": 15.8
+    },
+    {
+      "si__no__col__1_": "24",
+      "category_": "State",
+      "state_ut__col__2_": "Telangana",
+      "_2018____col__3_": 16839,
+      "_2019____col__4_": 11602,
+      "_2020____col__5_": 3070,
+      "mid_year_projected_population__in_lakhs___2020_____col__6_": 375.4,
+      "rate_of_cognizable_crimes__2020_____col__7_": 8.2
+    },
+    {
+      "si__no__col__1_": "25",
+      "category_": "State",
+      "state_ut__col__2_": "Tripura",
+      "_2018____col__3_": 83,
+      "_2019____col__4_": 152,
+      "_2020____col__5_": 63,
+      "mid_year_projected_population__in_lakhs___2020_____col__6_": 40.4,
+      "rate_of_cognizable_crimes__2020_____col__7_": 1.6
+    },
+    {
+      "si__no__col__1_": "26",
+      "category_": "State",
+      "state_ut__col__2_": "Uttar Pradesh",
+      "_2018____col__3_": 140386,
+      "_2019____col__4_": 111431,
+      "_2020____col__5_": 28753,
+      "mid_year_projected_population__in_lakhs___2020_____col__6_": 2289.3,
+      "rate_of_cognizable_crimes__2020_____col__7_": 12.6
+    },
+    {
+      "si__no__col__1_": "27",
+      "category_": "State",
+      "state_ut__col__2_": "Uttarakhand",
+      "_2018____col__3_": 6225,
+      "_2019____col__4_": 5206,
+      "_2020____col__5_": 1339,
+      "mid_year_projected_population__in_lakhs___2020_____col__6_": 113.1,
+      "rate_of_cognizable_crimes__2020_____col__7_": 11.8
+    },
+    {
+      "si__no__col__1_": "28",
+      "category_": "State",
+      "state_ut__col__2_": "West Bengal",
+      "_2018____col__3_": 54107,
+      "_2019____col__4_": 47817,
+      "_2020____col__5_": 13932,
+      "mid_year_projected_population__in_lakhs___2020_____col__6_": 977.2,
+      "rate_of_cognizable_crimes__2020_____col__7_": 14.3
+    },
+    {
+      "si__no__col__1_": "Total State(s)",
+      "category_": "Total State(s)",
+      "state_ut__col__2_": "Total State(s)",
+      "_2018____col__3_": 1066172,
+      "_2019____col__4_": 933858,
+      "_2020____col__5_": 249029,
+      "mid_year_projected_population__in_lakhs___2020_____col__6_": 13151.8,
+      "rate_of_cognizable_crimes__2020_____col__7_": 18.9
+    },
+    {
+      "si__no__col__1_": "29",
+      "category_": "Union Territories",
+      "state_ut__col__2_": "A & N Islands",
+      "_2018____col__3_": "0",
+      "_2019____col__4_": "0",
+      "_2020____col__5_": "0",
+      "mid_year_projected_population__in_lakhs___2020_____col__6_": 4,
+      "rate_of_cognizable_crimes__2020_____col__7_": "0"
+    },
+    {
+      "si__no__col__1_": "30",
+      "category_": "Union Territories",
+      "state_ut__col__2_": "Chandigarh",
+      "_2018____col__3_": 1124,
+      "_2019____col__4_": 755,
+      "_2020____col__5_": 76,
+      "mid_year_projected_population__in_lakhs___2020_____col__6_": 12,
+      "rate_of_cognizable_crimes__2020_____col__7_": 6.3
+    },
+    {
+      "si__no__col__1_": "31",
+      "category_": "Union Territories",
+      "state_ut__col__2_": "D & N Haveli and Daman & Diu",
+      "_2018____col__3_": "0",
+      "_2019____col__4_": "0",
+      "_2020____col__5_": "0",
+      "mid_year_projected_population__in_lakhs___2020_____col__6_": 10.4,
+      "rate_of_cognizable_crimes__2020_____col__7_": "0"
+    },
+    {
+      "si__no__col__1_": "32",
+      "category_": "Union Territories",
+      "state_ut__col__2_": "Delhi",
+      "_2018____col__3_": 24432,
+      "_2019____col__4_": 13045,
+      "_2020____col__5_": 4758,
+      "mid_year_projected_population__in_lakhs___2020_____col__6_": 203.2,
+      "rate_of_cognizable_crimes__2020_____col__7_": 23.4
+    },
+    {
+      "si__no__col__1_": "33",
+      "category_": "Union Territories",
+      "state_ut__col__2_": "Jammu & Kashmir",
+      "_2018____col__3_": 2661,
+      "_2019____col__4_": 1783,
+      "_2020____col__5_": 706,
+      "mid_year_projected_population__in_lakhs___2020_____col__6_": 133.4,
+      "rate_of_cognizable_crimes__2020_____col__7_": 5.3
+    },
+    {
+      "si__no__col__1_": "34",
+      "category_": "Union Territories",
+      "state_ut__col__2_": "Ladakh",
+      "_2018____col__3_": "0",
+      "_2019____col__4_": "0",
+      "_2020____col__5_": "0",
+      "mid_year_projected_population__in_lakhs___2020_____col__6_": 3,
+      "rate_of_cognizable_crimes__2020_____col__7_": "0"
+    },
+    {
+      "si__no__col__1_": "35",
+      "category_": "Union Territories",
+      "state_ut__col__2_": "Lakshadweep",
+      "_2018____col__3_": "0",
+      "_2019____col__4_": "0",
+      "_2020____col__5_": "0",
+      "mid_year_projected_population__in_lakhs___2020_____col__6_": 0.7,
+      "rate_of_cognizable_crimes__2020_____col__7_": "0"
+    },
+    {
+      "si__no__col__1_": "36",
+      "category_": "Union Territories",
+      "state_ut__col__2_": "Puducherry",
+      "_2018____col__3_": 295,
+      "_2019____col__4_": 254,
+      "_2020____col__5_": 67,
+      "mid_year_projected_population__in_lakhs___2020_____col__6_": 15.5,
+      "rate_of_cognizable_crimes__2020_____col__7_": 4.3
+    },
+    {
+      "si__no__col__1_": "Total UT(s)",
+      "category_": "Total UT(s)",
+      "state_ut__col__2_": "Total UT(s)",
+      "_2018____col__3_": 28512,
+      "_2019____col__4_": 15837,
+      "_2020____col__5_": 5607,
+      "mid_year_projected_population__in_lakhs___2020_____col__6_": 382.1,
+      "rate_of_cognizable_crimes__2020_____col__7_": 14.7
+    },
+    {
+      "si__no__col__1_": "Total All India",
+      "category_": "Total All India",
+      "state_ut__col__2_": "Total All India",
+      "_2018____col__3_": 1094684,
+      "_2019____col__4_": 949695,
+      "_2020____col__5_": 254636,
+      "mid_year_projected_population__in_lakhs___2020_____col__6_": 13533.9,
+      "rate_of_cognizable_crimes__2020_____col__7_": 18.8
+    }
+  ]
+}

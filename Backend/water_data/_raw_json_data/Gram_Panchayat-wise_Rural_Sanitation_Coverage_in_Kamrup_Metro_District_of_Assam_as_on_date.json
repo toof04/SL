@@ -1,0 +1,245 @@
+{
+  "index_name": "1a0ad613-2d53-4d12-8797-848155538cb6",
+  "title": "Gram Panchayat-wise Rural Sanitation Coverage in Kamrup Metro District of Assam as on date",
+  "desc": "Gram Panchayat-wise Rural Sanitation Coverage in Kamrup Metro District of Assam as on date",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Jal Shakti",
+    "Department of Drinking Water and Sanitation"
+  ],
+  "sector": [
+    "Water and Sanitation"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1688360226,
+  "updated": 1688364894,
+  "created_date": "2023-07-03T06:57:06Z",
+  "updated_date": "2023-07-03T11:44:54Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "sbm",
+    "type": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+    "field": "1a0ad613-2d53-4d12-8797-848155538cb6"
+  },
+  "field": [
+    {
+      "id": "statename",
+      "name": "StateName",
+      "type": "keyword"
+    },
+    {
+      "id": "districtname",
+      "name": "DistrictName",
+      "type": "keyword"
+    },
+    {
+      "id": "blockname",
+      "name": "blockName",
+      "type": "keyword"
+    },
+    {
+      "id": "grampanchayatname",
+      "name": "GramPanchayatName",
+      "type": "keyword"
+    },
+    {
+      "id": "ihhltotalasperdetails",
+      "name": "IHHLTotalAsPerDetails",
+      "type": "double"
+    },
+    {
+      "id": "ihhltotalach",
+      "name": "IHHLTotalAch",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 22,
+  "count": 22,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "statename": "Assam",
+      "districtname": "KAMRUP-Metro",
+      "blockname": "BEZERRA (PT)",
+      "grampanchayatname": "LACHITGARH",
+      "ihhltotalasperdetails": 3210,
+      "ihhltotalach": 3210
+    },
+    {
+      "statename": "Assam",
+      "districtname": "KAMRUP-Metro",
+      "blockname": "CHANDRAPUR",
+      "grampanchayatname": "AMSING",
+      "ihhltotalasperdetails": 2140,
+      "ihhltotalach": 2140
+    },
+    {
+      "statename": "Assam",
+      "districtname": "KAMRUP-Metro",
+      "blockname": "CHANDRAPUR",
+      "grampanchayatname": "CHANDRAPUR",
+      "ihhltotalasperdetails": 2057,
+      "ihhltotalach": 2057
+    },
+    {
+      "statename": "Assam",
+      "districtname": "KAMRUP-Metro",
+      "blockname": "CHANDRAPUR",
+      "grampanchayatname": "PANIKHAITY",
+      "ihhltotalasperdetails": 3445,
+      "ihhltotalach": 3445
+    },
+    {
+      "statename": "Assam",
+      "districtname": "KAMRUP-Metro",
+      "blockname": "CHANDRAPUR",
+      "grampanchayatname": "PASCHIM MAYANG",
+      "ihhltotalasperdetails": 2248,
+      "ihhltotalach": 2248
+    },
+    {
+      "statename": "Assam",
+      "districtname": "KAMRUP-Metro",
+      "blockname": "DIMORIA(PT.)",
+      "grampanchayatname": "BARKHAT",
+      "ihhltotalasperdetails": 1493,
+      "ihhltotalach": 1493
+    },
+    {
+      "statename": "Assam",
+      "districtname": "KAMRUP-Metro",
+      "blockname": "DIMORIA(PT.)",
+      "grampanchayatname": "BARUABARI",
+      "ihhltotalasperdetails": 1847,
+      "ihhltotalach": 1847
+    },
+    {
+      "statename": "Assam",
+      "districtname": "KAMRUP-Metro",
+      "blockname": "DIMORIA(PT.)",
+      "grampanchayatname": "DHUPGURI",
+      "ihhltotalasperdetails": 1935,
+      "ihhltotalach": 1935
+    },
+    {
+      "statename": "Assam",
+      "districtname": "KAMRUP-Metro",
+      "blockname": "DIMORIA(PT.)",
+      "grampanchayatname": "DIGARU",
+      "ihhltotalasperdetails": 1702,
+      "ihhltotalach": 1702
+    },
+    {
+      "statename": "Assam",
+      "districtname": "KAMRUP-Metro",
+      "blockname": "DIMORIA(PT.)",
+      "grampanchayatname": "HAHARA",
+      "ihhltotalasperdetails": 3267,
+      "ihhltotalach": 3267
+    },
+    {
+      "statename": "Assam",
+      "districtname": "KAMRUP-Metro",
+      "blockname": "DIMORIA(PT.)",
+      "grampanchayatname": "KAMARKUCHI",
+      "ihhltotalasperdetails": 2328,
+      "ihhltotalach": 2328
+    },
+    {
+      "statename": "Assam",
+      "districtname": "KAMRUP-Metro",
+      "blockname": "DIMORIA(PT.)",
+      "grampanchayatname": "KHETRI",
+      "ihhltotalasperdetails": 2429,
+      "ihhltotalach": 2429
+    },
+    {
+      "statename": "Assam",
+      "districtname": "KAMRUP-Metro",
+      "blockname": "DIMORIA(PT.)",
+      "grampanchayatname": "MALOIBARI",
+      "ihhltotalasperdetails": 2461,
+      "ihhltotalach": 2461
+    },
+    {
+      "statename": "Assam",
+      "districtname": "KAMRUP-Metro",
+      "blockname": "DIMORIA(PT.)",
+      "grampanchayatname": "NARTAB",
+      "ihhltotalasperdetails": 1705,
+      "ihhltotalach": 1705
+    },
+    {
+      "statename": "Assam",
+      "districtname": "KAMRUP-Metro",
+      "blockname": "DIMORIA(PT.)",
+      "grampanchayatname": "SONAPUR",
+      "ihhltotalasperdetails": 2462,
+      "ihhltotalach": 2462
+    },
+    {
+      "statename": "Assam",
+      "districtname": "KAMRUP-Metro",
+      "blockname": "DIMORIA(PT.)",
+      "grampanchayatname": "TAPATOLI",
+      "ihhltotalasperdetails": 2007,
+      "ihhltotalach": 2007
+    },
+    {
+      "statename": "Assam",
+      "districtname": "KAMRUP-Metro",
+      "blockname": "DIMORIA(PT.)",
+      "grampanchayatname": "TETELIA",
+      "ihhltotalasperdetails": 1612,
+      "ihhltotalach": 1612
+    },
+    {
+      "statename": "Assam",
+      "districtname": "KAMRUP-Metro",
+      "blockname": "RANI (PT)",
+      "grampanchayatname": "AZARA",
+      "ihhltotalasperdetails": 2543,
+      "ihhltotalach": 2543
+    },
+    {
+      "statename": "Assam",
+      "districtname": "KAMRUP-Metro",
+      "blockname": "RANI (PT)",
+      "grampanchayatname": "DHARAPUR",
+      "ihhltotalasperdetails": 1676,
+      "ihhltotalach": 1676
+    },
+    {
+      "statename": "Assam",
+      "districtname": "KAMRUP-Metro",
+      "blockname": "RANI (PT)",
+      "grampanchayatname": "GARAL",
+      "ihhltotalasperdetails": 1601,
+      "ihhltotalach": 1601
+    },
+    {
+      "statename": "Assam",
+      "districtname": "KAMRUP-Metro",
+      "blockname": "RANI (PT)",
+      "grampanchayatname": "KAHIKUCHI",
+      "ihhltotalasperdetails": 3301,
+      "ihhltotalach": 3301
+    },
+    {
+      "statename": "Assam",
+      "districtname": "KAMRUP-Metro",
+      "blockname": "RANI (PT)",
+      "grampanchayatname": "MAJIRGAON",
+      "ihhltotalasperdetails": 1746,
+      "ihhltotalach": 1746
+    }
+  ]
+}

@@ -1,0 +1,5519 @@
+{
+  "index_name": "b8f290ae-453b-4203-8525-b72a4b3163fd",
+  "title": "Gram Panchayat-wise Rural Sanitation Coverage in Mehsana District of Gujarat as on date",
+  "desc": "Gram Panchayat-wise Rural Sanitation Coverage in Mehsana District of Gujarat as on date",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Jal Shakti",
+    "Department of Drinking Water and Sanitation"
+  ],
+  "sector": [
+    "Water and Sanitation"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1688360440,
+  "updated": 1688364947,
+  "created_date": "2023-07-03T07:00:40Z",
+  "updated_date": "2023-07-03T11:45:47Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "sbm",
+    "type": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+    "field": "b8f290ae-453b-4203-8525-b72a4b3163fd"
+  },
+  "field": [
+    {
+      "id": "statename",
+      "name": "StateName",
+      "type": "keyword"
+    },
+    {
+      "id": "districtname",
+      "name": "DistrictName",
+      "type": "keyword"
+    },
+    {
+      "id": "blockname",
+      "name": "BlockName",
+      "type": "keyword"
+    },
+    {
+      "id": "grampanchayatname",
+      "name": "GramPanchayatName",
+      "type": "keyword"
+    },
+    {
+      "id": "ihhltotalasperdetails",
+      "name": "IHHLTotalAsPerDetails",
+      "type": "double"
+    },
+    {
+      "id": "ihhltotalach",
+      "name": "IHHLTotalAch",
+      "type": "double"
+    },
+    {
+      "id": "date",
+      "name": "Date",
+      "type": "keyword"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 605,
+  "count": 605,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "BECHRAJI",
+      "grampanchayatname": "ADIVADA",
+      "ihhltotalasperdetails": 442,
+      "ihhltotalach": 442,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "BECHRAJI",
+      "grampanchayatname": "AJABPURA",
+      "ihhltotalasperdetails": 69,
+      "ihhltotalach": 69,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "BECHRAJI",
+      "grampanchayatname": "AKBA",
+      "ihhltotalasperdetails": 319,
+      "ihhltotalach": 319,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "BECHRAJI",
+      "grampanchayatname": "AMBALA",
+      "ihhltotalasperdetails": 543,
+      "ihhltotalach": 543,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "BECHRAJI",
+      "grampanchayatname": "ASJOL",
+      "ihhltotalasperdetails": 514,
+      "ihhltotalach": 514,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "BECHRAJI",
+      "grampanchayatname": "BARIYAF",
+      "ihhltotalasperdetails": 178,
+      "ihhltotalach": 178,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "BECHRAJI",
+      "grampanchayatname": "BECHAR ALIAS BECHARAJI",
+      "ihhltotalasperdetails": 1837,
+      "ihhltotalach": 1837,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "BECHRAJI",
+      "grampanchayatname": "BHALGAMDA",
+      "ihhltotalasperdetails": 311,
+      "ihhltotalach": 311,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "BECHRAJI",
+      "grampanchayatname": "CHADASANA",
+      "ihhltotalasperdetails": 307,
+      "ihhltotalach": 307,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "BECHRAJI",
+      "grampanchayatname": "CHANDANKI",
+      "ihhltotalasperdetails": 109,
+      "ihhltotalach": 109,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "BECHRAJI",
+      "grampanchayatname": "CHANDRODA",
+      "ihhltotalasperdetails": 361,
+      "ihhltotalach": 361,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "BECHRAJI",
+      "grampanchayatname": "CHHATASANA-VANPUR",
+      "ihhltotalasperdetails": 147,
+      "ihhltotalach": 147,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "BECHRAJI",
+      "grampanchayatname": "DEDANA",
+      "ihhltotalasperdetails": 509,
+      "ihhltotalach": 509,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "BECHRAJI",
+      "grampanchayatname": "DELPURA KHANT",
+      "ihhltotalasperdetails": 438,
+      "ihhltotalach": 438,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "BECHRAJI",
+      "grampanchayatname": "DELVADA KHANT",
+      "ihhltotalasperdetails": 398,
+      "ihhltotalach": 398,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "BECHRAJI",
+      "grampanchayatname": "DETHLI",
+      "ihhltotalasperdetails": 375,
+      "ihhltotalach": 375,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "BECHRAJI",
+      "grampanchayatname": "DEVGADH",
+      "ihhltotalasperdetails": 154,
+      "ihhltotalach": 154,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "BECHRAJI",
+      "grampanchayatname": "DHANPURA",
+      "ihhltotalasperdetails": 177,
+      "ihhltotalach": 177,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "BECHRAJI",
+      "grampanchayatname": "DHARPURA-KHANT",
+      "ihhltotalasperdetails": 646,
+      "ihhltotalach": 646,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "BECHRAJI",
+      "grampanchayatname": "DODIVADA",
+      "ihhltotalasperdetails": 378,
+      "ihhltotalach": 378,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "BECHRAJI",
+      "grampanchayatname": "ENDLA",
+      "ihhltotalasperdetails": 168,
+      "ihhltotalach": 168,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "BECHRAJI",
+      "grampanchayatname": "FINCHADI",
+      "ihhltotalasperdetails": 333,
+      "ihhltotalach": 333,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "BECHRAJI",
+      "grampanchayatname": "GAMBHU-DEDARADA",
+      "ihhltotalasperdetails": 983,
+      "ihhltotalach": 983,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "BECHRAJI",
+      "grampanchayatname": "GANESHPURA  (KALARI)",
+      "ihhltotalasperdetails": 230,
+      "ihhltotalach": 230,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "BECHRAJI",
+      "grampanchayatname": "GANESHPURA (GAMBHU)",
+      "ihhltotalasperdetails": 217,
+      "ihhltotalach": 217,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "BECHRAJI",
+      "grampanchayatname": "INDRAP",
+      "ihhltotalasperdetails": 151,
+      "ihhltotalach": 151,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "BECHRAJI",
+      "grampanchayatname": "JETPURA",
+      "ihhltotalasperdetails": 565,
+      "ihhltotalach": 565,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "BECHRAJI",
+      "grampanchayatname": "KALRI",
+      "ihhltotalasperdetails": 496,
+      "ihhltotalach": 496,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "BECHRAJI",
+      "grampanchayatname": "KANODA-KAKASANA",
+      "ihhltotalasperdetails": 349,
+      "ihhltotalach": 349,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "BECHRAJI",
+      "grampanchayatname": "KARANPURA",
+      "ihhltotalasperdetails": 101,
+      "ihhltotalach": 101,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "BECHRAJI",
+      "grampanchayatname": "KARANSAGAR",
+      "ihhltotalasperdetails": 179,
+      "ihhltotalach": 179,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "BECHRAJI",
+      "grampanchayatname": "KHAMBHEL",
+      "ihhltotalasperdetails": 374,
+      "ihhltotalach": 374,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "BECHRAJI",
+      "grampanchayatname": "MANDALI",
+      "ihhltotalasperdetails": 162,
+      "ihhltotalach": 162,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "BECHRAJI",
+      "grampanchayatname": "MATRASAN",
+      "ihhltotalasperdetails": 169,
+      "ihhltotalach": 169,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "BECHRAJI",
+      "grampanchayatname": "MODHERA",
+      "ihhltotalasperdetails": 985,
+      "ihhltotalach": 985,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "BECHRAJI",
+      "grampanchayatname": "MOTAP",
+      "ihhltotalasperdetails": 634,
+      "ihhltotalach": 634,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "BECHRAJI",
+      "grampanchayatname": "POYDA",
+      "ihhltotalasperdetails": 152,
+      "ihhltotalach": 152,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "BECHRAJI",
+      "grampanchayatname": "PRATAPGADH",
+      "ihhltotalasperdetails": 127,
+      "ihhltotalach": 127,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "BECHRAJI",
+      "grampanchayatname": "PRATAPNAGAR",
+      "ihhltotalasperdetails": 122,
+      "ihhltotalach": 122,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "BECHRAJI",
+      "grampanchayatname": "RANCHHODPURA",
+      "ihhltotalasperdetails": 97,
+      "ihhltotalach": 97,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "BECHRAJI",
+      "grampanchayatname": "RANELA",
+      "ihhltotalasperdetails": 362,
+      "ihhltotalach": 362,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "BECHRAJI",
+      "grampanchayatname": "RANTEJ",
+      "ihhltotalasperdetails": 275,
+      "ihhltotalach": 275,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "BECHRAJI",
+      "grampanchayatname": "RUPPURA KARANPURA",
+      "ihhltotalasperdetails": 215,
+      "ihhltotalach": 215,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "BECHRAJI",
+      "grampanchayatname": "SADUTHALA",
+      "ihhltotalasperdetails": 261,
+      "ihhltotalach": 261,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "BECHRAJI",
+      "grampanchayatname": "SAMPAVADA",
+      "ihhltotalasperdetails": 271,
+      "ihhltotalach": 271,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "BECHRAJI",
+      "grampanchayatname": "SANKHALPUR",
+      "ihhltotalasperdetails": 479,
+      "ihhltotalach": 479,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "BECHRAJI",
+      "grampanchayatname": "SUJANPURA",
+      "ihhltotalasperdetails": 71,
+      "ihhltotalach": 71,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "BECHRAJI",
+      "grampanchayatname": "SURAJ",
+      "ihhltotalasperdetails": 317,
+      "ihhltotalach": 317,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "BECHRAJI",
+      "grampanchayatname": "SURPURA",
+      "ihhltotalasperdetails": 250,
+      "ihhltotalach": 250,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "BECHRAJI",
+      "grampanchayatname": "UDELA",
+      "ihhltotalasperdetails": 76,
+      "ihhltotalach": 76,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "BECHRAJI",
+      "grampanchayatname": "VANPUR",
+      "ihhltotalasperdetails": 68,
+      "ihhltotalach": 68,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "BECHRAJI",
+      "grampanchayatname": "VENPURA",
+      "ihhltotalasperdetails": 200,
+      "ihhltotalach": 200,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "BECHRAJI",
+      "grampanchayatname": "VIJAPURDA",
+      "ihhltotalasperdetails": 318,
+      "ihhltotalach": 318,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "JOTANA",
+      "grampanchayatname": "AJABPURA",
+      "ihhltotalasperdetails": 196,
+      "ihhltotalach": 196,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "JOTANA",
+      "grampanchayatname": "ALAMPUR",
+      "ihhltotalasperdetails": 147,
+      "ihhltotalach": 147,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "JOTANA",
+      "grampanchayatname": "BALSASAN",
+      "ihhltotalasperdetails": 210,
+      "ihhltotalach": 210,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "JOTANA",
+      "grampanchayatname": "BHATARIYA",
+      "ihhltotalasperdetails": 150,
+      "ihhltotalach": 150,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "JOTANA",
+      "grampanchayatname": "BHATASAN",
+      "ihhltotalasperdetails": 530,
+      "ihhltotalach": 530,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "JOTANA",
+      "grampanchayatname": "CHALASAN",
+      "ihhltotalasperdetails": 375,
+      "ihhltotalach": 375,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "JOTANA",
+      "grampanchayatname": "CHHALESARA",
+      "ihhltotalasperdetails": 296,
+      "ihhltotalach": 296,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "JOTANA",
+      "grampanchayatname": "DHANALI",
+      "ihhltotalasperdetails": 439,
+      "ihhltotalach": 439,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "JOTANA",
+      "grampanchayatname": "DHANDHALPUR",
+      "ihhltotalasperdetails": 118,
+      "ihhltotalach": 118,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "JOTANA",
+      "grampanchayatname": "DHANPURA (KATOSAN)",
+      "ihhltotalasperdetails": 29,
+      "ihhltotalach": 29,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "JOTANA",
+      "grampanchayatname": "DHOLASAN",
+      "ihhltotalasperdetails": 294,
+      "ihhltotalach": 294,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "JOTANA",
+      "grampanchayatname": "DIGDI",
+      "ihhltotalasperdetails": 227,
+      "ihhltotalach": 227,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "JOTANA",
+      "grampanchayatname": "GOKALPURA",
+      "ihhltotalasperdetails": 94,
+      "ihhltotalach": 94,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "JOTANA",
+      "grampanchayatname": "GOVINDVADI",
+      "ihhltotalasperdetails": 54,
+      "ihhltotalach": 54,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "JOTANA",
+      "grampanchayatname": "HARSUNDAL",
+      "ihhltotalasperdetails": 362,
+      "ihhltotalach": 362,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "JOTANA",
+      "grampanchayatname": "IJPURA JETHAJI",
+      "ihhltotalasperdetails": 175,
+      "ihhltotalach": 175,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "JOTANA",
+      "grampanchayatname": "JAKASANA",
+      "ihhltotalasperdetails": 301,
+      "ihhltotalach": 301,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "JOTANA",
+      "grampanchayatname": "JOTANA",
+      "ihhltotalasperdetails": 1139,
+      "ihhltotalach": 1139,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "JOTANA",
+      "grampanchayatname": "KANPURA",
+      "ihhltotalasperdetails": 59,
+      "ihhltotalach": 59,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "JOTANA",
+      "grampanchayatname": "KASALPUR",
+      "ihhltotalasperdetails": 253,
+      "ihhltotalach": 253,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "JOTANA",
+      "grampanchayatname": "KATOSAN",
+      "ihhltotalasperdetails": 711,
+      "ihhltotalach": 711,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "JOTANA",
+      "grampanchayatname": "KHADALPUR",
+      "ihhltotalasperdetails": 622,
+      "ihhltotalach": 622,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "JOTANA",
+      "grampanchayatname": "MAHMADPURA",
+      "ihhltotalasperdetails": 357,
+      "ihhltotalach": 357,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "JOTANA",
+      "grampanchayatname": "MANKNAJ",
+      "ihhltotalasperdetails": 802,
+      "ihhltotalach": 802,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "JOTANA",
+      "grampanchayatname": "MARTOLI",
+      "ihhltotalasperdetails": 354,
+      "ihhltotalach": 354,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "JOTANA",
+      "grampanchayatname": "MODIPUR",
+      "ihhltotalasperdetails": 151,
+      "ihhltotalach": 151,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "JOTANA",
+      "grampanchayatname": "MOYAN",
+      "ihhltotalasperdetails": 192,
+      "ihhltotalach": 192,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "JOTANA",
+      "grampanchayatname": "MUDARDA",
+      "ihhltotalasperdetails": 514,
+      "ihhltotalach": 514,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "JOTANA",
+      "grampanchayatname": "RAMPURA (KATOSAN)",
+      "ihhltotalasperdetails": 350,
+      "ihhltotalach": 350,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "JOTANA",
+      "grampanchayatname": "RANIPURA",
+      "ihhltotalasperdetails": 54,
+      "ihhltotalach": 54,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "JOTANA",
+      "grampanchayatname": "SANTHAL",
+      "ihhltotalasperdetails": 314,
+      "ihhltotalach": 314,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "JOTANA",
+      "grampanchayatname": "SIDOSAN",
+      "ihhltotalasperdetails": 78,
+      "ihhltotalach": 78,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "JOTANA",
+      "grampanchayatname": "SURAJ",
+      "ihhltotalasperdetails": 1140,
+      "ihhltotalach": 1140,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "JOTANA",
+      "grampanchayatname": "TEJPURA",
+      "ihhltotalasperdetails": 119,
+      "ihhltotalach": 119,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "JOTANA",
+      "grampanchayatname": "TELAVI",
+      "ihhltotalasperdetails": 127,
+      "ihhltotalach": 127,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "JOTANA",
+      "grampanchayatname": "VIRSODA",
+      "ihhltotalasperdetails": 320,
+      "ihhltotalach": 320,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "ACHRASAN",
+      "ihhltotalasperdetails": 528,
+      "ihhltotalach": 528,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "ADARAJ",
+      "ihhltotalasperdetails": 1033,
+      "ihhltotalach": 1033,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "ADUNDARA",
+      "ihhltotalasperdetails": 448,
+      "ihhltotalach": 448,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "AGOL",
+      "ihhltotalasperdetails": 1046,
+      "ihhltotalach": 1046,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "ALDESAN",
+      "ihhltotalasperdetails": 601,
+      "ihhltotalach": 601,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "AMBALIYARA-MERDA",
+      "ihhltotalasperdetails": 438,
+      "ihhltotalach": 438,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "AMBAVPURA",
+      "ihhltotalasperdetails": 318,
+      "ihhltotalach": 318,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "ANANDPURA",
+      "ihhltotalasperdetails": 320,
+      "ihhltotalach": 320,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "ANKHOL",
+      "ihhltotalasperdetails": 314,
+      "ihhltotalach": 314,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "BABAJIPURA",
+      "ihhltotalasperdetails": 150,
+      "ihhltotalach": 150,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "BALASAR",
+      "ihhltotalasperdetails": 411,
+      "ihhltotalach": 411,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "BAVLU",
+      "ihhltotalasperdetails": 743,
+      "ihhltotalach": 743,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "BHALTHI",
+      "ihhltotalasperdetails": 374,
+      "ihhltotalach": 374,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "BORISANA",
+      "ihhltotalasperdetails": 718,
+      "ihhltotalach": 718,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "BUDASAN",
+      "ihhltotalasperdetails": 461,
+      "ihhltotalach": 461,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "CHADASANA",
+      "ihhltotalasperdetails": 277,
+      "ihhltotalach": 277,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "CHANDANPURA",
+      "ihhltotalasperdetails": 143,
+      "ihhltotalach": 143,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "CHANDARDA",
+      "ihhltotalasperdetails": 354,
+      "ihhltotalach": 354,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "CHANDRASAN",
+      "ihhltotalasperdetails": 431,
+      "ihhltotalach": 431,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "CHAROL",
+      "ihhltotalasperdetails": 338,
+      "ihhltotalach": 338,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "DANGARVA",
+      "ihhltotalasperdetails": 1201,
+      "ihhltotalach": 1201,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "DARAN",
+      "ihhltotalasperdetails": 1121,
+      "ihhltotalach": 1121,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "DARAN MORVA",
+      "ihhltotalasperdetails": 111,
+      "ihhltotalach": 111,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "DELLA",
+      "ihhltotalasperdetails": 277,
+      "ihhltotalach": 277,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "DEUSANA",
+      "ihhltotalasperdetails": 442,
+      "ihhltotalach": 442,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "DHORIYA",
+      "ihhltotalasperdetails": 201,
+      "ihhltotalach": 201,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "DUDHAI",
+      "ihhltotalasperdetails": 116,
+      "ihhltotalach": 116,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "FULETRA",
+      "ihhltotalasperdetails": 766,
+      "ihhltotalach": 766,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "GALODRA",
+      "ihhltotalasperdetails": 223,
+      "ihhltotalach": 223,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "GANESHPURA",
+      "ihhltotalasperdetails": 284,
+      "ihhltotalach": 284,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "GHUMASAN",
+      "ihhltotalasperdetails": 876,
+      "ihhltotalach": 876,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "GOVINDPURA",
+      "ihhltotalasperdetails": 127,
+      "ihhltotalach": 127,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "HARIPURA",
+      "ihhltotalasperdetails": 79,
+      "ihhltotalach": 79,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "INDRAD",
+      "ihhltotalasperdetails": 1082,
+      "ihhltotalach": 1082,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "IRANA",
+      "ihhltotalasperdetails": 606,
+      "ihhltotalach": 606,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "ISHVARPURA (FATTEHPURA)",
+      "ihhltotalasperdetails": 133,
+      "ihhltotalach": 133,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "JADAVPURA",
+      "ihhltotalasperdetails": 115,
+      "ihhltotalach": 115,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "JASALPUR",
+      "ihhltotalasperdetails": 572,
+      "ihhltotalach": 572,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "JAYDEVPURA",
+      "ihhltotalasperdetails": 105,
+      "ihhltotalach": 105,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "JAYMATPURA",
+      "ihhltotalasperdetails": 95,
+      "ihhltotalach": 95,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "JESANGPURA",
+      "ihhltotalasperdetails": 194,
+      "ihhltotalach": 194,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "JETPURA",
+      "ihhltotalasperdetails": 228,
+      "ihhltotalach": 228,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "JHALODA",
+      "ihhltotalasperdetails": 909,
+      "ihhltotalach": 909,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "JHULASAN",
+      "ihhltotalasperdetails": 952,
+      "ihhltotalach": 952,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "KAIYAL",
+      "ihhltotalasperdetails": 762,
+      "ihhltotalach": 762,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "KALYANPURA",
+      "ihhltotalasperdetails": 624,
+      "ihhltotalach": 624,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "KAMALAPURA",
+      "ihhltotalasperdetails": 200,
+      "ihhltotalach": 200,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "KANJARI",
+      "ihhltotalasperdetails": 230,
+      "ihhltotalach": 230,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "KARANNAGAR",
+      "ihhltotalasperdetails": 1468,
+      "ihhltotalach": 1468,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "KARJISAN",
+      "ihhltotalasperdetails": 696,
+      "ihhltotalach": 696,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "KARSANPURA",
+      "ihhltotalasperdetails": 196,
+      "ihhltotalach": 196,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "KASVA",
+      "ihhltotalasperdetails": 460,
+      "ihhltotalach": 460,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "KHANDERAVPURA",
+      "ihhltotalasperdetails": 331,
+      "ihhltotalach": 331,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "KHAVAD",
+      "ihhltotalasperdetails": 664,
+      "ihhltotalach": 664,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "KHERPUR",
+      "ihhltotalasperdetails": 265,
+      "ihhltotalach": 265,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "KOLAD",
+      "ihhltotalasperdetails": 362,
+      "ihhltotalach": 362,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "KORDA-GHUGHALA",
+      "ihhltotalasperdetails": 417,
+      "ihhltotalach": 417,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "KUNDAL (PART)",
+      "ihhltotalasperdetails": 1568,
+      "ihhltotalach": 1568,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "LAKSHMANPURA",
+      "ihhltotalasperdetails": 317,
+      "ihhltotalach": 317,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "LAKSHMIPURA (A)",
+      "ihhltotalasperdetails": 226,
+      "ihhltotalach": 226,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "LAKSHMIPURA (NANDASAN)",
+      "ihhltotalasperdetails": 17,
+      "ihhltotalach": 17,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "LHOR-ROJAPURI",
+      "ihhltotalasperdetails": 357,
+      "ihhltotalach": 357,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "LUNASAN",
+      "ihhltotalasperdetails": 376,
+      "ihhltotalach": 376,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "MAHARAJPURA",
+      "ihhltotalasperdetails": 194,
+      "ihhltotalach": 194,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "MANIPUR",
+      "ihhltotalasperdetails": 206,
+      "ihhltotalach": 206,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "MATHASUR",
+      "ihhltotalasperdetails": 629,
+      "ihhltotalach": 629,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "MEDHA",
+      "ihhltotalasperdetails": 467,
+      "ihhltotalach": 467,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "MOKASAN",
+      "ihhltotalasperdetails": 388,
+      "ihhltotalach": 388,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "NADAN",
+      "ihhltotalasperdetails": 217,
+      "ihhltotalach": 217,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "NADOLIYA",
+      "ihhltotalasperdetails": 113,
+      "ihhltotalach": 113,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "NAGARASAN",
+      "ihhltotalasperdetails": 457,
+      "ihhltotalach": 457,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "NANDASAN",
+      "ihhltotalasperdetails": 1561,
+      "ihhltotalach": 1561,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "NANI KADI",
+      "ihhltotalasperdetails": 402,
+      "ihhltotalach": 402,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "NANPURA-SONVAD",
+      "ihhltotalasperdetails": 87,
+      "ihhltotalach": 87,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "NARANPURA",
+      "ihhltotalasperdetails": 54,
+      "ihhltotalach": 54,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "NAROLA",
+      "ihhltotalasperdetails": 388,
+      "ihhltotalach": 388,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "NARSIHPURA",
+      "ihhltotalasperdetails": 267,
+      "ihhltotalach": 267,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "NAVAPURA-NANDASAN",
+      "ihhltotalasperdetails": 436,
+      "ihhltotalach": 436,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "PALLI",
+      "ihhltotalasperdetails": 219,
+      "ihhltotalach": 219,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "PANDHARPUR",
+      "ihhltotalasperdetails": 167,
+      "ihhltotalach": 167,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "PANTHODA",
+      "ihhltotalasperdetails": 563,
+      "ihhltotalach": 563,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "PIROJPUR",
+      "ihhltotalasperdetails": 327,
+      "ihhltotalach": 327,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "RAJPUR",
+      "ihhltotalasperdetails": 1358,
+      "ihhltotalach": 1358,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "RANCHHODPURA",
+      "ihhltotalasperdetails": 244,
+      "ihhltotalach": 244,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "RANGPURDA",
+      "ihhltotalasperdetails": 464,
+      "ihhltotalach": 464,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "SADRA-ALUSANA",
+      "ihhltotalasperdetails": 719,
+      "ihhltotalach": 719,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "SARSAV",
+      "ihhltotalasperdetails": 392,
+      "ihhltotalach": 392,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "SEDARDI",
+      "ihhltotalasperdetails": 241,
+      "ihhltotalach": 241,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "SENDRANA",
+      "ihhltotalasperdetails": 163,
+      "ihhltotalach": 163,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "SHIYAPURA",
+      "ihhltotalasperdetails": 176,
+      "ihhltotalach": 176,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "SONVAD",
+      "ihhltotalasperdetails": 117,
+      "ihhltotalach": 117,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "SUJATPURA",
+      "ihhltotalasperdetails": 130,
+      "ihhltotalach": 130,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "TANKIYA",
+      "ihhltotalasperdetails": 229,
+      "ihhltotalach": 229,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "THADOD",
+      "ihhltotalasperdetails": 119,
+      "ihhltotalach": 119,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "THODMALPURA",
+      "ihhltotalasperdetails": 59,
+      "ihhltotalach": 59,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "THOL-SEDFA",
+      "ihhltotalasperdetails": 1186,
+      "ihhltotalach": 1186,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "UMANAGAR (NANDASAN)",
+      "ihhltotalasperdetails": 8,
+      "ihhltotalach": 8,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "UNTVA",
+      "ihhltotalasperdetails": 280,
+      "ihhltotalach": 280,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "VADAVI",
+      "ihhltotalasperdetails": 782,
+      "ihhltotalach": 782,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "VADPURA (KAIYAL)",
+      "ihhltotalasperdetails": 2,
+      "ihhltotalach": 2,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "VADU",
+      "ihhltotalasperdetails": 735,
+      "ihhltotalach": 735,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "VAGHRODA",
+      "ihhltotalasperdetails": 547,
+      "ihhltotalach": 547,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "VAMAJ",
+      "ihhltotalasperdetails": 815,
+      "ihhltotalach": 815,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "VANSOL",
+      "ihhltotalasperdetails": 431,
+      "ihhltotalach": 431,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "VARKHADIYA",
+      "ihhltotalasperdetails": 398,
+      "ihhltotalach": 398,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "VEKRA",
+      "ihhltotalasperdetails": 396,
+      "ihhltotalach": 396,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "VIDAJ",
+      "ihhltotalasperdetails": 420,
+      "ihhltotalach": 420,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "VINAYAKPURA-JAMIYATPURA",
+      "ihhltotalasperdetails": 100,
+      "ihhltotalach": 100,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "VISALPUR",
+      "ihhltotalasperdetails": 265,
+      "ihhltotalach": 265,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "VISATPURA",
+      "ihhltotalasperdetails": 253,
+      "ihhltotalach": 253,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KADI",
+      "grampanchayatname": "YASHVANTPURA",
+      "ihhltotalasperdetails": 258,
+      "ihhltotalach": 258,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KHERALU",
+      "grampanchayatname": "AMBAVADA",
+      "ihhltotalasperdetails": 269,
+      "ihhltotalach": 269,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KHERALU",
+      "grampanchayatname": "ARATHI",
+      "ihhltotalasperdetails": 358,
+      "ihhltotalach": 358,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KHERALU",
+      "grampanchayatname": "BALAD",
+      "ihhltotalasperdetails": 554,
+      "ihhltotalach": 554,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KHERALU",
+      "grampanchayatname": "CHACHARIYA",
+      "ihhltotalasperdetails": 145,
+      "ihhltotalach": 145,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KHERALU",
+      "grampanchayatname": "CHADA-AMARAPUR",
+      "ihhltotalasperdetails": 590,
+      "ihhltotalach": 590,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KHERALU",
+      "grampanchayatname": "CHANSOL",
+      "ihhltotalasperdetails": 640,
+      "ihhltotalach": 640,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KHERALU",
+      "grampanchayatname": "CHOTIYA",
+      "ihhltotalasperdetails": 383,
+      "ihhltotalach": 383,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KHERALU",
+      "grampanchayatname": "DABHAD",
+      "ihhltotalasperdetails": 1038,
+      "ihhltotalach": 1038,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KHERALU",
+      "grampanchayatname": "DABHODA",
+      "ihhltotalasperdetails": 987,
+      "ihhltotalach": 987,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KHERALU",
+      "grampanchayatname": "DALISANA",
+      "ihhltotalasperdetails": 370,
+      "ihhltotalach": 370,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KHERALU",
+      "grampanchayatname": "DAVOL",
+      "ihhltotalasperdetails": 448,
+      "ihhltotalach": 448,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KHERALU",
+      "grampanchayatname": "DEDASAN",
+      "ihhltotalasperdetails": 303,
+      "ihhltotalach": 303,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KHERALU",
+      "grampanchayatname": "DELVADA",
+      "ihhltotalasperdetails": 302,
+      "ihhltotalach": 302,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KHERALU",
+      "grampanchayatname": "FATTEPURA(KHE)",
+      "ihhltotalasperdetails": 146,
+      "ihhltotalach": 146,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KHERALU",
+      "grampanchayatname": "GATHAMAN",
+      "ihhltotalasperdetails": 151,
+      "ihhltotalach": 151,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KHERALU",
+      "grampanchayatname": "GORISANA",
+      "ihhltotalasperdetails": 409,
+      "ihhltotalach": 409,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KHERALU",
+      "grampanchayatname": "KUDA-RAHEMANPURA",
+      "ihhltotalasperdetails": 589,
+      "ihhltotalach": 589,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KHERALU",
+      "grampanchayatname": "LALAWADA",
+      "ihhltotalasperdetails": 284,
+      "ihhltotalach": 284,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KHERALU",
+      "grampanchayatname": "LIMBDI",
+      "ihhltotalasperdetails": 157,
+      "ihhltotalach": 157,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KHERALU",
+      "grampanchayatname": "LUNVA",
+      "ihhltotalasperdetails": 825,
+      "ihhltotalach": 825,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KHERALU",
+      "grampanchayatname": "MACHHAVA",
+      "ihhltotalasperdetails": 275,
+      "ihhltotalach": 275,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KHERALU",
+      "grampanchayatname": "MAHEKUBPURA",
+      "ihhltotalasperdetails": 208,
+      "ihhltotalach": 208,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KHERALU",
+      "grampanchayatname": "MAHIYAL-SAKARI",
+      "ihhltotalasperdetails": 361,
+      "ihhltotalach": 361,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KHERALU",
+      "grampanchayatname": "MALAPURA",
+      "ihhltotalasperdetails": 310,
+      "ihhltotalach": 310,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KHERALU",
+      "grampanchayatname": "MALEKPUR (KHE)",
+      "ihhltotalasperdetails": 759,
+      "ihhltotalach": 759,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KHERALU",
+      "grampanchayatname": "MANDALI",
+      "ihhltotalasperdetails": 1032,
+      "ihhltotalach": 1032,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KHERALU",
+      "grampanchayatname": "MANDROPUR-SUVARIYA",
+      "ihhltotalasperdetails": 542,
+      "ihhltotalach": 542,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KHERALU",
+      "grampanchayatname": "MOTI HIRVANI",
+      "ihhltotalasperdetails": 246,
+      "ihhltotalach": 246,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KHERALU",
+      "grampanchayatname": "NALU",
+      "ihhltotalasperdetails": 253,
+      "ihhltotalach": 253,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KHERALU",
+      "grampanchayatname": "NANDALI-MIYASANA",
+      "ihhltotalasperdetails": 360,
+      "ihhltotalach": 360,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KHERALU",
+      "grampanchayatname": "NANI HIRVANI",
+      "ihhltotalasperdetails": 378,
+      "ihhltotalach": 378,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KHERALU",
+      "grampanchayatname": "NANIVADA-GAJI",
+      "ihhltotalasperdetails": 357,
+      "ihhltotalach": 357,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KHERALU",
+      "grampanchayatname": "NORTOL",
+      "ihhltotalasperdetails": 373,
+      "ihhltotalach": 373,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KHERALU",
+      "grampanchayatname": "PANCHHA",
+      "ihhltotalasperdetails": 507,
+      "ihhltotalach": 507,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KHERALU",
+      "grampanchayatname": "RASULPUR",
+      "ihhltotalasperdetails": 266,
+      "ihhltotalach": 266,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KHERALU",
+      "grampanchayatname": "SADIKPUR",
+      "ihhltotalasperdetails": 145,
+      "ihhltotalach": 145,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KHERALU",
+      "grampanchayatname": "SAKRI",
+      "ihhltotalasperdetails": 247,
+      "ihhltotalach": 247,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KHERALU",
+      "grampanchayatname": "SAMOJA",
+      "ihhltotalasperdetails": 111,
+      "ihhltotalach": 111,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KHERALU",
+      "grampanchayatname": "SANGATHALA",
+      "ihhltotalasperdetails": 481,
+      "ihhltotalach": 481,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KHERALU",
+      "grampanchayatname": "THANGANA",
+      "ihhltotalasperdetails": 259,
+      "ihhltotalach": 259,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KHERALU",
+      "grampanchayatname": "VAGHVADI",
+      "ihhltotalasperdetails": 504,
+      "ihhltotalach": 504,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KHERALU",
+      "grampanchayatname": "VARETHA",
+      "ihhltotalasperdetails": 508,
+      "ihhltotalach": 508,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KHERALU",
+      "grampanchayatname": "VAVDI (KHE)",
+      "ihhltotalasperdetails": 281,
+      "ihhltotalach": 281,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "KHERALU",
+      "grampanchayatname": "VITHODA-SHAHPUR(KHE)",
+      "ihhltotalasperdetails": 700,
+      "ihhltotalach": 700,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "AKHAJ",
+      "ihhltotalasperdetails": 1027,
+      "ihhltotalach": 1027,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "ALODA",
+      "ihhltotalasperdetails": 241,
+      "ihhltotalach": 241,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "AMBALIYASAN",
+      "ihhltotalasperdetails": 1127,
+      "ihhltotalach": 1127,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "AMBASAN",
+      "ihhltotalasperdetails": 1078,
+      "ihhltotalach": 1078,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "AMIPURA",
+      "ihhltotalasperdetails": 5,
+      "ihhltotalach": 5,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "ANANDPURA (PANCHOT)",
+      "ihhltotalasperdetails": 56,
+      "ihhltotalach": 56,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "BALIYASAN",
+      "ihhltotalasperdetails": 305,
+      "ihhltotalach": 305,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "BALOL",
+      "ihhltotalasperdetails": 1112,
+      "ihhltotalach": 1112,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "BALVANTPURA",
+      "ihhltotalasperdetails": 72,
+      "ihhltotalach": 72,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "BAMOSANA",
+      "ihhltotalasperdetails": 112,
+      "ihhltotalach": 112,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "BHAKADIYA-GERATPUR",
+      "ihhltotalasperdetails": 238,
+      "ihhltotalach": 238,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "BHASARIYA",
+      "ihhltotalasperdetails": 399,
+      "ihhltotalach": 399,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "BHESANA",
+      "ihhltotalasperdetails": 438,
+      "ihhltotalach": 438,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "BODLA",
+      "ihhltotalasperdetails": 199,
+      "ihhltotalach": 199,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "BORIAVI",
+      "ihhltotalasperdetails": 843,
+      "ihhltotalach": 843,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "BUTTAPALDI",
+      "ihhltotalasperdetails": 451,
+      "ihhltotalach": 451,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "CHALUVA",
+      "ihhltotalasperdetails": 234,
+      "ihhltotalach": 234,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "CHARADU",
+      "ihhltotalasperdetails": 334,
+      "ihhltotalach": 334,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "CHHATHIYARDA",
+      "ihhltotalasperdetails": 546,
+      "ihhltotalach": 546,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "CHITRODIPURA",
+      "ihhltotalasperdetails": 422,
+      "ihhltotalach": 422,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "DAVADA",
+      "ihhltotalasperdetails": 438,
+      "ihhltotalach": 438,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "DEDIYASAN",
+      "ihhltotalasperdetails": 444,
+      "ihhltotalach": 444,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "DELA",
+      "ihhltotalasperdetails": 295,
+      "ihhltotalach": 295,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "DELOLI",
+      "ihhltotalasperdetails": 108,
+      "ihhltotalach": 108,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "DETROJPURA",
+      "ihhltotalasperdetails": 3,
+      "ihhltotalach": 3,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "DEVINAPURA",
+      "ihhltotalasperdetails": 204,
+      "ihhltotalach": 204,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "DEVRASAN",
+      "ihhltotalasperdetails": 279,
+      "ihhltotalach": 279,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "DHANDHUSAN",
+      "ihhltotalasperdetails": 391,
+      "ihhltotalach": 391,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "DHANPURA  (JORNANG)",
+      "ihhltotalasperdetails": 3,
+      "ihhltotalach": 3,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "DHOLASAN",
+      "ihhltotalasperdetails": 468,
+      "ihhltotalach": 468,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "DITASAN",
+      "ihhltotalasperdetails": 58,
+      "ihhltotalach": 58,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "DIVANPURA-ALIAS-APAPURA",
+      "ihhltotalasperdetails": 230,
+      "ihhltotalach": 230,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "FATEHPURA",
+      "ihhltotalasperdetails": 163,
+      "ihhltotalach": 163,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "GAMANPURA",
+      "ihhltotalasperdetails": 165,
+      "ihhltotalach": 165,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "GANESHPURA",
+      "ihhltotalasperdetails": 112,
+      "ihhltotalach": 112,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "GERATPUR",
+      "ihhltotalasperdetails": 62,
+      "ihhltotalach": 62,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "GHADHA",
+      "ihhltotalasperdetails": 154,
+      "ihhltotalach": 154,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "GILOSAN",
+      "ihhltotalasperdetails": 306,
+      "ihhltotalach": 306,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "GOJHARIYA",
+      "ihhltotalasperdetails": 1205,
+      "ihhltotalach": 1205,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "GOKALGADH",
+      "ihhltotalasperdetails": 212,
+      "ihhltotalach": 212,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "GORAD",
+      "ihhltotalasperdetails": 492,
+      "ihhltotalach": 492,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "HADVI",
+      "ihhltotalasperdetails": 144,
+      "ihhltotalach": 144,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "HARDESAN",
+      "ihhltotalasperdetails": 187,
+      "ihhltotalach": 187,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "HARIPURA (RUPAL)",
+      "ihhltotalasperdetails": 56,
+      "ihhltotalach": 56,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "HEBUVA",
+      "ihhltotalasperdetails": 361,
+      "ihhltotalach": 361,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "HEDUVA HANUMANT",
+      "ihhltotalasperdetails": 87,
+      "ihhltotalach": 87,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "HEDUVA-RAJGAR",
+      "ihhltotalasperdetails": 190,
+      "ihhltotalach": 190,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "HINGLAJPURA",
+      "ihhltotalasperdetails": 142,
+      "ihhltotalach": 142,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "IJPURA BAROT",
+      "ihhltotalasperdetails": 207,
+      "ihhltotalach": 207,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "JAGUDAN",
+      "ihhltotalasperdetails": 868,
+      "ihhltotalach": 868,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "JAMNAPUR",
+      "ihhltotalasperdetails": 202,
+      "ihhltotalach": 202,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "JETALPUR",
+      "ihhltotalasperdetails": 221,
+      "ihhltotalach": 221,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "JORNANG",
+      "ihhltotalasperdetails": 1294,
+      "ihhltotalach": 1294,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "JUNI SEDHAVI",
+      "ihhltotalasperdetails": 108,
+      "ihhltotalach": 108,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "KADVASAN",
+      "ihhltotalasperdetails": 328,
+      "ihhltotalach": 328,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "KARSHANPURA",
+      "ihhltotalasperdetails": 1,
+      "ihhltotalach": 1,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "KHARA",
+      "ihhltotalasperdetails": 217,
+      "ihhltotalach": 217,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "KHARSADA",
+      "ihhltotalasperdetails": 155,
+      "ihhltotalach": 155,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "KHERVA",
+      "ihhltotalasperdetails": 1257,
+      "ihhltotalach": 1257,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "KOCHVA",
+      "ihhltotalasperdetails": 196,
+      "ihhltotalach": 196,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "KUKAS",
+      "ihhltotalasperdetails": 140,
+      "ihhltotalach": 140,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "LAKHAVAD",
+      "ihhltotalasperdetails": 508,
+      "ihhltotalach": 508,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "LALJINAGAR",
+      "ihhltotalasperdetails": 161,
+      "ihhltotalach": 161,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "LANGHNAJ",
+      "ihhltotalasperdetails": 427,
+      "ihhltotalach": 427,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "LAXMIPURA (KHARA)",
+      "ihhltotalasperdetails": 234,
+      "ihhltotalach": 234,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "LINCH",
+      "ihhltotalasperdetails": 1692,
+      "ihhltotalach": 1692,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "MAGUNA",
+      "ihhltotalasperdetails": 687,
+      "ihhltotalach": 687,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "MANDALI",
+      "ihhltotalasperdetails": 672,
+      "ihhltotalach": 672,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "MAREDA",
+      "ihhltotalasperdetails": 266,
+      "ihhltotalach": 266,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "MEGHA ALIYASANA",
+      "ihhltotalasperdetails": 240,
+      "ihhltotalach": 240,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "MEU -BADALPUR",
+      "ihhltotalasperdetails": 1270,
+      "ihhltotalach": 1270,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "MEVAD",
+      "ihhltotalasperdetails": 88,
+      "ihhltotalach": 88,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "MITHA",
+      "ihhltotalasperdetails": 260,
+      "ihhltotalach": 260,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "MOHANPURA",
+      "ihhltotalasperdetails": 250,
+      "ihhltotalach": 250,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "MOTIDAU",
+      "ihhltotalasperdetails": 263,
+      "ihhltotalach": 263,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "MULSAN",
+      "ihhltotalasperdetails": 491,
+      "ihhltotalach": 491,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "NADASA",
+      "ihhltotalasperdetails": 526,
+      "ihhltotalach": 526,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "NAGALPUR (PART)",
+      "ihhltotalasperdetails": 2,
+      "ihhltotalach": 2,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "NANIDAU",
+      "ihhltotalasperdetails": 579,
+      "ihhltotalach": 579,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "NAVI SEDHAVI",
+      "ihhltotalasperdetails": 88,
+      "ihhltotalach": 88,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "NUGAR",
+      "ihhltotalasperdetails": 906,
+      "ihhltotalach": 906,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "PADHARIYA",
+      "ihhltotalasperdetails": 525,
+      "ihhltotalach": 525,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "PALAJ",
+      "ihhltotalasperdetails": 358,
+      "ihhltotalach": 358,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "PALODAR",
+      "ihhltotalasperdetails": 220,
+      "ihhltotalach": 220,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "PALWASANA (PART)",
+      "ihhltotalasperdetails": 495,
+      "ihhltotalach": 495,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "PANCHOT",
+      "ihhltotalasperdetails": 1303,
+      "ihhltotalach": 1303,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "PILUDARA",
+      "ihhltotalasperdetails": 483,
+      "ihhltotalach": 483,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "PUNASAN",
+      "ihhltotalasperdetails": 627,
+      "ihhltotalach": 627,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "RAM VIJAYNAGAR",
+      "ihhltotalasperdetails": 17,
+      "ihhltotalach": 17,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "RAMOSANA",
+      "ihhltotalasperdetails": 890,
+      "ihhltotalach": 890,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "RAMPURA (KUKAS)",
+      "ihhltotalasperdetails": 68,
+      "ihhltotalach": 68,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "RUPAL (HARIPURA)",
+      "ihhltotalasperdetails": 64,
+      "ihhltotalach": 64,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "RUPAL (KUKAS)",
+      "ihhltotalasperdetails": 406,
+      "ihhltotalach": 406,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "SAKHPURDA",
+      "ihhltotalasperdetails": 152,
+      "ihhltotalach": 152,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "SALDI",
+      "ihhltotalasperdetails": 444,
+      "ihhltotalach": 444,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "SAMETRA",
+      "ihhltotalasperdetails": 468,
+      "ihhltotalach": 468,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "SANGANPUR",
+      "ihhltotalasperdetails": 710,
+      "ihhltotalach": 710,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "SHANKARPURA",
+      "ihhltotalasperdetails": 3,
+      "ihhltotalach": 3,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "SOBHASAN",
+      "ihhltotalasperdetails": 412,
+      "ihhltotalach": 412,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "SONERIPURA",
+      "ihhltotalasperdetails": 98,
+      "ihhltotalach": 98,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "TALETI",
+      "ihhltotalasperdetails": 225,
+      "ihhltotalach": 225,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "TAVADIYA",
+      "ihhltotalasperdetails": 199,
+      "ihhltotalach": 199,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "TUNDALI",
+      "ihhltotalasperdetails": 398,
+      "ihhltotalach": 398,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "UCHARPI",
+      "ihhltotalasperdetails": 112,
+      "ihhltotalach": 112,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "VADASMA",
+      "ihhltotalasperdetails": 764,
+      "ihhltotalach": 764,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "VADOSAN",
+      "ihhltotalasperdetails": 465,
+      "ihhltotalach": 465,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "VIRAMPURA",
+      "ihhltotalasperdetails": 5,
+      "ihhltotalach": 5,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "MAHESANA",
+      "grampanchayatname": "VIRTA",
+      "ihhltotalasperdetails": 450,
+      "ihhltotalach": 450,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "SATLASNA",
+      "grampanchayatname": "ANKALIYARA",
+      "ihhltotalasperdetails": 708,
+      "ihhltotalach": 708,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "SATLASNA",
+      "grampanchayatname": "BEDASMA",
+      "ihhltotalasperdetails": 208,
+      "ihhltotalach": 208,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "SATLASNA",
+      "grampanchayatname": "BHALUSANA",
+      "ihhltotalasperdetails": 773,
+      "ihhltotalach": 773,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "SATLASNA",
+      "grampanchayatname": "BHANAVAS",
+      "ihhltotalasperdetails": 189,
+      "ihhltotalach": 189,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "SATLASNA",
+      "grampanchayatname": "BHIMPUR",
+      "ihhltotalasperdetails": 672,
+      "ihhltotalach": 672,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "SATLASNA",
+      "grampanchayatname": "CHELANA",
+      "ihhltotalasperdetails": 299,
+      "ihhltotalach": 299,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "SATLASNA",
+      "grampanchayatname": "DHARAVANIA",
+      "ihhltotalasperdetails": 240,
+      "ihhltotalach": 240,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "SATLASNA",
+      "grampanchayatname": "DHAROI",
+      "ihhltotalasperdetails": 683,
+      "ihhltotalach": 683,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "SATLASNA",
+      "grampanchayatname": "FATEPURA",
+      "ihhltotalasperdetails": 336,
+      "ihhltotalach": 336,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "SATLASNA",
+      "grampanchayatname": "GOTHDA",
+      "ihhltotalasperdetails": 261,
+      "ihhltotalach": 261,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "SATLASNA",
+      "grampanchayatname": "HADOL",
+      "ihhltotalasperdetails": 417,
+      "ihhltotalach": 417,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "SATLASNA",
+      "grampanchayatname": "ISAKPURA",
+      "ihhltotalasperdetails": 916,
+      "ihhltotalach": 916,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "SATLASNA",
+      "grampanchayatname": "KANEDIYA",
+      "ihhltotalasperdetails": 594,
+      "ihhltotalach": 594,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "SATLASNA",
+      "grampanchayatname": "KHILOD",
+      "ihhltotalasperdetails": 1063,
+      "ihhltotalach": 1063,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "SATLASNA",
+      "grampanchayatname": "KHODAMALI",
+      "ihhltotalasperdetails": 737,
+      "ihhltotalach": 737,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "SATLASNA",
+      "grampanchayatname": "KUBADA",
+      "ihhltotalasperdetails": 278,
+      "ihhltotalach": 278,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "SATLASNA",
+      "grampanchayatname": "MALAPURA-KEVDASAN",
+      "ihhltotalasperdetails": 226,
+      "ihhltotalach": 226,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "SATLASNA",
+      "grampanchayatname": "MOTA KOTHASANA",
+      "ihhltotalasperdetails": 1251,
+      "ihhltotalach": 1251,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "SATLASNA",
+      "grampanchayatname": "MOTI BHALU",
+      "ihhltotalasperdetails": 329,
+      "ihhltotalach": 329,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "SATLASNA",
+      "grampanchayatname": "MUMANVAS",
+      "ihhltotalasperdetails": 370,
+      "ihhltotalach": 370,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "SATLASNA",
+      "grampanchayatname": "NANI BHALU",
+      "ihhltotalasperdetails": 377,
+      "ihhltotalach": 377,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "SATLASNA",
+      "grampanchayatname": "NEDARDI",
+      "ihhltotalasperdetails": 402,
+      "ihhltotalach": 402,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "SATLASNA",
+      "grampanchayatname": "OTALPUR",
+      "ihhltotalasperdetails": 418,
+      "ihhltotalach": 418,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "SATLASNA",
+      "grampanchayatname": "RANPUR",
+      "ihhltotalasperdetails": 382,
+      "ihhltotalach": 382,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "SATLASNA",
+      "grampanchayatname": "SAMARAPUR",
+      "ihhltotalasperdetails": 262,
+      "ihhltotalach": 262,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "SATLASNA",
+      "grampanchayatname": "SARDARPUR (CHI)",
+      "ihhltotalasperdetails": 404,
+      "ihhltotalach": 404,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "SATLASNA",
+      "grampanchayatname": "SARTANPUR (GADH)",
+      "ihhltotalasperdetails": 432,
+      "ihhltotalach": 432,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "SATLASNA",
+      "grampanchayatname": "SATLASANA",
+      "ihhltotalasperdetails": 1682,
+      "ihhltotalach": 1682,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "SATLASNA",
+      "grampanchayatname": "SUDASANA",
+      "ihhltotalasperdetails": 848,
+      "ihhltotalach": 848,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "SATLASNA",
+      "grampanchayatname": "TALEGADH",
+      "ihhltotalasperdetails": 300,
+      "ihhltotalach": 300,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "SATLASNA",
+      "grampanchayatname": "TIMBA",
+      "ihhltotalasperdetails": 663,
+      "ihhltotalach": 663,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "SATLASNA",
+      "grampanchayatname": "UMARI",
+      "ihhltotalasperdetails": 582,
+      "ihhltotalach": 582,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "SATLASNA",
+      "grampanchayatname": "UMRECHA",
+      "ihhltotalasperdetails": 715,
+      "ihhltotalach": 715,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "SATLASNA",
+      "grampanchayatname": "VAGHAR",
+      "ihhltotalasperdetails": 303,
+      "ihhltotalach": 303,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "SATLASNA",
+      "grampanchayatname": "VAJAPUR",
+      "ihhltotalasperdetails": 398,
+      "ihhltotalach": 398,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "SATLASNA",
+      "grampanchayatname": "VASAI-JASPURIYA",
+      "ihhltotalasperdetails": 443,
+      "ihhltotalach": 443,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "SATLASNA",
+      "grampanchayatname": "VAV",
+      "ihhltotalasperdetails": 805,
+      "ihhltotalach": 805,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "UNJHA",
+      "grampanchayatname": "AITHOR",
+      "ihhltotalasperdetails": 1459,
+      "ihhltotalach": 1459,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "UNJHA",
+      "grampanchayatname": "AMUDH",
+      "ihhltotalasperdetails": 563,
+      "ihhltotalach": 563,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "UNJHA",
+      "grampanchayatname": "BHANKHAR",
+      "ihhltotalasperdetails": 434,
+      "ihhltotalach": 434,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "UNJHA",
+      "grampanchayatname": "BHAVANIPURA",
+      "ihhltotalasperdetails": 149,
+      "ihhltotalach": 149,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "UNJHA",
+      "grampanchayatname": "BHUNAV",
+      "ihhltotalasperdetails": 1104,
+      "ihhltotalach": 1104,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "UNJHA",
+      "grampanchayatname": "BRAHMANVADA",
+      "ihhltotalasperdetails": 1270,
+      "ihhltotalach": 1270,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "UNJHA",
+      "grampanchayatname": "DABHI",
+      "ihhltotalasperdetails": 1003,
+      "ihhltotalach": 1003,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "UNJHA",
+      "grampanchayatname": "DASAJ",
+      "ihhltotalasperdetails": 1413,
+      "ihhltotalach": 1413,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "UNJHA",
+      "grampanchayatname": "GANGAPURA",
+      "ihhltotalasperdetails": 221,
+      "ihhltotalach": 221,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "UNJHA",
+      "grampanchayatname": "HAJIPUR",
+      "ihhltotalasperdetails": 293,
+      "ihhltotalach": 293,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "UNJHA",
+      "grampanchayatname": "JAGANNATHPURA",
+      "ihhltotalasperdetails": 355,
+      "ihhltotalach": 355,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "UNJHA",
+      "grampanchayatname": "KAHODA",
+      "ihhltotalasperdetails": 1668,
+      "ihhltotalach": 1668,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "UNJHA",
+      "grampanchayatname": "KAMLI",
+      "ihhltotalasperdetails": 1327,
+      "ihhltotalach": 1327,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "UNJHA",
+      "grampanchayatname": "KANTHRAVI",
+      "ihhltotalasperdetails": 1005,
+      "ihhltotalach": 1005,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "UNJHA",
+      "grampanchayatname": "KARANPUR",
+      "ihhltotalasperdetails": 290,
+      "ihhltotalach": 290,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "UNJHA",
+      "grampanchayatname": "KARLI",
+      "ihhltotalasperdetails": 897,
+      "ihhltotalach": 897,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "UNJHA",
+      "grampanchayatname": "KHATASANA",
+      "ihhltotalasperdetails": 311,
+      "ihhltotalach": 311,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "UNJHA",
+      "grampanchayatname": "LAXMIPURA",
+      "ihhltotalasperdetails": 221,
+      "ihhltotalach": 221,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "UNJHA",
+      "grampanchayatname": "LIHODA",
+      "ihhltotalasperdetails": 129,
+      "ihhltotalach": 129,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "UNJHA",
+      "grampanchayatname": "LINDI",
+      "ihhltotalasperdetails": 95,
+      "ihhltotalach": 95,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "UNJHA",
+      "grampanchayatname": "MAHERWADA",
+      "ihhltotalasperdetails": 521,
+      "ihhltotalach": 521,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "UNJHA",
+      "grampanchayatname": "MAKTUPUR",
+      "ihhltotalasperdetails": 764,
+      "ihhltotalach": 764,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "UNJHA",
+      "grampanchayatname": "NAVAPURA",
+      "ihhltotalasperdetails": 386,
+      "ihhltotalach": 386,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "UNJHA",
+      "grampanchayatname": "PALI",
+      "ihhltotalasperdetails": 382,
+      "ihhltotalach": 382,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "UNJHA",
+      "grampanchayatname": "RANCHHODPURA",
+      "ihhltotalasperdetails": 606,
+      "ihhltotalach": 606,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "UNJHA",
+      "grampanchayatname": "SHIHI",
+      "ihhltotalasperdetails": 610,
+      "ihhltotalach": 610,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "UNJHA",
+      "grampanchayatname": "SUNAK",
+      "ihhltotalasperdetails": 632,
+      "ihhltotalach": 632,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "UNJHA",
+      "grampanchayatname": "SURAJNAGAR",
+      "ihhltotalasperdetails": 272,
+      "ihhltotalach": 272,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "UNJHA",
+      "grampanchayatname": "SURPURA",
+      "ihhltotalasperdetails": 238,
+      "ihhltotalach": 238,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "UNJHA",
+      "grampanchayatname": "TUNDAV",
+      "ihhltotalasperdetails": 1254,
+      "ihhltotalach": 1254,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "UNJHA",
+      "grampanchayatname": "UNAVA",
+      "ihhltotalasperdetails": 2161,
+      "ihhltotalach": 2161,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "UNJHA",
+      "grampanchayatname": "UPERA",
+      "ihhltotalasperdetails": 1597,
+      "ihhltotalach": 1597,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "UNJHA",
+      "grampanchayatname": "VANAGLA",
+      "ihhltotalasperdetails": 464,
+      "ihhltotalach": 464,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "UNJHA",
+      "grampanchayatname": "VARVADA",
+      "ihhltotalasperdetails": 591,
+      "ihhltotalach": 591,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "UNJHA",
+      "grampanchayatname": "VISOL",
+      "ihhltotalasperdetails": 511,
+      "ihhltotalach": 511,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VADNAGAR",
+      "grampanchayatname": "ANANDPURA (TRANSVAD)",
+      "ihhltotalasperdetails": 286,
+      "ihhltotalach": 286,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VADNAGAR",
+      "grampanchayatname": "ASPA",
+      "ihhltotalasperdetails": 348,
+      "ihhltotalach": 348,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VADNAGAR",
+      "grampanchayatname": "BABIPURA",
+      "ihhltotalasperdetails": 207,
+      "ihhltotalach": 207,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VADNAGAR",
+      "grampanchayatname": "BADARPUR",
+      "ihhltotalasperdetails": 895,
+      "ihhltotalach": 895,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VADNAGAR",
+      "grampanchayatname": "BAJPURA-JAGAPUR",
+      "ihhltotalasperdetails": 383,
+      "ihhltotalach": 383,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VADNAGAR",
+      "grampanchayatname": "CHAMPA",
+      "ihhltotalasperdetails": 189,
+      "ihhltotalach": 189,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VADNAGAR",
+      "grampanchayatname": "CHHABALIYA",
+      "ihhltotalasperdetails": 1379,
+      "ihhltotalach": 1379,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VADNAGAR",
+      "grampanchayatname": "DABU",
+      "ihhltotalasperdetails": 323,
+      "ihhltotalach": 323,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VADNAGAR",
+      "grampanchayatname": "GANESHPURA",
+      "ihhltotalasperdetails": 203,
+      "ihhltotalach": 203,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VADNAGAR",
+      "grampanchayatname": "HAJIPUR",
+      "ihhltotalasperdetails": 33,
+      "ihhltotalach": 33,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VADNAGAR",
+      "grampanchayatname": "JASKA",
+      "ihhltotalasperdetails": 1268,
+      "ihhltotalach": 1268,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VADNAGAR",
+      "grampanchayatname": "KAHIPUR",
+      "ihhltotalasperdetails": 794,
+      "ihhltotalach": 794,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VADNAGAR",
+      "grampanchayatname": "KAMALPUR",
+      "ihhltotalasperdetails": 332,
+      "ihhltotalach": 332,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VADNAGAR",
+      "grampanchayatname": "KARBATIYA",
+      "ihhltotalasperdetails": 678,
+      "ihhltotalach": 678,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VADNAGAR",
+      "grampanchayatname": "KARSHANPURA",
+      "ihhltotalasperdetails": 326,
+      "ihhltotalach": 326,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VADNAGAR",
+      "grampanchayatname": "KESIMPA",
+      "ihhltotalasperdetails": 621,
+      "ihhltotalach": 621,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VADNAGAR",
+      "grampanchayatname": "KHANPUR",
+      "ihhltotalasperdetails": 127,
+      "ihhltotalach": 127,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VADNAGAR",
+      "grampanchayatname": "KHATASANA",
+      "ihhltotalasperdetails": 306,
+      "ihhltotalach": 306,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VADNAGAR",
+      "grampanchayatname": "KHATODA",
+      "ihhltotalasperdetails": 357,
+      "ihhltotalach": 357,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VADNAGAR",
+      "grampanchayatname": "MADHASANA",
+      "ihhltotalasperdetails": 232,
+      "ihhltotalach": 232,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VADNAGAR",
+      "grampanchayatname": "MALEKPUR-CHANDPUR",
+      "ihhltotalasperdetails": 775,
+      "ihhltotalach": 775,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VADNAGAR",
+      "grampanchayatname": "MIRJHAPUR",
+      "ihhltotalasperdetails": 218,
+      "ihhltotalach": 218,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VADNAGAR",
+      "grampanchayatname": "MOLIPUR",
+      "ihhltotalasperdetails": 849,
+      "ihhltotalach": 849,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VADNAGAR",
+      "grampanchayatname": "NAVAPURA",
+      "ihhltotalasperdetails": 172,
+      "ihhltotalach": 172,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VADNAGAR",
+      "grampanchayatname": "NAVAPURA (SU.)",
+      "ihhltotalasperdetails": 197,
+      "ihhltotalach": 197,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VADNAGAR",
+      "grampanchayatname": "PIPALDAR",
+      "ihhltotalasperdetails": 575,
+      "ihhltotalach": 575,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VADNAGAR",
+      "grampanchayatname": "RAJPUR (VAD)",
+      "ihhltotalasperdetails": 240,
+      "ihhltotalach": 240,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VADNAGAR",
+      "grampanchayatname": "REDLAXMIPURA",
+      "ihhltotalasperdetails": 215,
+      "ihhltotalach": 215,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VADNAGAR",
+      "grampanchayatname": "SABALPUR",
+      "ihhltotalasperdetails": 500,
+      "ihhltotalach": 500,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VADNAGAR",
+      "grampanchayatname": "SARNA",
+      "ihhltotalasperdetails": 190,
+      "ihhltotalach": 190,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VADNAGAR",
+      "grampanchayatname": "SHAHPUR (VAD)",
+      "ihhltotalasperdetails": 377,
+      "ihhltotalach": 377,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VADNAGAR",
+      "grampanchayatname": "SHEKHPUR (KHE)  HAJI",
+      "ihhltotalasperdetails": 100,
+      "ihhltotalach": 100,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VADNAGAR",
+      "grampanchayatname": "SHEKHPUR (VAD)",
+      "ihhltotalasperdetails": 97,
+      "ihhltotalach": 97,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VADNAGAR",
+      "grampanchayatname": "SHOBHASAN",
+      "ihhltotalasperdetails": 376,
+      "ihhltotalach": 376,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VADNAGAR",
+      "grampanchayatname": "SIPOR",
+      "ihhltotalasperdetails": 1039,
+      "ihhltotalach": 1039,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VADNAGAR",
+      "grampanchayatname": "SULIPUR",
+      "ihhltotalasperdetails": 177,
+      "ihhltotalach": 177,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VADNAGAR",
+      "grampanchayatname": "SULTANPUR",
+      "ihhltotalasperdetails": 708,
+      "ihhltotalach": 708,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VADNAGAR",
+      "grampanchayatname": "SUNDHIYA",
+      "ihhltotalasperdetails": 2226,
+      "ihhltotalach": 2226,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VADNAGAR",
+      "grampanchayatname": "TRANSVAD",
+      "ihhltotalasperdetails": 546,
+      "ihhltotalach": 546,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VADNAGAR",
+      "grampanchayatname": "UNAD",
+      "ihhltotalasperdetails": 739,
+      "ihhltotalach": 739,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VADNAGAR",
+      "grampanchayatname": "UNDANI",
+      "ihhltotalasperdetails": 523,
+      "ihhltotalach": 523,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VADNAGAR",
+      "grampanchayatname": "UNDHAI",
+      "ihhltotalasperdetails": 362,
+      "ihhltotalach": 362,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VADNAGAR",
+      "grampanchayatname": "VALASANA-VAGVADI (N&O)",
+      "ihhltotalasperdetails": 664,
+      "ihhltotalach": 664,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "ABASANA",
+      "ihhltotalasperdetails": 171,
+      "ihhltotalach": 171,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "ABHARAMPURA",
+      "ihhltotalasperdetails": 172,
+      "ihhltotalach": 172,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "AGALOD",
+      "ihhltotalasperdetails": 346,
+      "ihhltotalach": 346,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "ANANDPURA(KU)",
+      "ihhltotalasperdetails": 6,
+      "ihhltotalach": 6,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "ASODA",
+      "ihhltotalasperdetails": 330,
+      "ihhltotalach": 330,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "BAMANVA",
+      "ihhltotalasperdetails": 795,
+      "ihhltotalach": 795,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "BHANPUR",
+      "ihhltotalasperdetails": 283,
+      "ihhltotalach": 283,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "BILIYA",
+      "ihhltotalasperdetails": 386,
+      "ihhltotalach": 386,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "CHANDRANAGAR (DABHALA)",
+      "ihhltotalasperdetails": 5,
+      "ihhltotalach": 5,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "CHANGOD",
+      "ihhltotalasperdetails": 145,
+      "ihhltotalach": 145,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "DABHALA",
+      "ihhltotalasperdetails": 1339,
+      "ihhltotalach": 1339,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "DAGAVADIYA",
+      "ihhltotalasperdetails": 658,
+      "ihhltotalach": 658,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "DERIYA-TECHAVA",
+      "ihhltotalasperdetails": 194,
+      "ihhltotalach": 194,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "DEVDA",
+      "ihhltotalasperdetails": 777,
+      "ihhltotalach": 777,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "DEVIPURA (DABHALA)",
+      "ihhltotalasperdetails": 16,
+      "ihhltotalach": 16,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "DEVPURA",
+      "ihhltotalasperdetails": 349,
+      "ihhltotalach": 349,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "DHANPURA (GHANTU)",
+      "ihhltotalasperdetails": 1003,
+      "ihhltotalach": 1003,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "FALU",
+      "ihhltotalasperdetails": 999,
+      "ihhltotalach": 999,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "FATEPURA (PILVAI)",
+      "ihhltotalasperdetails": 225,
+      "ihhltotalach": 225,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "FUDEDA",
+      "ihhltotalasperdetails": 699,
+      "ihhltotalach": 699,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "GADHADA",
+      "ihhltotalasperdetails": 232,
+      "ihhltotalach": 232,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "GANESHPURA",
+      "ihhltotalasperdetails": 356,
+      "ihhltotalach": 356,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "GAVADA",
+      "ihhltotalasperdetails": 732,
+      "ihhltotalach": 732,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "GERITA",
+      "ihhltotalasperdetails": 970,
+      "ihhltotalach": 970,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "GOVINDPURA",
+      "ihhltotalasperdetails": 1822,
+      "ihhltotalach": 1822,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "GUNCHHALI",
+      "ihhltotalasperdetails": 271,
+      "ihhltotalach": 271,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "GUNDRASAN",
+      "ihhltotalasperdetails": 455,
+      "ihhltotalach": 455,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "HASNAPUR (GERITA)",
+      "ihhltotalasperdetails": 22,
+      "ihhltotalach": 22,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "HASNAPURA (SOJA)",
+      "ihhltotalasperdetails": 17,
+      "ihhltotalach": 17,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "HATHIPURA",
+      "ihhltotalasperdetails": 391,
+      "ihhltotalach": 391,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "HIRPURA",
+      "ihhltotalasperdetails": 726,
+      "ihhltotalach": 726,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "JANTRAL",
+      "ihhltotalasperdetails": 846,
+      "ihhltotalach": 846,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "JEPUR",
+      "ihhltotalasperdetails": 585,
+      "ihhltotalach": 585,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "KAMALPUR",
+      "ihhltotalasperdetails": 527,
+      "ihhltotalach": 527,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "KANABHA",
+      "ihhltotalasperdetails": 456,
+      "ihhltotalach": 456,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "KELISANA",
+      "ihhltotalasperdetails": 382,
+      "ihhltotalach": 382,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "KHANUSA",
+      "ihhltotalasperdetails": 789,
+      "ihhltotalach": 789,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "KHAROD",
+      "ihhltotalasperdetails": 879,
+      "ihhltotalach": 879,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "KOLAVDA",
+      "ihhltotalasperdetails": 1312,
+      "ihhltotalach": 1312,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "KOT",
+      "ihhltotalasperdetails": 406,
+      "ihhltotalach": 406,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "KOTADI",
+      "ihhltotalasperdetails": 1159,
+      "ihhltotalach": 1159,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "KUKARVADA",
+      "ihhltotalasperdetails": 465,
+      "ihhltotalach": 465,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "LADOL",
+      "ihhltotalasperdetails": 2471,
+      "ihhltotalach": 2471,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "MADHI",
+      "ihhltotalasperdetails": 536,
+      "ihhltotalach": 536,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "MAHADEVPURA (DABHALA)",
+      "ihhltotalasperdetails": 19,
+      "ihhltotalach": 19,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "MAHADEVPURA (GAVADA)",
+      "ihhltotalasperdetails": 3,
+      "ihhltotalach": 3,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "MALAV",
+      "ihhltotalasperdetails": 236,
+      "ihhltotalach": 236,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "MALOSAN",
+      "ihhltotalasperdetails": 486,
+      "ihhltotalach": 486,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "MANDALIKHAROD",
+      "ihhltotalasperdetails": 507,
+      "ihhltotalach": 507,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "MANEKPUR DABHALA",
+      "ihhltotalasperdetails": 178,
+      "ihhltotalach": 178,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "MORVAD",
+      "ihhltotalasperdetails": 315,
+      "ihhltotalach": 315,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "MOTIPURA(T)",
+      "ihhltotalasperdetails": 332,
+      "ihhltotalach": 332,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "PAMOL",
+      "ihhltotalasperdetails": 995,
+      "ihhltotalach": 995,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "PATELPURA (PILVAI)",
+      "ihhltotalasperdetails": 6,
+      "ihhltotalach": 6,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "PEDHAMALI",
+      "ihhltotalasperdetails": 248,
+      "ihhltotalach": 248,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "PILVAI",
+      "ihhltotalasperdetails": 898,
+      "ihhltotalach": 898,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "PIROJPURA",
+      "ihhltotalasperdetails": 174,
+      "ihhltotalach": 174,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "RAMPUR KOT",
+      "ihhltotalasperdetails": 526,
+      "ihhltotalach": 526,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "RAMPUR KUVAYDA",
+      "ihhltotalasperdetails": 294,
+      "ihhltotalach": 294,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "RANASAN",
+      "ihhltotalasperdetails": 1678,
+      "ihhltotalach": 1678,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "RANSIPUR",
+      "ihhltotalasperdetails": 398,
+      "ihhltotalach": 398,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "SANGHPUR",
+      "ihhltotalasperdetails": 532,
+      "ihhltotalach": 532,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "SARDARPUR",
+      "ihhltotalasperdetails": 940,
+      "ihhltotalach": 940,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "SAYAJINAGAR",
+      "ihhltotalasperdetails": 270,
+      "ihhltotalach": 270,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "SOJA",
+      "ihhltotalasperdetails": 288,
+      "ihhltotalach": 288,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "SOKHADA",
+      "ihhltotalasperdetails": 489,
+      "ihhltotalach": 489,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "SUNDARPUR",
+      "ihhltotalasperdetails": 755,
+      "ihhltotalach": 755,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "TATOSAN",
+      "ihhltotalasperdetails": 382,
+      "ihhltotalach": 382,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "TITODAN",
+      "ihhltotalasperdetails": 711,
+      "ihhltotalach": 711,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "UBKHAL",
+      "ihhltotalasperdetails": 553,
+      "ihhltotalach": 553,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "VADASAN",
+      "ihhltotalasperdetails": 707,
+      "ihhltotalach": 707,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "VAJAPUR",
+      "ihhltotalasperdetails": 500,
+      "ihhltotalach": 500,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VIJAPUR",
+      "grampanchayatname": "VASAI",
+      "ihhltotalasperdetails": 2139,
+      "ihhltotalach": 2139,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "BAJIPURA (GO)",
+      "ihhltotalasperdetails": 176,
+      "ihhltotalach": 176,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "BAKARPUR",
+      "ihhltotalasperdetails": 339,
+      "ihhltotalach": 339,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "BASANA",
+      "ihhltotalasperdetails": 672,
+      "ihhltotalach": 672,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "BECHARPURA",
+      "ihhltotalasperdetails": 294,
+      "ihhltotalach": 294,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "BHALAK",
+      "ihhltotalasperdetails": 1251,
+      "ihhltotalach": 1251,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "BHANDU",
+      "ihhltotalasperdetails": 1428,
+      "ihhltotalach": 1428,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "BOKARVADA",
+      "ihhltotalasperdetails": 728,
+      "ihhltotalach": 728,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "CHHOGALA",
+      "ihhltotalasperdetails": 183,
+      "ihhltotalach": 183,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "CHITRODA MOTA",
+      "ihhltotalasperdetails": 312,
+      "ihhltotalach": 312,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "CHITRODIPURA",
+      "ihhltotalasperdetails": 198,
+      "ihhltotalach": 198,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "DADHIYAL",
+      "ihhltotalasperdetails": 757,
+      "ihhltotalach": 757,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "DENAP",
+      "ihhltotalasperdetails": 1280,
+      "ihhltotalach": 1280,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "DHAMANVA",
+      "ihhltotalasperdetails": 500,
+      "ihhltotalach": 500,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "DHARUSANA",
+      "ihhltotalasperdetails": 224,
+      "ihhltotalach": 224,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "GANESHPURA (PUDGAM)",
+      "ihhltotalasperdetails": 161,
+      "ihhltotalach": 161,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "GANESHPURA (TARABH)",
+      "ihhltotalasperdetails": 155,
+      "ihhltotalach": 155,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "GANPATPURA",
+      "ihhltotalasperdetails": 190,
+      "ihhltotalach": 190,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "GHAGHRET",
+      "ihhltotalasperdetails": 378,
+      "ihhltotalach": 378,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "GOTHVA",
+      "ihhltotalasperdetails": 2359,
+      "ihhltotalach": 2359,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "GUNJA",
+      "ihhltotalasperdetails": 812,
+      "ihhltotalach": 812,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "GUNJALA",
+      "ihhltotalasperdetails": 361,
+      "ihhltotalach": 361,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "HASANPUR",
+      "ihhltotalasperdetails": 448,
+      "ihhltotalach": 448,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "IYASARA",
+      "ihhltotalasperdetails": 274,
+      "ihhltotalach": 274,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "JETALVASANA",
+      "ihhltotalasperdetails": 898,
+      "ihhltotalach": 898,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "KADA",
+      "ihhltotalasperdetails": 1111,
+      "ihhltotalach": 1111,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "KAJIALIYASANA",
+      "ihhltotalasperdetails": 196,
+      "ihhltotalach": 196,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "KAMALPUR (GOTHVA)",
+      "ihhltotalasperdetails": 28,
+      "ihhltotalach": 28,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "KAMALPUR (KHARAVADA)",
+      "ihhltotalasperdetails": 448,
+      "ihhltotalach": 448,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "KAMANA",
+      "ihhltotalasperdetails": 1466,
+      "ihhltotalach": 1466,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "KANSA",
+      "ihhltotalasperdetails": 247,
+      "ihhltotalach": 247,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "KANSA (N.A.)",
+      "ihhltotalasperdetails": 3417,
+      "ihhltotalach": 3417,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "KANSARAKUI",
+      "ihhltotalasperdetails": 551,
+      "ihhltotalach": 551,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "KHADALPUR",
+      "ihhltotalasperdetails": 383,
+      "ihhltotalach": 383,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "KHANDOSAN",
+      "ihhltotalasperdetails": 702,
+      "ihhltotalach": 702,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "KHARVADA",
+      "ihhltotalasperdetails": 515,
+      "ihhltotalach": 515,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "KIYADAR",
+      "ihhltotalasperdetails": 140,
+      "ihhltotalach": 140,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "KUVASANA",
+      "ihhltotalasperdetails": 548,
+      "ihhltotalach": 548,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "LACHHADI",
+      "ihhltotalasperdetails": 513,
+      "ihhltotalach": 513,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "LAXMIPURA (BHALAK)",
+      "ihhltotalasperdetails": 333,
+      "ihhltotalach": 333,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "MAGRODA",
+      "ihhltotalasperdetails": 649,
+      "ihhltotalach": 649,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "MEMADPUR",
+      "ihhltotalasperdetails": 262,
+      "ihhltotalach": 262,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "PALDI",
+      "ihhltotalasperdetails": 657,
+      "ihhltotalach": 657,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "PUDGAM",
+      "ihhltotalasperdetails": 463,
+      "ihhltotalach": 463,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "PURANPURA (KADA)",
+      "ihhltotalasperdetails": 130,
+      "ihhltotalach": 130,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "RAJGADH",
+      "ihhltotalasperdetails": 300,
+      "ihhltotalach": 300,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "RALISANA",
+      "ihhltotalasperdetails": 794,
+      "ihhltotalach": 794,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "RAMPURA (KANSA)",
+      "ihhltotalasperdetails": 252,
+      "ihhltotalach": 252,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "RAMPURA (LACHHADI)",
+      "ihhltotalasperdetails": 153,
+      "ihhltotalach": 153,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "RANDALA",
+      "ihhltotalasperdetails": 303,
+      "ihhltotalach": 303,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "RANGAKUI",
+      "ihhltotalasperdetails": 432,
+      "ihhltotalach": 432,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "RANGPUR",
+      "ihhltotalasperdetails": 442,
+      "ihhltotalach": 442,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "RAVALAPURA",
+      "ihhltotalasperdetails": 160,
+      "ihhltotalach": 160,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "SADUTHALA",
+      "ihhltotalasperdetails": 551,
+      "ihhltotalach": 551,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "SATUSANA",
+      "ihhltotalasperdetails": 240,
+      "ihhltotalach": 240,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "SAVALA",
+      "ihhltotalasperdetails": 1042,
+      "ihhltotalach": 1042,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "SEVALIYA",
+      "ihhltotalasperdetails": 765,
+      "ihhltotalach": 765,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "SUSHI",
+      "ihhltotalasperdetails": 308,
+      "ihhltotalach": 308,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "TARABH",
+      "ihhltotalasperdetails": 1334,
+      "ihhltotalach": 1334,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "THALOTA",
+      "ihhltotalasperdetails": 616,
+      "ihhltotalach": 616,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "THUMTHAL",
+      "ihhltotalasperdetails": 192,
+      "ihhltotalach": 192,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "UDALPUR",
+      "ihhltotalasperdetails": 807,
+      "ihhltotalach": 807,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "UMTA",
+      "ihhltotalasperdetails": 1739,
+      "ihhltotalach": 1739,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "VADU",
+      "ihhltotalasperdetails": 649,
+      "ihhltotalach": 649,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "VALAM",
+      "ihhltotalasperdetails": 1379,
+      "ihhltotalach": 1379,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MEHSANA",
+      "blockname": "VISNAGAR",
+      "grampanchayatname": "VISHNUPURA (KHRODA)",
+      "ihhltotalasperdetails": 81,
+      "ihhltotalach": 81,
+      "date": "5/19/2020 12:00:00 AM"
+    }
+  ]
+}

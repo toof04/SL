@@ -1,0 +1,263 @@
+{
+  "index_name": "e6314a94-cb5d-4985-86b4-0f51709511a0",
+  "title": "All India level Cash and Capital Reconciliation Account of Government Administration and Departmental Commercial Undertakings from 2000-01 to 2015-16",
+  "desc": "All India level Cash and Capital Reconciliation Account of Government Administration and Departmental Commercial Undertakings from 2000-01 to 2015-16",
+  "created": 1508741186,
+  "updated": 1543534053,
+  "visualizable": "1",
+  "source": "data.gov.in",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Statistics and Programme Implementation"
+  ],
+  "sector": [
+    "Economy"
+  ],
+  "catalog_uuid": "9d1b84a3-a538-4ede-a3d7-5fb6fd849d28",
+  "status": "ok",
+  "field": [
+    {
+      "id": "category",
+      "name": "Category",
+      "type": "keyword"
+    },
+    {
+      "id": "item",
+      "name": "Item",
+      "type": "keyword"
+    },
+    {
+      "id": "_2000_01___accounts",
+      "name": "2000-01 - Accounts",
+      "type": "double"
+    },
+    {
+      "id": "_2001_02___accounts",
+      "name": "2001-02 - Accounts",
+      "type": "double"
+    },
+    {
+      "id": "_2002_03___accounts",
+      "name": "2002-03 - Accounts",
+      "type": "double"
+    },
+    {
+      "id": "_2003_04___accounts",
+      "name": "2003-04 - Accounts",
+      "type": "double"
+    },
+    {
+      "id": "_2004_05___accounts",
+      "name": "2004-05 - Accounts",
+      "type": "double"
+    },
+    {
+      "id": "_2005_06___accounts",
+      "name": "2005-06 - Accounts",
+      "type": "double"
+    },
+    {
+      "id": "_2006_07___accounts",
+      "name": "2006-07 - Accounts",
+      "type": "double"
+    },
+    {
+      "id": "_2007_08___accounts",
+      "name": "2007-08 - Accounts",
+      "type": "double"
+    },
+    {
+      "id": "_2008_09___accounts",
+      "name": "2008-09 - Accounts",
+      "type": "double"
+    },
+    {
+      "id": "_2009_10___accounts",
+      "name": "2009-10 - Accounts",
+      "type": "double"
+    },
+    {
+      "id": "_2010_11___accounts",
+      "name": "2010-11 - Accounts",
+      "type": "double"
+    },
+    {
+      "id": "_2011_12___accounts",
+      "name": "2011-12 - Accounts",
+      "type": "double"
+    },
+    {
+      "id": "_2012_13___accounts",
+      "name": "2012-13 - Accounts",
+      "type": "double"
+    },
+    {
+      "id": "_2013_14___accounts",
+      "name": "2013-14 - Accounts",
+      "type": "double"
+    },
+    {
+      "id": "_2014_15___revised",
+      "name": "2014-15 - Revised",
+      "type": "double"
+    },
+    {
+      "id": "_2015_16___budget",
+      "name": "2015-16 - Budget",
+      "type": "double"
+    }
+  ],
+  "created_date": "2017-10-23T12:16:26Z",
+  "updated_date": "2018-11-30T04:57:33Z",
+  "active": "1",
+  "external_ws_url": "",
+  "external_ws": "0",
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "total": 7,
+  "count": 7,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "category": "Incomings",
+      "item": "Net increase in financial liabilities-Balancing item Account - 5",
+      "_2000_01___accounts": "114724.9",
+      "_2001_02___accounts": "138466.8",
+      "_2002_03___accounts": "126170.4",
+      "_2003_04___accounts": "80330.1",
+      "_2004_05___accounts": "163152.8",
+      "_2005_06___accounts": "122500.9",
+      "_2006_07___accounts": "102436.2",
+      "_2007_08___accounts": "110914.9",
+      "_2008_09___accounts": "254967.6",
+      "_2009_10___accounts": "395281.4",
+      "_2010_11___accounts": "337120.5",
+      "_2011_12___accounts": "495029.3",
+      "_2012_13___accounts": "501605.2",
+      "_2013_14___accounts": "475578.8",
+      "_2014_15___revised": "483200.4",
+      "_2015_16___budget": "469799.5"
+    },
+    {
+      "category": "Incomings",
+      "item": "Decrease in cash balance",
+      "_2000_01___accounts": "0",
+      "_2001_02___accounts": "0",
+      "_2002_03___accounts": "1883.3",
+      "_2003_04___accounts": "0",
+      "_2004_05___accounts": "0",
+      "_2005_06___accounts": "15487.3",
+      "_2006_07___accounts": "4517.4",
+      "_2007_08___accounts": "0",
+      "_2008_09___accounts": "52596.2",
+      "_2009_10___accounts": "0",
+      "_2010_11___accounts": "6429.5",
+      "_2011_12___accounts": "-15990.3",
+      "_2012_13___accounts": "-51011.7",
+      "_2013_14___accounts": "-19171",
+      "_2014_15___revised": "-15671.5",
+      "_2015_16___budget": "12041.4"
+    },
+    {
+      "category": "Incomings",
+      "item": "Total",
+      "_2000_01___accounts": "114724.9",
+      "_2001_02___accounts": "138466.8",
+      "_2002_03___accounts": "128053.7",
+      "_2003_04___accounts": "80330.1",
+      "_2004_05___accounts": "163152.8",
+      "_2005_06___accounts": "137988.2",
+      "_2006_07___accounts": "106953.6",
+      "_2007_08___accounts": "110914.9",
+      "_2008_09___accounts": "307563.8",
+      "_2009_10___accounts": "395281.4",
+      "_2010_11___accounts": "343550",
+      "_2011_12___accounts": "479039",
+      "_2012_13___accounts": "450593.5",
+      "_2013_14___accounts": "456407.7",
+      "_2014_15___revised": "467528.8",
+      "_2015_16___budget": "481840.7"
+    },
+    {
+      "category": "Outgoings",
+      "item": "Deficit on all tran- sactions in commodities and services & transfers Balancing item Account 3",
+      "_2000_01___accounts": "100769",
+      "_2001_02___accounts": "115197",
+      "_2002_03___accounts": "130968.4",
+      "_2003_04___accounts": "125844.2",
+      "_2004_05___accounts": "122034",
+      "_2005_06___accounts": "137167.3",
+      "_2006_07___accounts": "113632.5",
+      "_2007_08___accounts": "81012.4",
+      "_2008_09___accounts": "295039",
+      "_2009_10___accounts": "401654",
+      "_2010_11___accounts": "315968.3",
+      "_2011_12___accounts": "470860.2",
+      "_2012_13___accounts": "444296.6",
+      "_2013_14___accounts": "453719",
+      "_2014_15___revised": "462108.1",
+      "_2015_16___budget": "515282.2"
+    },
+    {
+      "category": "Outgoings",
+      "item": "Net increase in financial assets - Balancing item Account 4",
+      "_2000_01___accounts": "12758.7",
+      "_2001_02___accounts": "21774.1",
+      "_2002_03___accounts": "-2914.7",
+      "_2003_04___accounts": "-49456.1",
+      "_2004_05___accounts": "-31222.5",
+      "_2005_06___accounts": "820.9",
+      "_2006_07___accounts": "-6678.9",
+      "_2007_08___accounts": "2731.5",
+      "_2008_09___accounts": "12524.8",
+      "_2009_10___accounts": "-7758.5",
+      "_2010_11___accounts": "27581.7",
+      "_2011_12___accounts": "8178.8",
+      "_2012_13___accounts": "6297",
+      "_2013_14___accounts": "2688.7",
+      "_2014_15___revised": "5420.7",
+      "_2015_16___budget": "-33441.5"
+    },
+    {
+      "category": "Outgoings",
+      "item": "Increase in cash balance",
+      "_2000_01___accounts": "1197.2",
+      "_2001_02___accounts": "1495.7",
+      "_2002_03___accounts": "0",
+      "_2003_04___accounts": "3942",
+      "_2004_05___accounts": "72341.3",
+      "_2005_06___accounts": "0",
+      "_2006_07___accounts": "0",
+      "_2007_08___accounts": "27171",
+      "_2008_09___accounts": "0",
+      "_2009_10___accounts": "1385.9",
+      "_2010_11___accounts": "0",
+      "_2011_12___accounts": "0",
+      "_2012_13___accounts": "0",
+      "_2013_14___accounts": "0",
+      "_2014_15___revised": "0",
+      "_2015_16___budget": "0"
+    },
+    {
+      "category": "Outgoings",
+      "item": "Total",
+      "_2000_01___accounts": "114724.9",
+      "_2001_02___accounts": "138466.8",
+      "_2002_03___accounts": "128053.7",
+      "_2003_04___accounts": "80330.1",
+      "_2004_05___accounts": "163152.8",
+      "_2005_06___accounts": "137988.2",
+      "_2006_07___accounts": "106953.6",
+      "_2007_08___accounts": "110914.9",
+      "_2008_09___accounts": "307563.8",
+      "_2009_10___accounts": "395281.4",
+      "_2010_11___accounts": "343550",
+      "_2011_12___accounts": "479039",
+      "_2012_13___accounts": "450593.5",
+      "_2013_14___accounts": "456407.7",
+      "_2014_15___revised": "467528.8",
+      "_2015_16___budget": "481840.7"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "index_name": "1d369aae-155a-4cc8-b7a8-04d4cd5ec2a6",
+  "title": "Department-wise receipts, disposal and pendency of Public Grievance detailed statistics from 01.01.2016 to 01.11.2019",
+  "desc": "Department-wise receipts, disposal and pendency of Public Grievance detailed statistics from 01.01.2016 to 01.11.2019",
+  "created": "1665031522061",
+  "updated": 1665031686,
+  "created_date": "2022-10-06T10:15:41Z",
+  "updated_date": "2022-10-06T10:18:06Z",
+  "active": "1",
+  "visualizable": "1",
+  "catalog_uuid": "41f6eee7-73fd-46d3-8de0-fba928264c13",
+  "source": "data.gov.in",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Personnel, Public Grievances and Pensions",
+    "Department of Administrative Reforms and Public Grievances (DARPG)"
+  ],
+  "sector": [
+    "Governance and Administration",
+    "Grievances"
+  ],
+  "field": [
+    {
+      "id": "document_id",
+      "name": "document_id",
+      "type": "double"
+    },
+    {
+      "id": "ministry_department_state",
+      "name": "Ministry/Department/State",
+      "type": "keyword"
+    },
+    {
+      "id": "total_receipts_01_01_2016_to_01_11_2019_",
+      "name": "Total Receipts (01.01.2016 to 01.11.2019)",
+      "type": "double"
+    },
+    {
+      "id": "total_disposal_01_01_2016_to_01_11_2019_",
+      "name": "Total Disposal (01.01.2016 to 01.11.2019)",
+      "type": "double"
+    },
+    {
+      "id": "total_pending_as_on_01_11_2019",
+      "name": "Total Pending as on 01.11.2019",
+      "type": "double"
+    },
+    {
+      "id": "pending_more_than_1_year",
+      "name": "Pending More Than 1 Year",
+      "type": "double"
+    },
+    {
+      "id": "pending_between_6_to_12_months",
+      "name": "Pending Between 6 To 12 Months",
+      "type": "double"
+    },
+    {
+      "id": "pending_between_2_to_6_months",
+      "name": "Pending Between 2 To 6 Months",
+      "type": "double"
+    },
+    {
+      "id": "pending_less_than_2_months",
+      "name": "Pending Less Than 2 Months",
+      "type": "double"
+    }
+  ],
+  "target_bucket": {
+    "index": "api",
+    "type": "41f6eee7-73fd-46d3-8de0-fba928264c13",
+    "field": ""
+  },
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 0,
+  "count": 0,
+  "limit": "999",
+  "offset": "0",
+  "records": []
+}

@@ -1,0 +1,76 @@
+{
+  "index_name": "9231f39b-6fce-40a6-bec0-a88459e65b01",
+  "title": "Programme-wise Revised Estimate (RE) of Major Schemes of Department of Rural Development during 2018-19 and 2019-20 (From: Ministry of Rural Development)",
+  "desc": "Programme-wise Revised Estimate (RE) of Major Schemes of Department of Rural Development during 2018-19 and 2019-20 (From: Ministry of Rural Development)",
+  "created": 1629093618,
+  "updated": 1629093643,
+  "created_date": "2021-08-16T11:30:18Z",
+  "updated_date": "2021-08-16T11:30:43Z",
+  "active": "1",
+  "visualizable": "1",
+  "catalog_uuid": "3da2c35f-4909-4f65-a3e5-50d86f728a01",
+  "source": "data.gov.in",
+  "org_type": "Central",
+  "org": [
+    "Rajya Sabha"
+  ],
+  "sector": [
+    "All"
+  ],
+  "field": [
+    {
+      "id": "programme_wise",
+      "name": "Programme-wise",
+      "type": "keyword"
+    },
+    {
+      "id": "_2018_19",
+      "name": "2018-19",
+      "type": "double"
+    },
+    {
+      "id": "_2019_20",
+      "name": "2019-20",
+      "type": "double"
+    }
+  ],
+  "target_bucket": {
+    "index": "api",
+    "type": "3da2c35f-4909-4f65-a3e5-50d86f728a01",
+    "field": "9231f39b-6fce-40a6-bec0-a88459e65b01"
+  },
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 5,
+  "count": 5,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "programme_wise": "MGNREGA",
+      "_2018_19": 61830.09,
+      "_2019_20": 71001.81
+    },
+    {
+      "programme_wise": "PMAY-G",
+      "_2018_19": 19600,
+      "_2019_20": 18475
+    },
+    {
+      "programme_wise": "PMGSY",
+      "_2018_19": 15500,
+      "_2019_20": 14070.07
+    },
+    {
+      "programme_wise": "DAY-NRLM",
+      "_2018_19": 5783.5,
+      "_2019_20": 9024
+    },
+    {
+      "programme_wise": "NSAP",
+      "_2018_19": 8467.46,
+      "_2019_20": 9200
+    }
+  ]
+}

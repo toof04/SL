@@ -1,0 +1,148 @@
+{
+  "index_name": "9a8d354d-d4b1-4dd0-b441-ae1b4d6fd225",
+  "title": "Details of the Project/Scheme for which Consultants hired by Ministry of Rural Development from 2015-16 to 2017-18 (From : Ministry of Rural Development)",
+  "desc": "Details of the Project/Scheme for which Consultants hired by Ministry of Rural Development from 2015-16 to 2017-18 (From : Ministry of Rural Development)",
+  "created": 1570439442,
+  "updated": 1570439462,
+  "created_date": "2019-10-07T14:40:42Z",
+  "updated_date": "2019-10-07T14:41:02Z",
+  "active": "1",
+  "visualizable": "1",
+  "catalog_uuid": "1d4fe423-bb29-4720-a35b-553e0128e125",
+  "source": "data.gov.in",
+  "org_type": "Central",
+  "org": [
+    "Rajya Sabha"
+  ],
+  "sector": [
+    "All"
+  ],
+  "field": [
+    {
+      "id": "s_no_",
+      "name": "S. No.",
+      "type": "double"
+    },
+    {
+      "id": "name_of_project_scheme",
+      "name": "Name of Project/Scheme",
+      "type": "keyword"
+    },
+    {
+      "id": "no_of_consultants_hired___2015__16",
+      "name": "No. of Consultants hired - 2015- 16",
+      "type": "double"
+    },
+    {
+      "id": "no_of_consultants_hired___2016__17",
+      "name": "No. of Consultants hired - 2016- 17",
+      "type": "double"
+    },
+    {
+      "id": "no_of_consultants_hired___2017__18",
+      "name": "No. of Consultants hired - 2017- 18",
+      "type": "double"
+    },
+    {
+      "id": "fees_paid_rs_in_lakh___2015__16",
+      "name": "Fees paid (Rs. in Lakh) - 2015- 16",
+      "type": "double"
+    },
+    {
+      "id": "fees_paid_rs_in_lakh___2016__17",
+      "name": "Fees paid (Rs. in Lakh) - 2016- 17",
+      "type": "double"
+    },
+    {
+      "id": "fees_paid_rs_in_lakh___2017__18",
+      "name": "Fees paid (Rs. in Lakh) - 2017- 18",
+      "type": "double"
+    }
+  ],
+  "target_bucket": {
+    "index": "api",
+    "type": "1d4fe423-bb29-4720-a35b-553e0128e125",
+    "field": "9a8d354d-d4b1-4dd0-b441-ae1b4d6fd225"
+  },
+  "external_ws_url": "",
+  "external_ws": "0",
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 7,
+  "count": 7,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "s_no_": 1,
+      "name_of_project_scheme": "Pradhan Mantri Awaas Yojana Gramin (PMAY- G)",
+      "no_of_consultants_hired___2015__16": 0,
+      "no_of_consultants_hired___2016__17": 0,
+      "no_of_consultants_hired___2017__18": 9,
+      "fees_paid_rs_in_lakh___2015__16": 0,
+      "fees_paid_rs_in_lakh___2016__17": 0,
+      "fees_paid_rs_in_lakh___2017__18": 141.19
+    },
+    {
+      "s_no_": 2,
+      "name_of_project_scheme": "Administration",
+      "no_of_consultants_hired___2015__16": 9,
+      "no_of_consultants_hired___2016__17": 9,
+      "no_of_consultants_hired___2017__18": 19,
+      "fees_paid_rs_in_lakh___2015__16": 34.65,
+      "fees_paid_rs_in_lakh___2016__17": 23.69,
+      "fees_paid_rs_in_lakh___2017__18": 53.56
+    },
+    {
+      "s_no_": 3,
+      "name_of_project_scheme": "Pradhan Mantri Gram Sadak Yojana (PMGSY)",
+      "no_of_consultants_hired___2015__16": 1,
+      "no_of_consultants_hired___2016__17": 1,
+      "no_of_consultants_hired___2017__18": 1,
+      "fees_paid_rs_in_lakh___2015__16": 62.87,
+      "fees_paid_rs_in_lakh___2016__17": 151.55,
+      "fees_paid_rs_in_lakh___2017__18": 138.97
+    },
+    {
+      "s_no_": 4,
+      "name_of_project_scheme": "Mahatma Gandhi National Rural Employment Guarantee Act",
+      "no_of_consultants_hired___2015__16": 19,
+      "no_of_consultants_hired___2016__17": 27,
+      "no_of_consultants_hired___2017__18": 36,
+      "fees_paid_rs_in_lakh___2015__16": 267.9,
+      "fees_paid_rs_in_lakh___2016__17": 380.7,
+      "fees_paid_rs_in_lakh___2017__18": 507.6
+    },
+    {
+      "s_no_": 5,
+      "name_of_project_scheme": "District Infrastructure Scheme Advisory Committees (DISHA)",
+      "no_of_consultants_hired___2015__16": 0,
+      "no_of_consultants_hired___2016__17": 0,
+      "no_of_consultants_hired___2017__18": 24,
+      "fees_paid_rs_in_lakh___2015__16": 0,
+      "fees_paid_rs_in_lakh___2016__17": 0,
+      "fees_paid_rs_in_lakh___2017__18": 328
+    },
+    {
+      "s_no_": 6,
+      "name_of_project_scheme": "Shyama Prasad Mukherji Rurban Mission (SPMRM)",
+      "no_of_consultants_hired___2015__16": 0,
+      "no_of_consultants_hired___2016__17": 0,
+      "no_of_consultants_hired___2017__18": 11,
+      "fees_paid_rs_in_lakh___2015__16": 0,
+      "fees_paid_rs_in_lakh___2016__17": 0,
+      "fees_paid_rs_in_lakh___2017__18": 109.83
+    },
+    {
+      "s_no_": 7,
+      "name_of_project_scheme": "Deendayal Antyodaya Yojana- National Rural Livelihoods Mission (DAY-NRLM)",
+      "no_of_consultants_hired___2015__16": 21,
+      "no_of_consultants_hired___2016__17": 22,
+      "no_of_consultants_hired___2017__18": 29,
+      "fees_paid_rs_in_lakh___2015__16": 373.78,
+      "fees_paid_rs_in_lakh___2016__17": 282.39,
+      "fees_paid_rs_in_lakh___2017__18": 667.04
+    }
+  ]
+}

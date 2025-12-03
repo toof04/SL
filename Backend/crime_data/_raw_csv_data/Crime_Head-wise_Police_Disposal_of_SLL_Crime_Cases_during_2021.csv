@@ -1,0 +1,92 @@
+"Sl. No. Col. (1)","Crime Head Col. (2)","Cases Pending Investigation from Previous Year - Col. (3)","Cases Reported during the year - Col. (4)","Cases Reopened for Investigation - Col. (5)","Total Cases for Investigation (Col.3+Col.4+Col.5) - Col. (6)","Cases Not Investigated Under 157_1_b CRPC - Col. (7)","Cases Transferred to Other State or Agency - Col. (8)","Cases Withdrawn by the Govt during Investigation - Col. (9)","Final Report - Cases Ended as FR Non Cognizable - Col. (10)","Final Report - Cases Ended as Final Report False - Col. (11)","Final Report - Cases Ended as Mistake of Fact or of law or Civil Dispute - Col. (12)","Final Report - Cases True but Insufficient Evidence or Untraced or No Clue - Col. (13)","Final Report - Cases Abated during Investigation - Col. (14)","Final Report - Total (Col.10+Col.11+Col.12+Col13+Col.14) - Col. (15)","Charge Sheets Submitted - Cases ChargeSheeted Out of cases From Prev. Year - Col. (16)","Charge Sheets Submitted - Cases Charge sheeted Out of Cases during the year - Col. (17)","Charge Sheets Submitted - Cases Charge sheeted (Col.16+Col.17) - Col. (18)","Total Cases Disposed Off by Police (Col.7+8+15+18) - Col. (19)","Cases Quashed at Investigation Stage - Col. (20)","Cases Stayed at Investigation Stage - Col. (21)","Cases Pending Invsgn.at end of the year (Col.6-9-19-20) - Col. (22)","Chargesheeting Rate (Col.18/19*100) - Col. (23)","Pendency Percentage (Col.22/6*100) - Col. (24)"
+1,"The Dowry Prohibition Act",7719,13568,0,21287,1,49,0,32,418,670,1086,23,2229,3241,7462,10703,12982,13,4,8292,82.4,39
+2,"The Immoral Traffic (Prevention) Act",2497,1678,18,4193,0,0,0,0,9,28,28,1,66,527,946,1473,1539,2,0,2652,95.7,63.2
+3,"The Protection of Women from Domestic Violence Act",348,507,0,855,0,0,0,0,7,27,0,0,34,36,383,419,453,0,0,402,92.5,47
+4,"The Indecent Representation of Women (Prohibition) Act",26,28,1,55,0,0,0,0,3,1,2,0,6,7,10,17,23,0,0,32,73.9,58.2
+NA,NA,10590,15781,19,26390,1,49,0,32,437,726,1116,24,2335,3811,8801,12612,14997,15,4,11378,84.1,43.1
+5,"The Protection of Children from Sexual Offences Act",19150,53874,29,73053,1,130,0,36,956,563,1021,71,2647,11028,40101,51129,53907,16,64,19130,94.8,26.2
+6,"The Juvenile Justice (Care and Protection of Children) Act",1065,1871,2,2938,0,3,0,3,37,44,65,2,151,354,1411,1765,1919,0,1,1019,92,34.7
+7,"The Prohibition of Child Marriage Act",561,1050,0,1611,0,15,0,0,25,46,44,2,117,277,532,809,941,0,0,670,86,41.6
+8,"The Pre-Natal Diagnostic Techniques (Reg and Prev of Misuse) Act",49,70,0,119,0,0,0,0,0,1,1,0,2,21,45,66,68,0,0,51,97.1,42.9
+9,"The Child Labour (Prohibition & Regulation) Act",365,613,0,978,0,0,0,1,4,5,17,1,28,139,437,576,604,0,0,374,95.4,38.2
+10,"The Medical Termination of Pregnancy Act",15,44,0,59,0,0,0,0,2,1,1,0,4,8,28,36,40,0,0,19,90,32.2
+NA,NA,21205,57522,31,78758,1,148,0,40,1024,660,1149,76,2949,11827,42554,54381,57479,16,65,21263,94.6,27
+11,"The SC/ST (Prevention of Atrocities) Act against SCs",2683,5269,9,7961,0,4,0,78,526,208,444,9,1265,1154,3395,4549,5818,4,19,2139,78.2,26.9
+12,"The SC/ST (Prevention of Atrocities) Act against STs",638,324,1,963,0,0,0,5,45,7,73,1,131,89,104,193,324,1,1,638,59.6,66.3
+13,"The Protection of Civil Rights Act against SCs",29,21,0,50,0,1,0,0,3,3,2,0,8,0,5,5,14,0,0,36,35.7,72
+14,"The Protection of Civil Rights Act against STs",3,3,0,6,0,0,0,0,0,0,0,0,0,1,3,4,4,0,0,2,100,33.3
+NA,NA,3353,5617,10,8980,0,5,0,83,574,218,519,10,1404,1244,3507,4751,6160,5,20,2815,77.1,31.3
+15,"The Prevention of Damage to Public Property Act",3730,4089,1,7820,0,1,1,1,81,175,515,4,776,1083,2477,3560,4337,1,2,3481,82.1,44.5
+16,"The Unlawful Activities (P) Act",4013,814,2,4829,0,4,0,0,38,23,243,0,304,355,168,523,831,0,0,3998,62.9,82.8
+17,"The Official Secrets Act",40,55,0,95,0,0,0,1,0,1,7,0,9,10,30,40,49,0,0,46,81.6,48.4
+"Offences against State - Related Acts","Offences against State - Related Acts",7783,4958,3,12744,0,5,1,2,119,199,765,4,1089,1448,2675,4123,5217,1,2,7525,79,59
+18,"The Arms Act",15917,74482,3,90402,0,5,1,4,49,142,1029,16,1240,8534,64977,73511,74756,1,3,15644,98.3,17.3
+18.1,"Fire Arms",13050,45847,3,58900,0,5,1,4,37,120,867,9,1037,7056,38268,45324,46366,1,3,12532,97.8,21.3
+18.1.1,"Legal/Licensed Arms",267,355,0,622,0,1,0,0,1,3,4,0,8,61,288,349,358,0,0,264,97.5,42.4
+18.1.2,"Illegal/Unlicensed Arms",12783,45492,3,58278,0,4,1,4,36,117,863,9,1029,6995,37980,44975,46008,1,3,12268,97.8,21.1
+18.2,"Other Arms",2867,28635,0,31502,0,0,0,0,12,22,162,7,203,1478,26709,28187,28390,0,0,3112,99.3,9.9
+19,"The Explosives Act",1101,1996,0,3097,0,1,0,0,28,24,67,1,120,504,1416,1920,2041,1,1,1055,94.1,34.1
+20,"The Explosive Substances Act",2762,2246,6,5014,0,3,1,0,8,33,373,4,418,796,987,1783,2204,0,0,2809,80.9,56
+"Arms/Explosive - Related Acts","Arms/Explosive - Related Acts",19780,78724,9,98513,0,9,2,4,85,199,1469,21,1778,9834,67380,77214,79001,2,4,19508,97.7,19.8
+21,"The Information Technology Act",46426,27427,31,73884,0,94,10,12,533,1168,21229,121,23063,7785,5733,13518,36675,10,10,37189,36.9,50.3
+22,"The Copy Right Act",2126,1835,1,3962,0,1,0,1,33,34,272,2,342,626,828,1454,1797,2,7,2163,80.9,54.6
+23,"The Trade Marks Act",155,113,0,268,0,0,0,1,2,5,2,0,10,27,55,82,92,0,0,176,89.1,65.7
+NA,NA,48707,29375,32,78114,0,95,10,14,568,1207,21503,123,23415,8438,6616,15054,38564,12,17,39528,39,50.6
+24,"The Lotteries (Regulation) Act",2289,5584,0,7873,0,0,0,0,0,14,167,1,182,732,3440,4172,4354,0,0,3519,95.8,44.7
+25,"The Chit Funds Acts",125,46,6,177,0,0,0,0,6,10,3,0,19,22,8,30,49,0,0,128,61.2,72.3
+26,"The Negotiable Instruments Act",25,44,0,69,0,0,0,0,0,0,1,0,1,6,39,45,46,0,0,23,97.8,33.3
+27,"The Benami Transaction (Prohibition) Act",1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,100,0
+28,"The Mines and Minerals (Development and Regulation) Act",17819,14990,0,32809,0,1,0,0,101,77,414,1,593,4787,5790,10577,11171,0,3,21638,94.7,66
+29,"Prevention of Corruption Act",1684,1032,6,2722,0,0,0,1,33,12,55,4,105,765,182,947,1052,1,0,1669,90,61.3
+"Finance & Economic Acts","Finance & Economic Acts",21943,21696,12,43651,0,1,0,1,140,113,640,6,900,6313,9459,15772,16673,1,3,26977,94.6,61.8
+30,"Prohibition Act (State)",120663,678998,1,799662,284,145,1,6,80,145,5088,325,5644,69647,577586,647233,653306,0,442,146355,99.1,18.3
+31,"The Excise Act",56936,335699,0,392635,0,1706,0,2,337,241,1623,42,2245,40506,301455,341961,345912,2,3059,46721,98.9,11.9
+32,"The Narcotic Drugs & Psychotropic Substances Act",37070,78331,16,115417,0,33,0,1,112,118,939,26,1196,18836,52654,71490,72719,1,1,42697,98.3,37
+32.1,"Possession of drugs for Personal use/Consumption",21856,46029,3,67888,0,1,0,0,59,41,540,9,649,9682,32823,42505,43155,0,0,24733,98.5,36.4
+32.2,"Possession of drugs for Trafficking",15214,32302,13,47529,0,32,0,1,53,77,399,17,547,9154,19831,28985,29564,1,1,17964,98,37.8
+NA,NA,214669,1093028,17,1307714,284,1884,1,9,529,504,7650,393,9085,128989,931695,1060684,1071937,3,3502,235773,99,18
+33,"The Forest Act & The Forest Conservation Act",964,2292,0,3256,0,11,0,0,24,36,196,3,259,379,1678,2057,2327,0,0,929,88.4,28.5
+34,"The Wildlife Protection Act",337,615,0,952,0,9,0,1,11,22,66,1,101,146,414,560,670,0,0,282,83.6,29.6
+35,"The Environmental (Protection) Act",237,252,0,489,0,0,0,1,3,1,10,0,15,84,159,243,258,1,0,230,94.2,47
+36,"The Air & The Water (Prevention & Control of Pollution) Act",22,55,0,77,0,0,0,0,1,0,3,0,4,4,51,55,59,0,0,18,93.2,23.4
+37,"The Cigarette and Other Tobacco Products Act",13401,54024,0,67425,0,0,0,0,5,7,563,7,582,6065,42907,48972,49554,7,0,17864,98.8,26.5
+38,"Noise Pollution Acts",122,7217,0,7339,0,0,0,0,0,4,5,0,9,52,7226,7278,7287,0,0,52,99.9,0.7
+39,"The National Green Tribunal Act",79,16,0,95,0,0,0,0,0,4,7,0,11,49,6,55,66,0,0,29,83.3,30.5
+NA,NA,15162,64471,0,79633,0,20,0,2,44,74,850,11,981,6779,52441,59220,60221,8,0,19404,98.3,24.4
+40,"The Registration of Foreigners Act & The Foreigners Act",523,1757,0,2280,0,2,0,0,7,16,27,0,50,153,1490,1643,1695,0,0,585,96.9,25.7
+41,"The Passport Act",1663,528,10,2201,0,2,0,0,4,38,69,1,112,278,215,493,607,1,0,1593,81.2,72.4
+42,"The Emigration Act",300,80,0,380,0,0,0,0,3,2,6,0,11,69,12,81,92,5,0,283,88,74.5
+43,"The Citizenship Act",4,4,0,8,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,7,100,87.5
+NA,NA,2490,2369,10,4869,0,4,0,0,14,56,102,1,173,500,1718,2218,2395,6,0,2468,92.6,50.7
+44,"The Indian Railways Act",71,131,1,203,0,1,0,1,0,3,45,0,49,14,57,71,121,0,0,82,58.7,40.4
+45,"The Railway Property (Unlawful Possession) Act",2,4,0,6,0,0,0,0,0,0,0,0,0,0,3,3,3,0,0,3,100,50
+NA,NA,73,135,1,209,0,1,0,1,0,3,45,0,49,14,60,74,124,0,0,85,59.7,40.7
+46,"The Indian Telegraph Act",27,22,0,49,0,0,0,0,0,0,12,0,12,5,7,12,24,0,0,25,50,51
+47,"The Telegraph Wire (Unlawful Possession) Act",1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,100,0
+48,"The Cinematograph Act",3,7,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,10,NA,100
+49,"The Cable Television Networks (Regulation) Act",2,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,NA,100
+"Telegraph/Cinematograph Acts","Telegraph/Cinematograph Acts",33,30,0,63,0,0,0,0,0,0,12,0,12,6,7,13,25,0,1,38,52,60.3
+50,"The Essential Commodities Act",4089,5123,3,9215,0,1,0,3,52,95,158,2,310,1973,2864,4837,5148,0,8,4067,94,44.1
+51,"The Prevention of Food Adulteration Act",40,24,0,64,0,0,0,0,0,0,0,0,0,28,10,38,38,0,0,26,100,40.6
+52,"The Food Safety & Standards Act",452,604,0,1056,0,0,0,0,2,0,7,2,11,218,433,651,662,0,0,394,98.3,37.3
+"Food, Drugs and Essential Commodities Acts","Food, Drugs and Essential Commodities Acts",4581,5751,3,10335,0,1,0,3,54,95,165,4,321,2219,3307,5526,5848,0,8,4487,94.5,43.4
+53,"MACOCA/Control of Organised Crimes",83,60,0,143,0,0,0,0,0,0,2,0,2,56,8,64,66,0,0,77,97,53.8
+54,"The Gambling Act",18306,164324,0,182630,0,1,1,0,10,36,188,40,274,13484,149567,163051,163326,8,1,19295,99.8,10.6
+55,"The Electricity Act",64682,138513,2,203197,7,2,0,679,224,2649,11661,2412,17625,33782,49871,83653,101287,0,0,101910,82.6,50.2
+56,"The Antiques and Art Treasures Act",45,18,0,63,0,1,0,0,0,0,1,0,1,12,3,15,17,0,0,46,88.2,73
+57,"The Representation of the People Act",280,191,0,471,0,2,0,1,10,7,35,0,53,90,83,173,228,1,0,242,75.9,51.4
+58,"The Bonded Labour System (Abolition) Act",341,592,0,933,0,0,0,0,34,31,81,1,147,57,394,451,598,0,0,335,75.4,35.9
+58.1,"Against SC",201,525,0,726,0,0,0,0,32,30,80,0,142,35,372,407,549,0,0,177,74.1,24.4
+58.2,"Against ST",59,41,0,100,0,0,0,0,1,1,1,0,3,10,13,23,26,0,0,74,88.5,74
+58.3,"Against others",81,26,0,107,0,0,0,0,1,0,0,1,2,12,9,21,23,0,0,84,91.3,78.5
+59,"The Prevention of Insults to National Honour Act",52,48,0,100,0,0,0,0,1,1,8,1,11,10,24,34,45,0,0,55,75.6,55
+60,"Defacement of Public Property Acts",2441,5497,0,7938,0,0,0,0,14,37,167,0,218,346,2952,3298,3516,0,0,4422,93.8,55.7
+61,"The Transplantation of Human Organs Act",3,6,0,9,0,1,0,0,0,0,0,0,0,0,1,1,2,0,0,7,50,77.8
+62,"Transgender Persons (Protection of Rights) Act",1,7,0,8,0,0,0,0,0,0,0,0,0,0,2,2,2,0,0,6,100,75
+63,"The Mental Health Act",106,367,0,473,0,0,1,0,139,85,53,26,303,1,4,5,308,0,0,164,1.6,34.7
+64,"Motor Vehicle Act",9500,35089,2,44591,0,0,0,1,3,5,43,1,53,2789,31983,34772,34825,0,0,9766,99.8,21.9
+65,"City/Town Police Acts",46962,51788,0,98750,0,0,0,0,0,8,36,24,68,6795,29947,36742,36810,0,1,61940,99.8,62.7
+66,"Other State Local Acts",29420,404984,5,434409,1,15,0,2,506,1589,853,0,2950,18104,385890,403994,406960,28,160,27421,99.3,6.3
+NA,NA,172222,801484,9,973715,8,22,2,683,941,4448,13128,2505,21705,75526,650729,726255,747990,37,162,225686,97.1,23.2
+67,"Other SLL Crimes",154821,252009,57,406887,2,56,15,68,887,3413,20708,216,25292,19045,173485,192530,217880,47,17,188945,88.4,46.4
+"Total Cognizable SLL Crimes","Total Cognizable SLL Crimes",697412,2432950,213,3130575,296,2300,31,942,5416,11915,69821,3394,91488,275993,1954434,2230427,2324511,153,3805,805880,96,25.7

@@ -1,0 +1,463 @@
+{
+  "index_name": "f6702864-51ce-4981-a89f-1d57b8977cb0",
+  "title": "Rabi Summer Enrollment Claims 2016-17",
+  "desc": "Rabi Summer Enrollment Claims 2016-17",
+  "org_type": "State",
+  "org": [
+    "Karnataka",
+    "Agriculture Department, Karnataka"
+  ],
+  "sector": [
+    "Agriculture",
+    "Crops"
+  ],
+  "source": "karnataka.data.gov.in",
+  "catalog_uuid": "4206c29f-fba4-4e16-97d3-51470a54aa1b",
+  "visualizable": "0",
+  "active": "1",
+  "created": 1760076437,
+  "updated": 1760076437,
+  "created_date": "2025-10-10T08:07:17Z",
+  "updated_date": "2025-10-10T08:07:17Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "4206c29f-fba4-4e16-97d3-51470a54aa1b",
+    "field": "f6702864-51ce-4981-a89f-1d57b8977cb0"
+  },
+  "field": [
+    {
+      "id": "sl_no",
+      "name": "Sl.No.",
+      "type": "double"
+    },
+    {
+      "id": "district",
+      "name": "District",
+      "type": "keyword"
+    },
+    {
+      "id": "insurance_company",
+      "name": "Insurance company",
+      "type": "keyword"
+    },
+    {
+      "id": "sum_of_ack_application_count",
+      "name": "Sum of ACK_application_Count",
+      "type": "double"
+    },
+    {
+      "id": "total_claim_initiated",
+      "name": "Total Claim initiated",
+      "type": "keyword"
+    },
+    {
+      "id": "_",
+      "name": "",
+      "type": "keyword"
+    },
+    {
+      "id": "total_claims_settled",
+      "name": "Total Claims settled",
+      "type": "keyword"
+    },
+    {
+      "id": "_",
+      "name": "",
+      "type": "keyword"
+    },
+    {
+      "id": "total_claims_pending",
+      "name": "Total Claims pending",
+      "type": "keyword"
+    },
+    {
+      "id": "_",
+      "name": "",
+      "type": "keyword"
+    },
+    {
+      "id": "pending_claim_amount_at_escrow_account_",
+      "name": "Pending claim amount at Escrow account ",
+      "type": "keyword"
+    },
+    {
+      "id": "_",
+      "name": "",
+      "type": "keyword"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 33,
+  "count": 33,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "sl_no": "NA",
+      "district": "NA",
+      "insurance_company": "NA",
+      "sum_of_ack_application_count": "NA",
+      "total_claim_initiated": "No. Of Beneficiaries",
+      "_": "Claims",
+      "total_claims_settled": "No.of Beneficiaries",
+      "total_claims_pending": "No.of Beneficiaries",
+      "pending_claim_amount_at_escrow_account_": "Beneficiaries pending"
+    },
+    {
+      "sl_no": 1,
+      "district": "Bagalakote",
+      "insurance_company": "AIC",
+      "sum_of_ack_application_count": 191670,
+      "total_claim_initiated": "125689",
+      "_": "0",
+      "total_claims_settled": "125689",
+      "total_claims_pending": "0",
+      "pending_claim_amount_at_escrow_account_": "0"
+    },
+    {
+      "sl_no": 2,
+      "district": "Ballary",
+      "insurance_company": "AIC",
+      "sum_of_ack_application_count": 38600,
+      "total_claim_initiated": "25315",
+      "_": "0",
+      "total_claims_settled": "25315",
+      "total_claims_pending": "0",
+      "pending_claim_amount_at_escrow_account_": "0"
+    },
+    {
+      "sl_no": 3,
+      "district": "Bangalore urban",
+      "insurance_company": "AIC",
+      "sum_of_ack_application_count": 162,
+      "total_claim_initiated": "0",
+      "_": "0",
+      "total_claims_settled": "0",
+      "total_claims_pending": "0",
+      "pending_claim_amount_at_escrow_account_": "0"
+    },
+    {
+      "sl_no": 4,
+      "district": "Bidar",
+      "insurance_company": "AIC",
+      "sum_of_ack_application_count": 56102,
+      "total_claim_initiated": "11671",
+      "_": "0",
+      "total_claims_settled": "11671",
+      "total_claims_pending": "0",
+      "pending_claim_amount_at_escrow_account_": "0"
+    },
+    {
+      "sl_no": 5,
+      "district": "Chikkamagaluru",
+      "insurance_company": "AIC",
+      "sum_of_ack_application_count": 16362,
+      "total_claim_initiated": "11470",
+      "_": "1.34",
+      "total_claims_settled": "11470",
+      "total_claims_pending": "0",
+      "pending_claim_amount_at_escrow_account_": "47"
+    },
+    {
+      "sl_no": 6,
+      "district": "Chitradurga",
+      "insurance_company": "AIC",
+      "sum_of_ack_application_count": 2465,
+      "total_claim_initiated": "1555",
+      "_": "0",
+      "total_claims_settled": "1555",
+      "total_claims_pending": "0",
+      "pending_claim_amount_at_escrow_account_": "0"
+    },
+    {
+      "sl_no": 7,
+      "district": "Dakshinakannada",
+      "insurance_company": "AIC",
+      "sum_of_ack_application_count": 82,
+      "total_claim_initiated": "21",
+      "_": "0",
+      "total_claims_settled": "21",
+      "total_claims_pending": "0",
+      "pending_claim_amount_at_escrow_account_": "0"
+    },
+    {
+      "sl_no": 8,
+      "district": "Dharwad",
+      "insurance_company": "AIC",
+      "sum_of_ack_application_count": 176203,
+      "total_claim_initiated": "159886",
+      "_": "0",
+      "total_claims_settled": "159886",
+      "total_claims_pending": "0",
+      "pending_claim_amount_at_escrow_account_": "0"
+    },
+    {
+      "sl_no": 9,
+      "district": "Gadag",
+      "insurance_company": "AIC",
+      "sum_of_ack_application_count": 164053,
+      "total_claim_initiated": "155877",
+      "_": "0",
+      "total_claims_settled": "155877",
+      "total_claims_pending": "0",
+      "pending_claim_amount_at_escrow_account_": "0"
+    },
+    {
+      "sl_no": 10,
+      "district": "Mysuru",
+      "insurance_company": "AIC",
+      "sum_of_ack_application_count": 51067,
+      "total_claim_initiated": "49345",
+      "_": "0.42",
+      "total_claims_settled": "49345",
+      "total_claims_pending": "0",
+      "pending_claim_amount_at_escrow_account_": "22"
+    },
+    {
+      "sl_no": 11,
+      "district": "Ramanagara",
+      "insurance_company": "AIC",
+      "sum_of_ack_application_count": 9589,
+      "total_claim_initiated": "9361",
+      "_": "0.14",
+      "total_claims_settled": "9361",
+      "total_claims_pending": "0",
+      "pending_claim_amount_at_escrow_account_": "4"
+    },
+    {
+      "sl_no": 12,
+      "district": "Shivamogga",
+      "insurance_company": "AIC",
+      "sum_of_ack_application_count": 970,
+      "total_claim_initiated": "730",
+      "_": "0",
+      "total_claims_settled": "730",
+      "total_claims_pending": "0",
+      "pending_claim_amount_at_escrow_account_": "0"
+    },
+    {
+      "sl_no": 13,
+      "district": "Udupi",
+      "insurance_company": "AIC",
+      "sum_of_ack_application_count": 588,
+      "total_claim_initiated": "13",
+      "_": "0",
+      "total_claims_settled": "13",
+      "total_claims_pending": "0",
+      "pending_claim_amount_at_escrow_account_": "0"
+    },
+    {
+      "sl_no": 14,
+      "district": "Vijayapur",
+      "insurance_company": "AIC",
+      "sum_of_ack_application_count": 205779,
+      "total_claim_initiated": "85546",
+      "_": "44.05",
+      "total_claims_settled": "85546",
+      "total_claims_pending": "0",
+      "pending_claim_amount_at_escrow_account_": "947"
+    },
+    {
+      "sl_no": "NA",
+      "district": "AIC Total",
+      "insurance_company": "NA",
+      "sum_of_ack_application_count": 913692,
+      "total_claim_initiated": "636479",
+      "_": "45.95",
+      "total_claims_settled": "636479",
+      "total_claims_pending": "0",
+      "pending_claim_amount_at_escrow_account_": "1020"
+    },
+    {
+      "sl_no": 15,
+      "district": "Belagavi",
+      "insurance_company": "Sriram",
+      "sum_of_ack_application_count": 322195,
+      "total_claim_initiated": "183885",
+      "_": "11.1",
+      "total_claims_settled": "183885",
+      "total_claims_pending": "0",
+      "pending_claim_amount_at_escrow_account_": "116"
+    },
+    {
+      "sl_no": 16,
+      "district": "Davanagere",
+      "insurance_company": "Sriram",
+      "sum_of_ack_application_count": 5497,
+      "total_claim_initiated": "4468",
+      "_": "6.11",
+      "total_claims_settled": "4468",
+      "total_claims_pending": "0",
+      "pending_claim_amount_at_escrow_account_": "90"
+    },
+    {
+      "sl_no": 17,
+      "district": "Haveri",
+      "insurance_company": "Sriram",
+      "sum_of_ack_application_count": 45060,
+      "total_claim_initiated": "39205",
+      "_": "67.8",
+      "total_claims_settled": "39205",
+      "total_claims_pending": "0",
+      "pending_claim_amount_at_escrow_account_": "1172"
+    },
+    {
+      "sl_no": 18,
+      "district": "Kolar",
+      "insurance_company": "Sriram",
+      "sum_of_ack_application_count": 10132,
+      "total_claim_initiated": "9963",
+      "_": "1.59",
+      "total_claims_settled": "9963",
+      "total_claims_pending": "0",
+      "pending_claim_amount_at_escrow_account_": "58"
+    },
+    {
+      "sl_no": 19,
+      "district": "Koppal",
+      "insurance_company": "Sriram",
+      "sum_of_ack_application_count": 79127,
+      "total_claim_initiated": "71380",
+      "_": "250.9",
+      "total_claims_settled": "71380",
+      "total_claims_pending": "0",
+      "pending_claim_amount_at_escrow_account_": "2974"
+    },
+    {
+      "sl_no": 20,
+      "district": "Uttarakannada",
+      "insurance_company": "Sriram",
+      "sum_of_ack_application_count": 2953,
+      "total_claim_initiated": "1193",
+      "_": "0",
+      "total_claims_settled": "1193",
+      "total_claims_pending": "0",
+      "pending_claim_amount_at_escrow_account_": "0"
+    },
+    {
+      "sl_no": 21,
+      "district": "Yadgiri",
+      "insurance_company": "Sriram",
+      "sum_of_ack_application_count": 34717,
+      "total_claim_initiated": "10191",
+      "_": "1.14",
+      "total_claims_settled": "10191",
+      "total_claims_pending": "0",
+      "pending_claim_amount_at_escrow_account_": "35"
+    },
+    {
+      "sl_no": "NA",
+      "district": "Shriram Total",
+      "insurance_company": "NA",
+      "sum_of_ack_application_count": 499681,
+      "total_claim_initiated": "320285",
+      "_": "338.64",
+      "total_claims_settled": "320285",
+      "total_claims_pending": "0",
+      "pending_claim_amount_at_escrow_account_": "4445"
+    },
+    {
+      "sl_no": 22,
+      "district": "Chamarajanagar",
+      "insurance_company": "UIIC",
+      "sum_of_ack_application_count": 50328,
+      "total_claim_initiated": "49132",
+      "_": "29.11",
+      "total_claims_settled": "49132",
+      "total_claims_pending": "0",
+      "pending_claim_amount_at_escrow_account_": "407"
+    },
+    {
+      "sl_no": 23,
+      "district": "Chikkaballapura",
+      "insurance_company": "UIIC",
+      "sum_of_ack_application_count": 334,
+      "total_claim_initiated": "210",
+      "_": "0.8",
+      "total_claims_settled": "210",
+      "total_claims_pending": "0",
+      "pending_claim_amount_at_escrow_account_": "7"
+    },
+    {
+      "sl_no": 24,
+      "district": "Hassan",
+      "insurance_company": "UIIC",
+      "sum_of_ack_application_count": 27340,
+      "total_claim_initiated": "22850",
+      "_": "2.44",
+      "total_claims_settled": "22850",
+      "total_claims_pending": "0",
+      "pending_claim_amount_at_escrow_account_": "80"
+    },
+    {
+      "sl_no": 25,
+      "district": "Kalaburgi",
+      "insurance_company": "UIIC",
+      "sum_of_ack_application_count": 63744,
+      "total_claim_initiated": "8766",
+      "_": "4.86",
+      "total_claims_settled": "8766",
+      "total_claims_pending": "0",
+      "pending_claim_amount_at_escrow_account_": "226"
+    },
+    {
+      "sl_no": 26,
+      "district": "Mandya",
+      "insurance_company": "UIIC",
+      "sum_of_ack_application_count": 86225,
+      "total_claim_initiated": "80131",
+      "_": "31.2",
+      "total_claims_settled": "80131",
+      "total_claims_pending": "0",
+      "pending_claim_amount_at_escrow_account_": "1694"
+    },
+    {
+      "sl_no": 27,
+      "district": "Raichur",
+      "insurance_company": "UIIC",
+      "sum_of_ack_application_count": 95962,
+      "total_claim_initiated": "68966",
+      "_": "771.59",
+      "total_claims_settled": "68966",
+      "total_claims_pending": "0",
+      "pending_claim_amount_at_escrow_account_": "11006"
+    },
+    {
+      "sl_no": 28,
+      "district": "Tumakuru",
+      "insurance_company": "UIIC",
+      "sum_of_ack_application_count": 1218,
+      "total_claim_initiated": "1177",
+      "_": "0.13",
+      "total_claims_settled": "1177",
+      "total_claims_pending": "0",
+      "pending_claim_amount_at_escrow_account_": "3"
+    },
+    {
+      "sl_no": "NA",
+      "district": "UIIC Total",
+      "insurance_company": "NA",
+      "sum_of_ack_application_count": 325151,
+      "total_claim_initiated": "231232",
+      "_": "840.13",
+      "total_claims_settled": "231232",
+      "total_claims_pending": "0",
+      "pending_claim_amount_at_escrow_account_": "13423"
+    },
+    {
+      "sl_no": "NA",
+      "district": "Grand Total",
+      "insurance_company": "NA",
+      "sum_of_ack_application_count": 1738524,
+      "total_claim_initiated": "1187996",
+      "_": "1224.72",
+      "total_claims_settled": "1187996",
+      "total_claims_pending": "0",
+      "pending_claim_amount_at_escrow_account_": "18888"
+    }
+  ]
+}

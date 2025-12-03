@@ -1,0 +1,2135 @@
+{
+  "index_name": "7f7409d4-438b-44e7-b209-68afe993be0d",
+  "title": "Gram Panchayat-wise Rural Sanitation Coverage in Begusarai District of Bihar as on date",
+  "desc": "Gram Panchayat-wise Rural Sanitation Coverage in Begusarai District of Bihar as on date",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Jal Shakti",
+    "Department of Drinking Water and Sanitation"
+  ],
+  "sector": [
+    "Water and Sanitation"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1688360241,
+  "updated": 1688364903,
+  "created_date": "2023-07-03T06:57:21Z",
+  "updated_date": "2023-07-03T11:45:03Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "sbm",
+    "type": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+    "field": "7f7409d4-438b-44e7-b209-68afe993be0d"
+  },
+  "field": [
+    {
+      "id": "statename",
+      "name": "StateName",
+      "type": "keyword"
+    },
+    {
+      "id": "districtname",
+      "name": "DistrictName",
+      "type": "keyword"
+    },
+    {
+      "id": "blockname",
+      "name": "BlockName",
+      "type": "keyword"
+    },
+    {
+      "id": "grampanchayatname",
+      "name": "GramPanchayatName",
+      "type": "keyword"
+    },
+    {
+      "id": "ihhltotalasperdetails",
+      "name": "IHHLTotalAsPerDetails",
+      "type": "double"
+    },
+    {
+      "id": "ihhltotalach",
+      "name": "IHHLTotalAch",
+      "type": "double"
+    },
+    {
+      "id": "date",
+      "name": "Date",
+      "type": "keyword"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 229,
+  "count": 229,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BACHHWARA",
+      "grampanchayatname": "ARWA",
+      "ihhltotalasperdetails": 2537,
+      "ihhltotalach": 2537,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BACHHWARA",
+      "grampanchayatname": "BACHHAWARA",
+      "ihhltotalasperdetails": 2342,
+      "ihhltotalach": 2342,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BACHHWARA",
+      "grampanchayatname": "BHIKHAMCHAK",
+      "ihhltotalasperdetails": 2824,
+      "ihhltotalach": 2824,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BACHHWARA",
+      "grampanchayatname": "BISANPUR",
+      "ihhltotalasperdetails": 891,
+      "ihhltotalach": 891,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BACHHWARA",
+      "grampanchayatname": "CHAMATHA-I",
+      "ihhltotalasperdetails": 658,
+      "ihhltotalach": 658,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BACHHWARA",
+      "grampanchayatname": "CHAMATHA-II",
+      "ihhltotalasperdetails": 489,
+      "ihhltotalach": 489,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BACHHWARA",
+      "grampanchayatname": "CHAMATHA-III",
+      "ihhltotalasperdetails": 803,
+      "ihhltotalach": 803,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BACHHWARA",
+      "grampanchayatname": "CHIRANJIPUR",
+      "ihhltotalasperdetails": 2088,
+      "ihhltotalach": 2088,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BACHHWARA",
+      "grampanchayatname": "DADPUR",
+      "ihhltotalasperdetails": 1484,
+      "ihhltotalach": 1484,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BACHHWARA",
+      "grampanchayatname": "FATEHA",
+      "ihhltotalasperdetails": 1807,
+      "ihhltotalach": 1807,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BACHHWARA",
+      "grampanchayatname": "GODHANA",
+      "ihhltotalasperdetails": 2409,
+      "ihhltotalach": 2409,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BACHHWARA",
+      "grampanchayatname": "GOVINDPUR-III",
+      "ihhltotalasperdetails": 2748,
+      "ihhltotalach": 2748,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BACHHWARA",
+      "grampanchayatname": "KAIDARABAD",
+      "ihhltotalasperdetails": 2555,
+      "ihhltotalach": 2555,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BACHHWARA",
+      "grampanchayatname": "RANI-I",
+      "ihhltotalasperdetails": 2848,
+      "ihhltotalach": 2848,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BACHHWARA",
+      "grampanchayatname": "RANI-II",
+      "ihhltotalasperdetails": 2653,
+      "ihhltotalach": 2653,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BACHHWARA",
+      "grampanchayatname": "RANI-III",
+      "ihhltotalasperdetails": 507,
+      "ihhltotalach": 507,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BACHHWARA",
+      "grampanchayatname": "RASID PUR",
+      "ihhltotalasperdetails": 1893,
+      "ihhltotalach": 1893,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BACHHWARA",
+      "grampanchayatname": "RUDOULI",
+      "ihhltotalasperdetails": 2508,
+      "ihhltotalach": 2508,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BAKHRI",
+      "grampanchayatname": "BAGBAN",
+      "ihhltotalasperdetails": 2640,
+      "ihhltotalach": 2640,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BAKHRI",
+      "grampanchayatname": "BAHUARA",
+      "ihhltotalasperdetails": 1367,
+      "ihhltotalach": 1367,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BAKHRI",
+      "grampanchayatname": "BAKHARI EAST",
+      "ihhltotalasperdetails": 2006,
+      "ihhltotalach": 2006,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BAKHRI",
+      "grampanchayatname": "CHAKHAMID",
+      "ihhltotalasperdetails": 1715,
+      "ihhltotalach": 1715,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BAKHRI",
+      "grampanchayatname": "GHAGHRA",
+      "ihhltotalasperdetails": 1755,
+      "ihhltotalach": 1755,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BAKHRI",
+      "grampanchayatname": "MOHANPUR",
+      "ihhltotalasperdetails": 1533,
+      "ihhltotalach": 1533,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BAKHRI",
+      "grampanchayatname": "PARIHARA",
+      "ihhltotalasperdetails": 1691,
+      "ihhltotalach": 1691,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BAKHRI",
+      "grampanchayatname": "RATAN",
+      "ihhltotalasperdetails": 2593,
+      "ihhltotalach": 2593,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BAKHRI",
+      "grampanchayatname": "SALAUNA",
+      "ihhltotalasperdetails": 1731,
+      "ihhltotalach": 1731,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BAKHRI",
+      "grampanchayatname": "SHAKARPURA",
+      "ihhltotalasperdetails": 1082,
+      "ihhltotalach": 1082,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BALLIA",
+      "grampanchayatname": "BARI BALIA SOUTH",
+      "ihhltotalasperdetails": 1175,
+      "ihhltotalach": 1175,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BALLIA",
+      "grampanchayatname": "BARIBALIA NORTH",
+      "ihhltotalasperdetails": 2664,
+      "ihhltotalach": 2664,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BALLIA",
+      "grampanchayatname": "BARIYARPUR",
+      "ihhltotalasperdetails": 899,
+      "ihhltotalach": 899,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BALLIA",
+      "grampanchayatname": "BHAGATPUR",
+      "ihhltotalasperdetails": 2613,
+      "ihhltotalach": 2613,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BALLIA",
+      "grampanchayatname": "BHAWANAND PUR",
+      "ihhltotalasperdetails": 780,
+      "ihhltotalach": 780,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BALLIA",
+      "grampanchayatname": "FATEHPUR",
+      "ihhltotalasperdetails": 2667,
+      "ihhltotalach": 2667,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BALLIA",
+      "grampanchayatname": "MANSER PUR",
+      "ihhltotalasperdetails": 1397,
+      "ihhltotalach": 1397,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BALLIA",
+      "grampanchayatname": "NOORJAMMA PUR",
+      "ihhltotalasperdetails": 936,
+      "ihhltotalach": 936,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BALLIA",
+      "grampanchayatname": "PAHARPUR",
+      "ihhltotalasperdetails": 2327,
+      "ihhltotalach": 2327,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BALLIA",
+      "grampanchayatname": "PARMANAND PUR",
+      "ihhltotalasperdetails": 1757,
+      "ihhltotalach": 1757,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BALLIA",
+      "grampanchayatname": "POKHARIA",
+      "ihhltotalasperdetails": 3123,
+      "ihhltotalach": 3123,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BALLIA",
+      "grampanchayatname": "RAHATPUR",
+      "ihhltotalasperdetails": 916,
+      "ihhltotalach": 916,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BALLIA",
+      "grampanchayatname": "SALECHAK",
+      "ihhltotalasperdetails": 3003,
+      "ihhltotalach": 3003,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BALLIA",
+      "grampanchayatname": "TAJPUR",
+      "ihhltotalasperdetails": 2265,
+      "ihhltotalach": 2265,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BARAUNI",
+      "grampanchayatname": "AMARPUR",
+      "ihhltotalasperdetails": 1601,
+      "ihhltotalach": 1601,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BARAUNI",
+      "grampanchayatname": "BABHAGAMA",
+      "ihhltotalasperdetails": 2159,
+      "ihhltotalach": 2159,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BARAUNI",
+      "grampanchayatname": "BATHOULI",
+      "ihhltotalasperdetails": 2753,
+      "ihhltotalach": 2753,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BARAUNI",
+      "grampanchayatname": "HAZIPUR",
+      "ihhltotalasperdetails": 2776,
+      "ihhltotalach": 2776,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BARAUNI",
+      "grampanchayatname": "KESHAWE",
+      "ihhltotalasperdetails": 2694,
+      "ihhltotalach": 2694,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BARAUNI",
+      "grampanchayatname": "MAHANA",
+      "ihhltotalasperdetails": 4352,
+      "ihhltotalach": 4352,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BARAUNI",
+      "grampanchayatname": "MAIDABABHANGAMA",
+      "ihhltotalasperdetails": 1878,
+      "ihhltotalach": 1878,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BARAUNI",
+      "grampanchayatname": "MALHIPUR (NORTH)",
+      "ihhltotalasperdetails": 1073,
+      "ihhltotalach": 1073,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BARAUNI",
+      "grampanchayatname": "MALHIPUR (SOUTH)",
+      "ihhltotalasperdetails": 1060,
+      "ihhltotalach": 1060,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BARAUNI",
+      "grampanchayatname": "MOSADPUR",
+      "ihhltotalasperdetails": 1411,
+      "ihhltotalach": 1411,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BARAUNI",
+      "grampanchayatname": "NINGA",
+      "ihhltotalasperdetails": 2532,
+      "ihhltotalach": 2532,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BARAUNI",
+      "grampanchayatname": "NOORPUR",
+      "ihhltotalasperdetails": 2382,
+      "ihhltotalach": 2382,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BARAUNI",
+      "grampanchayatname": "PAPROUR",
+      "ihhltotalasperdetails": 1525,
+      "ihhltotalach": 1525,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BARAUNI",
+      "grampanchayatname": "PIPRA DEWAS",
+      "ihhltotalasperdetails": 1963,
+      "ihhltotalach": 1963,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BARAUNI",
+      "grampanchayatname": "SAHURI",
+      "ihhltotalasperdetails": 2003,
+      "ihhltotalach": 2003,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BARAUNI",
+      "grampanchayatname": "SIMARIA-I",
+      "ihhltotalasperdetails": 2002,
+      "ihhltotalach": 2002,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BARAUNI",
+      "grampanchayatname": "SIMARIA-II",
+      "ihhltotalasperdetails": 1829,
+      "ihhltotalach": 1829,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BEGUSARAI",
+      "grampanchayatname": "AJHOUR",
+      "ihhltotalasperdetails": 933,
+      "ihhltotalach": 933,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BEGUSARAI",
+      "grampanchayatname": "AMRAPUR",
+      "ihhltotalasperdetails": 904,
+      "ihhltotalach": 904,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BEGUSARAI",
+      "grampanchayatname": "BAHDARPUR",
+      "ihhltotalasperdetails": 2544,
+      "ihhltotalach": 2544,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BEGUSARAI",
+      "grampanchayatname": "BANDUAR",
+      "ihhltotalasperdetails": 1920,
+      "ihhltotalach": 1920,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BEGUSARAI",
+      "grampanchayatname": "BHAIRWAR",
+      "ihhltotalasperdetails": 1764,
+      "ihhltotalach": 1764,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BEGUSARAI",
+      "grampanchayatname": "BINOD PUR",
+      "ihhltotalasperdetails": 1505,
+      "ihhltotalach": 1505,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BEGUSARAI",
+      "grampanchayatname": "CHANDPURA",
+      "ihhltotalasperdetails": 1677,
+      "ihhltotalach": 1677,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BEGUSARAI",
+      "grampanchayatname": "CHILMIL",
+      "ihhltotalasperdetails": 1837,
+      "ihhltotalach": 1837,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BEGUSARAI",
+      "grampanchayatname": "DHABOULI",
+      "ihhltotalasperdetails": 1457,
+      "ihhltotalach": 1457,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BEGUSARAI",
+      "grampanchayatname": "HAIBATPUR",
+      "ihhltotalasperdetails": 2135,
+      "ihhltotalach": 2135,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BEGUSARAI",
+      "grampanchayatname": "JINEDPUR",
+      "ihhltotalasperdetails": 1915,
+      "ihhltotalach": 1915,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BEGUSARAI",
+      "grampanchayatname": "KAITH",
+      "ihhltotalasperdetails": 1492,
+      "ihhltotalach": 1492,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BEGUSARAI",
+      "grampanchayatname": "KHAMHAR",
+      "ihhltotalasperdetails": 1418,
+      "ihhltotalach": 1418,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BEGUSARAI",
+      "grampanchayatname": "KUSHAMAUT",
+      "ihhltotalasperdetails": 1061,
+      "ihhltotalach": 1061,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BEGUSARAI",
+      "grampanchayatname": "LAKHO",
+      "ihhltotalasperdetails": 2532,
+      "ihhltotalach": 2532,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BEGUSARAI",
+      "grampanchayatname": "LARUARA",
+      "ihhltotalasperdetails": 581,
+      "ihhltotalach": 581,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BEGUSARAI",
+      "grampanchayatname": "MOHAN PUR",
+      "ihhltotalasperdetails": 1747,
+      "ihhltotalach": 1747,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BEGUSARAI",
+      "grampanchayatname": "NEEMA",
+      "ihhltotalasperdetails": 1518,
+      "ihhltotalach": 1518,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BEGUSARAI",
+      "grampanchayatname": "PACHAMBA",
+      "ihhltotalasperdetails": 2509,
+      "ihhltotalach": 2509,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BEGUSARAI",
+      "grampanchayatname": "PARNA",
+      "ihhltotalasperdetails": 2013,
+      "ihhltotalach": 2013,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BEGUSARAI",
+      "grampanchayatname": "RACHIYAHI",
+      "ihhltotalasperdetails": 1613,
+      "ihhltotalach": 1613,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BEGUSARAI",
+      "grampanchayatname": "RAJAURA",
+      "ihhltotalasperdetails": 2111,
+      "ihhltotalach": 2111,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BEGUSARAI",
+      "grampanchayatname": "SAHPUR",
+      "ihhltotalasperdetails": 2040,
+      "ihhltotalach": 2040,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BEGUSARAI",
+      "grampanchayatname": "SHANKH",
+      "ihhltotalasperdetails": 2750,
+      "ihhltotalach": 2750,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BEGUSARAI",
+      "grampanchayatname": "SUJA",
+      "ihhltotalasperdetails": 3110,
+      "ihhltotalach": 3110,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BHAGWANPUR",
+      "grampanchayatname": "BANWARIPUR",
+      "ihhltotalasperdetails": 1940,
+      "ihhltotalach": 1940,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BHAGWANPUR",
+      "grampanchayatname": "BHITHSARI",
+      "ihhltotalasperdetails": 2238,
+      "ihhltotalach": 2238,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BHAGWANPUR",
+      "grampanchayatname": "CHANDOUR",
+      "ihhltotalasperdetails": 1426,
+      "ihhltotalach": 1426,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BHAGWANPUR",
+      "grampanchayatname": "DAMODAR PUR",
+      "ihhltotalasperdetails": 2261,
+      "ihhltotalach": 2261,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BHAGWANPUR",
+      "grampanchayatname": "JOKIA",
+      "ihhltotalasperdetails": 1610,
+      "ihhltotalach": 1610,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BHAGWANPUR",
+      "grampanchayatname": "KAZI-RASALPUR",
+      "ihhltotalasperdetails": 1608,
+      "ihhltotalach": 1608,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BHAGWANPUR",
+      "grampanchayatname": "KIRAT PUR",
+      "ihhltotalasperdetails": 1753,
+      "ihhltotalach": 1753,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BHAGWANPUR",
+      "grampanchayatname": "LAKHANPUR",
+      "ihhltotalasperdetails": 2254,
+      "ihhltotalach": 2254,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BHAGWANPUR",
+      "grampanchayatname": "MAHESH PUR",
+      "ihhltotalasperdetails": 2184,
+      "ihhltotalach": 2184,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BHAGWANPUR",
+      "grampanchayatname": "MEHDOULI",
+      "ihhltotalasperdetails": 1841,
+      "ihhltotalach": 1841,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BHAGWANPUR",
+      "grampanchayatname": "MOKHTIYARPUR",
+      "ihhltotalasperdetails": 2353,
+      "ihhltotalach": 2353,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BHAGWANPUR",
+      "grampanchayatname": "NARHARI PUR",
+      "ihhltotalasperdetails": 1318,
+      "ihhltotalach": 1318,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BHAGWANPUR",
+      "grampanchayatname": "RASALPUR",
+      "ihhltotalasperdetails": 2642,
+      "ihhltotalach": 2642,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BHAGWANPUR",
+      "grampanchayatname": "SANJAT",
+      "ihhltotalasperdetails": 2008,
+      "ihhltotalach": 2008,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BHAGWANPUR",
+      "grampanchayatname": "TAKIYA",
+      "ihhltotalasperdetails": 2223,
+      "ihhltotalach": 2223,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BIRPUR",
+      "grampanchayatname": "BHAWANAND PUR",
+      "ihhltotalasperdetails": 2355,
+      "ihhltotalach": 2355,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BIRPUR",
+      "grampanchayatname": "BIRPUR EAST",
+      "ihhltotalasperdetails": 1623,
+      "ihhltotalach": 1623,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BIRPUR",
+      "grampanchayatname": "BIRPUR WEST",
+      "ihhltotalasperdetails": 1558,
+      "ihhltotalach": 1558,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BIRPUR",
+      "grampanchayatname": "DIHPAR",
+      "ihhltotalasperdetails": 1112,
+      "ihhltotalach": 1112,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BIRPUR",
+      "grampanchayatname": "GENHARPUR",
+      "ihhltotalasperdetails": 1618,
+      "ihhltotalach": 1618,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BIRPUR",
+      "grampanchayatname": "JAGADAR",
+      "ihhltotalasperdetails": 1847,
+      "ihhltotalach": 1847,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BIRPUR",
+      "grampanchayatname": "NOULA",
+      "ihhltotalasperdetails": 2053,
+      "ihhltotalach": 2053,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "BIRPUR",
+      "grampanchayatname": "PARRA",
+      "ihhltotalasperdetails": 2225,
+      "ihhltotalach": 2225,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "CHERIA BARIARPUR",
+      "grampanchayatname": "BARIYARPUR",
+      "ihhltotalasperdetails": 1161,
+      "ihhltotalach": 1161,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "CHERIA BARIARPUR",
+      "grampanchayatname": "BASAHI",
+      "ihhltotalasperdetails": 2878,
+      "ihhltotalach": 2878,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "CHERIA BARIARPUR",
+      "grampanchayatname": "BIKRAMPUR",
+      "ihhltotalasperdetails": 1980,
+      "ihhltotalach": 1980,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "CHERIA BARIARPUR",
+      "grampanchayatname": "GOPALPUR",
+      "ihhltotalasperdetails": 2791,
+      "ihhltotalach": 2791,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "CHERIA BARIARPUR",
+      "grampanchayatname": "KHANJAPUR",
+      "ihhltotalasperdetails": 4287,
+      "ihhltotalach": 4287,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "CHERIA BARIARPUR",
+      "grampanchayatname": "KUMBHI",
+      "ihhltotalasperdetails": 2250,
+      "ihhltotalach": 2250,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "CHERIA BARIARPUR",
+      "grampanchayatname": "MAGHAUL-2",
+      "ihhltotalasperdetails": 1453,
+      "ihhltotalach": 1453,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "CHERIA BARIARPUR",
+      "grampanchayatname": "MAGHAUL-4",
+      "ihhltotalasperdetails": 1719,
+      "ihhltotalach": 1719,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "CHERIA BARIARPUR",
+      "grampanchayatname": "MANGHAUL-1",
+      "ihhltotalasperdetails": 2289,
+      "ihhltotalach": 2289,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "CHERIA BARIARPUR",
+      "grampanchayatname": "MANGHAUL-3",
+      "ihhltotalasperdetails": 3111,
+      "ihhltotalach": 3111,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "CHERIA BARIARPUR",
+      "grampanchayatname": "PABRA",
+      "ihhltotalasperdetails": 1549,
+      "ihhltotalach": 1549,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "CHERIA BARIARPUR",
+      "grampanchayatname": "SAKARBASA",
+      "ihhltotalasperdetails": 1498,
+      "ihhltotalach": 1498,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "CHERIA BARIARPUR",
+      "grampanchayatname": "SHAH PUR",
+      "ihhltotalasperdetails": 1293,
+      "ihhltotalach": 1293,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "CHERIA BARIARPUR",
+      "grampanchayatname": "SHRIPUR",
+      "ihhltotalasperdetails": 2386,
+      "ihhltotalach": 2386,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "CHHAURAHI",
+      "grampanchayatname": "AJANI",
+      "ihhltotalasperdetails": 2693,
+      "ihhltotalach": 2693,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "CHHAURAHI",
+      "grampanchayatname": "AMARI",
+      "ihhltotalasperdetails": 2273,
+      "ihhltotalach": 2273,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "CHHAURAHI",
+      "grampanchayatname": "EKAMBA",
+      "ihhltotalasperdetails": 859,
+      "ihhltotalach": 859,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "CHHAURAHI",
+      "grampanchayatname": "MALPUR",
+      "ihhltotalasperdetails": 2289,
+      "ihhltotalach": 2289,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "CHHAURAHI",
+      "grampanchayatname": "NARAIN PIPRA",
+      "ihhltotalasperdetails": 3009,
+      "ihhltotalach": 3012,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "CHHAURAHI",
+      "grampanchayatname": "PARDRA",
+      "ihhltotalasperdetails": 2376,
+      "ihhltotalach": 2376,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "CHHAURAHI",
+      "grampanchayatname": "SAHURI",
+      "ihhltotalasperdetails": 2046,
+      "ihhltotalach": 2046,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "CHHAURAHI",
+      "grampanchayatname": "SAWAT",
+      "ihhltotalasperdetails": 2407,
+      "ihhltotalach": 2407,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "CHHAURAHI",
+      "grampanchayatname": "SHAHPUR",
+      "ihhltotalasperdetails": 1391,
+      "ihhltotalach": 1391,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "CHHAURAHI",
+      "grampanchayatname": "SIHAMA",
+      "ihhltotalasperdetails": 1699,
+      "ihhltotalach": 1699,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "DANDARI",
+      "grampanchayatname": "BANK",
+      "ihhltotalasperdetails": 2157,
+      "ihhltotalach": 2157,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "DANDARI",
+      "grampanchayatname": "DANDARI",
+      "ihhltotalasperdetails": 2134,
+      "ihhltotalach": 2134,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "DANDARI",
+      "grampanchayatname": "KATAHRI",
+      "ihhltotalasperdetails": 1148,
+      "ihhltotalach": 1148,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "DANDARI",
+      "grampanchayatname": "KATARMALA SOUTH",
+      "ihhltotalasperdetails": 2257,
+      "ihhltotalach": 2257,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "DANDARI",
+      "grampanchayatname": "KATERMALA NORTH",
+      "ihhltotalasperdetails": 1113,
+      "ihhltotalach": 1113,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "DANDARI",
+      "grampanchayatname": "MAHIPA TOL",
+      "ihhltotalasperdetails": 2040,
+      "ihhltotalach": 2040,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "DANDARI",
+      "grampanchayatname": "RAJOPUR",
+      "ihhltotalasperdetails": 835,
+      "ihhltotalach": 835,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "DANDARI",
+      "grampanchayatname": "TETARI",
+      "ihhltotalasperdetails": 3035,
+      "ihhltotalach": 3035,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "GADHPURA",
+      "grampanchayatname": "DUNAHI",
+      "ihhltotalasperdetails": 2491,
+      "ihhltotalach": 2491,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "GADHPURA",
+      "grampanchayatname": "GARHPURA",
+      "ihhltotalasperdetails": 3415,
+      "ihhltotalach": 3415,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "GADHPURA",
+      "grampanchayatname": "KORAI",
+      "ihhltotalasperdetails": 2587,
+      "ihhltotalach": 2587,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "GADHPURA",
+      "grampanchayatname": "KORIYAMA",
+      "ihhltotalasperdetails": 1583,
+      "ihhltotalach": 1583,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "GADHPURA",
+      "grampanchayatname": "KUMHARSON",
+      "ihhltotalasperdetails": 3394,
+      "ihhltotalach": 3394,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "GADHPURA",
+      "grampanchayatname": "MALIPUR",
+      "ihhltotalasperdetails": 2971,
+      "ihhltotalach": 2971,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "GADHPURA",
+      "grampanchayatname": "MAUJI HARI SINGH",
+      "ihhltotalasperdetails": 2926,
+      "ihhltotalach": 2926,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "GADHPURA",
+      "grampanchayatname": "RAJAUR",
+      "ihhltotalasperdetails": 2342,
+      "ihhltotalach": 2342,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "GADHPURA",
+      "grampanchayatname": "SONWAN",
+      "ihhltotalasperdetails": 1865,
+      "ihhltotalach": 1865,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "KHODAWANDPUR",
+      "grampanchayatname": "BARA",
+      "ihhltotalasperdetails": 1817,
+      "ihhltotalach": 1817,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "KHODAWANDPUR",
+      "grampanchayatname": "BARIAR PUR",
+      "ihhltotalasperdetails": 1848,
+      "ihhltotalach": 1848,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "KHODAWANDPUR",
+      "grampanchayatname": "BARIARPUR-W",
+      "ihhltotalasperdetails": 1888,
+      "ihhltotalach": 1888,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "KHODAWANDPUR",
+      "grampanchayatname": "DAULAT PUR",
+      "ihhltotalasperdetails": 2375,
+      "ihhltotalach": 2375,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "KHODAWANDPUR",
+      "grampanchayatname": "FAFAUT",
+      "ihhltotalasperdetails": 2809,
+      "ihhltotalach": 2809,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "KHODAWANDPUR",
+      "grampanchayatname": "KHODABANDPUR",
+      "ihhltotalasperdetails": 1854,
+      "ihhltotalach": 1854,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "KHODAWANDPUR",
+      "grampanchayatname": "MEGHAUL",
+      "ihhltotalasperdetails": 2720,
+      "ihhltotalach": 2720,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "KHODAWANDPUR",
+      "grampanchayatname": "SAGI",
+      "ihhltotalasperdetails": 1969,
+      "ihhltotalach": 1969,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "MANSURCHAK",
+      "grampanchayatname": "BAHRAMPUR",
+      "ihhltotalasperdetails": 2168,
+      "ihhltotalach": 2168,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "MANSURCHAK",
+      "grampanchayatname": "GANPATOUL",
+      "ihhltotalasperdetails": 1596,
+      "ihhltotalach": 1596,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "MANSURCHAK",
+      "grampanchayatname": "GOVINDPUR-I",
+      "ihhltotalasperdetails": 1303,
+      "ihhltotalach": 1303,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "MANSURCHAK",
+      "grampanchayatname": "GOVNDPUR-II",
+      "ihhltotalasperdetails": 1541,
+      "ihhltotalach": 1541,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "MANSURCHAK",
+      "grampanchayatname": "MANSURCHAK",
+      "ihhltotalasperdetails": 2082,
+      "ihhltotalach": 2082,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "MANSURCHAK",
+      "grampanchayatname": "SAMASA-1",
+      "ihhltotalasperdetails": 3447,
+      "ihhltotalach": 3447,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "MANSURCHAK",
+      "grampanchayatname": "SAMASA-II",
+      "ihhltotalasperdetails": 2186,
+      "ihhltotalach": 2186,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "MANSURCHAK",
+      "grampanchayatname": "SATHA",
+      "ihhltotalasperdetails": 2051,
+      "ihhltotalach": 2051,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "MATIHANI",
+      "grampanchayatname": "BALAHPUR -I",
+      "ihhltotalasperdetails": 663,
+      "ihhltotalach": 663,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "MATIHANI",
+      "grampanchayatname": "BALAHPUR II",
+      "ihhltotalasperdetails": 984,
+      "ihhltotalach": 984,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "MATIHANI",
+      "grampanchayatname": "DARIYAPUR",
+      "ihhltotalasperdetails": 1942,
+      "ihhltotalach": 1942,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "MATIHANI",
+      "grampanchayatname": "GORGAMA",
+      "ihhltotalasperdetails": 1344,
+      "ihhltotalach": 1344,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "MATIHANI",
+      "grampanchayatname": "KHORAMPUR",
+      "ihhltotalasperdetails": 1387,
+      "ihhltotalach": 1387,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "MATIHANI",
+      "grampanchayatname": "MANIAPPA",
+      "ihhltotalasperdetails": 2596,
+      "ihhltotalach": 2596,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "MATIHANI",
+      "grampanchayatname": "MATIHANI - I",
+      "ihhltotalasperdetails": 3552,
+      "ihhltotalach": 3552,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "MATIHANI",
+      "grampanchayatname": "MATIHANI - II",
+      "ihhltotalasperdetails": 3403,
+      "ihhltotalach": 3403,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "MATIHANI",
+      "grampanchayatname": "RAMDIRI -4",
+      "ihhltotalasperdetails": 2315,
+      "ihhltotalach": 2315,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "MATIHANI",
+      "grampanchayatname": "RAMDIRI -I",
+      "ihhltotalasperdetails": 1348,
+      "ihhltotalach": 1348,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "MATIHANI",
+      "grampanchayatname": "RAMDIRI -III",
+      "ihhltotalasperdetails": 548,
+      "ihhltotalach": 548,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "MATIHANI",
+      "grampanchayatname": "RAMDIRI-2",
+      "ihhltotalasperdetails": 741,
+      "ihhltotalach": 741,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "MATIHANI",
+      "grampanchayatname": "SAFAPUR",
+      "ihhltotalasperdetails": 1701,
+      "ihhltotalach": 1701,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "MATIHANI",
+      "grampanchayatname": "SAIDPUR AMA",
+      "ihhltotalasperdetails": 2633,
+      "ihhltotalach": 2633,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "MATIHANI",
+      "grampanchayatname": "SHIHMA",
+      "ihhltotalasperdetails": 235,
+      "ihhltotalach": 235,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "MATIHANI",
+      "grampanchayatname": "SONAPUR",
+      "ihhltotalasperdetails": 2539,
+      "ihhltotalach": 2539,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "NAWKOTHI",
+      "grampanchayatname": "BISHNU PUR",
+      "ihhltotalasperdetails": 1953,
+      "ihhltotalach": 1953,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "NAWKOTHI",
+      "grampanchayatname": "DAFFAR PUR",
+      "ihhltotalasperdetails": 3164,
+      "ihhltotalach": 3164,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "NAWKOTHI",
+      "grampanchayatname": "HASANPUR BAGAR",
+      "ihhltotalasperdetails": 2383,
+      "ihhltotalach": 2383,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "NAWKOTHI",
+      "grampanchayatname": "MAHESHWARA",
+      "ihhltotalasperdetails": 2040,
+      "ihhltotalach": 2040,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "NAWKOTHI",
+      "grampanchayatname": "NAOKOTHI",
+      "ihhltotalasperdetails": 2558,
+      "ihhltotalach": 2558,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "NAWKOTHI",
+      "grampanchayatname": "PAHASARA EAST",
+      "ihhltotalasperdetails": 1990,
+      "ihhltotalach": 1990,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "NAWKOTHI",
+      "grampanchayatname": "PAHSARA WEST",
+      "ihhltotalasperdetails": 1517,
+      "ihhltotalach": 1517,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "NAWKOTHI",
+      "grampanchayatname": "RAJAK PUR",
+      "ihhltotalasperdetails": 2318,
+      "ihhltotalach": 2318,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "NAWKOTHI",
+      "grampanchayatname": "SAMSA",
+      "ihhltotalasperdetails": 2522,
+      "ihhltotalach": 2522,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "SAHEBPUR KAMAL",
+      "grampanchayatname": "AHO BISHANPUR",
+      "ihhltotalasperdetails": 2460,
+      "ihhltotalach": 2460,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "SAHEBPUR KAMAL",
+      "grampanchayatname": "CHAWKI",
+      "ihhltotalasperdetails": 741,
+      "ihhltotalach": 741,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "SAHEBPUR KAMAL",
+      "grampanchayatname": "PACHBIR",
+      "ihhltotalasperdetails": 2576,
+      "ihhltotalach": 2576,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "SAHEBPUR KAMAL",
+      "grampanchayatname": "PHOOLMLIK",
+      "ihhltotalasperdetails": 613,
+      "ihhltotalach": 613,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "SAHEBPUR KAMAL",
+      "grampanchayatname": "RAGHUNATH PUR KARARI",
+      "ihhltotalasperdetails": 3101,
+      "ihhltotalach": 3101,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "SAHEBPUR KAMAL",
+      "grampanchayatname": "RAGHUNATHPUR BARARI",
+      "ihhltotalasperdetails": 245,
+      "ihhltotalach": 245,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "SAHEBPUR KAMAL",
+      "grampanchayatname": "RAHUA",
+      "ihhltotalasperdetails": 1104,
+      "ihhltotalach": 1104,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "SAHEBPUR KAMAL",
+      "grampanchayatname": "SABDALPUR",
+      "ihhltotalasperdetails": 1650,
+      "ihhltotalach": 1650,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "SAHEBPUR KAMAL",
+      "grampanchayatname": "SADPUR-EAST",
+      "ihhltotalasperdetails": 1748,
+      "ihhltotalach": 1748,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "SAHEBPUR KAMAL",
+      "grampanchayatname": "SADPUR-WEST",
+      "ihhltotalasperdetails": 907,
+      "ihhltotalach": 907,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "SAHEBPUR KAMAL",
+      "grampanchayatname": "SAHEBPUR KAMAL EAST",
+      "ihhltotalasperdetails": 1400,
+      "ihhltotalach": 1400,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "SAHEBPUR KAMAL",
+      "grampanchayatname": "SAHEBPUR KAMAL WEST",
+      "ihhltotalasperdetails": 1677,
+      "ihhltotalach": 1677,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "SAHEBPUR KAMAL",
+      "grampanchayatname": "SAMASTIPUR",
+      "ihhltotalasperdetails": 211,
+      "ihhltotalach": 211,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "SAHEBPUR KAMAL",
+      "grampanchayatname": "SANDALPUR",
+      "ihhltotalasperdetails": 417,
+      "ihhltotalach": 417,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "SAHEBPUR KAMAL",
+      "grampanchayatname": "SANHA-EAST",
+      "ihhltotalasperdetails": 999,
+      "ihhltotalach": 999,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "SAHEBPUR KAMAL",
+      "grampanchayatname": "SANHA-NORTH",
+      "ihhltotalasperdetails": 1860,
+      "ihhltotalach": 1860,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "SAHEBPUR KAMAL",
+      "grampanchayatname": "SANHA-WEST",
+      "ihhltotalasperdetails": 1455,
+      "ihhltotalach": 1455,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "SAMHO AKHA KURHA",
+      "grampanchayatname": "AKBAR PUR BARARI",
+      "ihhltotalasperdetails": 1888,
+      "ihhltotalach": 1888,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "SAMHO AKHA KURHA",
+      "grampanchayatname": "SAIDPURSALH BARARI-I",
+      "ihhltotalasperdetails": 2353,
+      "ihhltotalach": 2353,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "SAMHO AKHA KURHA",
+      "grampanchayatname": "SALHA SAIDPUR BARARI-II",
+      "ihhltotalasperdetails": 2349,
+      "ihhltotalach": 2349,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "TEGHRA",
+      "grampanchayatname": "ADHARPUR",
+      "ihhltotalasperdetails": 1571,
+      "ihhltotalach": 1571,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "TEGHRA",
+      "grampanchayatname": "BARO (NORTH)",
+      "ihhltotalasperdetails": 1843,
+      "ihhltotalach": 1843,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "TEGHRA",
+      "grampanchayatname": "BARO (SOUTH)",
+      "ihhltotalasperdetails": 878,
+      "ihhltotalach": 878,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "TEGHRA",
+      "grampanchayatname": "BAROUNI-I",
+      "ihhltotalasperdetails": 982,
+      "ihhltotalach": 982,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "TEGHRA",
+      "grampanchayatname": "BAROUNI-II",
+      "ihhltotalasperdetails": 1333,
+      "ihhltotalach": 1333,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "TEGHRA",
+      "grampanchayatname": "BAROUNI-III",
+      "ihhltotalasperdetails": 1462,
+      "ihhltotalach": 1462,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "TEGHRA",
+      "grampanchayatname": "CHILHAI",
+      "ihhltotalasperdetails": 1870,
+      "ihhltotalach": 1870,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "TEGHRA",
+      "grampanchayatname": "DHANKOUL",
+      "ihhltotalasperdetails": 1969,
+      "ihhltotalach": 1969,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "TEGHRA",
+      "grampanchayatname": "FULWARIA-I",
+      "ihhltotalasperdetails": 1207,
+      "ihhltotalach": 1207,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "TEGHRA",
+      "grampanchayatname": "GOURA-I",
+      "ihhltotalasperdetails": 1835,
+      "ihhltotalach": 1835,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "TEGHRA",
+      "grampanchayatname": "GOURA-II",
+      "ihhltotalasperdetails": 1566,
+      "ihhltotalach": 1566,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "TEGHRA",
+      "grampanchayatname": "NIPANIA",
+      "ihhltotalasperdetails": 816,
+      "ihhltotalach": 816,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "TEGHRA",
+      "grampanchayatname": "PAKTHOUL",
+      "ihhltotalasperdetails": 1978,
+      "ihhltotalach": 1978,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "TEGHRA",
+      "grampanchayatname": "PHULWARIA-II",
+      "ihhltotalasperdetails": 722,
+      "ihhltotalach": 722,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "TEGHRA",
+      "grampanchayatname": "PHULWARIA-III",
+      "ihhltotalasperdetails": 1498,
+      "ihhltotalach": 1498,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "TEGHRA",
+      "grampanchayatname": "PIDHOULI",
+      "ihhltotalasperdetails": 2621,
+      "ihhltotalach": 2621,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "TEGHRA",
+      "grampanchayatname": "PIPRA DODRAJ",
+      "ihhltotalasperdetails": 1930,
+      "ihhltotalach": 1930,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "TEGHRA",
+      "grampanchayatname": "RATGAON",
+      "ihhltotalasperdetails": 461,
+      "ihhltotalach": 461,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "TEGHRA",
+      "grampanchayatname": "SOGAHARA-II",
+      "ihhltotalasperdetails": 1376,
+      "ihhltotalach": 1376,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BEGUSARAI",
+      "blockname": "TEGHRA",
+      "grampanchayatname": "SOGRAHA-I",
+      "ihhltotalasperdetails": 1122,
+      "ihhltotalach": 1122,
+      "date": "5/19/2020 12:00:00 AM"
+    }
+  ]
+}

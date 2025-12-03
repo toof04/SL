@@ -1,0 +1,40 @@
+"Sl. No.",State/UT,SC,ST,OBC,Others,Total
+1,"Andhra Pradesh",637,431,730,562,2360
+2,"Arunachal Pradesh",0,70,6,50,126
+3,Assam,499,353,543,1384,2779
+4,Bihar,1091,173,4569,1908,7741
+5,Chhattisgarh,970,2460,2075,597,6102
+6,Goa,8,9,51,37,105
+7,Gujarat,408,883,1717,845,3853
+8,Haryana,977,122,772,1467,3338
+9,"Himachal Pradesh",250,46,80,477,853
+10,Jharkhand,680,1690,1922,792,5084
+11,Karnataka,735,384,1759,810,3688
+12,Kerala,342,155,1294,635,2426
+13,"Madhya Pradesh",2994,3511,4644,2503,13652
+14,Maharashtra,1163,634,1552,2201,5550
+15,Manipur,3,14,6,82,105
+16,Meghalaya,6,157,0,15,178
+17,Mizoram,18,413,0,6,437
+18,Nagaland,6,75,12,2,95
+19,Odisha,822,1126,830,467,3245
+20,Punjab,930,65,513,1271,2779
+21,Rajasthan,1023,808,2036,1264,5131
+22,Sikkim,9,39,60,16,124
+23,"Tamil Nadu",1086,138,2767,170,4161
+24,Telangana,399,214,678,619,1910
+25,Tripura,58,142,69,126,395
+26,"Uttar Pradesh",6522,989,11409,7814,26734
+27,Uttarakhand,540,129,518,876,2063
+28,"West Bengal",852,349,679,3487,5367
+"Total (States)","Total (States)",23028,15579,41291,30483,110381
+29,"A & N Islands",0,1,19,117,137
+30,Chandigarh,123,0,66,160,349
+31,"Dadra and Nagar Haveli and Daman and Diu",2,2,5,6,15
+32,Delhi,307,27,415,721,1470
+33,"Jammu & Kashmir",14,2,6,137,159
+34,Ladakh,0,1,0,4,5
+35,Lakshadweep,0,1,0,0,1
+36,Puducherry,24,0,48,0,72
+"Total (UTs)","Total (UTs)",470,34,559,1145,2208
+"Total (All-India)","Total (All-India)",23498,15613,41850,31628,112589

@@ -1,0 +1,4510 @@
+{
+  "index_name": "66d0a019-b697-46dc-8d8b-96e03ef80975",
+  "title": "Members of Tenth Lok Sabha from 20th June 1991 to 10th May 1996",
+  "desc": "Members of Tenth Lok Sabha from 20th June 1991 to 10th May 1996",
+  "org_type": "Central",
+  "org": [
+    "Lok Sabha Secretariat"
+  ],
+  "sector": [
+    "Parliament Of india",
+    "Governance and Administration",
+    "Lok Sabha"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "797810d8-f630-44ac-8a82-25251cc17383",
+  "visualizable": "0",
+  "active": "1",
+  "created": 1759680092,
+  "updated": 1759680092,
+  "created_date": "2025-10-05T18:01:32Z",
+  "updated_date": "2025-10-05T18:01:32Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "797810d8-f630-44ac-8a82-25251cc17383",
+    "field": "66d0a019-b697-46dc-8d8b-96e03ef80975"
+  },
+  "field": [
+    {
+      "id": "lok_sabha_",
+      "name": "Lok Sabha",
+      "type": "keyword"
+    },
+    {
+      "id": "member_name",
+      "name": "Member Name",
+      "type": "keyword"
+    },
+    {
+      "id": "gender",
+      "name": "Gender",
+      "type": "keyword"
+    },
+    {
+      "id": "constituency_name",
+      "name": "Constituency Name",
+      "type": "keyword"
+    },
+    {
+      "id": "state_name",
+      "name": "State Name",
+      "type": "keyword"
+    },
+    {
+      "id": "party_name",
+      "name": "Party Name",
+      "type": "keyword"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 555,
+  "count": 555,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Basudeb Acharia",
+      "gender": "Male",
+      "constituency_name": "Bankura",
+      "state_name": "West Bengal",
+      "party_name": "Communist Party of India (Marxist)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Lourdusamy Adaikalaraj",
+      "gender": "Male",
+      "constituency_name": "Tiruchirappalli",
+      "state_name": "Tamil Nadu",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Lal Krishna Advani",
+      "gender": "Male",
+      "constituency_name": "Gandhinagar",
+      "state_name": "Gujarat",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Rajendra Agnihotri",
+      "gender": "Male",
+      "constituency_name": "Jhansi",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri E. Ahamed",
+      "gender": "Male",
+      "constituency_name": "Manjeri",
+      "state_name": "Kerala",
+      "party_name": "Muslim League"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Anand Ahirwar",
+      "gender": "Male",
+      "constituency_name": "Sagar-SC",
+      "state_name": "Madhya Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Kamaluddin Ahmed",
+      "gender": "Male",
+      "constituency_name": "Hanamkonda",
+      "state_name": "Andhra Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Mani Shankar Aiyar",
+      "gender": "Male",
+      "constituency_name": "Mayiladuturai",
+      "state_name": "Tamil Nadu",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Smt. Lovely Anand",
+      "gender": "Female",
+      "constituency_name": "Vaishali",
+      "state_name": "Bihar",
+      "party_name": "Samata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Era Anbarasu",
+      "gender": "Male",
+      "constituency_name": "Madras Central",
+      "state_name": "Tamil Nadu",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri T.J. Anjalose",
+      "gender": "Male",
+      "constituency_name": "Alleppey",
+      "state_name": "Kerala",
+      "party_name": "Communist Party of India (Marxist)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Sai Prathap Annayyagari",
+      "gender": "Male",
+      "constituency_name": "Rajampet",
+      "state_name": "Andhra Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Dr.(Prof.) Mumtaz Ansari",
+      "gender": "Male",
+      "constituency_name": "Kodarma",
+      "state_name": "Bihar",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Frank Anthony",
+      "gender": "Male",
+      "constituency_name": "Nominated Anglo-Indian",
+      "state_name": "NA",
+      "party_name": "Nominated"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Abdul Rehman Antulay",
+      "gender": "Male",
+      "constituency_name": "Kulaba",
+      "state_name": "Maharashtra",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Basavaraj Patil Anwari",
+      "gender": "Male",
+      "constituency_name": "Koppal",
+      "state_name": "Karnataka",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri   Arjun Singh",
+      "gender": "Male",
+      "constituency_name": "Satna",
+      "state_name": "Madhya Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Mookaiah Arunachalam",
+      "gender": "Male",
+      "constituency_name": "Tenkasi-SC",
+      "state_name": "Tamil Nadu",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri A. Ashokaraj",
+      "gender": "Male",
+      "constituency_name": "Perambalur-SC",
+      "state_name": "Tamil Nadu",
+      "party_name": "All India Anna Dravida Munnetra Kazhagam"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Dhanuskodi Athithan",
+      "gender": "Male",
+      "constituency_name": "Tiruchendur",
+      "state_name": "Tamil Nadu",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Mahant  Avedyanath",
+      "gender": "Male",
+      "constituency_name": "Gorakhpur",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Dr. Faiyazul Azam",
+      "gender": "Male",
+      "constituency_name": "Bettiah",
+      "state_name": "Bihar",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Mahendra Baitha",
+      "gender": "Male",
+      "constituency_name": "Bagaha-SC",
+      "state_name": "Bihar",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Dr. Asim Bala",
+      "gender": "Male",
+      "constituency_name": "Nabadwip-SC",
+      "state_name": "West Bengal",
+      "party_name": "Communist Party of India (Marxist)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Ganti Mohana Chandra Balayogi",
+      "gender": "Male",
+      "constituency_name": "Amalapuram-SC",
+      "state_name": "Andhra Pradesh",
+      "party_name": "Telugu Desam Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Naresh Kumar Baliyan",
+      "gender": "Male",
+      "constituency_name": "Muzaffarnagar",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Kum. Mamata Banerjee",
+      "gender": "Female",
+      "constituency_name": "Calcutta South",
+      "state_name": "West Bengal",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Pawan Kumar Bansal",
+      "gender": "Male",
+      "constituency_name": "Chandigarh",
+      "state_name": "Chandigarh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Palas Barman",
+      "gender": "Male",
+      "constituency_name": "Balurghat-SC",
+      "state_name": "West Bengal",
+      "party_name": "Revolutionary Socialist Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Uddhab Barman",
+      "gender": "Male",
+      "constituency_name": "Barpeta",
+      "state_name": "Assam",
+      "party_name": "Communist Party of India (Marxist)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Smt.   Basava Rajeswari",
+      "gender": "Female",
+      "constituency_name": "Bellary",
+      "state_name": "Karnataka",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Lal Jan Basha S.M.",
+      "gender": "Male",
+      "constituency_name": "Guntur",
+      "state_name": "Andhra Pradesh",
+      "party_name": "Telugu Desam Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Anil Basu",
+      "gender": "Male",
+      "constituency_name": "Arambagh",
+      "state_name": "West Bengal",
+      "party_name": "Communist Party of India (Marxist)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Chitta Basu",
+      "gender": "Male",
+      "constituency_name": "Barasat",
+      "state_name": "West Bengal",
+      "party_name": "Forward Bloc (Marxist)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Ram Narain Berwa",
+      "gender": "Male",
+      "constituency_name": "Tonk-SC",
+      "state_name": "Rajasthan",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Avtar Singh Bhadana",
+      "gender": "Male",
+      "constituency_name": "Faridabad",
+      "state_name": "Haryana",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Vishweshwar Bhagat",
+      "gender": "Male",
+      "constituency_name": "Balaghat",
+      "state_name": "Madhya Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri   Bhagey Gobardhan",
+      "gender": "Male",
+      "constituency_name": "Mayurbhanj-ST",
+      "state_name": "Odisha",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Manoranjan Bhakta",
+      "gender": "Male",
+      "constituency_name": "Andaman and Nicobar Islands",
+      "state_name": "Andaman and Nicobar Islands",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Smt. Dil Kumari Bhandari",
+      "gender": "Female",
+      "constituency_name": "Sikkim",
+      "state_name": "Sikkim",
+      "party_name": "Sikkim Sangram Parishad"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Paras Ram Bhardwaj",
+      "gender": "Male",
+      "constituency_name": "Sarangarh-SC",
+      "state_name": "Madhya Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Girdhari Lal Bhargav",
+      "gender": "Male",
+      "constituency_name": "Jaipur",
+      "state_name": "Rajasthan",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Raghunandan Lal Bhatia",
+      "gender": "Male",
+      "constituency_name": "Amritsar",
+      "state_name": "Punjab",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Prof. (Smt.) Malini Bhattacharya",
+      "gender": "Female",
+      "constituency_name": "Jadavpur",
+      "state_name": "West Bengal",
+      "party_name": "Communist Party of India (Marxist)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Nani Bhattacharya",
+      "gender": "Male",
+      "constituency_name": "Berhampore",
+      "state_name": "West Bengal",
+      "party_name": "Revolutionary Socialist Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Dr. Krupasindhu Bhoi",
+      "gender": "Male",
+      "constituency_name": "Sambalpur",
+      "state_name": "Odisha",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Tejsingh Rao Raje Laxman Rao Bhonsle",
+      "gender": "Male",
+      "constituency_name": "Ramtek",
+      "state_name": "Maharashtra",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Prataprao Baburao Bhosale",
+      "gender": "Male",
+      "constituency_name": "Satara",
+      "state_name": "Maharashtra",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Vijaya Kumar Raju Bhupathiraju",
+      "gender": "Male",
+      "constituency_name": "Narsapur",
+      "state_name": "Andhra Pradesh",
+      "party_name": "T.D.(V)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Dileep Singh Bhuria",
+      "gender": "Male",
+      "constituency_name": "Jhabua-ST",
+      "state_name": "Madhya Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Maharani   Bibhu Kumari Devi",
+      "gender": "Female",
+      "constituency_name": "Tripura East-ST",
+      "state_name": "Tripura",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri   Birbal Ram",
+      "gender": "Male",
+      "constituency_name": "Ganganagar-SC",
+      "state_name": "Rajasthan",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Sardar Jagmeet Singh Brar",
+      "gender": "Male",
+      "constituency_name": "Faridkot",
+      "state_name": "Punjab",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Satyendra Nath Brohmo Chaudhury",
+      "gender": "Male",
+      "constituency_name": "Kokrajhar-ST",
+      "state_name": "Assam",
+      "party_name": "Independent"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Sardar  Buta Singh",
+      "gender": "Male",
+      "constituency_name": "Jalore-SC",
+      "state_name": "Rajasthan",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri P.C. Chacko",
+      "gender": "Male",
+      "constituency_name": "Trichur",
+      "state_name": "Kerala",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Susanta Chakraborty",
+      "gender": "Male",
+      "constituency_name": "Howrah",
+      "state_name": "West Bengal",
+      "party_name": "Communist Party of India (Marxist)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Kirip Chaliha",
+      "gender": "Male",
+      "constituency_name": "Guwahati",
+      "state_name": "Assam",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri  Chandra Shekhar",
+      "gender": "Male",
+      "constituency_name": "Ballia",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Chandulal Chandrakar",
+      "gender": "Male",
+      "constituency_name": "Durg",
+      "state_name": "Madhya Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Smt. Maragatham Chandrasekhar",
+      "gender": "Female",
+      "constituency_name": "Sriperumbudur-SC",
+      "state_name": "Tamil Nadu",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri A. Charles",
+      "gender": "Male",
+      "constituency_name": "Thiruvananthapuram",
+      "state_name": "Kerala",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Nirmal Kanti Chatterjee",
+      "gender": "Male",
+      "constituency_name": "Dumdum",
+      "state_name": "West Bengal",
+      "party_name": "Communist Party of India (Marxist)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Somnath Chatterjee",
+      "gender": "Male",
+      "constituency_name": "Bolpur",
+      "state_name": "West Bengal",
+      "party_name": "Communist Party of India (Marxist)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Manphool Singh  Bhadu Chaudhary",
+      "gender": "Male",
+      "constituency_name": "Bikaner",
+      "state_name": "Rajasthan",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Pankaj Chaudhary",
+      "gender": "Male",
+      "constituency_name": "Maharajganj",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Ram Prakash Chaudhary",
+      "gender": "Male",
+      "constituency_name": "Ambala-SC",
+      "state_name": "Haryana",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Rudrasen Chaudhary",
+      "gender": "Male",
+      "constituency_name": "Bahraich",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Sqn.Ldr.(Retd.) Kamal Chaudhry",
+      "gender": "Male",
+      "constituency_name": "Hoshiarpur",
+      "state_name": "Punjab",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Chetan Chauhan",
+      "gender": "Male",
+      "constituency_name": "Amroha",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Bapu Hari Chaure",
+      "gender": "MALE",
+      "constituency_name": "Dhule-ST",
+      "state_name": "Maharashtra",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Prithviraj D. Chavan",
+      "gender": "Male",
+      "constituency_name": "Karad",
+      "state_name": "Maharashtra",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Harisinh Pratapsinh Chavda",
+      "gender": "Male",
+      "constituency_name": "Banaskantha",
+      "state_name": "Gujarat",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Ishwarbhai Khodabhai Chavda",
+      "gender": "Male",
+      "constituency_name": "Anand",
+      "state_name": "Gujarat",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Ramesh Chennithala",
+      "gender": "Male",
+      "constituency_name": "Kottayam",
+      "state_name": "Kerala",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Sartaj Singh Chhatwal",
+      "gender": "Male",
+      "constituency_name": "Hoshangabad",
+      "state_name": "Madhya Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri   Chhotey Lal",
+      "gender": "Male",
+      "constituency_name": "Mohanlalganj-SC",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Palaniappan Chidambaram",
+      "gender": "Male",
+      "constituency_name": "Sivaganga",
+      "state_name": "Tamil Nadu",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Smt. Bhavna Devraj Chikhalia",
+      "gender": "Female",
+      "constituency_name": "Junagadh",
+      "state_name": "Gujarat",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Swami  Chinmayanand",
+      "gender": "Male",
+      "constituency_name": "Budaun",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Dr.  Chinta Mohan",
+      "gender": "Male",
+      "constituency_name": "Tirupathi-SC",
+      "state_name": "Andhra Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Dr. K.V.R. Choudhary",
+      "gender": "Male",
+      "constituency_name": "Rajahmundry",
+      "state_name": "Andhra Pradesh",
+      "party_name": "T.D.(V)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Lokanath Choudhary",
+      "gender": "Male",
+      "constituency_name": "Jagatsinghpur",
+      "state_name": "Odisha",
+      "party_name": "Communist Party of India"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Ram Tahal Choudhary",
+      "gender": "Male",
+      "constituency_name": "Ranchi",
+      "state_name": "Bihar",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri A.B.A. Ghani Khan Choudhury",
+      "gender": "Male",
+      "constituency_name": "Malda",
+      "state_name": "West Bengal",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Narain Singh Choudhury",
+      "gender": "Male",
+      "constituency_name": "Hissar",
+      "state_name": "Haryana",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Saifuddin Choudhury",
+      "gender": "Male",
+      "constituency_name": "Katwa",
+      "state_name": "West Bengal",
+      "party_name": "Communist Party of India (Marxist)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Shivraj Singh Chouhan",
+      "gender": "Male",
+      "constituency_name": "Vidisha",
+      "state_name": "Madhya Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Smt. Santosh Chowdhary",
+      "gender": "Female",
+      "constituency_name": "Phillaur-SC",
+      "state_name": "Punjab",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Gurcharan Singh Dadhahoor",
+      "gender": "Male",
+      "constituency_name": "Sangrur",
+      "state_name": "Punjab",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri   Dalbir Singh",
+      "gender": "Male",
+      "constituency_name": "Shahdol-ST",
+      "state_name": "Madhya Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Somjibhai Damor",
+      "gender": "Male",
+      "constituency_name": "Dohad-ST",
+      "state_name": "Gujarat",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Anadi Charan Das",
+      "gender": "Male",
+      "constituency_name": "Jajpur-SC",
+      "state_name": "Odisha",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Dwaraka Nath Das",
+      "gender": "Male",
+      "constituency_name": "Karimganj-SC",
+      "state_name": "Assam",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Jitendra Nath Das",
+      "gender": "Male",
+      "constituency_name": "Jalpaiguri",
+      "state_name": "West Bengal",
+      "party_name": "Communist Party of India (Marxist)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Ram Sundar Das",
+      "gender": "Male",
+      "constituency_name": "Hajipur-SC",
+      "state_name": "Bihar",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Amal Datta",
+      "gender": "Male",
+      "constituency_name": "Diamond Harbour",
+      "state_name": "West Bengal",
+      "party_name": "Communist Party of India (Marxist)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Bandaru Dattatreya",
+      "gender": "Male",
+      "constituency_name": "Secunderabad",
+      "state_name": "Andhra Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Probin Deka",
+      "gender": "Male",
+      "constituency_name": "Mangaldoi",
+      "state_name": "Assam",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Mohanbhai Delkar",
+      "gender": "Male",
+      "constituency_name": "Dadra and Nagar Haveli-ST",
+      "state_name": "Dadra and Nagar Haveli",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri N. Dennis",
+      "gender": "Male",
+      "constituency_name": "Nagercoil",
+      "state_name": "Tamil Nadu",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Murli Deora",
+      "gender": "Male",
+      "constituency_name": "Bombay South",
+      "state_name": "Maharashtra",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Anantrao Deshmukh",
+      "gender": "Male",
+      "constituency_name": "Washim",
+      "state_name": "Maharashtra",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Prof. Ashokrao Anandrao Deshmukh",
+      "gender": "Male",
+      "constituency_name": "Parbhani",
+      "state_name": "Maharashtra",
+      "party_name": "Shiv Sena"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Chandubhai Shanabhai Deshmukh",
+      "gender": "Male",
+      "constituency_name": "Broach",
+      "state_name": "Gujarat",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Sontosh Mohan Dev",
+      "gender": "Male",
+      "constituency_name": "Tripura West",
+      "state_name": "Tripura",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri B. Devarajan",
+      "gender": "Male",
+      "constituency_name": "Rasipuram-SC",
+      "state_name": "Tamil Nadu",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri H.D. Devegowda",
+      "gender": "Male",
+      "constituency_name": "Hassan",
+      "state_name": "Karnataka",
+      "party_name": "Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Venur Dhananjaya Kumar",
+      "gender": "Male",
+      "constituency_name": "Mangalore",
+      "state_name": "Karnataka",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Bommagani Dharmabhiksham",
+      "gender": "Male",
+      "constituency_name": "Nalgonda",
+      "state_name": "Andhra Pradesh",
+      "party_name": "Communist Party of India"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Prof. Prem Kumar Dhumal",
+      "gender": "Male",
+      "constituency_name": "Hamirpur",
+      "state_name": "Himachal Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Sharad Dighe",
+      "gender": "Male",
+      "constituency_name": "Bombay North Central",
+      "state_name": "Maharashtra",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri   Digvijaya Singh",
+      "gender": "Male",
+      "constituency_name": "Raigarh-ST",
+      "state_name": "Madhya Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Shrish Chandra Dikshit",
+      "gender": "Male",
+      "constituency_name": "Varanasi",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Pawan Diwan",
+      "gender": "Male",
+      "constituency_name": "Mahasamund",
+      "state_name": "Madhya Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Dr. Ram Chandra Dome",
+      "gender": "Male",
+      "constituency_name": "Birbhum-SC",
+      "state_name": "West Bengal",
+      "party_name": "Communist Party of India (Marxist)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Capt.(Retd.) Jagatvir Singh Drona",
+      "gender": "Male",
+      "constituency_name": "Kanpur",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Smt. Saroj Dubey",
+      "gender": "Female",
+      "constituency_name": "Allahabad",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Sunil Dutt",
+      "gender": "Male",
+      "constituency_name": "Bombay North West",
+      "state_name": "Maharashtra",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Eduardo Faleiro",
+      "gender": "Male",
+      "constituency_name": "Mormugao",
+      "state_name": "Goa",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri M.O.H. Farook",
+      "gender": "Male",
+      "constituency_name": "Pondicherry",
+      "state_name": "Pondicherry",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Mohmmad Ali Ashraf Fatmi",
+      "gender": "Male",
+      "constituency_name": "Darbhanga",
+      "state_name": "Bihar",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri George Fernandes",
+      "gender": "Male",
+      "constituency_name": "Muzaffarpur",
+      "state_name": "Bihar",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Oscar Fernandes",
+      "gender": "Male",
+      "constituency_name": "Udipi",
+      "state_name": "Karnataka",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Pandurang Pundalik Fundkar",
+      "gender": "Male",
+      "constituency_name": "Akola",
+      "state_name": "Maharashtra",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Udaysingrao Gaikwad",
+      "gender": "Male",
+      "constituency_name": "Kolhapur",
+      "state_name": "Maharashtra",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Gopi Nath Gajapathi",
+      "gender": "Male",
+      "constituency_name": "Berhampur",
+      "state_name": "Odisha",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Gurcharan Singh Galib",
+      "gender": "Male",
+      "constituency_name": "Ludhiana",
+      "state_name": "Punjab",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Giridhar Gamang",
+      "gender": "Male",
+      "constituency_name": "Koraput-ST",
+      "state_name": "Odisha",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Chhitubhai Gamit",
+      "gender": "Male",
+      "constituency_name": "Mandvi-ST",
+      "state_name": "Gujarat",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Rajiv Gandhi",
+      "gender": "Male",
+      "constituency_name": "Amethi",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri S. Gangadhar",
+      "gender": "Male",
+      "constituency_name": "Hindupur",
+      "state_name": "Andhra Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Parashuram Gangwar",
+      "gender": "Male",
+      "constituency_name": "Pilibhit",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Santosh Kumar Gangwar",
+      "gender": "Male",
+      "constituency_name": "Bareilly",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Smt. Sheela Gautam",
+      "gender": "Female",
+      "constituency_name": "Aligarh",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Manikrao Hodlya Gavit",
+      "gender": "Male",
+      "constituency_name": "Nandurbar-ST",
+      "state_name": "Maharashtra",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Ashok Gehlot",
+      "gender": "Male",
+      "constituency_name": "Jodhpur",
+      "state_name": "Rajasthan",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Abdul Ghafoor",
+      "gender": "Male",
+      "constituency_name": "Gopalganj",
+      "state_name": "Bihar",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Ramchandra Marotrao Ghangare",
+      "gender": "Male",
+      "constituency_name": "Wardha",
+      "state_name": "Maharashtra",
+      "party_name": "Communist Party of India (Marxist)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Paban Singh Ghatowar",
+      "gender": "Male",
+      "constituency_name": "Dibrugarh",
+      "state_name": "Assam",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Prof. Sudhir Kumar Giri",
+      "gender": "Male",
+      "constituency_name": "Contai",
+      "state_name": "West Bengal",
+      "party_name": "Communist Party of India (Marxist)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Dr.(Prof.)   Girija Devi",
+      "gender": "Female",
+      "constituency_name": "Maharajganj",
+      "state_name": "Bihar",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Tarun Gogoi",
+      "gender": "Male",
+      "constituency_name": "Kaliabor",
+      "state_name": "Assam",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Dr. Mahavir Singh Gohil",
+      "gender": "Male",
+      "constituency_name": "Bhavnagar",
+      "state_name": "Gujarat",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Smt. Suseela Gopalan",
+      "gender": "Female",
+      "constituency_name": "Chirayinkil",
+      "state_name": "Kerala",
+      "party_name": "Communist Party of India (Marxist)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Senapathi A. Gounder",
+      "gender": "Male",
+      "constituency_name": "Palani",
+      "state_name": "Tamil Nadu",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri R. Kanaga Govinda Rajulu",
+      "gender": "Male",
+      "constituency_name": "Sivakasi",
+      "state_name": "Tamil Nadu",
+      "party_name": "All India Anna Dravida Munnetra Kazhagam"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Dr. Venkatagiri K. Gowda",
+      "gender": "Male",
+      "constituency_name": "Bangalore South",
+      "state_name": "Karnataka",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Basagondappa Kadappa Gudadinni",
+      "gender": "Male",
+      "constituency_name": "Bijapur",
+      "state_name": "Karnataka",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Vilasrao Gundewar",
+      "gender": "Male",
+      "constituency_name": "Hingoli",
+      "state_name": "Maharashtra",
+      "party_name": "Shiv Sena"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Indrajit Gupta",
+      "gender": "Male",
+      "constituency_name": "Midnapore",
+      "state_name": "West Bengal",
+      "party_name": "Communist Party of India"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Bijoy Krishna Handique",
+      "gender": "Male",
+      "constituency_name": "Jorhat",
+      "state_name": "Assam",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri   Harchand Singh",
+      "gender": "Male",
+      "constituency_name": "Ropar-SC",
+      "state_name": "Punjab",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Bhupinder Singh Hooda",
+      "gender": "Male",
+      "constituency_name": "Rohtak",
+      "state_name": "Haryana",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Syed Masudal Hossain",
+      "gender": "Male",
+      "constituency_name": "Murshidabad",
+      "state_name": "West Bengal",
+      "party_name": "Communist Party of India (Marxist)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri   Imchalemba",
+      "gender": "Male",
+      "constituency_name": "Nagaland",
+      "state_name": "Nagaland",
+      "party_name": "N.P.C."
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri   Inder Jit",
+      "gender": "Male",
+      "constituency_name": "Darjeeling",
+      "state_name": "West Bengal",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Smt. Sheila F. Irani",
+      "gender": "Female",
+      "constituency_name": "Nominated Anglo-Indian",
+      "state_name": "NA",
+      "party_name": "Nominated"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Nurul Islam",
+      "gender": "Male",
+      "constituency_name": "Dhubri",
+      "state_name": "Assam",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri C.K. Jaffer Sharief",
+      "gender": "Male",
+      "constituency_name": "Bangalore North",
+      "state_name": "Karnataka",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri  Jai Prakash",
+      "gender": "Male",
+      "constituency_name": "Hardoi-SC",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Dr. Bal Ram Jakhar",
+      "gender": "Male",
+      "constituency_name": "Sikar",
+      "state_name": "Rajasthan",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri M.R. Kadambur Janarthanan",
+      "gender": "Male",
+      "constituency_name": "Tirunelveli",
+      "state_name": "Tamil Nadu",
+      "party_name": "All India Anna Dravida Munnetra Kazhagam"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri   Jangbir Singh",
+      "gender": "Male",
+      "constituency_name": "Bhiwani",
+      "state_name": "Haryana",
+      "party_name": "Haryana Vikas Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Khelan Ram Jangde",
+      "gender": "Male",
+      "constituency_name": "Bilaspur-SC",
+      "state_name": "Madhya Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Barelal Jatav",
+      "gender": "Male",
+      "constituency_name": "Morena-SC",
+      "state_name": "Madhya Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Dr. Satyanarayan Jatiya",
+      "gender": "Male",
+      "constituency_name": "Ujjain-SC",
+      "state_name": "Madhya Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Dr. Basawaraj Jawali",
+      "gender": "Male",
+      "constituency_name": "Gulbarga",
+      "state_name": "Karnataka",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Adikesavan Jayamohan",
+      "gender": "Male",
+      "constituency_name": "Tirupattur",
+      "state_name": "Tamil Nadu",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Rangaswamy Jeevarathinam",
+      "gender": "Male",
+      "constituency_name": "Arakkonam",
+      "state_name": "Tamil Nadu",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Srikant Kumar Jena",
+      "gender": "Male",
+      "constituency_name": "Cuttack",
+      "state_name": "Odisha",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Dr. Khushiram Jeswani",
+      "gender": "Male",
+      "constituency_name": "Kaira",
+      "state_name": "Gujarat",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Bhogendra Jha",
+      "gender": "Male",
+      "constituency_name": "Madhubani",
+      "state_name": "Bihar",
+      "party_name": "Communist Party of India"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Mohan Lal Jhikram",
+      "gender": "Male",
+      "constituency_name": "Mandla-ST",
+      "state_name": "Madhya Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Vaidya  Dau Dayal Joshi",
+      "gender": "Male",
+      "constituency_name": "Kota",
+      "state_name": "Rajasthan",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Laxman Sonopant alias Anna Joshi Joshi",
+      "gender": "Male",
+      "constituency_name": "Pune",
+      "state_name": "Maharashtra",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Zambru Mangalu Kahandole",
+      "gender": "Male",
+      "constituency_name": "Malegaon-ST",
+      "state_name": "Maharashtra",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Surinder Singh Kairon",
+      "gender": "Male",
+      "constituency_name": "Taran Taran",
+      "state_name": "Punjab",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Shankarrao Kale",
+      "gender": "Male",
+      "constituency_name": "Kopargaon",
+      "state_name": "Maharashtra",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri P.P. Kaliaperumal",
+      "gender": "Male",
+      "constituency_name": "Cuddalore",
+      "state_name": "Tamil Nadu",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri   Kalka Dass",
+      "gender": "Male",
+      "constituency_name": "Karol Bagh-SC",
+      "state_name": "Delhi",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Shyam Lal Kamal",
+      "gender": "Male",
+      "constituency_name": "Basti-SC",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri  Kamal Nath",
+      "gender": "Male",
+      "constituency_name": "Chhindwara",
+      "state_name": "Madhya Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Gurudas Kamat",
+      "gender": "Male",
+      "constituency_name": "Bombay North East",
+      "state_name": "Maharashtra",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Arvind Tulsiram Kamble",
+      "gender": "Male",
+      "constituency_name": "Osmanabad-SC",
+      "state_name": "Maharashtra",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Prof. Meijinlung Kamson",
+      "gender": "Male",
+      "constituency_name": "Outer Manipur-ST",
+      "state_name": "Manipur",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Dr. Gendan Lal Kanaujia",
+      "gender": "Male",
+      "constituency_name": "Kheri",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Dr.   Kanithi Viswanatham",
+      "gender": "Male",
+      "constituency_name": "Srikakulam",
+      "state_name": "Andhra Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Mahesh Kumar Kanodia",
+      "gender": "Male",
+      "constituency_name": "Patan-SC",
+      "state_name": "Gujarat",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri   Kanshi Ram",
+      "gender": "Male",
+      "constituency_name": "Etawah",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Bahujan Samaj Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Prof. Ram Kapse",
+      "gender": "Male",
+      "constituency_name": "Thane",
+      "state_name": "Maharashtra",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Smt. Kamala Kumari Karriydula",
+      "gender": "Female",
+      "constituency_name": "Bhadrachalam-ST",
+      "state_name": "Andhra Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Ram Singh Kaswan",
+      "gender": "Male",
+      "constituency_name": "Churu",
+      "state_name": "Rajasthan",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Prabhu Dayal Katheria",
+      "gender": "Male",
+      "constituency_name": "Firozabad-SC",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Vinaya Katiyar",
+      "gender": "Male",
+      "constituency_name": "Faizabad",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Smt. Sheila Kaul",
+      "gender": "Female",
+      "constituency_name": "Raebareli",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri   Keshari Lal",
+      "gender": "Male",
+      "constituency_name": "Ghatampur-SC",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri   Kewal Singh",
+      "gender": "Male",
+      "constituency_name": "Bhatinda-SC",
+      "state_name": "Punjab",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Aslam Sher Khan",
+      "gender": "Male",
+      "constituency_name": "Betul",
+      "state_name": "Madhya Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Haji Ghulam Mohd. Khan",
+      "gender": "Male",
+      "constituency_name": "Moradabad",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Mohd. Ayub Khan",
+      "gender": "Male",
+      "constituency_name": "Jhunjhunu",
+      "state_name": "Rajasthan",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Sukhendu Khan",
+      "gender": "Male",
+      "constituency_name": "Vishnupur-SC",
+      "state_name": "West Bengal",
+      "party_name": "Communist Party of India (Marxist)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Tarachand Khandelwal",
+      "gender": "Male",
+      "constituency_name": "Chandni Chowk",
+      "state_name": "Delhi",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "AVSM,Maj.Gen.(Retd.) Bhuwan Chandra Khanduri",
+      "gender": "Male",
+      "constituency_name": "Garhwal",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Rajesh Khanna",
+      "gender": "Male",
+      "constituency_name": "New Delhi",
+      "state_name": "Delhi",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Maj. D.D. Khanoria",
+      "gender": "Male",
+      "constituency_name": "Kangra",
+      "state_name": "Himachal Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri  Khelsai Singh",
+      "gender": "Male",
+      "constituency_name": "Surguja-ST",
+      "state_name": "Madhya Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Madan Lal Khurana",
+      "gender": "Male",
+      "constituency_name": "South Delhi",
+      "state_name": "Delhi",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Salman Khurshid",
+      "gender": "Male",
+      "constituency_name": "Farrukhabad",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Suresh Kodikunnil",
+      "gender": "Male",
+      "constituency_name": "Adoor-SC",
+      "state_name": "Kerala",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Ganga Ram Koli",
+      "gender": "Male",
+      "constituency_name": "Bayana-SC",
+      "state_name": "Rajasthan",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Rama Krishna Konathala",
+      "gender": "Male",
+      "constituency_name": "Anakapalli",
+      "state_name": "Andhra Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Chandresh Patel Kordia",
+      "gender": "Male",
+      "constituency_name": "Jamnagar",
+      "state_name": "Gujarat",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Gaya Prasad Kori",
+      "gender": "Male",
+      "constituency_name": "Jalaun-SC",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri S. Krishna Kumar",
+      "gender": "Male",
+      "constituency_name": "Quilon",
+      "state_name": "Kerala",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri M. Krishnasswamy",
+      "gender": "Male",
+      "constituency_name": "Vandavasi",
+      "state_name": "Tamil Nadu",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Smt.   Krishnendra Kaur (Deepa)",
+      "gender": "Female",
+      "constituency_name": "Bharatpur",
+      "state_name": "Rajasthan",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Smt. Kesharbai Kshirsagar",
+      "gender": "Female",
+      "constituency_name": "Beed",
+      "state_name": "Maharashtra",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Kumari Padmashree Kudumula",
+      "gender": "Female",
+      "constituency_name": "Nellore-SC",
+      "state_name": "Andhra Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Balin Kuli",
+      "gender": "Male",
+      "constituency_name": "Lakhimpur",
+      "state_name": "Assam",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri P.R. Kumaramangalam",
+      "gender": "Male",
+      "constituency_name": "Salem",
+      "state_name": "Tamil Nadu",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Palaniyappa Gounder Kumarasamy",
+      "gender": "Male",
+      "constituency_name": "Palani",
+      "state_name": "Tamil Nadu",
+      "party_name": "All India Anna Dravida Munnetra Kazhagam"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri C.K. Kuppuswamy",
+      "gender": "Male",
+      "constituency_name": "Coimbatore",
+      "state_name": "Tamil Nadu",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Prof. P.J. Kurien",
+      "gender": "Male",
+      "constituency_name": "Mavelikara",
+      "state_name": "Kerala",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Dr. Ramkrishna Kusmaria",
+      "gender": "Male",
+      "constituency_name": "Damoh",
+      "state_name": "Madhya Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Prof. (Smt.) Savithri Lakshmanan",
+      "gender": "Female",
+      "constituency_name": "Mukundapuram",
+      "state_name": "Kerala",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Gumanmal Lodha",
+      "gender": "Male",
+      "constituency_name": "Pali",
+      "state_name": "Rajasthan",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri G. Made Gowda",
+      "gender": "Male",
+      "constituency_name": "Mandya",
+      "state_name": "Karnataka",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Kamla Mishra Madhukar",
+      "gender": "Male",
+      "constituency_name": "Motihari",
+      "state_name": "Bihar",
+      "party_name": "Communist Party of India"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Smt. Sumitra Mahajan",
+      "gender": "Female",
+      "constituency_name": "Indore",
+      "state_name": "Madhya Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Chitta Ranjan Mahata",
+      "gender": "Male",
+      "constituency_name": "Purulia",
+      "state_name": "West Bengal",
+      "party_name": "Forward Bloc (Marxist)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Binode Bihari Mahato",
+      "gender": "Male",
+      "constituency_name": "Giridih",
+      "state_name": "Bihar",
+      "party_name": "Jharkhand Mukti Morcha"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Bir Sing Mahato",
+      "gender": "Male",
+      "constituency_name": "Purulia",
+      "state_name": "West Bengal",
+      "party_name": "All India Forward Bloc"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Raj Kishore Mahato",
+      "gender": "Male",
+      "constituency_name": "Giridih",
+      "state_name": "Bihar",
+      "party_name": "Jharkhand Mukti Morcha"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Shailendra Mahato",
+      "gender": "Male",
+      "constituency_name": "Jamshedpur",
+      "state_name": "Bihar",
+      "party_name": "Jharkhand Mukti Morcha"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Smt.   Mahendra Kumari",
+      "gender": "Female",
+      "constituency_name": "Alwar",
+      "state_name": "Rajasthan",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Dharam Pal Singh Malik",
+      "gender": "Male",
+      "constituency_name": "Sonepat",
+      "state_name": "Haryana",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Purna Chandra Malik",
+      "gender": "Male",
+      "constituency_name": "Durgapur-SC",
+      "state_name": "West Bengal",
+      "party_name": "Communist Party of India (Marxist)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Dr.   Mallikarjun",
+      "gender": "Male",
+      "constituency_name": "Mahbubnagar",
+      "state_name": "Andhra Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri S. Mallikarjunaiah",
+      "gender": "Male",
+      "constituency_name": "Tumkur",
+      "state_name": "Karnataka",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Dr. Ravi Mallu",
+      "gender": "Male",
+      "constituency_name": "Nagarkurnool-SC",
+      "state_name": "Andhra Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Brahmanand Mandal",
+      "gender": "Male",
+      "constituency_name": "Monghyr",
+      "state_name": "Bihar",
+      "party_name": "Communist Party of India"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Sanat Kumar Mandal",
+      "gender": "Male",
+      "constituency_name": "Joynagar-SC",
+      "state_name": "West Bengal",
+      "party_name": "Revolutionary Socialist Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Suraj Mandal",
+      "gender": "Male",
+      "constituency_name": "Godda",
+      "state_name": "Bihar",
+      "party_name": "Jharkhand Mukti Morcha"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Rajaram Alias Balasaheb Shankarrao Mane",
+      "gender": "Male",
+      "constituency_name": "Ichalkaranji",
+      "state_name": "Maharashtra",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri  Manjay Lal",
+      "gender": "Male",
+      "constituency_name": "Samastipur",
+      "state_name": "Bihar",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Krishna Marandi",
+      "gender": "Male",
+      "constituency_name": "Singhbhum-ST",
+      "state_name": "Bihar",
+      "party_name": "Jharkhand Mukti Morcha"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Simon Marandi",
+      "gender": "Male",
+      "constituency_name": "Rajmahal-ST",
+      "state_name": "Bihar",
+      "party_name": "Jharkhand Mukti Morcha"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Peter G. Marbaniang",
+      "gender": "Male",
+      "constituency_name": "Shillong",
+      "state_name": "Meghalaya",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Rasheed Masood",
+      "gender": "Male",
+      "constituency_name": "Saharanpur",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Palai K.M. Mathew",
+      "gender": "Male",
+      "constituency_name": "Idukki",
+      "state_name": "Kerala",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Shiv Charan Mathur",
+      "gender": "Male",
+      "constituency_name": "Bhilwara",
+      "state_name": "Rajasthan",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Ananda Ratna Maurya",
+      "gender": "Male",
+      "constituency_name": "Chandauli",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Bheru Lal Meena",
+      "gender": "Male",
+      "constituency_name": "Salumber-ST",
+      "state_name": "Rajasthan",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Kunji Lal Meena",
+      "gender": "Male",
+      "constituency_name": "Sawai Madhopur-ST",
+      "state_name": "Rajasthan",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Datta Raghobaji Meghe",
+      "gender": "Male",
+      "constituency_name": "Nagpur",
+      "state_name": "Maharashtra",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Bhubneshwar Prasad Mehta",
+      "gender": "Male",
+      "constituency_name": "Hazaribagh",
+      "state_name": "Bihar",
+      "party_name": "Communist Party of India"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Nathu Ram Mirdha",
+      "gender": "Male",
+      "constituency_name": "Nagaur",
+      "state_name": "Rajasthan",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Ram Niwas Mirdha",
+      "gender": "Male",
+      "constituency_name": "Barmer",
+      "state_name": "Rajasthan",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Janardan Prasad Mishra",
+      "gender": "Male",
+      "constituency_name": "Sitapur",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Ram Nagina Mishra",
+      "gender": "Male",
+      "constituency_name": "Padrauna",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Satyagopal Misra",
+      "gender": "Male",
+      "constituency_name": "Tamluk",
+      "state_name": "West Bengal",
+      "party_name": "Communist Party of India (Marxist)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Shyam Bihari Misra",
+      "gender": "Male",
+      "constituency_name": "Bilhaur",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri   Mohan Singh",
+      "gender": "Male",
+      "constituency_name": "Ferozepur",
+      "state_name": "Punjab",
+      "party_name": "Bahujan Samaj Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Hannan Mollah",
+      "gender": "Male",
+      "constituency_name": "Uluberia",
+      "state_name": "West Bengal",
+      "party_name": "Communist Party of India (Marxist)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri C.P. Mudalagiriyappa",
+      "gender": "Male",
+      "constituency_name": "Chitradurga",
+      "state_name": "Karnataka",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Babajan Miran Mujahid",
+      "gender": "Male",
+      "constituency_name": "Dharwad South",
+      "state_name": "Karnataka",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Smt. Geeta Mukherjee",
+      "gender": "Female",
+      "constituency_name": "Panskura",
+      "state_name": "West Bengal",
+      "party_name": "Communist Party of India"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Pramothes Mukherjee",
+      "gender": "Male",
+      "constituency_name": "Berhampore",
+      "state_name": "West Bengal",
+      "party_name": "Revolutionary Socialist Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Subrata Mukherjee",
+      "gender": "Male",
+      "constituency_name": "Raiganj",
+      "state_name": "West Bengal",
+      "party_name": "Communist Party of India (Marxist)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Ajoy Mukhopadhyay",
+      "gender": "Male",
+      "constituency_name": "Krishnagar",
+      "state_name": "West Bengal",
+      "party_name": "Communist Party of India (Marxist)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Ramachandran Mullappally",
+      "gender": "Male",
+      "constituency_name": "Cannanore",
+      "state_name": "Kerala",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Govind Chandra Munda",
+      "gender": "Male",
+      "constituency_name": "Keonjhar-ST",
+      "state_name": "Odisha",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Kariya Munda",
+      "gender": "Male",
+      "constituency_name": "Khunti-ST",
+      "state_name": "Bihar",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri K.H. Muniyappa",
+      "gender": "Male",
+      "constituency_name": "Kolar-SC",
+      "state_name": "Karnataka",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri K. Muraleedharan",
+      "gender": "Male",
+      "constituency_name": "Calicut",
+      "state_name": "Kerala",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Rupchand Murmu",
+      "gender": "Male",
+      "constituency_name": "Jhargram-ST",
+      "state_name": "West Bengal",
+      "party_name": "Communist Party of India (Marxist)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Dr. M.V.V.S Murthi",
+      "gender": "Male",
+      "constituency_name": "Visakhapatnam",
+      "state_name": "Andhra Pradesh",
+      "party_name": "Telugu Desam Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri M.V.Chandrashekhara Murthy",
+      "gender": "Male",
+      "constituency_name": "Kanakapura",
+      "state_name": "Karnataka",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Dr. N. Murugesan",
+      "gender": "Male",
+      "constituency_name": "Karur",
+      "state_name": "Tamil Nadu",
+      "party_name": "All India Anna Dravida Munnetra Kazhagam"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Vilas Baburao Muttemwar",
+      "gender": "Male",
+      "constituency_name": "Chimur",
+      "state_name": "Maharashtra",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri A. Venkatesh Naik",
+      "gender": "Male",
+      "constituency_name": "Raichur",
+      "state_name": "Karnataka",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Devaraya G. Naik",
+      "gender": "Male",
+      "constituency_name": "Kanara",
+      "state_name": "Karnataka",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Ram Naik",
+      "gender": "Male",
+      "constituency_name": "Bombay North",
+      "state_name": "Maharashtra",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri D.K. Naikar",
+      "gender": "Male",
+      "constituency_name": "Dharwad North",
+      "state_name": "Karnataka",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri K.R. Narayanan",
+      "gender": "Male",
+      "constituency_name": "Ottapalam-SC",
+      "state_name": "Kerala",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri P.G. Narayanan",
+      "gender": "Male",
+      "constituency_name": "Gobichettipalayam",
+      "state_name": "Tamil Nadu",
+      "party_name": "All India Anna Dravida Munnetra Kazhagam"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Vidura Vithoba Nawale",
+      "gender": "Male",
+      "constituency_name": "Khed",
+      "state_name": "Maharashtra",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Mrutyunjaya Nayak",
+      "gender": "Male",
+      "constituency_name": "Phulbani-SC",
+      "state_name": "Odisha",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Subash Chandra Nayak",
+      "gender": "Male",
+      "constituency_name": "Kalahandi",
+      "state_name": "Odisha",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Arvind Vishram Singh Netam",
+      "gender": "Male",
+      "constituency_name": "Kanker-ST",
+      "state_name": "Madhya Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Govind Rao Nikam",
+      "gender": "Male",
+      "constituency_name": "Ratnagiri",
+      "state_name": "Maharashtra",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri  Nitish Kumar",
+      "gender": "Male",
+      "constituency_name": "Barh",
+      "state_name": "Bihar",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Siddappa Bhimappa Nyamagouda",
+      "gender": "Male",
+      "constituency_name": "Bagalkot",
+      "state_name": "Karnataka",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Channaiah Odeyar",
+      "gender": "Male",
+      "constituency_name": "Davangere",
+      "state_name": "Karnataka",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Lalit Oraon",
+      "gender": "Male",
+      "constituency_name": "Lohardaga-ST",
+      "state_name": "Bihar",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Sultan Salahuddin Owaisi",
+      "gender": "Male",
+      "constituency_name": "Hyderabad",
+      "state_name": "Andhra Pradesh",
+      "party_name": "All India Majlis-E-Ittehadul Muslimeen"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Dr.(Smt.)   Padma",
+      "gender": "Female",
+      "constituency_name": "Nagapattinam-SC",
+      "state_name": "Tamil Nadu",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Dr. Debiprosad Pal",
+      "gender": "Male",
+      "constituency_name": "Calcutta North West",
+      "state_name": "West Bengal",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Rupchand Pal",
+      "gender": "Male",
+      "constituency_name": "Hooghly",
+      "state_name": "West Bengal",
+      "party_name": "Communist Party of India (Marxist)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Dr. Laxminarayan Pandey",
+      "gender": "Male",
+      "constituency_name": "Mandsaur",
+      "state_name": "Madhya Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri D. Pandian",
+      "gender": "Male",
+      "constituency_name": "Madras North",
+      "state_name": "Tamil Nadu",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Sriballava Panigrahi",
+      "gender": "Male",
+      "constituency_name": "Deogarh",
+      "state_name": "Odisha",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Ajit Kumar Panja",
+      "gender": "Male",
+      "constituency_name": "Calcutta North East",
+      "state_name": "West Bengal",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Harpal Singh Panwar",
+      "gender": "Male",
+      "constituency_name": "Kairana",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri B. Akber Pasha",
+      "gender": "Male",
+      "constituency_name": "Vellore",
+      "state_name": "Tamil Nadu",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Balraj Pasi",
+      "gender": "Male",
+      "constituency_name": "Nainital",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Raj Narain Passi",
+      "gender": "Male",
+      "constituency_name": "Bansgaon-SC",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Chhedi Paswan",
+      "gender": "Male",
+      "constituency_name": "Sasaram-SC",
+      "state_name": "Bihar",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Ram Vilas Paswan",
+      "gender": "Male",
+      "constituency_name": "Rosera-SC",
+      "state_name": "Bihar",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Sukdeo Paswan",
+      "gender": "Male",
+      "constituency_name": "Araria-SC",
+      "state_name": "Bihar",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Dr. A.K. Patel",
+      "gender": "Male",
+      "constituency_name": "Mehsana",
+      "state_name": "Gujarat",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Bheem Singh Patel",
+      "gender": "Male",
+      "constituency_name": "Rewa",
+      "state_name": "Madhya Pradesh",
+      "party_name": "Bahujan Samaj Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Brishin Patel",
+      "gender": "Male",
+      "constituency_name": "Siwan",
+      "state_name": "Bihar",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Harilal Madhavjibhai Patel",
+      "gender": "Male",
+      "constituency_name": "Porbandar",
+      "state_name": "Gujarat",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Harilal Nanji Patel",
+      "gender": "Male",
+      "constituency_name": "Kutch",
+      "state_name": "Gujarat",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Praful Manoharbhai Patel",
+      "gender": "Male",
+      "constituency_name": "Bhandara",
+      "state_name": "Maharashtra",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Ram Pujan Patel",
+      "gender": "Male",
+      "constituency_name": "Phulpur",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Shravan Kumar Patel",
+      "gender": "Male",
+      "constituency_name": "Jabalpur",
+      "state_name": "Madhya Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Somabhai Gandalal Koli Patel",
+      "gender": "Male",
+      "constituency_name": "Surendranagar",
+      "state_name": "Gujarat",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Uttambhai Harjibhai Patel",
+      "gender": "Male",
+      "constituency_name": "Bulsar-ST",
+      "state_name": "Gujarat",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Harin Pathak",
+      "gender": "Male",
+      "constituency_name": "Ahmedabad",
+      "state_name": "Gujarat",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Surendra Pal Pathak",
+      "gender": "Male",
+      "constituency_name": "Shahabad",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Rameshwar Patidar",
+      "gender": "Male",
+      "constituency_name": "Khargone",
+      "state_name": "Madhya Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Prakash V. Patil",
+      "gender": "Male",
+      "constituency_name": "Sangli",
+      "state_name": "Maharashtra",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Smt. Pratibha Devisingh Patil",
+      "gender": "Female",
+      "constituency_name": "Amravati",
+      "state_name": "Maharashtra",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Shivraj V. Patil",
+      "gender": "Male",
+      "constituency_name": "Latur",
+      "state_name": "Maharashtra",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Smt. Suryakanta Patil",
+      "gender": "Female",
+      "constituency_name": "Nanded",
+      "state_name": "Maharashtra",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Uttamrao Deorao Patil",
+      "gender": "Male",
+      "constituency_name": "Yavatmal",
+      "state_name": "Maharashtra",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Vijay Kumar Naval Patil",
+      "gender": "Male",
+      "constituency_name": "Erandol",
+      "state_name": "Maharashtra",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Yashwantrao Gadakh Patil",
+      "gender": "Male",
+      "constituency_name": "Ahmednagar",
+      "state_name": "Maharashtra",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Sivaji Patnaik",
+      "gender": "Male",
+      "constituency_name": "Bhubaneswar",
+      "state_name": "Odisha",
+      "party_name": "Communist Party of India (Marxist)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Dr. Kartikeswar Patra",
+      "gender": "Male",
+      "constituency_name": "Balasore",
+      "state_name": "Odisha",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Sarat Pattanayak",
+      "gender": "Male",
+      "constituency_name": "Bolangir",
+      "state_name": "Odisha",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Ajit Pawar",
+      "gender": "Male",
+      "constituency_name": "Baramati",
+      "state_name": "Maharashtra",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Sharad Chandra Govindrao Pawar",
+      "gender": "Male",
+      "constituency_name": "Baramati",
+      "state_name": "Maharashtra",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Dr. Vasant Nivrutti Pawar",
+      "gender": "Male",
+      "constituency_name": "Nashik",
+      "state_name": "Maharashtra",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Dr. P. Vallal Peruman",
+      "gender": "Male",
+      "constituency_name": "Chidambaram-SC",
+      "state_name": "Tamil Nadu",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Rajesh Pilot",
+      "gender": "Male",
+      "constituency_name": "Dausa",
+      "state_name": "Rajasthan",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Shantaram Potdukhe",
+      "gender": "Male",
+      "constituency_name": "Chandrapur",
+      "state_name": "Maharashtra",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri R. Prabhu",
+      "gender": "Male",
+      "constituency_name": "Nilgiris",
+      "state_name": "Tamil Nadu",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Harish Narayan Prabhu Zantye",
+      "gender": "Male",
+      "constituency_name": "Panaji",
+      "state_name": "Goa",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Khagapati Pradhani",
+      "gender": "Male",
+      "constituency_name": "Nowrangpur-ST",
+      "state_name": "Odisha",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Prof. Radhika Ranjan Pramanik",
+      "gender": "Male",
+      "constituency_name": "Mathurapur-SC",
+      "state_name": "West Bengal",
+      "party_name": "Communist Party of India (Marxist)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Hari Kewal Prasad",
+      "gender": "Male",
+      "constituency_name": "Salempur",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri V. Sreenivasa Prasad",
+      "gender": "Male",
+      "constituency_name": "Chamrajanagar-SC",
+      "state_name": "Karnataka",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri   Pratap Singh",
+      "gender": "Male",
+      "constituency_name": "Banka",
+      "state_name": "Bihar",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Mangal Ram Premi",
+      "gender": "Male",
+      "constituency_name": "Bijnor-SC",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Kabindra Purkayastha",
+      "gender": "Male",
+      "constituency_name": "Silchar",
+      "state_name": "Assam",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Ram Lal Rahi",
+      "gender": "Male",
+      "constituency_name": "Misrikh-SC",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Kalpnath Rai",
+      "gender": "Male",
+      "constituency_name": "Ghosi",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Lal Babu Rai",
+      "gender": "Male",
+      "constituency_name": "Chapra",
+      "state_name": "Bihar",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri M. Ramanna Rai",
+      "gender": "Male",
+      "constituency_name": "Kasaragod",
+      "state_name": "Kerala",
+      "party_name": "Communist Party of India (Marxist)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Nawal Kishore Rai",
+      "gender": "Male",
+      "constituency_name": "Sitamarhi",
+      "state_name": "Bihar",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Ram Nihor Rai",
+      "gender": "Male",
+      "constituency_name": "Robertsganj-SC",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Smt. Vasundhara Raje",
+      "gender": "Female",
+      "constituency_name": "Jhalawar",
+      "state_name": "Rajasthan",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri S.S.R. Rajendra Kumar",
+      "gender": "Male",
+      "constituency_name": "Chengalpattu",
+      "state_name": "Tamil Nadu",
+      "party_name": "All India Anna Dravida Munnetra Kazhagam"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Dr.   Rajesh Kumar",
+      "gender": "Male",
+      "constituency_name": "Gaya-SC",
+      "state_name": "Bihar",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Dr. Vadivelu Rajeshwaran",
+      "gender": "Male",
+      "constituency_name": "Ramanathapuram",
+      "state_name": "Tamil Nadu",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Poosapati Ananda Gajapathi Raju",
+      "gender": "Male",
+      "constituency_name": "Bobbili",
+      "state_name": "Andhra Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Prem Chand Ram",
+      "gender": "Male",
+      "constituency_name": "Nawada-SC",
+      "state_name": "Bihar",
+      "party_name": "Communist Party of India (Marxist)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Ram Deo Ram",
+      "gender": "Male",
+      "constituency_name": "Palamau-SC",
+      "state_name": "Bihar",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri   Ram Awadh",
+      "gender": "Male",
+      "constituency_name": "Akbarpur-SC",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri   Ram Badan",
+      "gender": "Male",
+      "constituency_name": "Lalganj-SC",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri  Ram Sagar",
+      "gender": "Male",
+      "constituency_name": "Barabanki-SC",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri   Ram Singh",
+      "gender": "Male",
+      "constituency_name": "Hardwar-SC",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Dr. Bolla Bulli Ramaiah",
+      "gender": "Male",
+      "constituency_name": "Eluru",
+      "state_name": "Andhra Pradesh",
+      "party_name": "Telugu Desam Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Vazhappady Koothappadayachi Ramamurthy",
+      "gender": "Male",
+      "constituency_name": "Krishnagiri",
+      "state_name": "Tamil Nadu",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri R. Ramasamy",
+      "gender": "Male",
+      "constituency_name": "Periyakulam",
+      "state_name": "Tamil Nadu",
+      "party_name": "All India Anna Dravida Munnetra Kazhagam"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri A. Govindarajalu Subbaraman Rambabu",
+      "gender": "Male",
+      "constituency_name": "Madurai",
+      "state_name": "Tamil Nadu",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri  Ramchandra Veerappa",
+      "gender": "Male",
+      "constituency_name": "Bidar-SC",
+      "state_name": "Karnataka",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Kashi Ram Rana",
+      "gender": "Male",
+      "constituency_name": "Surat",
+      "state_name": "Gujarat",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Palacholla Venkata Rangayya Naidu",
+      "gender": "Male",
+      "constituency_name": "Khammam",
+      "state_name": "Andhra Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Rajesh Ranjan  (Pappu  Yadav)",
+      "gender": "Male",
+      "constituency_name": "Purnea",
+      "state_name": "Bihar",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Juvvadi Chokka Rao",
+      "gender": "Male",
+      "constituency_name": "Karimnagar",
+      "state_name": "Andhra Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri P.V. Narasimha Rao",
+      "gender": "Male",
+      "constituency_name": "Nandyal",
+      "state_name": "Andhra Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Col.(Retd.) Ram Singh Rao",
+      "gender": "Male",
+      "constituency_name": "Mahendragarh",
+      "state_name": "Haryana",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri V. Krishna Rao",
+      "gender": "Male",
+      "constituency_name": "Chikballapur",
+      "state_name": "Karnataka",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri  Venkateswara Daggubati Rao",
+      "gender": "Male",
+      "constituency_name": "Bapatla",
+      "state_name": "Andhra Pradesh",
+      "party_name": "Telugu Desam Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Ramchandra Rath",
+      "gender": "Male",
+      "constituency_name": "Aska",
+      "state_name": "Odisha",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Naranbhai J. Rathwa",
+      "gender": "Male",
+      "constituency_name": "Chhota Udaipur-ST",
+      "state_name": "Gujarat",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Dr. Lal Bahadur Rawal",
+      "gender": "Male",
+      "constituency_name": "Hathras-SC",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Mohan Rawale",
+      "gender": "Male",
+      "constituency_name": "Bombay South Central",
+      "state_name": "Maharashtra",
+      "party_name": "Shiv Sena"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Bhagwan Shankar Rawat",
+      "gender": "Male",
+      "constituency_name": "Agra",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Prabhu Lal Rawat",
+      "gender": "Male",
+      "constituency_name": "Banswara-ST",
+      "state_name": "Rajasthan",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Prof. Rasa Singh Rawat",
+      "gender": "Male",
+      "constituency_name": "Ajmer",
+      "state_name": "Rajasthan",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Rabi Ray",
+      "gender": "Male",
+      "constituency_name": "Kendrapara",
+      "state_name": "Odisha",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Dr. Sudhir Ray",
+      "gender": "Male",
+      "constituency_name": "Burdwan",
+      "state_name": "West Bengal",
+      "party_name": "Communist Party of India (Marxist)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Prof. Sudarsan Raychaudhuri",
+      "gender": "Male",
+      "constituency_name": "Serampore",
+      "state_name": "West Bengal",
+      "party_name": "Communist Party of India (Marxist)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri K.P. Reddaiah Yadav",
+      "gender": "Male",
+      "constituency_name": "Machilipatnam",
+      "state_name": "Andhra Pradesh",
+      "party_name": "T.D.(V)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Allola Indrakaran Reddy",
+      "gender": "Male",
+      "constituency_name": "Adilabad",
+      "state_name": "Andhra Pradesh",
+      "party_name": "T.D.(V)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Anantha Venkata Reddy",
+      "gender": "Male",
+      "constituency_name": "Anantapur",
+      "state_name": "Andhra Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Bhim Narsinha Reddy",
+      "gender": "Male",
+      "constituency_name": "Miryalguda",
+      "state_name": "Andhra Pradesh",
+      "party_name": "Communist Party of India (Marxist)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Gaddam Ganga Reddy",
+      "gender": "Male",
+      "constituency_name": "Nizamabad",
+      "state_name": "Andhra Pradesh",
+      "party_name": "T.D.(V)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Gangula Prathap Reddy",
+      "gender": "Male",
+      "constituency_name": "Nandyal",
+      "state_name": "Andhra Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Kasu Venkata Krishna Reddy",
+      "gender": "Male",
+      "constituency_name": "Narasaraopet",
+      "state_name": "Andhra Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Kotla Jaya Surya Prakash Reddy",
+      "gender": "Male",
+      "constituency_name": "Kurnool",
+      "state_name": "Andhra Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Kotla Vijaya Bhaskara Reddy",
+      "gender": "Male",
+      "constituency_name": "Kurnool",
+      "state_name": "Andhra Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri M. Baga Reddy",
+      "gender": "Male",
+      "constituency_name": "Medak",
+      "state_name": "Andhra Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri M. Gnanendra Reddy",
+      "gender": "Male",
+      "constituency_name": "Chittoor",
+      "state_name": "Andhra Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Magunta Subbarama Reddy",
+      "gender": "Male",
+      "constituency_name": "Ongole",
+      "state_name": "Andhra Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Surendra Reddy",
+      "gender": "Male",
+      "constituency_name": "Warangal",
+      "state_name": "Andhra Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Dr. Y.S. Raja Sekara Reddy",
+      "gender": "Male",
+      "constituency_name": "Cuddapah",
+      "state_name": "Andhra Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Dr. Jayanta Rongpi",
+      "gender": "Male",
+      "constituency_name": "Autonomous District-ST",
+      "state_name": "Assam",
+      "party_name": "Communist Party of India (Marxist-Lennist Liberation)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri   Roshan Lal",
+      "gender": "Male",
+      "constituency_name": "Khurja-SC",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Haradhan Roy",
+      "gender": "Male",
+      "constituency_name": "Asansol",
+      "state_name": "West Bengal",
+      "party_name": "Communist Party of India (Marxist)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Amar Roy Pradhan",
+      "gender": "Male",
+      "constituency_name": "Cooch Behar-SC",
+      "state_name": "West Bengal",
+      "party_name": "Forward Bloc (Marxist)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Dharmanna Mondayya Sadul",
+      "gender": "Male",
+      "constituency_name": "Solapur",
+      "state_name": "Maharashtra",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Smt. Krishna Sahi",
+      "gender": "Female",
+      "constituency_name": "Begusarai",
+      "state_name": "Bihar",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Muhi Ram Saikia",
+      "gender": "Male",
+      "constituency_name": "Nowgong",
+      "state_name": "Assam",
+      "party_name": "Asom Gana Parishad"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Ebrahim Sulaiman Sait",
+      "gender": "Male",
+      "constituency_name": "Ponnani",
+      "state_name": "Kerala",
+      "party_name": "Muslim League"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri  Sajjan Kumar",
+      "gender": "Male",
+      "constituency_name": "Outer Delhi-SC",
+      "state_name": "Delhi",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Dr. Swami Sachidanand Hari Sakshi",
+      "gender": "Male",
+      "constituency_name": "Mathura",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Mohammad Yunus Saleem",
+      "gender": "Male",
+      "constituency_name": "Katihar",
+      "state_name": "Bihar",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Dileep Sanghani",
+      "gender": "Male",
+      "constituency_name": "Amreli",
+      "state_name": "Gujarat",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Purno Agitok Sangma",
+      "gender": "Male",
+      "constituency_name": "Tura",
+      "state_name": "Meghalaya",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Dr. Gunawant Sarode",
+      "gender": "Male",
+      "constituency_name": "Jalgaon",
+      "state_name": "Maharashtra",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Vijayarama Raju Satrucharla",
+      "gender": "Male",
+      "constituency_name": "Parvathipuram-ST",
+      "state_name": "Andhra Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Moreshwar Save",
+      "gender": "Male",
+      "constituency_name": "Aurangabad",
+      "state_name": "Maharashtra",
+      "party_name": "Shiv Sena"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Sudhir Sawant",
+      "gender": "Male",
+      "constituency_name": "Rajapur",
+      "state_name": "Maharashtra",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri P.M. Sayeed",
+      "gender": "Male",
+      "constituency_name": "Lakshadweep-ST",
+      "state_name": "Lakshadweep",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Madhavrao Scindia",
+      "gender": "Male",
+      "constituency_name": "Gwalior",
+      "state_name": "Madhya Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Smt. Vijaya Raje Scindia",
+      "gender": "Female",
+      "constituency_name": "Guna",
+      "state_name": "Madhya Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Kumari  Selja",
+      "gender": "Female",
+      "constituency_name": "Sirsa-SC",
+      "state_name": "Haryana",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Arjun Charan Sethi",
+      "gender": "Male",
+      "constituency_name": "Bhadrak-SC",
+      "state_name": "Odisha",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Lt. Col.(Retd) Maharaja Manabendra Shah",
+      "gender": "Male",
+      "constituency_name": "Tehri Garhwal",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Syed Shahabuddin",
+      "gender": "Male",
+      "constituency_name": "Kishanganj",
+      "state_name": "Bihar",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Mahadeepak Singh Shakya",
+      "gender": "Male",
+      "constituency_name": "Etah",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri B. Shankaranand",
+      "gender": "Male",
+      "constituency_name": "Chikkodi-SC",
+      "state_name": "Karnataka",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Baikunth Lal Sharma",
+      "gender": "Male",
+      "constituency_name": "East Delhi",
+      "state_name": "Delhi",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Chiranji Lal Sharma",
+      "gender": "Male",
+      "constituency_name": "Karnal",
+      "state_name": "Haryana",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Jeewan Sharma",
+      "gender": "Male",
+      "constituency_name": "Almora",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Rajendra Kumar Sharma",
+      "gender": "Male",
+      "constituency_name": "Rampur",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Capt. Satish Sharma",
+      "gender": "Male",
+      "constituency_name": "Amethi",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Pandit Vishwa Nath Sharma Dr.",
+      "gender": "Male",
+      "constituency_name": "Hamirpur",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri   Shashi Prakash",
+      "gender": "Male",
+      "constituency_name": "Chail-SC",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Vishwanath Shastri",
+      "gender": "Male",
+      "constituency_name": "Ghazipur",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Communist Party of India"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Vishwanath Das Shastri",
+      "gender": "Male",
+      "constituency_name": "Sultanpur",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Maruti Shelke",
+      "gender": "Male",
+      "constituency_name": "Ahmednagar",
+      "state_name": "Maharashtra",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Damodar Barku Shingada",
+      "gender": "Male",
+      "constituency_name": "Dahanu-ST",
+      "state_name": "Maharashtra",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri K.G. Shivappa",
+      "gender": "Male",
+      "constituency_name": "Shimoga",
+      "state_name": "Karnataka",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Ashta Bhuja Prasad Shukla",
+      "gender": "Male",
+      "constituency_name": "Khalilabad",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Vidya Charan Shukla",
+      "gender": "Male",
+      "constituency_name": "Raipur",
+      "state_name": "Madhya Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Smt. D.K. Thara Devi Siddhartha",
+      "gender": "Female",
+      "constituency_name": "Chikmagalur",
+      "state_name": "Karnataka",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Shanmukhappa Basappa Sidnal",
+      "gender": "Male",
+      "constituency_name": "Belgaum",
+      "state_name": "Karnataka",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Dr. C. Silvera",
+      "gender": "Male",
+      "constituency_name": "Mizoram-ST",
+      "state_name": "Mizoram",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Abhay Pratap Singh",
+      "gender": "Male",
+      "constituency_name": "Pratapgarh",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Ajit Singh",
+      "gender": "Male",
+      "constituency_name": "Baghpat",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Amar Pal Singh",
+      "gender": "Male",
+      "constituency_name": "Meerut",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Brijbhushan Sharan Singh",
+      "gender": "Male",
+      "constituency_name": "Gonda",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Chhatrapal Singh",
+      "gender": "Male",
+      "constituency_name": "Bulandshahar",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Devi Bux Singh",
+      "gender": "Male",
+      "constituency_name": "Unnao",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Hari Kishore Singh",
+      "gender": "Male",
+      "constituency_name": "Sheohar",
+      "state_name": "Bihar",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Jaswant Singh",
+      "gender": "Male",
+      "constituency_name": "Chittorgarh",
+      "state_name": "Rajasthan",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Lakshman Singh",
+      "gender": "Male",
+      "constituency_name": "Raigarh-ST",
+      "state_name": "Madhya Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Thakur Mahendra Kumar Singh",
+      "gender": "Male",
+      "constituency_name": "Khandwa",
+      "state_name": "Madhya Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Mohan Singh",
+      "gender": "Male",
+      "constituency_name": "Deoria",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Motilal Singh",
+      "gender": "Male",
+      "constituency_name": "Sidhi-ST",
+      "state_name": "Madhya Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Kumari Pushpa Devi Singh",
+      "gender": "Female",
+      "constituency_name": "Raigarh-ST",
+      "state_name": "Madhya Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Rajveer Singh",
+      "gender": "Male",
+      "constituency_name": "Aonla",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Ram Naresh Singh",
+      "gender": "Male",
+      "constituency_name": "Aurangabad",
+      "state_name": "Bihar",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Ram Prasad Singh",
+      "gender": "Male",
+      "constituency_name": "Bikramganj",
+      "state_name": "Bihar",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Ramashray Prasad Singh",
+      "gender": "Male",
+      "constituency_name": "Jahanabad",
+      "state_name": "Bihar",
+      "party_name": "Communist Party of India"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Rampal Singh",
+      "gender": "Male",
+      "constituency_name": "Domariaganj",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Satya Deo Singh",
+      "gender": "Male",
+      "constituency_name": "Balrampur",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Shiva Sharan Singh",
+      "gender": "Male",
+      "constituency_name": "Vaishali",
+      "state_name": "Bihar",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Shivendra Bahadur Singh",
+      "gender": "Male",
+      "constituency_name": "Rajnandgaon",
+      "state_name": "Madhya Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Surya Narayan Singh",
+      "gender": "Male",
+      "constituency_name": "Balia",
+      "state_name": "Bihar",
+      "party_name": "Communist Party of India"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Tej Narayan Singh",
+      "gender": "Male",
+      "constituency_name": "Buxar",
+      "state_name": "Bihar",
+      "party_name": "Communist Party of India"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Uday Pratap Singh",
+      "gender": "Male",
+      "constituency_name": "Mainpuri",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Umrao Singh",
+      "gender": "Male",
+      "constituency_name": "Jalandhar",
+      "state_name": "Punjab",
+      "party_name": "Congress"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Virendra Singh",
+      "gender": "Male",
+      "constituency_name": "Mirzapur",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Vishwanath Pratap Singh",
+      "gender": "Male",
+      "constituency_name": "Fatehpur",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Yumnam Yaima Singh",
+      "gender": "Male",
+      "constituency_name": "Inner Manipur",
+      "state_name": "Manipur",
+      "party_name": "Manipur People's Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "AVSM, Brig.(Retd.) Kamakhya Prasad Singh Deo",
+      "gender": "Male",
+      "constituency_name": "Dhenkanal",
+      "state_name": "Odisha",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Sant Ram Singla",
+      "gender": "Male",
+      "constituency_name": "Patiala",
+      "state_name": "Punjab",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri S. Sivararaman",
+      "gender": "Male",
+      "constituency_name": "Ottapalam-SC",
+      "state_name": "Kerala",
+      "party_name": "Communist Party of India (Marxist)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Manku Ram Sodi",
+      "gender": "Male",
+      "constituency_name": "Bastar-ST",
+      "state_name": "Madhya Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Suraj Bhanu Solanki",
+      "gender": "Male",
+      "constituency_name": "Dhar-ST",
+      "state_name": "Madhya Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Rajnath Sonkar Shastri",
+      "gender": "Male",
+      "constituency_name": "Saidpur-SC",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Shibu Soren",
+      "gender": "Male",
+      "constituency_name": "Dumka-ST",
+      "state_name": "Bihar",
+      "party_name": "Jharkhand Mukti Morcha"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Dr.(Smt.) K.S. Soundaram",
+      "gender": "Female",
+      "constituency_name": "Tiruchengode",
+      "state_name": "Tamil Nadu",
+      "party_name": "All India Anna Dravida Munnetra Kazhagam"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri C. Sreenivaasan",
+      "gender": "Male",
+      "constituency_name": "Dindigul",
+      "state_name": "Tamil Nadu",
+      "party_name": "All India Anna Dravida Munnetra Kazhagam"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Dr. R. Sridharan",
+      "gender": "Male",
+      "constituency_name": "Madras South",
+      "state_name": "Tamil Nadu",
+      "party_name": "All India Anna Dravida Munnetra Kazhagam"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Thota Subbarao",
+      "gender": "Male",
+      "constituency_name": "Kakinada",
+      "state_name": "Andhra Pradesh",
+      "party_name": "T.D.(V)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri   Sukh Ram",
+      "gender": "Male",
+      "constituency_name": "Mandi",
+      "state_name": "Himachal Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Smt.   Sukhbuns Kaur",
+      "gender": "Female",
+      "constituency_name": "Gurdaspur",
+      "state_name": "Punjab",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Krishan Datt Sultanpuri",
+      "gender": "Male",
+      "constituency_name": "Shimla-SC",
+      "state_name": "Himachal Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri N. Sundararaj",
+      "gender": "Male",
+      "constituency_name": "Pudukkottai",
+      "state_name": "Tamil Nadu",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Manoranjan Sur",
+      "gender": "Male",
+      "constituency_name": "Basirhat",
+      "state_name": "West Bengal",
+      "party_name": "Communist Party of India"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Swami   Sureshanand",
+      "gender": "Male",
+      "constituency_name": "Jalesar",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Devji Bhai J. Tandel",
+      "gender": "Male",
+      "constituency_name": "Daman and Diu",
+      "state_name": "Daman and Diu",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri   Tara Singh",
+      "gender": "Male",
+      "constituency_name": "Kurukshetra",
+      "state_name": "Haryana",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Gabhaji Mangaji Thakore",
+      "gender": "Male",
+      "constituency_name": "Kapadvanj",
+      "state_name": "Gujarat",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri K.V. Thangka Balu",
+      "gender": "Male",
+      "constituency_name": "Dharmapuri",
+      "state_name": "Tamil Nadu",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri K. Ramamurthee Thindivanam",
+      "gender": "Male",
+      "constituency_name": "Thindivanam",
+      "state_name": "Tamil Nadu",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Bapusaheb Thite",
+      "gender": "Male",
+      "constituency_name": "Baramati",
+      "state_name": "Maharashtra",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Prof. Kuruppassery Varkey Thomas",
+      "gender": "Male",
+      "constituency_name": "Ernakulam",
+      "state_name": "Kerala",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri P.C. Thomas",
+      "gender": "Male",
+      "constituency_name": "Muvattupuzha",
+      "state_name": "Kerala",
+      "party_name": "Kerala Congress"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Sandipan Bhagwan Thorat",
+      "gender": "Male",
+      "constituency_name": "Pandharpur-SC",
+      "state_name": "Maharashtra",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Prem Khandu Thungon",
+      "gender": "Male",
+      "constituency_name": "Arunachal West",
+      "state_name": "Arunachal Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Kumari Sushila Tiriya",
+      "gender": "Female",
+      "constituency_name": "Mayurbhanj-ST",
+      "state_name": "Odisha",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Piyus Tirkey",
+      "gender": "Male",
+      "constituency_name": "Alipurduar-ST",
+      "state_name": "West Bengal",
+      "party_name": "Revolutionary Socialist Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Dr. Ramesh Chand Tomar",
+      "gender": "Male",
+      "constituency_name": "Hapur",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Tarit Baran Topdar",
+      "gender": "Male",
+      "constituency_name": "Barrackpore",
+      "state_name": "West Bengal",
+      "party_name": "Communist Party of India (Marxist)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Ankushrao Tope",
+      "gender": "Male",
+      "constituency_name": "Jalna",
+      "state_name": "Maharashtra",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Smt. Dipika Topiwala",
+      "gender": "Female",
+      "constituency_name": "Baroda",
+      "state_name": "Gujarat",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Kumari Frida Topno",
+      "gender": "Female",
+      "constituency_name": "Sundergarh-ST",
+      "state_name": "Odisha",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Laxminarain Mani Tripathi",
+      "gender": "Male",
+      "constituency_name": "Kaiserganj",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Prakash Narain Tripathi",
+      "gender": "Male",
+      "constituency_name": "Banda",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Braja Kishore Tripathy",
+      "gender": "Male",
+      "constituency_name": "Puri",
+      "state_name": "Odisha",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Arvind Trivedi",
+      "gender": "Male",
+      "constituency_name": "Sabarkantha",
+      "state_name": "Gujarat",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Jagdish Tytler",
+      "gender": "Male",
+      "constituency_name": "Delhi Sadar",
+      "state_name": "Delhi",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Sadhvi  Uma Shree Bharati",
+      "gender": "Female",
+      "constituency_name": "Khajuraho",
+      "state_name": "Madhya Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Laeta Umbrey",
+      "gender": "Male",
+      "constituency_name": "Arunachal East",
+      "state_name": "Arunachal Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri K.P. Unnikrishnan",
+      "gender": "Male",
+      "constituency_name": "Badagara",
+      "state_name": "Kerala",
+      "party_name": "Congress (S)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Swarup Upadhyay",
+      "gender": "Male",
+      "constituency_name": "Tezpur",
+      "state_name": "Assam",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Smt. Chandraprabha Urs",
+      "gender": "Female",
+      "constituency_name": "Mysore",
+      "state_name": "Karnataka",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Sobhanadreeswara Rao Vadde",
+      "gender": "Male",
+      "constituency_name": "Vijayawada",
+      "state_name": "Andhra Pradesh",
+      "party_name": "Telugu Desam Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Shankersinh Vaghela",
+      "gender": "Male",
+      "constituency_name": "Godhra",
+      "state_name": "Gujarat",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Atal Bihari Vajpayee",
+      "gender": "Male",
+      "constituency_name": "Lucknow",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Krishnasami Thulasiah Vandayar",
+      "gender": "Male",
+      "constituency_name": "Thanjavur",
+      "state_name": "Tamil Nadu",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri B. Raja Ravi Varma",
+      "gender": "Male",
+      "constituency_name": "Pollachi-SC",
+      "state_name": "Tamil Nadu",
+      "party_name": "All India Anna Dravida Munnetra Kazhagam"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Ratilal Kalidas Varma",
+      "gender": "Male",
+      "constituency_name": "Dhandhuka-SC",
+      "state_name": "Gujarat",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Dr. Sushil Chandra Varma",
+      "gender": "Male",
+      "constituency_name": "Bhopal",
+      "state_name": "Madhya Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Shivlal Vekaria",
+      "gender": "Male",
+      "constituency_name": "Rajkot",
+      "state_name": "Gujarat",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Prof. Ummareddy Venkateswarlu",
+      "gender": "Male",
+      "constituency_name": "Tenali",
+      "state_name": "Andhra Pradesh",
+      "party_name": "Telugu Desam Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri G. Venkatswamy",
+      "gender": "Male",
+      "constituency_name": "Peddapalli-SC",
+      "state_name": "Andhra Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Bhawani Lal Verma",
+      "gender": "Male",
+      "constituency_name": "Janjgir",
+      "state_name": "Madhya Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Phool Chand Verma",
+      "gender": "Male",
+      "constituency_name": "Shajapur-SC",
+      "state_name": "Madhya Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Prof.(Smt.) Rita Verma",
+      "gender": "Female",
+      "constituency_name": "Dhanbad",
+      "state_name": "Bihar",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Sheo Sharan Verma",
+      "gender": "Male",
+      "constituency_name": "Machhlishahr",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Upendra Nath Verma",
+      "gender": "Male",
+      "constituency_name": "Chatra",
+      "state_name": "Bihar",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Kumari Vimla Verma",
+      "gender": "Female",
+      "constituency_name": "Seoni",
+      "state_name": "Madhya Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri V.S. Vijayaraghavan",
+      "gender": "Male",
+      "constituency_name": "Palakkad",
+      "state_name": "Kerala",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Dr.(Kum.) Girija Vyas",
+      "gender": "Female",
+      "constituency_name": "Udaipur",
+      "state_name": "Rajasthan",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Mukul Balkrishna Wasnik",
+      "gender": "Male",
+      "constituency_name": "Buldhana-SC",
+      "state_name": "Maharashtra",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Maj. Gen. Robert G. Williams",
+      "gender": "Male",
+      "constituency_name": "Nominated Anglo-Indian",
+      "state_name": "NA",
+      "party_name": "Nominated"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Arjun Singh Yadav",
+      "gender": "Male",
+      "constituency_name": "Jaunpur",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Chandrajit Yadav",
+      "gender": "Male",
+      "constituency_name": "Azamgarh",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Chhotey Singh Yadav",
+      "gender": "Male",
+      "constituency_name": "Kannauj",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Chunchun Prasad Yadav",
+      "gender": "Male",
+      "constituency_name": "Bhagalpur",
+      "state_name": "Bihar",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Devendra Prasad Yadav",
+      "gender": "Male",
+      "constituency_name": "Jhanjharpur",
+      "state_name": "Bihar",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Ram Kripal Yadav",
+      "gender": "Male",
+      "constituency_name": "Patna",
+      "state_name": "Bihar",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Ram Lakhan Singh Yadav",
+      "gender": "Male",
+      "constituency_name": "Arrah",
+      "state_name": "Bihar",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Ram Sharan Yadav",
+      "gender": "Male",
+      "constituency_name": "Khagaria",
+      "state_name": "Bihar",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Satyapal Singh Yadav",
+      "gender": "Male",
+      "constituency_name": "Shahjahanpur",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Sharad Yadav",
+      "gender": "Male",
+      "constituency_name": "Madhepura",
+      "state_name": "Bihar",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Prof.(Dr.) Sripal Singh Yadav",
+      "gender": "Male",
+      "constituency_name": "Sambhal",
+      "state_name": "Uttar Pradesh",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Surya Narayan Yadav",
+      "gender": "Male",
+      "constituency_name": "Saharsa",
+      "state_name": "Bihar",
+      "party_name": "Janata Dal"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Vijoy Kumar Yadav",
+      "gender": "Male",
+      "constituency_name": "Nalanda",
+      "state_name": "Bihar",
+      "party_name": "Communist Party of India"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri   Yash",
+      "gender": "Male",
+      "constituency_name": "Jalandhar",
+      "state_name": "Punjab",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Nandi Yellaiah",
+      "gender": "Male",
+      "constituency_name": "Siddipet-SC",
+      "state_name": "Andhra Pradesh",
+      "party_name": "Congress (I)"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Narayan Singh Yoganand Saraswaty",
+      "gender": "Male",
+      "constituency_name": "Bhind",
+      "state_name": "Madhya Pradesh",
+      "party_name": "Bharatiya Janata Party"
+    },
+    {
+      "lok_sabha_": "Tenth Lok Sabha",
+      "member_name": "Shri Abedin Zainal",
+      "gender": "Male",
+      "constituency_name": "Jangipur",
+      "state_name": "West Bengal",
+      "party_name": "Communist Party of India (Marxist)"
+    }
+  ]
+}

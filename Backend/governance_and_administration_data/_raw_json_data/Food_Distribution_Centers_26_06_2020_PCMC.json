@@ -1,0 +1,822 @@
+{
+  "index_name": "7c13ead5-f087-4b32-9f2f-4a587e467d58",
+  "title": "Food Distribution Centers 26/06/2020 PCMC",
+  "desc": "Food Distribution Centers 26/06/2020 PCMC",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Housing and Urban Affairs",
+    "Smart Cities Mission",
+    "Maharashtra",
+    "Pimpri Chinchwad"
+  ],
+  "sector": [
+    "Governance and Administration",
+    "Local Government"
+  ],
+  "source": "smartcities.data.gov.in",
+  "catalog_uuid": "a7384598-d207-4745-9b7b-8b4086366ed1",
+  "visualizable": "0",
+  "active": "1",
+  "created": 1757861609,
+  "updated": 1757861609,
+  "created_date": "2025-09-14T16:53:29Z",
+  "updated_date": "2025-09-14T16:53:29Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "a7384598-d207-4745-9b7b-8b4086366ed1",
+    "field": "7c13ead5-f087-4b32-9f2f-4a587e467d58"
+  },
+  "field": [
+    {
+      "id": "_sr_no",
+      "name": "Sr No",
+      "type": "double"
+    },
+    {
+      "id": "ward",
+      "name": "Ward",
+      "type": "double"
+    },
+    {
+      "id": "vidhan_sabha_",
+      "name": "Vidhan_Sabha ",
+      "type": "keyword"
+    },
+    {
+      "id": "lat_",
+      "name": "Lat",
+      "type": "double"
+    },
+    {
+      "id": "_long",
+      "name": "Long",
+      "type": "double"
+    },
+    {
+      "id": "contact_name",
+      "name": "Contact_Name",
+      "type": "keyword"
+    },
+    {
+      "id": "__contact_no",
+      "name": "Contact_No",
+      "type": "keyword"
+    },
+    {
+      "id": "_area_address",
+      "name": " Area_Address",
+      "type": "keyword"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 74,
+  "count": 74,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "_sr_no": 1,
+      "ward": 1,
+      "vidhan_sabha_": "Bhosari",
+      "lat_": 18.682182,
+      "_long": 73.818771,
+      "contact_name": "Sambhaji Yadhav",
+      "__contact_no": "9822123737",
+      "_area_address": "Chikhali"
+    },
+    {
+      "_sr_no": 2,
+      "ward": 1,
+      "vidhan_sabha_": "Bhosari",
+      "lat_": 18.682182,
+      "_long": 73.818771,
+      "contact_name": "Prasad Landge",
+      "__contact_no": "9273353535",
+      "_area_address": "Chikhali"
+    },
+    {
+      "_sr_no": 3,
+      "ward": 1,
+      "vidhan_sabha_": "Bhosari",
+      "lat_": 18.672274,
+      "_long": 73.815575,
+      "contact_name": "Dattatray Yadav",
+      "__contact_no": "9850552323",
+      "_area_address": "Chikali Rd, Balghare Vasti, Chikhali, Pimpri-Chinchwad, Maharashtra 412114"
+    },
+    {
+      "_sr_no": 4,
+      "ward": 3,
+      "vidhan_sabha_": "Bhosari",
+      "lat_": 18.679093,
+      "_long": 73.848994,
+      "contact_name": "Nitin Mahajan",
+      "__contact_no": "8668985995",
+      "_area_address": "Moshi"
+    },
+    {
+      "_sr_no": 5,
+      "ward": 3,
+      "vidhan_sabha_": "Bhosari",
+      "lat_": 18.678524,
+      "_long": 73.849522,
+      "contact_name": "Aniket Saste",
+      "__contact_no": "8234017777",
+      "_area_address": "Moshi Gaon, Moshi, Pune, Maharashtra 412105"
+    },
+    {
+      "_sr_no": 6,
+      "ward": 12,
+      "vidhan_sabha_": "Bhosari",
+      "lat_": 18.671547,
+      "_long": 73.784055,
+      "contact_name": "Pratik Keladkar",
+      "__contact_no": "9767701418",
+      "_area_address": "Rupinagar"
+    },
+    {
+      "_sr_no": 7,
+      "ward": 12,
+      "vidhan_sabha_": "Bhosari",
+      "lat_": 18.671547,
+      "_long": 73.784055,
+      "contact_name": "Pratik Malusare",
+      "__contact_no": "9172115863",
+      "_area_address": "Rupinagar"
+    },
+    {
+      "_sr_no": 8,
+      "ward": 7,
+      "vidhan_sabha_": "Bhosari",
+      "lat_": 18.631682,
+      "_long": 73.846542,
+      "contact_name": "Ganesh Gawali",
+      "__contact_no": "9623511414",
+      "_area_address": "Bhosari"
+    },
+    {
+      "_sr_no": 9,
+      "ward": 7,
+      "vidhan_sabha_": "Bhosari",
+      "lat_": 18.631682,
+      "_long": 73.846542,
+      "contact_name": "Nilesh chaskar",
+      "__contact_no": "9657564564",
+      "_area_address": "Bhosari"
+    },
+    {
+      "_sr_no": 10,
+      "ward": 7,
+      "vidhan_sabha_": "Bhosari",
+      "lat_": 18.631682,
+      "_long": 73.846542,
+      "contact_name": "santosh kabadi",
+      "__contact_no": "7020821372",
+      "_area_address": "Bhosari"
+    },
+    {
+      "_sr_no": 11,
+      "ward": 12,
+      "vidhan_sabha_": "Bhosari",
+      "lat_": 18.686862,
+      "_long": 73.789136,
+      "contact_name": "Kunal Patil",
+      "__contact_no": "8888125812",
+      "_area_address": "Talawde"
+    },
+    {
+      "_sr_no": 12,
+      "ward": 12,
+      "vidhan_sabha_": "Bhosari",
+      "lat_": 18.686862,
+      "_long": 73.789136,
+      "contact_name": "Prasad Bhalekar",
+      "__contact_no": "9527292941",
+      "_area_address": "Talawde"
+    },
+    {
+      "_sr_no": 13,
+      "ward": 12,
+      "vidhan_sabha_": "Bhosari",
+      "lat_": 18.686862,
+      "_long": 73.789136,
+      "contact_name": "Nikhil Bhalekar",
+      "__contact_no": "7776021819",
+      "_area_address": "Talawde"
+    },
+    {
+      "_sr_no": 14,
+      "ward": 2,
+      "vidhan_sabha_": "Bhosari",
+      "lat_": 18.669688,
+      "_long": 73.807331,
+      "contact_name": "Digambar More",
+      "__contact_no": "7888112048",
+      "_area_address": "Om Sai Society, Gharkul, Chikhali"
+    },
+    {
+      "_sr_no": 15,
+      "ward": 2,
+      "vidhan_sabha_": "Bhosari",
+      "lat_": 18.667243,
+      "_long": 73.805567,
+      "contact_name": "Pannalal Jadhav",
+      "__contact_no": "7385140123",
+      "_area_address": "Gharkul chikhali"
+    },
+    {
+      "_sr_no": 16,
+      "ward": 2,
+      "vidhan_sabha_": "Bhosari",
+      "lat_": 18.669927,
+      "_long": 73.806805,
+      "contact_name": "Mahendra Bhau Borkar",
+      "__contact_no": "9762530614",
+      "_area_address": "B-16, Trimutri Society, Gharkul"
+    },
+    {
+      "_sr_no": 17,
+      "ward": 3,
+      "vidhan_sabha_": "Bhosari",
+      "lat_": 18.653389,
+      "_long": 73.907771,
+      "contact_name": "Rushikesh Hiwarkhede",
+      "__contact_no": "9762708286",
+      "_area_address": "Charholi"
+    },
+    {
+      "_sr_no": 18,
+      "ward": 3,
+      "vidhan_sabha_": "Bhosari",
+      "lat_": 18.653389,
+      "_long": 73.907771,
+      "contact_name": "Pramod Jagdale",
+      "__contact_no": "9552662900",
+      "_area_address": "Charholi"
+    },
+    {
+      "_sr_no": 19,
+      "ward": 15,
+      "vidhan_sabha_": "Bhosari",
+      "lat_": 18.658681,
+      "_long": 73.778257,
+      "contact_name": "Prashant More",
+      "__contact_no": "9922971249",
+      "_area_address": "Akurdi (Pradhikaran)"
+    },
+    {
+      "_sr_no": 20,
+      "ward": 15,
+      "vidhan_sabha_": "Bhosari",
+      "lat_": 18.658681,
+      "_long": 73.778257,
+      "contact_name": "Shri Seetapati",
+      "__contact_no": "8830038544",
+      "_area_address": "Akurdi (Pradhikaran)"
+    },
+    {
+      "_sr_no": 21,
+      "ward": 15,
+      "vidhan_sabha_": "Bhosari",
+      "lat_": 18.658681,
+      "_long": 73.778257,
+      "contact_name": "Pravin Kolhe",
+      "__contact_no": "9822662924",
+      "_area_address": "Akurdi (Pradhikaran)"
+    },
+    {
+      "_sr_no": 22,
+      "ward": 15,
+      "vidhan_sabha_": "Bhosari",
+      "lat_": 18.645053,
+      "_long": 73.777038,
+      "contact_name": "Deepesh",
+      "__contact_no": "7896646921",
+      "_area_address": "Swatantryaveer Savarkar Rd, Sector No. 28, Pradhikaran, Nigdi, Pimpri-Chinchwad, Maharashtra 411035"
+    },
+    {
+      "_sr_no": 23,
+      "ward": 15,
+      "vidhan_sabha_": "Bhosari",
+      "lat_": 18.648903,
+      "_long": 73.764851,
+      "contact_name": "Deepesh",
+      "__contact_no": "7896646921",
+      "_area_address": "Ganga Nagar Rd, Pradhikaran, Nigdi, Pimpri-Chinchwad, Maharashtra 411044"
+    },
+    {
+      "_sr_no": 24,
+      "ward": 4,
+      "vidhan_sabha_": "Bhosari",
+      "lat_": 18.614436,
+      "_long": 73.873521,
+      "contact_name": "Vicky Ghule",
+      "__contact_no": "9168586161",
+      "_area_address": "Dighi"
+    },
+    {
+      "_sr_no": 25,
+      "ward": 4,
+      "vidhan_sabha_": "Bhosari",
+      "lat_": 18.614436,
+      "_long": 73.873521,
+      "contact_name": "Nilesh Fulwar",
+      "__contact_no": "7040202436",
+      "_area_address": "Dighi"
+    },
+    {
+      "_sr_no": 26,
+      "ward": 8,
+      "vidhan_sabha_": "Bhosari",
+      "lat_": 18.637952,
+      "_long": 73.844882,
+      "contact_name": "Krushna Waghmare",
+      "__contact_no": "8796964007",
+      "_area_address": "Indrayani Nagar"
+    },
+    {
+      "_sr_no": 27,
+      "ward": 8,
+      "vidhan_sabha_": "Bhosari",
+      "lat_": 18.642308,
+      "_long": 73.853623,
+      "contact_name": "Nitesh More",
+      "__contact_no": "9552493272",
+      "_area_address": "Bhosari, Pimpri-Chinchwad, Maharashtra 412105"
+    },
+    {
+      "_sr_no": 28,
+      "ward": 30,
+      "vidhan_sabha_": "Chinchwad",
+      "lat_": 18.579262,
+      "_long": 73.830511,
+      "contact_name": "Deepesh",
+      "__contact_no": "7896646921",
+      "_area_address": "159, Old Sangvi Bopodi Rd, Mahatma Phule Nagar, Dapodi, Pune, Maharashtra 411012"
+    },
+    {
+      "_sr_no": 29,
+      "ward": 30,
+      "vidhan_sabha_": "Chinchwad",
+      "lat_": 18.584377,
+      "_long": 73.828452,
+      "contact_name": "Omkar Kate",
+      "__contact_no": "9860021243",
+      "_area_address": "Ganesh Nagar, Dapodi, Pimpri-Chinchwad, Maharashtra 411012"
+    },
+    {
+      "_sr_no": 30,
+      "ward": 30,
+      "vidhan_sabha_": "Chinchwad",
+      "lat_": 18.586878,
+      "_long": 73.832767,
+      "contact_name": "Deepesh",
+      "__contact_no": "8796646921",
+      "_area_address": "Mumbai-Pune Hw, Phugewadi, Dapodi, Pimpri-Chinchwad, Maharashtra 411012"
+    },
+    {
+      "_sr_no": 31,
+      "ward": 18,
+      "vidhan_sabha_": "Chinchwad",
+      "lat_": 18.624395,
+      "_long": 73.780487,
+      "contact_name": "Dhananjay Gawade",
+      "__contact_no": "9960909009",
+      "_area_address": "Deo Wada, Chinchwad Gaon, Chinchwad, Pimpri-Chinchwad, Maharashtra 411033"
+    },
+    {
+      "_sr_no": 32,
+      "ward": 18,
+      "vidhan_sabha_": "Chinchwad",
+      "lat_": 18.624395,
+      "_long": 73.780487,
+      "contact_name": "Amar Gawade",
+      "__contact_no": "9767670555",
+      "_area_address": "Deo Wada, Chinchwad Gaon, Chinchwad, Pimpri-Chinchwad, Maharashtra 411034"
+    },
+    {
+      "_sr_no": 33,
+      "ward": 16,
+      "vidhan_sabha_": "Chinchwad",
+      "lat_": 18.632427,
+      "_long": 73.761172,
+      "contact_name": "Nikhil Bhalke",
+      "__contact_no": "9767915544",
+      "_area_address": "Walhekarwadi"
+    },
+    {
+      "_sr_no": 34,
+      "ward": 16,
+      "vidhan_sabha_": "Chinchwad",
+      "lat_": 18.632427,
+      "_long": 73.761172,
+      "contact_name": "Soma Walhekar",
+      "__contact_no": "9850295720",
+      "_area_address": "Walhekarwadi"
+    },
+    {
+      "_sr_no": 35,
+      "ward": 16,
+      "vidhan_sabha_": "Chinchwad",
+      "lat_": 18.632427,
+      "_long": 73.761172,
+      "contact_name": "Bhanudas Argade",
+      "__contact_no": "9545395253",
+      "_area_address": "Walhekarwadi"
+    },
+    {
+      "_sr_no": 36,
+      "ward": 16,
+      "vidhan_sabha_": "Chinchwad",
+      "lat_": 18.632427,
+      "_long": 73.761172,
+      "contact_name": "Sagar Ghorpade",
+      "__contact_no": "9623870465",
+      "_area_address": "Walhekarwadi"
+    },
+    {
+      "_sr_no": 37,
+      "ward": 27,
+      "vidhan_sabha_": "Chinchwad",
+      "lat_": 18.608807,
+      "_long": 73.788645,
+      "contact_name": "Nitesh More",
+      "__contact_no": "9552493272",
+      "_area_address": "Vardavn Colony, Nakhate Vasti, Baderaj Colony, Rahatani, Pimpri-Chinchwad, Maharashtra 411017"
+    },
+    {
+      "_sr_no": 38,
+      "ward": 27,
+      "vidhan_sabha_": "Chinchwad",
+      "lat_": 18.608597,
+      "_long": 73.786343,
+      "contact_name": "Nitesh More",
+      "__contact_no": "9552493272",
+      "_area_address": "Vardhaman Heights Rahatani, Suyog Colony Rd, Near Hotel Kunal Garden, Gurukul Colony, Yashvant Nagar, Kalewadi, Pimpri-Chinchwad, Maharashtra 411017"
+    },
+    {
+      "_sr_no": 39,
+      "ward": 27,
+      "vidhan_sabha_": "Chinchwad",
+      "lat_": 18.605536,
+      "_long": 73.781114,
+      "contact_name": "Nitesh More",
+      "__contact_no": "9552493272",
+      "_area_address": "Kalewadi Phata, Sant Tukdoji Maharaj Nagar, Swami Samarth Colony, Rahatani, Pimpri-Chinchwad, Maharashtra 411017"
+    },
+    {
+      "_sr_no": 40,
+      "ward": 27,
+      "vidhan_sabha_": "Chinchwad",
+      "lat_": 18.604254,
+      "_long": 73.780613,
+      "contact_name": "Nitesh More",
+      "__contact_no": "9552493272",
+      "_area_address": "Kalewadi Phata, Gajanan Nagar, Sulabh Colony, Rahatani, Pimpri-Chinchwad, Maharashtra 411017"
+    },
+    {
+      "_sr_no": 41,
+      "ward": 27,
+      "vidhan_sabha_": "Chinchwad",
+      "lat_": 18.642258,
+      "_long": 73.798465,
+      "contact_name": "Dhananjay Gawade",
+      "__contact_no": "99609 09009",
+      "_area_address": "Anna Sahib Nagar, Chinchwad, Pimpri-Chinchwad, Maharashtra 411019"
+    },
+    {
+      "_sr_no": 42,
+      "ward": 27,
+      "vidhan_sabha_": "Chinchwad",
+      "lat_": 18.648714,
+      "_long": 73.799153,
+      "contact_name": "Dhananjay Gawade",
+      "__contact_no": "99609 09009",
+      "_area_address": "Vidyanagar, Chinchwad, Pimpri-Chinchwad, Maharashtra"
+    },
+    {
+      "_sr_no": 43,
+      "ward": 27,
+      "vidhan_sabha_": "Chinchwad",
+      "lat_": 18.661671,
+      "_long": 73.793031,
+      "contact_name": "Dhananjay Gawade",
+      "__contact_no": "99609 09009",
+      "_area_address": "Shantiniketan society flat no. 2 RH 37, Ajantha Nagar, Chinchwad, Pimpri-Chinchwad, Maharashtra 411019"
+    },
+    {
+      "_sr_no": 44,
+      "ward": 27,
+      "vidhan_sabha_": "Chinchwad",
+      "lat_": 18.604576,
+      "_long": 73.787179,
+      "contact_name": "Vinay Nikam",
+      "__contact_no": "9765626666",
+      "_area_address": "Rahatani"
+    },
+    {
+      "_sr_no": 45,
+      "ward": 23,
+      "vidhan_sabha_": "Chinchwad",
+      "lat_": 18.614113,
+      "_long": 73.775076,
+      "contact_name": "Yuvraj Patil",
+      "__contact_no": "9577655741",
+      "_area_address": "Thergaon"
+    },
+    {
+      "_sr_no": 46,
+      "ward": 23,
+      "vidhan_sabha_": "Chinchwad",
+      "lat_": 18.614113,
+      "_long": 73.775076,
+      "contact_name": "Akash Kulange",
+      "__contact_no": "9763576577",
+      "_area_address": "Thergaon"
+    },
+    {
+      "_sr_no": 47,
+      "ward": 23,
+      "vidhan_sabha_": "Chinchwad",
+      "lat_": 18.614113,
+      "_long": 73.775076,
+      "contact_name": "Omkar Lilhore",
+      "__contact_no": "9422000276",
+      "_area_address": "Thergaon"
+    },
+    {
+      "_sr_no": 48,
+      "ward": 24,
+      "vidhan_sabha_": "Chinchwad",
+      "lat_": 18.623433,
+      "_long": 73.77423,
+      "contact_name": "Deepesh",
+      "__contact_no": "7896646921",
+      "_area_address": "Datta Nagar, Thergaon, Pimpri-Chinchwad, Maharashtra 411033"
+    },
+    {
+      "_sr_no": 49,
+      "ward": 25,
+      "vidhan_sabha_": "Chinchwad",
+      "lat_": 18.600212,
+      "_long": 73.764162,
+      "contact_name": "Karan Bhujbal",
+      "__contact_no": "9890711005",
+      "_area_address": "Wakad"
+    },
+    {
+      "_sr_no": 50,
+      "ward": 25,
+      "vidhan_sabha_": "Chinchwad",
+      "lat_": 18.600212,
+      "_long": 73.764162,
+      "contact_name": "Omkar Mankar",
+      "__contact_no": "7875098970",
+      "_area_address": "Wakad"
+    },
+    {
+      "_sr_no": 51,
+      "ward": 22,
+      "vidhan_sabha_": "Chinchwad",
+      "lat_": 18.617163,
+      "_long": 73.790553,
+      "contact_name": "Mangesh Nadhe",
+      "__contact_no": "8379007676",
+      "_area_address": "Kalewadi"
+    },
+    {
+      "_sr_no": 52,
+      "ward": 22,
+      "vidhan_sabha_": "Chinchwad",
+      "lat_": 18.617163,
+      "_long": 73.790553,
+      "contact_name": "Mayuresh Bhosale",
+      "__contact_no": "7030703526",
+      "_area_address": "Kalewadi"
+    },
+    {
+      "_sr_no": 53,
+      "ward": 22,
+      "vidhan_sabha_": "Chinchwad",
+      "lat_": 18.617163,
+      "_long": 73.790553,
+      "contact_name": "Suraj Gapat",
+      "__contact_no": "7030123453",
+      "_area_address": "Kalewadi"
+    },
+    {
+      "_sr_no": 54,
+      "ward": 22,
+      "vidhan_sabha_": "Chinchwad",
+      "lat_": 18.617163,
+      "_long": 73.790553,
+      "contact_name": "Samarth Raut",
+      "__contact_no": "9028562726",
+      "_area_address": "Kalewadi"
+    },
+    {
+      "_sr_no": 55,
+      "ward": 28,
+      "vidhan_sabha_": "Chinchwad",
+      "lat_": 18.587852,
+      "_long": 73.785224,
+      "contact_name": "Mayur Kate",
+      "__contact_no": "9922216664",
+      "_area_address": "Pimple Saudagar (Vishal Nagar)"
+    },
+    {
+      "_sr_no": 56,
+      "ward": 28,
+      "vidhan_sabha_": "Chinchwad",
+      "lat_": 18.601494,
+      "_long": 73.799376,
+      "contact_name": "Mukund Chavan",
+      "__contact_no": "9881735552",
+      "_area_address": "Near Mataji Varieties, Shiv Sai Ln, Pimple Saudagar Gaon, Pimple Saudagar, Pimpri-Chinchwad, Maharashtra 411027"
+    },
+    {
+      "_sr_no": 57,
+      "ward": 28,
+      "vidhan_sabha_": "Chinchwad",
+      "lat_": 18.587852,
+      "_long": 73.785224,
+      "contact_name": "Pradip Bhalekar",
+      "__contact_no": "9028665427",
+      "_area_address": "Pimple Saudagar ( vishal Nagar)"
+    },
+    {
+      "_sr_no": 58,
+      "ward": 32,
+      "vidhan_sabha_": "Chinchwad",
+      "lat_": 18.572672,
+      "_long": 73.818013,
+      "contact_name": "Parag Dhore",
+      "__contact_no": "8805150303",
+      "_area_address": "Sangvi"
+    },
+    {
+      "_sr_no": 59,
+      "ward": 32,
+      "vidhan_sabha_": "Chinchwad",
+      "lat_": 18.589462,
+      "_long": 73.820035,
+      "contact_name": "Yuvraj kadam",
+      "__contact_no": "9822865232",
+      "_area_address": "Pimple Gurav Rd, Opp. Bank Of Maharastra, Guru Datta Nagar, Gokul Nagari, Sangvi, Pimpri-Chinchwad, Maharashtra 411027"
+    },
+    {
+      "_sr_no": 60,
+      "ward": 32,
+      "vidhan_sabha_": "Chinchwad",
+      "lat_": 18.598862,
+      "_long": 73.81411,
+      "contact_name": "Akash Khanekar",
+      "__contact_no": "9604871718",
+      "_area_address": "Lane Number 6, Sudarshan Nagar, Pimple Gurav, Pimpri-Chinchwad, Maharashtra 411027"
+    },
+    {
+      "_sr_no": 61,
+      "ward": 19,
+      "vidhan_sabha_": "Pimpri",
+      "lat_": 18.60983,
+      "_long": 73.800784,
+      "contact_name": "Shubham Waghere",
+      "__contact_no": "9823962737",
+      "_area_address": "Pimpri Gaon, Pimpri Colony, Pimpri-Chinchwad, Maharashtra 411017"
+    },
+    {
+      "_sr_no": 62,
+      "ward": 19,
+      "vidhan_sabha_": "Pimpri",
+      "lat_": 18.622146,
+      "_long": 73.802247,
+      "contact_name": "Gaurav Patil",
+      "__contact_no": "8806652946",
+      "_area_address": "Pimpri"
+    },
+    {
+      "_sr_no": 63,
+      "ward": 19,
+      "vidhan_sabha_": "Pimpri",
+      "lat_": 18.635375,
+      "_long": 73.802916,
+      "contact_name": "Aditya Shinde",
+      "__contact_no": "9822774977",
+      "_area_address": "Morewadi, Pimpri Colony, Pimpri-Chinchwad, Maharashtra 411018"
+    },
+    {
+      "_sr_no": 64,
+      "ward": 19,
+      "vidhan_sabha_": "Pimpri",
+      "lat_": 18.622146,
+      "_long": 73.802247,
+      "contact_name": "Aakash Nanekar",
+      "__contact_no": "9890777797",
+      "_area_address": "Pimpri"
+    },
+    {
+      "_sr_no": 65,
+      "ward": 19,
+      "vidhan_sabha_": "Pimpri",
+      "lat_": 18.622146,
+      "_long": 73.802247,
+      "contact_name": "Pappu Kalje",
+      "__contact_no": "9850646864",
+      "_area_address": "Pimpri"
+    },
+    {
+      "_sr_no": 66,
+      "ward": 19,
+      "vidhan_sabha_": "Pimpri",
+      "lat_": 18.624876,
+      "_long": 73.797815,
+      "contact_name": "Priyanka Mhaske",
+      "__contact_no": "NA",
+      "_area_address": "River Rd, Ambedkar Colony, Pimpri Colony, Pimpri-Chinchwad, Maharashtra 411017"
+    },
+    {
+      "_sr_no": 67,
+      "ward": 19,
+      "vidhan_sabha_": "Pimpri",
+      "lat_": 18.629191,
+      "_long": 73.808146,
+      "contact_name": "Deepesh",
+      "__contact_no": "7896646921",
+      "_area_address": "Nehru Nagar Bhosari Rd, Gandhi Nagar, Kharalwadi, Pimpri Colony, Pimpri-Chinchwad, Maharashtra 411018"
+    },
+    {
+      "_sr_no": 68,
+      "ward": 20,
+      "vidhan_sabha_": "Pimpri",
+      "lat_": 18.598726,
+      "_long": 73.82345,
+      "contact_name": "Vishal Pawar",
+      "__contact_no": "8484929398",
+      "_area_address": "Nirmala Heights Appartment, Keshavnagar, Bhagubai Jawalkar Lane 3, Keshav Nagar, Shastri Nagar, Kasarwadi, Pimpri-Chinchwad, Maharashtra 411034"
+    },
+    {
+      "_sr_no": 69,
+      "ward": 20,
+      "vidhan_sabha_": "Pimpri",
+      "lat_": 18.600506,
+      "_long": 73.823856,
+      "contact_name": "Kiran More",
+      "__contact_no": "9689111102",
+      "_area_address": "Pimple Gurav Rd\nKeshav Nagar, Shastri Nagar, Kasarwadi\nPimpri-Chinchwad, Maharashtra 411034"
+    },
+    {
+      "_sr_no": 70,
+      "ward": 5,
+      "vidhan_sabha_": "Pimpri",
+      "lat_": 18.622158,
+      "_long": 73.82001,
+      "contact_name": "Omkar Kumbhar",
+      "__contact_no": "8605546171",
+      "_area_address": "Sant Tukaram Nagar"
+    },
+    {
+      "_sr_no": 71,
+      "ward": 5,
+      "vidhan_sabha_": "Pimpri",
+      "lat_": 18.622158,
+      "_long": 73.82001,
+      "contact_name": "Ashish Nagargoje",
+      "__contact_no": "7020665427",
+      "_area_address": "Sant Tukaram Nagar"
+    },
+    {
+      "_sr_no": 72,
+      "ward": 5,
+      "vidhan_sabha_": "Pimpri",
+      "lat_": 18.617855,
+      "_long": 73.817493,
+      "contact_name": "Aniket Saste",
+      "__contact_no": "8234017777",
+      "_area_address": "03/11/0791, Yashwantro Chavan Rd, Sabayog Cooperative Housing Society, Vallabh Nagar, Pimpri Colony, Pimpri-Chinchwad, Maharashtra 411018"
+    },
+    {
+      "_sr_no": 73,
+      "ward": 9,
+      "vidhan_sabha_": "Pimpri",
+      "lat_": 18.633729,
+      "_long": 73.812045,
+      "contact_name": "Akshay Inamdar",
+      "__contact_no": "9657813322",
+      "_area_address": "Ajmera Colony"
+    },
+    {
+      "_sr_no": 74,
+      "ward": 9,
+      "vidhan_sabha_": "Pimpri",
+      "lat_": 18.633729,
+      "_long": 73.812045,
+      "contact_name": "Satyawan Sangale",
+      "__contact_no": "9011018135",
+      "_area_address": "Ajmera Colony"
+    }
+  ]
+}

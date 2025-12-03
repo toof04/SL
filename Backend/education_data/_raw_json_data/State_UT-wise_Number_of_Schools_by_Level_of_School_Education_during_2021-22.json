@@ -1,0 +1,365 @@
+{
+  "index_name": "dd3a1ba6-27bd-4d99-b468-832de2c582e8",
+  "title": "State/UT-wise Number of Schools by Level of School Education during 2021-22",
+  "desc": "State/UT-wise Number of Schools by Level of School Education during 2021-22",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Education",
+    "Department of School Education and Literacy"
+  ],
+  "sector": [
+    "Education"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "80eac310-edaf-4462-b0b3-afcb24cbec59",
+  "visualizable": "0",
+  "active": "1",
+  "created": 1757779052,
+  "updated": 1757779052,
+  "created_date": "2025-09-13T17:57:32Z",
+  "updated_date": "2025-09-13T17:57:32Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "80eac310-edaf-4462-b0b3-afcb24cbec59",
+    "field": "dd3a1ba6-27bd-4d99-b468-832de2c582e8"
+  },
+  "field": [
+    {
+      "id": "india_state_ut",
+      "name": "India/State/UT",
+      "type": "keyword"
+    },
+    {
+      "id": "_total",
+      "name": "Total",
+      "type": "double"
+    },
+    {
+      "id": "primary",
+      "name": "Primary",
+      "type": "double"
+    },
+    {
+      "id": "upper_primary",
+      "name": "Upper Primary",
+      "type": "double"
+    },
+    {
+      "id": "secondary",
+      "name": "Secondary",
+      "type": "double"
+    },
+    {
+      "id": "higher_secondary",
+      "name": "Higher Secondary",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 37,
+  "count": 37,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "india_state_ut": "India",
+      "_total": 1489115,
+      "primary": 760460,
+      "upper_primary": 435805,
+      "secondary": 150452,
+      "higher_secondary": 142398
+    },
+    {
+      "india_state_ut": "Andaman and Nicobar Islands",
+      "_total": 416,
+      "primary": 218,
+      "upper_primary": 76,
+      "secondary": 53,
+      "higher_secondary": 69
+    },
+    {
+      "india_state_ut": "Andhra Pradesh",
+      "_total": 61948,
+      "primary": 38430,
+      "upper_primary": 8477,
+      "secondary": 11877,
+      "higher_secondary": 3164
+    },
+    {
+      "india_state_ut": "Arunachal Pradesh",
+      "_total": 3603,
+      "primary": 1847,
+      "upper_primary": 1273,
+      "secondary": 319,
+      "higher_secondary": 164
+    },
+    {
+      "india_state_ut": "Assam",
+      "_total": 60859,
+      "primary": 40482,
+      "upper_primary": 10672,
+      "secondary": 7290,
+      "higher_secondary": 2415
+    },
+    {
+      "india_state_ut": "Bihar",
+      "_total": 93165,
+      "primary": 42505,
+      "upper_primary": 38185,
+      "secondary": 3855,
+      "higher_secondary": 8620
+    },
+    {
+      "india_state_ut": "Chandigarh",
+      "_total": 233,
+      "primary": 21,
+      "upper_primary": 39,
+      "secondary": 71,
+      "higher_secondary": 102
+    },
+    {
+      "india_state_ut": "Chhattisgarh",
+      "_total": 56512,
+      "primary": 32723,
+      "upper_primary": 16442,
+      "secondary": 2737,
+      "higher_secondary": 4610
+    },
+    {
+      "india_state_ut": "Dadra and Nagar Haveli and Daman and Diu",
+      "_total": 460,
+      "primary": 184,
+      "upper_primary": 177,
+      "secondary": 45,
+      "higher_secondary": 54
+    },
+    {
+      "india_state_ut": "Delhi",
+      "_total": 5619,
+      "primary": 2594,
+      "upper_primary": 826,
+      "secondary": 357,
+      "higher_secondary": 1842
+    },
+    {
+      "india_state_ut": "Goa",
+      "_total": 1510,
+      "primary": 892,
+      "upper_primary": 75,
+      "secondary": 420,
+      "higher_secondary": 123
+    },
+    {
+      "india_state_ut": "Gujarat",
+      "_total": 53851,
+      "primary": 13827,
+      "upper_primary": 27260,
+      "secondary": 4638,
+      "higher_secondary": 8126
+    },
+    {
+      "india_state_ut": "Haryana",
+      "_total": 23726,
+      "primary": 9716,
+      "upper_primary": 5423,
+      "secondary": 3009,
+      "higher_secondary": 5578
+    },
+    {
+      "india_state_ut": "Himachal Pradesh",
+      "_total": 18028,
+      "primary": 11085,
+      "upper_primary": 2677,
+      "secondary": 1728,
+      "higher_secondary": 2538
+    },
+    {
+      "india_state_ut": "Jammu and Kashmir",
+      "_total": 28805,
+      "primary": 14824,
+      "upper_primary": 9565,
+      "secondary": 3150,
+      "higher_secondary": 1266
+    },
+    {
+      "india_state_ut": "Jharkhand",
+      "_total": 44855,
+      "primary": 23706,
+      "upper_primary": 16201,
+      "secondary": 3191,
+      "higher_secondary": 1757
+    },
+    {
+      "india_state_ut": "Karnataka",
+      "_total": 76450,
+      "primary": 24470,
+      "upper_primary": 30924,
+      "secondary": 15385,
+      "higher_secondary": 5671
+    },
+    {
+      "india_state_ut": "Kerala",
+      "_total": 16240,
+      "primary": 6812,
+      "upper_primary": 4515,
+      "secondary": 1941,
+      "higher_secondary": 2972
+    },
+    {
+      "india_state_ut": "Ladakh",
+      "_total": 978,
+      "primary": 379,
+      "upper_primary": 437,
+      "secondary": 112,
+      "higher_secondary": 50
+    },
+    {
+      "india_state_ut": "Lakshadweep",
+      "_total": 38,
+      "primary": 16,
+      "upper_primary": 9,
+      "secondary": "0",
+      "higher_secondary": 13
+    },
+    {
+      "india_state_ut": "Madhya Pradesh",
+      "_total": 125582,
+      "primary": 62413,
+      "upper_primary": 45106,
+      "secondary": 8306,
+      "higher_secondary": 9757
+    },
+    {
+      "india_state_ut": "Maharashtra",
+      "_total": 109605,
+      "primary": 51152,
+      "upper_primary": 29841,
+      "secondary": 17741,
+      "higher_secondary": 10871
+    },
+    {
+      "india_state_ut": "Manipur",
+      "_total": 4617,
+      "primary": 2422,
+      "upper_primary": 966,
+      "secondary": 958,
+      "higher_secondary": 271
+    },
+    {
+      "india_state_ut": "Meghalaya",
+      "_total": 14600,
+      "primary": 9223,
+      "upper_primary": 3529,
+      "secondary": 1462,
+      "higher_secondary": 386
+    },
+    {
+      "india_state_ut": "Mizoram",
+      "_total": 3911,
+      "primary": 1481,
+      "upper_primary": 1519,
+      "secondary": 706,
+      "higher_secondary": 205
+    },
+    {
+      "india_state_ut": "Nagaland",
+      "_total": 2718,
+      "primary": 1157,
+      "upper_primary": 787,
+      "secondary": 576,
+      "higher_secondary": 198
+    },
+    {
+      "india_state_ut": "Odisha",
+      "_total": 62291,
+      "primary": 29326,
+      "upper_primary": 21049,
+      "secondary": 9497,
+      "higher_secondary": 2419
+    },
+    {
+      "india_state_ut": "Puducherry",
+      "_total": 736,
+      "primary": 275,
+      "upper_primary": 74,
+      "secondary": 190,
+      "higher_secondary": 197
+    },
+    {
+      "india_state_ut": "Punjab",
+      "_total": 27701,
+      "primary": 13536,
+      "upper_primary": 4642,
+      "secondary": 4186,
+      "higher_secondary": 5337
+    },
+    {
+      "india_state_ut": "Rajasthan",
+      "_total": 106373,
+      "primary": 38983,
+      "upper_primary": 35984,
+      "secondary": 10775,
+      "higher_secondary": 20631
+    },
+    {
+      "india_state_ut": "Sikkim",
+      "_total": 1259,
+      "primary": 685,
+      "upper_primary": 307,
+      "secondary": 150,
+      "higher_secondary": 117
+    },
+    {
+      "india_state_ut": "Tamil Nadu",
+      "_total": 58801,
+      "primary": 35062,
+      "upper_primary": 9243,
+      "secondary": 5499,
+      "higher_secondary": 8997
+    },
+    {
+      "india_state_ut": "Telangana",
+      "_total": 43083,
+      "primary": 20711,
+      "upper_primary": 7688,
+      "secondary": 12045,
+      "higher_secondary": 2639
+    },
+    {
+      "india_state_ut": "Tripura",
+      "_total": 4929,
+      "primary": 2522,
+      "upper_primary": 1226,
+      "secondary": 702,
+      "higher_secondary": 479
+    },
+    {
+      "india_state_ut": "Uttar Pradesh",
+      "_total": 258054,
+      "primary": 138078,
+      "upper_primary": 86430,
+      "secondary": 12783,
+      "higher_secondary": 20763
+    },
+    {
+      "india_state_ut": "Uttarakhand",
+      "_total": 22815,
+      "primary": 13404,
+      "upper_primary": 5426,
+      "secondary": 1407,
+      "higher_secondary": 2578
+    },
+    {
+      "india_state_ut": "West Bengal",
+      "_total": 94744,
+      "primary": 75299,
+      "upper_primary": 8735,
+      "secondary": 3291,
+      "higher_secondary": 7419
+    }
+  ]
+}

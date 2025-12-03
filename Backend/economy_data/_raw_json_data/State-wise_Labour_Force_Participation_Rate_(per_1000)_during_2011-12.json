@@ -1,0 +1,190 @@
+{
+  "index_name": "4ae13c0a-f318-4346-82a4-3286b6e859e7",
+  "title": "State-wise Labour Force Participation Rate (per 1000)",
+  "desc": "",
+  "created": 1518502467,
+  "updated": 1543532885,
+  "visualizable": "1",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Statistics and Programme Implementation"
+  ],
+  "sector": [
+    "Labour and Employment",
+    "Industries",
+    "Finance",
+    "Economy"
+  ],
+  "catalog_uuid": "49c6be6d-af39-42b4-8638-1038de13d4f4",
+  "source": "data.gov.in",
+  "status": "ok",
+  "field": [
+    {
+      "id": "state_ut",
+      "name": "State/UT",
+      "type": "keyword"
+    },
+    {
+      "id": "labour_force_participation_rate_lfpr_",
+      "name": "Labour Force Participation Rate (LFPR)",
+      "type": "double"
+    }
+  ],
+  "created_date": "2018-02-13T06:14:27Z",
+  "updated_date": "2018-11-30T04:38:05Z",
+  "active": "1",
+  "external_ws_url": "",
+  "external_ws": "0",
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "total": 36,
+  "count": 36,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "state_ut": "Andhra Pradesh",
+      "labour_force_participation_rate_lfpr_": "479"
+    },
+    {
+      "state_ut": "Arunachal Pradesh",
+      "labour_force_participation_rate_lfpr_": "376"
+    },
+    {
+      "state_ut": "Assam",
+      "labour_force_participation_rate_lfpr_": "358"
+    },
+    {
+      "state_ut": "Bihar",
+      "labour_force_participation_rate_lfpr_": "283"
+    },
+    {
+      "state_ut": "Chhattisgarh",
+      "labour_force_participation_rate_lfpr_": "469"
+    },
+    {
+      "state_ut": "Delhi",
+      "labour_force_participation_rate_lfpr_": "350"
+    },
+    {
+      "state_ut": "Goa",
+      "labour_force_participation_rate_lfpr_": "376"
+    },
+    {
+      "state_ut": "Gujarat",
+      "labour_force_participation_rate_lfpr_": "424"
+    },
+    {
+      "state_ut": "Haryana",
+      "labour_force_participation_rate_lfpr_": "354"
+    },
+    {
+      "state_ut": "Himachal Pradesh",
+      "labour_force_participation_rate_lfpr_": "526"
+    },
+    {
+      "state_ut": "Jammu & Kashmir",
+      "labour_force_participation_rate_lfpr_": "403"
+    },
+    {
+      "state_ut": "Jharkhand",
+      "labour_force_participation_rate_lfpr_": "360"
+    },
+    {
+      "state_ut": "Karnataka",
+      "labour_force_participation_rate_lfpr_": "430"
+    },
+    {
+      "state_ut": "Kerala",
+      "labour_force_participation_rate_lfpr_": "403"
+    },
+    {
+      "state_ut": "Madhya Pradesh",
+      "labour_force_participation_rate_lfpr_": "388"
+    },
+    {
+      "state_ut": "Maharashtra",
+      "labour_force_participation_rate_lfpr_": "437"
+    },
+    {
+      "state_ut": "Manipur",
+      "labour_force_participation_rate_lfpr_": "386"
+    },
+    {
+      "state_ut": "Meghalaya",
+      "labour_force_participation_rate_lfpr_": "438"
+    },
+    {
+      "state_ut": "Mizoram",
+      "labour_force_participation_rate_lfpr_": "446"
+    },
+    {
+      "state_ut": "Nagaland",
+      "labour_force_participation_rate_lfpr_": "445"
+    },
+    {
+      "state_ut": "Odisha",
+      "labour_force_participation_rate_lfpr_": "422"
+    },
+    {
+      "state_ut": "Punjab",
+      "labour_force_participation_rate_lfpr_": "401"
+    },
+    {
+      "state_ut": "Rajasthan",
+      "labour_force_participation_rate_lfpr_": "405"
+    },
+    {
+      "state_ut": "Sikkim",
+      "labour_force_participation_rate_lfpr_": "525"
+    },
+    {
+      "state_ut": "Tamil Nadu",
+      "labour_force_participation_rate_lfpr_": "454"
+    },
+    {
+      "state_ut": "Tripura",
+      "labour_force_participation_rate_lfpr_": "445"
+    },
+    {
+      "state_ut": "Uttarakhand",
+      "labour_force_participation_rate_lfpr_": "373"
+    },
+    {
+      "state_ut": "Uttar Pradesh",
+      "labour_force_participation_rate_lfpr_": "339"
+    },
+    {
+      "state_ut": "West Bengal",
+      "labour_force_participation_rate_lfpr_": "405"
+    },
+    {
+      "state_ut": "A & N Islands",
+      "labour_force_participation_rate_lfpr_": "449"
+    },
+    {
+      "state_ut": "Chandigarh",
+      "labour_force_participation_rate_lfpr_": "376"
+    },
+    {
+      "state_ut": "Dadra & Nagar Haveli",
+      "labour_force_participation_rate_lfpr_": "344"
+    },
+    {
+      "state_ut": "Daman & Diu",
+      "labour_force_participation_rate_lfpr_": "404"
+    },
+    {
+      "state_ut": "Lakshadweep",
+      "labour_force_participation_rate_lfpr_": "388"
+    },
+    {
+      "state_ut": "Puducherry",
+      "labour_force_participation_rate_lfpr_": "362"
+    },
+    {
+      "state_ut": "all-India",
+      "labour_force_participation_rate_lfpr_": "395"
+    }
+  ]
+}

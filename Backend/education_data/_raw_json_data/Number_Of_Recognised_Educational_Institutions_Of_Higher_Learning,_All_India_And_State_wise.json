@@ -1,0 +1,299 @@
+{
+  "index_name": "3ccbd5b2-b7df-43fe-94e0-892821221f4d",
+  "title": "Number Of Recognised Educational Institutions Of Higher Learning, All India And State wise",
+  "desc": "Number Of Recognised Educational Institutions Of Higher Learning, All India And State wise",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Statistics and Programme Implementation"
+  ],
+  "sector": [
+    "Education",
+    "Statistics"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "fd36ff4d-abcf-4b6b-9e46-86e0a04e7ce3",
+  "visualizable": "0",
+  "active": "1",
+  "created": 1757778950,
+  "updated": 1757778950,
+  "created_date": "2025-09-13T17:55:50Z",
+  "updated_date": "2025-09-13T17:55:50Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "fd36ff4d-abcf-4b6b-9e46-86e0a04e7ce3",
+    "field": "3ccbd5b2-b7df-43fe-94e0-892821221f4d"
+  },
+  "field": [
+    {
+      "id": "_year_state___union_territory",
+      "name": " Year/State/  Union Territory",
+      "type": "keyword"
+    },
+    {
+      "id": "universities__deemed_to_be_universities_institutions_of_national_importance",
+      "name": "Universities/ Deemed to be Universities Institutions of National Importance",
+      "type": "double"
+    },
+    {
+      "id": "research_institutions",
+      "name": "Research Institutions",
+      "type": "double"
+    },
+    {
+      "id": "college_for_general_education",
+      "name": "College for General Education",
+      "type": "double"
+    },
+    {
+      "id": "professional_education_engg__tech___arch__medical___education_college",
+      "name": "Professional Education Engg. Tech., Arch, Medical & Education College",
+      "type": "double"
+    },
+    {
+      "id": "other__colleges__law__mana__management___agriculture_etc__",
+      "name": "Other  Colleges (Law, Mana- Management,  Agriculture etc.)",
+      "type": "double"
+    },
+    {
+      "id": "polytechnics",
+      "name": "Polytechnics",
+      "type": "double"
+    },
+    {
+      "id": "board_of_sr__secondary__secondary_education",
+      "name": "Board of Sr. Secondary/ Secondary Education",
+      "type": "double"
+    },
+    {
+      "id": "___schools_for_general_education_pre___primary",
+      "name": "   Schools for general education Pre-  Primary",
+      "type": "double"
+    },
+    {
+      "id": "___schools_for_general_education_primary__jr_basic_schools",
+      "name": "   Schools for general education Primary/ Jr.Basic Schools",
+      "type": "double"
+    },
+    {
+      "id": "___schools_for_general_education_middle__sr_basic_schools",
+      "name": "   Schools for general education Middle/ Sr.Basic Schools",
+      "type": "double"
+    },
+    {
+      "id": "___schools_for_general_education___high____higher_secondary",
+      "name": "   Schools for general education   High/   Higher Secondary",
+      "type": "double"
+    },
+    {
+      "id": "total_for_schools_for_general_education",
+      "name": "Total for Schools for General Education",
+      "type": "double"
+    },
+    {
+      "id": "technical__industrial__arts___craft",
+      "name": "Technical/ Industrial/ Arts & Craft",
+      "type": "double"
+    },
+    {
+      "id": "teacher_training_schools",
+      "name": "Teacher Training Schools",
+      "type": "double"
+    },
+    {
+      "id": "_grand_total_for_all_the_school_level",
+      "name": " Grand total for all the School level",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 10,
+  "count": 10,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "_year_state___union_territory": "2001-02",
+      "universities__deemed_to_be_universities_institutions_of_national_importance": 272,
+      "research_institutions": 79,
+      "college_for_general_education": 8737,
+      "professional_education_engg__tech___arch__medical___education_college": 2409,
+      "other__colleges__law__mana__management___agriculture_etc__": 1926,
+      "polytechnics": 1160,
+      "board_of_sr__secondary__secondary_education": 39,
+      "___schools_for_general_education_pre___primary": 60840,
+      "___schools_for_general_education_primary__jr_basic_schools": 664041,
+      "___schools_for_general_education_middle__sr_basic_schools": 219626,
+      "___schools_for_general_education___high____higher_secondary": 133492,
+      "total_for_schools_for_general_education": 1077999,
+      "technical__industrial__arts___craft": 4302,
+      "teacher_training_schools": 1175,
+      "_grand_total_for_all_the_school_level": 1083476
+    },
+    {
+      "_year_state___union_territory": "2002-03",
+      "universities__deemed_to_be_universities_institutions_of_national_importance": 304,
+      "research_institutions": 81,
+      "college_for_general_education": 9166,
+      "professional_education_engg__tech___arch__medical___education_college": 2610,
+      "other__colleges__law__mana__management___agriculture_etc__": 1982,
+      "polytechnics": 1173,
+      "board_of_sr__secondary__secondary_education": 39,
+      "___schools_for_general_education_pre___primary": 64712,
+      "___schools_for_general_education_primary__jr_basic_schools": 651382,
+      "___schools_for_general_education_middle__sr_basic_schools": 245274,
+      "___schools_for_general_education___high____higher_secondary": 137207,
+      "total_for_schools_for_general_education": 1098575,
+      "technical__industrial__arts___craft": 4647,
+      "teacher_training_schools": 1202,
+      "_grand_total_for_all_the_school_level": 1104424
+    },
+    {
+      "_year_state___union_territory": "2003-04",
+      "universities__deemed_to_be_universities_institutions_of_national_importance": 304,
+      "research_institutions": 85,
+      "college_for_general_education": 9427,
+      "professional_education_engg__tech___arch__medical___education_college": 2751,
+      "other__colleges__law__mana__management___agriculture_etc__": 1991,
+      "polytechnics": 1105,
+      "board_of_sr__secondary__secondary_education": 39,
+      "___schools_for_general_education_pre___primary": 63167,
+      "___schools_for_general_education_primary__jr_basic_schools": 712239,
+      "___schools_for_general_education_middle__sr_basic_schools": 262286,
+      "___schools_for_general_education___high____higher_secondary": 145962,
+      "total_for_schools_for_general_education": 1183654,
+      "technical__industrial__arts___craft": 4877,
+      "teacher_training_schools": 1303,
+      "_grand_total_for_all_the_school_level": 1189834
+    },
+    {
+      "_year_state___union_territory": "2004-05",
+      "universities__deemed_to_be_universities_institutions_of_national_importance": 343,
+      "research_institutions": 136,
+      "college_for_general_education": 10377,
+      "professional_education_engg__tech___arch__medical___education_college": 3201,
+      "other__colleges__law__mana__management___agriculture_etc__": 2431,
+      "polytechnics": 1171,
+      "board_of_sr__secondary__secondary_education": 41,
+      "___schools_for_general_education_pre___primary": 63596,
+      "___schools_for_general_education_primary__jr_basic_schools": 767520,
+      "___schools_for_general_education_middle__sr_basic_schools": 274731,
+      "___schools_for_general_education___high____higher_secondary": 152049,
+      "total_for_schools_for_general_education": 1257896,
+      "technical__industrial__arts___craft": 5114,
+      "teacher_training_schools": 1465,
+      "_grand_total_for_all_the_school_level": 1264475
+    },
+    {
+      "_year_state___union_territory": "2005-06",
+      "universities__deemed_to_be_universities_institutions_of_national_importance": 350,
+      "research_institutions": 140,
+      "college_for_general_education": 11698,
+      "professional_education_engg__tech___arch__medical___education_college": 5284,
+      "other__colleges__law__mana__management___agriculture_etc__": 2513,
+      "polytechnics": 1274,
+      "board_of_sr__secondary__secondary_education": 41,
+      "___schools_for_general_education_pre___primary": 67157,
+      "___schools_for_general_education_primary__jr_basic_schools": 772568,
+      "___schools_for_general_education_middle__sr_basic_schools": 288493,
+      "___schools_for_general_education___high____higher_secondary": 106024,
+      "total_for_schools_for_general_education": 1234242,
+      "technical__industrial__arts___craft": 5465,
+      "teacher_training_schools": 2021,
+      "_grand_total_for_all_the_school_level": 1241728
+    },
+    {
+      "_year_state___union_territory": "2006-07",
+      "universities__deemed_to_be_universities_institutions_of_national_importance": 368,
+      "research_institutions": 140,
+      "college_for_general_education": 11458,
+      "professional_education_engg__tech___arch__medical___education_college": 7024,
+      "other__colleges__law__mana__management___agriculture_etc__": 2769,
+      "polytechnics": 1296,
+      "board_of_sr__secondary__secondary_education": 39,
+      "___schools_for_general_education_pre___primary": 60886,
+      "___schools_for_general_education_primary__jr_basic_schools": 784852,
+      "___schools_for_general_education_middle__sr_basic_schools": 305584,
+      "___schools_for_general_education___high____higher_secondary": 169568,
+      "total_for_schools_for_general_education": 1320890,
+      "technical__industrial__arts___craft": 5114,
+      "teacher_training_schools": 2572,
+      "_grand_total_for_all_the_school_level": 1328576
+    },
+    {
+      "_year_state___union_territory": "2007-08",
+      "universities__deemed_to_be_universities_institutions_of_national_importance": 409,
+      "research_institutions": "NA",
+      "college_for_general_education": 14146,
+      "professional_education_engg__tech___arch__medical___education_college": 7980,
+      "other__colleges__law__mana__management___agriculture_etc__": 3864,
+      "polytechnics": 1742,
+      "board_of_sr__secondary__secondary_education": 47,
+      "___schools_for_general_education_pre___primary": 66165,
+      "___schools_for_general_education_primary__jr_basic_schools": 787827,
+      "___schools_for_general_education_middle__sr_basic_schools": 325174,
+      "___schools_for_general_education___high____higher_secondary": 172990,
+      "total_for_schools_for_general_education": 1352156,
+      "technical__industrial__arts___craft": "NA",
+      "teacher_training_schools": "NA",
+      "_grand_total_for_all_the_school_level": 1352156
+    },
+    {
+      "_year_state___union_territory": "2008-09",
+      "universities__deemed_to_be_universities_institutions_of_national_importance": 436,
+      "research_institutions": "NA",
+      "college_for_general_education": 14321,
+      "professional_education_engg__tech___arch__medical___education_college": 8325,
+      "other__colleges__law__mana__management___agriculture_etc__": 3292,
+      "polytechnics": 1914,
+      "board_of_sr__secondary__secondary_education": 42,
+      "___schools_for_general_education_pre___primary": 66878,
+      "___schools_for_general_education_primary__jr_basic_schools": 789444,
+      "___schools_for_general_education_middle__sr_basic_schools": 336638,
+      "___schools_for_general_education___high____higher_secondary": 183648,
+      "total_for_schools_for_general_education": 1376650,
+      "technical__industrial__arts___craft": "NA",
+      "teacher_training_schools": 25696,
+      "_grand_total_for_all_the_school_level": 1376650
+    },
+    {
+      "_year_state___union_territory": "2009-10",
+      "universities__deemed_to_be_universities_institutions_of_national_importance": "NA",
+      "research_institutions": "NA",
+      "college_for_general_education": "NA",
+      "professional_education_engg__tech___arch__medical___education_college": "NA",
+      "other__colleges__law__mana__management___agriculture_etc__": "NA",
+      "polytechnics": "NA",
+      "board_of_sr__secondary__secondary_education": 48,
+      "___schools_for_general_education_pre___primary": 67822,
+      "___schools_for_general_education_primary__jr_basic_schools": 823162,
+      "___schools_for_general_education_middle__sr_basic_schools": 367745,
+      "___schools_for_general_education___high____higher_secondary": 190643,
+      "total_for_schools_for_general_education": 1449420,
+      "technical__industrial__arts___craft": "NA",
+      "teacher_training_schools": 26892,
+      "_grand_total_for_all_the_school_level": 1476312
+    },
+    {
+      "_year_state___union_territory": "NA",
+      "universities__deemed_to_be_universities_institutions_of_national_importance": "NA",
+      "research_institutions": "NA",
+      "college_for_general_education": "NA",
+      "professional_education_engg__tech___arch__medical___education_college": "NA",
+      "other__colleges__law__mana__management___agriculture_etc__": "NA",
+      "polytechnics": "NA",
+      "board_of_sr__secondary__secondary_education": "NA",
+      "___schools_for_general_education_pre___primary": "NA",
+      "___schools_for_general_education_primary__jr_basic_schools": "NA",
+      "___schools_for_general_education_middle__sr_basic_schools": "NA",
+      "___schools_for_general_education___high____higher_secondary": "NA",
+      "total_for_schools_for_general_education": "NA",
+      "technical__industrial__arts___craft": "NA",
+      "teacher_training_schools": "NA",
+      "_grand_total_for_all_the_school_level": "NA"
+    }
+  ]
+}

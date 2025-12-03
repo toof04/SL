@@ -1,0 +1,426 @@
+{
+  "index_name": "2f742f78-6c6b-4b33-a6dd-7dfbe2efc795",
+  "title": "State/UT-wise Caste of Detenues as on 31st December, 2020",
+  "desc": "State/UT-wise Caste of Detenues as on 31st December, 2020",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Home Affairs",
+    "Department of States",
+    "National Crime Records Bureau (NCRB)"
+  ],
+  "sector": [
+    ""
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "227785a5-3f02-4ed0-9422-f12b2951a5cf",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1651039224,
+  "updated": 1651120341,
+  "created_date": "2022-04-27T06:00:24Z",
+  "updated_date": "2022-04-28T10:02:21Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "ncrb",
+    "type": "227785a5-3f02-4ed0-9422-f12b2951a5cf",
+    "field": "2f742f78-6c6b-4b33-a6dd-7dfbe2efc795"
+  },
+  "field": [
+    {
+      "id": "sl__no_",
+      "name": "Sl. No.",
+      "type": "keyword"
+    },
+    {
+      "id": "state_ut",
+      "name": "State/UT",
+      "type": "keyword"
+    },
+    {
+      "id": "sc",
+      "name": "SC",
+      "type": "double"
+    },
+    {
+      "id": "st",
+      "name": "ST",
+      "type": "double"
+    },
+    {
+      "id": "obc",
+      "name": "OBC",
+      "type": "double"
+    },
+    {
+      "id": "others",
+      "name": "Others",
+      "type": "double"
+    },
+    {
+      "id": "_total",
+      "name": "Total",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 39,
+  "count": 39,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "sl__no_": "1",
+      "state_ut": "Andhra Pradesh",
+      "sc": 1,
+      "st": 1,
+      "obc": 7,
+      "others": 4,
+      "_total": 13
+    },
+    {
+      "sl__no_": "2",
+      "state_ut": "Arunachal Pradesh",
+      "sc": "0",
+      "st": "0",
+      "obc": "0",
+      "others": "0",
+      "_total": "0"
+    },
+    {
+      "sl__no_": "3",
+      "state_ut": "Assam",
+      "sc": "0",
+      "st": "0",
+      "obc": "0",
+      "others": "0",
+      "_total": "0"
+    },
+    {
+      "sl__no_": "4",
+      "state_ut": "Bihar",
+      "sc": "0",
+      "st": "0",
+      "obc": 4,
+      "others": "0",
+      "_total": 4
+    },
+    {
+      "sl__no_": "5",
+      "state_ut": "Chhattisgarh",
+      "sc": "0",
+      "st": "0",
+      "obc": "0",
+      "others": 1,
+      "_total": 1
+    },
+    {
+      "sl__no_": "6",
+      "state_ut": "Goa",
+      "sc": "0",
+      "st": "0",
+      "obc": "0",
+      "others": "0",
+      "_total": "0"
+    },
+    {
+      "sl__no_": "7",
+      "state_ut": "Gujarat",
+      "sc": 163,
+      "st": 115,
+      "obc": 548,
+      "others": 343,
+      "_total": 1169
+    },
+    {
+      "sl__no_": "8",
+      "state_ut": "Haryana",
+      "sc": "0",
+      "st": "0",
+      "obc": "0",
+      "others": 20,
+      "_total": 20
+    },
+    {
+      "sl__no_": "9",
+      "state_ut": "Himachal Pradesh",
+      "sc": "0",
+      "st": "0",
+      "obc": "0",
+      "others": "0",
+      "_total": "0"
+    },
+    {
+      "sl__no_": "10",
+      "state_ut": "Jharkhand",
+      "sc": "0",
+      "st": "0",
+      "obc": "0",
+      "others": 3,
+      "_total": 3
+    },
+    {
+      "sl__no_": "11",
+      "state_ut": "Karnataka",
+      "sc": 10,
+      "st": "0",
+      "obc": 24,
+      "others": 8,
+      "_total": 42
+    },
+    {
+      "sl__no_": "12",
+      "state_ut": "Kerala",
+      "sc": 8,
+      "st": 3,
+      "obc": 26,
+      "others": 9,
+      "_total": 46
+    },
+    {
+      "sl__no_": "13",
+      "state_ut": "Madhya Pradesh",
+      "sc": 14,
+      "st": 11,
+      "obc": 41,
+      "others": 13,
+      "_total": 79
+    },
+    {
+      "sl__no_": "14",
+      "state_ut": "Maharashtra",
+      "sc": "NA",
+      "st": "NA",
+      "obc": "NA",
+      "others": "NA",
+      "_total": 104
+    },
+    {
+      "sl__no_": "15",
+      "state_ut": "Manipur",
+      "sc": "0",
+      "st": 6,
+      "obc": "0",
+      "others": 8,
+      "_total": 14
+    },
+    {
+      "sl__no_": "16",
+      "state_ut": "Meghalaya",
+      "sc": "0",
+      "st": "0",
+      "obc": "0",
+      "others": "0",
+      "_total": "0"
+    },
+    {
+      "sl__no_": "17",
+      "state_ut": "Mizoram",
+      "sc": "0",
+      "st": "0",
+      "obc": "0",
+      "others": "0",
+      "_total": "0"
+    },
+    {
+      "sl__no_": "18",
+      "state_ut": "Nagaland",
+      "sc": "0",
+      "st": 35,
+      "obc": "0",
+      "others": "0",
+      "_total": 35
+    },
+    {
+      "sl__no_": "19",
+      "state_ut": "Odisha",
+      "sc": 2,
+      "st": "0",
+      "obc": 5,
+      "others": 6,
+      "_total": 13
+    },
+    {
+      "sl__no_": "20",
+      "state_ut": "Punjab",
+      "sc": "0",
+      "st": "0",
+      "obc": "0",
+      "others": "0",
+      "_total": "0"
+    },
+    {
+      "sl__no_": "21",
+      "state_ut": "Rajasthan",
+      "sc": "0",
+      "st": "0",
+      "obc": "0",
+      "others": "0",
+      "_total": "0"
+    },
+    {
+      "sl__no_": "22",
+      "state_ut": "Sikkim",
+      "sc": "0",
+      "st": "0",
+      "obc": "0",
+      "others": "0",
+      "_total": "0"
+    },
+    {
+      "sl__no_": "23",
+      "state_ut": "Tamil Nadu",
+      "sc": 539,
+      "st": 50,
+      "obc": 812,
+      "others": 29,
+      "_total": 1430
+    },
+    {
+      "sl__no_": "24",
+      "state_ut": "Telangana",
+      "sc": 56,
+      "st": 14,
+      "obc": 95,
+      "others": 93,
+      "_total": 258
+    },
+    {
+      "sl__no_": "25",
+      "state_ut": "Tripura",
+      "sc": "0",
+      "st": "0",
+      "obc": "0",
+      "others": "0",
+      "_total": "0"
+    },
+    {
+      "sl__no_": "26",
+      "state_ut": "Uttar Pradesh",
+      "sc": 11,
+      "st": "0",
+      "obc": 62,
+      "others": 28,
+      "_total": 101
+    },
+    {
+      "sl__no_": "27",
+      "state_ut": "Uttarakhand",
+      "sc": "0",
+      "st": "0",
+      "obc": "0",
+      "others": "0",
+      "_total": "0"
+    },
+    {
+      "sl__no_": "28",
+      "state_ut": "West Bengal",
+      "sc": "0",
+      "st": "0",
+      "obc": "0",
+      "others": "0",
+      "_total": "0"
+    },
+    {
+      "sl__no_": "Total (States)",
+      "state_ut": "Total (States)",
+      "sc": 804,
+      "st": 235,
+      "obc": 1624,
+      "others": 565,
+      "_total": 3332
+    },
+    {
+      "sl__no_": "29",
+      "state_ut": "A & N Islands",
+      "sc": "0",
+      "st": "0",
+      "obc": "0",
+      "others": "0",
+      "_total": "0"
+    },
+    {
+      "sl__no_": "30",
+      "state_ut": "Chandigarh",
+      "sc": "0",
+      "st": "0",
+      "obc": "0",
+      "others": "0",
+      "_total": "0"
+    },
+    {
+      "sl__no_": "31",
+      "state_ut": "Dadra and Nagar Haveli and Daman and Diu",
+      "sc": "0",
+      "st": 2,
+      "obc": "0",
+      "others": 2,
+      "_total": 4
+    },
+    {
+      "sl__no_": "32",
+      "state_ut": "Delhi",
+      "sc": "0",
+      "st": "0",
+      "obc": 2,
+      "others": 14,
+      "_total": 16
+    },
+    {
+      "sl__no_": "33",
+      "state_ut": "Jammu & Kashmir",
+      "sc": 2,
+      "st": 12,
+      "obc": "0",
+      "others": 214,
+      "_total": 228
+    },
+    {
+      "sl__no_": "34",
+      "state_ut": "Ladakh",
+      "sc": "0",
+      "st": "0",
+      "obc": "0",
+      "others": "0",
+      "_total": "0"
+    },
+    {
+      "sl__no_": "35",
+      "state_ut": "Lakshadweep",
+      "sc": "0",
+      "st": "0",
+      "obc": "0",
+      "others": "0",
+      "_total": "0"
+    },
+    {
+      "sl__no_": "36",
+      "state_ut": "Puducherry",
+      "sc": 2,
+      "st": "0",
+      "obc": 8,
+      "others": "0",
+      "_total": 10
+    },
+    {
+      "sl__no_": "Total (UTs)",
+      "state_ut": "Total (UTs)",
+      "sc": 4,
+      "st": 14,
+      "obc": 10,
+      "others": 230,
+      "_total": 258
+    },
+    {
+      "sl__no_": "Total (All-India)",
+      "state_ut": "Total (All-India)",
+      "sc": 808,
+      "st": 249,
+      "obc": 1634,
+      "others": 795,
+      "_total": 3590
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "index_name": "a4b4058c-e13a-499c-a869-a3c06a58eacc",
+  "title": "Placements provided by Railway Recruitment Board 2014-15",
+  "desc": "Placements provided by Railway Recruitment Board 2014-15",
+  "org_type": "State",
+  "org": [
+    "Tamil Nadu",
+    "Planning, Development and Special Initiatives Department, Tamil Nadu",
+    "Department of Economics and Statistics"
+  ],
+  "sector": [
+    "Statistics"
+  ],
+  "source": "tn.data.gov.in",
+  "catalog_uuid": "e8b55e75-5266-4de7-ba01-89002de71cad",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1538569570,
+  "updated": 1543516720,
+  "created_date": "2018-10-03T17:56:10Z",
+  "updated_date": "2018-11-30T00:08:40Z",
+  "target_bucket": {
+    "index": "tn_api",
+    "type": "e8b55e75-5266-4de7-ba01-89002de71cad",
+    "field": "a4b4058c-e13a-499c-a869-a3c06a58eacc"
+  },
+  "field": [
+    {
+      "id": "sl_no",
+      "name": "Sl.No",
+      "type": "double"
+    },
+    {
+      "id": "category",
+      "name": "Category",
+      "type": "keyword"
+    },
+    {
+      "id": "number_of_candidates_selected_ur",
+      "name": "Number of Candidates Selected UR",
+      "type": "double"
+    },
+    {
+      "id": "_number_of_candidates_selected_sc",
+      "name": " Number of Candidates Selected SC",
+      "type": "double"
+    },
+    {
+      "id": "number_of_candidates_selected_st",
+      "name": "Number of Candidates Selected ST",
+      "type": "double"
+    },
+    {
+      "id": "number_of_candidates_selected__obc",
+      "name": "Number of Candidates Selected  OBC",
+      "type": "double"
+    },
+    {
+      "id": "number_of_candidates_selected__total",
+      "name": "Number of Candidates Selected  TOTAL",
+      "type": "double"
+    }
+  ],
+  "external_ws_url": "",
+  "external_ws": "0",
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 3,
+  "count": 3,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "sl_no": "1",
+      "category": "Assistant Loco Pilot",
+      "number_of_candidates_selected_ur": "231",
+      "_number_of_candidates_selected_sc": "85",
+      "number_of_candidates_selected_st": "35",
+      "number_of_candidates_selected__obc": "74",
+      "number_of_candidates_selected__total": "425"
+    },
+    {
+      "sl_no": "2",
+      "category": "Technician Gr.III",
+      "number_of_candidates_selected_ur": "575",
+      "_number_of_candidates_selected_sc": "294",
+      "number_of_candidates_selected_st": "250",
+      "number_of_candidates_selected__obc": "191",
+      "number_of_candidates_selected__total": "1310"
+    },
+    {
+      "sl_no": "NA",
+      "category": "Total",
+      "number_of_candidates_selected_ur": "806",
+      "_number_of_candidates_selected_sc": "379",
+      "number_of_candidates_selected_st": "285",
+      "number_of_candidates_selected__obc": "265",
+      "number_of_candidates_selected__total": "1735"
+    }
+  ]
+}

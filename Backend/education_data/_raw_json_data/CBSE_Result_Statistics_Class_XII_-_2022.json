@@ -1,0 +1,474 @@
+{
+  "index_name": "ebfb405a-686e-44d2-9f21-f3faef7246dc",
+  "title": "CBSE Result Statistics Class XII - 2022",
+  "desc": "CBSE Result Statistics Class XII - 2022",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Education",
+    "Department of School Education and Literacy",
+    "Central Board of Secondary Education (CBSE)"
+  ],
+  "sector": [
+    "Education"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "8024b93f-df48-4f58-a0ef-a7b4445b5bb9",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1686741546,
+  "updated": 1686741707,
+  "created_date": "2023-06-14T13:19:06Z",
+  "updated_date": "2023-06-14T16:51:47Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "8024b93f-df48-4f58-a0ef-a7b4445b5bb10",
+    "field": "ebfb405a-686e-44d2-9f21-f3faef7246dc"
+  },
+  "field": [
+    {
+      "id": "class_",
+      "name": "Class_",
+      "type": "double"
+    },
+    {
+      "id": "year",
+      "name": "Year",
+      "type": "double"
+    },
+    {
+      "id": "type_",
+      "name": "Type ",
+      "type": "keyword"
+    },
+    {
+      "id": "status",
+      "name": "Status",
+      "type": "keyword"
+    },
+    {
+      "id": "ctsa",
+      "name": "CTSA",
+      "type": "double"
+    },
+    {
+      "id": "govt",
+      "name": "GOVT",
+      "type": "double"
+    },
+    {
+      "id": "govt_aided",
+      "name": "GOVT AIDED",
+      "type": "double"
+    },
+    {
+      "id": "independent",
+      "name": "INDEPENDENT",
+      "type": "double"
+    },
+    {
+      "id": "jnv",
+      "name": "JNV",
+      "type": "double"
+    },
+    {
+      "id": "kv_",
+      "name": "KV_",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 32,
+  "count": 32,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "class_": 12,
+      "year": 2022,
+      "type_": "Ajmer",
+      "status": "Regd.",
+      "ctsa": "0",
+      "govt": 4533,
+      "govt_aided": "0",
+      "independent": 86178,
+      "jnv": 3741,
+      "kv_": 7736
+    },
+    {
+      "class_": 12,
+      "year": 2022,
+      "type_": "Ajmer",
+      "status": "Appd.",
+      "ctsa": "0",
+      "govt": 4524,
+      "govt_aided": "0",
+      "independent": 85839,
+      "jnv": 3730,
+      "kv_": 7725
+    },
+    {
+      "class_": 12,
+      "year": 2022,
+      "type_": "Bhubaneswar",
+      "status": "Regd.",
+      "ctsa": 103,
+      "govt": 7746,
+      "govt_aided": "0",
+      "independent": 69835,
+      "jnv": 3823,
+      "kv_": 11465
+    },
+    {
+      "class_": 12,
+      "year": 2022,
+      "type_": "Bhubaneswar",
+      "status": "Appd.",
+      "ctsa": 101,
+      "govt": 7688,
+      "govt_aided": "0",
+      "independent": 69506,
+      "jnv": 3809,
+      "kv_": 11431
+    },
+    {
+      "class_": 12,
+      "year": 2022,
+      "type_": "Chandigarh",
+      "status": "Regd.",
+      "ctsa": "0",
+      "govt": 13060,
+      "govt_aided": 55,
+      "independent": 89637,
+      "jnv": 2549,
+      "kv_": 5861
+    },
+    {
+      "class_": 12,
+      "year": 2022,
+      "type_": "Chandigarh",
+      "status": "Appd.",
+      "ctsa": "0",
+      "govt": 13025,
+      "govt_aided": 55,
+      "independent": 89317,
+      "jnv": 2537,
+      "kv_": 5844
+    },
+    {
+      "class_": 12,
+      "year": 2022,
+      "type_": "Delhi East",
+      "status": "Regd.",
+      "ctsa": "0",
+      "govt": 100216,
+      "govt_aided": 6420,
+      "independent": 64953,
+      "jnv": 81,
+      "kv_": 6669
+    },
+    {
+      "class_": 12,
+      "year": 2022,
+      "type_": "Delhi East",
+      "status": "Appd.",
+      "ctsa": "0",
+      "govt": 99566,
+      "govt_aided": 6393,
+      "independent": 64774,
+      "jnv": 81,
+      "kv_": 6661
+    },
+    {
+      "class_": 12,
+      "year": 2022,
+      "type_": "Pune",
+      "status": "Regd.",
+      "ctsa": "0",
+      "govt": 1535,
+      "govt_aided": "0",
+      "independent": 22801,
+      "jnv": 1673,
+      "kv_": 4859
+    },
+    {
+      "class_": 12,
+      "year": 2022,
+      "type_": "Pune",
+      "status": "Appd.",
+      "ctsa": "0",
+      "govt": 1534,
+      "govt_aided": "0",
+      "independent": 22742,
+      "jnv": 1662,
+      "kv_": 4849
+    },
+    {
+      "class_": 12,
+      "year": 2022,
+      "type_": "Guwahati",
+      "status": "Regd.",
+      "ctsa": "0",
+      "govt": 20672,
+      "govt_aided": 102,
+      "independent": 20768,
+      "jnv": 4536,
+      "kv_": 6071
+    },
+    {
+      "class_": 12,
+      "year": 2022,
+      "type_": "Guwahati",
+      "status": "Appd.",
+      "ctsa": "0",
+      "govt": 20518,
+      "govt_aided": 101,
+      "independent": 20601,
+      "jnv": 4481,
+      "kv_": 6047
+    },
+    {
+      "class_": 12,
+      "year": 2022,
+      "type_": "Panchkula",
+      "status": "Regd.",
+      "ctsa": 38,
+      "govt": 357,
+      "govt_aided": "0",
+      "independent": 118675,
+      "jnv": 2231,
+      "kv_": 3615
+    },
+    {
+      "class_": 12,
+      "year": 2022,
+      "type_": "Panchkula",
+      "status": "Appd.",
+      "ctsa": 38,
+      "govt": 357,
+      "govt_aided": "0",
+      "independent": 118046,
+      "jnv": 2225,
+      "kv_": 3607
+    },
+    {
+      "class_": 12,
+      "year": 2022,
+      "type_": "Bengaluru",
+      "status": "Regd.",
+      "ctsa": 93,
+      "govt": 70,
+      "govt_aided": "0",
+      "independent": 12262,
+      "jnv": 1901,
+      "kv_": 2363
+    },
+    {
+      "class_": 12,
+      "year": 2022,
+      "type_": "Bengaluru",
+      "status": "Appd.",
+      "ctsa": 92,
+      "govt": 70,
+      "govt_aided": "0",
+      "independent": 12214,
+      "jnv": 1894,
+      "kv_": 2361
+    },
+    {
+      "class_": 12,
+      "year": 2022,
+      "type_": "Bhopal",
+      "status": "Regd.",
+      "ctsa": "0",
+      "govt": 3180,
+      "govt_aided": "0",
+      "independent": 60352,
+      "jnv": 3640,
+      "kv_": 7807
+    },
+    {
+      "class_": 12,
+      "year": 2022,
+      "type_": "Bhopal",
+      "status": "Appd.",
+      "ctsa": "0",
+      "govt": 3138,
+      "govt_aided": "0",
+      "independent": 60136,
+      "jnv": 3629,
+      "kv_": 7794
+    },
+    {
+      "class_": 12,
+      "year": 2022,
+      "type_": "Chennai",
+      "status": "Regd.",
+      "ctsa": "0",
+      "govt": 3565,
+      "govt_aided": "0",
+      "independent": 67799,
+      "jnv": 1646,
+      "kv_": 6713
+    },
+    {
+      "class_": 12,
+      "year": 2022,
+      "type_": "Chennai",
+      "status": "Appd.",
+      "ctsa": "0",
+      "govt": 3552,
+      "govt_aided": "0",
+      "independent": 67700,
+      "jnv": 1642,
+      "kv_": 6701
+    },
+    {
+      "class_": 12,
+      "year": 2022,
+      "type_": "Noida",
+      "status": "Regd.",
+      "ctsa": "0",
+      "govt": 278,
+      "govt_aided": 921,
+      "independent": 100688,
+      "jnv": 1069,
+      "kv_": 4480
+    },
+    {
+      "class_": 12,
+      "year": 2022,
+      "type_": "Noida",
+      "status": "Appd.",
+      "ctsa": "0",
+      "govt": 272,
+      "govt_aided": 920,
+      "independent": 99746,
+      "jnv": 1060,
+      "kv_": 4471
+    },
+    {
+      "class_": 12,
+      "year": 2022,
+      "type_": "Patna",
+      "status": "Regd.",
+      "ctsa": "0",
+      "govt": 84,
+      "govt_aided": "0",
+      "independent": 84716,
+      "jnv": 3714,
+      "kv_": 5409
+    },
+    {
+      "class_": 12,
+      "year": 2022,
+      "type_": "Patna",
+      "status": "Appd.",
+      "ctsa": "0",
+      "govt": 83,
+      "govt_aided": "0",
+      "independent": 83962,
+      "jnv": 3669,
+      "kv_": 5398
+    },
+    {
+      "class_": 12,
+      "year": 2022,
+      "type_": "Prayagraj",
+      "status": "Regd.",
+      "ctsa": "0",
+      "govt": 1336,
+      "govt_aided": "0",
+      "independent": 131729,
+      "jnv": 3184,
+      "kv_": 8680
+    },
+    {
+      "class_": 12,
+      "year": 2022,
+      "type_": "Prayagraj",
+      "status": "Appd.",
+      "ctsa": "0",
+      "govt": 1272,
+      "govt_aided": "0",
+      "independent": 130263,
+      "jnv": 3152,
+      "kv_": 8666
+    },
+    {
+      "class_": 12,
+      "year": 2022,
+      "type_": "Trivandrum",
+      "status": "Regd.",
+      "ctsa": "0",
+      "govt": 82,
+      "govt_aided": "0",
+      "independent": 33500,
+      "jnv": 973,
+      "kv_": 3666
+    },
+    {
+      "class_": 12,
+      "year": 2022,
+      "type_": "Trivandrum",
+      "status": "Appd.",
+      "ctsa": "0",
+      "govt": 82,
+      "govt_aided": "0",
+      "independent": 33462,
+      "jnv": 972,
+      "kv_": 3661
+    },
+    {
+      "class_": 12,
+      "year": 2022,
+      "type_": "Dehradun",
+      "status": "Regd.",
+      "ctsa": 164,
+      "govt": 1555,
+      "govt_aided": 22,
+      "independent": 62473,
+      "jnv": 1120,
+      "kv_": 4312
+    },
+    {
+      "class_": 12,
+      "year": 2022,
+      "type_": "Dehradun",
+      "status": "Appd.",
+      "ctsa": 162,
+      "govt": 1552,
+      "govt_aided": 22,
+      "independent": 62094,
+      "jnv": 1117,
+      "kv_": 4307
+    },
+    {
+      "class_": 12,
+      "year": 2022,
+      "type_": "Delhi West",
+      "status": "Regd.",
+      "ctsa": "0",
+      "govt": 69504,
+      "govt_aided": 7775,
+      "independent": 40461,
+      "jnv": 65,
+      "kv_": 2872
+    },
+    {
+      "class_": 12,
+      "year": 2022,
+      "type_": "Delhi West",
+      "status": "Appd.",
+      "ctsa": "0",
+      "govt": 69109,
+      "govt_aided": 7743,
+      "independent": 40291,
+      "jnv": 65,
+      "kv_": 2872
+    }
+  ]
+}

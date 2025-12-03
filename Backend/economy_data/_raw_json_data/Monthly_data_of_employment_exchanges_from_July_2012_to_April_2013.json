@@ -1,0 +1,143 @@
+{
+  "index_name": "05c95863-884d-4981-a000-8f7d603eb586",
+  "title": "Monthly data of employment exchanges from July 2012 to April 2013",
+  "desc": "Monthly data of employment exchanges from July 2012 to April 2013",
+  "created": 1503292602,
+  "updated": 1543533554,
+  "visualizable": "1",
+  "source": "data.gov.in",
+  "org_type": "Central",
+  "org": [
+    "NITI Aayog"
+  ],
+  "sector": [
+    "Economy"
+  ],
+  "catalog_uuid": "5a69db2f-61cd-4c7d-8b6b-53d88680fac5",
+  "status": "ok",
+  "field": [
+    {
+      "id": "frequencyn_end_of_month_",
+      "name": "Frequencyn(end of Month)",
+      "type": "keyword"
+    },
+    {
+      "id": "number_of_employment_exchanges",
+      "name": "Number of Employment Exchanges",
+      "type": "double"
+    },
+    {
+      "id": "total_no_of_new_registrations",
+      "name": "Total No. of New Registrations",
+      "type": "double"
+    },
+    {
+      "id": "total_no_of_live_registrations",
+      "name": "Total No. of Live Registrations",
+      "type": "double"
+    },
+    {
+      "id": "no_of_vacancies_notified",
+      "name": "No. of Vacancies Notified",
+      "type": "double"
+    },
+    {
+      "id": "no_of_placements_effected",
+      "name": "No. of Placements Effected",
+      "type": "double"
+    }
+  ],
+  "created_date": "2017-08-21T10:46:42Z",
+  "updated_date": "2018-11-30T04:49:14Z",
+  "active": "1",
+  "external_ws_url": "",
+  "external_ws": "0",
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "total": 10,
+  "count": 10,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "frequencyn_end_of_month_": "07/2012",
+      "number_of_employment_exchanges": "956",
+      "total_no_of_new_registrations": "825",
+      "total_no_of_live_registrations": "43797",
+      "no_of_vacancies_notified": "54.6",
+      "no_of_placements_effected": "20.8"
+    },
+    {
+      "frequencyn_end_of_month_": "08/2012",
+      "number_of_employment_exchanges": "956",
+      "total_no_of_new_registrations": "827",
+      "total_no_of_live_registrations": "44385",
+      "no_of_vacancies_notified": "70.4",
+      "no_of_placements_effected": "39.6"
+    },
+    {
+      "frequencyn_end_of_month_": "09/2012",
+      "number_of_employment_exchanges": "956",
+      "total_no_of_new_registrations": "990",
+      "total_no_of_live_registrations": "44708",
+      "no_of_vacancies_notified": "31",
+      "no_of_placements_effected": "22.3"
+    },
+    {
+      "frequencyn_end_of_month_": "10/2012",
+      "number_of_employment_exchanges": "956",
+      "total_no_of_new_registrations": "788",
+      "total_no_of_live_registrations": "44926",
+      "no_of_vacancies_notified": "53.1",
+      "no_of_placements_effected": "43.8"
+    },
+    {
+      "frequencyn_end_of_month_": "11/2012",
+      "number_of_employment_exchanges": "956",
+      "total_no_of_new_registrations": "568",
+      "total_no_of_live_registrations": "44974",
+      "no_of_vacancies_notified": "65.5",
+      "no_of_placements_effected": "55.2"
+    },
+    {
+      "frequencyn_end_of_month_": "12/2012",
+      "number_of_employment_exchanges": "956",
+      "total_no_of_new_registrations": "525",
+      "total_no_of_live_registrations": "44790",
+      "no_of_vacancies_notified": "73.9",
+      "no_of_placements_effected": "66"
+    },
+    {
+      "frequencyn_end_of_month_": "01/2013",
+      "number_of_employment_exchanges": "956",
+      "total_no_of_new_registrations": "300",
+      "total_no_of_live_registrations": "44705",
+      "no_of_vacancies_notified": "37.3",
+      "no_of_placements_effected": "16.7"
+    },
+    {
+      "frequencyn_end_of_month_": "02/2013",
+      "number_of_employment_exchanges": "956",
+      "total_no_of_new_registrations": "286",
+      "total_no_of_live_registrations": "44604",
+      "no_of_vacancies_notified": "26.7",
+      "no_of_placements_effected": "12.7"
+    },
+    {
+      "frequencyn_end_of_month_": "03/2013",
+      "number_of_employment_exchanges": "956",
+      "total_no_of_new_registrations": "331",
+      "total_no_of_live_registrations": "44699",
+      "no_of_vacancies_notified": "32.2",
+      "no_of_placements_effected": "25"
+    },
+    {
+      "frequencyn_end_of_month_": "04/2013",
+      "number_of_employment_exchanges": "956",
+      "total_no_of_new_registrations": "533",
+      "total_no_of_live_registrations": "45307",
+      "no_of_vacancies_notified": "27",
+      "no_of_placements_effected": "15.2"
+    }
+  ]
+}

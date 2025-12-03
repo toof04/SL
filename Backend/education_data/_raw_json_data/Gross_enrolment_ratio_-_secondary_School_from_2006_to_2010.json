@@ -1,0 +1,2238 @@
+{
+  "index_name": "231fabc7-ec68-4210-8d57-1579d056dc9c",
+  "title": "Gross enrolment ratio - secondary School from 2006 to 2010",
+  "desc": "Gross enrolment ratio - secondary School from 2006 to 2010",
+  "org_type": "Central",
+  "org": [
+    "NITI Aayog"
+  ],
+  "sector": [
+    "Education"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "9234f00e-ac80-40d2-b956-b3806fa333f6",
+  "visualizable": "0",
+  "active": "1",
+  "created": 1759235316,
+  "updated": 1759235316,
+  "created_date": "2025-09-30T14:28:36Z",
+  "updated_date": "2025-09-30T14:28:36Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "9234f00e-ac80-40d2-b956-b3806fa333f6",
+    "field": "231fabc7-ec68-4210-8d57-1579d056dc9c"
+  },
+  "field": [
+    {
+      "id": "particulars",
+      "name": "Particulars",
+      "type": "keyword"
+    },
+    {
+      "id": "india__state__uts",
+      "name": "India/ State/ UTs",
+      "type": "keyword"
+    },
+    {
+      "id": "gender",
+      "name": "Gender",
+      "type": "keyword"
+    },
+    {
+      "id": "_2006",
+      "name": "2006",
+      "type": "double"
+    },
+    {
+      "id": "_2007",
+      "name": "2007",
+      "type": "double"
+    },
+    {
+      "id": "_2008",
+      "name": "2008",
+      "type": "double"
+    },
+    {
+      "id": "_2009",
+      "name": "2009",
+      "type": "double"
+    },
+    {
+      "id": "_2010",
+      "name": "2010",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 216,
+  "count": 216,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "India",
+      "gender": "Total",
+      "_2006": 53.27,
+      "_2007": 58.15,
+      "_2008": 60.4,
+      "_2009": 62.9,
+      "_2010": 65
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "India",
+      "gender": "Boy",
+      "_2006": 58.57,
+      "_2007": 62.62,
+      "_2008": 64.8,
+      "_2009": 66.7,
+      "_2010": 69
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "India",
+      "gender": "Girl",
+      "_2006": 47.44,
+      "_2007": 53.23,
+      "_2008": 55.5,
+      "_2009": 58.7,
+      "_2010": 60.8
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Andaman and Nicobar Islands",
+      "gender": "Total",
+      "_2006": 89.71,
+      "_2007": 87.83,
+      "_2008": 74.8,
+      "_2009": 75.6,
+      "_2010": 82.2
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Andaman and Nicobar Islands",
+      "gender": "Boy",
+      "_2006": 89.95,
+      "_2007": 86.03,
+      "_2008": 75.3,
+      "_2009": 76.3,
+      "_2010": 84.7
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Andaman and Nicobar Islands",
+      "gender": "Girl",
+      "_2006": 89.45,
+      "_2007": 89.9,
+      "_2008": 74.3,
+      "_2009": 75,
+      "_2010": 79.7
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Andhra Pradesh",
+      "gender": "Total",
+      "_2006": 58.7,
+      "_2007": 61.21,
+      "_2008": 65.2,
+      "_2009": 67.2,
+      "_2010": 67.2
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Andhra Pradesh",
+      "gender": "Boy",
+      "_2006": 60.33,
+      "_2007": 62.34,
+      "_2008": 65.7,
+      "_2009": 67.5,
+      "_2010": 67.1
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Andhra Pradesh",
+      "gender": "Girl",
+      "_2006": 56.97,
+      "_2007": 60.03,
+      "_2008": 64.6,
+      "_2009": 66.9,
+      "_2010": 67.3
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Arunachal Pradesh",
+      "gender": "Total",
+      "_2006": 62.02,
+      "_2007": 63.11,
+      "_2008": 54.8,
+      "_2009": 55.8,
+      "_2010": 70.6
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Arunachal Pradesh",
+      "gender": "Boy",
+      "_2006": 65.83,
+      "_2007": 65.4,
+      "_2008": 57.4,
+      "_2009": 58.6,
+      "_2010": 73.3
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Arunachal Pradesh",
+      "gender": "Girl",
+      "_2006": 57.87,
+      "_2007": 60.64,
+      "_2008": 52,
+      "_2009": 52.9,
+      "_2010": 67.9
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Assam",
+      "gender": "Total",
+      "_2006": 48.61,
+      "_2007": 44.14,
+      "_2008": 45.3,
+      "_2009": 49.4,
+      "_2010": 49.5
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Assam",
+      "gender": "Boy",
+      "_2006": 52.84,
+      "_2007": 46.29,
+      "_2008": 48.2,
+      "_2009": 51.9,
+      "_2010": 52
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Assam",
+      "gender": "Girl",
+      "_2006": 44.13,
+      "_2007": 41.86,
+      "_2008": 42.2,
+      "_2009": 46.8,
+      "_2010": 46.9
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Bihar",
+      "gender": "Total",
+      "_2006": 24.42,
+      "_2007": 28.08,
+      "_2008": 31.6,
+      "_2009": 35.2,
+      "_2010": 41.8
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Bihar",
+      "gender": "Boy",
+      "_2006": 30.6,
+      "_2007": 34.24,
+      "_2008": 37,
+      "_2009": 39.9,
+      "_2010": 46.3
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Bihar",
+      "gender": "Girl",
+      "_2006": 17.44,
+      "_2007": 21.21,
+      "_2008": 25.7,
+      "_2009": 30,
+      "_2010": 37
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Chandigarh",
+      "gender": "Total",
+      "_2006": 66.8,
+      "_2007": 69.71,
+      "_2008": 59.7,
+      "_2009": 63.3,
+      "_2010": 63.5
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Chandigarh",
+      "gender": "Boy",
+      "_2006": 64.32,
+      "_2007": 69.63,
+      "_2008": 59.1,
+      "_2009": 62.7,
+      "_2010": 69.3
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Chandigarh",
+      "gender": "Girl",
+      "_2006": 69.93,
+      "_2007": 69.81,
+      "_2008": 60.4,
+      "_2009": 64,
+      "_2010": 57.7
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Chhattisgarh",
+      "gender": "Total",
+      "_2006": 44.29,
+      "_2007": 45.71,
+      "_2008": 69.4,
+      "_2009": 51.5,
+      "_2010": 61.3
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Chhattisgarh",
+      "gender": "Boy",
+      "_2006": 49.38,
+      "_2007": 50.94,
+      "_2008": 74.4,
+      "_2009": 55.5,
+      "_2010": 63.6
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Chhattisgarh",
+      "gender": "Girl",
+      "_2006": 39,
+      "_2007": 40.29,
+      "_2008": 64.1,
+      "_2009": 47.3,
+      "_2010": 58.9
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Dadra and Nagar Haveli",
+      "gender": "Total",
+      "_2006": 52.81,
+      "_2007": 61.05,
+      "_2008": 46.6,
+      "_2009": 59.7,
+      "_2010": 71.2
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Dadra and Nagar Haveli",
+      "gender": "Boy",
+      "_2006": 61.1,
+      "_2007": 73,
+      "_2008": 50.1,
+      "_2009": 62.6,
+      "_2010": 72.1
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Dadra and Nagar Haveli",
+      "gender": "Girl",
+      "_2006": 43.67,
+      "_2007": 49.1,
+      "_2008": 42,
+      "_2009": 56,
+      "_2010": 69.9
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Daman and Diu",
+      "gender": "Total",
+      "_2006": 86.25,
+      "_2007": 95.32,
+      "_2008": 61.1,
+      "_2009": 61.9,
+      "_2010": 62.9
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Daman and Diu",
+      "gender": "Boy",
+      "_2006": 85.11,
+      "_2007": 79.13,
+      "_2008": 57.8,
+      "_2009": 57.9,
+      "_2010": 60.7
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Daman and Diu",
+      "gender": "Girl",
+      "_2006": 87.51,
+      "_2007": 119.6,
+      "_2008": 65,
+      "_2009": 66.7,
+      "_2010": 65.7
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Delhi",
+      "gender": "Total",
+      "_2006": 66.14,
+      "_2007": 67.34,
+      "_2008": 73.9,
+      "_2009": 80.8,
+      "_2010": 100.2
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Delhi",
+      "gender": "Boy",
+      "_2006": 65.2,
+      "_2007": 66.22,
+      "_2008": 74.4,
+      "_2009": 81.9,
+      "_2010": 101.9
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Delhi",
+      "gender": "Girl",
+      "_2006": 67.24,
+      "_2007": 68.68,
+      "_2008": 73.3,
+      "_2009": 79.6,
+      "_2010": 98.4
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Goa",
+      "gender": "Total",
+      "_2006": 74.77,
+      "_2007": 75.6,
+      "_2008": 72.2,
+      "_2009": 71,
+      "_2010": 66.3
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Goa",
+      "gender": "Boy",
+      "_2006": 75.56,
+      "_2007": 76.83,
+      "_2008": 71.4,
+      "_2009": 71.4,
+      "_2010": 67.8
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Goa",
+      "gender": "Girl",
+      "_2006": 73.99,
+      "_2007": 74.36,
+      "_2008": 73,
+      "_2009": 70.6,
+      "_2010": 64.7
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Gujarat",
+      "gender": "Total",
+      "_2006": 54.69,
+      "_2007": 57.64,
+      "_2008": 58.3,
+      "_2009": 60.3,
+      "_2010": 64.3
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Gujarat",
+      "gender": "Boy",
+      "_2006": 60.94,
+      "_2007": 64.48,
+      "_2008": 66.7,
+      "_2009": 67.5,
+      "_2010": 71.3
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Gujarat",
+      "gender": "Girl",
+      "_2006": 47.6,
+      "_2007": 49.89,
+      "_2008": 48.8,
+      "_2009": 52.3,
+      "_2010": 56.5
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Haryana",
+      "gender": "Total",
+      "_2006": 56.35,
+      "_2007": 60.02,
+      "_2008": 59.7,
+      "_2009": 65.4,
+      "_2010": 65.7
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Haryana",
+      "gender": "Boy",
+      "_2006": 55.41,
+      "_2007": 60.27,
+      "_2008": 54.6,
+      "_2009": 60.4,
+      "_2010": 60.8
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Haryana",
+      "gender": "Girl",
+      "_2006": 57.46,
+      "_2007": 59.72,
+      "_2008": 65.6,
+      "_2009": 71.3,
+      "_2010": 71.4
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Himachal Pradesh",
+      "gender": "Total",
+      "_2006": 96.06,
+      "_2007": 97.48,
+      "_2008": 99.3,
+      "_2009": 89.1,
+      "_2010": 101.7
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Himachal Pradesh",
+      "gender": "Boy",
+      "_2006": 97.16,
+      "_2007": 98.4,
+      "_2008": 100.4,
+      "_2009": 85.7,
+      "_2010": 102.4
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Himachal Pradesh",
+      "gender": "Girl",
+      "_2006": 94.86,
+      "_2007": 96.49,
+      "_2008": 98.1,
+      "_2009": 92.9,
+      "_2010": 101
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Jammu and Kashmir",
+      "gender": "Total",
+      "_2006": 43.15,
+      "_2007": 44.06,
+      "_2008": 64.1,
+      "_2009": 64.6,
+      "_2010": 65.1
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Jammu and Kashmir",
+      "gender": "Boy",
+      "_2006": 47.45,
+      "_2007": 48.41,
+      "_2008": 67.5,
+      "_2009": 66.6,
+      "_2010": 66.8
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Jammu and Kashmir",
+      "gender": "Girl",
+      "_2006": 38.57,
+      "_2007": 39.41,
+      "_2008": 60.4,
+      "_2009": 62.5,
+      "_2010": 63.2
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Jharkhand",
+      "gender": "Total",
+      "_2006": 26.07,
+      "_2007": 29.75,
+      "_2008": 29.1,
+      "_2009": 33.9,
+      "_2010": 45.3
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Jharkhand",
+      "gender": "Boy",
+      "_2006": 30.35,
+      "_2007": 34.06,
+      "_2008": 33.4,
+      "_2009": 35.7,
+      "_2010": 47.4
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Jharkhand",
+      "gender": "Girl",
+      "_2006": 21.45,
+      "_2007": 25.14,
+      "_2008": 24.5,
+      "_2009": 32,
+      "_2010": 43.1
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Karnataka",
+      "gender": "Total",
+      "_2006": 65.73,
+      "_2007": 68.09,
+      "_2008": 68.4,
+      "_2009": 72,
+      "_2010": 73.3
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Karnataka",
+      "gender": "Boy",
+      "_2006": 67.3,
+      "_2007": 69.14,
+      "_2008": 69.4,
+      "_2009": 73,
+      "_2010": 74
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Karnataka",
+      "gender": "Girl",
+      "_2006": 64.07,
+      "_2007": 66.99,
+      "_2008": 67.3,
+      "_2009": 71,
+      "_2010": 72.5
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Kerala",
+      "gender": "Total",
+      "_2006": 92.93,
+      "_2007": 92.54,
+      "_2008": 93.5,
+      "_2009": 97.6,
+      "_2010": 100.6
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Kerala",
+      "gender": "Boy",
+      "_2006": 92.76,
+      "_2007": 91.98,
+      "_2008": 93.7,
+      "_2009": 98.3,
+      "_2010": 101.6
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Kerala",
+      "gender": "Girl",
+      "_2006": 93.11,
+      "_2007": 93.11,
+      "_2008": 93.3,
+      "_2009": 96.8,
+      "_2010": 99.7
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Lakshadweep",
+      "gender": "Total",
+      "_2006": 51.24,
+      "_2007": 49.82,
+      "_2008": 81.1,
+      "_2009": 78.8,
+      "_2010": 73.5
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Lakshadweep",
+      "gender": "Boy",
+      "_2006": 51.52,
+      "_2007": 43.77,
+      "_2008": 80.5,
+      "_2009": 78.1,
+      "_2010": 71
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Lakshadweep",
+      "gender": "Girl",
+      "_2006": 50.94,
+      "_2007": 58.9,
+      "_2008": 81.6,
+      "_2009": 79.6,
+      "_2010": 76.1
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Madhya Pradesh",
+      "gender": "Total",
+      "_2006": 52.95,
+      "_2007": 59.61,
+      "_2008": 61.9,
+      "_2009": 63.7,
+      "_2010": 67
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Madhya Pradesh",
+      "gender": "Boy",
+      "_2006": 63.17,
+      "_2007": 70.57,
+      "_2008": 73,
+      "_2009": 75.9,
+      "_2010": 80.4
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Madhya Pradesh",
+      "gender": "Girl",
+      "_2006": 41.57,
+      "_2007": 47.51,
+      "_2008": 49.8,
+      "_2009": 50.5,
+      "_2010": 52.8
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Maharashtra",
+      "gender": "Total",
+      "_2006": 69.56,
+      "_2007": 69.41,
+      "_2008": 70.8,
+      "_2009": 72.8,
+      "_2010": 73.7
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Maharashtra",
+      "gender": "Boy",
+      "_2006": 70.37,
+      "_2007": 71.29,
+      "_2008": 73.2,
+      "_2009": 75.8,
+      "_2010": 76
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Maharashtra",
+      "gender": "Girl",
+      "_2006": 68.65,
+      "_2007": 67.33,
+      "_2008": 68.1,
+      "_2009": 69.5,
+      "_2010": 71.2
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Manipur",
+      "gender": "Total",
+      "_2006": 76.45,
+      "_2007": 77.22,
+      "_2008": 81.7,
+      "_2009": 84.8,
+      "_2010": 81.8
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Manipur",
+      "gender": "Boy",
+      "_2006": 76.4,
+      "_2007": 77.02,
+      "_2008": 82.2,
+      "_2009": 83.6,
+      "_2010": 83.5
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Manipur",
+      "gender": "Girl",
+      "_2006": 76.5,
+      "_2007": 77.43,
+      "_2008": 81.2,
+      "_2009": 86.1,
+      "_2010": 80.1
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Meghalaya",
+      "gender": "Total",
+      "_2006": 50.62,
+      "_2007": 51.39,
+      "_2008": 41.9,
+      "_2009": 42.4,
+      "_2010": 49.5
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Meghalaya",
+      "gender": "Boy",
+      "_2006": 48.65,
+      "_2007": 49.14,
+      "_2008": 39.3,
+      "_2009": 40,
+      "_2010": 49
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Meghalaya",
+      "gender": "Girl",
+      "_2006": 52.65,
+      "_2007": 53.72,
+      "_2008": 44.5,
+      "_2009": 44.9,
+      "_2010": 49.9
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Mizoram",
+      "gender": "Total",
+      "_2006": 68.19,
+      "_2007": 68.63,
+      "_2008": 70.4,
+      "_2009": 75.9,
+      "_2010": 76.8
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Mizoram",
+      "gender": "Boy",
+      "_2006": 66.9,
+      "_2007": 67.07,
+      "_2008": 69.9,
+      "_2009": 74.7,
+      "_2010": 75.4
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Mizoram",
+      "gender": "Girl",
+      "_2006": 69.54,
+      "_2007": 70.27,
+      "_2008": 70.9,
+      "_2009": 77.2,
+      "_2010": 78.3
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Nagaland",
+      "gender": "Total",
+      "_2006": 31.14,
+      "_2007": 28.57,
+      "_2008": 30.4,
+      "_2009": 30.4,
+      "_2010": 28.4
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Nagaland",
+      "gender": "Boy",
+      "_2006": 29.68,
+      "_2007": 27.24,
+      "_2008": 29.4,
+      "_2009": 29.5,
+      "_2010": 27.4
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Nagaland",
+      "gender": "Girl",
+      "_2006": 32.78,
+      "_2007": 30.05,
+      "_2008": 31.4,
+      "_2009": 31.3,
+      "_2010": 29.5
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Odisha",
+      "gender": "Total",
+      "_2006": 52.74,
+      "_2007": 53.77,
+      "_2008": 53.4,
+      "_2009": 55.6,
+      "_2010": 58.8
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Odisha",
+      "gender": "Boy",
+      "_2006": 56.4,
+      "_2007": 56.85,
+      "_2008": 57,
+      "_2009": 57.9,
+      "_2010": 60.7
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Odisha",
+      "gender": "Girl",
+      "_2006": 48.94,
+      "_2007": 50.56,
+      "_2008": 49.6,
+      "_2009": 53.1,
+      "_2010": 56.8
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Puducherry",
+      "gender": "Total",
+      "_2006": 105.18,
+      "_2007": 105.77,
+      "_2008": 95.3,
+      "_2009": 94,
+      "_2010": 97.4
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Puducherry",
+      "gender": "Boy",
+      "_2006": 102.75,
+      "_2007": 104.53,
+      "_2008": 96,
+      "_2009": 93.2,
+      "_2010": 98.3
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Puducherry",
+      "gender": "Girl",
+      "_2006": 107.86,
+      "_2007": 107.08,
+      "_2008": 94.6,
+      "_2009": 94.8,
+      "_2010": 96.5
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Punjab",
+      "gender": "Total",
+      "_2006": 48.95,
+      "_2007": 46.95,
+      "_2008": 55.9,
+      "_2009": 54.9,
+      "_2010": 65.2
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Punjab",
+      "gender": "Boy",
+      "_2006": 49.86,
+      "_2007": 45.54,
+      "_2008": 55.5,
+      "_2009": 53.9,
+      "_2010": 64.8
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Punjab",
+      "gender": "Girl",
+      "_2006": 47.86,
+      "_2007": 48.65,
+      "_2008": 56.3,
+      "_2009": 56.1,
+      "_2010": 65.8
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Rajasthan",
+      "gender": "Total",
+      "_2006": 48.61,
+      "_2007": 54.04,
+      "_2008": 56.5,
+      "_2009": 57.9,
+      "_2010": 61.8
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Rajasthan",
+      "gender": "Boy",
+      "_2006": 60.93,
+      "_2007": 66.68,
+      "_2008": 69.1,
+      "_2009": 69.3,
+      "_2010": 72.4
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Rajasthan",
+      "gender": "Girl",
+      "_2006": 34.74,
+      "_2007": 39.87,
+      "_2008": 42.5,
+      "_2009": 45.3,
+      "_2010": 50.1
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Sikkim",
+      "gender": "Total",
+      "_2006": 42.67,
+      "_2007": 44.75,
+      "_2008": 46.8,
+      "_2009": 50.7,
+      "_2010": 47.6
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Sikkim",
+      "gender": "Boy",
+      "_2006": 41.46,
+      "_2007": 44.36,
+      "_2008": 45.2,
+      "_2009": 47.1,
+      "_2010": 44.9
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Sikkim",
+      "gender": "Girl",
+      "_2006": 43.9,
+      "_2007": 45.13,
+      "_2008": 48.4,
+      "_2009": 54.3,
+      "_2010": 50.3
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Tamil Nadu",
+      "gender": "Total",
+      "_2006": 86.72,
+      "_2007": 90.79,
+      "_2008": 81.1,
+      "_2009": 82.1,
+      "_2010": 82.3
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Tamil Nadu",
+      "gender": "Boy",
+      "_2006": 86.97,
+      "_2007": 90.87,
+      "_2008": 81.3,
+      "_2009": 80.6,
+      "_2010": 81.4
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Tamil Nadu",
+      "gender": "Girl",
+      "_2006": 86.46,
+      "_2007": 90.71,
+      "_2008": 80.8,
+      "_2009": 83.8,
+      "_2010": 83.3
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Tripura",
+      "gender": "Total",
+      "_2006": 58.61,
+      "_2007": 59.86,
+      "_2008": 64,
+      "_2009": 73.4,
+      "_2010": 73.1
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Tripura",
+      "gender": "Boy",
+      "_2006": 60.6,
+      "_2007": 59.94,
+      "_2008": 65,
+      "_2009": 73.8,
+      "_2010": 73
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Tripura",
+      "gender": "Girl",
+      "_2006": 56.51,
+      "_2007": 59.78,
+      "_2008": 62.9,
+      "_2009": 73.1,
+      "_2010": 73.3
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Uttar Pradesh",
+      "gender": "Total",
+      "_2006": 48.6,
+      "_2007": 64.27,
+      "_2008": 68.2,
+      "_2009": 72.4,
+      "_2010": 68.1
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Uttar Pradesh",
+      "gender": "Boy",
+      "_2006": 59.37,
+      "_2007": 70.53,
+      "_2008": 74.4,
+      "_2009": 79.3,
+      "_2010": 75
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Uttar Pradesh",
+      "gender": "Girl",
+      "_2006": 36.28,
+      "_2007": 57.17,
+      "_2008": 61.2,
+      "_2009": 64.7,
+      "_2010": 60.4
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Uttarakhand",
+      "gender": "Total",
+      "_2006": 80.33,
+      "_2007": 83.87,
+      "_2008": 84.7,
+      "_2009": 83.8,
+      "_2010": 87
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Uttarakhand",
+      "gender": "Boy",
+      "_2006": 86.21,
+      "_2007": 92.34,
+      "_2008": 85.4,
+      "_2009": 87.2,
+      "_2010": 89
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "Uttarakhand",
+      "gender": "Girl",
+      "_2006": 73.92,
+      "_2007": 75.01,
+      "_2008": 84,
+      "_2009": 80,
+      "_2010": 84.8
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "West Bengal",
+      "gender": "Total",
+      "_2006": 44.55,
+      "_2007": 47.91,
+      "_2008": 49,
+      "_2009": 54.9,
+      "_2010": 59
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "West Bengal",
+      "gender": "Boy",
+      "_2006": 48.96,
+      "_2007": 51.29,
+      "_2008": 52.7,
+      "_2009": 52.8,
+      "_2010": 58.3
+    },
+    {
+      "particulars": "Lower Secondary School",
+      "india__state__uts": "West Bengal",
+      "gender": "Girl",
+      "_2006": 39.86,
+      "_2007": 44.34,
+      "_2008": 45,
+      "_2009": 57,
+      "_2010": 59.7
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "India",
+      "gender": "Total",
+      "_2006": 28.96,
+      "_2007": 33.48,
+      "_2008": 34.5,
+      "_2009": 36.1,
+      "_2010": 39.3
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "India",
+      "gender": "Boy",
+      "_2006": 31.53,
+      "_2007": 36.26,
+      "_2008": 37.2,
+      "_2009": 38.5,
+      "_2010": 42.2
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "India",
+      "gender": "Girl",
+      "_2006": 26.09,
+      "_2007": 30.4,
+      "_2008": 31.6,
+      "_2009": 33.5,
+      "_2010": 36.1
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Andaman and Nicobar Islands",
+      "gender": "Total",
+      "_2006": 28.65,
+      "_2007": 30.91,
+      "_2008": 51.3,
+      "_2009": 54.7,
+      "_2010": 57.7
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Andaman and Nicobar Islands",
+      "gender": "Boy",
+      "_2006": 26.84,
+      "_2007": 29.89,
+      "_2008": 47.1,
+      "_2009": 50.5,
+      "_2010": 54.9
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Andaman and Nicobar Islands",
+      "gender": "Girl",
+      "_2006": 30.65,
+      "_2007": 32.01,
+      "_2008": 56.2,
+      "_2009": 59.6,
+      "_2010": 61
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Andhra Pradesh",
+      "gender": "Total",
+      "_2006": 40.8,
+      "_2007": 42.04,
+      "_2008": 43.6,
+      "_2009": 44,
+      "_2010": 47.5
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Andhra Pradesh",
+      "gender": "Boy",
+      "_2006": 45.96,
+      "_2007": 46.44,
+      "_2008": 47,
+      "_2009": 47.4,
+      "_2010": 50.1
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Andhra Pradesh",
+      "gender": "Girl",
+      "_2006": 35.3,
+      "_2007": 37.37,
+      "_2008": 40.1,
+      "_2009": 40.3,
+      "_2010": 44.9
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Arunachal Pradesh",
+      "gender": "Total",
+      "_2006": 30.66,
+      "_2007": 35.15,
+      "_2008": 29.2,
+      "_2009": 33.1,
+      "_2010": 47.5
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Arunachal Pradesh",
+      "gender": "Boy",
+      "_2006": 35.45,
+      "_2007": 38.96,
+      "_2008": 31.5,
+      "_2009": 34.8,
+      "_2010": 49.1
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Arunachal Pradesh",
+      "gender": "Girl",
+      "_2006": 25.47,
+      "_2007": 31.03,
+      "_2008": 26.8,
+      "_2009": 31.3,
+      "_2010": 45.7
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Assam",
+      "gender": "Total",
+      "_2006": 14.38,
+      "_2007": 10.67,
+      "_2008": 11.7,
+      "_2009": 13.1,
+      "_2010": 16.4
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Assam",
+      "gender": "Boy",
+      "_2006": 17.37,
+      "_2007": 12.05,
+      "_2008": 13.2,
+      "_2009": 13.6,
+      "_2010": 18.2
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Assam",
+      "gender": "Girl",
+      "_2006": 11.16,
+      "_2007": 9.19,
+      "_2008": 10.1,
+      "_2009": 12.6,
+      "_2010": 14.6
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Bihar",
+      "gender": "Total",
+      "_2006": 11.19,
+      "_2007": 11.4,
+      "_2008": 12.4,
+      "_2009": 15.5,
+      "_2010": 21.2
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Bihar",
+      "gender": "Boy",
+      "_2006": 13.13,
+      "_2007": 13.8,
+      "_2008": 14.7,
+      "_2009": 17.4,
+      "_2010": 24.1
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Bihar",
+      "gender": "Girl",
+      "_2006": 8.94,
+      "_2007": 8.64,
+      "_2008": 9.8,
+      "_2009": 13.3,
+      "_2010": 18
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Chandigarh",
+      "gender": "Total",
+      "_2006": 49.33,
+      "_2007": 53.69,
+      "_2008": 66.8,
+      "_2009": 68.6,
+      "_2010": 65.2
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Chandigarh",
+      "gender": "Boy",
+      "_2006": 48.34,
+      "_2007": 52.74,
+      "_2008": 63.6,
+      "_2009": 66.3,
+      "_2010": 62.6
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Chandigarh",
+      "gender": "Girl",
+      "_2006": 50.55,
+      "_2007": 54.87,
+      "_2008": 71,
+      "_2009": 71.6,
+      "_2010": 68.5
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Chhattisgarh",
+      "gender": "Total",
+      "_2006": 23.04,
+      "_2007": 23.31,
+      "_2008": 28.3,
+      "_2009": 29.3,
+      "_2010": 33.5
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Chhattisgarh",
+      "gender": "Boy",
+      "_2006": 27.55,
+      "_2007": 27.95,
+      "_2008": 31.6,
+      "_2009": 32.9,
+      "_2010": 36.9
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Chhattisgarh",
+      "gender": "Girl",
+      "_2006": 18.28,
+      "_2007": 18.45,
+      "_2008": 24.7,
+      "_2009": 25.5,
+      "_2010": 30
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Dadra and Nagar Haveli",
+      "gender": "Total",
+      "_2006": 22.58,
+      "_2007": 35.97,
+      "_2008": 41.7,
+      "_2009": 31.9,
+      "_2010": 33.4
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Dadra and Nagar Haveli",
+      "gender": "Boy",
+      "_2006": 28.19,
+      "_2007": 45.78,
+      "_2008": 45.6,
+      "_2009": 33.7,
+      "_2010": 35.2
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Dadra and Nagar Haveli",
+      "gender": "Girl",
+      "_2006": 16.34,
+      "_2007": 26.16,
+      "_2008": 36.7,
+      "_2009": 29.8,
+      "_2010": 31
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Daman and Diu",
+      "gender": "Total",
+      "_2006": 54.45,
+      "_2007": 54.52,
+      "_2008": 35.3,
+      "_2009": 36.3,
+      "_2010": 36.4
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Daman and Diu",
+      "gender": "Boy",
+      "_2006": 57.35,
+      "_2007": 47.97,
+      "_2008": 30.7,
+      "_2009": 31.9,
+      "_2010": 32.7
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Daman and Diu",
+      "gender": "Girl",
+      "_2006": 51.22,
+      "_2007": 64.35,
+      "_2008": 42,
+      "_2009": 42.8,
+      "_2010": 42
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Delhi",
+      "gender": "Total",
+      "_2006": 46.52,
+      "_2007": 47.12,
+      "_2008": 53.9,
+      "_2009": 58.7,
+      "_2010": 64.7
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Delhi",
+      "gender": "Boy",
+      "_2006": 46.03,
+      "_2007": 46.67,
+      "_2008": 54.2,
+      "_2009": 59.1,
+      "_2010": 65.1
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Delhi",
+      "gender": "Girl",
+      "_2006": 47.09,
+      "_2007": 47.64,
+      "_2008": 53.6,
+      "_2009": 58.3,
+      "_2010": 64.2
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Goa",
+      "gender": "Total",
+      "_2006": 40.1,
+      "_2007": 44.12,
+      "_2008": 54,
+      "_2009": 54.5,
+      "_2010": 58.2
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Goa",
+      "gender": "Boy",
+      "_2006": 39.67,
+      "_2007": 43.2,
+      "_2008": 51.7,
+      "_2009": 53,
+      "_2010": 57.2
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Goa",
+      "gender": "Girl",
+      "_2006": 40.55,
+      "_2007": 45.08,
+      "_2008": 56.4,
+      "_2009": 56.1,
+      "_2010": 59.2
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Gujarat",
+      "gender": "Total",
+      "_2006": 27.75,
+      "_2007": 27.71,
+      "_2008": 35.4,
+      "_2009": 35.6,
+      "_2010": 36.9
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Gujarat",
+      "gender": "Boy",
+      "_2006": 30.69,
+      "_2007": 30.1,
+      "_2008": 38.7,
+      "_2009": 38.4,
+      "_2010": 40
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Gujarat",
+      "gender": "Girl",
+      "_2006": 24.42,
+      "_2007": 25,
+      "_2008": 31.7,
+      "_2009": 32.5,
+      "_2010": 33.5
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Haryana",
+      "gender": "Total",
+      "_2006": 35.62,
+      "_2007": 42.11,
+      "_2008": 42.8,
+      "_2009": 59.7,
+      "_2010": 59.9
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Haryana",
+      "gender": "Boy",
+      "_2006": 37.78,
+      "_2007": 44.44,
+      "_2008": 41.5,
+      "_2009": 59.6,
+      "_2010": 60
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Haryana",
+      "gender": "Girl",
+      "_2006": 33.06,
+      "_2007": 39.34,
+      "_2008": 44.4,
+      "_2009": 59.8,
+      "_2010": 59.9
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Himachal Pradesh",
+      "gender": "Total",
+      "_2006": 62.06,
+      "_2007": 61.31,
+      "_2008": 62.6,
+      "_2009": 69.3,
+      "_2010": 77.7
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Himachal Pradesh",
+      "gender": "Boy",
+      "_2006": 68.01,
+      "_2007": 65.07,
+      "_2008": 66.5,
+      "_2009": 68.5,
+      "_2010": 78.4
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Himachal Pradesh",
+      "gender": "Girl",
+      "_2006": 55.69,
+      "_2007": 57.27,
+      "_2008": 58.4,
+      "_2009": 70,
+      "_2010": 76.9
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Jammu and Kashmir",
+      "gender": "Total",
+      "_2006": 27.47,
+      "_2007": 27.91,
+      "_2008": 44.3,
+      "_2009": 41.9,
+      "_2010": 42
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Jammu and Kashmir",
+      "gender": "Boy",
+      "_2006": 29.56,
+      "_2007": 30.04,
+      "_2008": 46.6,
+      "_2009": 42.9,
+      "_2010": 42.9
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Jammu and Kashmir",
+      "gender": "Girl",
+      "_2006": 25.25,
+      "_2007": 25.64,
+      "_2008": 41.9,
+      "_2009": 40.7,
+      "_2010": 40.9
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Jharkhand",
+      "gender": "Total",
+      "_2006": 3.48,
+      "_2007": 6.86,
+      "_2008": 6.7,
+      "_2009": 7.4,
+      "_2010": 12.6
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Jharkhand",
+      "gender": "Boy",
+      "_2006": 4.07,
+      "_2007": 7.68,
+      "_2008": 7.5,
+      "_2009": 7.8,
+      "_2010": 13.3
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Jharkhand",
+      "gender": "Girl",
+      "_2006": 2.84,
+      "_2007": 5.97,
+      "_2008": 5.8,
+      "_2009": 7,
+      "_2010": 11.8
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Karnataka",
+      "gender": "Total",
+      "_2006": 38.1,
+      "_2007": 41.32,
+      "_2008": 41.2,
+      "_2009": 42.5,
+      "_2010": 42.8
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Karnataka",
+      "gender": "Boy",
+      "_2006": 39.45,
+      "_2007": 41.86,
+      "_2008": 40.5,
+      "_2009": 41.6,
+      "_2010": 41.9
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Karnataka",
+      "gender": "Girl",
+      "_2006": 36.66,
+      "_2007": 40.74,
+      "_2008": 41.8,
+      "_2009": 43.4,
+      "_2010": 43.6
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Kerala",
+      "gender": "Total",
+      "_2006": 51.8,
+      "_2007": 47.99,
+      "_2008": 58.2,
+      "_2009": 65,
+      "_2010": 68
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Kerala",
+      "gender": "Boy",
+      "_2006": 47.22,
+      "_2007": 43.01,
+      "_2008": 53.4,
+      "_2009": 60.1,
+      "_2010": 64.1
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Kerala",
+      "gender": "Girl",
+      "_2006": 56.54,
+      "_2007": 53.14,
+      "_2008": 63,
+      "_2009": 69.9,
+      "_2010": 72.1
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Lakshadweep",
+      "gender": "Total",
+      "_2006": 38.2,
+      "_2007": 40.92,
+      "_2008": 77.8,
+      "_2009": 86.2,
+      "_2010": 81.1
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Lakshadweep",
+      "gender": "Boy",
+      "_2006": 33.02,
+      "_2007": 33.73,
+      "_2008": 79.2,
+      "_2009": 85.4,
+      "_2010": 76.7
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Lakshadweep",
+      "gender": "Girl",
+      "_2006": 45.11,
+      "_2007": 51.7,
+      "_2008": 76.4,
+      "_2009": 87,
+      "_2010": 85.7
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Madhya Pradesh",
+      "gender": "Total",
+      "_2006": 31.02,
+      "_2007": 35.41,
+      "_2008": 38,
+      "_2009": 39.5,
+      "_2010": 46.3
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Madhya Pradesh",
+      "gender": "Boy",
+      "_2006": 36.59,
+      "_2007": 41.96,
+      "_2008": 45,
+      "_2009": 47.2,
+      "_2010": 54.4
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Madhya Pradesh",
+      "gender": "Girl",
+      "_2006": 24.69,
+      "_2007": 28.06,
+      "_2008": 30.2,
+      "_2009": 31.1,
+      "_2010": 37.5
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Maharashtra",
+      "gender": "Total",
+      "_2006": 41.75,
+      "_2007": 43.82,
+      "_2008": 50.2,
+      "_2009": 55.3,
+      "_2010": 56.4
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Maharashtra",
+      "gender": "Boy",
+      "_2006": 45.46,
+      "_2007": 47.1,
+      "_2008": 53.9,
+      "_2009": 59.6,
+      "_2010": 61.3
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Maharashtra",
+      "gender": "Girl",
+      "_2006": 37.6,
+      "_2007": 40.15,
+      "_2008": 46.1,
+      "_2009": 50.6,
+      "_2010": 51.1
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Manipur",
+      "gender": "Total",
+      "_2006": 24.5,
+      "_2007": 24.51,
+      "_2008": 29.2,
+      "_2009": 33.1,
+      "_2010": 35.5
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Manipur",
+      "gender": "Boy",
+      "_2006": 27.27,
+      "_2007": 27.2,
+      "_2008": 31.4,
+      "_2009": 36.8,
+      "_2010": 39
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Manipur",
+      "gender": "Girl",
+      "_2006": 21.69,
+      "_2007": 21.78,
+      "_2008": 26.9,
+      "_2009": 29.4,
+      "_2010": 32.1
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Meghalaya",
+      "gender": "Total",
+      "_2006": 26.89,
+      "_2007": 9.47,
+      "_2008": 13.5,
+      "_2009": 13.5,
+      "_2010": 15.5
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Meghalaya",
+      "gender": "Boy",
+      "_2006": 27.95,
+      "_2007": 8.89,
+      "_2008": 11.8,
+      "_2009": 11.9,
+      "_2010": 13.7
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Meghalaya",
+      "gender": "Girl",
+      "_2006": 25.8,
+      "_2007": 10.07,
+      "_2008": 15.1,
+      "_2009": 15.1,
+      "_2010": 17.3
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Mizoram",
+      "gender": "Total",
+      "_2006": 25.57,
+      "_2007": 27.86,
+      "_2008": 35.8,
+      "_2009": 41.7,
+      "_2010": 40.7
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Mizoram",
+      "gender": "Boy",
+      "_2006": 26.51,
+      "_2007": 28.93,
+      "_2008": 35.9,
+      "_2009": 41.6,
+      "_2010": 41.2
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Mizoram",
+      "gender": "Girl",
+      "_2006": 24.63,
+      "_2007": 26.79,
+      "_2008": 35.7,
+      "_2009": 41.7,
+      "_2010": 40.2
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Nagaland",
+      "gender": "Total",
+      "_2006": 16.61,
+      "_2007": 17.64,
+      "_2008": 19.2,
+      "_2009": 19.2,
+      "_2010": 17.5
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Nagaland",
+      "gender": "Boy",
+      "_2006": 17.22,
+      "_2007": 18.32,
+      "_2008": 20,
+      "_2009": 20.1,
+      "_2010": 18.3
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Nagaland",
+      "gender": "Girl",
+      "_2006": 15.94,
+      "_2007": 16.89,
+      "_2008": 18.3,
+      "_2009": 18.3,
+      "_2010": 16.7
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Odisha",
+      "gender": "Total",
+      "_2006": 30.56,
+      "_2007": 22.77,
+      "_2008": 22.8,
+      "_2009": 22.8,
+      "_2010": 24
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Odisha",
+      "gender": "Boy",
+      "_2006": 34.34,
+      "_2007": 25.43,
+      "_2008": 25.1,
+      "_2009": 25,
+      "_2010": 26.4
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Odisha",
+      "gender": "Girl",
+      "_2006": 26.63,
+      "_2007": 20.02,
+      "_2008": 20.4,
+      "_2009": 20.4,
+      "_2010": 21.6
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Puducherry",
+      "gender": "Total",
+      "_2006": 54.62,
+      "_2007": 59.27,
+      "_2008": 60.7,
+      "_2009": 62.5,
+      "_2010": 60.4
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Puducherry",
+      "gender": "Boy",
+      "_2006": 54.62,
+      "_2007": 59.72,
+      "_2008": 55.4,
+      "_2009": 57.5,
+      "_2010": 55.4
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Puducherry",
+      "gender": "Girl",
+      "_2006": 54.62,
+      "_2007": 58.88,
+      "_2008": 66.2,
+      "_2009": 67.6,
+      "_2010": 65.5
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Punjab",
+      "gender": "Total",
+      "_2006": 31.06,
+      "_2007": 32.04,
+      "_2008": 41.9,
+      "_2009": 35.4,
+      "_2010": 42.2
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Punjab",
+      "gender": "Boy",
+      "_2006": 32.34,
+      "_2007": 32.21,
+      "_2008": 41.7,
+      "_2009": 35.6,
+      "_2010": 42.2
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Punjab",
+      "gender": "Girl",
+      "_2006": 29.53,
+      "_2007": 31.84,
+      "_2008": 42,
+      "_2009": 35.1,
+      "_2010": 42.1
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Rajasthan",
+      "gender": "Total",
+      "_2006": 22.26,
+      "_2007": 24.49,
+      "_2008": 27.3,
+      "_2009": 35.2,
+      "_2010": 41.1
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Rajasthan",
+      "gender": "Boy",
+      "_2006": 28.56,
+      "_2007": 31.14,
+      "_2008": 34.3,
+      "_2009": 43.1,
+      "_2010": 49.9
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Rajasthan",
+      "gender": "Girl",
+      "_2006": 15.1,
+      "_2007": 16.98,
+      "_2008": 19.3,
+      "_2009": 26.4,
+      "_2010": 31.3
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Sikkim",
+      "gender": "Total",
+      "_2006": 24.65,
+      "_2007": 23.15,
+      "_2008": 30.7,
+      "_2009": 33.2,
+      "_2010": 28.6
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Sikkim",
+      "gender": "Boy",
+      "_2006": 24.73,
+      "_2007": 22.41,
+      "_2008": 29.1,
+      "_2009": 31.9,
+      "_2010": 27.6
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Sikkim",
+      "gender": "Girl",
+      "_2006": 24.58,
+      "_2007": 23.89,
+      "_2008": 32.4,
+      "_2009": 34.5,
+      "_2010": 29.5
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Tamil Nadu",
+      "gender": "Total",
+      "_2006": 48.59,
+      "_2007": 53.74,
+      "_2008": 47,
+      "_2009": 49.6,
+      "_2010": 50.4
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Tamil Nadu",
+      "gender": "Boy",
+      "_2006": 45.31,
+      "_2007": 49.82,
+      "_2008": 43.3,
+      "_2009": 44.8,
+      "_2010": 45.1
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Tamil Nadu",
+      "gender": "Girl",
+      "_2006": 52.05,
+      "_2007": 57.86,
+      "_2008": 50.9,
+      "_2009": 54.7,
+      "_2010": 55.9
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Tripura",
+      "gender": "Total",
+      "_2006": 23.51,
+      "_2007": 30.12,
+      "_2008": 31.8,
+      "_2009": 27.4,
+      "_2010": 28.6
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Tripura",
+      "gender": "Boy",
+      "_2006": 27.1,
+      "_2007": 32.59,
+      "_2008": 34.9,
+      "_2009": 30.8,
+      "_2010": 31.9
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Tripura",
+      "gender": "Girl",
+      "_2006": 19.63,
+      "_2007": 27.47,
+      "_2008": 28.5,
+      "_2009": 24,
+      "_2010": 25
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Uttar Pradesh",
+      "gender": "Total",
+      "_2006": 22,
+      "_2007": 41.23,
+      "_2008": 36.4,
+      "_2009": 33.8,
+      "_2010": 35.8
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Uttar Pradesh",
+      "gender": "Boy",
+      "_2006": 24.25,
+      "_2007": 45.22,
+      "_2008": 40.5,
+      "_2009": 36.4,
+      "_2010": 40.2
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Uttar Pradesh",
+      "gender": "Girl",
+      "_2006": 19.38,
+      "_2007": 36.6,
+      "_2008": 31.7,
+      "_2009": 30.9,
+      "_2010": 30.8
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Uttarakhand",
+      "gender": "Total",
+      "_2006": 42.52,
+      "_2007": 45.42,
+      "_2008": 47.1,
+      "_2009": 55.9,
+      "_2010": 58.3
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Uttarakhand",
+      "gender": "Boy",
+      "_2006": 42.91,
+      "_2007": 47.08,
+      "_2008": 47,
+      "_2009": 57.5,
+      "_2010": 59
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "Uttarakhand",
+      "gender": "Girl",
+      "_2006": 42.09,
+      "_2007": 43.78,
+      "_2008": 47.1,
+      "_2009": 54.1,
+      "_2010": 57.4
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "West Bengal",
+      "gender": "Total",
+      "_2006": 24.25,
+      "_2007": 27.21,
+      "_2008": 27.2,
+      "_2009": 27.8,
+      "_2010": 33.3
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "West Bengal",
+      "gender": "Boy",
+      "_2006": 27.99,
+      "_2007": 30.37,
+      "_2008": 30.5,
+      "_2009": 30.4,
+      "_2010": 35
+    },
+    {
+      "particulars": "Senior Secondary School",
+      "india__state__uts": "West Bengal",
+      "gender": "Girl",
+      "_2006": 20.23,
+      "_2007": 23.83,
+      "_2008": 23.7,
+      "_2009": 25,
+      "_2010": 31.6
+    }
+  ]
+}

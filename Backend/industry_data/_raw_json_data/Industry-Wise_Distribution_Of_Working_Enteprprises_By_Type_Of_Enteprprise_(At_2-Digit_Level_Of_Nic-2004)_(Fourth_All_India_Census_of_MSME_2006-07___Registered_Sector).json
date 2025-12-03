@@ -1,0 +1,508 @@
+{
+  "index_name": "7b9a701f-fae5-4ba5-9bbf-136bc443df0b",
+  "title": "Industry-Wise Distribution Of Working Enteprprises By Type Of Enteprprise (At 2-Digit Level Of Nic-2004) (Fourth All India Census of MSME 2006-07 : Registered Sector)",
+  "desc": "Industry-Wise Distribution Of Working Enteprprises By Type Of Enteprprise (At 2-Digit Level Of Nic-2004) (Fourth All India Census of MSME 2006-07 : Registered Sector)",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Micro, Small and Medium Enterprises"
+  ],
+  "sector": [
+    "Industries",
+    "Medium",
+    "Micro",
+    "Small Scale"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "b7664d10-dced-475f-b86c-c47a2204be01",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1668766276,
+  "updated": 1668766231,
+  "created_date": "2022-11-18T11:11:16Z",
+  "updated_date": "2022-11-18T15:40:31Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "b7664d10-dced-475f-b86c-c47a2204be01",
+    "field": "7b9a701f-fae5-4ba5-9bbf-136bc443df0b"
+  },
+  "field": [
+    {
+      "id": "sl_no_",
+      "name": "Sl.No.",
+      "type": "keyword"
+    },
+    {
+      "id": "nic_2004__",
+      "name": "NIC 2004 *",
+      "type": "keyword"
+    },
+    {
+      "id": "description",
+      "name": "Description",
+      "type": "keyword"
+    },
+    {
+      "id": "micro",
+      "name": "Micro",
+      "type": "double"
+    },
+    {
+      "id": "small",
+      "name": "Small",
+      "type": "double"
+    },
+    {
+      "id": "medium",
+      "name": "Medium",
+      "type": "double"
+    },
+    {
+      "id": "_total",
+      "name": "Total",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 48,
+  "count": 48,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "sl_no_": "1",
+      "nic_2004__": "01",
+      "description": "AGRICULTURE,HUNTING AND RELATED SERVICE ACTIVITIES",
+      "micro": 3697,
+      "small": 162,
+      "medium": 5,
+      "_total": 3864
+    },
+    {
+      "sl_no_": "2",
+      "nic_2004__": "02",
+      "description": "FORESTRY,LOGGING AND RELATED SERVICE ACTIVITIES",
+      "micro": 961,
+      "small": 86,
+      "medium": 3,
+      "_total": 1050
+    },
+    {
+      "sl_no_": "3",
+      "nic_2004__": "13",
+      "description": "MINING OF METAL ORES",
+      "micro": 355,
+      "small": 124,
+      "medium": 5,
+      "_total": 484
+    },
+    {
+      "sl_no_": "4",
+      "nic_2004__": "14",
+      "description": "OTHER MINING AND QUARRYING",
+      "micro": 12349,
+      "small": 997,
+      "medium": 24,
+      "_total": 13370
+    },
+    {
+      "sl_no_": "5",
+      "nic_2004__": "15",
+      "description": "FOOD PRDUCTS & BEVERAGES",
+      "micro": 214378,
+      "small": 8284,
+      "medium": 356,
+      "_total": 223018
+    },
+    {
+      "sl_no_": "6",
+      "nic_2004__": "16",
+      "description": "TOBACCO PRODUCTS",
+      "micro": 4872,
+      "small": 234,
+      "medium": 4,
+      "_total": 5110
+    },
+    {
+      "sl_no_": "7",
+      "nic_2004__": "17",
+      "description": "TEXTILES",
+      "micro": 97597,
+      "small": 8202,
+      "medium": 297,
+      "_total": 106096
+    },
+    {
+      "sl_no_": "8",
+      "nic_2004__": "18",
+      "description": "WEARING APPAREL",
+      "micro": 209630,
+      "small": 3945,
+      "medium": 193,
+      "_total": 213768
+    },
+    {
+      "sl_no_": "9",
+      "nic_2004__": "19",
+      "description": "LEATHER & LEATHER PRODUCTS",
+      "micro": 25628,
+      "small": 926,
+      "medium": 32,
+      "_total": 26586
+    },
+    {
+      "sl_no_": "10",
+      "nic_2004__": "20",
+      "description": "WOOD & WOOD PRODUCTS",
+      "micro": 54034,
+      "small": 1143,
+      "medium": 20,
+      "_total": 55197
+    },
+    {
+      "sl_no_": "11",
+      "nic_2004__": "21",
+      "description": "PAPER & PAPER PRODUCTS",
+      "micro": 11947,
+      "small": 1446,
+      "medium": 41,
+      "_total": 13434
+    },
+    {
+      "sl_no_": "12",
+      "nic_2004__": "22",
+      "description": "PUBLISHING, PRINTING & REPRODUCTION OF RECORDED MEDIA",
+      "micro": 39793,
+      "small": 1454,
+      "medium": 38,
+      "_total": 41285
+    },
+    {
+      "sl_no_": "13",
+      "nic_2004__": "23",
+      "description": "COKE & REFINED PETROLEUM PRODUCTS",
+      "micro": 1940,
+      "small": 361,
+      "medium": 17,
+      "_total": 2318
+    },
+    {
+      "sl_no_": "14",
+      "nic_2004__": "24",
+      "description": "CHEMICALS & CHEMICAL PRODUCTS",
+      "micro": 45760,
+      "small": 5161,
+      "medium": 288,
+      "_total": 51209
+    },
+    {
+      "sl_no_": "15",
+      "nic_2004__": "25",
+      "description": "RUBBER & PLASTIC PRODUCTS",
+      "micro": 33251,
+      "small": 3651,
+      "medium": 136,
+      "_total": 37038
+    },
+    {
+      "sl_no_": "16",
+      "nic_2004__": "26",
+      "description": "OTHER NON-METALLIC MINERAL PRODUCTS",
+      "micro": 55273,
+      "small": 3610,
+      "medium": 99,
+      "_total": 58982
+    },
+    {
+      "sl_no_": "17",
+      "nic_2004__": "27",
+      "description": "BASIC METALS",
+      "micro": 15514,
+      "small": 4110,
+      "medium": 217,
+      "_total": 19841
+    },
+    {
+      "sl_no_": "18",
+      "nic_2004__": "28",
+      "description": "FABRICATED METAL PRODUCTS",
+      "micro": 134608,
+      "small": 5366,
+      "medium": 103,
+      "_total": 140077
+    },
+    {
+      "sl_no_": "19",
+      "nic_2004__": "29",
+      "description": "MACHINERY & EQUIPMENT N.E.C.",
+      "micro": 66548,
+      "small": 6136,
+      "medium": 261,
+      "_total": 72945
+    },
+    {
+      "sl_no_": "20",
+      "nic_2004__": "30",
+      "description": "OFFICE, ACCOUNTING & COMPUTING MACHINERY",
+      "micro": 4550,
+      "small": 177,
+      "medium": 25,
+      "_total": 4752
+    },
+    {
+      "sl_no_": "21",
+      "nic_2004__": "31",
+      "description": "ELECTRICAL MACHINERY & APPARATUS N.E.C.",
+      "micro": 33233,
+      "small": 1580,
+      "medium": 45,
+      "_total": 34858
+    },
+    {
+      "sl_no_": "22",
+      "nic_2004__": "32",
+      "description": "RADIO, TV & COMMUNICATION EQUIPMENT & APPARATUS",
+      "micro": 15581,
+      "small": 398,
+      "medium": 21,
+      "_total": 16000
+    },
+    {
+      "sl_no_": "23",
+      "nic_2004__": "33",
+      "description": "MEDICAL, PRECISION & OPTICAL INSTRUMENTS, WATCHES & CLOCKS",
+      "micro": 9923,
+      "small": 745,
+      "medium": 41,
+      "_total": 10709
+    },
+    {
+      "sl_no_": "24",
+      "nic_2004__": "34",
+      "description": "MOTOR VEHICLES, TRAILERS & SEMI-TRAILERS",
+      "micro": 5224,
+      "small": 600,
+      "medium": 14,
+      "_total": 5838
+    },
+    {
+      "sl_no_": "25",
+      "nic_2004__": "35",
+      "description": "OTHER TRANSPORT EQUIPMENT",
+      "micro": 14574,
+      "small": 1102,
+      "medium": 36,
+      "_total": 15712
+    },
+    {
+      "sl_no_": "26",
+      "nic_2004__": "36",
+      "description": "FURNITURE",
+      "micro": 96831,
+      "small": 2665,
+      "medium": 37,
+      "_total": 99533
+    },
+    {
+      "sl_no_": "27",
+      "nic_2004__": "37",
+      "description": "RECYCLING",
+      "micro": 175,
+      "small": 12,
+      "medium": 1,
+      "_total": 188
+    },
+    {
+      "sl_no_": "28",
+      "nic_2004__": "40",
+      "description": "ELECTRICITY, GAS, STEAM & HOT WATER SUPPLY",
+      "micro": 553,
+      "small": 94,
+      "medium": 10,
+      "_total": 657
+    },
+    {
+      "sl_no_": "29",
+      "nic_2004__": "41",
+      "description": "COLLECTION, PURUFICATION & DISTRIBUTION OF WATER",
+      "micro": 106,
+      "small": 9,
+      "medium": "0",
+      "_total": 115
+    },
+    {
+      "sl_no_": "30",
+      "nic_2004__": "45",
+      "description": "CONSTRUCTION",
+      "micro": 172,
+      "small": 18,
+      "medium": 2,
+      "_total": 192
+    },
+    {
+      "sl_no_": "31",
+      "nic_2004__": "50",
+      "description": "REPAIR & MAINTENANCE OF MOTOR VEHICLES; RETAIL SALE OF AUTOMOTIVE FUEL",
+      "micro": 55517,
+      "small": 2607,
+      "medium": 57,
+      "_total": 58181
+    },
+    {
+      "sl_no_": "32",
+      "nic_2004__": "51",
+      "description": "WHOLESALE TRADE & COMMISSION TRADE",
+      "micro": 1300,
+      "small": 112,
+      "medium": 10,
+      "_total": 1422
+    },
+    {
+      "sl_no_": "33",
+      "nic_2004__": "52",
+      "description": "REPAIR & MAINTENANCE OF PERSONAL & HOUSEHOLD GOODS; RETAIL TRADE",
+      "micro": 128981,
+      "small": 3286,
+      "medium": 30,
+      "_total": 132297
+    },
+    {
+      "sl_no_": "34",
+      "nic_2004__": "55",
+      "description": "HOTELS & RESTAURANTS",
+      "micro": 1179,
+      "small": 129,
+      "medium": 8,
+      "_total": 1316
+    },
+    {
+      "sl_no_": "35",
+      "nic_2004__": "60",
+      "description": "LAND TRANSPORT",
+      "micro": 210,
+      "small": 31,
+      "medium": 2,
+      "_total": 243
+    },
+    {
+      "sl_no_": "36",
+      "nic_2004__": "63",
+      "description": "SUPPORTING & AUXILLIARY TRANSPORT & TRAVEL AGENTS ACTIVITIES",
+      "micro": 980,
+      "small": 1449,
+      "medium": 72,
+      "_total": 2501
+    },
+    {
+      "sl_no_": "37",
+      "nic_2004__": "64",
+      "description": "POST & TELECOMMUNICATIONS",
+      "micro": 15760,
+      "small": 1362,
+      "medium": 29,
+      "_total": 17151
+    },
+    {
+      "sl_no_": "38",
+      "nic_2004__": "70",
+      "description": "REAL ESTATE ACTIVITIES",
+      "micro": 127,
+      "small": 8,
+      "medium": "0",
+      "_total": 135
+    },
+    {
+      "sl_no_": "39",
+      "nic_2004__": "71",
+      "description": "RENTING OF MACHINERY & EQUIPMENT AND PERSONAL & HOUSEHOLD GOODS",
+      "micro": 479,
+      "small": 10,
+      "medium": 1,
+      "_total": 490
+    },
+    {
+      "sl_no_": "40",
+      "nic_2004__": "72",
+      "description": "COMPUTER AND RELATED ACTIVITIES",
+      "micro": 18720,
+      "small": 2035,
+      "medium": 20,
+      "_total": 20775
+    },
+    {
+      "sl_no_": "41",
+      "nic_2004__": "73",
+      "description": "RESEARCH AND DEVELOPMENT",
+      "micro": 4,
+      "small": 1,
+      "medium": "0",
+      "_total": 5
+    },
+    {
+      "sl_no_": "42",
+      "nic_2004__": "74",
+      "description": "OTHER BUSINESS ACTIVITIES",
+      "micro": 24726,
+      "small": 1724,
+      "medium": 49,
+      "_total": 26499
+    },
+    {
+      "sl_no_": "43",
+      "nic_2004__": "80",
+      "description": "EDUCATION",
+      "micro": 714,
+      "small": 46,
+      "medium": 1,
+      "_total": 761
+    },
+    {
+      "sl_no_": "44",
+      "nic_2004__": "85",
+      "description": "HEALTH AND SOCIAL WORK",
+      "micro": 1267,
+      "small": 92,
+      "medium": 4,
+      "_total": 1363
+    },
+    {
+      "sl_no_": "45",
+      "nic_2004__": "92",
+      "description": "RECREATIONAL, CULTURAL AND SPORTING ACTIVITIES",
+      "micro": 2475,
+      "small": 90,
+      "medium": 2,
+      "_total": 2567
+    },
+    {
+      "sl_no_": "46",
+      "nic_2004__": "93",
+      "description": "OTHER SERVICE ACTIVITIES",
+      "micro": 8196,
+      "small": 414,
+      "medium": 6,
+      "_total": 8616
+    },
+    {
+      "sl_no_": "47",
+      "nic_2004__": "NA",
+      "description": "Not Recorded",
+      "micro": 15071,
+      "small": 334,
+      "medium": 21,
+      "_total": 15426
+    },
+    {
+      "sl_no_": "NA",
+      "nic_2004__": "NA",
+      "description": "All India",
+      "micro": 1484763,
+      "small": 76528,
+      "medium": 2683,
+      "_total": 1563974
+    }
+  ]
+}

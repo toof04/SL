@@ -1,0 +1,316 @@
+{
+  "index_name": "45b3d196-8437-4505-8bdf-9ca66565703a",
+  "title": "State/ UT-wise Deployment of Prime Minister Rural Development (PMRD) Fellowship and Stipend paid to Prime Minister Rural Development (PMRD) Fellowship from 2014-15 to 2017-18 (From: Ministry of Rural Development)",
+  "desc": "State/ UT-wise Deployment of Prime Minister Rural Development (PMRD) Fellowship and Stipend paid to Prime Minister Rural Development (PMRD) Fellowship from 2014-15 to 2017-18 (From: Ministry of Rural Development)",
+  "org_type": "Central",
+  "org": [
+    "Rajya Sabha"
+  ],
+  "sector": [
+    "All"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "adc3750b-85d9-4e34-a2ef-cd76fba6f35a",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1702569344,
+  "updated": 1702614134,
+  "created_date": "2023-12-14T16:55:44Z",
+  "updated_date": "2023-12-15T09:52:14Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "adc3750b-85d9-4e34-a2ef-cd76fba6f35a",
+    "field": "45b3d196-8437-4505-8bdf-9ca66565703a"
+  },
+  "field": [
+    {
+      "id": "sl__no_",
+      "name": "Sl. No.",
+      "type": "keyword"
+    },
+    {
+      "id": "states__uts",
+      "name": "States/ UTs",
+      "type": "keyword"
+    },
+    {
+      "id": "_2014_15___no_of_fellows",
+      "name": "2014-15 - No of Fellows",
+      "type": "double"
+    },
+    {
+      "id": "_2014_15___stipend",
+      "name": "2014-15 - Stipend",
+      "type": "double"
+    },
+    {
+      "id": "_2015_16___no_of_fellows",
+      "name": "2015-16 - No of Fellows",
+      "type": "double"
+    },
+    {
+      "id": "_2015_16___stipend",
+      "name": "2015-16 - Stipend",
+      "type": "double"
+    },
+    {
+      "id": "_2016_17___no_of_fellows",
+      "name": "2016-17 - No of Fellows",
+      "type": "double"
+    },
+    {
+      "id": "_2016_17___stipend",
+      "name": "2016-17 - Stipend",
+      "type": "double"
+    },
+    {
+      "id": "_2017_18__till_26_07_2017____no_of_fellows",
+      "name": "2017-18 (Till 26.07.2017) - No of Fellows",
+      "type": "double"
+    },
+    {
+      "id": "_2017_18__till_26_07_2017____stipend",
+      "name": "2017-18 (Till 26.07.2017) - Stipend",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 19,
+  "count": 19,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "sl__no_": "1",
+      "states__uts": "Andhra Pradesh",
+      "_2014_15___no_of_fellows": 9,
+      "_2014_15___stipend": 7194894,
+      "_2015_16___no_of_fellows": 9,
+      "_2015_16___stipend": 6590482,
+      "_2016_17___no_of_fellows": 9,
+      "_2016_17___stipend": 4166264,
+      "_2017_18__till_26_07_2017____no_of_fellows": 3,
+      "_2017_18__till_26_07_2017____stipend": 335000
+    },
+    {
+      "sl__no_": "2",
+      "states__uts": "Arunachal Pradesh",
+      "_2014_15___no_of_fellows": 2,
+      "_2014_15___stipend": 1598865,
+      "_2015_16___no_of_fellows": 2,
+      "_2015_16___stipend": 1464551,
+      "_2016_17___no_of_fellows": 2,
+      "_2016_17___stipend": 925836,
+      "_2017_18__till_26_07_2017____no_of_fellows": 1,
+      "_2017_18__till_26_07_2017____stipend": 90500
+    },
+    {
+      "sl__no_": "3",
+      "states__uts": "Assam",
+      "_2014_15___no_of_fellows": 17,
+      "_2014_15___stipend": 12790923,
+      "_2015_16___no_of_fellows": 17,
+      "_2015_16___stipend": 12448687,
+      "_2016_17___no_of_fellows": 17,
+      "_2016_17___stipend": 7869610,
+      "_2017_18__till_26_07_2017____no_of_fellows": 11,
+      "_2017_18__till_26_07_2017____stipend": 2642500
+    },
+    {
+      "sl__no_": "4",
+      "states__uts": "Bihar",
+      "_2014_15___no_of_fellows": 32,
+      "_2014_15___stipend": 25581845,
+      "_2015_16___no_of_fellows": 28,
+      "_2015_16___stipend": 20503721,
+      "_2016_17___no_of_fellows": 25,
+      "_2016_17___stipend": 11572955,
+      "_2017_18__till_26_07_2017____no_of_fellows": 7,
+      "_2017_18__till_26_07_2017____stipend": 1349750
+    },
+    {
+      "sl__no_": "5",
+      "states__uts": "Chhattisgarh",
+      "_2014_15___no_of_fellows": 39,
+      "_2014_15___stipend": 31177874,
+      "_2015_16___no_of_fellows": 30,
+      "_2015_16___stipend": 21968272,
+      "_2016_17___no_of_fellows": 29,
+      "_2016_17___stipend": 13424628,
+      "_2017_18__till_26_07_2017____no_of_fellows": 18,
+      "_2017_18__till_26_07_2017____stipend": 1838500
+    },
+    {
+      "sl__no_": "6",
+      "states__uts": "Jammu & Kashmir",
+      "_2014_15___no_of_fellows": 19,
+      "_2014_15___stipend": 15189221,
+      "_2015_16___no_of_fellows": 18,
+      "_2015_16___stipend": 13180963,
+      "_2016_17___no_of_fellows": 16,
+      "_2016_17___stipend": 7406691,
+      "_2017_18__till_26_07_2017____no_of_fellows": 8,
+      "_2017_18__till_26_07_2017____stipend": 1413000
+    },
+    {
+      "sl__no_": "7",
+      "states__uts": "Jharkhand",
+      "_2014_15___no_of_fellows": 52,
+      "_2014_15___stipend": 41570499,
+      "_2015_16___no_of_fellows": 44,
+      "_2015_16___stipend": 32220132,
+      "_2016_17___no_of_fellows": 42,
+      "_2016_17___stipend": 19442565,
+      "_2017_18__till_26_07_2017____no_of_fellows": 17,
+      "_2017_18__till_26_07_2017____stipend": 3743000
+    },
+    {
+      "sl__no_": "8",
+      "states__uts": "Madhya Pradesh",
+      "_2014_15___no_of_fellows": 28,
+      "_2014_15___stipend": 22384115,
+      "_2015_16___no_of_fellows": 23,
+      "_2015_16___stipend": 16842342,
+      "_2016_17___no_of_fellows": 21,
+      "_2016_17___stipend": 9721282,
+      "_2017_18__till_26_07_2017____no_of_fellows": 9,
+      "_2017_18__till_26_07_2017____stipend": 955500
+    },
+    {
+      "sl__no_": "9",
+      "states__uts": "Maharashtra",
+      "_2014_15___no_of_fellows": 7,
+      "_2014_15___stipend": 5596029,
+      "_2015_16___no_of_fellows": 4,
+      "_2015_16___stipend": 2929103,
+      "_2016_17___no_of_fellows": 4,
+      "_2016_17___stipend": 1851673,
+      "_2017_18__till_26_07_2017____no_of_fellows": 1,
+      "_2017_18__till_26_07_2017____stipend": 330000
+    },
+    {
+      "sl__no_": "10",
+      "states__uts": "Manipur",
+      "_2014_15___no_of_fellows": 2,
+      "_2014_15___stipend": 1598865,
+      "_2015_16___no_of_fellows": 2,
+      "_2015_16___stipend": 1464551,
+      "_2016_17___no_of_fellows": 2,
+      "_2016_17___stipend": 925836,
+      "_2017_18__till_26_07_2017____no_of_fellows": 1,
+      "_2017_18__till_26_07_2017____stipend": 247500
+    },
+    {
+      "sl__no_": "11",
+      "states__uts": "Meghalaya",
+      "_2014_15___no_of_fellows": 3,
+      "_2014_15___stipend": 2398298,
+      "_2015_16___no_of_fellows": 2,
+      "_2015_16___stipend": 1464551,
+      "_2016_17___no_of_fellows": 2,
+      "_2016_17___stipend": 925836,
+      "_2017_18__till_26_07_2017____no_of_fellows": 1,
+      "_2017_18__till_26_07_2017____stipend": 165000
+    },
+    {
+      "sl__no_": "12",
+      "states__uts": "Mizoram",
+      "_2014_15___no_of_fellows": 2,
+      "_2014_15___stipend": 1598865,
+      "_2015_16___no_of_fellows": 2,
+      "_2015_16___stipend": 1464551,
+      "_2016_17___no_of_fellows": 2,
+      "_2016_17___stipend": 925836,
+      "_2017_18__till_26_07_2017____no_of_fellows": 1,
+      "_2017_18__till_26_07_2017____stipend": 88000
+    },
+    {
+      "sl__no_": "13",
+      "states__uts": "Nagaland",
+      "_2014_15___no_of_fellows": 2,
+      "_2014_15___stipend": 1598865,
+      "_2015_16___no_of_fellows": 2,
+      "_2015_16___stipend": 1464551,
+      "_2016_17___no_of_fellows": 2,
+      "_2016_17___stipend": 925836,
+      "_2017_18__till_26_07_2017____no_of_fellows": 2,
+      "_2017_18__till_26_07_2017____stipend": 176000
+    },
+    {
+      "sl__no_": "14",
+      "states__uts": "Odisha",
+      "_2014_15___no_of_fellows": 49,
+      "_2014_15___stipend": 39172201,
+      "_2015_16___no_of_fellows": 46,
+      "_2015_16___stipend": 33684684,
+      "_2016_17___no_of_fellows": 46,
+      "_2016_17___stipend": 21294237,
+      "_2017_18__till_26_07_2017____no_of_fellows": 10,
+      "_2017_18__till_26_07_2017____stipend": 1875000
+    },
+    {
+      "sl__no_": "15",
+      "states__uts": "Telangana",
+      "_2014_15___no_of_fellows": 13,
+      "_2014_15___stipend": 10392625,
+      "_2015_16___no_of_fellows": 12,
+      "_2015_16___stipend": 8787309,
+      "_2016_17___no_of_fellows": 10,
+      "_2016_17___stipend": 4629182,
+      "_2017_18__till_26_07_2017____no_of_fellows": 5,
+      "_2017_18__till_26_07_2017____stipend": 904500
+    },
+    {
+      "sl__no_": "16",
+      "states__uts": "Tripura",
+      "_2014_15___no_of_fellows": 2,
+      "_2014_15___stipend": 1598865,
+      "_2015_16___no_of_fellows": 2,
+      "_2015_16___stipend": 1464551,
+      "_2016_17___no_of_fellows": 2,
+      "_2016_17___stipend": 925836,
+      "_2017_18__till_26_07_2017____no_of_fellows": 2,
+      "_2017_18__till_26_07_2017____stipend": 321750
+    },
+    {
+      "sl__no_": "17",
+      "states__uts": "Uttar Pradesh",
+      "_2014_15___no_of_fellows": 8,
+      "_2014_15___stipend": 6395461,
+      "_2015_16___no_of_fellows": 8,
+      "_2015_16___stipend": 5858206,
+      "_2016_17___no_of_fellows": 8,
+      "_2016_17___stipend": 3703346,
+      "_2017_18__till_26_07_2017____no_of_fellows": 3,
+      "_2017_18__till_26_07_2017____stipend": 506900
+    },
+    {
+      "sl__no_": "18",
+      "states__uts": "West Bengal",
+      "_2014_15___no_of_fellows": 9,
+      "_2014_15___stipend": 7194894,
+      "_2015_16___no_of_fellows": 8,
+      "_2015_16___stipend": 5858206,
+      "_2016_17___no_of_fellows": 8,
+      "_2016_17___stipend": 3703346,
+      "_2017_18__till_26_07_2017____no_of_fellows": 4,
+      "_2017_18__till_26_07_2017____stipend": 657250
+    },
+    {
+      "sl__no_": "Total",
+      "states__uts": "Total",
+      "_2014_15___no_of_fellows": 295,
+      "_2014_15___stipend": 235033205,
+      "_2015_16___no_of_fellows": 259,
+      "_2015_16___stipend": 189659415,
+      "_2016_17___no_of_fellows": 247,
+      "_2016_17___stipend": 114340797,
+      "_2017_18__till_26_07_2017____no_of_fellows": 104,
+      "_2017_18__till_26_07_2017____stipend": 17639650
+    }
+  ]
+}

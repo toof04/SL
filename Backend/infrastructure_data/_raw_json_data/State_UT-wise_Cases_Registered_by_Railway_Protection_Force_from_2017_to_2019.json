@@ -1,0 +1,470 @@
+{
+  "index_name": "e6f7dc1c-ce33-4720-b1db-955b15e62aab",
+  "title": "State/UT-wise Cases Registered by Railway Protection Force from 2017 to 2019",
+  "desc": "State/UT-wise Cases Registered by Railway Protection Force from 2017 to 2019",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Home Affairs",
+    "Department of States",
+    "National Crime Records Bureau (NCRB)"
+  ],
+  "sector": [
+    "Police"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "a62a4838-df7a-4fed-b16a-8c2abb9bcd9a",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1615539136,
+  "updated": 1615781381,
+  "created_date": "2021-03-12T08:52:16Z",
+  "updated_date": "2021-03-15T09:39:41Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "a62a4838-df7a-4fed-b16a-8c2abb9bcd9a",
+    "field": "e6f7dc1c-ce33-4720-b1db-955b15e62aab"
+  },
+  "field": [
+    {
+      "id": "category",
+      "name": "Category",
+      "type": "keyword"
+    },
+    {
+      "id": "state_ut",
+      "name": "State/UT",
+      "type": "keyword"
+    },
+    {
+      "id": "_2017_",
+      "name": "2017*",
+      "type": "double"
+    },
+    {
+      "id": "_2018__",
+      "name": "2018 *",
+      "type": "double"
+    },
+    {
+      "id": "_2019__",
+      "name": "2019 *",
+      "type": "double"
+    },
+    {
+      "id": "percentage_share_of_state_ut__2019_",
+      "name": "Percentage Share of State/UT (2019)",
+      "type": "double"
+    },
+    {
+      "id": "mid_year_projected_population__in_lakhs___2019_",
+      "name": "Mid-Year Projected Population (In Lakhs) (2019)",
+      "type": "double"
+    },
+    {
+      "id": "rate_of_cognizable_crimes__ipc___2019__",
+      "name": "Rate of Cognizable Crimes (IPC) (2019)+",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 39,
+  "count": 39,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "category": "State",
+      "state_ut": "Andhra Pradesh",
+      "_2017_": 76356,
+      "_2018__": 74654,
+      "_2019__": 59821,
+      "percentage_share_of_state_ut__2019_": 6.3,
+      "mid_year_projected_population__in_lakhs___2019_": 523.2,
+      "rate_of_cognizable_crimes__ipc___2019__": 114.3
+    },
+    {
+      "category": "State",
+      "state_ut": "Arunachal Pradesh",
+      "_2017_": "0",
+      "_2018__": "0",
+      "_2019__": "0",
+      "percentage_share_of_state_ut__2019_": "0",
+      "mid_year_projected_population__in_lakhs___2019_": 15.1,
+      "rate_of_cognizable_crimes__ipc___2019__": "0"
+    },
+    {
+      "category": "State",
+      "state_ut": "Assam",
+      "_2017_": 6795,
+      "_2018__": 8698,
+      "_2019__": 8819,
+      "percentage_share_of_state_ut__2019_": 0.9,
+      "mid_year_projected_population__in_lakhs___2019_": 344.2,
+      "rate_of_cognizable_crimes__ipc___2019__": 25.6
+    },
+    {
+      "category": "State",
+      "state_ut": "Bihar",
+      "_2017_": 60056,
+      "_2018__": 41400,
+      "_2019__": 29553,
+      "percentage_share_of_state_ut__2019_": 3.1,
+      "mid_year_projected_population__in_lakhs___2019_": 1201.1,
+      "rate_of_cognizable_crimes__ipc___2019__": 24.6
+    },
+    {
+      "category": "State",
+      "state_ut": "Chhattisgarh",
+      "_2017_": 22752,
+      "_2018__": 23987,
+      "_2019__": 21461,
+      "percentage_share_of_state_ut__2019_": 2.3,
+      "mid_year_projected_population__in_lakhs___2019_": 288.5,
+      "rate_of_cognizable_crimes__ipc___2019__": 74.4
+    },
+    {
+      "category": "State",
+      "state_ut": "Goa",
+      "_2017_": 383,
+      "_2018__": 464,
+      "_2019__": 661,
+      "percentage_share_of_state_ut__2019_": 0.1,
+      "mid_year_projected_population__in_lakhs___2019_": 15.4,
+      "rate_of_cognizable_crimes__ipc___2019__": 42.9
+    },
+    {
+      "category": "State",
+      "state_ut": "Gujarat",
+      "_2017_": 73690,
+      "_2018__": 74214,
+      "_2019__": 72469,
+      "percentage_share_of_state_ut__2019_": 7.6,
+      "mid_year_projected_population__in_lakhs___2019_": 682.5,
+      "rate_of_cognizable_crimes__ipc___2019__": 106.2
+    },
+    {
+      "category": "State",
+      "state_ut": "Haryana",
+      "_2017_": 15478,
+      "_2018__": 14950,
+      "_2019__": 13187,
+      "percentage_share_of_state_ut__2019_": 1.4,
+      "mid_year_projected_population__in_lakhs___2019_": 288.1,
+      "rate_of_cognizable_crimes__ipc___2019__": 45.8
+    },
+    {
+      "category": "State",
+      "state_ut": "Himachal Pradesh",
+      "_2017_": 274,
+      "_2018__": 323,
+      "_2019__": 268,
+      "percentage_share_of_state_ut__2019_": "0",
+      "mid_year_projected_population__in_lakhs___2019_": 73.2,
+      "rate_of_cognizable_crimes__ipc___2019__": 3.7
+    },
+    {
+      "category": "State",
+      "state_ut": "Jammu & Kashmir",
+      "_2017_": 1133,
+      "_2018__": 2661,
+      "_2019__": 1783,
+      "percentage_share_of_state_ut__2019_": 0.2,
+      "mid_year_projected_population__in_lakhs___2019_": 135.3,
+      "rate_of_cognizable_crimes__ipc___2019__": 13.2
+    },
+    {
+      "category": "State",
+      "state_ut": "Jharkhand",
+      "_2017_": 23157,
+      "_2018__": 25715,
+      "_2019__": 19958,
+      "percentage_share_of_state_ut__2019_": 2.1,
+      "mid_year_projected_population__in_lakhs___2019_": 375.8,
+      "rate_of_cognizable_crimes__ipc___2019__": 53.1
+    },
+    {
+      "category": "State",
+      "state_ut": "Karnataka",
+      "_2017_": 37873,
+      "_2018__": 34396,
+      "_2019__": 30575,
+      "percentage_share_of_state_ut__2019_": 3.2,
+      "mid_year_projected_population__in_lakhs___2019_": 659.7,
+      "rate_of_cognizable_crimes__ipc___2019__": 46.3
+    },
+    {
+      "category": "State",
+      "state_ut": "Kerala",
+      "_2017_": 33109,
+      "_2018__": 28458,
+      "_2019__": 35197,
+      "percentage_share_of_state_ut__2019_": 3.7,
+      "mid_year_projected_population__in_lakhs___2019_": 351.9,
+      "rate_of_cognizable_crimes__ipc___2019__": 100
+    },
+    {
+      "category": "State",
+      "state_ut": "Madhya Pradesh",
+      "_2017_": 91906,
+      "_2018__": 89036,
+      "_2019__": 61748,
+      "percentage_share_of_state_ut__2019_": 6.5,
+      "mid_year_projected_population__in_lakhs___2019_": 826.1,
+      "rate_of_cognizable_crimes__ipc___2019__": 74.7
+    },
+    {
+      "category": "State",
+      "state_ut": "Maharashtra",
+      "_2017_": 234826,
+      "_2018__": 223289,
+      "_2019__": 244866,
+      "percentage_share_of_state_ut__2019_": 25.8,
+      "mid_year_projected_population__in_lakhs___2019_": 1225.3,
+      "rate_of_cognizable_crimes__ipc___2019__": 199.8
+    },
+    {
+      "category": "State",
+      "state_ut": "Manipur",
+      "_2017_": "0",
+      "_2018__": "0",
+      "_2019__": "0",
+      "percentage_share_of_state_ut__2019_": "0",
+      "mid_year_projected_population__in_lakhs___2019_": 31.1,
+      "rate_of_cognizable_crimes__ipc___2019__": "0"
+    },
+    {
+      "category": "State",
+      "state_ut": "Meghalaya",
+      "_2017_": "0",
+      "_2018__": "0",
+      "_2019__": "0",
+      "percentage_share_of_state_ut__2019_": "0",
+      "mid_year_projected_population__in_lakhs___2019_": 32.3,
+      "rate_of_cognizable_crimes__ipc___2019__": "0"
+    },
+    {
+      "category": "State",
+      "state_ut": "Mizoram",
+      "_2017_": "0",
+      "_2018__": "0",
+      "_2019__": "0",
+      "percentage_share_of_state_ut__2019_": "0",
+      "mid_year_projected_population__in_lakhs___2019_": 12,
+      "rate_of_cognizable_crimes__ipc___2019__": "0"
+    },
+    {
+      "category": "State",
+      "state_ut": "Nagaland",
+      "_2017_": 87,
+      "_2018__": 214,
+      "_2019__": 384,
+      "percentage_share_of_state_ut__2019_": "0",
+      "mid_year_projected_population__in_lakhs___2019_": 21.6,
+      "rate_of_cognizable_crimes__ipc___2019__": 17.8
+    },
+    {
+      "category": "State",
+      "state_ut": "Odisha",
+      "_2017_": 34621,
+      "_2018__": 41897,
+      "_2019__": 32173,
+      "percentage_share_of_state_ut__2019_": 3.4,
+      "mid_year_projected_population__in_lakhs___2019_": 437.3,
+      "rate_of_cognizable_crimes__ipc___2019__": 73.6
+    },
+    {
+      "category": "State",
+      "state_ut": "Punjab",
+      "_2017_": 22420,
+      "_2018__": 20967,
+      "_2019__": 19231,
+      "percentage_share_of_state_ut__2019_": 2,
+      "mid_year_projected_population__in_lakhs___2019_": 299.4,
+      "rate_of_cognizable_crimes__ipc___2019__": 64.2
+    },
+    {
+      "category": "State",
+      "state_ut": "Rajasthan",
+      "_2017_": 73388,
+      "_2018__": 66487,
+      "_2019__": 50627,
+      "percentage_share_of_state_ut__2019_": 5.3,
+      "mid_year_projected_population__in_lakhs___2019_": 776,
+      "rate_of_cognizable_crimes__ipc___2019__": 65.2
+    },
+    {
+      "category": "State",
+      "state_ut": "Sikkim",
+      "_2017_": "0",
+      "_2018__": "0",
+      "_2019__": "0",
+      "percentage_share_of_state_ut__2019_": "0",
+      "mid_year_projected_population__in_lakhs___2019_": 6.7,
+      "rate_of_cognizable_crimes__ipc___2019__": "0"
+    },
+    {
+      "category": "State",
+      "state_ut": "Tamil Nadu",
+      "_2017_": 82221,
+      "_2018__": 79383,
+      "_2019__": 56652,
+      "percentage_share_of_state_ut__2019_": 6,
+      "mid_year_projected_population__in_lakhs___2019_": 758.1,
+      "rate_of_cognizable_crimes__ipc___2019__": 74.7
+    },
+    {
+      "category": "State",
+      "state_ut": "Telangana",
+      "_2017_": 17541,
+      "_2018__": 16839,
+      "_2019__": 11602,
+      "percentage_share_of_state_ut__2019_": 1.2,
+      "mid_year_projected_population__in_lakhs___2019_": 372.8,
+      "rate_of_cognizable_crimes__ipc___2019__": 31.1
+    },
+    {
+      "category": "State",
+      "state_ut": "Tripura",
+      "_2017_": 51,
+      "_2018__": 83,
+      "_2019__": 152,
+      "percentage_share_of_state_ut__2019_": "0",
+      "mid_year_projected_population__in_lakhs___2019_": 40,
+      "rate_of_cognizable_crimes__ipc___2019__": 3.8
+    },
+    {
+      "category": "State",
+      "state_ut": "Uttar Pradesh",
+      "_2017_": 137693,
+      "_2018__": 140386,
+      "_2019__": 111431,
+      "percentage_share_of_state_ut__2019_": 11.7,
+      "mid_year_projected_population__in_lakhs___2019_": 2259.7,
+      "rate_of_cognizable_crimes__ipc___2019__": 49.3
+    },
+    {
+      "category": "State",
+      "state_ut": "Uttarakhand",
+      "_2017_": 5990,
+      "_2018__": 6225,
+      "_2019__": 5206,
+      "percentage_share_of_state_ut__2019_": 0.5,
+      "mid_year_projected_population__in_lakhs___2019_": 111.8,
+      "rate_of_cognizable_crimes__ipc___2019__": 46.6
+    },
+    {
+      "category": "State",
+      "state_ut": "West Bengal",
+      "_2017_": 37612,
+      "_2018__": 54107,
+      "_2019__": 47817,
+      "percentage_share_of_state_ut__2019_": 5,
+      "mid_year_projected_population__in_lakhs___2019_": 971.1,
+      "rate_of_cognizable_crimes__ipc___2019__": 49.2
+    },
+    {
+      "category": "State",
+      "state_ut": "TOTAL STATE(S)",
+      "_2017_": 1089412,
+      "_2018__": 1068833,
+      "_2019__": 935641,
+      "percentage_share_of_state_ut__2019_": 98.5,
+      "mid_year_projected_population__in_lakhs___2019_": 13135.2,
+      "rate_of_cognizable_crimes__ipc___2019__": 71.2
+    },
+    {
+      "category": "UT",
+      "state_ut": "A & N Islands",
+      "_2017_": "0",
+      "_2018__": "0",
+      "_2019__": "0",
+      "percentage_share_of_state_ut__2019_": "0",
+      "mid_year_projected_population__in_lakhs___2019_": 4,
+      "rate_of_cognizable_crimes__ipc___2019__": "0"
+    },
+    {
+      "category": "UT",
+      "state_ut": "Chandigarh",
+      "_2017_": 1444,
+      "_2018__": 1124,
+      "_2019__": 755,
+      "percentage_share_of_state_ut__2019_": 0.1,
+      "mid_year_projected_population__in_lakhs___2019_": 11.8,
+      "rate_of_cognizable_crimes__ipc___2019__": 64
+    },
+    {
+      "category": "UT",
+      "state_ut": "D & N Haveli",
+      "_2017_": "0",
+      "_2018__": "0",
+      "_2019__": "0",
+      "percentage_share_of_state_ut__2019_": "0",
+      "mid_year_projected_population__in_lakhs___2019_": 5.6,
+      "rate_of_cognizable_crimes__ipc___2019__": "0"
+    },
+    {
+      "category": "UT",
+      "state_ut": "Daman & Diu",
+      "_2017_": "0",
+      "_2018__": "0",
+      "_2019__": "0",
+      "percentage_share_of_state_ut__2019_": "0",
+      "mid_year_projected_population__in_lakhs___2019_": 4.2,
+      "rate_of_cognizable_crimes__ipc___2019__": "0"
+    },
+    {
+      "category": "UT",
+      "state_ut": "Delhi UT",
+      "_2017_": 24747,
+      "_2018__": 24432,
+      "_2019__": 13045,
+      "percentage_share_of_state_ut__2019_": 1.4,
+      "mid_year_projected_population__in_lakhs___2019_": 199.4,
+      "rate_of_cognizable_crimes__ipc___2019__": 65.4
+    },
+    {
+      "category": "UT",
+      "state_ut": "Lakshadweep",
+      "_2017_": "0",
+      "_2018__": "0",
+      "_2019__": "0",
+      "percentage_share_of_state_ut__2019_": "0",
+      "mid_year_projected_population__in_lakhs___2019_": 0.7,
+      "rate_of_cognizable_crimes__ipc___2019__": "0"
+    },
+    {
+      "category": "UT",
+      "state_ut": "Puducherry",
+      "_2017_": 236,
+      "_2018__": 295,
+      "_2019__": 254,
+      "percentage_share_of_state_ut__2019_": "0",
+      "mid_year_projected_population__in_lakhs___2019_": 15.2,
+      "rate_of_cognizable_crimes__ipc___2019__": 16.7
+    },
+    {
+      "category": "UT",
+      "state_ut": "TOTAL UT(S)",
+      "_2017_": 26427,
+      "_2018__": 25851,
+      "_2019__": 14054,
+      "percentage_share_of_state_ut__2019_": 1.5,
+      "mid_year_projected_population__in_lakhs___2019_": 240.8,
+      "rate_of_cognizable_crimes__ipc___2019__": 58.4
+    },
+    {
+      "category": "Grand Total",
+      "state_ut": "TOTAL (ALL INDIA)",
+      "_2017_": 1115839,
+      "_2018__": 1094684,
+      "_2019__": 949695,
+      "percentage_share_of_state_ut__2019_": 100,
+      "mid_year_projected_population__in_lakhs___2019_": 13376.1,
+      "rate_of_cognizable_crimes__ipc___2019__": 71
+    }
+  ]
+}

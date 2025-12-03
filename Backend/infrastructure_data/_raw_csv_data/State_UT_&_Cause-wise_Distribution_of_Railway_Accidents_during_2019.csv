@@ -1,0 +1,40 @@
+Category,State/UT,"Fault of Driver_Cases","Fault of Driver_Injured","Fault of Driver_Died","Sabotage by Extremist/Terrorist/Others_Cases","Sabotage by Extremist/Terrorist/Others_Injured","Sabotage by Extremist/Terrorist/Others_Died","Signalmen's  Error_Cases","Signalmen's  Error_Injured","Signalmen's  Error_Died","Mechanical Failures (like Poor Design, Track Faults, Bridge/Tunnel Collapse etc.)_Cases","Mechanical Failures (like Poor Design, Track Faults, Bridge/Tunnel Collapse etc.)_Injured","Mechanical Failures (like Poor Design, Track Faults, Bridge/Tunnel Collapse etc.)_Died","Other Causes_Cases","Other Causes_Injured","Other Causes_Died",Total_Cases,Total_Injured,Total_Died
+State,"ANDHRA PRADESH",6,1,6,0,0,0,0,0,0,0,0,0,1505,0,1513,1511,1,1519
+State,"ARUNACHAL PRADESH",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,ASSAM,0,0,0,0,0,0,0,0,0,0,0,0,591,0,593,591,0,593
+State,BIHAR,0,0,0,0,0,0,0,0,0,3,0,3,1586,0,1619,1589,0,1622
+State,CHHATTISGARH,0,0,0,0,0,0,0,0,0,0,0,0,466,0,466,466,0,466
+State,GOA,0,0,0,0,0,0,0,0,0,0,0,0,50,0,50,50,0,50
+State,GUJARAT,0,0,0,0,0,0,0,0,0,0,0,0,994,0,1012,994,0,1012
+State,HARYANA,0,0,0,0,0,0,0,0,0,0,0,0,1362,126,1278,1362,126,1278
+State,"HIMACHAL PRADESH",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,"JAMMU & KASHMIR",0,0,0,0,0,0,0,0,0,0,0,0,44,0,45,44,0,45
+State,JHARKHAND,0,0,0,0,0,0,8,0,8,31,0,31,444,1,447,483,1,486
+State,KARNATAKA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,KERALA,4,0,4,0,0,0,2,0,2,14,0,14,230,1,234,250,1,254
+State,"MADHYA PRADESH",12,0,12,0,0,0,0,0,0,2,0,2,1494,99,1395,1508,99,1409
+State,MAHARASHTRA,0,0,0,0,0,0,0,0,0,0,0,0,6338,2435,3916,6338,2435,3916
+State,MANIPUR,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,MEGHALAYA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,MIZORAM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,NAGALAND,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,ODISHA,0,0,0,0,0,0,0,0,0,1,0,1,443,0,445,444,0,446
+State,PUNJAB,0,0,0,0,0,0,0,0,0,0,0,0,893,65,831,893,65,831
+State,RAJASTHAN,0,0,0,0,0,0,0,0,0,17,0,17,786,30,758,803,30,775
+State,SIKKIM,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+State,"TAMIL NADU",0,0,0,0,0,0,0,0,0,0,0,0,2266,203,2081,2266,203,2081
+State,TELANGANA,0,0,0,0,0,0,0,0,0,0,0,0,626,0,631,626,0,631
+State,TRIPURA,0,0,0,0,0,0,0,0,0,0,0,0,5,0,5,5,0,5
+State,"UTTAR PRADESH",29,0,29,0,0,0,0,0,0,155,120,300,3796,382,3192,3980,502,3521
+State,UTTARAKHAND,0,0,0,0,0,0,0,0,0,41,0,42,0,0,0,41,0,42
+State,"WEST BENGAL",0,0,0,0,0,0,0,0,0,0,0,0,2876,44,2832,2876,44,2832
+State,"TOTAL (STATES)",51,1,51,0,0,0,10,0,10,264,120,410,26795,3386,23343,27120,3507,23814
+UT,"A & NISLANDS",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UT,CHANDIGARH,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UT,"D & N HAVELI",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UT,"DAMAN & DIU",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UT,"DELHI (UT)",0,0,0,0,0,0,0,0,0,0,0,0,858,62,796,858,62,796
+UT,LAKSHADWEEP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UT,PUDUCHERRY,0,0,0,0,0,0,0,0,0,0,0,0,9,0,9,9,0,9
+UT,"TOTAL (UTs)",0,0,0,0,0,0,0,0,0,0,0,0,867,62,805,867,62,805
+"TOTAL (ALL INDIA)","TOTAL (ALL INDIA)",51,1,51,0,0,0,10,0,10,264,120,410,27662,3448,24148,27987,3569,24619

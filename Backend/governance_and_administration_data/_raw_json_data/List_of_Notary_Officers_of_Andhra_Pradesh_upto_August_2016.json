@@ -1,0 +1,4189 @@
+{
+  "index_name": "7dbed76f-68c2-4dcc-b076-48e263b4fdc5",
+  "title": "List of Notary Officers of Andhra Pradesh upto August 2016",
+  "desc": "List of Notary Officers of Andhra Pradesh upto August 2016",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Law and Justice",
+    "Department of Legal Affairs"
+  ],
+  "sector": [
+    "Governance and Administration"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "f2b1c68e-1afd-49a3-bb17-cf2dfa934f78",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1668940323,
+  "updated": 1668961377,
+  "created_date": "2022-11-20T11:32:03Z",
+  "updated_date": "2022-11-20T21:52:57Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "f2b1c68e-1afd-49a3-bb17-cf2dfa934f78",
+    "field": "7dbed76f-68c2-4dcc-b076-48e263b4fdc5"
+  },
+  "field": [
+    {
+      "id": "s_no_",
+      "name": "S.No.",
+      "type": "double"
+    },
+    {
+      "id": "reg_no_",
+      "name": "Reg No.",
+      "type": "double"
+    },
+    {
+      "id": "name_of_the_advocate",
+      "name": "Name of the Advocate",
+      "type": "keyword"
+    },
+    {
+      "id": "address_of_the_advocate",
+      "name": "Address of the Advocate",
+      "type": "keyword"
+    },
+    {
+      "id": "area_of_practice",
+      "name": "Area of Practice",
+      "type": "keyword"
+    },
+    {
+      "id": "date_of_appointment",
+      "name": "Date of Appointment",
+      "type": "date"
+    },
+    {
+      "id": "certificate_valid_upto",
+      "name": "Certificate Valid Upto",
+      "type": "date"
+    },
+    {
+      "id": "district",
+      "name": "District",
+      "type": "keyword"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 411,
+  "count": 411,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "s_no_": 1,
+      "reg_no_": 244,
+      "name_of_the_advocate": "B.MOHAN KRISHNA",
+      "address_of_the_advocate": "2//4 ARUNDELPET GUNTUR 2 ANDHRA PRADESH",
+      "area_of_practice": "GUNTUR DISTRICT",
+      "date_of_appointment": "1987-03-17T11:32:21Z",
+      "certificate_valid_upto": "1990-03-17T11:32:21Z",
+      "district": "GUNTUR"
+    },
+    {
+      "s_no_": 2,
+      "reg_no_": 249,
+      "name_of_the_advocate": "B.SESHAGIRI RAO",
+      "address_of_the_advocate": "OPPOSITE TO NAAZ THEATRE CHIRALA ANDHRA PRADESH 523155",
+      "area_of_practice": "PRAKASAM DISTRICT",
+      "date_of_appointment": "1987-03-18T11:32:21Z",
+      "certificate_valid_upto": "2007-03-17T11:32:21Z",
+      "district": "PRAKASAM"
+    },
+    {
+      "s_no_": 3,
+      "reg_no_": 374,
+      "name_of_the_advocate": "C.SRIPATHI RAO",
+      "address_of_the_advocate": "SURYARAOPET VIJAYAWADA VISHNU VARDHANA RAO STRTEET ANDHRA PRADESH 520002",
+      "area_of_practice": "VIJAYAWADA ANDHRA PRADESH",
+      "date_of_appointment": "1992-02-13T11:32:21Z",
+      "certificate_valid_upto": "2001-12-02T11:32:21Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 4,
+      "reg_no_": 495,
+      "name_of_the_advocate": "NATHULAPATI VENKATA RAMANA",
+      "address_of_the_advocate": "PLOT NO.15 GAYATRI NAGAR SRINIWAS COLONY EAST HYDERABAD ANDHRA PRADESH500038",
+      "area_of_practice": "SECUNDERABAD AND HYDERABAD",
+      "date_of_appointment": "1994-03-01T11:32:21Z",
+      "certificate_valid_upto": "1997-02-28T11:32:21Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 5,
+      "reg_no_": 499,
+      "name_of_the_advocate": "K.RAVINDRA KUMAR",
+      "address_of_the_advocate": "DARNAKAL ROAD NEAR ANDHRA BANK VENKATARATNAM STREET SURYARAO PET VIJAYAWADA 2",
+      "area_of_practice": "VIJAYAWADA",
+      "date_of_appointment": "1994-01-17T11:32:21Z",
+      "certificate_valid_upto": "1997-03-03T11:32:21Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 6,
+      "reg_no_": 501,
+      "name_of_the_advocate": "A.V.RADHA KRISHNA MURTHY",
+      "address_of_the_advocate": "MUNDIGONDANVASI STREET SATYANARAYANAPURAM VIJAYAWADA 11",
+      "area_of_practice": "VIJAYAWADA (ANDHRA PRADESH)",
+      "date_of_appointment": "1994-03-01T11:32:21Z",
+      "certificate_valid_upto": "2019-02-28T11:32:21Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 7,
+      "reg_no_": 588,
+      "name_of_the_advocate": "N. NARHARI N. R. DEVRAJ",
+      "address_of_the_advocate": "8 LAITHA NAGAR JAMIA OSMANIA HYDERABAD 500044",
+      "area_of_practice": "HYDERABAD",
+      "date_of_appointment": "1995-03-22T11:32:21Z",
+      "certificate_valid_upto": "1998-03-21T11:32:21Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 8,
+      "reg_no_": 623,
+      "name_of_the_advocate": "P. SURYANARAYANA",
+      "address_of_the_advocate": "11-26-24/A UPPULURIVARI LANE BRAHMIN STREET VIJAYWADA 1 VASAVI MARKET UPSTAIRS MAIN BAZAR VIJAYWADA STR",
+      "area_of_practice": "EET VIJAYAWADA",
+      "date_of_appointment": "1995-09-05T11:32:21Z",
+      "certificate_valid_upto": "2011-04-09T11:32:21Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 9,
+      "reg_no_": 830,
+      "name_of_the_advocate": "M.V.RAMARAO",
+      "address_of_the_advocate": "FLAT NO.3 HOUSE NO. 9-56/1 LITTLE CITIZEN HIGH SCHOOL DWARAKAPURAM COLONY HYDERABAD 500060 ANDHRA PRADESH",
+      "area_of_practice": "DWARAKAPURAM",
+      "date_of_appointment": "1997-08-22T11:32:21Z",
+      "certificate_valid_upto": "2005-08-21T11:32:21Z",
+      "district": "SRIKAKULAM"
+    },
+    {
+      "s_no_": 10,
+      "reg_no_": 831,
+      "name_of_the_advocate": "Y.RAMAKRISHNAMURTHY",
+      "address_of_the_advocate": "RYTHUPETA NANDIGAMA KRISHNA DISTRICT ANDHRA PRADESH 521185",
+      "area_of_practice": "NANDIGAMA",
+      "date_of_appointment": "1997-08-22T11:32:21Z",
+      "certificate_valid_upto": "2015-07-20T11:32:21Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 11,
+      "reg_no_": 1049,
+      "name_of_the_advocate": "B.SUDHAKAR RAO",
+      "address_of_the_advocate": "SRI SAI KRIPA APARTMENTS FLAT NO.33 RED HILLS LAKRI-KA-PUL HYDERABAD",
+      "area_of_practice": "HYDERABAD EXTND.WHOLE OF INDIA W.E.F.23.01.19",
+      "date_of_appointment": "1997-12-09T11:32:21Z",
+      "certificate_valid_upto": "2015-08-12T11:32:21Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 12,
+      "reg_no_": 1490,
+      "name_of_the_advocate": "R.S. MURTHY",
+      "address_of_the_advocate": "FLAT.NO.3 16-10-227 ANNEPURM NILAYAM RACE COURSE ROAD OLD MALAKPET HYDERABAD",
+      "area_of_practice": "HYDERABAD AND SECUNDERABAD",
+      "date_of_appointment": "1999-07-14T11:32:21Z",
+      "certificate_valid_upto": "2006-06-01T11:32:21Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 13,
+      "reg_no_": 1678,
+      "name_of_the_advocate": "V. BHIMANNA",
+      "address_of_the_advocate": "FLAT.NO.203 RANUKA SHAKTI APRTS. KOTI ROAD BASHEER BAGH HYDERABAD ANDHRA PRADESH",
+      "area_of_practice": "HYDERABAD (ANDHRA PRADESH).",
+      "date_of_appointment": "2000-05-03T11:32:21Z",
+      "certificate_valid_upto": "2010-07-05T11:32:21Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 14,
+      "reg_no_": 2307,
+      "name_of_the_advocate": "SH DELEEP KUMAR",
+      "address_of_the_advocate": "OPPOSITE R AND B GUEST HOUSE AKBER PET POST BAPATLA DISTRICT GUNTUR ANDHRA PRADESH",
+      "area_of_practice": "BAPATLA GUNTUR DISTRICT ANDHRA PRADESH",
+      "date_of_appointment": "2002-12-05T11:32:21Z",
+      "certificate_valid_upto": "2012-11-13T11:32:21Z",
+      "district": "GUNTUR"
+    },
+    {
+      "s_no_": 15,
+      "reg_no_": 2409,
+      "name_of_the_advocate": "SH SOMMASEKHAR M.",
+      "address_of_the_advocate": "2-1-68/A BAZAR STREET NAIDUPET NELLORE DISTRICT ANDHRA PRADESH",
+      "area_of_practice": "NAIDUPET TOWN NELLORE DISTRICT ANDHRA PRADESH",
+      "date_of_appointment": "2003-06-03T11:32:21Z",
+      "certificate_valid_upto": "2018-05-20T11:32:21Z",
+      "district": "NELLORE"
+    },
+    {
+      "s_no_": 16,
+      "reg_no_": 2514,
+      "name_of_the_advocate": "SMT.M.SUBBULAKSHMI",
+      "address_of_the_advocate": "D.NO. 4-69-17/13 401 4TH FLOOR SOUNDARYA LAHARI APARTMENTS LAWSONS BAY COLONY VISAKHAPATNAM",
+      "area_of_practice": "VISAKHAPATNAM ANDHRA PRADESH",
+      "date_of_appointment": "NA",
+      "certificate_valid_upto": "2019-03-02T11:32:21Z",
+      "district": "VISAKHAPATNAM"
+    },
+    {
+      "s_no_": 17,
+      "reg_no_": 2624,
+      "name_of_the_advocate": "SH. CHIKKALA NAGESWARA RAO",
+      "address_of_the_advocate": "R.G. PETA L. KOTA MANDALAM VIZIANAGARAM DISTRICT ANDHRA PRADESH",
+      "area_of_practice": "PENDURTHI MANDAL DISTRICT VISAKHAPATNAM ANDHRA PRADESH",
+      "date_of_appointment": "2004-04-08T11:32:21Z",
+      "certificate_valid_upto": "2019-07-04T11:32:21Z",
+      "district": "VISAKHAPATNAM"
+    },
+    {
+      "s_no_": 18,
+      "reg_no_": 2743,
+      "name_of_the_advocate": "SH. VISHNU VARDHANA RAO CHANDRAGIRI",
+      "address_of_the_advocate": "DOOR NO.30-9-22 FF3 SAI LAKSHMI TOWERS NAMBURIVARI STREET DURGA AGRAHARAM VIJAYWADA 520002 KRISHNA DISTRICT ANDHRA PRADESH",
+      "area_of_practice": "KRISHNA DISTRICT ANDHRA PRADESH",
+      "date_of_appointment": "2004-11-19T11:32:21Z",
+      "certificate_valid_upto": "2019-11-18T11:32:21Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 19,
+      "reg_no_": 2746,
+      "name_of_the_advocate": "SH. E.SRINIVASULU",
+      "address_of_the_advocate": "PLOT NO.5 HOUSE NO.3-1-111 S.B.H COLONY L.B.NAGAR RANGA REDDY DISTRICT ANDHRA PRADESH",
+      "area_of_practice": "L.B.NAGAR RANGA REDDY DISTRICT ANDHRA PRADESH",
+      "date_of_appointment": "2004-11-30T11:32:21Z",
+      "certificate_valid_upto": "2019-11-29T11:32:21Z",
+      "district": "RANGA REDDY"
+    },
+    {
+      "s_no_": 20,
+      "reg_no_": 2888,
+      "name_of_the_advocate": "SH. BANDARUPALLI HEMANTHA KUMAR",
+      "address_of_the_advocate": "WOOD NAGAR CHIRALA ANDHRA PRADESH",
+      "area_of_practice": "CHIRALA ANDHRA PRADESH",
+      "date_of_appointment": "2005-04-21T11:32:21Z",
+      "certificate_valid_upto": "2015-04-20T11:32:21Z",
+      "district": "PRAKASAM"
+    },
+    {
+      "s_no_": 21,
+      "reg_no_": 2908,
+      "name_of_the_advocate": "SH. LOYA SUBRAHMANYESWARA RAO",
+      "address_of_the_advocate": "D.NO.60-18-2 ASHOK NAGAR III LANE SARADA SADAN APARTMENTS FLAT NO.D.1 VIJAYWADA ANDHRA PRADESH",
+      "area_of_practice": "VIJAYWADA ANDHRA PRADESH",
+      "date_of_appointment": "2005-04-27T11:32:21Z",
+      "certificate_valid_upto": "2015-04-26T11:32:21Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 22,
+      "reg_no_": 2922,
+      "name_of_the_advocate": "SH. RAJA SEKHAR K",
+      "address_of_the_advocate": "D.NO.25.3.11 SEETHANAPET GANDHINAGAR VIJAYWADA ANDHRA PRADESH",
+      "area_of_practice": "ARUNDALPET VIJAYWADA ANDHRA PRADESH",
+      "date_of_appointment": "2005-04-28T11:32:21Z",
+      "certificate_valid_upto": "2010-04-27T11:32:21Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 23,
+      "reg_no_": 2932,
+      "name_of_the_advocate": "SH. REGULAGADD SAJJANA RAO",
+      "address_of_the_advocate": "DR. NO.1-3-38 RAMAKRISHNAPURAM IST WARD BAPATLA GUNTUR DISTRICT ANDHRA PRADESH",
+      "area_of_practice": "RAMAKIRHSNAPURAM IST WARD RAILPET BAPATLA GUNTUR DT ANDHRA PRADESH",
+      "date_of_appointment": "2005-05-09T11:32:21Z",
+      "certificate_valid_upto": "2015-08-05T11:32:21Z",
+      "district": "GUNTUR"
+    },
+    {
+      "s_no_": 24,
+      "reg_no_": 2937,
+      "name_of_the_advocate": "SH. BHEEMA LEELA KRISHNA",
+      "address_of_the_advocate": "D.O.NO.4-9-93 CPATEL NAGAR 3RD LINE BAPATLAGUNTUR(DT)ANDHRA PRADESH",
+      "area_of_practice": "BAPTLA GUNTUR(DT)ANDHRA PRADESH",
+      "date_of_appointment": "2005-05-10T11:32:21Z",
+      "certificate_valid_upto": "2015-09-05T11:32:21Z",
+      "district": "GUNTUR"
+    },
+    {
+      "s_no_": 25,
+      "reg_no_": 2948,
+      "name_of_the_advocate": "SH. KIRLAMPALLI BHAVANI SANKARA RAO",
+      "address_of_the_advocate": "VISSANNAPETA DISTRICT KRISHNAANDHRA PRADESH",
+      "area_of_practice": "VISSANNAPET DISTRICT KRISHNA ANDHRA PRADESH",
+      "date_of_appointment": "2005-05-20T11:32:21Z",
+      "certificate_valid_upto": "2010-05-20T11:32:21Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 26,
+      "reg_no_": 2993,
+      "name_of_the_advocate": "SH. SATYANARAYAN BELLAPUR",
+      "address_of_the_advocate": "DOOR NO.34.2.80 KASTURIBAI PET VIJAYA WADA-520010 KRISHNA DISTRICT ANDHRA PRADESH",
+      "area_of_practice": "VIJAYWADA KRISHNA DISTRICT ANDHRA PRADESH",
+      "date_of_appointment": "2005-06-29T11:32:21Z",
+      "certificate_valid_upto": "2015-06-28T11:32:21Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 27,
+      "reg_no_": 3029,
+      "name_of_the_advocate": "SH. VARIDI REDDY KRISHNA MOHAN",
+      "address_of_the_advocate": "DOOR NO.23.1.1242 ARAVINDA NAGAR NELLORE MUNICIPAL CORPORATION NELLORE DISTRICT ANDHRA PRADESH",
+      "area_of_practice": "NELLORE DISTRICT ANDHRA PRADESH",
+      "date_of_appointment": "2005-07-22T11:32:21Z",
+      "certificate_valid_upto": "2015-07-21T11:32:21Z",
+      "district": "NELLORE"
+    },
+    {
+      "s_no_": 28,
+      "reg_no_": 3035,
+      "name_of_the_advocate": "SH. BETHA VENKATA SATYASIVA PRASAD",
+      "address_of_the_advocate": "B.V.S.S. PRASAD DOOR NO.18.74.30 KOTHA SALIPETA OPPOSITE SUPER BAZAR LANE MAHARANIPETA ANDHRA PRADESH",
+      "area_of_practice": "VISAKHAPATNAM ANDHRA PRADESH",
+      "date_of_appointment": "2005-07-22T11:32:21Z",
+      "certificate_valid_upto": "2015-07-21T11:32:21Z",
+      "district": "VISAKHAPATNAM"
+    },
+    {
+      "s_no_": 29,
+      "reg_no_": 3086,
+      "name_of_the_advocate": "SH. B. JAGANMOHAN NAIDU",
+      "address_of_the_advocate": "HOUSE NO. 16-11-20/10 R. K. APARTMENT FLAT NO. 102 SALEMNAGARHYDERABAD ANDHRA PRADESH",
+      "area_of_practice": "RANGA REDDU DISTRICT COURT ANDHRA PRADESH",
+      "date_of_appointment": "2005-08-26T11:32:21Z",
+      "certificate_valid_upto": "2015-08-25T11:32:21Z",
+      "district": "RANGA REDDY"
+    },
+    {
+      "s_no_": 30,
+      "reg_no_": 3096,
+      "name_of_the_advocate": "SH. CHANDRAGIRI SRINIVASA RAO",
+      "address_of_the_advocate": "DOOR NO. 33-11-6 NETHAJI STREET SEETHARAMAPURAM VIJAYWADA KRISHNA DISTRICT AHNDRA PRADESH KRISHNA DISTRICT ANDHRA PRADESH",
+      "area_of_practice": "KRISHNA DISTRICT ANDHRA PRADESH",
+      "date_of_appointment": "2005-09-05T11:32:21Z",
+      "certificate_valid_upto": "2015-04-09T11:32:21Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 31,
+      "reg_no_": 3124,
+      "name_of_the_advocate": "SH. B. H. KISHORE KUMAR",
+      "address_of_the_advocate": "HOUSE NO. 4-1-215 ROTARY NAGAR KHAMMAM ANDHRA PRADESH",
+      "area_of_practice": "KHAMMAM ANDHRA PRADESH",
+      "date_of_appointment": "2005-09-19T11:32:21Z",
+      "certificate_valid_upto": "2016-09-18T11:32:21Z",
+      "district": "KHAMMAM"
+    },
+    {
+      "s_no_": 32,
+      "reg_no_": 3149,
+      "name_of_the_advocate": "SH. PINAPOTHU KOTESWARA RAO",
+      "address_of_the_advocate": "D. NO. 58-4-12 MARIDAMMA PETA JAGANNAIKPUR KAKINANA E. G. DISTRICT ANDHARA PRADESH KAKINANA E. G. DISTRICT ANDHARA PRADESH",
+      "area_of_practice": "EAST GODAVARI DISTRICT ANDHRA PRADESH",
+      "date_of_appointment": "2005-09-26T11:32:21Z",
+      "certificate_valid_upto": "2015-09-25T11:32:21Z",
+      "district": "EAST GODAVARI"
+    },
+    {
+      "s_no_": 33,
+      "reg_no_": 3160,
+      "name_of_the_advocate": "SH. LAXMI NARAYANA K.",
+      "address_of_the_advocate": "13/1 ARUNDELPET GUNTUR TOWNGUNTUR DISTRICT ANDHRA PRADESH",
+      "area_of_practice": "GUNTUR ANDHRA PRADESH",
+      "date_of_appointment": "2005-10-03T11:32:21Z",
+      "certificate_valid_upto": "2010-02-10T11:32:21Z",
+      "district": "GUNTUR"
+    },
+    {
+      "s_no_": 34,
+      "reg_no_": 3162,
+      "name_of_the_advocate": "SH. BATTINI SRINIVASA RAJASEKHAR",
+      "address_of_the_advocate": "HOUSE NO. 5-4-152/3 BRODIPETGUNTUR ANDHRA PRADESH",
+      "area_of_practice": "BRODIPET AREA GUNTUR ANDHRA PRADESH",
+      "date_of_appointment": "2005-10-03T11:32:21Z",
+      "certificate_valid_upto": "2015-02-10T11:32:21Z",
+      "district": "GUNTUR"
+    },
+    {
+      "s_no_": 35,
+      "reg_no_": 3205,
+      "name_of_the_advocate": "SH. NABI ZILANI SYED",
+      "address_of_the_advocate": "D. NO. 5-61-16 2/18 BRODLEPET GUNTUR DISTRICT ANDHRA PRADESH",
+      "area_of_practice": "GUNTUR ANDHRA PRADESH",
+      "date_of_appointment": "2005-10-14T11:32:21Z",
+      "certificate_valid_upto": "2015-11-13T11:32:21Z",
+      "district": "GUNTUR"
+    },
+    {
+      "s_no_": 36,
+      "reg_no_": 3209,
+      "name_of_the_advocate": "SH. SYED SAYED AHMED",
+      "address_of_the_advocate": "D. NO. 51-3-8 KHADER KHAN STREET JAGANNAICKPUR KAKINADA E. G. DISTRICT ANDHRA PRADESH",
+      "area_of_practice": "E. G. DISTRICT KAKINADA ANDHRA PRADESH",
+      "date_of_appointment": "2005-11-14T11:32:21Z",
+      "certificate_valid_upto": "2015-11-13T11:32:21Z",
+      "district": "EAST GODAVARI"
+    },
+    {
+      "s_no_": 37,
+      "reg_no_": 3252,
+      "name_of_the_advocate": "SH. VENKATA RAO PANDI",
+      "address_of_the_advocate": "DOOR NO. 28-22-25 1ST FLOOR REHMAN STREET ARUNDELPET VIJAYWADA ANDHRA PRADESH",
+      "area_of_practice": "KRISHNA DISTRICT ANDHRA PRADESH",
+      "date_of_appointment": "2005-12-02T11:32:21Z",
+      "certificate_valid_upto": "2010-01-12T11:32:21Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 38,
+      "reg_no_": 3253,
+      "name_of_the_advocate": "SH. VUTUKURI OMKAR BABU",
+      "address_of_the_advocate": "PERALA NEAR ANDHRA BANK ANDHRA PRADESH",
+      "area_of_practice": "PERALA AND CHIRALA ANDHRA PRADESH",
+      "date_of_appointment": "2005-11-24T11:32:21Z",
+      "certificate_valid_upto": "2015-11-23T11:32:21Z",
+      "district": "PRAKASAM"
+    },
+    {
+      "s_no_": 39,
+      "reg_no_": 3274,
+      "name_of_the_advocate": "SH. MELAMSREE KRISHNA",
+      "address_of_the_advocate": "12-12-6/3 PRADASH NAGAR NARASARAOPET GUNTURE DISTRICT ANDHRA PRADESH",
+      "area_of_practice": "STATION ROAD NARASARAOPET ANDHRA PRADESH",
+      "date_of_appointment": "2005-12-23T11:32:21Z",
+      "certificate_valid_upto": "2015-12-22T11:32:21Z",
+      "district": "GUNTUR"
+    },
+    {
+      "s_no_": 40,
+      "reg_no_": 3313,
+      "name_of_the_advocate": "SH. SATYANARAYANA",
+      "address_of_the_advocate": "DOOR NO. 21-10-73 AMBEDKAR COLONY MUTYALAMPADU VIJAYAWADA ANDHRA PRADESH",
+      "area_of_practice": "ANDHRA PRADESH",
+      "date_of_appointment": "2006-01-27T11:32:21Z",
+      "certificate_valid_upto": "2016-01-26T11:32:21Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 41,
+      "reg_no_": 3319,
+      "name_of_the_advocate": "SH.GUNASEKHAR R.",
+      "address_of_the_advocate": "5-4-254 VIJAYA LAKSHMI STREETTIRUPATI ADHRA PRADESH",
+      "area_of_practice": "TIRUPATI ADHRA PRADESH",
+      "date_of_appointment": "2006-02-01T11:32:21Z",
+      "certificate_valid_upto": "2016-01-31T11:32:21Z",
+      "district": "CHITTOOR"
+    },
+    {
+      "s_no_": 42,
+      "reg_no_": 3324,
+      "name_of_the_advocate": "SH. RAVI KAPI SATYA BALAJI GEDELA",
+      "address_of_the_advocate": "D. NO. 29-25-63 VEMUSIVARI STREETSURYARAOPET VIJAYWADA ANDHRA PRADESH",
+      "area_of_practice": "VIJAYWADA ANDHRA PRADESH",
+      "date_of_appointment": "2006-02-14T11:32:21Z",
+      "certificate_valid_upto": "2011-02-13T11:32:21Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 43,
+      "reg_no_": 3347,
+      "name_of_the_advocate": "SH. VIJAYA SEKAR PILLAI",
+      "address_of_the_advocate": "13-113 L. B. NAGARTIRUPATI ANDHRA PRADESH",
+      "area_of_practice": "TIRUPATI ANDHRA PRADESH",
+      "date_of_appointment": "2006-03-01T11:32:21Z",
+      "certificate_valid_upto": "2016-02-29T11:32:21Z",
+      "district": "CHITTOOR"
+    },
+    {
+      "s_no_": 44,
+      "reg_no_": 3385,
+      "name_of_the_advocate": "SH. SHAIK JAKEER HUSAIN",
+      "address_of_the_advocate": "VILLAGE AKARAM SHATI GOWRARAM REVENUE MANDAL NALGONDA DISTRICTNALGONDA DISTRICT ANDHRA PRADESH",
+      "area_of_practice": "MOSAPET RANGA REDDY DISTRICT ANDHRA PRADESH",
+      "date_of_appointment": "2006-03-24T11:32:21Z",
+      "certificate_valid_upto": "2016-03-23T11:32:21Z",
+      "district": "RANGA REDDY"
+    },
+    {
+      "s_no_": 45,
+      "reg_no_": 3391,
+      "name_of_the_advocate": "SH. KAKARALA LALITHA RAMA PRAKASH",
+      "address_of_the_advocate": "DR. NO. 17-15-8/4 KRISHNA NAGARSEETHAMPETA RAJAHMANDRY EAST GODAVARI DISTRICT ANDHRA PRADESH",
+      "area_of_practice": "KRISHNA NAGAR RAJAHMUNDRY ANDHRA PRADESH",
+      "date_of_appointment": "2006-03-24T11:32:21Z",
+      "certificate_valid_upto": "2016-03-23T11:32:21Z",
+      "district": "EAST GODAVARI"
+    },
+    {
+      "s_no_": 46,
+      "reg_no_": 3457,
+      "name_of_the_advocate": "SH. VENGALA VENKATESHWARLU",
+      "address_of_the_advocate": "NO.1-7-630/B/2 GEMINI COLONY MUSHEERABADHYDERABAD-500020 ANDHRA PRADESH",
+      "area_of_practice": "GEMINI COLONY MUSHEERABAD(HYDERABAD)ANDHRA PRADESH",
+      "date_of_appointment": "2006-06-05T11:32:21Z",
+      "certificate_valid_upto": "2016-05-06T11:32:21Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 47,
+      "reg_no_": 3474,
+      "name_of_the_advocate": "SH.DODLA LAKSHMANA RAO",
+      "address_of_the_advocate": "D.NO.25-10/1-125 E 2ND LANE TEACHERS COLONYMUTYALAMPADU VIJAYAWADA-520011 KRISHNA DISTRICTANDHRA PRADESH",
+      "area_of_practice": "VIJAYAWADA ANDHRA PRADESH",
+      "date_of_appointment": "2006-06-09T11:32:21Z",
+      "certificate_valid_upto": "2016-11-06T11:32:21Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 48,
+      "reg_no_": 3489,
+      "name_of_the_advocate": "SH. VATTIJONNALA BRAHMA REDDY",
+      "address_of_the_advocate": "D.NO.26-19-51/1A OLD FIRST LANE A.T. AGRABARAM GUNTUR ANDHRA PRADESH522004",
+      "area_of_practice": "A.T. AGRAHARAM GUNTUR ANDHRA PRADESH",
+      "date_of_appointment": "2006-06-20T11:32:21Z",
+      "certificate_valid_upto": "2016-06-19T11:32:21Z",
+      "district": "GUNTUR"
+    },
+    {
+      "s_no_": 49,
+      "reg_no_": 3509,
+      "name_of_the_advocate": "SHRI PAGADALA RAMACHANDRA REDDDY",
+      "address_of_the_advocate": "12-1/1/15/9 SRIMANNARAYANA COLONY KODADA TOWN AND MANDAL NALGONDA DISTRICT ANDHRA PRADESH",
+      "area_of_practice": "KODADA(NALGONDA DISTRICT ANDHRA PRADESH)",
+      "date_of_appointment": "2006-07-28T11:32:21Z",
+      "certificate_valid_upto": "2016-07-27T11:32:21Z",
+      "district": "NALGONDA"
+    },
+    {
+      "s_no_": 50,
+      "reg_no_": 3511,
+      "name_of_the_advocate": "SH. KONATHAM CHANDRA SEKHARA RAO",
+      "address_of_the_advocate": "D.NO.41-11-9/4 BABURAO STREETNAIDUPET KRISHMALANKA VIJAYAWADA-520013 KRISHNA DISTRICTANDHRA PRADESH",
+      "area_of_practice": "VIJAYAWADA ANDHRA PRADESH",
+      "date_of_appointment": "2006-07-31T11:32:21Z",
+      "certificate_valid_upto": "2016-07-30T11:32:21Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 51,
+      "reg_no_": 3570,
+      "name_of_the_advocate": "SH. JAWAHARLAL DAVID BUDITHI",
+      "address_of_the_advocate": "D.NO.30-6-31 LIKKI PULLAIAH STREETDURGA AGRABARAMVIJAYAWADA-2ANDHRA PRADESH",
+      "area_of_practice": "VIJAYAWADA ANDHRA PRADESH",
+      "date_of_appointment": "2006-08-21T11:32:22Z",
+      "certificate_valid_upto": "2016-08-20T11:32:22Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 52,
+      "reg_no_": 3583,
+      "name_of_the_advocate": "SH. KAZA SAYES WARA SARMA",
+      "address_of_the_advocate": "PLOT NO.36/1 AVANTINAGAR THOTA GLASS FACTORY ROAD ERRAGADDA SANATH NAGAR HYDERABAD ANDHRA PRADESH",
+      "area_of_practice": "RANGAREDDY DISTRICT ANDHRA PRADESH",
+      "date_of_appointment": "2006-08-28T11:32:22Z",
+      "certificate_valid_upto": "2016-08-27T11:32:22Z",
+      "district": "RANGA REDDY"
+    },
+    {
+      "s_no_": 53,
+      "reg_no_": 3594,
+      "name_of_the_advocate": "SHRI KESAMSHETTY VENKATESWARLU",
+      "address_of_the_advocate": "HOUSE NO. 16-2-752/K/65 OPPOSITE SIVA GANGA 70 M.M. THEATREGADDIANNARAM DILSUKHNAGAR RANGAREDDY DISTRICT A P",
+      "area_of_practice": "RANGAREDDY A P",
+      "date_of_appointment": "2006-08-30T11:32:22Z",
+      "certificate_valid_upto": "2016-08-29T11:32:22Z",
+      "district": "RANGA REDDY"
+    },
+    {
+      "s_no_": 54,
+      "reg_no_": 3600,
+      "name_of_the_advocate": "SHRI MOHD. IBRAHIM ALI KHAN",
+      "address_of_the_advocate": "HOUSE NO. 19-3-232JAHANUMA HYDERABAD 53 AP",
+      "area_of_practice": "HYDERABAD ANDHRA PRADESH",
+      "date_of_appointment": "2006-08-05T11:32:22Z",
+      "certificate_valid_upto": "2011-04-09T11:32:22Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 55,
+      "reg_no_": 3643,
+      "name_of_the_advocate": "L.VENKATRAMANA",
+      "address_of_the_advocate": "DOOR. NO- 1-6-618 BANDLAMITTAINDIRA NAGAR TIRUPATICHITTOR-517501 ANDHRA PRADESH",
+      "area_of_practice": "TIRUPATI AP",
+      "date_of_appointment": "2006-09-25T11:32:22Z",
+      "certificate_valid_upto": "2016-09-24T11:32:22Z",
+      "district": "CHITTOOR"
+    },
+    {
+      "s_no_": 56,
+      "reg_no_": 3677,
+      "name_of_the_advocate": "DHULIBALLA V.A.S. RAVI PRASAD",
+      "address_of_the_advocate": "HOUSE NO. 12-1-86/5/1 ROAD NO. 2 ANAND NAGAR COLONY BANDLAGUDA GSI (SR) POST OFFICE HYDERABAD - 500068 ANDHRA PRADESH",
+      "area_of_practice": "HYDERABAD (ANDHRA PRADESH)",
+      "date_of_appointment": "2006-10-13T11:32:22Z",
+      "certificate_valid_upto": "2016-12-10T11:32:22Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 57,
+      "reg_no_": 3684,
+      "name_of_the_advocate": "NADAKUDURU AMARANADHAM",
+      "address_of_the_advocate": "MANDAVA VARI STREET SATRAMPADU ELURU - 7 WEST GODAVARI DISTRICTANDHRA PRADESH",
+      "area_of_practice": "WEST GODAVARI AND KRISHNA DISTT AP",
+      "date_of_appointment": "2006-10-25T11:32:22Z",
+      "certificate_valid_upto": "2016-10-24T11:32:22Z",
+      "district": "WEST GODAVARI & KRISHNA"
+    },
+    {
+      "s_no_": 58,
+      "reg_no_": 3710,
+      "name_of_the_advocate": "SEELAM SRINIVASA REDDY",
+      "address_of_the_advocate": "DOOR NO. 40-9/11-1 MUNIABAL EMPLOYEES COLONYVIJAYAWADA - 520010 KRISHNA DISTRICT ANDHRA PRADESH",
+      "area_of_practice": "VIJAYAWADA (ANDHRA PRADESH)",
+      "date_of_appointment": "2006-11-17T11:32:22Z",
+      "certificate_valid_upto": "2016-11-16T11:32:22Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 59,
+      "reg_no_": 3725,
+      "name_of_the_advocate": "MUNIGALA RAJAIAH",
+      "address_of_the_advocate": "HOUSE NO. 2-10-994 JYOTHINAGAR KARIMNAGAR ANDHRA PRADESH - 505001",
+      "area_of_practice": "KARIMNAGAR (ANDHRA PRADESH)",
+      "date_of_appointment": "2006-11-30T11:32:22Z",
+      "certificate_valid_upto": "2016-11-29T11:32:22Z",
+      "district": "KARIM NAGAR"
+    },
+    {
+      "s_no_": 60,
+      "reg_no_": 3733,
+      "name_of_the_advocate": "GUNTURU SHRINIVASA ROYAL",
+      "address_of_the_advocate": "AMBEDKAR COLONY OLD PONNURPONNUR (POANDDC) GUNTUR DISTRICT ANDHRA PRADESH - 522124",
+      "area_of_practice": "PONNUR (ANDHRA PRADESH)",
+      "date_of_appointment": "2006-11-30T11:32:22Z",
+      "certificate_valid_upto": "2016-07-12T11:32:22Z",
+      "district": "GUNTUR"
+    },
+    {
+      "s_no_": 61,
+      "reg_no_": 3751,
+      "name_of_the_advocate": "BONDA RAMESH",
+      "address_of_the_advocate": "PLOT NO. 72 DOOR NO. 85-30-04/1 R.T.C. COLONY RAJAHMUNDRY -533103 ANDHRA PRADESH",
+      "area_of_practice": "RAJAHMUNDRY (ANDHRA PRADESH)",
+      "date_of_appointment": "2006-12-08T11:32:22Z",
+      "certificate_valid_upto": "2016-07-12T11:32:22Z",
+      "district": "EAST GODAVARI"
+    },
+    {
+      "s_no_": 62,
+      "reg_no_": 3783,
+      "name_of_the_advocate": "AIJAB ALI QURAISHI",
+      "address_of_the_advocate": "HOUSE NO. 17-3-224/AQURAISHI LANE YAKUTPURAHYDERABAD - 23 ANDHRA PRADESH",
+      "area_of_practice": "HYDERABAD (ANDHRA PRADESH)",
+      "date_of_appointment": "2007-01-17T11:32:22Z",
+      "certificate_valid_upto": "2017-01-16T11:32:22Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 63,
+      "reg_no_": 3813,
+      "name_of_the_advocate": "D.S.S.N. MURTHY",
+      "address_of_the_advocate": "FLAT NO. 404 SWARNA PALACEMARUTHI NAGAR SEETHAMMADHARA NORTH EXTENSIONVISAKHAPATNAM ANDHRA PRADESH",
+      "area_of_practice": "VISAKHAPATNAM ANDHRA PRADESH",
+      "date_of_appointment": "2007-02-20T11:32:22Z",
+      "certificate_valid_upto": "2017-02-19T11:32:22Z",
+      "district": "VISAKHAPATNAM"
+    },
+    {
+      "s_no_": 64,
+      "reg_no_": 3848,
+      "name_of_the_advocate": "BUSI SUBHA RAO",
+      "address_of_the_advocate": "DOOR NO. 1-1-60 26TH WARDVAVILALA NAGAR SATTENAPALLI (POST) GUNTUR DISTRICT ANDHRA PRADESH - 522408",
+      "area_of_practice": "GUNTUR DISTT A.P.",
+      "date_of_appointment": "2007-02-26T11:32:22Z",
+      "certificate_valid_upto": "2017-02-25T11:32:22Z",
+      "district": "GUNTUR"
+    },
+    {
+      "s_no_": 65,
+      "reg_no_": 3861,
+      "name_of_the_advocate": "SHAIK RASOOL",
+      "address_of_the_advocate": "D.NO. 7/360-B S.J.P. GOVT. HIGH SCHOOL ROADGUNTAKAL ANANTAPUR DISTRICT ANDHRA PRADESH",
+      "area_of_practice": "GUNTAKAL (ANDHRA PRADESH)",
+      "date_of_appointment": "2007-03-01T11:32:22Z",
+      "certificate_valid_upto": "2017-02-28T11:32:22Z",
+      "district": "ANANTAPUR"
+    },
+    {
+      "s_no_": 66,
+      "reg_no_": 3892,
+      "name_of_the_advocate": "VENKATA NARASIMBA RAO MUTHYALA",
+      "address_of_the_advocate": "11/148 RAMAKRISHNA STREET PARAMAKUDI RAMANATHNAPURAM DISTRICT TAMIL NADU",
+      "area_of_practice": "RANGA REDDY DISTT ANDHRA PRADESH",
+      "date_of_appointment": "2007-03-06T11:32:22Z",
+      "certificate_valid_upto": "2017-05-03T11:32:22Z",
+      "district": "RANGA REDDY"
+    },
+    {
+      "s_no_": 67,
+      "reg_no_": 3945,
+      "name_of_the_advocate": "GAUTHAM BABU MUDARAKO",
+      "address_of_the_advocate": "D.NO.32-1-1-A GANDHI BOMMALA ROADPRAJASAKTHI NAGAR VIJAYAWADA - 10 ANDHRA PRADESH",
+      "area_of_practice": "PARAJASAKTHI NAGAR VIJAYAWADA (ANDHRA PRADESH)",
+      "date_of_appointment": "2007-03-23T11:32:22Z",
+      "certificate_valid_upto": "2017-03-28T11:32:22Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 68,
+      "reg_no_": 3954,
+      "name_of_the_advocate": "TANUODDY SAMBI REDDY",
+      "address_of_the_advocate": "2727Y7TH STREET 12TH MAIN ROAD ANNA NAGAR CHENNAI CHENNAI TAMIL NADU",
+      "area_of_practice": "HYDERABAD (ANDHRA PRADESH)",
+      "date_of_appointment": "2007-03-23T11:32:22Z",
+      "certificate_valid_upto": "2012-03-22T11:32:22Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 69,
+      "reg_no_": 3972,
+      "name_of_the_advocate": "E. SURESH",
+      "address_of_the_advocate": "D.NO.9-25/1FIRST FLOORLALITHA NAGAR DILSHUCH NAGARHYDERABAD - 60 (ANDHRA PRADESH)",
+      "area_of_practice": "RANGA REDDY DISTT (ANDHRA PRADESH)",
+      "date_of_appointment": "2007-04-11T11:32:22Z",
+      "certificate_valid_upto": "2012-10-04T11:32:22Z",
+      "district": "RANGA REDDY"
+    },
+    {
+      "s_no_": 70,
+      "reg_no_": 3985,
+      "name_of_the_advocate": "AMARCHAND PARUPALLI",
+      "address_of_the_advocate": "D. NO. 11-3-39 NEHRU NAGAR NEAR REVATHI THEATRE KHAMMAM TOWN ANDHRA PRADESH",
+      "area_of_practice": "KHAMMAM(AP)",
+      "date_of_appointment": "2007-04-12T11:32:22Z",
+      "certificate_valid_upto": "2017-11-04T11:32:22Z",
+      "district": "KHAMMAM"
+    },
+    {
+      "s_no_": 71,
+      "reg_no_": 4007,
+      "name_of_the_advocate": "NARASINGAM VENKATESWARA RAO",
+      "address_of_the_advocate": "D.NO.29-1-10 SASHDARI SASTRY (ST.)GOVERNERPET VIJAYAWADA AP",
+      "area_of_practice": "VIJAYAWADA (ANDHRA PRADESH)",
+      "date_of_appointment": "2007-04-23T11:32:22Z",
+      "certificate_valid_upto": "2012-04-22T11:32:22Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 72,
+      "reg_no_": 4025,
+      "name_of_the_advocate": "PONUGOTI KISHAN RAO",
+      "address_of_the_advocate": "D.NO.8-2-24SUNDARAIAH NAGARMANUGURU TOWN AND MANDAL KHAMMAM DISTRICT AP - 507117",
+      "area_of_practice": "KOTHAGUDEM KHAMMAM DISTT (ANDHRA PRADESH)",
+      "date_of_appointment": "2007-04-30T11:32:22Z",
+      "certificate_valid_upto": "2017-04-26T11:32:22Z",
+      "district": "KHAMMAM"
+    },
+    {
+      "s_no_": 73,
+      "reg_no_": 4075,
+      "name_of_the_advocate": "SUNKARA VENKATA RANGAIAH",
+      "address_of_the_advocate": "D.NO.37-1-406(28/C) MITHARA AGENCIES UPSTAIR IIND LINE BHAGYANAGAR ONGOLE PRAKASAM DISTRICT ANDHRA PRADESH",
+      "area_of_practice": "ONGOLE TOWN PRAKASAM DISTT (ANDHRA PRADESH)",
+      "date_of_appointment": "2007-05-18T11:32:22Z",
+      "certificate_valid_upto": "2017-05-17T11:32:22Z",
+      "district": "PRAKASAM"
+    },
+    {
+      "s_no_": 74,
+      "reg_no_": 4083,
+      "name_of_the_advocate": "P.VENKATA RAO",
+      "address_of_the_advocate": "D.NO.4-1-569 FLAT NO.207RELIANCE COMPLEX TROOP BAZARABIDS HYDERABAD - 500001(AP)",
+      "area_of_practice": "HYDERABAD (AP)",
+      "date_of_appointment": "2007-05-23T11:32:22Z",
+      "certificate_valid_upto": "2012-05-22T11:32:22Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 75,
+      "reg_no_": 4111,
+      "name_of_the_advocate": "VIYYAPU PYDIKONDA",
+      "address_of_the_advocate": "D.NO.2-4-3YELLAPUVANIPALEN ANDHRA PRADESH",
+      "area_of_practice": "VISAKHAPATNAM ANDHRA PRADESH",
+      "date_of_appointment": "2007-05-29T11:32:22Z",
+      "certificate_valid_upto": "2012-05-28T11:32:22Z",
+      "district": "VISAKHAPATNAM"
+    },
+    {
+      "s_no_": 76,
+      "reg_no_": 4141,
+      "name_of_the_advocate": "P.V.YEDUKONDALU",
+      "address_of_the_advocate": "D.NO. 24-28-3/37DURGAPURAMVIJAYAWADA - 3 ANDHRA PRADESH",
+      "area_of_practice": "VIJAYAWADA DISTT KRIAHNA ANDHRA PRADESH",
+      "date_of_appointment": "2007-06-11T11:32:22Z",
+      "certificate_valid_upto": "2017-10-06T11:32:22Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 77,
+      "reg_no_": 4146,
+      "name_of_the_advocate": "RAVI KUMAR KUNCHARLA",
+      "address_of_the_advocate": "D-24-1-101 DURGAPURAMVIJAYAWADA - 520003 ANDHRA PRADESH",
+      "area_of_practice": "VIJAYAWADA KRISHNA DISTT (ANDHRA PRADESH)",
+      "date_of_appointment": "2007-06-11T11:32:22Z",
+      "certificate_valid_upto": "2017-10-06T11:32:22Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 78,
+      "reg_no_": 4249,
+      "name_of_the_advocate": "JILLA VENKALESHWARLU RAJAM",
+      "address_of_the_advocate": "H.NO.1-10-147 KALANAGAR1ST STREET METPALLY - 505325 DISTRICT KARIMNAGAR ANDHRA PRADESH",
+      "area_of_practice": "METPALLY DISTT KARIMNAGAR ANDHRA PRADESH",
+      "date_of_appointment": "2007-07-03T11:32:22Z",
+      "certificate_valid_upto": "2017-07-29T11:32:22Z",
+      "district": "KARIM NAGAR"
+    },
+    {
+      "s_no_": 79,
+      "reg_no_": 4259,
+      "name_of_the_advocate": "MALLELA ERUSU",
+      "address_of_the_advocate": "D.NO.25-1-42 TELAGAPALEMOPPOSITE SSLV TEMPLE NEAR RTC DEPOTPONNUR - 522124 GUNTUR ANDHRA PRADESH (DT)",
+      "area_of_practice": "PONNUR DISTT GUNTUR ANDHRA PRADESH",
+      "date_of_appointment": "2007-07-04T11:32:22Z",
+      "certificate_valid_upto": "2017-03-07T11:32:22Z",
+      "district": "GUNTUR"
+    },
+    {
+      "s_no_": 80,
+      "reg_no_": 4281,
+      "name_of_the_advocate": "J.SHIVA RAM PRASAD",
+      "address_of_the_advocate": "H.NO.16-1-60 BRAHMIN STREETNEW PALONCHA PIN - 507115KHAMAM (DT) ANDHRA PRADESH",
+      "area_of_practice": "NEW PALONCHA MUNICIPAL TOWN DISTT KHAMMAM AP",
+      "date_of_appointment": "2007-07-11T11:32:22Z",
+      "certificate_valid_upto": "2017-10-07T11:32:22Z",
+      "district": "KHAMMAM"
+    },
+    {
+      "s_no_": 81,
+      "reg_no_": 4287,
+      "name_of_the_advocate": "SAMBI REDDY ANETHU",
+      "address_of_the_advocate": "FLAT NO. 40 RAHMAT COMPLEXAMEERPET X ROADSAMEERPET HYDERABAD - AP",
+      "area_of_practice": "AMEERPET HYDERABAD CITY AP",
+      "date_of_appointment": "2007-07-11T11:32:22Z",
+      "certificate_valid_upto": "2017-10-07T11:32:22Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 82,
+      "reg_no_": 4339,
+      "name_of_the_advocate": "MOHD.HAMEED KHAN",
+      "address_of_the_advocate": "H.NO.1-8-495/19/C VIQUAR NAGAR NEAR PRAKASH NAGAR SECUNDERABADDISTRICTHYDERABAD (AP)",
+      "area_of_practice": "BEGUMPET HYDERABAD (AP)",
+      "date_of_appointment": "2007-07-23T11:32:22Z",
+      "certificate_valid_upto": "2017-07-22T11:32:22Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 83,
+      "reg_no_": 4484,
+      "name_of_the_advocate": "PEDA SUBBA RAO BANDI",
+      "address_of_the_advocate": "D.NO. 25-17-7 PEZZONIPETBATTULVARI STREET VIJAYAWADA (ANDHRA PRADESH)",
+      "area_of_practice": "DISTRICT VIJAYWADA (AP)",
+      "date_of_appointment": "2007-08-21T11:32:22Z",
+      "certificate_valid_upto": "2017-08-21T11:32:22Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 84,
+      "reg_no_": 4485,
+      "name_of_the_advocate": "RAMA MOHAN RAO KOTHA",
+      "address_of_the_advocate": "H.NO.11-13-13 NEAR HEAD OFFICERAMIREDDYPET NARASARAOPETGUNTUR DISTRICT( ANDHRA PRADESH)",
+      "area_of_practice": "DISTRICT GUNTUR (ANDHRA PRADESH)",
+      "date_of_appointment": "2007-08-21T11:32:22Z",
+      "certificate_valid_upto": "2017-08-21T11:32:22Z",
+      "district": "GUNTUR"
+    },
+    {
+      "s_no_": 85,
+      "reg_no_": 4496,
+      "name_of_the_advocate": "CHANDU NAGA RAJU",
+      "address_of_the_advocate": "MURTHY STREET ARUNDAL PETVIJAYWADA - 520002 KRISHNA DISTRICT AP",
+      "area_of_practice": "VIJAYAWADA (AP)",
+      "date_of_appointment": "2007-08-22T11:32:22Z",
+      "certificate_valid_upto": "2017-08-22T11:32:22Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 86,
+      "reg_no_": 4562,
+      "name_of_the_advocate": "MULLULA SRINIVASA RAO",
+      "address_of_the_advocate": "D.NO.5-93 VENDRA (V)PALAKODERU (M) W.G.A.AP - 534210",
+      "area_of_practice": "BHIMAVARAM TOWN DISTRICTWEST GODAVARI (AP)",
+      "date_of_appointment": "2007-09-06T11:32:22Z",
+      "certificate_valid_upto": "2017-05-09T11:32:22Z",
+      "district": "WEST GODAVARI"
+    },
+    {
+      "s_no_": 87,
+      "reg_no_": 4596,
+      "name_of_the_advocate": "KOTHIM C HANTI BABU",
+      "address_of_the_advocate": "368/A BANK COLONY PEDDAPURAME.G.DISTRICTANDHRA PRADESH",
+      "area_of_practice": "PEDDAPURAM DISTRICT EAST GODAVARI (AP)",
+      "date_of_appointment": "2007-09-12T11:32:22Z",
+      "certificate_valid_upto": "2017-11-09T11:32:22Z",
+      "district": "EAST GODAVARI"
+    },
+    {
+      "s_no_": 88,
+      "reg_no_": 4648,
+      "name_of_the_advocate": "KESIRAJU VENKATA RAJAKUMAR",
+      "address_of_the_advocate": "H.NO. 9-5 DEVARAPALLI W.G. DISTRICT - 534313 (AP)",
+      "area_of_practice": "DEVARAPALLI DISTRICT WEST GADAVARI (AP)",
+      "date_of_appointment": "2007-10-01T11:32:22Z",
+      "certificate_valid_upto": "2017-09-30T11:32:22Z",
+      "district": "WEST GODAVARI"
+    },
+    {
+      "s_no_": 89,
+      "reg_no_": 4655,
+      "name_of_the_advocate": "M.B.V. REDDY",
+      "address_of_the_advocate": "D.NO.50-113-215 N-E LAYOUT SEETHAMMADHARA VISAKHAPATNAM PIN - 530013 (ANDHRA PRADESH)",
+      "area_of_practice": "VISAKHAPATNAM (AP)",
+      "date_of_appointment": "2007-10-01T11:32:22Z",
+      "certificate_valid_upto": "2017-09-30T11:32:22Z",
+      "district": "VISAKHAPATNAM"
+    },
+    {
+      "s_no_": 90,
+      "reg_no_": 4706,
+      "name_of_the_advocate": "VENKATESWARA RAO CH.",
+      "address_of_the_advocate": "D.NO. 32-19-2 ANJANERJA NILAYAM MOGALRAJPURAMVIJAYAWADA (AP)",
+      "area_of_practice": "CIVIL AND CRIMINAL COURTS VIJAYAWADA (AP)",
+      "date_of_appointment": "2007-10-04T11:32:22Z",
+      "certificate_valid_upto": "2017-03-10T11:32:22Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 91,
+      "reg_no_": 4709,
+      "name_of_the_advocate": "MOHAMMAD ZIAUDDIN",
+      "address_of_the_advocate": "NO.1-3-400 AND 401 RANGASWAMY NAGAR 4TH ROAD EXTN ANANTAPUR - 515004 (AP)",
+      "area_of_practice": "CIVIL STATION AREA DISTRICT ANANTAPUR (AP)",
+      "date_of_appointment": "2007-10-08T11:32:22Z",
+      "certificate_valid_upto": "2017-07-10T11:32:22Z",
+      "district": "ANANTAPUR"
+    },
+    {
+      "s_no_": 92,
+      "reg_no_": 4717,
+      "name_of_the_advocate": "SURESH KUMAR P.",
+      "address_of_the_advocate": "L.I.G. BLOCK - 8 FLAT - 4BAGHLINGAMPALLY HYDERABAD - 044(ANDHRA PRADESH)",
+      "area_of_practice": "HYDERABAD (AP)",
+      "date_of_appointment": "2007-10-08T11:32:22Z",
+      "certificate_valid_upto": "2017-08-10T11:32:22Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 93,
+      "reg_no_": 4774,
+      "name_of_the_advocate": "PONNADA SURYA RAO",
+      "address_of_the_advocate": "D.NO. -123 GANDHI HOUSE MAIN ROAD RAZOLE RAZOLE MANDAL E.G. DISTRICTAP",
+      "area_of_practice": "RAZOLE COURTS E.G.DISTRICT (AP)",
+      "date_of_appointment": "2007-10-22T11:32:22Z",
+      "certificate_valid_upto": "2017-10-21T11:32:22Z",
+      "district": "EAST GODAVARI"
+    },
+    {
+      "s_no_": 94,
+      "reg_no_": 4807,
+      "name_of_the_advocate": "RAGHAVA RAO G.",
+      "address_of_the_advocate": "H.NO. 2-214 MULAGUNTA PADUSINGARAYAKONDA MANDAL PRAKASHAM DISTRICT- 523101 (AP)",
+      "area_of_practice": "ONGOLE PARKASAM DISTRICT (AP)",
+      "date_of_appointment": "2007-10-25T11:32:22Z",
+      "certificate_valid_upto": "2012-10-24T11:32:22Z",
+      "district": "PRAKASAM"
+    },
+    {
+      "s_no_": 95,
+      "reg_no_": 4822,
+      "name_of_the_advocate": "PARLA SUDHAKAR",
+      "address_of_the_advocate": "H.NO.49MUNICIPAL COLONY RAJAMUNDRY EAST GODAVARI DISTRICT - 533105 AP",
+      "area_of_practice": "RAJAMUNDRY AND RAMPAHODAVARM DIVN.EG DISTRICT (AP)",
+      "date_of_appointment": "2007-10-29T11:32:22Z",
+      "certificate_valid_upto": "2017-10-28T11:32:22Z",
+      "district": "EAST GODAVARI"
+    },
+    {
+      "s_no_": 96,
+      "reg_no_": 4849,
+      "name_of_the_advocate": "D.ANAND",
+      "address_of_the_advocate": "H.NO. 5-2-52 L.B.S. NAGARYELLANDU KHAMMAM DISTRICTPIN - 507123 (AP)",
+      "area_of_practice": "YELLANDU DISTRICT KHAMMAM (AP)",
+      "date_of_appointment": "2007-11-12T11:32:22Z",
+      "certificate_valid_upto": "2017-11-11T11:32:22Z",
+      "district": "KHAMMAM"
+    },
+    {
+      "s_no_": 97,
+      "reg_no_": 4858,
+      "name_of_the_advocate": "MOHAMMAD NASIRUDDIN",
+      "address_of_the_advocate": "D.NO. 21-3-7 KHASIM STREETSALIPETA KAKINADA EAST GODAVARI - 533001 ANDHRA PRADESH",
+      "area_of_practice": "KAKINADA DISTRICT EAST GODAVARI (AP)",
+      "date_of_appointment": "2007-11-13T11:32:22Z",
+      "certificate_valid_upto": "2017-12-11T11:32:22Z",
+      "district": "EAST GODAVARI"
+    },
+    {
+      "s_no_": 98,
+      "reg_no_": 4895,
+      "name_of_the_advocate": "VENKATASWARA VARA PRASAD DARA",
+      "address_of_the_advocate": "D.NO. 40-1-93/1 KANNA NAGARNEAR BENZ CIRCLE VIJAYAWADA - 520010 ANDHRA PRADESH",
+      "area_of_practice": "VIJAYAWADA DISTRICT KRISHNA (AP)",
+      "date_of_appointment": "2007-11-20T11:32:22Z",
+      "certificate_valid_upto": "2017-11-19T11:32:22Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 99,
+      "reg_no_": 4899,
+      "name_of_the_advocate": "ABDUL AZIZ",
+      "address_of_the_advocate": "H.NO. 1-10-104/42/2/2A ALLAM TOLA BAVI BEGUMPET MAYUR MARGHYDERABAD (ANDHRA PRADESH)",
+      "area_of_practice": "HYDERABAD (AP)",
+      "date_of_appointment": "2007-11-20T11:32:22Z",
+      "certificate_valid_upto": "2017-11-19T11:32:22Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 100,
+      "reg_no_": 4900,
+      "name_of_the_advocate": "KRISHNA GUDIPATI",
+      "address_of_the_advocate": "D.NO. 75-7-24/A NAGARJUNA STREETBHAVANIPURAM VIJAYAWADA - 520012 (ANDHRA PRADESH)",
+      "area_of_practice": "VIJAYAWADA DISTRICT KRISHNA (AP)",
+      "date_of_appointment": "2007-11-20T11:32:22Z",
+      "certificate_valid_upto": "2017-11-19T11:32:22Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 101,
+      "reg_no_": 4919,
+      "name_of_the_advocate": "MOHAMMED ANWAR PASHA",
+      "address_of_the_advocate": "PLOT NO. 104 SECTOR -4 M.U.P. COLONYVISAKHAPATNAM - 530017 ANDHRA PRADESH",
+      "area_of_practice": "VISAKHAPATNAM (ANDHRA PRADESH)",
+      "date_of_appointment": "2007-11-21T11:32:22Z",
+      "certificate_valid_upto": "2001-11-20T11:32:22Z",
+      "district": "VISAKHAPATNAM"
+    },
+    {
+      "s_no_": 102,
+      "reg_no_": 4957,
+      "name_of_the_advocate": "R.SRINIVAS",
+      "address_of_the_advocate": "NAVULURU POST MANGALAGIRI MANDAL - 522503 GUNTUR DISTRICT ANDHRA PRADESH",
+      "area_of_practice": "MANGALAGIRI DISTRICT GUNTUR (AP)",
+      "date_of_appointment": "2007-11-27T11:32:22Z",
+      "certificate_valid_upto": "2017-11-26T11:32:22Z",
+      "district": "GUNTUR"
+    },
+    {
+      "s_no_": 103,
+      "reg_no_": 4959,
+      "name_of_the_advocate": "PURUCHURI KISHORE",
+      "address_of_the_advocate": "D.NO. 5-19-18 4TH LINE2ND CROSS ROAD LAKSHMIPURAMGUNTUR - 522007 (ANDHRA PRADESH)",
+      "area_of_practice": "LAKSHMIPURAM DISTRICT GUNTUR (AP)",
+      "date_of_appointment": "2007-11-28T11:32:22Z",
+      "certificate_valid_upto": "2017-11-27T11:32:22Z",
+      "district": "GUNTUR"
+    },
+    {
+      "s_no_": 104,
+      "reg_no_": 4960,
+      "name_of_the_advocate": "VENKATA NARASIMHA BHANUPRAKASH JALDU",
+      "address_of_the_advocate": "DOOR NO. 4/549 RAJUPETMACHILIPATNAM - 521001 KRISHNA DISTRICT (AP)",
+      "area_of_practice": "MACHILIPATNAM KRISHNA DISTRICT (AP)",
+      "date_of_appointment": "2007-11-28T11:32:22Z",
+      "certificate_valid_upto": "2017-11-27T11:32:22Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 105,
+      "reg_no_": 4992,
+      "name_of_the_advocate": "VENKATA RAO A.",
+      "address_of_the_advocate": "D.NO.11-28-32 GANGANAMMA TEMPLE STREETNEAR KOTHAGULLU VIJAYAWADA - 520001 (ANDHRA PRADESH)",
+      "area_of_practice": "DISTRICT VIJAYAWADA (AP)",
+      "date_of_appointment": "2007-12-04T11:32:22Z",
+      "certificate_valid_upto": "2017-03-12T11:32:22Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 106,
+      "reg_no_": 5085,
+      "name_of_the_advocate": "UMAMAHESWARA RAO THOKALA",
+      "address_of_the_advocate": "D.NO.33-25-42SOBHANADRI STREET KASTURIBAIPETVIJAYAWADA - 520010 (AP)",
+      "area_of_practice": "VIJAYAWADA DISTRICT KRISHNA (AP)",
+      "date_of_appointment": "2007-12-18T11:32:22Z",
+      "certificate_valid_upto": "2017-12-17T11:32:22Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 107,
+      "reg_no_": 5139,
+      "name_of_the_advocate": "V.V. RAMA RAO HANUMANTH",
+      "address_of_the_advocate": "H.NO. 18-62/1 GANDHI NAGARDEVERKONDA TOWN AND MANDAL IN NALGONDA DISTRICTPIN - 508248 (AP)",
+      "area_of_practice": "TAL. DEVERKONDA DISTRICT NALGONDA (AP)",
+      "date_of_appointment": "2008-01-02T11:32:22Z",
+      "certificate_valid_upto": "2018-01-01T11:32:22Z",
+      "district": "NALGONDA"
+    },
+    {
+      "s_no_": 108,
+      "reg_no_": 5200,
+      "name_of_the_advocate": "PUTREVU RANGA SAI MITRA",
+      "address_of_the_advocate": "17-157/A GOLLAPETA DOWLIASWARAM - 533125 EAST GODAVAARI ANDHRA PRADESH",
+      "area_of_practice": "DOWALIASWARAM RAJAHMUNDRI DISTRICT E.G. (AP)",
+      "date_of_appointment": "2008-01-10T11:32:22Z",
+      "certificate_valid_upto": "2018-09-01T11:32:22Z",
+      "district": "EAST GODAVARI"
+    },
+    {
+      "s_no_": 109,
+      "reg_no_": 5248,
+      "name_of_the_advocate": "MALLIKARJUNA RAO E.",
+      "address_of_the_advocate": "DOOR NO-33-78 NGO COLONYNARASARAOPET-522601GUNTUR DISTRICT (ANDHRA PRADESH)",
+      "area_of_practice": "DISTRICT GUNTUR (ANDHRA PRADESH)",
+      "date_of_appointment": "2008-01-22T11:32:22Z",
+      "certificate_valid_upto": "2013-01-21T11:32:22Z",
+      "district": "GUNTUR"
+    },
+    {
+      "s_no_": 110,
+      "reg_no_": 5257,
+      "name_of_the_advocate": "SANKARA RAO TALLURI",
+      "address_of_the_advocate": "D.NO.16/36 AND 37 SATYA NARAYANNAPURAMKRISHNA RESIDENCE GUDIRADA-521301 KRISHNA DISTRICT (AP)",
+      "area_of_practice": "TEH. GUDIVADA DISTRICT KRISHNA (AP",
+      "date_of_appointment": "2008-01-24T11:32:22Z",
+      "certificate_valid_upto": "2018-01-23T11:32:22Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 111,
+      "reg_no_": 5260,
+      "name_of_the_advocate": "PRABHAKAR RAO K.",
+      "address_of_the_advocate": "D.NO.11-3-125 NEHRUNAGAR NEAR REGISTRAR OFFICEKHAMMAM TOWN KHAMMAM DISTRICTANDHRA PRADESH",
+      "area_of_practice": "KHAMMAM TOWN DISTRICT KHAMMAM (ANDHRA PRADESH)",
+      "date_of_appointment": "2008-01-24T11:32:22Z",
+      "certificate_valid_upto": "2013-01-23T11:32:22Z",
+      "district": "KHAMMAM"
+    },
+    {
+      "s_no_": 112,
+      "reg_no_": 5277,
+      "name_of_the_advocate": "PECHETTY RAMA SESHA SAK SRINIVASA BABU",
+      "address_of_the_advocate": "D.NO.16-12-7 PEER SAHEB STREET WEDNESDAY MARKET BHIMAVARAM-534201 WEST GODAVARI ANDHRA PRADESH",
+      "area_of_practice": "BHIMAVARAM TOWN DISTRICT WEST GODAVARI (AP)",
+      "date_of_appointment": "2008-01-30T11:32:22Z",
+      "certificate_valid_upto": "2018-01-29T11:32:22Z",
+      "district": "WEST GODAVARI"
+    },
+    {
+      "s_no_": 113,
+      "reg_no_": 5312,
+      "name_of_the_advocate": "BENJAMIN NEELAM",
+      "address_of_the_advocate": "D.NO.16/261-5 S.N. PURAMGUDIWALA-521301DISTRICT KRISHNA (ANDHRA PRADESH)",
+      "area_of_practice": "TEH. GUDIWALA DISTRICT KRISHNA (AP)",
+      "date_of_appointment": "2008-02-05T11:32:22Z",
+      "certificate_valid_upto": "2018-04-02T11:32:22Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 114,
+      "reg_no_": 5351,
+      "name_of_the_advocate": "SIVA KOTI VENKATA RATNAKAR",
+      "address_of_the_advocate": "D.NO.22-23-8 KANCHARA STREET CHANGOLA RAOPETA VISAKHAPATNAM-530001 ANDHRA PRADESH",
+      "area_of_practice": "CHANGALARAOPETA DISTRICT VISAKHAPATNAM",
+      "date_of_appointment": "2008-02-12T11:32:22Z",
+      "certificate_valid_upto": "2018-11-02T11:32:22Z",
+      "district": "VISAKHAPATNAM"
+    },
+    {
+      "s_no_": 115,
+      "reg_no_": 5365,
+      "name_of_the_advocate": "IMANDI VENKATA KURNA RAO",
+      "address_of_the_advocate": "D.NO.8-39/20 BLOCK NO.1EXTN. SRIRAM NAGAR GOPALAPATHU VISAKHAPATNAM-530027 (AP)",
+      "area_of_practice": "DISTRICT VISAKHAPATNAM (AP)",
+      "date_of_appointment": "2008-02-20T11:32:22Z",
+      "certificate_valid_upto": "2018-02-19T11:32:22Z",
+      "district": "VISAKHAPATNAM"
+    },
+    {
+      "s_no_": 116,
+      "reg_no_": 5408,
+      "name_of_the_advocate": "MANDALA KRISHNA RAO",
+      "address_of_the_advocate": "GUDIWADA STREET D.NO.1301 PADERU VISAKHAPATNAM DISTRICTPIN-531024 ANDHRA PRADESH",
+      "area_of_practice": "PADERU DIVN. DISTRICT VISAKHAPATNAM (AP)",
+      "date_of_appointment": "2008-02-26T11:32:22Z",
+      "certificate_valid_upto": "2018-02-25T11:32:22Z",
+      "district": "VISAKHAPATNAM"
+    },
+    {
+      "s_no_": 117,
+      "reg_no_": 5409,
+      "name_of_the_advocate": "VANNEKUTI PARASU RAMA RAO",
+      "address_of_the_advocate": "H.NO.1-23 OLD BOMBAY ROADCHANDANAGAR SERILINGAMPALLYHYDERABAD-500050 ANDHRA PRADESH",
+      "area_of_practice": "HYDERABAD DISTRICT (AP)",
+      "date_of_appointment": "2008-02-26T11:32:22Z",
+      "certificate_valid_upto": "2013-02-25T11:32:22Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 118,
+      "reg_no_": 5414,
+      "name_of_the_advocate": "CH. RAVI",
+      "address_of_the_advocate": "D.NO.9-7-37 SIVAJIPALAM L.B. COLONYP.O. VISAKHAPATNAM-530017 ANDHRA PRADESH",
+      "area_of_practice": "DISTRICT VISAKHAPATNAM (AP)",
+      "date_of_appointment": "2008-02-27T11:32:22Z",
+      "certificate_valid_upto": "2013-02-26T11:32:22Z",
+      "district": "VISAKHAPATNAM"
+    },
+    {
+      "s_no_": 119,
+      "reg_no_": 5417,
+      "name_of_the_advocate": "VADDI SIKHANDRA MOHAN",
+      "address_of_the_advocate": "D.NO.28/550 JALALPETMACHILIPATNAM KRISHNA DISTRICTANDHRA PRADESH",
+      "area_of_practice": "TAL. MACHILIPATNAM DISTRICT KRISHNA AP",
+      "date_of_appointment": "2008-02-27T11:32:22Z",
+      "certificate_valid_upto": "2018-02-26T11:32:22Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 120,
+      "reg_no_": 5431,
+      "name_of_the_advocate": "SRINIVASULU S.",
+      "address_of_the_advocate": "MULAGUNTA PADU (VILLAGE)SINGARAYAKONDA (MANDEL)-523101PRAKASAM DISTRICT ANDHRA PRADESH",
+      "area_of_practice": "KANDUKAR COURTS DISTRICT-PRAKASAM ANDHRA PRADESH",
+      "date_of_appointment": "2008-02-28T11:32:22Z",
+      "certificate_valid_upto": "2018-02-27T11:32:22Z",
+      "district": "PRAKASAM"
+    },
+    {
+      "s_no_": 121,
+      "reg_no_": 5483,
+      "name_of_the_advocate": "RATNA PAUL BEZZAM",
+      "address_of_the_advocate": "PLOT NO.24 H.NO.10-123/4 STREET NO.12 H.M.T. NAGAR NACHARAM-500076 RANGAREDDY DISTRICTHYDERABAD-500076 ANDHRA PRADESH",
+      "area_of_practice": "DISTRICT SECUNDRABAD ANDHRA PRADESH",
+      "date_of_appointment": "2008-03-10T11:32:22Z",
+      "certificate_valid_upto": "2018-09-03T11:32:22Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 122,
+      "reg_no_": 5498,
+      "name_of_the_advocate": "CHINTALA RAVI BABU",
+      "address_of_the_advocate": "D.NO.34-4-6 3RD FLOOR VADICHERLA STREETGANANAPURAM VISAKHAPATNAM-530004ANDHRA PRADESH",
+      "area_of_practice": "RAVINDRANAGAR KANCHERAPALEM MAIN ROAD DISTRICT VISAKHAPATNAM ANDHRA PRADESH",
+      "date_of_appointment": "2008-03-11T11:32:22Z",
+      "certificate_valid_upto": "2018-10-03T11:32:22Z",
+      "district": "VISAKHAPATNAM"
+    },
+    {
+      "s_no_": 123,
+      "reg_no_": 5500,
+      "name_of_the_advocate": "RAMESH GADE",
+      "address_of_the_advocate": "H.NO.12-1-721 ASIFNAGARHYDERABAD ANDHRA PRADESH",
+      "area_of_practice": "DISTRICT HYDERABAD ANDHRA PRADESH",
+      "date_of_appointment": "2008-03-11T11:32:22Z",
+      "certificate_valid_upto": "2018-10-03T11:32:22Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 124,
+      "reg_no_": 5513,
+      "name_of_the_advocate": "SRINIVASA RAO YALAVARTHI",
+      "address_of_the_advocate": "H.NO.29-283/2 NEAR SURESH MAHAL LANEIST LANE KOTHAPET VINUKANDA GUNTUR DISTRICT (ANDHRA PRADESH)",
+      "area_of_practice": "KOTHAPET VINUKANDA DISTRICT GUNTUR (ANDHRA PRADESH)",
+      "date_of_appointment": "2008-03-13T11:32:22Z",
+      "certificate_valid_upto": "2018-12-03T11:32:22Z",
+      "district": "GUNTUR"
+    },
+    {
+      "s_no_": 125,
+      "reg_no_": 5514,
+      "name_of_the_advocate": "MS. JYOTHI PEDDIBOINA",
+      "address_of_the_advocate": "OPPOSITE ANJANEYA TEMPLE MAIN ROADKNKIPADU VILLAGE KRISHNA DISTRICTANDHRA PRADESH",
+      "area_of_practice": "VIJAYAWAD DISTRICT KRISHNA ANDHRA PRADESH",
+      "date_of_appointment": "2008-03-13T11:32:22Z",
+      "certificate_valid_upto": "2018-12-03T11:32:22Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 126,
+      "reg_no_": 5520,
+      "name_of_the_advocate": "MOHD. ABDUL QUADAR",
+      "address_of_the_advocate": "H.NO.5-11-02 MANIAM CHELKA STREETPOST NALGONDA-308001ANDHRA PRADESH",
+      "area_of_practice": "DISTRICT NALGONDA ANDHRA PRADESH",
+      "date_of_appointment": "2008-03-13T11:32:22Z",
+      "certificate_valid_upto": "2018-12-03T11:32:22Z",
+      "district": "NALGONDA"
+    },
+    {
+      "s_no_": 127,
+      "reg_no_": 5588,
+      "name_of_the_advocate": "PEDAGOPU VENKATESWARA RAO",
+      "address_of_the_advocate": "D.NO.2-7-14/2 KOTALAMMTANK STREETSAMALKOT-533440 EG. DISTRICT KAKINADA TALUKA ANDHRA PRADESH",
+      "area_of_practice": "KAKINADA DISTRICT EAST GODAVARI ANDHRA PRADESH",
+      "date_of_appointment": "2008-03-24T11:32:22Z",
+      "certificate_valid_upto": "2018-03-25T11:32:22Z",
+      "district": "EAST GODAVARI"
+    },
+    {
+      "s_no_": 128,
+      "reg_no_": 5592,
+      "name_of_the_advocate": "NEMALIKANTI VENKATA RAMANAIAH",
+      "address_of_the_advocate": "H.NO.2-4-2 KAZAVANI STREET GANDHINAGAR TENALI DISTRICT GUNTUR-522201ANDHRA PRADESH",
+      "area_of_practice": "TENALI DISTRICT GUNTUR ANDHRA PRADESH",
+      "date_of_appointment": "2008-03-26T11:32:22Z",
+      "certificate_valid_upto": "2018-03-25T11:32:22Z",
+      "district": "GUNTUR"
+    },
+    {
+      "s_no_": 129,
+      "reg_no_": 5605,
+      "name_of_the_advocate": "SYED MOHAMMED MAHMOOD",
+      "address_of_the_advocate": "H.N. 22-2-568DARULSHIBA HYDERABAD ANDHRA PRADESH",
+      "area_of_practice": "DARULSHIBA DISTRICT HYDERABAD ANDHRA PRADESH",
+      "date_of_appointment": "2008-03-26T11:32:22Z",
+      "certificate_valid_upto": "2018-03-25T11:32:22Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 130,
+      "reg_no_": 5616,
+      "name_of_the_advocate": "GUJJARI BHASKAR RAO",
+      "address_of_the_advocate": "D.NO.7-2-20 PARASURAMAIH STREETNEAR KBN COLLEGE VIJAYAWADA-520001ANDHRA PRADESH",
+      "area_of_practice": "VIJAYAWAD DISTRICT KRISHNA ANDHRA PRADESH",
+      "date_of_appointment": "2008-03-27T11:32:22Z",
+      "certificate_valid_upto": "2018-03-26T11:32:22Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 131,
+      "reg_no_": 5639,
+      "name_of_the_advocate": "M.A. SALEEM",
+      "address_of_the_advocate": "H.NO.5-2-270 SANJAYANAGAR STREETANDHRA PRADESH-504001",
+      "area_of_practice": "ADILABAD DISTRICT ADILABAD ANDHRA PRADESH",
+      "date_of_appointment": "2008-03-28T11:32:22Z",
+      "certificate_valid_upto": "2018-03-27T11:32:22Z",
+      "district": "ADILABAD"
+    },
+    {
+      "s_no_": 132,
+      "reg_no_": 5641,
+      "name_of_the_advocate": "NAYEEMULLA KHAN",
+      "address_of_the_advocate": "H.NO.7-2-84 KASBA STREETNIRMAL DISTRICT ADILABADANDHRA PRADESH-504106",
+      "area_of_practice": "NIRMAL DISTRICT ADILABAD ANDHRA PRADESH",
+      "date_of_appointment": "2008-03-28T11:32:22Z",
+      "certificate_valid_upto": "2018-03-27T11:32:22Z",
+      "district": "ADILABAD"
+    },
+    {
+      "s_no_": 133,
+      "reg_no_": 5649,
+      "name_of_the_advocate": "MS. PRATHIBHA RANI KAMBHAMPATI",
+      "address_of_the_advocate": "DOOR NO.3-131 GANNAVARAM-521101KRISHNA DISTRICTANDHRA PRADESH",
+      "area_of_practice": "GANNAVARAM DISTRICT KRISHNA ANDHRA PRADESH",
+      "date_of_appointment": "2008-04-07T11:32:22Z",
+      "certificate_valid_upto": "2018-06-04T11:32:22Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 134,
+      "reg_no_": 5671,
+      "name_of_the_advocate": "MANGIPUDI SURYANARAYANA MURTHY",
+      "address_of_the_advocate": "D.NO.19-1-185 NEAR VENKATESWARA SWAMY TMPLEMAIN ROD PEDDAPURAM DISTRICT EAST GODAVARI ANDHRA PRADESH",
+      "area_of_practice": "PEDDAPURAM DISTRICT EAST GODAVARI (ANDHRA PRADESH)",
+      "date_of_appointment": "2008-04-07T11:32:22Z",
+      "certificate_valid_upto": "2018-06-04T11:32:22Z",
+      "district": "EAST GODAVARI"
+    },
+    {
+      "s_no_": 135,
+      "reg_no_": 5723,
+      "name_of_the_advocate": "TALAPARTI VENKATA RAO",
+      "address_of_the_advocate": "KOTHA PET D.NO. 5-105GANNAVARAM KRISHNA DISTRICT-521101 ANDHRA PRADESH",
+      "area_of_practice": "GANNAVARAM DISTRICT KRISHNA ANDHRA PRADESH",
+      "date_of_appointment": "2008-04-16T11:32:22Z",
+      "certificate_valid_upto": "2018-04-15T11:32:22Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 136,
+      "reg_no_": 5730,
+      "name_of_the_advocate": "L. SATYANARAYANA",
+      "address_of_the_advocate": "H.NO.10-4-67 EX SERVICEMEN COLONYBEHIND LIC OFFICE KOTHAGUDEN TOWN AND TEH.KHAMMAM DISTRICT ANDHRA PRADESH",
+      "area_of_practice": "DISTRICT KHAMMAM ANDHRA PRADESH",
+      "date_of_appointment": "2008-04-17T11:32:22Z",
+      "certificate_valid_upto": "2018-04-16T11:32:22Z",
+      "district": "KHAMMAM"
+    },
+    {
+      "s_no_": 137,
+      "reg_no_": 5747,
+      "name_of_the_advocate": "M.V. SATYANARAYANA",
+      "address_of_the_advocate": "OPPOSITE BUS STAND SATHUPALLI TOWNKHAMMAM DISTRICTANDHRA PRADESH",
+      "area_of_practice": "CIVIL JUDGE SATHUPALLI DISTRICT KHAMMAM ANDHRA PRADESH",
+      "date_of_appointment": "2008-04-22T11:32:22Z",
+      "certificate_valid_upto": "2018-04-21T11:32:22Z",
+      "district": "KHAMMAM"
+    },
+    {
+      "s_no_": 138,
+      "reg_no_": 5758,
+      "name_of_the_advocate": "SIVA PRASADA RAJU GOTTUMUKKALA",
+      "address_of_the_advocate": "D.NO.21-7-12/A RAMARAJU STREETMUTHYALAMPADU VIJAYAWADA -11KRISHNA DISTRICT ANDHRA PRADESH",
+      "area_of_practice": "VIJAYAWADA DISTRICT KRISHNA ANDHRA PRADESH",
+      "date_of_appointment": "2008-04-23T11:32:22Z",
+      "certificate_valid_upto": "2018-04-22T11:32:22Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 139,
+      "reg_no_": 5766,
+      "name_of_the_advocate": "ANIL KUMAR P.",
+      "address_of_the_advocate": "H.NO.1-7-181 BAKORAMMUSHEERABAD HYDERABAD-500048ANDHRA PRADESH",
+      "area_of_practice": "BAKORAM MUSHEERABAD HYDERABAD ANDHRA PRADESH",
+      "date_of_appointment": "2008-04-25T11:32:22Z",
+      "certificate_valid_upto": "2018-04-24T11:32:22Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 140,
+      "reg_no_": 5774,
+      "name_of_the_advocate": "MOHAMMAD IQBAL AHMED",
+      "address_of_the_advocate": "17-4-1 PATHAR KA MAKANDEHEERURA HYDERABAD",
+      "area_of_practice": "HYDERABAD ANDHRA PRADESH",
+      "date_of_appointment": "2008-04-28T11:32:22Z",
+      "certificate_valid_upto": "2018-04-27T11:32:22Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 141,
+      "reg_no_": 5833,
+      "name_of_the_advocate": "SHAIK RAM ZANBASHA JOHN MIA",
+      "address_of_the_advocate": "KODAK HOUSE NO.4-176/AKODAK MANDAL DISTRICT NALGONDA-508206 ANDHRA PRADESH",
+      "area_of_practice": "KODAK DISTRICT NALGONDA ANDHRA PRADESH",
+      "date_of_appointment": "2008-05-05T11:32:22Z",
+      "certificate_valid_upto": "2018-04-05T11:32:22Z",
+      "district": "NALGONDA"
+    },
+    {
+      "s_no_": 142,
+      "reg_no_": 5847,
+      "name_of_the_advocate": "CHANDRAMOULI KOTTA",
+      "address_of_the_advocate": "D.NO.21-2-9/49-1 JANDACHETTU STREETMUTYALAMPADU VIJAYAMADA-520011ANDHRA PRADESH",
+      "area_of_practice": "VIJAYAWADA DISTRICT KRISHNA ANDHRA PRADESH",
+      "date_of_appointment": "2008-05-07T11:32:22Z",
+      "certificate_valid_upto": "2018-06-05T11:32:22Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 143,
+      "reg_no_": 5855,
+      "name_of_the_advocate": "K.S.V. PRASADA REDDY",
+      "address_of_the_advocate": "OPPOSITE COURT BUILDINGSSATHUPALLI MANDALKHAMMAM DISTRICT ANDHRA PRADESH",
+      "area_of_practice": "SATHUPALLI DISTRICT KHAMMAM ANDHRA PRADESH",
+      "date_of_appointment": "2008-05-08T11:32:22Z",
+      "certificate_valid_upto": "2018-07-05T11:32:22Z",
+      "district": "KHAMMAM"
+    },
+    {
+      "s_no_": 144,
+      "reg_no_": 5937,
+      "name_of_the_advocate": "M.V.VIJAY KUMAR",
+      "address_of_the_advocate": "D.NO. 9-32 JAWAHARLAL STREETKANIGIRI - 523230 PRAKASAM DISTRICTANDHRA PRADESH",
+      "area_of_practice": "KANIGIRI PRAKASAM DISTRICT (AP)",
+      "date_of_appointment": "2008-05-21T11:32:22Z",
+      "certificate_valid_upto": "2018-05-20T11:32:22Z",
+      "district": "PRAKASAM"
+    },
+    {
+      "s_no_": 145,
+      "reg_no_": 5991,
+      "name_of_the_advocate": "MOHD. MUZAFERUDDIN",
+      "address_of_the_advocate": "HOUSE NO. 16-9-408/9/86WAHED NAGAR OLD MALAKPETHYDERABAD - 300036 ANDHRA PRADESH",
+      "area_of_practice": "WAHED NAGAR AND CHATTABAZAR CITY AND CIVIL COURT HYDERABAD (AP)",
+      "date_of_appointment": "2008-05-29T11:32:22Z",
+      "certificate_valid_upto": "2018-05-28T11:32:22Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 146,
+      "reg_no_": 5994,
+      "name_of_the_advocate": "SHAIK HAMEED",
+      "address_of_the_advocate": "H.NO. 11-1-72 N.S.T. ROADKHAMMAM TOWN AND DISTRICT - 507001 (AP)",
+      "area_of_practice": "DISTRICT KHAMMAM ANDHRA PRADESH",
+      "date_of_appointment": "2008-05-29T11:32:22Z",
+      "certificate_valid_upto": "2018-05-28T11:32:22Z",
+      "district": "KHAMMAM"
+    },
+    {
+      "s_no_": 147,
+      "reg_no_": 6000,
+      "name_of_the_advocate": "KHALID ABDUL GHANI QURESHI",
+      "address_of_the_advocate": "HOUSE NO. 20-4973/59 NEAR KHILWATH PALACECHARMINAR HYDERABAD - 500002 ANDHRA PRADESH",
+      "area_of_practice": "HYDERABAD ANDHRA PRADESH",
+      "date_of_appointment": "2008-05-30T11:32:22Z",
+      "certificate_valid_upto": "2018-05-29T11:32:22Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 148,
+      "reg_no_": 6018,
+      "name_of_the_advocate": "CHENNA KESAVA REDDY K.",
+      "address_of_the_advocate": "LAWERS STREET KOTHAPETVINUKONDA - 522647 DISTRICT GUNTUR (AP)",
+      "area_of_practice": "VINUKONDA DISTRICT GUNTUR AP",
+      "date_of_appointment": "2008-06-03T11:32:22Z",
+      "certificate_valid_upto": "2018-02-06T11:32:22Z",
+      "district": "GUNTUR"
+    },
+    {
+      "s_no_": 149,
+      "reg_no_": 6045,
+      "name_of_the_advocate": "B.NAGENDER",
+      "address_of_the_advocate": "H.NO. 1-2-48/52 DOMMALGUDA HYDERABAD - 500029 ANDHRA PRADESH",
+      "area_of_practice": "DOMALGUDA HYDERABAD (AP)",
+      "date_of_appointment": "2008-06-05T11:32:22Z",
+      "certificate_valid_upto": "2018-04-06T11:32:22Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 150,
+      "reg_no_": 6072,
+      "name_of_the_advocate": "K.PARDHASARADHI",
+      "address_of_the_advocate": "PLOT NO. 168 LALITHA NAGAR COLONYADIKMET HYDERABAD - 500044 (ANDHRA PRADESH)",
+      "area_of_practice": "HYDERABAD ANDHRA PRADESH",
+      "date_of_appointment": "2008-06-10T11:32:22Z",
+      "certificate_valid_upto": "2013-09-06T11:32:22Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 151,
+      "reg_no_": 6102,
+      "name_of_the_advocate": "R.SREENIVASULU",
+      "address_of_the_advocate": "12/486 NEAR B.N. TALKIES ADONI - 518301 ANDHRA PRADESH",
+      "area_of_practice": "ADONI DISTRICT KURNOOL (AP)",
+      "date_of_appointment": "2008-06-13T11:32:22Z",
+      "certificate_valid_upto": "2018-12-06T11:32:22Z",
+      "district": "KURNOOL"
+    },
+    {
+      "s_no_": 152,
+      "reg_no_": 6147,
+      "name_of_the_advocate": "PADIPALLI SURYANARAYANA MURTHY",
+      "address_of_the_advocate": "DOOR NO. 2-8-12/2 ADVOCATE RAMARAOPETA PEDDAPURAM PIN - 533437 DISTRICT EAST GODAVARI ANDHRA PRADESH",
+      "area_of_practice": "PEDDAPURAM DISTRICT EAST GODAVARI (AP)",
+      "date_of_appointment": "2008-06-18T11:32:22Z",
+      "certificate_valid_upto": "2018-06-17T11:32:22Z",
+      "district": "EAST GODAVARI"
+    },
+    {
+      "s_no_": 153,
+      "reg_no_": 6148,
+      "name_of_the_advocate": "GODA RAMCHANDRA REDDY",
+      "address_of_the_advocate": "H.NO. 5-30 HEMACHANDRAPURAM VILLAGEKOTHAGUDEM MANDAL KHAMMAM DISTRICT - 507101 ANDHRA PRADESH",
+      "area_of_practice": "KOTHAGUDEM MANDAL DISTRICT KHAMMAM (AP)",
+      "date_of_appointment": "2008-06-18T11:32:22Z",
+      "certificate_valid_upto": "2018-06-17T11:32:22Z",
+      "district": "KHAMMAM"
+    },
+    {
+      "s_no_": 154,
+      "reg_no_": 6181,
+      "name_of_the_advocate": "TEPPAVASI SATHYANARAYANA",
+      "address_of_the_advocate": "PLOT NO. 144 H.NO. 4-321SURARAM COLONY QUTUBULLAPUR MANDAL AND MUNICIPALITYIDA JEEDIMETLA - 500055RANGA REDDY DISTRICT (AP)",
+      "area_of_practice": "SURARAM QUTUBULLAPUR MUNICIPILITY AREA RANGA REDDY (AP)",
+      "date_of_appointment": "2008-06-26T11:32:22Z",
+      "certificate_valid_upto": "2018-06-25T11:32:22Z",
+      "district": "RANGA REDDY"
+    },
+    {
+      "s_no_": 155,
+      "reg_no_": 6185,
+      "name_of_the_advocate": "RAVURI RAMA MURTHY",
+      "address_of_the_advocate": "C/O P. SURYANARAYANA MURTHY ADVOCATED.NO. 46-23-9 DANAVAIPETRAJAHMUNDRY E. G. DISTRICT - 533103 (AP)",
+      "area_of_practice": "DANAVAIPETA RAJAHMUNDRY DISTRICT E.G. (AP)",
+      "date_of_appointment": "2008-06-26T11:32:22Z",
+      "certificate_valid_upto": "2018-06-25T11:32:22Z",
+      "district": "EAST GODAVARI"
+    },
+    {
+      "s_no_": 156,
+      "reg_no_": 6198,
+      "name_of_the_advocate": "MS. SRIVANI KOLA",
+      "address_of_the_advocate": "D.NO. 18-7-45/A GANAPATHINGRAMSAMALKOT - 533440 DISTRICT EAST GODAWARIANDHRA PRADESH",
+      "area_of_practice": "SAMALKOT DISTRICT EAST GODAWARI AP",
+      "date_of_appointment": "2008-06-27T11:32:22Z",
+      "certificate_valid_upto": "2018-06-26T11:32:22Z",
+      "district": "EAST GODAVARI"
+    },
+    {
+      "s_no_": 157,
+      "reg_no_": 6207,
+      "name_of_the_advocate": "KAUSHALENDRA RAO BOPPANA",
+      "address_of_the_advocate": "GF - 1 GEETHANJALI APARTMENTS D.NO. 40-5-1914TIKKLE ROAD MOGHALRAJAPURAM VIJAYAWADA PIN - 520010 (AP)",
+      "area_of_practice": "MOGHALRAJAPURAM VIJAYAWADA DISTRICT KRISHNA (AP)",
+      "date_of_appointment": "2008-06-30T11:32:22Z",
+      "certificate_valid_upto": "2013-06-29T11:32:22Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 158,
+      "reg_no_": 6326,
+      "name_of_the_advocate": "NAGESWARA RAO JALLA",
+      "address_of_the_advocate": "H.NO. 11-12-114NEAR RAMA TALKIESMACHERLA - 522426 DISTRICT GUNTUR ANDHRA PRADESH",
+      "area_of_practice": "MACHERLA DISTRICT GUNTUR (ANDHRA PRADESH)",
+      "date_of_appointment": "2008-07-15T11:32:22Z",
+      "certificate_valid_upto": "2018-07-14T11:32:22Z",
+      "district": "GUNTUR"
+    },
+    {
+      "s_no_": 159,
+      "reg_no_": 6328,
+      "name_of_the_advocate": "SUDHEERPAUL DAVULURI",
+      "address_of_the_advocate": "VILLAGE - YADLAPALLI TSUNDER MANDAL DISTRICT GUNTUR - 522211 ANDHRA PRADESH",
+      "area_of_practice": "TENALI DISTRICT GUNTUR (AP)",
+      "date_of_appointment": "2008-07-16T11:32:22Z",
+      "certificate_valid_upto": "2018-07-15T11:32:22Z",
+      "district": "GUNTUR"
+    },
+    {
+      "s_no_": 160,
+      "reg_no_": 6338,
+      "name_of_the_advocate": "K.VENKATA RAMANA",
+      "address_of_the_advocate": "H.NO.8-3-148 BEHIND KVM SCHOOLWYRA ROAD KHAMMAM - 507001 ANDHRA PRADESH",
+      "area_of_practice": "DISTRICT KHAMMAM (AP)",
+      "date_of_appointment": "2008-07-17T11:32:22Z",
+      "certificate_valid_upto": "2018-07-16T11:32:22Z",
+      "district": "KHAMMAM"
+    },
+    {
+      "s_no_": 161,
+      "reg_no_": 6384,
+      "name_of_the_advocate": "CHINTAPALLI ANAND KUMAR",
+      "address_of_the_advocate": "DOOR NO. 16-4-19 OFFICIAL COLONYMIDDLE LANE DIVYA SAI NILAYAM MAHARANIPETAVISAKHAPATNAM - 2 (ANDHRA PRADESH)",
+      "area_of_practice": "DISTRICT VISAKHAPATNAM (AP)",
+      "date_of_appointment": "2008-07-21T11:32:22Z",
+      "certificate_valid_upto": "2018-07-20T11:32:22Z",
+      "district": "VISAKHAPATNAM"
+    },
+    {
+      "s_no_": 162,
+      "reg_no_": 6400,
+      "name_of_the_advocate": "VENKATA KRISHNA REDDY K.",
+      "address_of_the_advocate": "DOOR NO. 7 - 445 GANDHI NAGAR3RD LANE MANGAMUR ROAD ONGOLE - 523002 ANDHRA PRADESH",
+      "area_of_practice": "DISTRICT ONGOLE (AP)",
+      "date_of_appointment": "2008-07-22T11:32:22Z",
+      "certificate_valid_upto": "2018-07-21T11:32:22Z",
+      "district": "PRAKASAM"
+    },
+    {
+      "s_no_": 163,
+      "reg_no_": 6410,
+      "name_of_the_advocate": "ANISETTI KASI VISWANADHA REDDY",
+      "address_of_the_advocate": "DOOR NO. 8-2-45/1 STUARTPETAPITHAPURAM - 533450 DISTRICT E.G.AP",
+      "area_of_practice": "PITHAPURAM DISTRICT EAST GODAVARI (AP)",
+      "date_of_appointment": "2008-07-23T11:32:22Z",
+      "certificate_valid_upto": "2018-07-22T11:32:22Z",
+      "district": "EAST GODAVARI"
+    },
+    {
+      "s_no_": 164,
+      "reg_no_": 6421,
+      "name_of_the_advocate": "CHITTAJALLU PANDURANGA RAO",
+      "address_of_the_advocate": "DOOR NO.38-4-7/2 TILAK STREETMURAHARI NILAYAMKAKINADA - 533007 ANDHRA PRADESH",
+      "area_of_practice": "KAKINADA DISTRICT EAST GODAVARI (AP)",
+      "date_of_appointment": "2008-07-24T11:32:22Z",
+      "certificate_valid_upto": "2018-07-23T11:32:22Z",
+      "district": "EAST GODAVARI"
+    },
+    {
+      "s_no_": 165,
+      "reg_no_": 6442,
+      "name_of_the_advocate": "ANANTHA NAGESWAR REDDY",
+      "address_of_the_advocate": "H.NO. 7-1-1/1A PHOOL BAGHFEROZ GUDA BOWENPALLY (POST)SECUNDERABAD - 500011 ANDHRA PRADESH",
+      "area_of_practice": "FEROZGUDA REA SECUNDERABAD (AP)",
+      "date_of_appointment": "2008-07-30T11:32:22Z",
+      "certificate_valid_upto": "2018-07-28T11:32:22Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 166,
+      "reg_no_": 6510,
+      "name_of_the_advocate": "NAGESH P.",
+      "address_of_the_advocate": "H.NO.1-34 S-213 BLOCK - AGREEN GOLD APARTMENTS SANTOSH NAGAR COLONYMALKAJGIRI GHMC HYDERABAD - 500047 (AP)",
+      "area_of_practice": "HYDERABAD (AP)",
+      "date_of_appointment": "2008-08-07T11:32:22Z",
+      "certificate_valid_upto": "2013-06-08T11:32:22Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 167,
+      "reg_no_": 6515,
+      "name_of_the_advocate": "GODAPARTHI NAGA RAJU",
+      "address_of_the_advocate": "H.NO.7-1-132 TATAGUDI CENTER BHADRACHALAMDISTRICT KHAMMAM - 507111 ANDHRA PRADESH",
+      "area_of_practice": "BHADRACHALAM DISTRICT KHAMMAM (AP)",
+      "date_of_appointment": "2008-08-08T11:32:22Z",
+      "certificate_valid_upto": "2018-07-08T11:32:22Z",
+      "district": "KHAMMAM"
+    },
+    {
+      "s_no_": 168,
+      "reg_no_": 6627,
+      "name_of_the_advocate": "ANJANEYA SARMA M.",
+      "address_of_the_advocate": "LONKOOJANAPALLI ROAD DOOR NO. DARSI PRAKASAM DISTRICTANDHRA PRADESH - 523247",
+      "area_of_practice": "DARSI PRAKASAM DISTRICT ANDHRA PRADESH",
+      "date_of_appointment": "2008-08-28T11:32:22Z",
+      "certificate_valid_upto": "2018-08-27T11:32:22Z",
+      "district": "PRAKASAM"
+    },
+    {
+      "s_no_": 169,
+      "reg_no_": 6628,
+      "name_of_the_advocate": "KRISHNAIH MUNUGOTI",
+      "address_of_the_advocate": "GOWRARAM JAGGAIAHPET MANDALKRISHNA DISTRICTANDHRA PRADESH",
+      "area_of_practice": "JAGGAIAHPET DISTRICT KRISHNA ANDHRA PRADESH",
+      "date_of_appointment": "2008-08-28T11:32:22Z",
+      "certificate_valid_upto": "2018-08-27T11:32:22Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 170,
+      "reg_no_": 6633,
+      "name_of_the_advocate": "BORRA SRINIVASA RAO",
+      "address_of_the_advocate": "BETHAPUDI VILLAGE REPALLE MANDALGUNTUR DISTRICTANDHRA PRADESH - 522279",
+      "area_of_practice": "REPALLE GUNTUR DISTRICT AP",
+      "date_of_appointment": "2008-08-28T11:32:22Z",
+      "certificate_valid_upto": "2018-08-27T11:32:22Z",
+      "district": "GUNTUR"
+    },
+    {
+      "s_no_": 171,
+      "reg_no_": 6672,
+      "name_of_the_advocate": "RATNESWARA RAO A.",
+      "address_of_the_advocate": "D.NO.24-22-19 CHAMARTHYVARI STREET DURGAPURAMVIJAYWADA - 520003 KRISHNA DISTRICTANDHRA PRADESH",
+      "area_of_practice": "VIJAYAWADA DISTRICT KRISHNA (ANDHRA PRADESH)",
+      "date_of_appointment": "2008-09-08T11:32:22Z",
+      "certificate_valid_upto": "2018-07-09T11:32:22Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 172,
+      "reg_no_": 6704,
+      "name_of_the_advocate": "K.SURENDER",
+      "address_of_the_advocate": "HOUSE NO. 15/254 SRINAGAR COLONYHUZURNAGAR - 508204 - 508204 DISTRICT NALGONDA ANDHRA PRADESH",
+      "area_of_practice": "HUZURNAGAR DISTRICT NALGONDA (AP)",
+      "date_of_appointment": "2008-09-11T11:32:22Z",
+      "certificate_valid_upto": "2013-10-09T11:32:22Z",
+      "district": "NALGONDA"
+    },
+    {
+      "s_no_": 173,
+      "reg_no_": 6713,
+      "name_of_the_advocate": "HARIDASU RAVINDRA KUMAR",
+      "address_of_the_advocate": "21ST WARD COCONUT GARDEN BAMMERAPOTHANA STREETTADEPALLIGUDEM DISTRICT W.G. - 534102 ANDHRA PRADESH",
+      "area_of_practice": "TADEPALLIGUDEM TOWN DISTRICT WEST GODAVARI (AP)",
+      "date_of_appointment": "2008-09-11T11:32:22Z",
+      "certificate_valid_upto": "2018-10-09T11:32:22Z",
+      "district": "WEST GODAVARI"
+    },
+    {
+      "s_no_": 174,
+      "reg_no_": 6747,
+      "name_of_the_advocate": "C.SUBBA RAO",
+      "address_of_the_advocate": "H.NO. 10-24/1 VINAYAKA NAGARBALA NAGAR HYDERABAD - 500042 ANDHRA PRADESH",
+      "area_of_practice": "DISTRICTHYDERABAD (AP)",
+      "date_of_appointment": "2008-09-15T11:32:22Z",
+      "certificate_valid_upto": "2018-09-14T11:32:22Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 175,
+      "reg_no_": 6796,
+      "name_of_the_advocate": "NAGARAJ Y.",
+      "address_of_the_advocate": "H.NO. 5-2-61/2 NEAR GANDHI CONTENARY SCHOOL SANGA REDDY MEDAK DISTRICT ANDHRA PRADESH",
+      "area_of_practice": "DISTRICT MEDAK ANDHRA PRADESH",
+      "date_of_appointment": "2008-09-29T11:32:22Z",
+      "certificate_valid_upto": "2018-09-28T11:32:22Z",
+      "district": "MEDAK"
+    },
+    {
+      "s_no_": 176,
+      "reg_no_": 6810,
+      "name_of_the_advocate": "KHADARVALI S.K.",
+      "address_of_the_advocate": "8-17-77 ISMAIL STREET WYNCHIPET VIJAYAWADA - 520001 KRISHNA DISTRICT ANDHRA PRADESH",
+      "area_of_practice": "DISTRICT KRISHNA (ANDHRA PRADESH)",
+      "date_of_appointment": "2008-09-29T11:32:22Z",
+      "certificate_valid_upto": "2018-09-28T11:32:22Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 177,
+      "reg_no_": 6813,
+      "name_of_the_advocate": "T. ASHOK",
+      "address_of_the_advocate": "H.NO. 2-1-28 OLD NALAKUNTAHYDERABAD - 500044 ANDHRA PRADESH",
+      "area_of_practice": "DISTRICT HYDERABAD (AP)",
+      "date_of_appointment": "2008-09-30T11:32:22Z",
+      "certificate_valid_upto": "2018-09-29T11:32:22Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 178,
+      "reg_no_": 6903,
+      "name_of_the_advocate": "G.YADAGIRI",
+      "address_of_the_advocate": "H.NO.12-11640/1 SHANTINAGAR NORTH LALAGUDASECUNDERABAD - 500017 DISTRICT HYDERABAD ANDHRA PRADESH",
+      "area_of_practice": "NORTH LALAGUDA SECUNDERABAD AP",
+      "date_of_appointment": "2008-10-08T11:32:22Z",
+      "certificate_valid_upto": "2018-07-10T11:32:22Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 179,
+      "reg_no_": 6938,
+      "name_of_the_advocate": "KARNATI VEERABHADRAM",
+      "address_of_the_advocate": "HOUSE NO. 16-1-22 M.G. ROADNEW PALONCHA - 507115 DISTRICT KHAMMAM (AP)",
+      "area_of_practice": "DISTRICT KHAMMAM (AP)",
+      "date_of_appointment": "2008-10-13T11:32:22Z",
+      "certificate_valid_upto": "2013-12-10T11:32:22Z",
+      "district": "KHAMMAM"
+    },
+    {
+      "s_no_": 180,
+      "reg_no_": 6966,
+      "name_of_the_advocate": "SEBELLA TATA REDDY",
+      "address_of_the_advocate": "C/O K.BHASKARA REDDY H.NO. 16-7-17-3NEAR MUCHI - MILLI ROAD RAMACHANDRAPURAM DISTRICT EAST GODAVARI - 533255 ANDHRA PRADESH",
+      "area_of_practice": "RAMCHANDRAPURAM DISTRICT EAST GODAVARI (AP)",
+      "date_of_appointment": "2008-10-16T11:32:22Z",
+      "certificate_valid_upto": "2018-10-15T11:32:22Z",
+      "district": "EAST GODAVARI"
+    },
+    {
+      "s_no_": 181,
+      "reg_no_": 7043,
+      "name_of_the_advocate": "MALLIKARJUNA RAON NALAJALA",
+      "address_of_the_advocate": "D.NO.31-109 ASHOK NAGARNANDIGAMA - 521185 AP",
+      "area_of_practice": "NANDIGAMA DISTRICT KRISHNA (AP)",
+      "date_of_appointment": "2008-10-24T11:32:22Z",
+      "certificate_valid_upto": "2018-10-23T11:32:22Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 182,
+      "reg_no_": 7048,
+      "name_of_the_advocate": "VENKATARANI REDDY M.",
+      "address_of_the_advocate": "D.NO. 1-204F-11 OPPOSITE VEGETABLE MARKETTHARDUPADU ROAD MARKAPURDISTRICT PRAKASAM (AP)",
+      "area_of_practice": "MARKAPUR DISTRICT PRAKASAM(AP)",
+      "date_of_appointment": "2008-10-24T11:32:22Z",
+      "certificate_valid_upto": "2018-02-11T11:32:22Z",
+      "district": "PRAKASAM"
+    },
+    {
+      "s_no_": 183,
+      "reg_no_": 7074,
+      "name_of_the_advocate": "G.BABU RAO",
+      "address_of_the_advocate": "H.NO.6-1-246/1/APADMA RAO NAGAR SECUNDRABAD - 500025 ANDHRA PRADESH",
+      "area_of_practice": "SECUNDRABAD DISTRICT HYDERABAD (AP)",
+      "date_of_appointment": "2008-11-03T11:32:22Z",
+      "certificate_valid_upto": "2018-02-11T11:32:22Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 184,
+      "reg_no_": 7076,
+      "name_of_the_advocate": "B.RATHNAKARA RAO",
+      "address_of_the_advocate": "H.NO.24-22 SIVAPURIMALKAJGIRI HYDERABAD-500047 AP",
+      "area_of_practice": "SECUNDRABAD DISTRICT HYDERABAD (AP)",
+      "date_of_appointment": "2008-11-03T11:32:22Z",
+      "certificate_valid_upto": "2018-02-11T11:32:22Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 185,
+      "reg_no_": 7102,
+      "name_of_the_advocate": "B.BIKSHAPATHI",
+      "address_of_the_advocate": "H.NO.5-35 KAILASH BHAVANOPPOSITE MALKAJGIRI POST OFFICE HYDERABAD -500047 (AP)",
+      "area_of_practice": "MOOSAPET MALKAJGIRI HYDERABAD (AP)",
+      "date_of_appointment": "2008-11-04T11:32:22Z",
+      "certificate_valid_upto": "2018-03-11T11:32:22Z",
+      "district": "RANGA REDDY"
+    },
+    {
+      "s_no_": 186,
+      "reg_no_": 7112,
+      "name_of_the_advocate": "VIJAYA CHANDRA RAJA SEKHAR Y.",
+      "address_of_the_advocate": "D.NO.30-12-2/1 AYYANNANAIDU STREETDURGA AGRAHARAM VIJAYAWADA - 02 DISTRICT KRISHNA ANDHRA PRADESH",
+      "area_of_practice": "VIJAYAWAD DISTRICT KRISHNA (AP)",
+      "date_of_appointment": "2008-11-06T11:32:22Z",
+      "certificate_valid_upto": "2018-05-11T11:32:22Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 187,
+      "reg_no_": 7121,
+      "name_of_the_advocate": "SRINA REDDY PALAPARTHY",
+      "address_of_the_advocate": "MANGAMUR - 523225 S.N. PADU MANDALDISTRICT PRAKASAM ANDHRA PRADESH",
+      "area_of_practice": "ONGOLE DISTRICT PRAKASAM(AP)",
+      "date_of_appointment": "2008-11-06T11:32:22Z",
+      "certificate_valid_upto": "2013-05-11T11:32:22Z",
+      "district": "PRAKASAM"
+    },
+    {
+      "s_no_": 188,
+      "reg_no_": 7127,
+      "name_of_the_advocate": "K.RAVINDER REDDY",
+      "address_of_the_advocate": "H.NO.6-8/4 MAIN ROADASIFABAD DISTRICT ADILABAD - 504293 AP",
+      "area_of_practice": "ASIFABAD DISTRICT ADILABAD (ANDHRA PRADESH)",
+      "date_of_appointment": "2008-11-06T11:32:22Z",
+      "certificate_valid_upto": "2018-05-11T11:32:22Z",
+      "district": "ADILABAD"
+    },
+    {
+      "s_no_": 189,
+      "reg_no_": 7143,
+      "name_of_the_advocate": "KUMANAN B.",
+      "address_of_the_advocate": "H.NO.29-132 NEW VIDHYA NAGAR COLONYNEREDMET RAMAKRISHNAPURAM (P.O.) - 500056 SECUNDERABAD DISTRICT SECUNDERABAD (AP)",
+      "area_of_practice": "DISTRICT SECUNDERABAD (AP)",
+      "date_of_appointment": "2008-11-10T11:32:22Z",
+      "certificate_valid_upto": "2018-09-11T11:32:22Z",
+      "district": "SECUNDERABAD"
+    },
+    {
+      "s_no_": 190,
+      "reg_no_": 7156,
+      "name_of_the_advocate": "SYED ABDUL KHADER JEELANI",
+      "address_of_the_advocate": "D.NO.28-21-3 KONDAPALLIVARI STREETRAJAHMUNDRY DISTRICT EAST GODAVARI - 533103 ANDHRA PRADESH",
+      "area_of_practice": "RAJAHMUNDRY DISTRICT EAST GODAVARI (AP)",
+      "date_of_appointment": "2008-11-10T11:32:22Z",
+      "certificate_valid_upto": "2018-09-11T11:32:22Z",
+      "district": "EAST GODAVARI"
+    },
+    {
+      "s_no_": 191,
+      "reg_no_": 7210,
+      "name_of_the_advocate": "KUTUMBA SASTRY VEERABHATLA",
+      "address_of_the_advocate": "NEAR BUS STAND BANTUMILLI (POST AND MANDAL) DISTRICT KRISHNA - 521324 AP",
+      "area_of_practice": "DISTRICT KRISHNA (AP)",
+      "date_of_appointment": "2008-11-18T11:32:22Z",
+      "certificate_valid_upto": "2018-11-17T11:32:22Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 192,
+      "reg_no_": 7216,
+      "name_of_the_advocate": "ROYAL VINOD GERA",
+      "address_of_the_advocate": "QUARTER NO. B-8/117 PTS - NTPCJYOTHINAGAR - 505215 RAMAGUNDAM MANDALDISTRICT KARIMNAGAR ANDHRA PRADESH",
+      "area_of_practice": "RAMAGUNDAM MANDAL DISTRICT KARIMNAGAR (AP)",
+      "date_of_appointment": "2008-11-20T11:32:22Z",
+      "certificate_valid_upto": "2018-11-19T11:32:22Z",
+      "district": "KARIM NAGAR"
+    },
+    {
+      "s_no_": 193,
+      "reg_no_": 7243,
+      "name_of_the_advocate": "N.NARASIMHA RAO",
+      "address_of_the_advocate": "PLOT NO. 2170 SAI BABA NAGAR B COLONYKAPRA ECIL POST HYDERABAD - 500062 ANDHRA PRADESH",
+      "area_of_practice": "HYDERABAD (ANDHRA PRADESH)",
+      "date_of_appointment": "2008-11-25T11:32:22Z",
+      "certificate_valid_upto": "2018-11-24T11:32:22Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 194,
+      "reg_no_": 7251,
+      "name_of_the_advocate": "PARIMI VENUGOPALA BALA BHASKARA RAO",
+      "address_of_the_advocate": "TIRUVURU ROAD V.M. BANJAR PENUBALLIMANDAL DISTRICT KHAMMAM ANDHRA PRADESH",
+      "area_of_practice": "DISTRICT KHAMMAM (AP)",
+      "date_of_appointment": "2008-11-25T11:32:22Z",
+      "certificate_valid_upto": "2018-11-24T11:32:22Z",
+      "district": "KHAMMAM"
+    },
+    {
+      "s_no_": 195,
+      "reg_no_": 7265,
+      "name_of_the_advocate": "SARAB BHASKAR",
+      "address_of_the_advocate": "H.NO.6-3-392 PANJAGUTTABEHIND POLICE STATION HYDERABAD - 500082 ANDHRA PRADESH",
+      "area_of_practice": "PANJAGUTTA HYDERABAD (AP)",
+      "date_of_appointment": "2008-11-27T11:32:22Z",
+      "certificate_valid_upto": "2018-11-26T11:32:22Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 196,
+      "reg_no_": 7275,
+      "name_of_the_advocate": "SHAIK UDDANDU SAHEB",
+      "address_of_the_advocate": "FLAT NO. 50/12 LIG 3RD PHASEK.P.H.B. COLONY KUKATPALLY DISTRICT RANGA REDDYHYDERABAD - 500072 (ANDHRA PRADESH)",
+      "area_of_practice": "KUKATPALLY RANGA REDDY (AP)",
+      "date_of_appointment": "2008-11-27T11:32:22Z",
+      "certificate_valid_upto": "2018-11-26T11:32:22Z",
+      "district": "RANGA REDDY"
+    },
+    {
+      "s_no_": 197,
+      "reg_no_": 7304,
+      "name_of_the_advocate": "I.CHAKRAVARTHY",
+      "address_of_the_advocate": "D.NO.15-64 GOLLAPROLU DOCTORS HOSPITAL CENTREPAYAKARAOPETA DISTRICT VISAKHAPATNAM - 531186 ANDHRA PRADESH",
+      "area_of_practice": "PAYAKARAOPETA DISTRICT VISAKHAPATNAM (AP)",
+      "date_of_appointment": "2008-12-04T11:32:22Z",
+      "certificate_valid_upto": "2013-03-12T11:32:22Z",
+      "district": "VISAKHAPATNAM"
+    },
+    {
+      "s_no_": 198,
+      "reg_no_": 7359,
+      "name_of_the_advocate": "RAMA RAJU S.",
+      "address_of_the_advocate": "D.NO. 1-120-E-129 B1 IST WARDBEHIND POWER OFFICE MARKAPUR - 523316DISTRICT PRAKASAM (ANDHRA PRADESH)",
+      "area_of_practice": "MARKAPUR DISTRICT PRAKASAM (ANDHRA PRADESH)",
+      "date_of_appointment": "2008-12-15T11:32:22Z",
+      "certificate_valid_upto": "2018-12-14T11:32:22Z",
+      "district": "PRAKASAM"
+    },
+    {
+      "s_no_": 199,
+      "reg_no_": 7360,
+      "name_of_the_advocate": "PEDDINTI VARA PRASAD",
+      "address_of_the_advocate": "D.NO. 21-107 DWARKA NAGARYELLAMANCHILI DISTRICT VISAKHAPATNAM - 531055 ANDHRA PRADESH",
+      "area_of_practice": "YELLAMANCHILI DISTRICT VISAKHAPATNAM (AP)",
+      "date_of_appointment": "2008-12-15T11:32:22Z",
+      "certificate_valid_upto": "2018-12-14T11:32:22Z",
+      "district": "VISAKHAPATNAM"
+    },
+    {
+      "s_no_": 200,
+      "reg_no_": 7398,
+      "name_of_the_advocate": "MS. D. KRISHNA VENI",
+      "address_of_the_advocate": "H.NO. 6-1-246/1/A PADMA RAO NAGARSECUNDERABAD - 500025 ANDHRA PRADESH",
+      "area_of_practice": "SECUNDERABAD (ANDHRA PRADESH)",
+      "date_of_appointment": "2009-01-02T11:32:22Z",
+      "certificate_valid_upto": "2019-01-01T11:32:22Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 201,
+      "reg_no_": 7402,
+      "name_of_the_advocate": "E.SURESH RAO",
+      "address_of_the_advocate": "H.NO. 3-37-129 HANUMANTHU RAO GARDENWEST MARREDPALLY SECUNDERABAD -26 ANDHRA PRADESH",
+      "area_of_practice": "SECUNDERABAD (ANDHRA PRADESH)",
+      "date_of_appointment": "2009-01-02T11:32:23Z",
+      "certificate_valid_upto": "2019-01-01T11:32:23Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 202,
+      "reg_no_": 7423,
+      "name_of_the_advocate": "VENKATA RANI REDDY",
+      "address_of_the_advocate": "10-2-289/120/49/37P.S. NAGAR VIJAYANAGAR COLONYHYDERABAD - 500057 (ANDHRA PRADESH)",
+      "area_of_practice": "DISTRICT HYDERABAD (ANDHRA PRDESH)",
+      "date_of_appointment": "2009-01-06T11:32:23Z",
+      "certificate_valid_upto": "2014-05-01T11:32:23Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 203,
+      "reg_no_": 7456,
+      "name_of_the_advocate": "M.CHINA BALA KRISHNA MURTY",
+      "address_of_the_advocate": "D. NO. 22-3-22/6 NR. ST. ANN GLORIA E.M. SCHOOL RAMACHANDRAPURAM-533255 ANDHRA PRADESH",
+      "area_of_practice": "DISTRICT EAST GODAVARI ANDHRA PRADESH",
+      "date_of_appointment": "2009-01-07T11:32:23Z",
+      "certificate_valid_upto": "2019-06-01T11:32:23Z",
+      "district": "EAST GODAVARI"
+    },
+    {
+      "s_no_": 204,
+      "reg_no_": 7503,
+      "name_of_the_advocate": "ANUBROLU RAM PARSAD",
+      "address_of_the_advocate": "H.NO. 16-2-29 HIGH SCHOOL ROADNEW PALONCHA-507115 DISTRICT KHAMMAM ANDHRA PRADESH",
+      "area_of_practice": "KOTHAGUDEM DISTRICT KHAMMAM ANDHRA PRADESH",
+      "date_of_appointment": "2009-01-12T11:32:23Z",
+      "certificate_valid_upto": "2019-11-01T11:32:23Z",
+      "district": "KHAMMAM"
+    },
+    {
+      "s_no_": 205,
+      "reg_no_": 7531,
+      "name_of_the_advocate": "MS. G. SHOBA",
+      "address_of_the_advocate": "H. NO. 1-10-392/1 BRAHMANWADI BEGUMPET-500016 HYDERABAD ANDHRA PRADESH",
+      "area_of_practice": "HYDERABAD ANDHRA PRADESH",
+      "date_of_appointment": "2009-01-13T11:32:23Z",
+      "certificate_valid_upto": "2019-12-01T11:32:23Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 206,
+      "reg_no_": 7536,
+      "name_of_the_advocate": "CHALAPATHI RAO A.S.V.R.N",
+      "address_of_the_advocate": "D.NO. 12-3-36 AGRICULTURE COLLEGE ROAD BAPATLA-522101 DISTRICT GUNTUR ANDHRA PRADESH",
+      "area_of_practice": "BAPATLA EVENUE MANDAL DISTRICT GUNTUR ANDHRA PRADESH",
+      "date_of_appointment": "2009-01-14T11:32:23Z",
+      "certificate_valid_upto": "2019-01-13T11:32:23Z",
+      "district": "GUNTUR"
+    },
+    {
+      "s_no_": 207,
+      "reg_no_": 7541,
+      "name_of_the_advocate": "L. LAXMAN REDDY",
+      "address_of_the_advocate": "H.NO. 1-4-194/11 BEHIND NATRAJ TALKIES NIRMAL VILLAGE AND MANDAL DISTRICT ADILABAD ANDHRA PRADESH",
+      "area_of_practice": "NIRMAL COURTS DISTRICT ADILABAD ANDHRA PRADESH",
+      "date_of_appointment": "2009-01-14T11:32:23Z",
+      "certificate_valid_upto": "2019-01-13T11:32:23Z",
+      "district": "ADILABAD"
+    },
+    {
+      "s_no_": 208,
+      "reg_no_": 7543,
+      "name_of_the_advocate": "M.K. SRIDHAR GOUD",
+      "address_of_the_advocate": "H.NO. 3-7-45/1 KAKAGUDA TIRUMULGIRI SECUNDERABAD-500015 ANDHRA PRADESH",
+      "area_of_practice": "GREATER HYDERABAD ANDHRA PRADESH",
+      "date_of_appointment": "2009-01-14T11:32:23Z",
+      "certificate_valid_upto": "2019-01-13T11:32:23Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 209,
+      "reg_no_": 7562,
+      "name_of_the_advocate": "POTHAMSETTY NAGESH",
+      "address_of_the_advocate": "H.NO. 3-5-385 FLAT NO. G1 OM SREE R.K. ENCLAVE VITTALWADI NARAYANAGUDA HYDERABAD-500029 ANDHRA PRADESH",
+      "area_of_practice": "VITTALWADI NARAYANAGUDA HYDERABAD (ANDHRA PRADESH)",
+      "date_of_appointment": "2009-01-14T11:32:23Z",
+      "certificate_valid_upto": "2019-01-13T11:32:23Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 210,
+      "reg_no_": 7573,
+      "name_of_the_advocate": "K.CHIRANJEEVI",
+      "address_of_the_advocate": "H.NO.10-80 INDIRA MARGPOST AND MANDAL HUZURABAD DISTRICT KARIMNAGAR ANDHRA PRADESH",
+      "area_of_practice": "KUKATPALLY HYDERABAD (AP)",
+      "date_of_appointment": "2009-01-15T11:32:23Z",
+      "certificate_valid_upto": "2019-01-14T11:32:23Z",
+      "district": "KARIM NAGAR"
+    },
+    {
+      "s_no_": 211,
+      "reg_no_": 7574,
+      "name_of_the_advocate": "P.VENKAT SETTY",
+      "address_of_the_advocate": "5-38 OPPOSITE M.D.OS OFFICEACHEMPET VILLAGE AND MANDALDISTRICT MAHABUBNAGAR (ANDHRA PRADESH)",
+      "area_of_practice": "ACHEMPET REVENUE MANDAL DISTRICT MAHABUBNAGAR (AP)",
+      "date_of_appointment": "2009-01-15T11:32:23Z",
+      "certificate_valid_upto": "2019-01-14T11:32:23Z",
+      "district": "MAHABUBNAGAR"
+    },
+    {
+      "s_no_": 212,
+      "reg_no_": 7575,
+      "name_of_the_advocate": "SONDI PUSHPANADHA RAO",
+      "address_of_the_advocate": "COOLLORU MANSIONS MAHARANIPET POSTVISAKHAPATNAM - 530002 ANDHRA PRADESH",
+      "area_of_practice": "DISTRICT COURT VISAKHAPATNAM (AP)",
+      "date_of_appointment": "2009-01-15T11:32:23Z",
+      "certificate_valid_upto": "2019-01-14T11:32:23Z",
+      "district": "VISAKHAPATNAM"
+    },
+    {
+      "s_no_": 213,
+      "reg_no_": 7591,
+      "name_of_the_advocate": "P.VEERA RAGHAVA REDDY",
+      "address_of_the_advocate": "H.NO. 20-200/2 VIDYANAGARHUZUARABAD DISTRICT KARIMNAGAR ANDHRA PRADESH",
+      "area_of_practice": "NEW BIONPALLY BALNAGAR AND SECUNDRABAD DISTRICT HYDERABAD (AP)",
+      "date_of_appointment": "2009-01-16T11:32:23Z",
+      "certificate_valid_upto": "2019-01-15T11:32:23Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 214,
+      "reg_no_": 7605,
+      "name_of_the_advocate": "K.SATYANARAYANA",
+      "address_of_the_advocate": "H.NO.1-3-33 BUDWAL VILLAGERAJENDRANAGAR (M) DISTRICT RANGA REDDY - 500030 ANDHRA PRADESH",
+      "area_of_practice": "RAJENDRANAGAR DISTRICT RANGA REDDY (AP)",
+      "date_of_appointment": "2009-01-20T11:32:23Z",
+      "certificate_valid_upto": "2019-01-19T11:32:23Z",
+      "district": "RANGA REDDY"
+    },
+    {
+      "s_no_": 215,
+      "reg_no_": 7621,
+      "name_of_the_advocate": "D. NARASIMHA SASTRY",
+      "address_of_the_advocate": "H.NO. 11-5-270 PLOT NO. 8 ROAD NO. 3. S.V. COLONY SAROORNAGAR VILLAGE AND MANDAL DISTRICT RANGA REDDY AT HYDERABAD-35 ANDHRA PRADESH",
+      "area_of_practice": "ANDHRA PRADESH",
+      "date_of_appointment": "2009-01-21T11:32:23Z",
+      "certificate_valid_upto": "2019-01-20T11:32:23Z",
+      "district": "RANGA REDDY"
+    },
+    {
+      "s_no_": 216,
+      "reg_no_": 7622,
+      "name_of_the_advocate": "B. LAXMINARAYANA",
+      "address_of_the_advocate": "H.NO. 4-5-8/16 PAN BAZAR SECUNDERABAD-500003 ANDHRA PRADESH",
+      "area_of_practice": "GREATER HYDERABAD ANDHRA PRADESH",
+      "date_of_appointment": "2009-01-21T11:32:23Z",
+      "certificate_valid_upto": "2014-01-20T11:32:23Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 217,
+      "reg_no_": 7636,
+      "name_of_the_advocate": "RAVINDRA VADDI",
+      "address_of_the_advocate": "DOOR NO. 5-115 NEAR COURTAVANIGADDA - 521121 DISTRICT KRISHNA ANDHRA PRADESH",
+      "area_of_practice": "AVANIGADDA DISTRICT KRISHNA",
+      "date_of_appointment": "2009-01-22T11:32:23Z",
+      "certificate_valid_upto": "2019-01-21T11:32:23Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 218,
+      "reg_no_": 7642,
+      "name_of_the_advocate": "K.RAJA RAO",
+      "address_of_the_advocate": "H.NO.16-2-164 PALTAN MALAKPETHYDERABAD - 500036 ANDHRA PRADESH",
+      "area_of_practice": "MALAKPET HYDERABAD (AP)",
+      "date_of_appointment": "2009-01-27T11:32:23Z",
+      "certificate_valid_upto": "2019-01-26T11:32:23Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 219,
+      "reg_no_": 7665,
+      "name_of_the_advocate": "YERUBANDI RAMAKRISHNA RAO",
+      "address_of_the_advocate": "H.NO.12-11-165/2 AB NAGESWARARAO STREET ARYAPURAM RAJAHMUNDRY - 533104 DISTRICT E.G. ANDHRA PRADESH",
+      "area_of_practice": "RAJAHMUNDRY TOWN DISTRICT E.G. (ANDHRA PRADESH)",
+      "date_of_appointment": "2009-01-28T11:32:23Z",
+      "certificate_valid_upto": "2014-01-27T11:32:23Z",
+      "district": "EAST GODAVARI"
+    },
+    {
+      "s_no_": 220,
+      "reg_no_": 7666,
+      "name_of_the_advocate": "M.APPLA NAIDU",
+      "address_of_the_advocate": "D.NO.44-27-67 RAILWAY NEW COLONYSIVALEGAM STREET VISAKHAPATNAM - 530016 ANDHRA PRADESH",
+      "area_of_practice": "DISTRICT VISAKHAPATNAM (AP)",
+      "date_of_appointment": "2009-01-28T11:32:23Z",
+      "certificate_valid_upto": "2019-01-27T11:32:23Z",
+      "district": "VISAKHAPATNAM"
+    },
+    {
+      "s_no_": 221,
+      "reg_no_": 7667,
+      "name_of_the_advocate": "KUNDULA VENKATA CHALAM",
+      "address_of_the_advocate": "D.NO.2-13-31/A RAMARAOPETAPEDDAPURAM E.G. DISTRICT ANDHRA PRADESH",
+      "area_of_practice": "PEDDAPURAM DISTRICT E.G. (ANDHRA PRADESH)",
+      "date_of_appointment": "2009-01-28T11:32:23Z",
+      "certificate_valid_upto": "2019-01-27T11:32:23Z",
+      "district": "EAST GODAVARI"
+    },
+    {
+      "s_no_": 222,
+      "reg_no_": 7668,
+      "name_of_the_advocate": "KALAVALA SATYANARAYANA RAO",
+      "address_of_the_advocate": "DOOR NO. 13-1-122(2) RAILWAY STATION ROADANDHRA PRADESH",
+      "area_of_practice": "MACHERLA GUNTUR DISTRICT (AP)",
+      "date_of_appointment": "2009-01-28T11:32:23Z",
+      "certificate_valid_upto": "2014-01-27T11:32:23Z",
+      "district": "GUNTUR"
+    },
+    {
+      "s_no_": 223,
+      "reg_no_": 7679,
+      "name_of_the_advocate": "D. SRINIVAS",
+      "address_of_the_advocate": "H.NO. 10-3-32/9/97 AND 98/3 VICTORIA APARTMENTSEAST MARREDPALLY SECUNDRABAD-500026 ANDHRA PRADESH",
+      "area_of_practice": "SECUNDERABAD HYDERABAD ANDHRA PRADESH",
+      "date_of_appointment": "2009-01-29T11:32:23Z",
+      "certificate_valid_upto": "2019-01-28T11:32:23Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 224,
+      "reg_no_": 7689,
+      "name_of_the_advocate": "PAPPU KARUNAKAR RAO",
+      "address_of_the_advocate": "H.NO.5-3-59 NEAR MRO OFFICE YELLANDU TOWNDISTRICT KHAMMAM - 507123 ANDHRA PRADESH",
+      "area_of_practice": "DISTRICT KHAMMAM (AP)",
+      "date_of_appointment": "2009-01-29T11:32:23Z",
+      "certificate_valid_upto": "2019-01-28T11:32:23Z",
+      "district": "KHAMMAM"
+    },
+    {
+      "s_no_": 225,
+      "reg_no_": 7690,
+      "name_of_the_advocate": "CH. RAMESH",
+      "address_of_the_advocate": "H.NO. 7-43 BHAGATHSINGH NAGAR RAMAKRISHNAPUR MANDAMARRY TALUK - 504301 DISTRICT ADILABAD ANDHRA PRADESH",
+      "area_of_practice": "MANCHERIAL DISTRICT ADILABAD (AP)",
+      "date_of_appointment": "2009-01-29T11:32:23Z",
+      "certificate_valid_upto": "2019-01-28T11:32:23Z",
+      "district": "ADILABAD"
+    },
+    {
+      "s_no_": 226,
+      "reg_no_": 7691,
+      "name_of_the_advocate": "SETTIPELLI VENKATA RAO",
+      "address_of_the_advocate": "H.NO. 3-1-123/3 VIDYA NAGAR KOTHAGUDEM DISTRICT KHAMMAM ANDHRA PRADESH",
+      "area_of_practice": "DISTRICT KHAMMAM (AP)",
+      "date_of_appointment": "2009-01-30T11:32:23Z",
+      "certificate_valid_upto": "2019-01-29T11:32:23Z",
+      "district": "KHAMMAM"
+    },
+    {
+      "s_no_": 227,
+      "reg_no_": 7719,
+      "name_of_the_advocate": "BRAHMANANDAM TADIKAMALLA",
+      "address_of_the_advocate": "DOOR NO. 4/391. TEMPLE STREETMARKAPUR - 523316 DISTRICT PRAKASAM ANDHRA PRADESH",
+      "area_of_practice": "MARKAPUR DISTRICT PRAKASAM (AP)",
+      "date_of_appointment": "2009-02-02T11:32:23Z",
+      "certificate_valid_upto": "2019-01-02T11:32:23Z",
+      "district": "PRAKASAM"
+    },
+    {
+      "s_no_": 228,
+      "reg_no_": 7734,
+      "name_of_the_advocate": "ISAAC MANIKONDA",
+      "address_of_the_advocate": "D.NO.35-2-27 ZILLA RAMULU STREETGIRIPURAM VIJAYAWADA - 10 DISTRICT KRISHNA ANDHRA PRADESH",
+      "area_of_practice": "VIJAYAWADA DISTRICT KRISHNA",
+      "date_of_appointment": "2009-02-03T11:32:23Z",
+      "certificate_valid_upto": "2014-02-02T11:32:23Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 229,
+      "reg_no_": 7735,
+      "name_of_the_advocate": "KOTHA MANIKYALA RAO",
+      "address_of_the_advocate": "D.NO.6-4-235-D KUNTHI MADHAV NAGARPITHAPURAM- 533450 DISTRICT EAST GODAVARI ANDHRA PRADESH",
+      "area_of_practice": "DISTRICT EAST GODAVARI (ANDHRA PRADESH)",
+      "date_of_appointment": "2009-02-04T11:32:23Z",
+      "certificate_valid_upto": "2014-03-02T11:32:23Z",
+      "district": "EAST GODAVARI"
+    },
+    {
+      "s_no_": 230,
+      "reg_no_": 7744,
+      "name_of_the_advocate": "A. PRATAP REDDY",
+      "address_of_the_advocate": "H.NO.5-6-627/1 (PLOT NO. 622)SRI KRISHNADEVARAYA NAGAR NEAR KARTIKEYA HIGH SCHOOLVANASTHALIPURAM -70 HAYATHNAGAR REV. MANDAL HYDERABAD (ANDHRA PRADESH)",
+      "area_of_practice": "VANASTHALIPURAM HAYATHNAGAR MANDAL DISTRICT R.R. (AP)",
+      "date_of_appointment": "2009-02-04T11:32:23Z",
+      "certificate_valid_upto": "2019-03-02T11:32:23Z",
+      "district": "RANGA REDDY"
+    },
+    {
+      "s_no_": 231,
+      "reg_no_": 7754,
+      "name_of_the_advocate": "N.K. RAJ KUMAR",
+      "address_of_the_advocate": "DOOR NO. 4-2-70 KOTHAGRAHRAM 1ST STREETVIZIANAGARAM TOWN DISTRICT VIZIANAGARAM - 535001 ANDHRA PRADESH",
+      "area_of_practice": "DISTRICT VIZIANAGRAHARAM (ANDHRA PRADESH)",
+      "date_of_appointment": "2009-02-06T11:32:23Z",
+      "certificate_valid_upto": "2019-05-02T11:32:23Z",
+      "district": "VIZIANAGARAM"
+    },
+    {
+      "s_no_": 232,
+      "reg_no_": 7759,
+      "name_of_the_advocate": "S. MALLESWARA RAO",
+      "address_of_the_advocate": "HIG 254 HB COLONY BHIVANIPURAM VIJAYAWADA-12 ANDHRA PRADESH",
+      "area_of_practice": "VIJAYAWADA DISTRICT KRISHNA (ANDHRA PRADESH)",
+      "date_of_appointment": "2009-02-10T11:32:23Z",
+      "certificate_valid_upto": "2014-09-02T11:32:23Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 233,
+      "reg_no_": 7775,
+      "name_of_the_advocate": "NANNEBOYINA SRINIVASA RAO",
+      "address_of_the_advocate": "NEAR M.D.O.S OFFICE CHILAKALURIPET DISTRICT GUNTUR - 522616 ANDHRA PRADESH",
+      "area_of_practice": "CHILAKALURIPET DISTRICT GUNTUR (ANDHRA PRADESH)",
+      "date_of_appointment": "2009-02-11T11:32:23Z",
+      "certificate_valid_upto": "2019-10-02T11:32:23Z",
+      "district": "GUNTUR"
+    },
+    {
+      "s_no_": 234,
+      "reg_no_": 7781,
+      "name_of_the_advocate": "VUPPALA GOPALA KRISHNA MURTHY",
+      "address_of_the_advocate": "SRI LAXMI NILAYAM H.NO. 16 102 OPPOSITE VIJAYALAXMI TALKIES STREETHUZURNAGAR - 508204 DISTRICT NALGONDA (ANDHRA PRADESH)",
+      "area_of_practice": "HUZURNAGAR TOWN AND MANDAL DISTRICT NALGONDA (AP)",
+      "date_of_appointment": "2009-02-11T11:32:23Z",
+      "certificate_valid_upto": "2019-10-02T11:32:23Z",
+      "district": "NALGONDA"
+    },
+    {
+      "s_no_": 235,
+      "reg_no_": 7809,
+      "name_of_the_advocate": "TELIKAPALLI TARAKARAM",
+      "address_of_the_advocate": "H.NO. 7/71 GABBITIVARI STREET CHILAKALURIPETDISTRICT GUNTUR - 522616 ANDHRA PRADESH",
+      "area_of_practice": "CHILAKALURIPET DISTRICT GUNTUR (ANDHRA PRADESH)",
+      "date_of_appointment": "2009-02-16T11:32:23Z",
+      "certificate_valid_upto": "2019-02-15T11:32:23Z",
+      "district": "GUNTUR"
+    },
+    {
+      "s_no_": 236,
+      "reg_no_": 7840,
+      "name_of_the_advocate": "RAMANJANEYULU PENUGONDLA",
+      "address_of_the_advocate": "D.NO. 16-26-15 NEAR POTTI SRIRAMULU STATUE KOTA BAZAR OLD GUNTUR GUNTUR - 522001 ANDHRA PRADESH",
+      "area_of_practice": "OLD GUNTUR AREA GUNTUR CITY (AP)",
+      "date_of_appointment": "2009-02-26T11:32:23Z",
+      "certificate_valid_upto": "2019-02-25T11:32:23Z",
+      "district": "GUNTUR"
+    },
+    {
+      "s_no_": 237,
+      "reg_no_": 7871,
+      "name_of_the_advocate": "VENKATA RAMANA RAO A.",
+      "address_of_the_advocate": "D.NO. 9-104 SIVA SAI STREETKONDAPALLI - 521228 IBRAHIMPATNAM MANDALDISTRICT KRISHNA (ANDHRA PRADESH)",
+      "area_of_practice": "KONDAPALLI VILLAGE DISTRICT KRISHNA (AP)",
+      "date_of_appointment": "2009-05-29T11:32:23Z",
+      "certificate_valid_upto": "2019-05-28T11:32:23Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 238,
+      "reg_no_": 7872,
+      "name_of_the_advocate": "SH. M.A. MAJEED",
+      "address_of_the_advocate": "H.NO. 9-15-182 MALAPALLY STREETDISTRICT NIZAMABAD - 503001 ANDHRA PRADESH",
+      "area_of_practice": "DISTRICT NIZAMABAD (AP)",
+      "date_of_appointment": "2009-07-14T11:32:23Z",
+      "certificate_valid_upto": "2014-07-13T11:32:23Z",
+      "district": "NIZAMABAD"
+    },
+    {
+      "s_no_": 239,
+      "reg_no_": 7905,
+      "name_of_the_advocate": "SESHAGIRI RAO U.",
+      "address_of_the_advocate": "ABHAYANIVAS D.NO. 15-6-27/3 OLD BUS STAND SATTENAPALLI DISTRICT GUNTUR - 522403 (ANDHRA PRADESH)",
+      "area_of_practice": "DISTRICT GUNTUR (AP)",
+      "date_of_appointment": "2010-05-11T11:32:23Z",
+      "certificate_valid_upto": "2015-10-05T11:32:23Z",
+      "district": "GUNTUR"
+    },
+    {
+      "s_no_": 240,
+      "reg_no_": 7992,
+      "name_of_the_advocate": "P.V.S.L.N. SUBRAMANYAM",
+      "address_of_the_advocate": "H.NO.6-2-116 SRI KRISHNA NAGARNEAR BONALA FUNCTION HALLKHAMMAM (ANDHRA PRADESH)",
+      "area_of_practice": "SRI KRISHNA NAGAR DISTRICT KHAMMAM (AP)",
+      "date_of_appointment": "2010-06-02T11:32:23Z",
+      "certificate_valid_upto": "2015-01-06T11:32:23Z",
+      "district": "KHAMMAM"
+    },
+    {
+      "s_no_": 241,
+      "reg_no_": 7998,
+      "name_of_the_advocate": "SYED MANJOOR MOHIDDIN",
+      "address_of_the_advocate": "28-21-3/4 KONDAPALLIVARI STREETJAMPET RAJAMUNDRY - 533103 (ANDHRA PRADESH)",
+      "area_of_practice": "DISTRICT EAST GODAVARI (AP)",
+      "date_of_appointment": "2010-06-02T11:32:23Z",
+      "certificate_valid_upto": "2015-01-06T11:32:23Z",
+      "district": "EAST GODAVARI"
+    },
+    {
+      "s_no_": 242,
+      "reg_no_": 8001,
+      "name_of_the_advocate": "CHINNA REDDEPPA V.",
+      "address_of_the_advocate": "4-991-L.B.S. ROADPILER-POST AND MANDALDISTRICT CHITTOOR (ANDHRA PRADESH)",
+      "area_of_practice": "PILER DISTRICT CHITTOOR (AP)",
+      "date_of_appointment": "2010-06-03T11:32:23Z",
+      "certificate_valid_upto": "2015-02-06T11:32:23Z",
+      "district": "CHITTOOR"
+    },
+    {
+      "s_no_": 243,
+      "reg_no_": 8026,
+      "name_of_the_advocate": "P.V.S.S. AMRESWA",
+      "address_of_the_advocate": "2-23 PEESAPATIVARI STREETAMARAVATHI - 522020 DISTRICT GUNTUR (ANDHRA PRADESH)",
+      "area_of_practice": "GUNTUR (ANDHRA PRADESH)",
+      "date_of_appointment": "2010-06-07T11:32:23Z",
+      "certificate_valid_upto": "2015-06-06T11:32:23Z",
+      "district": "GUNTUR"
+    },
+    {
+      "s_no_": 244,
+      "reg_no_": 8049,
+      "name_of_the_advocate": "SUBRAMANNYESWARA RAO AKUNURI",
+      "address_of_the_advocate": "D.NO. 3-340(3) VIJAYALAKSHINIPURAM BAPATLADISTRICT GUNTUR - 522101 (ANDHRA PRADESH)",
+      "area_of_practice": "BAPATLA DISTRICT GUNTUR (ANDHRA PRADESH)",
+      "date_of_appointment": "2010-06-11T11:32:23Z",
+      "certificate_valid_upto": "2015-10-06T11:32:23Z",
+      "district": "GUNTUR"
+    },
+    {
+      "s_no_": 245,
+      "reg_no_": 8051,
+      "name_of_the_advocate": "P.V.S.A.NARASIMHA",
+      "address_of_the_advocate": "H.NO. 5-1-130 NEAR CO.OP BANKT.T.D. ROAD BHADRACHALAM - 507111 DISTRICT KHAMMAM (AP)",
+      "area_of_practice": "BHADRACHALAM REVENUE DIVISION DISTRICT KHAMMAM (AP)",
+      "date_of_appointment": "2010-06-11T11:32:23Z",
+      "certificate_valid_upto": "2015-10-06T11:32:23Z",
+      "district": "KHAMMAM"
+    },
+    {
+      "s_no_": 246,
+      "reg_no_": 8054,
+      "name_of_the_advocate": "RAMAKRISHNA TRIPURAM",
+      "address_of_the_advocate": "D.NO. 28-76 OPPOSITE M.D. O. OFFICE CHILAKALURIPET - 522616 DISTRICT GUNTUR (ANDHRA PRADESH)",
+      "area_of_practice": "DISTRICT GUNTUR (AP)",
+      "date_of_appointment": "2010-06-11T11:32:23Z",
+      "certificate_valid_upto": "2015-10-06T11:32:23Z",
+      "district": "GUNTUR"
+    },
+    {
+      "s_no_": 247,
+      "reg_no_": 8057,
+      "name_of_the_advocate": "RAGHU RAMA RAO CH.",
+      "address_of_the_advocate": "H.NO. 28-729 OPPOSITE SUB JAIL VIDYANAGAR MIRYALAGUDADISTRICT NALGONDA (AP)",
+      "area_of_practice": "MIRYALGUDA DISTRICT NALGONDA (AP)",
+      "date_of_appointment": "2010-06-23T11:32:23Z",
+      "certificate_valid_upto": "2015-06-22T11:32:23Z",
+      "district": "NALGONDA"
+    },
+    {
+      "s_no_": 248,
+      "reg_no_": 8073,
+      "name_of_the_advocate": "MATTIPALLI SUGANA RAO",
+      "address_of_the_advocate": "D.NO. 53-4-56 SUNAPUBATTELU CENTERJAYAPRAKASH NAGAR CROSS ROAD KREESTHURAJPURAM VIJAYAWADA - 520008 DISTRICT KRISHNA (AP)",
+      "area_of_practice": "VIJAYAWADA DISTRICT KRISHNA (AP)",
+      "date_of_appointment": "2010-06-23T11:32:23Z",
+      "certificate_valid_upto": "2015-06-22T11:32:23Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 249,
+      "reg_no_": 8075,
+      "name_of_the_advocate": "LANKA SRINIVAS",
+      "address_of_the_advocate": "D.NO. 59A-13-6OLD POSTAL COLONY PATAMATAVIJAYAWADA - 10 (ANDHRA PRADESH)",
+      "area_of_practice": "PATAMATA VIJAYAWADA DISTRICT KRISHNA (AP)",
+      "date_of_appointment": "2010-06-23T11:32:23Z",
+      "certificate_valid_upto": "2015-06-22T11:32:23Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 250,
+      "reg_no_": 8077,
+      "name_of_the_advocate": "MOHIDDIN MOHAMMAD",
+      "address_of_the_advocate": "D.NO. 17-18-3/1 KHASIM STREET PEZZONIPETVIJAYAWADA - 520003 (ANDHRA PRADESH)",
+      "area_of_practice": "VIJAYAWADA (AP)",
+      "date_of_appointment": "2010-06-23T11:32:23Z",
+      "certificate_valid_upto": "2015-06-22T11:32:23Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 251,
+      "reg_no_": 8187,
+      "name_of_the_advocate": "JULURI SHANKARAIAH",
+      "address_of_the_advocate": "H.NO. 6-30 GOVT. HOSPITAL ROADGANDHINAGAR STREET KALWAKURTY VIG. AND MANDALMAHABUBNAGAR DISTRICT - 509324 (AP)",
+      "area_of_practice": "KALWAKURTY DISTRICT MAHBUBNAGAR (AP)",
+      "date_of_appointment": "2010-07-26T11:32:23Z",
+      "certificate_valid_upto": "2015-07-25T11:32:23Z",
+      "district": "MAHABUBNAGAR"
+    },
+    {
+      "s_no_": 252,
+      "reg_no_": 8234,
+      "name_of_the_advocate": "G. RAJANNA",
+      "address_of_the_advocate": "H.NO. 7-4-68 VIDYANAGAR STREETJAGTIAL PROPER KARIMNAGAR DISTRICT - 505327 (ANDHRA PRADESH)",
+      "area_of_practice": "JAGTIAL DIVISION (ANDHRA PRADESH)",
+      "date_of_appointment": "2010-09-03T11:32:23Z",
+      "certificate_valid_upto": "2015-02-09T11:32:23Z",
+      "district": "KARIM NAGAR"
+    },
+    {
+      "s_no_": 253,
+      "reg_no_": 8235,
+      "name_of_the_advocate": "CHINTA SRINIVAS",
+      "address_of_the_advocate": "H.NO. 7-3-169 VIJAYAPURI -1DHARMAPURI ROAD JAGTIALDISTRICT KARIMNAGAR - 505327 (ANDHRA PRADESH)",
+      "area_of_practice": "JAGTIAL DISTRICT KARIMNAGAR (AP)",
+      "date_of_appointment": "2010-09-03T11:32:23Z",
+      "certificate_valid_upto": "2015-02-09T11:32:23Z",
+      "district": "KARIM NAGAR"
+    },
+    {
+      "s_no_": 254,
+      "reg_no_": 8278,
+      "name_of_the_advocate": "DAVID KANDREGULA",
+      "address_of_the_advocate": "D.NO. 17/134 MAIN ROADNR. RTC COMPLEX CHODAVARAMVISAKHAPATNAM DISTRICT - 531036(ANDHRA PRADESH)",
+      "area_of_practice": "CHODAVARAM DISTRICT VISAKHAPATNAM (AP)",
+      "date_of_appointment": "2010-09-16T11:32:23Z",
+      "certificate_valid_upto": "2015-09-15T11:32:23Z",
+      "district": "VISAKHAPATNAM"
+    },
+    {
+      "s_no_": 255,
+      "reg_no_": 8287,
+      "name_of_the_advocate": "SIVA KRISHNA PRASAD",
+      "address_of_the_advocate": "7-6-19 KHADAR STREETMAHANTIPURAM VIJAYAWADA - 520001 KRISHNA DISTRICT (ANDHRA PRADESH)",
+      "area_of_practice": "KRISHNA DISTRICT (AP)",
+      "date_of_appointment": "2010-09-17T11:32:23Z",
+      "certificate_valid_upto": "2015-09-16T11:32:23Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 256,
+      "reg_no_": 8288,
+      "name_of_the_advocate": "MS. P. SUDHA JYOTHI",
+      "address_of_the_advocate": "FLAT NO. 102 SAI KIRAN APARTMENT - ISRINAGAR COLONYHYDERABAD - 500073(ANDHRA PRADESH)",
+      "area_of_practice": "SRINAGAR COLONY(AP)",
+      "date_of_appointment": "2010-09-17T11:32:23Z",
+      "certificate_valid_upto": "2015-09-16T11:32:23Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 257,
+      "reg_no_": 8289,
+      "name_of_the_advocate": "MOHAMMED MAHEMOOD MAHABOOB",
+      "address_of_the_advocate": "H.NO. 1-1-374 RAKASIPETP.O. - BODHAN DISTRICT NIZAMABAD - 503185 (ANDHRA PRADESH)",
+      "area_of_practice": "BODHAN NIZAMABAD DISTRICT (ANDHRA PRADESH)",
+      "date_of_appointment": "2010-09-17T11:32:23Z",
+      "certificate_valid_upto": "2015-09-16T11:32:23Z",
+      "district": "NIZAMABAD"
+    },
+    {
+      "s_no_": 258,
+      "reg_no_": 8405,
+      "name_of_the_advocate": "MADENU CHINNAYYA",
+      "address_of_the_advocate": "DOOR NO. 54-4-11 IST FLOORSIVALAYAM STREET ISUKATHOTAVISAKHAPATNAM - 530010 (ANDHRA PRADESH)",
+      "area_of_practice": "VISAKHAPATNAM (ANDHRA PRADESH)",
+      "date_of_appointment": "2011-01-06T11:32:23Z",
+      "certificate_valid_upto": "2016-05-01T11:32:23Z",
+      "district": "VISAKHAPATNAM"
+    },
+    {
+      "s_no_": 259,
+      "reg_no_": 8406,
+      "name_of_the_advocate": "THALAPUREDDI ESWARA RAO",
+      "address_of_the_advocate": "KOTAVEEDHI CHODAVARAMVISAKHAPATNAM DISTRICT - 531036 (ANDHRA PRADESH)",
+      "area_of_practice": "CHODAVARAM DISTRICT VISAKHAPATNAM (AP)",
+      "date_of_appointment": "2011-01-06T11:32:23Z",
+      "certificate_valid_upto": "2016-05-01T11:32:23Z",
+      "district": "VISAKHAPATNAM"
+    },
+    {
+      "s_no_": 260,
+      "reg_no_": 8451,
+      "name_of_the_advocate": "HARA GOPAL GUDISEVA",
+      "address_of_the_advocate": "D.NO. 16-23-40 NEAR VENUGOPALA SWAMY TEMPLEOLD GUNTUR GUNTUR DISTRICTANDHRA PRADESH",
+      "area_of_practice": "OLD GUNTUR GUNTUR DISTRICT (ANDHRA PRADESH)",
+      "date_of_appointment": "2011-06-09T11:32:23Z",
+      "certificate_valid_upto": "2016-08-06T11:32:23Z",
+      "district": "GUNTUR"
+    },
+    {
+      "s_no_": 261,
+      "reg_no_": 8812,
+      "name_of_the_advocate": "RAJA SEKHAR CHAPARALA",
+      "address_of_the_advocate": "DOOR NO.10/248-A4-B2 TEACHERS COLONY GUDIVADA KRISHNA DISTRICT ANDHRA PRADESH-521301",
+      "area_of_practice": "GUDIVADA ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 262,
+      "reg_no_": 8813,
+      "name_of_the_advocate": "SURENDRA NATH REDDY RAVULA",
+      "address_of_the_advocate": "D.NO.3/653 GAYATHRI NAGAR Y.M.R. COLONYC/O R. RAMANA REDDY HOUSE PRODATTURKADAPPA DISTRICT ANDHRA PRADESH-516360",
+      "area_of_practice": "PRODATTUR DISTRICT KADAPPA ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "KADAPA"
+    },
+    {
+      "s_no_": 263,
+      "reg_no_": 8814,
+      "name_of_the_advocate": "SIRAJUDDIN SHAIK",
+      "address_of_the_advocate": "H.NO. 7-267 EAST STREET ATMAKUR VILLAGE ANDREVENUE MANDAL SPSR NELLORE DISTRICTANDHRA PRADESH-524322",
+      "area_of_practice": "ATMAKUR VILLAGE AND MANDAL NELLORE DT. ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "NELLORE"
+    },
+    {
+      "s_no_": 264,
+      "reg_no_": 8815,
+      "name_of_the_advocate": "PASUPULETI VEDANTHAM",
+      "address_of_the_advocate": "8-4-119 PAVANPURI COLONY KHARMANGHAT SAROORNAGAR (MD.) RANGA REDDY DISTRICTANDHRA PRADESH-500079",
+      "area_of_practice": "RANGA REDDY DISTRICT ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "RANGA REDDY"
+    },
+    {
+      "s_no_": 265,
+      "reg_no_": 8816,
+      "name_of_the_advocate": "PEDDADA SYAMALA RAO",
+      "address_of_the_advocate": "D.NO.48-15-12 OPPOSITE R.T.C. COMPLEX ASILMETA JUNCTION ASHOK NAGARVISHAKHAPATNAM ANDHRA PRADESH-530016",
+      "area_of_practice": "VISHAKHAPATNAM ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "VISAKHAPATNAM"
+    },
+    {
+      "s_no_": 266,
+      "reg_no_": 8817,
+      "name_of_the_advocate": "K. VENKATA CHARY",
+      "address_of_the_advocate": "FLAT NO.101 ADITYA MANSION APARTMENTSOPPOSITE NEW KAPRA MUNICIPAL OFFICE KAMALA NAGAR ECIL POST HYDERABAD ANDHRA PRADESH",
+      "area_of_practice": "RANGA REDDY DISTRICT ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "RANGA REDDY"
+    },
+    {
+      "s_no_": 267,
+      "reg_no_": 8818,
+      "name_of_the_advocate": "VENKATA JANARDHANAM A.",
+      "address_of_the_advocate": "H.NO.2-11-6 RAMARAO PETAPEDDAPURAM-533437 EAST GODAVARI DISTRICT ANDHRA PRADESH",
+      "area_of_practice": "PEDDAPURAM ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "EAST GODAVARI"
+    },
+    {
+      "s_no_": 268,
+      "reg_no_": 8819,
+      "name_of_the_advocate": "GANTA KUMARA SWAMY",
+      "address_of_the_advocate": "SHRI MOOKAMBIKA NILAYAM 49-46-4/28AKKAYYAPALEM VISHAKHAPATNAMANDHRA PRADESH-530016",
+      "area_of_practice": "VISHAKHAPATNAM DISTRICT ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "VISAKHAPATNAM"
+    },
+    {
+      "s_no_": 269,
+      "reg_no_": 8820,
+      "name_of_the_advocate": "V. PAWAN KUMAR",
+      "address_of_the_advocate": "H.NO.8-2-33 OPPOSITE Z.P. HIGH SCHOOL (BOYS) GROUNDPOST AND MANDAL JAMMIKUNTA DIST. KARIMNAGARANDHRA PRADESH-505122",
+      "area_of_practice": "JAMMIKUNTA ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "KARIM NAGAR"
+    },
+    {
+      "s_no_": 270,
+      "reg_no_": 8821,
+      "name_of_the_advocate": "PULI RATNA JOSEPH",
+      "address_of_the_advocate": "D.NO. 1-403 BAPUJINAGAR GUDIVADAKRISHNA DISTRICT ANDHRA PRADESH-521301",
+      "area_of_practice": "GUDIVADA KRISHNA DISTRICT ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 271,
+      "reg_no_": 8822,
+      "name_of_the_advocate": "LAKSHMANA GANESH SINGH B.",
+      "address_of_the_advocate": "H.NO.10-145 RAMALAYAM STREETTIRUVURU KRISHNA DISTRICTANDHRA PRADESH-521235",
+      "area_of_practice": "TIRUVURU KRISHNA DISTRICT ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 272,
+      "reg_no_": 8823,
+      "name_of_the_advocate": "KAMBHAMPATI UDAY",
+      "address_of_the_advocate": "D.NO.61-19-19 SATYA SAI NILAYAMRAMLINGESHWARA NAGAR VIJAYWADA-13ANDHRA PRADESH",
+      "area_of_practice": "VIJAYWADA KRISHNA DISTRICT ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 273,
+      "reg_no_": 8824,
+      "name_of_the_advocate": "D. BHASKARA RAO",
+      "address_of_the_advocate": "C/O G. SATYAM VEERABHADRAPURAMTANUKU MANDAL WEST GODAVARI DISTRICTANDHRA PRADESH",
+      "area_of_practice": "TANUKU WEST GODAVARI DISTRICT ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "WEST GODAVARI"
+    },
+    {
+      "s_no_": 274,
+      "reg_no_": 8825,
+      "name_of_the_advocate": "GONNURU VENKATA RAMI REDDY",
+      "address_of_the_advocate": "FLAT NO.202 LAHTHA ENCLAVE DEVI NAGARMALKAJGIRI R.K. PURAM POST SECUNDERABAD-500056 RANGA REDDY DISTRICT ANDHRA PRADESH",
+      "area_of_practice": "MALKAJGIRI ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "RANGA REDDY"
+    },
+    {
+      "s_no_": 275,
+      "reg_no_": 8826,
+      "name_of_the_advocate": "SYED FAREED UDDIN",
+      "address_of_the_advocate": "H.NO.8-1-40/A/4 SAMATHA COLONYTOLICHOWKI HYDERABAD-08ANDHRA PRADESH",
+      "area_of_practice": "SHAIKPET TOLICHOWKI DIST. HYDERABAD ANDHRA PR.",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 276,
+      "reg_no_": 8827,
+      "name_of_the_advocate": "SUHEL AL DAYANI",
+      "address_of_the_advocate": "H.NO.18-10-29/3 BARKAS HYDERABADANDHRA PRADESH-500005",
+      "area_of_practice": "BARKAS HYDERABAD DISTRICT ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 277,
+      "reg_no_": 8828,
+      "name_of_the_advocate": "KUSUMANCHI SOBHAN BABU",
+      "address_of_the_advocate": "D.NO. 6-401 KEERTHINILAYAM RAVINDRA NAGAROLD DAIRY FARM VISAKHAPATNAM DISTRICT VISAKHAPATNAM ANDHRA PRADESH-530040",
+      "area_of_practice": "VISHAKHAPATNAM ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "VISAKHAPATNAM"
+    },
+    {
+      "s_no_": 278,
+      "reg_no_": 8829,
+      "name_of_the_advocate": "N. SRINIVAS REDDY",
+      "address_of_the_advocate": "8-2-333 SHIVAJINAGAR LOCALITYNEAR OLD RTC BUS STAND SIDDIPETDISTRICT MEDAK ANDHRA PRADESH",
+      "area_of_practice": "MEDAK DISTRICT ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "MEDAK"
+    },
+    {
+      "s_no_": 279,
+      "reg_no_": 8830,
+      "name_of_the_advocate": "D. SRINIVASULU",
+      "address_of_the_advocate": "H.NO.6-407/1 MANIKYANAGARCHINTAL QUTHBULLAPUR RANGA REDDY DISTRICTANDHRA PRADESH",
+      "area_of_practice": "BALANAGAR R.R. DISTRICT ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "RANGA REDDY"
+    },
+    {
+      "s_no_": 280,
+      "reg_no_": 8831,
+      "name_of_the_advocate": "A. NARENDRA RAO",
+      "address_of_the_advocate": "PLOT NO.27 S.N. SWAMY COLONYHYDERABAD ROAD NALGONDA-508001DISTRICT NALGONDA ANDHRA PRADESH",
+      "area_of_practice": "NALGONDA ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "NALGONDA"
+    },
+    {
+      "s_no_": 281,
+      "reg_no_": 8832,
+      "name_of_the_advocate": "G. BHASKAR RAO",
+      "address_of_the_advocate": "H.NO.21-140 PLOT NO.96 S-3 AISWARA ARCADEDAYANAND NAGAR SAFILGUDA RANGA REDDY DISTRICT",
+      "area_of_practice": "RANGA REDDY DISTRICT ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "RANGA REDDY"
+    },
+    {
+      "s_no_": 282,
+      "reg_no_": 8833,
+      "name_of_the_advocate": "PULLI HANUMANTHA REDDY",
+      "address_of_the_advocate": "D.NO.8/888-5 JAYA NAGAR VILLAGE ANDMANDAL KALYANDURG DISTRICT ANANTAPUR ANDHRA PRADESH-515761",
+      "area_of_practice": "KALYANDURG DISTRICT ANANTAPUR ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "ANANTAPUR"
+    },
+    {
+      "s_no_": 283,
+      "reg_no_": 8834,
+      "name_of_the_advocate": "SUREDDY VENKATA RAMANA REDDY",
+      "address_of_the_advocate": "H.NO. 9-2-2 OPPOSITE BUS STAND MADHURA BASTHIKOTHAGUDEM KHAMMAM DISTRICTANDHRA PRADESH",
+      "area_of_practice": "MANUGURU DISTRICT KHAMMAM ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "KHAMMAM"
+    },
+    {
+      "s_no_": 284,
+      "reg_no_": 8835,
+      "name_of_the_advocate": "KANTHETI SYAM",
+      "address_of_the_advocate": "D.NO. 5-155 VUYYURU VILLAGE AND MANDALKRISHNA DISTRICT ANDHRA PRADESH-521165",
+      "area_of_practice": "VIJAYWADA KRISHNA DISTRICT ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 285,
+      "reg_no_": 8836,
+      "name_of_the_advocate": "J. ANATH RAM",
+      "address_of_the_advocate": "H.NO. 13-3-1110/9 SREE NEELKANT NAGARJIYAGUDA HYDERABAD-500006 ANDHRA PRADESH",
+      "area_of_practice": "HYDERABAD ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 286,
+      "reg_no_": 8837,
+      "name_of_the_advocate": "MAKHTAJALA KRISHNA",
+      "address_of_the_advocate": "H.NO.C-713 PHASE-I ALLWYN COLONY KUKATPALLY (P.O.) HYDERABAD-500072 ANDHRA PRADESH",
+      "area_of_practice": "HYDERABAD ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "RANGA REDDY"
+    },
+    {
+      "s_no_": 287,
+      "reg_no_": 8838,
+      "name_of_the_advocate": "ESWARA REDDY G.",
+      "address_of_the_advocate": "D.NO. 4-677/1 L.B.S. ROADPILER CHITTOOR DISTRICT-517214 ANDHRA PRADESH",
+      "area_of_practice": "PILER CHITTOOR DISTRICT ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "CHITTOOR"
+    },
+    {
+      "s_no_": 288,
+      "reg_no_": 8839,
+      "name_of_the_advocate": "RAMESH REDDY T.",
+      "address_of_the_advocate": "D.NO. 18-4-71 RAILWAY COLONYTIRUPATI CHITTOOR DISTRICT ANDHRA PRADESH",
+      "area_of_practice": "TIRUPATI CHITTOOR DISTRICT ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "CHITTOOR"
+    },
+    {
+      "s_no_": 289,
+      "reg_no_": 8840,
+      "name_of_the_advocate": "GUBBALA SAI BABA",
+      "address_of_the_advocate": "H.NO.4-339 NEAR SAI BABA TEMPLESAI RAM NAGAR MANCHERIAL-504208 ADILABAD DISTRICT ANDHRA PRADESH",
+      "area_of_practice": "MANCHERIAL DIST. ADILABAD ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "ADILABAD"
+    },
+    {
+      "s_no_": 290,
+      "reg_no_": 8841,
+      "name_of_the_advocate": "S. ABDUL RASOOL",
+      "address_of_the_advocate": "D.NO.8-271 PATEL ROAD COURT ROAD ANANTAPUR-515001 ANDHRA PRADESH",
+      "area_of_practice": "DISTRICT ANANTAPUR ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "ANANTAPUR"
+    },
+    {
+      "s_no_": 291,
+      "reg_no_": 8842,
+      "name_of_the_advocate": "BHIMA REDDY SRINIVASA",
+      "address_of_the_advocate": "H.NO. 17-153 BESIDES T.D.P. PARTY OFFICE LANESATHUPALLI-507303 KHAMMAM DISTRICTANDHRA PRADESH",
+      "area_of_practice": "SATHUPALLI ASSEMBLY CONSTITUENCY KHAMMAM ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "KHAMMAM"
+    },
+    {
+      "s_no_": 292,
+      "reg_no_": 8843,
+      "name_of_the_advocate": "G.. NARSING RAO",
+      "address_of_the_advocate": "12-13-706/1 KEEMTHI COLONYTARNAKA SECUNDERABAD-500017ANDHRA PRADESH",
+      "area_of_practice": "SECUNDERABAD ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 293,
+      "reg_no_": 8844,
+      "name_of_the_advocate": "VEERILA VENU GOPALA RAO",
+      "address_of_the_advocate": "H.NO.1-7-167/2 2ND FLOOR KAMALANAGARE.C.I.L. (POST) E.C.I.L. RANGA REDDY DISTRICTHYDERABAD-500062 ANDHRA PRADESH",
+      "area_of_practice": "ECIL HYDERABAD RANGA REDDY DISTRICT ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "RANGA REDDY"
+    },
+    {
+      "s_no_": 294,
+      "reg_no_": 8845,
+      "name_of_the_advocate": "SMT. M. VIJAYALAKSHMI",
+      "address_of_the_advocate": "FLAT NO.103 RAMYA TOWERS VETERINARY HOSPITAL ROAD WEST IBRAHIM PATAM VILL. AND MANDALIBRAHIMPATAM KRISHNA DISTRICT-521456 ANDHRA PRADESH",
+      "area_of_practice": "VIJAYAWADA ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 295,
+      "reg_no_": 8846,
+      "name_of_the_advocate": "K.L. NARASIMHA RAO",
+      "address_of_the_advocate": "H.NO.6-2-46/E JAMMIBANDA ROADKHAMMAM-01 KHAMMAM DISTRICTANDHRA PRADESH",
+      "area_of_practice": "KHAMMAM ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "KHAMMAM"
+    },
+    {
+      "s_no_": 296,
+      "reg_no_": 8847,
+      "name_of_the_advocate": "SYED ABDUL KHADAR",
+      "address_of_the_advocate": "D.NO.3-29-93/A VISWASAI HOME 1ST LANEKRISHNA NAGAR GUNTUR-522006GUNTUR DISTRICT ANDHRA PRADESH",
+      "area_of_practice": "KRISHNA NAGAR ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "GUNTUR"
+    },
+    {
+      "s_no_": 297,
+      "reg_no_": 8848,
+      "name_of_the_advocate": "S.NACHANTA",
+      "address_of_the_advocate": "PLOT NO.170 SECTOR-12 NR. USHODAYA JUNCTIONM.V.P. COLONY VISAKHAPATNAMANDHRA PRADESH-530017",
+      "area_of_practice": "VISAKHAPATNAM CITY ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "VISAKHAPATNAM"
+    },
+    {
+      "s_no_": 298,
+      "reg_no_": 8849,
+      "name_of_the_advocate": "BAJARANG SINGH",
+      "address_of_the_advocate": "H.NO. 9-5-147 BURUDGALLYNIZAMABAD TOWN DISTRICT NIZAMABADANDHRA PRADESH-503001",
+      "area_of_practice": "NIZAMABAD DISTRICT ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "NIZAMABAD"
+    },
+    {
+      "s_no_": 299,
+      "reg_no_": 8850,
+      "name_of_the_advocate": "RAMA RAO SANAPALA",
+      "address_of_the_advocate": "B.S. COLONY SOMPETASRIKAKULAM DISTRICTANDHRA PRADESH",
+      "area_of_practice": "SOMPETA TOWN ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "SRIKAKULAM"
+    },
+    {
+      "s_no_": 300,
+      "reg_no_": 8851,
+      "name_of_the_advocate": "DIVVALA VENKATA VIVEKANANDA",
+      "address_of_the_advocate": "D.NO.8-84 NR. SRI SATHYA SAI MANDIRTEKKALI-532201 SRIKAKULAM DISTRICTANDHRA PRADESH",
+      "area_of_practice": "ROTARY NAGAR AREA TEKKALI TOWN ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "SRIKAKULAM"
+    },
+    {
+      "s_no_": 301,
+      "reg_no_": 8852,
+      "name_of_the_advocate": "KARETI RAVI KUMAR REDDY",
+      "address_of_the_advocate": "14-38 HASTINAPURAM JANDRAPETCHIRALA MANDAL PRAKASAM DISTRICTANDHRA PRADESH-523165",
+      "area_of_practice": "CHIRALA ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "PRAKASAM"
+    },
+    {
+      "s_no_": 302,
+      "reg_no_": 8853,
+      "name_of_the_advocate": "KRISHAN MOHAN RAO K.",
+      "address_of_the_advocate": "D.NO.26-3-178 N.R.P. ROADGANDHINAGAR VIJAYAWADAKRISHNA DISTRICT ANDHRA PRADESH",
+      "area_of_practice": "VIJAYWADA ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 303,
+      "reg_no_": 8854,
+      "name_of_the_advocate": "K. JAYA RAJ",
+      "address_of_the_advocate": "F.NO. 3507 JANAPRIYA AVENUE 3RD BLOCKSATHYA NAGAR COLONY NEW MARUTHI NAGAR EASTKOTHAPET HYDERABAD ANDHRA PRADESH-35",
+      "area_of_practice": "HYDERABAD DISTRICT ANDHRA PRADESH",
+      "date_of_appointment": "2012-02-07T11:32:23Z",
+      "certificate_valid_upto": "2017-06-02T11:32:23Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 304,
+      "reg_no_": 8855,
+      "name_of_the_advocate": "ALLADA SATYANARAYANA",
+      "address_of_the_advocate": "D.NO.61-13-7A KRISHNA VENI ROADRAMALINGESWARA NAGAR KRISHNA LANKAVIJAYWADA-520013 ANDHRA PRADESH",
+      "area_of_practice": "VIJAYAWADA ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 305,
+      "reg_no_": 8856,
+      "name_of_the_advocate": "BUDDHA TRINADHA RAO",
+      "address_of_the_advocate": "D.NO.9-8-6 VELAM STREET GAVARAPALEMANAKAPALLE VISAKHAPATNAM DISTRICTANDHRA PRADESH",
+      "area_of_practice": "ANAKAPALLE VISHAKHAPATNAM DISTRICT ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "VISAKHAPATNAM"
+    },
+    {
+      "s_no_": 306,
+      "reg_no_": 8857,
+      "name_of_the_advocate": "N. RAMA KRISHNA",
+      "address_of_the_advocate": "H.NO.2-33 POST AND VILLAGE RASNAMHEAD POST DHARUR MANDAL YALALRANGA REDDY DISTRICT ANDHRA PRADESH",
+      "area_of_practice": "RANGA REDDY DISTRICT ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "RANGA REDDY"
+    },
+    {
+      "s_no_": 307,
+      "reg_no_": 8858,
+      "name_of_the_advocate": "CHINNA REDDY S.",
+      "address_of_the_advocate": "ATMAKUR VILLAGE AND MANDAL SPSRNELLORE DISTRICT ANDHRA PRADESH-524324",
+      "area_of_practice": "ATMAKUR NELLORE DT. ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "NELLORE"
+    },
+    {
+      "s_no_": 308,
+      "reg_no_": 8859,
+      "name_of_the_advocate": "SYED HAMEED SYED NABI",
+      "address_of_the_advocate": "H.NO.1-1-62 ANDHRA BANK LANEBANSWADA POST AND MANDALDISTRICT NIZAMABAD-503187 ANDHRA PRADESH",
+      "area_of_practice": "BANSWADA DISTRICT NIZAMABAD ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "NIZAMABAD"
+    },
+    {
+      "s_no_": 309,
+      "reg_no_": 8860,
+      "name_of_the_advocate": "MD. ZAKIR HUSSAIN",
+      "address_of_the_advocate": "H.NO.19-3-294/A/33/16/B FATIMA NAGARVATTEPALLY HYDERABADANDHRA PRADESH",
+      "area_of_practice": "HYDERABAD ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "RANGA REDDY"
+    },
+    {
+      "s_no_": 310,
+      "reg_no_": 8861,
+      "name_of_the_advocate": "JAYADEV KUMAR KORRAPOLU",
+      "address_of_the_advocate": "NO.17-14-16 FILM GODOWN STREETBAPTIST NAGAR POORNANANDAMPET VIJAYWADA-3 KRISHNA DISTRICT ANDHRA PRADESH",
+      "area_of_practice": "VIJAYWADA KRISHNA DISTRICT ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 311,
+      "reg_no_": 8862,
+      "name_of_the_advocate": "V. SUBBA RAO",
+      "address_of_the_advocate": "D.NO. 46-4-105 B.H. NAGAR GUNADALAVIJAYWADA ANDHRA PRADESH-520004",
+      "area_of_practice": "VIJAYAWADA ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 312,
+      "reg_no_": 8863,
+      "name_of_the_advocate": "MOHD. ABDUL NAYEEM",
+      "address_of_the_advocate": "FLAT NO.202 IIND FLOOR 5-9-199 ABIDSHYDERABAD-500001 ANDHRA PRADESH",
+      "area_of_practice": "HYDERABAD ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 313,
+      "reg_no_": 8864,
+      "name_of_the_advocate": "T. SHANKARAIAH",
+      "address_of_the_advocate": "H.NO.8-3-228/628/B RAHMATH NAGARYOUSUFGUDA HYDERABADANDHRA PRADESH-500045",
+      "area_of_practice": "RAHMATH NAGAR AREA HYDERABAD ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 314,
+      "reg_no_": 8865,
+      "name_of_the_advocate": "A. JANAKI RAMULU",
+      "address_of_the_advocate": "H.NO. 12-412 VIDYANAGAROPPOSITE GOVT. GENERAL HOSPITAL KALWAKURTHYDISTRICT MAHABUBNAGAR ANDHRA PRADESH-509324",
+      "area_of_practice": "MAHABUBNAGAR DISTRICT ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "MAHABUBNAGAR"
+    },
+    {
+      "s_no_": 315,
+      "reg_no_": 8866,
+      "name_of_the_advocate": "BASAVARAJU RAMA KRISHNA",
+      "address_of_the_advocate": "D.NO.17-230/2 NIRMALA CONVENT STREETKOTHAPET NUZVID-521201KRISHNA DISTRICT ANDHRA PRADESH",
+      "area_of_practice": "NUZVID KRISHNA DISTRICT ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 316,
+      "reg_no_": 8867,
+      "name_of_the_advocate": "SRINIVASA RAO A.",
+      "address_of_the_advocate": "D.NO.23-36-27 JAGARLAMUDIVARI STREETLAKSHMI NAGAR SATYANARAYANAPURAMVIJAYWADA-520011 ANDHRA PRADESH",
+      "area_of_practice": "VIJAYAWADA ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 317,
+      "reg_no_": 8868,
+      "name_of_the_advocate": "SATYANARAYANA RAO K.",
+      "address_of_the_advocate": "D.NO.60-20-5 ASHOK NAGAR NR. SUNNAPUBATTILU VIJAYWADA KRISHNA DISTRICTANDHRA PRADESH-520010",
+      "area_of_practice": "VIJAYAWADA ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 318,
+      "reg_no_": 8869,
+      "name_of_the_advocate": "SUDHAKARA RAO P.",
+      "address_of_the_advocate": "D.NO.4-25-9/2 OPPOSITE SOWMYA THEATRELAMBADIPET VIJAYWADA-520009 KRISHNA DISTRICTANDHRA PRADESH",
+      "area_of_practice": "VIJAYWADA KRISHNA DISTRICT ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 319,
+      "reg_no_": 8870,
+      "name_of_the_advocate": "MURALI C.R.",
+      "address_of_the_advocate": "19-8-83/2A 1ST FLOOR SIVAJI NAGAR R.C. ROAD TIRUPATI CHITTOOR DISTRICTANDHRA PRADESH",
+      "area_of_practice": "CHITTOOR DISTRICT ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "CHITTOOR"
+    },
+    {
+      "s_no_": 320,
+      "reg_no_": 8871,
+      "name_of_the_advocate": "PAKKI RAMASANKARA RAO",
+      "address_of_the_advocate": "RAJAM SRIKAKULAM DISTRICTANDHRA PRADESH-532127",
+      "area_of_practice": "RAJAM SRIKAKULAM DISTRICT ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "SRIKAKULAM"
+    },
+    {
+      "s_no_": 321,
+      "reg_no_": 8872,
+      "name_of_the_advocate": "DONTI CHANDRA SHEKAR D. LAXMINARAYANA",
+      "address_of_the_advocate": "PLOT NO.131 TEACHERS COLONYTRIMULGHERY SECUNDERABAD-015ANDHRA PRADESH",
+      "area_of_practice": "SECUNDERABAD ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 322,
+      "reg_no_": 8873,
+      "name_of_the_advocate": "GANGANABOINA NAGESWARA RAO",
+      "address_of_the_advocate": "D.NO.77-56-5/3 A.V.S. REDDY ROADPRAKASH NAGAR VIJAYWADA-520015KRISHNA DISTRICT ANDHRA PRADESH",
+      "area_of_practice": "VIJAYWADA KRISHNA DISTRICT ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 323,
+      "reg_no_": 8874,
+      "name_of_the_advocate": "TAKBIDE KISHORE KUMAR PANDIT RAO",
+      "address_of_the_advocate": "BEHIND SRI GANESH TALKIES AND OPPOSITE DHOKWAL COMPLEXADILABAD DISTRICT ADILABADANDHRA PRADESH",
+      "area_of_practice": "ADILABAD CITY DISTRICT ADILABAD ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "ADILABAD"
+    },
+    {
+      "s_no_": 324,
+      "reg_no_": 8875,
+      "name_of_the_advocate": "ADINARAYANA K.",
+      "address_of_the_advocate": "SRI SAI NILAYAM D.NO.6-18NR. PUTA BHAVI GURAZALA (P.O. AND MANDAL)GUNTUR DISTRICT ANDHRA PRADESH-522415",
+      "area_of_practice": "GURUZALA COURTS GUNTUR DISTRICT ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "GUNTUR"
+    },
+    {
+      "s_no_": 325,
+      "reg_no_": 8876,
+      "name_of_the_advocate": "YARRAMALLU BHAVANI PRASAD",
+      "address_of_the_advocate": "D.NO.20-1093 B. SUBBARAO COLONYDOWLESWARAM RAJAHMUNDRY (RURAL)EAST GODAVARI DIST. ANDHRA PRADESH",
+      "area_of_practice": "EAST GODAVARI DISTRICT ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "EAST GODAVARI"
+    },
+    {
+      "s_no_": 326,
+      "reg_no_": 8877,
+      "name_of_the_advocate": "N. VINOD KUMAR",
+      "address_of_the_advocate": "H.NO.2-2-90/30/2/1 TURAB NAGARAMBERPET HYDERABAD-500013ANDHRA PRADESH",
+      "area_of_practice": "AMBERPET HYDERABAD ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 327,
+      "reg_no_": 8878,
+      "name_of_the_advocate": "MD. ANSARI",
+      "address_of_the_advocate": "H.NO.PANDURANGAPURAMKHAMMAM URBAN (M)KHAMMAM DISTRICT-507002 ANDHRA PRADESH",
+      "area_of_practice": "KHAMMAM ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "KHAMMAM"
+    },
+    {
+      "s_no_": 328,
+      "reg_no_": 8879,
+      "name_of_the_advocate": "SRIHARI PALLEM",
+      "address_of_the_advocate": "D.NO.16/256-7-3 PANTHULUGARI SHED STREETS.N. PURAM GUDIVADAKRISHNA DISTRICT ANDHRA PRADESH-521301",
+      "area_of_practice": "GUDIVADA KRISHNA DISTRICT ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 329,
+      "reg_no_": 8880,
+      "name_of_the_advocate": "SYED ZIAUDDIN",
+      "address_of_the_advocate": "D.NO. 77-33-1/5 SUNDARAIAH NAGARPAYAKAPURAM VIJAYAWADA-15ANDHRA PRADESH",
+      "area_of_practice": "VIJAYWADA KRISHNA DISTRICT ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 330,
+      "reg_no_": 8881,
+      "name_of_the_advocate": "TALLAPUDI KRISHNA MOHAN",
+      "address_of_the_advocate": "D.NO.25-2-23 LECTURERS STREETBHIMAVARAM-534202WEST GODAVARI DISTRICT ANDHRA PRADESH",
+      "area_of_practice": "BHIMAVARAM WEST GODAVARI ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "WEST GODAVARI"
+    },
+    {
+      "s_no_": 331,
+      "reg_no_": 8882,
+      "name_of_the_advocate": "G. SAMBA MURTHY",
+      "address_of_the_advocate": "D.NO.24-3-14 SRIRAMPURAMBHIMAVARAM-534202WEST GODAVARI DISTRICT ANDHRA PRADESH",
+      "area_of_practice": "WEST GODAVARI DISTRICT ANDHRA PRADESH",
+      "date_of_appointment": "2011-10-05T11:32:23Z",
+      "certificate_valid_upto": "2016-04-10T11:32:23Z",
+      "district": "WEST GODAVARI"
+    },
+    {
+      "s_no_": 332,
+      "reg_no_": 10739,
+      "name_of_the_advocate": "SHAIK KABEER",
+      "address_of_the_advocate": "H.NO. 8-105 BACK SIDE OF RAMALAYAMPANDURANGAPURAM COLONY KHAMMAM URBAN MANDAL KHAMMAM DT. ANDHRA PRADESH-507002",
+      "area_of_practice": "DIST. KHAMMAM",
+      "date_of_appointment": "2014-12-26T11:32:23Z",
+      "certificate_valid_upto": "2019-12-25T11:32:23Z",
+      "district": "KHAMMAM"
+    },
+    {
+      "s_no_": 333,
+      "reg_no_": 10740,
+      "name_of_the_advocate": "BALI RAJASHEKAR",
+      "address_of_the_advocate": "H.NO. 6-5-27/1 IST FLOOR BALI COMPLEX MAIN ROAD TANDUR R.R. DISTRICT ANDHRA PRADESH-501141",
+      "area_of_practice": "RANGAREDDY DIST. ANDHRA PRADESH",
+      "date_of_appointment": "2014-12-26T11:32:23Z",
+      "certificate_valid_upto": "2019-12-25T11:32:23Z",
+      "district": "RANGA REDDY"
+    },
+    {
+      "s_no_": 334,
+      "reg_no_": 10741,
+      "name_of_the_advocate": "RANJIT KUMAR GANTA",
+      "address_of_the_advocate": "NEAR FIRE STATION CHINTALAPUDI WEST GODAVARI DISTRICT ANDHRA PRADESH-534460",
+      "area_of_practice": "CHINTALAPUDI ANDHRA PRADESH",
+      "date_of_appointment": "2014-12-26T11:32:23Z",
+      "certificate_valid_upto": "2019-12-25T11:32:23Z",
+      "district": "CHITTOOR"
+    },
+    {
+      "s_no_": 335,
+      "reg_no_": 10742,
+      "name_of_the_advocate": "ANUMALA VENKATESWARA RAO",
+      "address_of_the_advocate": "D. NO. 10-155/1 SOCIETYPETA GANNAVARAM-521101 KRISHNA DISTRICT ANDHRA PRADESH",
+      "area_of_practice": "KRISHNA DIST. ANDHRA PRADESH",
+      "date_of_appointment": "2014-12-13T11:32:23Z",
+      "certificate_valid_upto": "2019-12-12T11:32:23Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 336,
+      "reg_no_": 10743,
+      "name_of_the_advocate": "KOTHA SARATH KUMAR",
+      "address_of_the_advocate": "D.NO. 8-112 MAIN ROAD NAKKAPALLI VILLAGE AND MANDAL VISAKHAPATNAM DISTRICT(ANDHRA PRADESH)-531081.",
+      "area_of_practice": "VISAKHAPATNAM DISTRICT",
+      "date_of_appointment": "2014-12-13T11:32:23Z",
+      "certificate_valid_upto": "2019-12-12T11:32:23Z",
+      "district": "VISAKHAPATNAM"
+    },
+    {
+      "s_no_": 337,
+      "reg_no_": 10744,
+      "name_of_the_advocate": "D. RAJENDRA",
+      "address_of_the_advocate": "28-684 OPPOSITE TO CAMFORD SCHOOL KANNAIAH NAIDU COLONY CHITTOOR(ANDHRA PRADESH)-517001.",
+      "area_of_practice": "CHITTOOR DISTRICT",
+      "date_of_appointment": "2014-12-13T11:32:23Z",
+      "certificate_valid_upto": "2019-12-12T11:32:23Z",
+      "district": "CHITTOOR"
+    },
+    {
+      "s_no_": 338,
+      "reg_no_": 10745,
+      "name_of_the_advocate": "MS. Y. KAMALA RANI",
+      "address_of_the_advocate": "FLAT NO. 303 KADAM TOWERS NEAR PEOPLES HIGH SCHOOL ASHOK NAGAR HYDERABAD(ANDHRA PRADESH)-20.",
+      "area_of_practice": "HYDERABAD",
+      "date_of_appointment": "2014-12-13T11:32:23Z",
+      "certificate_valid_upto": "2019-12-12T11:32:23Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 339,
+      "reg_no_": 10746,
+      "name_of_the_advocate": "BOOTHAPATI ASHOK",
+      "address_of_the_advocate": "D.NO. 37-4-19 GANDHIBOMMA ROAD BADAVAPET(NEHRU NAGAR) VIJAYWADA-520010 KRISHNA DISTRICT(ANDHRA PRADESH)",
+      "area_of_practice": "VIJAYAWADA",
+      "date_of_appointment": "2014-12-13T11:32:23Z",
+      "certificate_valid_upto": "2019-12-12T11:32:23Z",
+      "district": "VIJAYAWADA"
+    },
+    {
+      "s_no_": 340,
+      "reg_no_": 10747,
+      "name_of_the_advocate": "NORI SRIDHAR",
+      "address_of_the_advocate": "D. NO. 33-25-33A BELLAPU SOBHANADRI STREET SURYARAO PET VIJAYAWADA(ANDHRA PRADESH)-520002.",
+      "area_of_practice": "SURYARAO PET VIJAYAWADA",
+      "date_of_appointment": "2014-12-13T11:32:23Z",
+      "certificate_valid_upto": "2019-12-12T11:32:23Z",
+      "district": "VIJAYAWADA"
+    },
+    {
+      "s_no_": 341,
+      "reg_no_": 10748,
+      "name_of_the_advocate": "BANDARU GOPALA KRISHNA",
+      "address_of_the_advocate": "D.NO. 14-34-10/14 FLAT NO. T-2 S.V.S. RESIDENCY MAHARANIPETA VISAKHAPATNAM ANDHRA PRADESH-530002",
+      "area_of_practice": "VISAKHAPATNAM",
+      "date_of_appointment": "2014-12-13T11:32:23Z",
+      "certificate_valid_upto": "2019-12-12T11:32:23Z",
+      "district": "VISAKHAPATNAM"
+    },
+    {
+      "s_no_": 342,
+      "reg_no_": 10749,
+      "name_of_the_advocate": "TELUKALA SRINIVASA RA",
+      "address_of_the_advocate": "DOOR NO. 10-4-7/1 KAILASHNAAR GAJUWAKA VISAKHAPATNAM ANDHRA PRADESH-530026",
+      "area_of_practice": "GAJUWAKA (VISAKHAPATNAM DISTRICT)",
+      "date_of_appointment": "2014-12-26T11:32:23Z",
+      "certificate_valid_upto": "2019-12-25T11:32:23Z",
+      "district": "VISAKHAPATNAM"
+    },
+    {
+      "s_no_": 343,
+      "reg_no_": 10750,
+      "name_of_the_advocate": "MADU ANJANEYULU",
+      "address_of_the_advocate": "# 2-29 VELLATURU VILLAGE G. KONDURU MANDAL KRISHNA DISTRICT ANDHRA PRADESH",
+      "area_of_practice": "KRISHNA DISTRICT",
+      "date_of_appointment": "2014-12-26T11:32:23Z",
+      "certificate_valid_upto": "2019-12-25T11:32:23Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 344,
+      "reg_no_": 10751,
+      "name_of_the_advocate": "VEERANKI SIVA PRASAD",
+      "address_of_the_advocate": "D.NO. 4-69 THOTLAVALLURU VILLAGE AND MANDAL KRISHNA DISTRICT ANDHRA PRADESH-521163",
+      "area_of_practice": "KRISHNA DISTRICT",
+      "date_of_appointment": "2014-12-26T11:32:23Z",
+      "certificate_valid_upto": "2019-12-25T11:32:23Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 345,
+      "reg_no_": 10752,
+      "name_of_the_advocate": "APPIKATLA NAGESWARA RAO",
+      "address_of_the_advocate": "URUTURU POST PAMARRU MANDAL KRISHNA DISTRICT ANDHRA PRADESH-521157",
+      "area_of_practice": "GUDIWADA KRISHNA DISTRICT",
+      "date_of_appointment": "2014-12-26T11:32:23Z",
+      "certificate_valid_upto": "2019-12-25T11:32:23Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 346,
+      "reg_no_": 10753,
+      "name_of_the_advocate": "RANJAKAM KESAVA RAJU",
+      "address_of_the_advocate": "MIG-1-F/308 TARAKARAMA ENCLAVE VUDA APTTS. NEAR NAD KOTHAROAD VISAKHAPATNAM ANDHRA PRADESH-530009",
+      "area_of_practice": "VISAKHAPATNAM",
+      "date_of_appointment": "2014-12-26T11:32:23Z",
+      "certificate_valid_upto": "2019-12-25T11:32:23Z",
+      "district": "VISAKHAPATNAM"
+    },
+    {
+      "s_no_": 347,
+      "reg_no_": 10754,
+      "name_of_the_advocate": "G. DEENADAYAL",
+      "address_of_the_advocate": "H.NO. 17-33 SRINIVASA TALKIES ROAD SATHUPALLI NAGARA PANCHAYAT SATHUPALLI MANDAL KHAMMAM DISTRICT ANDHRA PRADESH",
+      "area_of_practice": "KHAMMAM DISTRICT",
+      "date_of_appointment": "2014-12-26T11:32:23Z",
+      "certificate_valid_upto": "2019-12-25T11:32:23Z",
+      "district": "KHAMMAM"
+    },
+    {
+      "s_no_": 348,
+      "reg_no_": 10755,
+      "name_of_the_advocate": "KAMBALA SHIVACHALAM",
+      "address_of_the_advocate": "D.NO. 1-20-13 ADARSNAGAR PEDAWALTAIR VISAKHAPATNAM ANDHRA PRADESH-530017",
+      "area_of_practice": "VISAKHAPATNAM",
+      "date_of_appointment": "2014-12-26T11:32:23Z",
+      "certificate_valid_upto": "2019-12-25T11:32:23Z",
+      "district": "VISAKHAPATNAM"
+    },
+    {
+      "s_no_": 349,
+      "reg_no_": 10756,
+      "name_of_the_advocate": "MAHABOOB ALI",
+      "address_of_the_advocate": "FLAT NO. 203/A HILINE ANSARI COMPLEX HUMAYUN NAGAR HYDERBAD ANDHRA PRADESH-500028",
+      "area_of_practice": "HYDERABAD",
+      "date_of_appointment": "2014-12-13T11:32:23Z",
+      "certificate_valid_upto": "2019-12-12T11:32:23Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 350,
+      "reg_no_": 10757,
+      "name_of_the_advocate": "ABDUL MATEEN",
+      "address_of_the_advocate": "#8-226 FAROOKH NAGAR ASHOK NAGAR AREA BESIDE JAGATHI NURSING HOME BUNDAR ROADVIJAYAWADA AP-520007",
+      "area_of_practice": "VIJAYAWADA KRISHNA DISTRICT",
+      "date_of_appointment": "2014-12-13T11:32:23Z",
+      "certificate_valid_upto": "2019-12-12T11:32:23Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 351,
+      "reg_no_": 10758,
+      "name_of_the_advocate": "KONISI TRINADHA RAO",
+      "address_of_the_advocate": "DOOR NO.12-162 BELLANA STREET CHEEPURUPALLI TOWN POST. VIZINAGARAM DISTRICTANDHRA PRADESH-535128",
+      "area_of_practice": "CHEEPURUPALI TOWN IN VIZINAGARAM DISTRICT",
+      "date_of_appointment": "2014-12-13T11:32:24Z",
+      "certificate_valid_upto": "2019-12-12T11:32:24Z",
+      "district": "VIZIANAGARAM"
+    },
+    {
+      "s_no_": 352,
+      "reg_no_": 10759,
+      "name_of_the_advocate": "P. SATISH KUMAR",
+      "address_of_the_advocate": "2-2-70 FLAT NO. 401 PRAJAY AVENUE APARTMENTS AMBERPET HYDERABAD-500013.",
+      "area_of_practice": "AMBERPET",
+      "date_of_appointment": "2014-12-13T11:32:24Z",
+      "certificate_valid_upto": "2019-12-12T11:32:24Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 353,
+      "reg_no_": 10760,
+      "name_of_the_advocate": "VENKATA REDDY VUPPELA",
+      "address_of_the_advocate": "DOOR NO.4-15-126/5/1A 9/2 BHARATPET GUNTUR CITY AP-522002",
+      "area_of_practice": "GUNTUR DISTRICT",
+      "date_of_appointment": "2014-12-13T11:32:24Z",
+      "certificate_valid_upto": "2019-12-12T11:32:24Z",
+      "district": "GUNTUR"
+    },
+    {
+      "s_no_": 354,
+      "reg_no_": 10761,
+      "name_of_the_advocate": "KOTHA NAGA SURYA RAO",
+      "address_of_the_advocate": "D.NO. 35-1-11 MUCHERLA VARI STREET PALAKOL WEST GODAVARI DISTRICT ANDHRA PRADESH-534260",
+      "area_of_practice": "WEST GODAVARI DISTRICT",
+      "date_of_appointment": "2014-12-13T11:32:24Z",
+      "certificate_valid_upto": "2019-12-12T11:32:24Z",
+      "district": "WEST GODAVARI"
+    },
+    {
+      "s_no_": 355,
+      "reg_no_": 10762,
+      "name_of_the_advocate": "ALLADA NARAYANA RAO",
+      "address_of_the_advocate": "DOOR NO.4-8-38 CHINNA DEVARA STREET ICHAPURAM AP-532312",
+      "area_of_practice": "KHHAPURAM",
+      "date_of_appointment": "2014-12-13T11:32:24Z",
+      "certificate_valid_upto": "2019-12-12T11:32:24Z",
+      "district": "KHAMMAM"
+    },
+    {
+      "s_no_": 356,
+      "reg_no_": 10763,
+      "name_of_the_advocate": "KANISETTY VENKATA RANGA RAO",
+      "address_of_the_advocate": "D.NO.9-65-40 SYKAMVARI STREET KOTHAPET VIJAYAWADA KRISHNA DISTRICTAP-520001",
+      "area_of_practice": "VIJAYAWADA KRISHNA DISTRICT",
+      "date_of_appointment": "2014-12-13T11:32:24Z",
+      "certificate_valid_upto": "2019-12-12T11:32:24Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 357,
+      "reg_no_": 10764,
+      "name_of_the_advocate": "SYED MASTAN VALI",
+      "address_of_the_advocate": "DOOR NO.3-43 KARANAM STREET EAST IBRAHIMPATNAM KROSHNA DISTRICTAP-521456",
+      "area_of_practice": "VIJAYAWADA KRISHNA DISTRICT",
+      "date_of_appointment": "2014-12-13T11:32:24Z",
+      "certificate_valid_upto": "2019-12-12T11:32:24Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 358,
+      "reg_no_": 10765,
+      "name_of_the_advocate": "BANDARU RAMA RAO",
+      "address_of_the_advocate": "DOOR NO.7-35 KOMATIGUNTA VILLAGE KANKIPADU MANDAL KRISHNA DISTRICT AP",
+      "area_of_practice": "VIJAYAWADA KRISHAN DIST.",
+      "date_of_appointment": "2014-12-13T11:32:24Z",
+      "certificate_valid_upto": "2019-12-12T11:32:24Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 359,
+      "reg_no_": 10766,
+      "name_of_the_advocate": "SARAGADAM RAMU NAIDU",
+      "address_of_the_advocate": "D.NO.44-35-1/4A SRINIVASANAGAR AKKAYYAPALEM VISAKHAPATNAM-16 ANDHRA PRADESH",
+      "area_of_practice": "SRINIWAS NAGAR",
+      "date_of_appointment": "2014-12-13T11:32:24Z",
+      "certificate_valid_upto": "2019-12-12T11:32:24Z",
+      "district": "VISAKHAPATNAM"
+    },
+    {
+      "s_no_": 360,
+      "reg_no_": 10767,
+      "name_of_the_advocate": "SRI K.PRABHAKARA RAO",
+      "address_of_the_advocate": "PLOT NO-721 AND 722 FLAT NO-303R.R.SAI SADAN.PRAGATHI NAGAR OPPOSITEJNTUKUKATPALLYQUTHUBULLAPUR MANDAL RANGA REDDY DIST. AP-500090",
+      "area_of_practice": "KUKATPALLY RANGA REDDY DISTRICT",
+      "date_of_appointment": "2014-12-13T11:32:24Z",
+      "certificate_valid_upto": "2019-12-12T11:32:24Z",
+      "district": "RANGA REDDY"
+    },
+    {
+      "s_no_": 361,
+      "reg_no_": 10768,
+      "name_of_the_advocate": "K.DHARMA PRASAD",
+      "address_of_the_advocate": "CHINA STRAM ROAD SAI NAGAR AREA SULLURUPET TOWN AND MANDAL SPSR NELLORE DISTRICTAP-524121",
+      "area_of_practice": "NELLORE DISTT",
+      "date_of_appointment": "2014-12-13T11:32:24Z",
+      "certificate_valid_upto": "2019-12-12T11:32:24Z",
+      "district": "NELLORE"
+    },
+    {
+      "s_no_": 362,
+      "reg_no_": 10769,
+      "name_of_the_advocate": "M.ESWERAIAH",
+      "address_of_the_advocate": "THUMMURU NAIDUPETA SPSR NELLORE DISTRICTAP-524126",
+      "area_of_practice": "NELLORE DISTT",
+      "date_of_appointment": "2014-12-13T11:32:24Z",
+      "certificate_valid_upto": "2019-12-12T11:32:24Z",
+      "district": "NELLORE"
+    },
+    {
+      "s_no_": 363,
+      "reg_no_": 10770,
+      "name_of_the_advocate": "CHKAMESWARA RAO",
+      "address_of_the_advocate": "PLOT NO.63 MAHALAKSHMI PURI EXCISE COLONY YAPARAE SECUNDERABAD AP.-500087",
+      "area_of_practice": "SECUNDERABAD/ HYDERABAD",
+      "date_of_appointment": "2014-12-13T11:32:24Z",
+      "certificate_valid_upto": "2019-12-12T11:32:24Z",
+      "district": "HYDERABAD"
+    },
+    {
+      "s_no_": 364,
+      "reg_no_": 10771,
+      "name_of_the_advocate": "SURRATHI PRASUNA",
+      "address_of_the_advocate": "D.NO.29-14-16/1 OPPOSITEANDHRA HOSPITAL PRAKASAM ROAD GOVERNORPET VIJAYAWADA AP-",
+      "area_of_practice": "VIJAYAWADA KRISHNA DISTRICT",
+      "date_of_appointment": "2014-12-13T11:32:24Z",
+      "certificate_valid_upto": "2019-12-12T11:32:24Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 365,
+      "reg_no_": 10772,
+      "name_of_the_advocate": "VENDOTI PARTHASARAJHY REDDY",
+      "address_of_the_advocate": "AGRAHARAPET STREET. D.NO. 6-7-112 NAIDUPET TOWN AND MADAL AP-524126",
+      "area_of_practice": "NAIDUPET TOWN J.C.J. COURT SULLURPET",
+      "date_of_appointment": "2014-12-13T11:32:24Z",
+      "certificate_valid_upto": "2019-12-12T11:32:24Z",
+      "district": "NA"
+    },
+    {
+      "s_no_": 366,
+      "reg_no_": 10773,
+      "name_of_the_advocate": "PALADUGU SUBBA RAO",
+      "address_of_the_advocate": "D.NO.48-19-5 SRI RAMCHANDRA NAGAR OPPOSITE SIDDHARDHA MEDICAL COLLEGE VIJAYAWADA KRISHNA DISTRICTAP-520008",
+      "area_of_practice": "VIJAYAWADA KRISHNA DISTRICT",
+      "date_of_appointment": "2014-12-13T11:32:24Z",
+      "certificate_valid_upto": "2019-12-12T11:32:24Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 367,
+      "reg_no_": 10774,
+      "name_of_the_advocate": "DESIRAJU VENKATA SATYA LOKESWARARAO",
+      "address_of_the_advocate": "H.NO.21-9-YA RAGAMMASTANRAO ROAD MADHURANAGAR MADHURNAGAR VIJAYAWADA AP-520011",
+      "area_of_practice": "VIJAYAWADA KRISHNA DISTRICT",
+      "date_of_appointment": "2014-12-13T11:32:24Z",
+      "certificate_valid_upto": "2019-12-12T11:32:24Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 368,
+      "reg_no_": 10775,
+      "name_of_the_advocate": "KOLLURU RAVI SHANKAR",
+      "address_of_the_advocate": "D.NO.12-487 SRIRAMA NAGAR RAVINDRANAGAR-II OLD DAIRY FARM VISAKHAPATNAM AP-530040",
+      "area_of_practice": "VISAKHAPATNAM",
+      "date_of_appointment": "2014-12-13T11:32:24Z",
+      "certificate_valid_upto": "2019-12-12T11:32:24Z",
+      "district": "VISAKHAPATNAM"
+    },
+    {
+      "s_no_": 369,
+      "reg_no_": 10776,
+      "name_of_the_advocate": "K.MANOHARACHARI",
+      "address_of_the_advocate": "VILLAGE AND P.O. PUNGANUR - TALUK CHITTOOR DISTRICT ANDHRA PRADESH - 517247",
+      "area_of_practice": "CHITTOOR DISTRICT",
+      "date_of_appointment": "2014-12-13T11:32:24Z",
+      "certificate_valid_upto": "2019-12-12T11:32:24Z",
+      "district": "CHITTOOR"
+    },
+    {
+      "s_no_": 370,
+      "reg_no_": 10777,
+      "name_of_the_advocate": "SURAGANI VIJAYA KUMAR",
+      "address_of_the_advocate": "D.NO. 59 A-15-34 BHADRANAIAH NAGAR PATAMATA VIJAYWADA KRISHNA DISTRICT ANDRA PRADESH",
+      "area_of_practice": "KRISHNA DISTT",
+      "date_of_appointment": "2014-12-13T11:32:24Z",
+      "certificate_valid_upto": "2019-12-12T11:32:24Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 371,
+      "reg_no_": 10778,
+      "name_of_the_advocate": "VUSA JAYA PRASAD",
+      "address_of_the_advocate": "D.NO.5-102/A VELERU POST BAPULAPADU MANDAL KRISHNA DT. ANDHRA PRADESH-521110",
+      "area_of_practice": "VIJAYAWADA",
+      "date_of_appointment": "2014-12-13T11:32:24Z",
+      "certificate_valid_upto": "2019-12-12T11:32:24Z",
+      "district": "VIJAYAWADA"
+    },
+    {
+      "s_no_": 372,
+      "reg_no_": 10779,
+      "name_of_the_advocate": "DODLA SUJATHA",
+      "address_of_the_advocate": "D.NO.10-14/2-24 MALIKHARJUNAPET AKULAVARI STREET VIJAYAWADA KRISHNA DISTRICTAP-520001",
+      "area_of_practice": "VIJAYAWADA KRISHNA DISTRICT",
+      "date_of_appointment": "2014-12-26T11:32:24Z",
+      "certificate_valid_upto": "2019-12-25T11:32:24Z",
+      "district": "VIJAYAWADA"
+    },
+    {
+      "s_no_": 373,
+      "reg_no_": 10780,
+      "name_of_the_advocate": "KESUBOINA VENKATA RAMANA",
+      "address_of_the_advocate": "PIDATHAMAMIDI (POST) G.KOTHAPALLI (VIA) E.G.D.T.AP-533285",
+      "area_of_practice": "RAJAHMUNDRY RURAL",
+      "date_of_appointment": "2014-12-26T11:32:24Z",
+      "certificate_valid_upto": "2019-12-25T11:32:24Z",
+      "district": "NA"
+    },
+    {
+      "s_no_": 374,
+      "reg_no_": 10781,
+      "name_of_the_advocate": "JAGAJJINAN RAO.K",
+      "address_of_the_advocate": "D.NO. 4-21-3A THOTAL LAKSHMI STREET LAMBADIPET VIJAYAWADA KRISHNA DISTRICT ANDHRA PRADESH-520009",
+      "area_of_practice": "VIJAYAWADA KRISHNA DISTRICT",
+      "date_of_appointment": "2014-12-26T11:32:24Z",
+      "certificate_valid_upto": "2019-12-25T11:32:24Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 375,
+      "reg_no_": 10782,
+      "name_of_the_advocate": "MS. MADDALI SAILAJA",
+      "address_of_the_advocate": "V.S.R. COLONY UPSTAIRS BEHIND BUS STAND KAIKALUR KRISHNA DISTRICT ANDHRA PRADESH-521333",
+      "area_of_practice": "KRISHNA DISTT",
+      "date_of_appointment": "2014-12-26T11:32:24Z",
+      "certificate_valid_upto": "2019-12-25T11:32:24Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 376,
+      "reg_no_": 10783,
+      "name_of_the_advocate": "MATTA RAMADASU",
+      "address_of_the_advocate": "D. NO. 1/49 SULTAN NAGARAM BANDAR MANDALAM KRISHNA DISTRICT ANDHRA PRADESH-521001",
+      "area_of_practice": "MACHILIPATNAM (KRISHNA DISTRICT)",
+      "date_of_appointment": "2014-12-26T11:32:24Z",
+      "certificate_valid_upto": "2019-12-25T11:32:24Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 377,
+      "reg_no_": 10784,
+      "name_of_the_advocate": "DUVVURI SUNDARAM",
+      "address_of_the_advocate": "D.NO. 28-26-8 KURMAIAH STREET ARUNDALPET VIJAYAWADA ANDHRA PRADESH-520002",
+      "area_of_practice": "VIJAYAWADA KRISHNA DISTRICT",
+      "date_of_appointment": "2014-12-26T11:32:24Z",
+      "certificate_valid_upto": "2019-12-25T11:32:24Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 378,
+      "reg_no_": 10785,
+      "name_of_the_advocate": "PANNALA SURYANARAYANA MURTHY",
+      "address_of_the_advocate": "F-3 D.NO. 76-5-30 GANDHIPURAM-II RAJAHMUNDRY(ANDHRA PRADESH)-533103.",
+      "area_of_practice": "RAJAHMUNDRY (EAST GODAVARI DISTRICT)",
+      "date_of_appointment": "2014-12-26T11:32:24Z",
+      "certificate_valid_upto": "2019-12-25T11:32:24Z",
+      "district": "GODAVARI DISTT."
+    },
+    {
+      "s_no_": 379,
+      "reg_no_": 10786,
+      "name_of_the_advocate": "M. RAVINDRA BABU",
+      "address_of_the_advocate": "D.NO. 59-16-9 MARKET ROAD MALKAPURAM VISAKHAPATNAM ANDHRA PRADESH-530011.",
+      "area_of_practice": "VISAKHAPATNAM",
+      "date_of_appointment": "2014-12-26T11:32:24Z",
+      "certificate_valid_upto": "2019-12-25T11:32:24Z",
+      "district": "VISAKHAPATNAM"
+    },
+    {
+      "s_no_": 380,
+      "reg_no_": 10787,
+      "name_of_the_advocate": "PENUMALA RAM BABU",
+      "address_of_the_advocate": "D. NO. 23-39-42A LAKSHMI NAGAR SATYANARAYANAPURAM VIJAYAWADA KRISHNA DISTRICT ANDHRA PRADESH-520011",
+      "area_of_practice": "VIJAYAWADA KRISHNA DT.",
+      "date_of_appointment": "2014-12-26T11:32:24Z",
+      "certificate_valid_upto": "2019-12-25T11:32:24Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 381,
+      "reg_no_": 10788,
+      "name_of_the_advocate": "PALAKA SREE RAMA MURTHY",
+      "address_of_the_advocate": "D.NO.9-12-31/21 Y.R.P.C.QUARTERS BESIDE III TOWN POLICE STATION VISAKHAPATNAM ANDHRA PRADESH-530017",
+      "area_of_practice": "VISAKHAPATNAM",
+      "date_of_appointment": "2014-12-26T11:32:24Z",
+      "certificate_valid_upto": "2019-12-25T11:32:24Z",
+      "district": "VISAKHAPATNAM"
+    },
+    {
+      "s_no_": 382,
+      "reg_no_": 10789,
+      "name_of_the_advocate": "GORLA RAMBABU",
+      "address_of_the_advocate": "D.NO. 11-482-3 VASAVI NAGAR GUDIVADA KRISHNA DISTRICT(ANDHRA PRADESH)-521301.",
+      "area_of_practice": "GUDIVADA (KRISHNA DISTRICT)",
+      "date_of_appointment": "2014-12-26T11:32:24Z",
+      "certificate_valid_upto": "2019-12-25T11:32:24Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 383,
+      "reg_no_": 10790,
+      "name_of_the_advocate": "GADDAM MADHUSUDHANA RAO",
+      "address_of_the_advocate": "D. NO. 77-4/1-4 PRAKASH NAGAR VIJAYAWADA KRISHNA DISTRICT ANDHRA PRADESH-520015",
+      "area_of_practice": "VIJAYAWADA KRISHNA DT.",
+      "date_of_appointment": "2014-12-26T11:32:24Z",
+      "certificate_valid_upto": "2019-12-25T11:32:24Z",
+      "district": "VIJAYAWADA"
+    },
+    {
+      "s_no_": 384,
+      "reg_no_": 10791,
+      "name_of_the_advocate": "KHADAR KHAN",
+      "address_of_the_advocate": "# 3-19 C.B. ROAD SOWCARPET GREAMSPET CHITTOOR-517002 ANDHRA PRADESH",
+      "area_of_practice": "CHITTOOR",
+      "date_of_appointment": "2014-12-26T11:32:24Z",
+      "certificate_valid_upto": "2019-12-25T11:32:24Z",
+      "district": "CHITTOOR"
+    },
+    {
+      "s_no_": 385,
+      "reg_no_": 10792,
+      "name_of_the_advocate": "BANDARU SURYANARAYANA",
+      "address_of_the_advocate": "ANDHRA PRADESH COURT COMPLEX CHODAVARAM VILLAGE AND MANDAL VISHAKHAPATNAM DISTRICT(ANDHRA PRADESH)-531036",
+      "area_of_practice": "CHODAVARAM MANDAL(VISAKHAPATNAM DT.)",
+      "date_of_appointment": "2014-12-26T11:32:24Z",
+      "certificate_valid_upto": "2019-12-25T11:32:24Z",
+      "district": "VISAKHAPATNAM"
+    },
+    {
+      "s_no_": 386,
+      "reg_no_": 10793,
+      "name_of_the_advocate": "MOHD. ABDUL RAHEEM",
+      "address_of_the_advocate": "H.NO. 8-9-22 INSIDE FORT KHAMMAM URBAN KHAMMAM DISTRICT ANDHRA PRADESH-507001",
+      "area_of_practice": "DISTRICT KHAMMAM",
+      "date_of_appointment": "2014-12-26T11:32:24Z",
+      "certificate_valid_upto": "2019-12-25T11:32:24Z",
+      "district": "KHAMMAM"
+    },
+    {
+      "s_no_": 387,
+      "reg_no_": 10817,
+      "name_of_the_advocate": "DR. D. VASANTHA KUMARI",
+      "address_of_the_advocate": "D.NO.7-3-4 PRAKASHAM STREET RAMARAOPETA KAKINADA ANDHRA PRADESH",
+      "area_of_practice": "KAKINADA",
+      "date_of_appointment": "2014-12-23T11:32:24Z",
+      "certificate_valid_upto": "2019-12-22T11:32:24Z",
+      "district": "KAKINADA"
+    },
+    {
+      "s_no_": 388,
+      "reg_no_": 10818,
+      "name_of_the_advocate": "MS. BANDLAMUDI BINDU",
+      "address_of_the_advocate": "4-15-27/A 5TH LINE BHARAT PET GUNTUR CITY GUNTUR DISTRICT ANDHRA PRADESH-522002.",
+      "area_of_practice": "GUNTUR DISTRICT",
+      "date_of_appointment": "2014-12-23T11:32:24Z",
+      "certificate_valid_upto": "2019-12-22T11:32:24Z",
+      "district": "GUNTUR"
+    },
+    {
+      "s_no_": 389,
+      "reg_no_": 10819,
+      "name_of_the_advocate": "RAJENDRA PRASAD GUDETI",
+      "address_of_the_advocate": "D. NO. 36-3-16 KANUMURU DEVANANDAM STREET WOODPET VIJAYAWADA KRISHNA DISTRICT ANDHRA PRADESH-520010",
+      "area_of_practice": "VIJAYAWADA KRISHNA DT.",
+      "date_of_appointment": "2014-12-23T11:32:24Z",
+      "certificate_valid_upto": "2019-12-22T11:32:24Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 390,
+      "reg_no_": 10820,
+      "name_of_the_advocate": "DEVARAPALLI SATYANARAYANA PALLAYYA",
+      "address_of_the_advocate": "D. NO. D.119 B-COLONY V.T.P.S. POST IBRAHIMPATNAM MANDAL KRISHNA DISTRICT ANDHRA PRADESH",
+      "area_of_practice": "VIJAYAWADA KRISHNA DT.",
+      "date_of_appointment": "2014-12-23T11:32:24Z",
+      "certificate_valid_upto": "2019-12-22T11:32:24Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 391,
+      "reg_no_": 10821,
+      "name_of_the_advocate": "KORADA RAVI KUMAR",
+      "address_of_the_advocate": "D.NO.9-16-30 MAKINAVARI STREET KOTHAPET VIJAYAWADA-520001 ANDHRA PRADESH",
+      "area_of_practice": "KRISHNA DISTT",
+      "date_of_appointment": "2014-12-23T11:32:24Z",
+      "certificate_valid_upto": "2019-12-22T11:32:24Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 392,
+      "reg_no_": 10822,
+      "name_of_the_advocate": "SYED MAHABOOB",
+      "address_of_the_advocate": "22-3-37 FATHIA STREET NEAR HALTHALEEM MOSQUE NELLORE ANDHRA PRADESH-524001",
+      "area_of_practice": "S.P.S.R. NELLORE DISTRICT",
+      "date_of_appointment": "2014-12-23T11:32:24Z",
+      "certificate_valid_upto": "2019-12-22T11:32:24Z",
+      "district": "NELLORE"
+    },
+    {
+      "s_no_": 393,
+      "reg_no_": 10823,
+      "name_of_the_advocate": "RAM PRASAD SISTLA",
+      "address_of_the_advocate": "D.NO.27-20-40/3 MUSEUM ROAD GOVERNORPET VIJAYAWADA-520002 KRISHNA DIST. ANDHRA PRADESH",
+      "area_of_practice": "VIJAYAWADA KRISHNA DT.",
+      "date_of_appointment": "2014-12-23T11:32:24Z",
+      "certificate_valid_upto": "2019-12-22T11:32:24Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 394,
+      "reg_no_": 10824,
+      "name_of_the_advocate": "N.G. GOVINDARAJULU",
+      "address_of_the_advocate": "# 25-500/1 G.K. NAGAR REDDIGUNTA POST CHITTOOR-517002 ANDHRA PRADESH",
+      "area_of_practice": "DISTRICT COURT CHITTOOR",
+      "date_of_appointment": "2014-12-23T11:32:24Z",
+      "certificate_valid_upto": "2019-12-22T11:32:24Z",
+      "district": "CHITTOOR"
+    },
+    {
+      "s_no_": 395,
+      "reg_no_": 10825,
+      "name_of_the_advocate": "VAMMI YERUKU NAIDU",
+      "address_of_the_advocate": "D.NO.2-60-68 NEAR ILTD RAILWAY GATE SAIKRISHNANAGAR RAJAHMUNDRY EAST GODAVARI DISTRICTAP-533101",
+      "area_of_practice": "RAJAHMUNDRY TOWN AND URBAN MANDAL EAST GODAVARI DISTRICT",
+      "date_of_appointment": "2014-12-17T11:32:24Z",
+      "certificate_valid_upto": "2019-12-16T11:32:24Z",
+      "district": "GODAVARI DISTT."
+    },
+    {
+      "s_no_": 396,
+      "reg_no_": 10826,
+      "name_of_the_advocate": "N. RAMACHANDRA",
+      "address_of_the_advocate": "GURUGUNATHAM VILLAGE NANGAMANGALAM POST GUDIPALA MANDAL CHITTOOR DISTRICT-517132",
+      "area_of_practice": "DISTRICT COURT CHITTOOR",
+      "date_of_appointment": "2014-12-17T11:32:24Z",
+      "certificate_valid_upto": "2019-12-16T11:32:24Z",
+      "district": "CHITTOOR"
+    },
+    {
+      "s_no_": 397,
+      "reg_no_": 10827,
+      "name_of_the_advocate": "MS. CHALANADI NAGANJANI",
+      "address_of_the_advocate": "H.NO. 11-104 MADHU BHAVAN MAIN ROAD WYRA KHAMMAM DISTRICT ANDHRA PRADESH-507165",
+      "area_of_practice": "WYRA KHAMMAM DISTRICT",
+      "date_of_appointment": "2014-12-17T11:32:24Z",
+      "certificate_valid_upto": "2019-12-16T11:32:24Z",
+      "district": "KHAMMAM"
+    },
+    {
+      "s_no_": 398,
+      "reg_no_": 10828,
+      "name_of_the_advocate": "CHEEDELLA NAGESWARA RAO",
+      "address_of_the_advocate": "UD/LD-73 A-COLONY VTPS IBRAHIMPATNAM KRISHNA DISTRICT ANDHRA PRADESH",
+      "area_of_practice": "KRISHNA DISTRICT",
+      "date_of_appointment": "2014-12-17T11:32:24Z",
+      "certificate_valid_upto": "2019-12-16T11:32:24Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 399,
+      "reg_no_": 10829,
+      "name_of_the_advocate": "VIJAY KUMAR",
+      "address_of_the_advocate": "SAI KRUPA H.NO.4-7-364/3 VIDYANAGAR TQ. AND DIST.ADILABAD-504001 ANDHRA PRADESH",
+      "area_of_practice": "ADILABAD",
+      "date_of_appointment": "2014-12-17T11:32:24Z",
+      "certificate_valid_upto": "2019-12-16T11:32:24Z",
+      "district": "ADILABAD"
+    },
+    {
+      "s_no_": 400,
+      "reg_no_": 10830,
+      "name_of_the_advocate": "K MUNI REDDY BALA PRASAD",
+      "address_of_the_advocate": "FLAT NO.202 AASHRAYA APARTMENTS BACKSIDE OF GANGIREDDY COMPLEX LBS ROADPILER AP-517214",
+      "area_of_practice": "PILER CHITTOOR DIST.",
+      "date_of_appointment": "2014-12-17T11:32:24Z",
+      "certificate_valid_upto": "2019-12-16T11:32:24Z",
+      "district": "CHITTOOR"
+    },
+    {
+      "s_no_": 401,
+      "reg_no_": 10831,
+      "name_of_the_advocate": "PAKARAPU SRINIVAS",
+      "address_of_the_advocate": "D.NO. 20/516-12-2 NGO COLONY MACHILIPATNAM ANDHRA PRADESH-521001.",
+      "area_of_practice": "MACHILIPATNAM KRISHNA DISTRICT",
+      "date_of_appointment": "2014-12-17T11:32:24Z",
+      "certificate_valid_upto": "2019-12-16T11:32:24Z",
+      "district": "MACHILIPATNAM"
+    },
+    {
+      "s_no_": 402,
+      "reg_no_": 10832,
+      "name_of_the_advocate": "MD. ANKUSHAVALI",
+      "address_of_the_advocate": "H.NO.8-2-158SUNDARAIAHNAGARMANUGURU MANDAL KHAMMAM DISTRICTANDHRA PARDESH-507117",
+      "area_of_practice": "MANUGURU DIV.",
+      "date_of_appointment": "2014-12-17T11:32:24Z",
+      "certificate_valid_upto": "2019-12-16T11:32:24Z",
+      "district": "KHAMMAM"
+    },
+    {
+      "s_no_": 403,
+      "reg_no_": 10833,
+      "name_of_the_advocate": "SANAKA VIJAYA GOPALA KRISHNA",
+      "address_of_the_advocate": "D.NO.3-149 VENKATESHWARA THEATRE ROAD AVAMIGADDAKRISHNA DISTRICT ANDHRA PARDESH-521121",
+      "area_of_practice": "AVANIGADDA",
+      "date_of_appointment": "2014-12-17T11:32:24Z",
+      "certificate_valid_upto": "2019-12-16T11:32:24Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 404,
+      "reg_no_": 10834,
+      "name_of_the_advocate": "SANAKA VIJAYA GOPALA KRISHNA",
+      "address_of_the_advocate": "D.NO.3-149 VENKATESHWARA THEATRE ROAD AVAMIGADDAKRISHNA DISTRICT ANDHRA PARDESH-521121",
+      "area_of_practice": "AVANIGADDA",
+      "date_of_appointment": "2014-12-23T11:32:24Z",
+      "certificate_valid_upto": "2019-12-22T11:32:24Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 405,
+      "reg_no_": 10835,
+      "name_of_the_advocate": "SHAIK MUNEER MOULALI",
+      "address_of_the_advocate": "D.NO. 74-13/1-2 A PLOT NO. 164 A NEW RTC COLONY VIJAYAWADA KRISHNA DISTRICT ANDHRA PRADESH-520007",
+      "area_of_practice": "VIJAYAWADA KRISHNA DISTRICT",
+      "date_of_appointment": "2014-12-26T11:32:24Z",
+      "certificate_valid_upto": "2019-12-25T11:32:24Z",
+      "district": "VIJAYAWADA"
+    },
+    {
+      "s_no_": 406,
+      "reg_no_": 10836,
+      "name_of_the_advocate": "MS. BODAVULA INDIRA",
+      "address_of_the_advocate": "D.NO.C-12/4 SURYA NIWAS NGOS COLONY KAIKALUR (POST AND MANDAL) KRISHNA DISTRICT AP-521333",
+      "area_of_practice": "KRISHNA DISTRICT",
+      "date_of_appointment": "2014-12-26T11:32:24Z",
+      "certificate_valid_upto": "2019-12-25T11:32:24Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 407,
+      "reg_no_": 10837,
+      "name_of_the_advocate": "V. VASANTHA RAO",
+      "address_of_the_advocate": "H. NO. 4-2-380/1 ROAD NO. 1 SREENAGAR COLONY ROTARY NAGAR KHAMMAM TOWN AND DISTRICT ANDHRA PRADESH-507002",
+      "area_of_practice": "KHAMMAM DISTRICT",
+      "date_of_appointment": "2014-12-26T11:32:24Z",
+      "certificate_valid_upto": "2019-12-25T11:32:24Z",
+      "district": "KHAMMAM"
+    },
+    {
+      "s_no_": 408,
+      "reg_no_": 10838,
+      "name_of_the_advocate": "KONGARA SAI",
+      "address_of_the_advocate": "# 60-20-4 ABHINAYA APARTMENTS FLAT NO. T-2 SUNNAPUBHATTILA CENTRE VIJAYAWADA ANDHRA PRADESH-520010",
+      "area_of_practice": "KRISHNA DISTRICT",
+      "date_of_appointment": "2014-12-26T11:32:24Z",
+      "certificate_valid_upto": "2019-12-25T11:32:24Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 409,
+      "reg_no_": 10839,
+      "name_of_the_advocate": "GOURISETTI GOVARDHAN",
+      "address_of_the_advocate": "H.NO. 10-2-126/1 OPPOSITE POSTAL COLONY KHAMMAM TOWN AND DISTRICT(ANDHRA PRADESH)-507001",
+      "area_of_practice": "MAMILLAGUDEM (KHAMMAM DISTRICT)",
+      "date_of_appointment": "2014-12-26T11:32:24Z",
+      "certificate_valid_upto": "2019-12-25T11:32:24Z",
+      "district": "KHAMMAM"
+    },
+    {
+      "s_no_": 410,
+      "reg_no_": 10840,
+      "name_of_the_advocate": "KOSURU SUNDARA RAMAIAH",
+      "address_of_the_advocate": "D.NO. 42-3/1-62A KODURU RAJU STREET RAMAKRISHNA PURAM VIJAYAWADA KRISHNA DISTRICT(ANDHRA PRADESH)-520003.",
+      "area_of_practice": "RAMAKRISHNA PURAM VIJAYAWADA (KRISHNA DT.)",
+      "date_of_appointment": "2014-12-26T11:32:24Z",
+      "certificate_valid_upto": "2019-12-25T11:32:24Z",
+      "district": "KRISHNA"
+    },
+    {
+      "s_no_": 411,
+      "reg_no_": 10841,
+      "name_of_the_advocate": "CHANAMPUDI RAVI BABU",
+      "address_of_the_advocate": "D.NO. 76-14-217 INDIRA PRIYADARSINI COLONY BHAVANIPURAM VIJAYAWADA KRISHNA DISTRICT ANDHRA PRADESH-520012",
+      "area_of_practice": "VIJAYAWADA (KRISHNA DT.)",
+      "date_of_appointment": "2014-12-26T11:32:24Z",
+      "certificate_valid_upto": "2019-12-25T11:32:24Z",
+      "district": "KRISHNA"
+    }
+  ]
+}

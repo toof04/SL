@@ -1,0 +1,5045 @@
+{
+  "index_name": "de6ddfff-c5b9-4058-a54a-776cee56567f",
+  "title": "Crime against Women during 2014",
+  "desc": "Crime against Women during 2014",
+  "created": 1502451730,
+  "updated": 1543514351,
+  "visualizable": "1",
+  "source": "data.gov.in",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Home Affairs",
+    "Department of States",
+    "National Crime Records Bureau (NCRB)"
+  ],
+  "sector": [
+    "Police"
+  ],
+  "catalog_uuid": "8d3c4bfe-20d3-47f9-bb5e-85c19fb4e4da",
+  "status": "ok",
+  "field": [
+    {
+      "id": "states_uts",
+      "name": "States/UTs",
+      "type": "keyword"
+    },
+    {
+      "id": "crime_head",
+      "name": "Crime Head",
+      "type": "keyword"
+    },
+    {
+      "id": "_2014",
+      "name": "2014",
+      "type": "double"
+    }
+  ],
+  "created_date": "2017-08-11T11:42:10Z",
+  "updated_date": "2018-11-29T23:29:11Z",
+  "active": "1",
+  "external_ws_url": "",
+  "external_ws": "0",
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "total": 1560,
+  "count": 999,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "states_uts": "Andhra Pradesh",
+      "crime_head": "1 - Rape (Section 376 IPC)",
+      "_2014": "961"
+    },
+    {
+      "states_uts": "Andhra Pradesh",
+      "crime_head": "1.1 - Custodial Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Andhra Pradesh",
+      "crime_head": "1.1.1 - Custodial_Gang Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Andhra Pradesh",
+      "crime_head": "1.1.2 - Custodial_Other Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Andhra Pradesh",
+      "crime_head": "1.2 - Rape other than Custodial",
+      "_2014": "961"
+    },
+    {
+      "states_uts": "Andhra Pradesh",
+      "crime_head": "1.2.1 - Rape_Gang Rape",
+      "_2014": "14"
+    },
+    {
+      "states_uts": "Andhra Pradesh",
+      "crime_head": "1.2.2 - Rape_Others",
+      "_2014": "947"
+    },
+    {
+      "states_uts": "Andhra Pradesh",
+      "crime_head": "2 - Attempt to commit Rape (Section 376 & 511 IPC)",
+      "_2014": "165"
+    },
+    {
+      "states_uts": "Andhra Pradesh",
+      "crime_head": "3 - Kidnapping & Abduction of Women (Section 363,364,364A, 366-369 IPC)",
+      "_2014": "721"
+    },
+    {
+      "states_uts": "Andhra Pradesh",
+      "crime_head": "3.1 - Kidnaping & Abduction Section 363 IPC",
+      "_2014": "180"
+    },
+    {
+      "states_uts": "Andhra Pradesh",
+      "crime_head": "3.2 - Kidnaping & Abduction in order to Murder Section 364 IPC",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Andhra Pradesh",
+      "crime_head": "3.3 - Kidnapping for Ransom Section 364A",
+      "_2014": "3"
+    },
+    {
+      "states_uts": "Andhra Pradesh",
+      "crime_head": "3.4 - Kidnapping & Abduction of Women to compel her for marriage",
+      "_2014": "274"
+    },
+    {
+      "states_uts": "Andhra Pradesh",
+      "crime_head": "3.5 - Kidnapping & Abduction of Women-Other",
+      "_2014": "263"
+    },
+    {
+      "states_uts": "Andhra Pradesh",
+      "crime_head": "4 - Dowry Deaths (Section 304-B IPC)",
+      "_2014": "215"
+    },
+    {
+      "states_uts": "Andhra Pradesh",
+      "crime_head": "5 - Assault on Women with intent to outrage her Modesty_Total (Section 354 IPC)",
+      "_2014": "4547"
+    },
+    {
+      "states_uts": "Andhra Pradesh",
+      "crime_head": "5.1 - Sexual Harassment",
+      "_2014": "1072"
+    },
+    {
+      "states_uts": "Andhra Pradesh",
+      "crime_head": "5.2 - Assault on women with intent to Disrobe",
+      "_2014": "334"
+    },
+    {
+      "states_uts": "Andhra Pradesh",
+      "crime_head": "5.3 - Voyeurism",
+      "_2014": "71"
+    },
+    {
+      "states_uts": "Andhra Pradesh",
+      "crime_head": "5.4 - Stalking",
+      "_2014": "504"
+    },
+    {
+      "states_uts": "Andhra Pradesh",
+      "crime_head": "5.5 - Others",
+      "_2014": "2566"
+    },
+    {
+      "states_uts": "Andhra Pradesh",
+      "crime_head": "6 - Insult to the Modesty of Women_Total (Section 509 IPC)",
+      "_2014": "2649"
+    },
+    {
+      "states_uts": "Andhra Pradesh",
+      "crime_head": "6.1 - At Office premises",
+      "_2014": "3"
+    },
+    {
+      "states_uts": "Andhra Pradesh",
+      "crime_head": "6.2 - Other places related to work",
+      "_2014": "84"
+    },
+    {
+      "states_uts": "Andhra Pradesh",
+      "crime_head": "6.3 - In Public Transport system",
+      "_2014": "65"
+    },
+    {
+      "states_uts": "Andhra Pradesh",
+      "crime_head": "6.4 - in Other Places",
+      "_2014": "2497"
+    },
+    {
+      "states_uts": "Andhra Pradesh",
+      "crime_head": "7 - Cruelty by Husband or his Relatives (Section 498A)",
+      "_2014": "6362"
+    },
+    {
+      "states_uts": "Andhra Pradesh",
+      "crime_head": "8 - Importation of Girls from Foreign Country (Section 366B IPC)",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Andhra Pradesh",
+      "crime_head": "9 - Abetment of Suicides of Women u/s 306 IPC",
+      "_2014": "217"
+    },
+    {
+      "states_uts": "Andhra Pradesh",
+      "crime_head": "10 - Dowry Prohibition Act, 1961",
+      "_2014": "468"
+    },
+    {
+      "states_uts": "Andhra Pradesh",
+      "crime_head": "11 - Indecent Representation of Women (Prohibition) Act, 1986",
+      "_2014": "3"
+    },
+    {
+      "states_uts": "Andhra Pradesh",
+      "crime_head": "12 - Commission of Sati Prevention Act 1987",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Andhra Pradesh",
+      "crime_head": "13 - Protection of Women from Domestic Violence Act, 2005",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Andhra Pradesh",
+      "crime_head": "14 - Immoral Traffic (Prevention) Act (Women Cases only)",
+      "_2014": "204"
+    },
+    {
+      "states_uts": "Andhra Pradesh",
+      "crime_head": "14.1 - Under ITP Section 5",
+      "_2014": "23"
+    },
+    {
+      "states_uts": "Andhra Pradesh",
+      "crime_head": "14.2 - Under ITP Section 6",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Andhra Pradesh",
+      "crime_head": "14.3 - Under ITP Section 7",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Andhra Pradesh",
+      "crime_head": "14.4 - Under ITP Section 8",
+      "_2014": "2"
+    },
+    {
+      "states_uts": "Andhra Pradesh",
+      "crime_head": "14.5 - Other Sections under ITP Act",
+      "_2014": "179"
+    },
+    {
+      "states_uts": "Andhra Pradesh",
+      "crime_head": "15 - Total Crimes against Women",
+      "_2014": "16512"
+    },
+    {
+      "states_uts": "Arunachal Pradesh",
+      "crime_head": "1 - Rape (Section 376 IPC)",
+      "_2014": "83"
+    },
+    {
+      "states_uts": "Arunachal Pradesh",
+      "crime_head": "1.1 - Custodial Rape",
+      "_2014": "4"
+    },
+    {
+      "states_uts": "Arunachal Pradesh",
+      "crime_head": "1.1.1 - Custodial_Gang Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Arunachal Pradesh",
+      "crime_head": "1.1.2 - Custodial_Other Rape",
+      "_2014": "4"
+    },
+    {
+      "states_uts": "Arunachal Pradesh",
+      "crime_head": "1.2 - Rape other than Custodial",
+      "_2014": "79"
+    },
+    {
+      "states_uts": "Arunachal Pradesh",
+      "crime_head": "1.2.1 - Rape_Gang Rape",
+      "_2014": "5"
+    },
+    {
+      "states_uts": "Arunachal Pradesh",
+      "crime_head": "1.2.2 - Rape_Others",
+      "_2014": "74"
+    },
+    {
+      "states_uts": "Arunachal Pradesh",
+      "crime_head": "2 - Attempt to commit Rape (Section 376 & 511 IPC)",
+      "_2014": "10"
+    },
+    {
+      "states_uts": "Arunachal Pradesh",
+      "crime_head": "3 - Kidnapping & Abduction of Women (Section 363,364,364A, 366-369 IPC)",
+      "_2014": "91"
+    },
+    {
+      "states_uts": "Arunachal Pradesh",
+      "crime_head": "3.1 - Kidnaping & Abduction Section 363 IPC",
+      "_2014": "25"
+    },
+    {
+      "states_uts": "Arunachal Pradesh",
+      "crime_head": "3.2 - Kidnaping & Abduction in order to Murder Section 364 IPC",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Arunachal Pradesh",
+      "crime_head": "3.3 - Kidnapping for Ransom Section 364A",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Arunachal Pradesh",
+      "crime_head": "3.4 - Kidnapping & Abduction of Women to compel her for marriage",
+      "_2014": "20"
+    },
+    {
+      "states_uts": "Arunachal Pradesh",
+      "crime_head": "3.5 - Kidnapping & Abduction of Women-Other",
+      "_2014": "44"
+    },
+    {
+      "states_uts": "Arunachal Pradesh",
+      "crime_head": "4 - Dowry Deaths (Section 304-B IPC)",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Arunachal Pradesh",
+      "crime_head": "5 - Assault on Women with intent to outrage her Modesty_Total (Section 354 IPC)",
+      "_2014": "121"
+    },
+    {
+      "states_uts": "Arunachal Pradesh",
+      "crime_head": "5.1 - Sexual Harassment",
+      "_2014": "21"
+    },
+    {
+      "states_uts": "Arunachal Pradesh",
+      "crime_head": "5.2 - Assault on women with intent to Disrobe",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Arunachal Pradesh",
+      "crime_head": "5.3 - Voyeurism",
+      "_2014": "6"
+    },
+    {
+      "states_uts": "Arunachal Pradesh",
+      "crime_head": "5.4 - Stalking",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Arunachal Pradesh",
+      "crime_head": "5.5 - Others",
+      "_2014": "93"
+    },
+    {
+      "states_uts": "Arunachal Pradesh",
+      "crime_head": "6 - Insult to the Modesty of Women_Total (Section 509 IPC)",
+      "_2014": "3"
+    },
+    {
+      "states_uts": "Arunachal Pradesh",
+      "crime_head": "6.1 - At Office premises",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Arunachal Pradesh",
+      "crime_head": "6.2 - Other places related to work",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Arunachal Pradesh",
+      "crime_head": "6.3 - In Public Transport system",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Arunachal Pradesh",
+      "crime_head": "6.4 - in Other Places",
+      "_2014": "3"
+    },
+    {
+      "states_uts": "Arunachal Pradesh",
+      "crime_head": "7 - Cruelty by Husband or his Relatives (Section 498A)",
+      "_2014": "42"
+    },
+    {
+      "states_uts": "Arunachal Pradesh",
+      "crime_head": "8 - Importation of Girls from Foreign Country (Section 366B IPC)",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Arunachal Pradesh",
+      "crime_head": "9 - Abetment of Suicides of Women u/s 306 IPC",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Arunachal Pradesh",
+      "crime_head": "10 - Dowry Prohibition Act, 1961",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Arunachal Pradesh",
+      "crime_head": "11 - Indecent Representation of Women (Prohibition) Act, 1986",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Arunachal Pradesh",
+      "crime_head": "12 - Commission of Sati Prevention Act 1987",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Arunachal Pradesh",
+      "crime_head": "13 - Protection of Women from Domestic Violence Act, 2005",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Arunachal Pradesh",
+      "crime_head": "14 - Immoral Traffic (Prevention) Act (Women Cases only)",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Arunachal Pradesh",
+      "crime_head": "14.1 - Under ITP Section 5",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Arunachal Pradesh",
+      "crime_head": "14.2 - Under ITP Section 6",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Arunachal Pradesh",
+      "crime_head": "14.3 - Under ITP Section 7",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Arunachal Pradesh",
+      "crime_head": "14.4 - Under ITP Section 8",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Arunachal Pradesh",
+      "crime_head": "14.5 - Other Sections under ITP Act",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Arunachal Pradesh",
+      "crime_head": "15 - Total Crimes against Women",
+      "_2014": "351"
+    },
+    {
+      "states_uts": "Assam",
+      "crime_head": "1 - Rape (Section 376 IPC)",
+      "_2014": "1980"
+    },
+    {
+      "states_uts": "Assam",
+      "crime_head": "1.1 - Custodial Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Assam",
+      "crime_head": "1.1.1 - Custodial_Gang Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Assam",
+      "crime_head": "1.1.2 - Custodial_Other Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Assam",
+      "crime_head": "1.2 - Rape other than Custodial",
+      "_2014": "1980"
+    },
+    {
+      "states_uts": "Assam",
+      "crime_head": "1.2.1 - Rape_Gang Rape",
+      "_2014": "23"
+    },
+    {
+      "states_uts": "Assam",
+      "crime_head": "1.2.2 - Rape_Others",
+      "_2014": "1957"
+    },
+    {
+      "states_uts": "Assam",
+      "crime_head": "2 - Attempt to commit Rape (Section 376 & 511 IPC)",
+      "_2014": "227"
+    },
+    {
+      "states_uts": "Assam",
+      "crime_head": "3 - Kidnapping & Abduction of Women (Section 363,364,364A, 366-369 IPC)",
+      "_2014": "3895"
+    },
+    {
+      "states_uts": "Assam",
+      "crime_head": "3.1 - Kidnaping & Abduction Section 363 IPC",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Assam",
+      "crime_head": "3.2 - Kidnaping & Abduction in order to Murder Section 364 IPC",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Assam",
+      "crime_head": "3.3 - Kidnapping for Ransom Section 364A",
+      "_2014": "3"
+    },
+    {
+      "states_uts": "Assam",
+      "crime_head": "3.4 - Kidnapping & Abduction of Women to compel her for marriage",
+      "_2014": "3883"
+    },
+    {
+      "states_uts": "Assam",
+      "crime_head": "3.5 - Kidnapping & Abduction of Women-Other",
+      "_2014": "8"
+    },
+    {
+      "states_uts": "Assam",
+      "crime_head": "4 - Dowry Deaths (Section 304-B IPC)",
+      "_2014": "188"
+    },
+    {
+      "states_uts": "Assam",
+      "crime_head": "5 - Assault on Women with intent to outrage her Modesty_Total (Section 354 IPC)",
+      "_2014": "3099"
+    },
+    {
+      "states_uts": "Assam",
+      "crime_head": "5.1 - Sexual Harassment",
+      "_2014": "458"
+    },
+    {
+      "states_uts": "Assam",
+      "crime_head": "5.2 - Assault on women with intent to Disrobe",
+      "_2014": "399"
+    },
+    {
+      "states_uts": "Assam",
+      "crime_head": "5.3 - Voyeurism",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Assam",
+      "crime_head": "5.4 - Stalking",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Assam",
+      "crime_head": "5.5 - Others",
+      "_2014": "2242"
+    },
+    {
+      "states_uts": "Assam",
+      "crime_head": "6 - Insult to the Modesty of Women_Total (Section 509 IPC)",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Assam",
+      "crime_head": "6.1 - At Office premises",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Assam",
+      "crime_head": "6.2 - Other places related to work",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Assam",
+      "crime_head": "6.3 - In Public Transport system",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Assam",
+      "crime_head": "6.4 - in Other Places",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Assam",
+      "crime_head": "7 - Cruelty by Husband or his Relatives (Section 498A)",
+      "_2014": "9626"
+    },
+    {
+      "states_uts": "Assam",
+      "crime_head": "8 - Importation of Girls from Foreign Country (Section 366B IPC)",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Assam",
+      "crime_head": "9 - Abetment of Suicides of Women u/s 306 IPC",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Assam",
+      "crime_head": "10 - Dowry Prohibition Act, 1961",
+      "_2014": "92"
+    },
+    {
+      "states_uts": "Assam",
+      "crime_head": "11 - Indecent Representation of Women (Prohibition) Act, 1986",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Assam",
+      "crime_head": "12 - Commission of Sati Prevention Act 1987",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Assam",
+      "crime_head": "13 - Protection of Women from Domestic Violence Act, 2005",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Assam",
+      "crime_head": "14 - Immoral Traffic (Prevention) Act (Women Cases only)",
+      "_2014": "29"
+    },
+    {
+      "states_uts": "Assam",
+      "crime_head": "14.1 - Under ITP Section 5",
+      "_2014": "6"
+    },
+    {
+      "states_uts": "Assam",
+      "crime_head": "14.2 - Under ITP Section 6",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Assam",
+      "crime_head": "14.3 - Under ITP Section 7",
+      "_2014": "2"
+    },
+    {
+      "states_uts": "Assam",
+      "crime_head": "14.4 - Under ITP Section 8",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Assam",
+      "crime_head": "14.5 - Other Sections under ITP Act",
+      "_2014": "20"
+    },
+    {
+      "states_uts": "Assam",
+      "crime_head": "15 - Total Crimes against Women",
+      "_2014": "19139"
+    },
+    {
+      "states_uts": "Bihar",
+      "crime_head": "1 - Rape (Section 376 IPC)",
+      "_2014": "1127"
+    },
+    {
+      "states_uts": "Bihar",
+      "crime_head": "1.1 - Custodial Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Bihar",
+      "crime_head": "1.1.1 - Custodial_Gang Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Bihar",
+      "crime_head": "1.1.2 - Custodial_Other Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Bihar",
+      "crime_head": "1.2 - Rape other than Custodial",
+      "_2014": "1127"
+    },
+    {
+      "states_uts": "Bihar",
+      "crime_head": "1.2.1 - Rape_Gang Rape",
+      "_2014": "24"
+    },
+    {
+      "states_uts": "Bihar",
+      "crime_head": "1.2.2 - Rape_Others",
+      "_2014": "1103"
+    },
+    {
+      "states_uts": "Bihar",
+      "crime_head": "2 - Attempt to commit Rape (Section 376 & 511 IPC)",
+      "_2014": "484"
+    },
+    {
+      "states_uts": "Bihar",
+      "crime_head": "3 - Kidnapping & Abduction of Women (Section 363,364,364A, 366-369 IPC)",
+      "_2014": "4735"
+    },
+    {
+      "states_uts": "Bihar",
+      "crime_head": "3.1 - Kidnaping & Abduction Section 363 IPC",
+      "_2014": "55"
+    },
+    {
+      "states_uts": "Bihar",
+      "crime_head": "3.2 - Kidnaping & Abduction in order to Murder Section 364 IPC",
+      "_2014": "9"
+    },
+    {
+      "states_uts": "Bihar",
+      "crime_head": "3.3 - Kidnapping for Ransom Section 364A",
+      "_2014": "2"
+    },
+    {
+      "states_uts": "Bihar",
+      "crime_head": "3.4 - Kidnapping & Abduction of Women to compel her for marriage",
+      "_2014": "4641"
+    },
+    {
+      "states_uts": "Bihar",
+      "crime_head": "3.5 - Kidnapping & Abduction of Women-Other",
+      "_2014": "28"
+    },
+    {
+      "states_uts": "Bihar",
+      "crime_head": "4 - Dowry Deaths (Section 304-B IPC)",
+      "_2014": "1373"
+    },
+    {
+      "states_uts": "Bihar",
+      "crime_head": "5 - Assault on Women with intent to outrage her Modesty_Total (Section 354 IPC)",
+      "_2014": "572"
+    },
+    {
+      "states_uts": "Bihar",
+      "crime_head": "5.1 - Sexual Harassment",
+      "_2014": "271"
+    },
+    {
+      "states_uts": "Bihar",
+      "crime_head": "5.2 - Assault on women with intent to Disrobe",
+      "_2014": "61"
+    },
+    {
+      "states_uts": "Bihar",
+      "crime_head": "5.3 - Voyeurism",
+      "_2014": "4"
+    },
+    {
+      "states_uts": "Bihar",
+      "crime_head": "5.4 - Stalking",
+      "_2014": "7"
+    },
+    {
+      "states_uts": "Bihar",
+      "crime_head": "5.5 - Others",
+      "_2014": "229"
+    },
+    {
+      "states_uts": "Bihar",
+      "crime_head": "6 - Insult to the Modesty of Women_Total (Section 509 IPC)",
+      "_2014": "69"
+    },
+    {
+      "states_uts": "Bihar",
+      "crime_head": "6.1 - At Office premises",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Bihar",
+      "crime_head": "6.2 - Other places related to work",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Bihar",
+      "crime_head": "6.3 - In Public Transport system",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Bihar",
+      "crime_head": "6.4 - in Other Places",
+      "_2014": "69"
+    },
+    {
+      "states_uts": "Bihar",
+      "crime_head": "7 - Cruelty by Husband or his Relatives (Section 498A)",
+      "_2014": "4672"
+    },
+    {
+      "states_uts": "Bihar",
+      "crime_head": "8 - Importation of Girls from Foreign Country (Section 366B IPC)",
+      "_2014": "5"
+    },
+    {
+      "states_uts": "Bihar",
+      "crime_head": "9 - Abetment of Suicides of Women u/s 306 IPC",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Bihar",
+      "crime_head": "10 - Dowry Prohibition Act, 1961",
+      "_2014": "2203"
+    },
+    {
+      "states_uts": "Bihar",
+      "crime_head": "11 - Indecent Representation of Women (Prohibition) Act, 1986",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Bihar",
+      "crime_head": "12 - Commission of Sati Prevention Act 1987",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Bihar",
+      "crime_head": "13 - Protection of Women from Domestic Violence Act, 2005",
+      "_2014": "112"
+    },
+    {
+      "states_uts": "Bihar",
+      "crime_head": "14 - Immoral Traffic (Prevention) Act (Women Cases only)",
+      "_2014": "31"
+    },
+    {
+      "states_uts": "Bihar",
+      "crime_head": "14.1 - Under ITP Section 5",
+      "_2014": "29"
+    },
+    {
+      "states_uts": "Bihar",
+      "crime_head": "14.2 - Under ITP Section 6",
+      "_2014": "2"
+    },
+    {
+      "states_uts": "Bihar",
+      "crime_head": "14.3 - Under ITP Section 7",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Bihar",
+      "crime_head": "14.4 - Under ITP Section 8",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Bihar",
+      "crime_head": "14.5 - Other Sections under ITP Act",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Bihar",
+      "crime_head": "15 - Total Crimes against Women",
+      "_2014": "15383"
+    },
+    {
+      "states_uts": "Chhattisgarh",
+      "crime_head": "1 - Rape (Section 376 IPC)",
+      "_2014": "1436"
+    },
+    {
+      "states_uts": "Chhattisgarh",
+      "crime_head": "1.1 - Custodial Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Chhattisgarh",
+      "crime_head": "1.1.1 - Custodial_Gang Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Chhattisgarh",
+      "crime_head": "1.1.2 - Custodial_Other Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Chhattisgarh",
+      "crime_head": "1.2 - Rape other than Custodial",
+      "_2014": "1436"
+    },
+    {
+      "states_uts": "Chhattisgarh",
+      "crime_head": "1.2.1 - Rape_Gang Rape",
+      "_2014": "64"
+    },
+    {
+      "states_uts": "Chhattisgarh",
+      "crime_head": "1.2.2 - Rape_Others",
+      "_2014": "1372"
+    },
+    {
+      "states_uts": "Chhattisgarh",
+      "crime_head": "2 - Attempt to commit Rape (Section 376 & 511 IPC)",
+      "_2014": "21"
+    },
+    {
+      "states_uts": "Chhattisgarh",
+      "crime_head": "3 - Kidnapping & Abduction of Women (Section 363,364,364A, 366-369 IPC)",
+      "_2014": "1393"
+    },
+    {
+      "states_uts": "Chhattisgarh",
+      "crime_head": "3.1 - Kidnaping & Abduction Section 363 IPC",
+      "_2014": "922"
+    },
+    {
+      "states_uts": "Chhattisgarh",
+      "crime_head": "3.2 - Kidnaping & Abduction in order to Murder Section 364 IPC",
+      "_2014": "5"
+    },
+    {
+      "states_uts": "Chhattisgarh",
+      "crime_head": "3.3 - Kidnapping for Ransom Section 364A",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Chhattisgarh",
+      "crime_head": "3.4 - Kidnapping & Abduction of Women to compel her for marriage",
+      "_2014": "263"
+    },
+    {
+      "states_uts": "Chhattisgarh",
+      "crime_head": "3.5 - Kidnapping & Abduction of Women-Other",
+      "_2014": "203"
+    },
+    {
+      "states_uts": "Chhattisgarh",
+      "crime_head": "4 - Dowry Deaths (Section 304-B IPC)",
+      "_2014": "128"
+    },
+    {
+      "states_uts": "Chhattisgarh",
+      "crime_head": "5 - Assault on Women with intent to outrage her Modesty_Total (Section 354 IPC)",
+      "_2014": "2122"
+    },
+    {
+      "states_uts": "Chhattisgarh",
+      "crime_head": "5.1 - Sexual Harassment",
+      "_2014": "649"
+    },
+    {
+      "states_uts": "Chhattisgarh",
+      "crime_head": "5.2 - Assault on women with intent to Disrobe",
+      "_2014": "76"
+    },
+    {
+      "states_uts": "Chhattisgarh",
+      "crime_head": "5.3 - Voyeurism",
+      "_2014": "9"
+    },
+    {
+      "states_uts": "Chhattisgarh",
+      "crime_head": "5.4 - Stalking",
+      "_2014": "72"
+    },
+    {
+      "states_uts": "Chhattisgarh",
+      "crime_head": "5.5 - Others",
+      "_2014": "1316"
+    },
+    {
+      "states_uts": "Chhattisgarh",
+      "crime_head": "6 - Insult to the Modesty of Women_Total (Section 509 IPC)",
+      "_2014": "79"
+    },
+    {
+      "states_uts": "Chhattisgarh",
+      "crime_head": "6.1 - At Office premises",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Chhattisgarh",
+      "crime_head": "6.2 - Other places related to work",
+      "_2014": "13"
+    },
+    {
+      "states_uts": "Chhattisgarh",
+      "crime_head": "6.3 - In Public Transport system",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Chhattisgarh",
+      "crime_head": "6.4 - in Other Places",
+      "_2014": "66"
+    },
+    {
+      "states_uts": "Chhattisgarh",
+      "crime_head": "7 - Cruelty by Husband or his Relatives (Section 498A)",
+      "_2014": "964"
+    },
+    {
+      "states_uts": "Chhattisgarh",
+      "crime_head": "8 - Importation of Girls from Foreign Country (Section 366B IPC)",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Chhattisgarh",
+      "crime_head": "9 - Abetment of Suicides of Women u/s 306 IPC",
+      "_2014": "102"
+    },
+    {
+      "states_uts": "Chhattisgarh",
+      "crime_head": "10 - Dowry Prohibition Act, 1961",
+      "_2014": "8"
+    },
+    {
+      "states_uts": "Chhattisgarh",
+      "crime_head": "11 - Indecent Representation of Women (Prohibition) Act, 1986",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Chhattisgarh",
+      "crime_head": "12 - Commission of Sati Prevention Act 1987",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Chhattisgarh",
+      "crime_head": "13 - Protection of Women from Domestic Violence Act, 2005",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Chhattisgarh",
+      "crime_head": "14 - Immoral Traffic (Prevention) Act (Women Cases only)",
+      "_2014": "2"
+    },
+    {
+      "states_uts": "Chhattisgarh",
+      "crime_head": "14.1 - Under ITP Section 5",
+      "_2014": "2"
+    },
+    {
+      "states_uts": "Chhattisgarh",
+      "crime_head": "14.2 - Under ITP Section 6",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Chhattisgarh",
+      "crime_head": "14.3 - Under ITP Section 7",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Chhattisgarh",
+      "crime_head": "14.4 - Under ITP Section 8",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Chhattisgarh",
+      "crime_head": "14.5 - Other Sections under ITP Act",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Chhattisgarh",
+      "crime_head": "15 - Total Crimes against Women",
+      "_2014": "6255"
+    },
+    {
+      "states_uts": "Goa",
+      "crime_head": "1 - Rape (Section 376 IPC)",
+      "_2014": "95"
+    },
+    {
+      "states_uts": "Goa",
+      "crime_head": "1.1 - Custodial Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Goa",
+      "crime_head": "1.1.1 - Custodial_Gang Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Goa",
+      "crime_head": "1.1.2 - Custodial_Other Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Goa",
+      "crime_head": "1.2 - Rape other than Custodial",
+      "_2014": "95"
+    },
+    {
+      "states_uts": "Goa",
+      "crime_head": "1.2.1 - Rape_Gang Rape",
+      "_2014": "2"
+    },
+    {
+      "states_uts": "Goa",
+      "crime_head": "1.2.2 - Rape_Others",
+      "_2014": "93"
+    },
+    {
+      "states_uts": "Goa",
+      "crime_head": "2 - Attempt to commit Rape (Section 376 & 511 IPC)",
+      "_2014": "2"
+    },
+    {
+      "states_uts": "Goa",
+      "crime_head": "3 - Kidnapping & Abduction of Women (Section 363,364,364A, 366-369 IPC)",
+      "_2014": "86"
+    },
+    {
+      "states_uts": "Goa",
+      "crime_head": "3.1 - Kidnaping & Abduction Section 363 IPC",
+      "_2014": "77"
+    },
+    {
+      "states_uts": "Goa",
+      "crime_head": "3.2 - Kidnaping & Abduction in order to Murder Section 364 IPC",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Goa",
+      "crime_head": "3.3 - Kidnapping for Ransom Section 364A",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Goa",
+      "crime_head": "3.4 - Kidnapping & Abduction of Women to compel her for marriage",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Goa",
+      "crime_head": "3.5 - Kidnapping & Abduction of Women-Other",
+      "_2014": "9"
+    },
+    {
+      "states_uts": "Goa",
+      "crime_head": "4 - Dowry Deaths (Section 304-B IPC)",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Goa",
+      "crime_head": "5 - Assault on Women with intent to outrage her Modesty_Total (Section 354 IPC)",
+      "_2014": "202"
+    },
+    {
+      "states_uts": "Goa",
+      "crime_head": "5.1 - Sexual Harassment",
+      "_2014": "50"
+    },
+    {
+      "states_uts": "Goa",
+      "crime_head": "5.2 - Assault on women with intent to Disrobe",
+      "_2014": "7"
+    },
+    {
+      "states_uts": "Goa",
+      "crime_head": "5.3 - Voyeurism",
+      "_2014": "11"
+    },
+    {
+      "states_uts": "Goa",
+      "crime_head": "5.4 - Stalking",
+      "_2014": "25"
+    },
+    {
+      "states_uts": "Goa",
+      "crime_head": "5.5 - Others",
+      "_2014": "109"
+    },
+    {
+      "states_uts": "Goa",
+      "crime_head": "6 - Insult to the Modesty of Women_Total (Section 509 IPC)",
+      "_2014": "57"
+    },
+    {
+      "states_uts": "Goa",
+      "crime_head": "6.1 - At Office premises",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Goa",
+      "crime_head": "6.2 - Other places related to work",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Goa",
+      "crime_head": "6.3 - In Public Transport system",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Goa",
+      "crime_head": "6.4 - in Other Places",
+      "_2014": "55"
+    },
+    {
+      "states_uts": "Goa",
+      "crime_head": "7 - Cruelty by Husband or his Relatives (Section 498A)",
+      "_2014": "35"
+    },
+    {
+      "states_uts": "Goa",
+      "crime_head": "8 - Importation of Girls from Foreign Country (Section 366B IPC)",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Goa",
+      "crime_head": "9 - Abetment of Suicides of Women u/s 306 IPC",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Goa",
+      "crime_head": "10 - Dowry Prohibition Act, 1961",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Goa",
+      "crime_head": "11 - Indecent Representation of Women (Prohibition) Act, 1986",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Goa",
+      "crime_head": "12 - Commission of Sati Prevention Act 1987",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Goa",
+      "crime_head": "13 - Protection of Women from Domestic Violence Act, 2005",
+      "_2014": "2"
+    },
+    {
+      "states_uts": "Goa",
+      "crime_head": "14 - Immoral Traffic (Prevention) Act (Women Cases only)",
+      "_2014": "9"
+    },
+    {
+      "states_uts": "Goa",
+      "crime_head": "14.1 - Under ITP Section 5",
+      "_2014": "5"
+    },
+    {
+      "states_uts": "Goa",
+      "crime_head": "14.2 - Under ITP Section 6",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Goa",
+      "crime_head": "14.3 - Under ITP Section 7",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Goa",
+      "crime_head": "14.4 - Under ITP Section 8",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Goa",
+      "crime_head": "14.5 - Other Sections under ITP Act",
+      "_2014": "4"
+    },
+    {
+      "states_uts": "Goa",
+      "crime_head": "15 - Total Crimes against Women",
+      "_2014": "488"
+    },
+    {
+      "states_uts": "Gujarat",
+      "crime_head": "1 - Rape (Section 376 IPC)",
+      "_2014": "841"
+    },
+    {
+      "states_uts": "Gujarat",
+      "crime_head": "1.1 - Custodial Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Gujarat",
+      "crime_head": "1.1.1 - Custodial_Gang Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Gujarat",
+      "crime_head": "1.1.2 - Custodial_Other Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Gujarat",
+      "crime_head": "1.2 - Rape other than Custodial",
+      "_2014": "841"
+    },
+    {
+      "states_uts": "Gujarat",
+      "crime_head": "1.2.1 - Rape_Gang Rape",
+      "_2014": "16"
+    },
+    {
+      "states_uts": "Gujarat",
+      "crime_head": "1.2.2 - Rape_Others",
+      "_2014": "825"
+    },
+    {
+      "states_uts": "Gujarat",
+      "crime_head": "2 - Attempt to commit Rape (Section 376 & 511 IPC)",
+      "_2014": "6"
+    },
+    {
+      "states_uts": "Gujarat",
+      "crime_head": "3 - Kidnapping & Abduction of Women (Section 363,364,364A, 366-369 IPC)",
+      "_2014": "2187"
+    },
+    {
+      "states_uts": "Gujarat",
+      "crime_head": "3.1 - Kidnaping & Abduction Section 363 IPC",
+      "_2014": "617"
+    },
+    {
+      "states_uts": "Gujarat",
+      "crime_head": "3.2 - Kidnaping & Abduction in order to Murder Section 364 IPC",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Gujarat",
+      "crime_head": "3.3 - Kidnapping for Ransom Section 364A",
+      "_2014": "2"
+    },
+    {
+      "states_uts": "Gujarat",
+      "crime_head": "3.4 - Kidnapping & Abduction of Women to compel her for marriage",
+      "_2014": "1378"
+    },
+    {
+      "states_uts": "Gujarat",
+      "crime_head": "3.5 - Kidnapping & Abduction of Women-Other",
+      "_2014": "190"
+    },
+    {
+      "states_uts": "Gujarat",
+      "crime_head": "4 - Dowry Deaths (Section 304-B IPC)",
+      "_2014": "23"
+    },
+    {
+      "states_uts": "Gujarat",
+      "crime_head": "5 - Assault on Women with intent to outrage her Modesty_Total (Section 354 IPC)",
+      "_2014": "1352"
+    },
+    {
+      "states_uts": "Gujarat",
+      "crime_head": "5.1 - Sexual Harassment",
+      "_2014": "405"
+    },
+    {
+      "states_uts": "Gujarat",
+      "crime_head": "5.2 - Assault on women with intent to Disrobe",
+      "_2014": "51"
+    },
+    {
+      "states_uts": "Gujarat",
+      "crime_head": "5.3 - Voyeurism",
+      "_2014": "7"
+    },
+    {
+      "states_uts": "Gujarat",
+      "crime_head": "5.4 - Stalking",
+      "_2014": "62"
+    },
+    {
+      "states_uts": "Gujarat",
+      "crime_head": "5.5 - Others",
+      "_2014": "827"
+    },
+    {
+      "states_uts": "Gujarat",
+      "crime_head": "6 - Insult to the Modesty of Women_Total (Section 509 IPC)",
+      "_2014": "173"
+    },
+    {
+      "states_uts": "Gujarat",
+      "crime_head": "6.1 - At Office premises",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Gujarat",
+      "crime_head": "6.2 - Other places related to work",
+      "_2014": "3"
+    },
+    {
+      "states_uts": "Gujarat",
+      "crime_head": "6.3 - In Public Transport system",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Gujarat",
+      "crime_head": "6.4 - in Other Places",
+      "_2014": "169"
+    },
+    {
+      "states_uts": "Gujarat",
+      "crime_head": "7 - Cruelty by Husband or his Relatives (Section 498A)",
+      "_2014": "5991"
+    },
+    {
+      "states_uts": "Gujarat",
+      "crime_head": "8 - Importation of Girls from Foreign Country (Section 366B IPC)",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Gujarat",
+      "crime_head": "9 - Abetment of Suicides of Women u/s 306 IPC",
+      "_2014": "164"
+    },
+    {
+      "states_uts": "Gujarat",
+      "crime_head": "10 - Dowry Prohibition Act, 1961",
+      "_2014": "53"
+    },
+    {
+      "states_uts": "Gujarat",
+      "crime_head": "11 - Indecent Representation of Women (Prohibition) Act, 1986",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Gujarat",
+      "crime_head": "12 - Commission of Sati Prevention Act 1987",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Gujarat",
+      "crime_head": "13 - Protection of Women from Domestic Violence Act, 2005",
+      "_2014": "2"
+    },
+    {
+      "states_uts": "Gujarat",
+      "crime_head": "14 - Immoral Traffic (Prevention) Act (Women Cases only)",
+      "_2014": "45"
+    },
+    {
+      "states_uts": "Gujarat",
+      "crime_head": "14.1 - Under ITP Section 5",
+      "_2014": "18"
+    },
+    {
+      "states_uts": "Gujarat",
+      "crime_head": "14.2 - Under ITP Section 6",
+      "_2014": "5"
+    },
+    {
+      "states_uts": "Gujarat",
+      "crime_head": "14.3 - Under ITP Section 7",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Gujarat",
+      "crime_head": "14.4 - Under ITP Section 8",
+      "_2014": "3"
+    },
+    {
+      "states_uts": "Gujarat",
+      "crime_head": "14.5 - Other Sections under ITP Act",
+      "_2014": "18"
+    },
+    {
+      "states_uts": "Gujarat",
+      "crime_head": "15 - Total Crimes against Women",
+      "_2014": "10837"
+    },
+    {
+      "states_uts": "Haryana",
+      "crime_head": "1 - Rape (Section 376 IPC)",
+      "_2014": "1174"
+    },
+    {
+      "states_uts": "Haryana",
+      "crime_head": "1.1 - Custodial Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Haryana",
+      "crime_head": "1.1.1 - Custodial_Gang Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Haryana",
+      "crime_head": "1.1.2 - Custodial_Other Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Haryana",
+      "crime_head": "1.2 - Rape other than Custodial",
+      "_2014": "1174"
+    },
+    {
+      "states_uts": "Haryana",
+      "crime_head": "1.2.1 - Rape_Gang Rape",
+      "_2014": "230"
+    },
+    {
+      "states_uts": "Haryana",
+      "crime_head": "1.2.2 - Rape_Others",
+      "_2014": "944"
+    },
+    {
+      "states_uts": "Haryana",
+      "crime_head": "2 - Attempt to commit Rape (Section 376 & 511 IPC)",
+      "_2014": "136"
+    },
+    {
+      "states_uts": "Haryana",
+      "crime_head": "3 - Kidnapping & Abduction of Women (Section 363,364,364A, 366-369 IPC)",
+      "_2014": "1922"
+    },
+    {
+      "states_uts": "Haryana",
+      "crime_head": "3.1 - Kidnaping & Abduction Section 363 IPC",
+      "_2014": "113"
+    },
+    {
+      "states_uts": "Haryana",
+      "crime_head": "3.2 - Kidnaping & Abduction in order to Murder Section 364 IPC",
+      "_2014": "5"
+    },
+    {
+      "states_uts": "Haryana",
+      "crime_head": "3.3 - Kidnapping for Ransom Section 364A",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Haryana",
+      "crime_head": "3.4 - Kidnapping & Abduction of Women to compel her for marriage",
+      "_2014": "886"
+    },
+    {
+      "states_uts": "Haryana",
+      "crime_head": "3.5 - Kidnapping & Abduction of Women-Other",
+      "_2014": "917"
+    },
+    {
+      "states_uts": "Haryana",
+      "crime_head": "4 - Dowry Deaths (Section 304-B IPC)",
+      "_2014": "293"
+    },
+    {
+      "states_uts": "Haryana",
+      "crime_head": "5 - Assault on Women with intent to outrage her Modesty_Total (Section 354 IPC)",
+      "_2014": "1688"
+    },
+    {
+      "states_uts": "Haryana",
+      "crime_head": "5.1 - Sexual Harassment",
+      "_2014": "599"
+    },
+    {
+      "states_uts": "Haryana",
+      "crime_head": "5.2 - Assault on women with intent to Disrobe",
+      "_2014": "229"
+    },
+    {
+      "states_uts": "Haryana",
+      "crime_head": "5.3 - Voyeurism",
+      "_2014": "26"
+    },
+    {
+      "states_uts": "Haryana",
+      "crime_head": "5.4 - Stalking",
+      "_2014": "284"
+    },
+    {
+      "states_uts": "Haryana",
+      "crime_head": "5.5 - Others",
+      "_2014": "550"
+    },
+    {
+      "states_uts": "Haryana",
+      "crime_head": "6 - Insult to the Modesty of Women_Total (Section 509 IPC)",
+      "_2014": "102"
+    },
+    {
+      "states_uts": "Haryana",
+      "crime_head": "6.1 - At Office premises",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Haryana",
+      "crime_head": "6.2 - Other places related to work",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Haryana",
+      "crime_head": "6.3 - In Public Transport system",
+      "_2014": "2"
+    },
+    {
+      "states_uts": "Haryana",
+      "crime_head": "6.4 - in Other Places",
+      "_2014": "98"
+    },
+    {
+      "states_uts": "Haryana",
+      "crime_head": "7 - Cruelty by Husband or his Relatives (Section 498A)",
+      "_2014": "3478"
+    },
+    {
+      "states_uts": "Haryana",
+      "crime_head": "8 - Importation of Girls from Foreign Country (Section 366B IPC)",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Haryana",
+      "crime_head": "9 - Abetment of Suicides of Women u/s 306 IPC",
+      "_2014": "120"
+    },
+    {
+      "states_uts": "Haryana",
+      "crime_head": "10 - Dowry Prohibition Act, 1961",
+      "_2014": "13"
+    },
+    {
+      "states_uts": "Haryana",
+      "crime_head": "11 - Indecent Representation of Women (Prohibition) Act, 1986",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Haryana",
+      "crime_head": "12 - Commission of Sati Prevention Act 1987",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Haryana",
+      "crime_head": "13 - Protection of Women from Domestic Violence Act, 2005",
+      "_2014": "4"
+    },
+    {
+      "states_uts": "Haryana",
+      "crime_head": "14 - Immoral Traffic (Prevention) Act (Women Cases only)",
+      "_2014": "43"
+    },
+    {
+      "states_uts": "Haryana",
+      "crime_head": "14.1 - Under ITP Section 5",
+      "_2014": "17"
+    },
+    {
+      "states_uts": "Haryana",
+      "crime_head": "14.2 - Under ITP Section 6",
+      "_2014": "9"
+    },
+    {
+      "states_uts": "Haryana",
+      "crime_head": "14.3 - Under ITP Section 7",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Haryana",
+      "crime_head": "14.4 - Under ITP Section 8",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Haryana",
+      "crime_head": "14.5 - Other Sections under ITP Act",
+      "_2014": "16"
+    },
+    {
+      "states_uts": "Haryana",
+      "crime_head": "15 - Total Crimes against Women",
+      "_2014": "8974"
+    },
+    {
+      "states_uts": "Himachal Pradesh",
+      "crime_head": "1 - Rape (Section 376 IPC)",
+      "_2014": "283"
+    },
+    {
+      "states_uts": "Himachal Pradesh",
+      "crime_head": "1.1 - Custodial Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Himachal Pradesh",
+      "crime_head": "1.1.1 - Custodial_Gang Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Himachal Pradesh",
+      "crime_head": "1.1.2 - Custodial_Other Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Himachal Pradesh",
+      "crime_head": "1.2 - Rape other than Custodial",
+      "_2014": "283"
+    },
+    {
+      "states_uts": "Himachal Pradesh",
+      "crime_head": "1.2.1 - Rape_Gang Rape",
+      "_2014": "6"
+    },
+    {
+      "states_uts": "Himachal Pradesh",
+      "crime_head": "1.2.2 - Rape_Others",
+      "_2014": "277"
+    },
+    {
+      "states_uts": "Himachal Pradesh",
+      "crime_head": "2 - Attempt to commit Rape (Section 376 & 511 IPC)",
+      "_2014": "5"
+    },
+    {
+      "states_uts": "Himachal Pradesh",
+      "crime_head": "3 - Kidnapping & Abduction of Women (Section 363,364,364A, 366-369 IPC)",
+      "_2014": "227"
+    },
+    {
+      "states_uts": "Himachal Pradesh",
+      "crime_head": "3.1 - Kidnaping & Abduction Section 363 IPC",
+      "_2014": "32"
+    },
+    {
+      "states_uts": "Himachal Pradesh",
+      "crime_head": "3.2 - Kidnaping & Abduction in order to Murder Section 364 IPC",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Himachal Pradesh",
+      "crime_head": "3.3 - Kidnapping for Ransom Section 364A",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Himachal Pradesh",
+      "crime_head": "3.4 - Kidnapping & Abduction of Women to compel her for marriage",
+      "_2014": "175"
+    },
+    {
+      "states_uts": "Himachal Pradesh",
+      "crime_head": "3.5 - Kidnapping & Abduction of Women-Other",
+      "_2014": "18"
+    },
+    {
+      "states_uts": "Himachal Pradesh",
+      "crime_head": "4 - Dowry Deaths (Section 304-B IPC)",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Himachal Pradesh",
+      "crime_head": "5 - Assault on Women with intent to outrage her Modesty_Total (Section 354 IPC)",
+      "_2014": "538"
+    },
+    {
+      "states_uts": "Himachal Pradesh",
+      "crime_head": "5.1 - Sexual Harassment",
+      "_2014": "159"
+    },
+    {
+      "states_uts": "Himachal Pradesh",
+      "crime_head": "5.2 - Assault on women with intent to Disrobe",
+      "_2014": "18"
+    },
+    {
+      "states_uts": "Himachal Pradesh",
+      "crime_head": "5.3 - Voyeurism",
+      "_2014": "3"
+    },
+    {
+      "states_uts": "Himachal Pradesh",
+      "crime_head": "5.4 - Stalking",
+      "_2014": "62"
+    },
+    {
+      "states_uts": "Himachal Pradesh",
+      "crime_head": "5.5 - Others",
+      "_2014": "296"
+    },
+    {
+      "states_uts": "Himachal Pradesh",
+      "crime_head": "6 - Insult to the Modesty of Women_Total (Section 509 IPC)",
+      "_2014": "60"
+    },
+    {
+      "states_uts": "Himachal Pradesh",
+      "crime_head": "6.1 - At Office premises",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Himachal Pradesh",
+      "crime_head": "6.2 - Other places related to work",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Himachal Pradesh",
+      "crime_head": "6.3 - In Public Transport system",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Himachal Pradesh",
+      "crime_head": "6.4 - in Other Places",
+      "_2014": "60"
+    },
+    {
+      "states_uts": "Himachal Pradesh",
+      "crime_head": "7 - Cruelty by Husband or his Relatives (Section 498A)",
+      "_2014": "325"
+    },
+    {
+      "states_uts": "Himachal Pradesh",
+      "crime_head": "8 - Importation of Girls from Foreign Country (Section 366B IPC)",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Himachal Pradesh",
+      "crime_head": "9 - Abetment of Suicides of Women u/s 306 IPC",
+      "_2014": "66"
+    },
+    {
+      "states_uts": "Himachal Pradesh",
+      "crime_head": "10 - Dowry Prohibition Act, 1961",
+      "_2014": "2"
+    },
+    {
+      "states_uts": "Himachal Pradesh",
+      "crime_head": "11 - Indecent Representation of Women (Prohibition) Act, 1986",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Himachal Pradesh",
+      "crime_head": "12 - Commission of Sati Prevention Act 1987",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Himachal Pradesh",
+      "crime_head": "13 - Protection of Women from Domestic Violence Act, 2005",
+      "_2014": "5"
+    },
+    {
+      "states_uts": "Himachal Pradesh",
+      "crime_head": "14 - Immoral Traffic (Prevention) Act (Women Cases only)",
+      "_2014": "5"
+    },
+    {
+      "states_uts": "Himachal Pradesh",
+      "crime_head": "14.1 - Under ITP Section 5",
+      "_2014": "3"
+    },
+    {
+      "states_uts": "Himachal Pradesh",
+      "crime_head": "14.2 - Under ITP Section 6",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Himachal Pradesh",
+      "crime_head": "14.3 - Under ITP Section 7",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Himachal Pradesh",
+      "crime_head": "14.4 - Under ITP Section 8",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Himachal Pradesh",
+      "crime_head": "14.5 - Other Sections under ITP Act",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Himachal Pradesh",
+      "crime_head": "15 - Total Crimes against Women",
+      "_2014": "1517"
+    },
+    {
+      "states_uts": "Jammu & Kashmir",
+      "crime_head": "1 - Rape (Section 376 IPC)",
+      "_2014": "331"
+    },
+    {
+      "states_uts": "Jammu & Kashmir",
+      "crime_head": "1.1 - Custodial Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Jammu & Kashmir",
+      "crime_head": "1.1.1 - Custodial_Gang Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Jammu & Kashmir",
+      "crime_head": "1.1.2 - Custodial_Other Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Jammu & Kashmir",
+      "crime_head": "1.2 - Rape other than Custodial",
+      "_2014": "331"
+    },
+    {
+      "states_uts": "Jammu & Kashmir",
+      "crime_head": "1.2.1 - Rape_Gang Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Jammu & Kashmir",
+      "crime_head": "1.2.2 - Rape_Others",
+      "_2014": "331"
+    },
+    {
+      "states_uts": "Jammu & Kashmir",
+      "crime_head": "2 - Attempt to commit Rape (Section 376 & 511 IPC)",
+      "_2014": "20"
+    },
+    {
+      "states_uts": "Jammu & Kashmir",
+      "crime_head": "3 - Kidnapping & Abduction of Women (Section 363,364,364A, 366-369 IPC)",
+      "_2014": "813"
+    },
+    {
+      "states_uts": "Jammu & Kashmir",
+      "crime_head": "3.1 - Kidnaping & Abduction Section 363 IPC",
+      "_2014": "285"
+    },
+    {
+      "states_uts": "Jammu & Kashmir",
+      "crime_head": "3.2 - Kidnaping & Abduction in order to Murder Section 364 IPC",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Jammu & Kashmir",
+      "crime_head": "3.3 - Kidnapping for Ransom Section 364A",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Jammu & Kashmir",
+      "crime_head": "3.4 - Kidnapping & Abduction of Women to compel her for marriage",
+      "_2014": "236"
+    },
+    {
+      "states_uts": "Jammu & Kashmir",
+      "crime_head": "3.5 - Kidnapping & Abduction of Women-Other",
+      "_2014": "291"
+    },
+    {
+      "states_uts": "Jammu & Kashmir",
+      "crime_head": "4 - Dowry Deaths (Section 304-B IPC)",
+      "_2014": "5"
+    },
+    {
+      "states_uts": "Jammu & Kashmir",
+      "crime_head": "5 - Assault on Women with intent to outrage her Modesty_Total (Section 354 IPC)",
+      "_2014": "1421"
+    },
+    {
+      "states_uts": "Jammu & Kashmir",
+      "crime_head": "5.1 - Sexual Harassment",
+      "_2014": "242"
+    },
+    {
+      "states_uts": "Jammu & Kashmir",
+      "crime_head": "5.2 - Assault on women with intent to Disrobe",
+      "_2014": "123"
+    },
+    {
+      "states_uts": "Jammu & Kashmir",
+      "crime_head": "5.3 - Voyeurism",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Jammu & Kashmir",
+      "crime_head": "5.4 - Stalking",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Jammu & Kashmir",
+      "crime_head": "5.5 - Others",
+      "_2014": "1055"
+    },
+    {
+      "states_uts": "Jammu & Kashmir",
+      "crime_head": "6 - Insult to the Modesty of Women_Total (Section 509 IPC)",
+      "_2014": "237"
+    },
+    {
+      "states_uts": "Jammu & Kashmir",
+      "crime_head": "6.1 - At Office premises",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Jammu & Kashmir",
+      "crime_head": "6.2 - Other places related to work",
+      "_2014": "8"
+    },
+    {
+      "states_uts": "Jammu & Kashmir",
+      "crime_head": "6.3 - In Public Transport system",
+      "_2014": "6"
+    },
+    {
+      "states_uts": "Jammu & Kashmir",
+      "crime_head": "6.4 - in Other Places",
+      "_2014": "223"
+    },
+    {
+      "states_uts": "Jammu & Kashmir",
+      "crime_head": "7 - Cruelty by Husband or his Relatives (Section 498A)",
+      "_2014": "467"
+    },
+    {
+      "states_uts": "Jammu & Kashmir",
+      "crime_head": "8 - Importation of Girls from Foreign Country (Section 366B IPC)",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Jammu & Kashmir",
+      "crime_head": "9 - Abetment of Suicides of Women u/s 306 IPC",
+      "_2014": "25"
+    },
+    {
+      "states_uts": "Jammu & Kashmir",
+      "crime_head": "10 - Dowry Prohibition Act, 1961",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Jammu & Kashmir",
+      "crime_head": "11 - Indecent Representation of Women (Prohibition) Act, 1986",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Jammu & Kashmir",
+      "crime_head": "12 - Commission of Sati Prevention Act 1987",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Jammu & Kashmir",
+      "crime_head": "13 - Protection of Women from Domestic Violence Act, 2005",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Jammu & Kashmir",
+      "crime_head": "14 - Immoral Traffic (Prevention) Act (Women Cases only)",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Jammu & Kashmir",
+      "crime_head": "14.1 - Under ITP Section 5",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Jammu & Kashmir",
+      "crime_head": "14.2 - Under ITP Section 6",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Jammu & Kashmir",
+      "crime_head": "14.3 - Under ITP Section 7",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Jammu & Kashmir",
+      "crime_head": "14.4 - Under ITP Section 8",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Jammu & Kashmir",
+      "crime_head": "14.5 - Other Sections under ITP Act",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Jammu & Kashmir",
+      "crime_head": "15 - Total Crimes against Women",
+      "_2014": "3321"
+    },
+    {
+      "states_uts": "Jharkhand",
+      "crime_head": "1 - Rape (Section 376 IPC)",
+      "_2014": "1050"
+    },
+    {
+      "states_uts": "Jharkhand",
+      "crime_head": "1.1 - Custodial Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Jharkhand",
+      "crime_head": "1.1.1 - Custodial_Gang Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Jharkhand",
+      "crime_head": "1.1.2 - Custodial_Other Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Jharkhand",
+      "crime_head": "1.2 - Rape other than Custodial",
+      "_2014": "1050"
+    },
+    {
+      "states_uts": "Jharkhand",
+      "crime_head": "1.2.1 - Rape_Gang Rape",
+      "_2014": "52"
+    },
+    {
+      "states_uts": "Jharkhand",
+      "crime_head": "1.2.2 - Rape_Others",
+      "_2014": "998"
+    },
+    {
+      "states_uts": "Jharkhand",
+      "crime_head": "2 - Attempt to commit Rape (Section 376 & 511 IPC)",
+      "_2014": "208"
+    },
+    {
+      "states_uts": "Jharkhand",
+      "crime_head": "3 - Kidnapping & Abduction of Women (Section 363,364,364A, 366-369 IPC)",
+      "_2014": "885"
+    },
+    {
+      "states_uts": "Jharkhand",
+      "crime_head": "3.1 - Kidnaping & Abduction Section 363 IPC",
+      "_2014": "26"
+    },
+    {
+      "states_uts": "Jharkhand",
+      "crime_head": "3.2 - Kidnaping & Abduction in order to Murder Section 364 IPC",
+      "_2014": "2"
+    },
+    {
+      "states_uts": "Jharkhand",
+      "crime_head": "3.3 - Kidnapping for Ransom Section 364A",
+      "_2014": "2"
+    },
+    {
+      "states_uts": "Jharkhand",
+      "crime_head": "3.4 - Kidnapping & Abduction of Women to compel her for marriage",
+      "_2014": "819"
+    },
+    {
+      "states_uts": "Jharkhand",
+      "crime_head": "3.5 - Kidnapping & Abduction of Women-Other",
+      "_2014": "36"
+    },
+    {
+      "states_uts": "Jharkhand",
+      "crime_head": "4 - Dowry Deaths (Section 304-B IPC)",
+      "_2014": "350"
+    },
+    {
+      "states_uts": "Jharkhand",
+      "crime_head": "5 - Assault on Women with intent to outrage her Modesty_Total (Section 354 IPC)",
+      "_2014": "440"
+    },
+    {
+      "states_uts": "Jharkhand",
+      "crime_head": "5.1 - Sexual Harassment",
+      "_2014": "114"
+    },
+    {
+      "states_uts": "Jharkhand",
+      "crime_head": "5.2 - Assault on women with intent to Disrobe",
+      "_2014": "65"
+    },
+    {
+      "states_uts": "Jharkhand",
+      "crime_head": "5.3 - Voyeurism",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Jharkhand",
+      "crime_head": "5.4 - Stalking",
+      "_2014": "5"
+    },
+    {
+      "states_uts": "Jharkhand",
+      "crime_head": "5.5 - Others",
+      "_2014": "256"
+    },
+    {
+      "states_uts": "Jharkhand",
+      "crime_head": "6 - Insult to the Modesty of Women_Total (Section 509 IPC)",
+      "_2014": "18"
+    },
+    {
+      "states_uts": "Jharkhand",
+      "crime_head": "6.1 - At Office premises",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Jharkhand",
+      "crime_head": "6.2 - Other places related to work",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Jharkhand",
+      "crime_head": "6.3 - In Public Transport system",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Jharkhand",
+      "crime_head": "6.4 - in Other Places",
+      "_2014": "17"
+    },
+    {
+      "states_uts": "Jharkhand",
+      "crime_head": "7 - Cruelty by Husband or his Relatives (Section 498A)",
+      "_2014": "1462"
+    },
+    {
+      "states_uts": "Jharkhand",
+      "crime_head": "8 - Importation of Girls from Foreign Country (Section 366B IPC)",
+      "_2014": "2"
+    },
+    {
+      "states_uts": "Jharkhand",
+      "crime_head": "9 - Abetment of Suicides of Women u/s 306 IPC",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Jharkhand",
+      "crime_head": "10 - Dowry Prohibition Act, 1961",
+      "_2014": "1538"
+    },
+    {
+      "states_uts": "Jharkhand",
+      "crime_head": "11 - Indecent Representation of Women (Prohibition) Act, 1986",
+      "_2014": "2"
+    },
+    {
+      "states_uts": "Jharkhand",
+      "crime_head": "12 - Commission of Sati Prevention Act 1987",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Jharkhand",
+      "crime_head": "13 - Protection of Women from Domestic Violence Act, 2005",
+      "_2014": "5"
+    },
+    {
+      "states_uts": "Jharkhand",
+      "crime_head": "14 - Immoral Traffic (Prevention) Act (Women Cases only)",
+      "_2014": "11"
+    },
+    {
+      "states_uts": "Jharkhand",
+      "crime_head": "14.1 - Under ITP Section 5",
+      "_2014": "6"
+    },
+    {
+      "states_uts": "Jharkhand",
+      "crime_head": "14.2 - Under ITP Section 6",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Jharkhand",
+      "crime_head": "14.3 - Under ITP Section 7",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Jharkhand",
+      "crime_head": "14.4 - Under ITP Section 8",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Jharkhand",
+      "crime_head": "14.5 - Other Sections under ITP Act",
+      "_2014": "4"
+    },
+    {
+      "states_uts": "Jharkhand",
+      "crime_head": "15 - Total Crimes against Women",
+      "_2014": "5972"
+    },
+    {
+      "states_uts": "Karnataka",
+      "crime_head": "1 - Rape (Section 376 IPC)",
+      "_2014": "1324"
+    },
+    {
+      "states_uts": "Karnataka",
+      "crime_head": "1.1 - Custodial Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Karnataka",
+      "crime_head": "1.1.1 - Custodial_Gang Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Karnataka",
+      "crime_head": "1.1.2 - Custodial_Other Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Karnataka",
+      "crime_head": "1.2 - Rape other than Custodial",
+      "_2014": "1324"
+    },
+    {
+      "states_uts": "Karnataka",
+      "crime_head": "1.2.1 - Rape_Gang Rape",
+      "_2014": "25"
+    },
+    {
+      "states_uts": "Karnataka",
+      "crime_head": "1.2.2 - Rape_Others",
+      "_2014": "1299"
+    },
+    {
+      "states_uts": "Karnataka",
+      "crime_head": "2 - Attempt to commit Rape (Section 376 & 511 IPC)",
+      "_2014": "22"
+    },
+    {
+      "states_uts": "Karnataka",
+      "crime_head": "3 - Kidnapping & Abduction of Women (Section 363,364,364A, 366-369 IPC)",
+      "_2014": "1457"
+    },
+    {
+      "states_uts": "Karnataka",
+      "crime_head": "3.1 - Kidnaping & Abduction Section 363 IPC",
+      "_2014": "769"
+    },
+    {
+      "states_uts": "Karnataka",
+      "crime_head": "3.2 - Kidnaping & Abduction in order to Murder Section 364 IPC",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Karnataka",
+      "crime_head": "3.3 - Kidnapping for Ransom Section 364A",
+      "_2014": "8"
+    },
+    {
+      "states_uts": "Karnataka",
+      "crime_head": "3.4 - Kidnapping & Abduction of Women to compel her for marriage",
+      "_2014": "210"
+    },
+    {
+      "states_uts": "Karnataka",
+      "crime_head": "3.5 - Kidnapping & Abduction of Women-Other",
+      "_2014": "470"
+    },
+    {
+      "states_uts": "Karnataka",
+      "crime_head": "4 - Dowry Deaths (Section 304-B IPC)",
+      "_2014": "313"
+    },
+    {
+      "states_uts": "Karnataka",
+      "crime_head": "5 - Assault on Women with intent to outrage her Modesty_Total (Section 354 IPC)",
+      "_2014": "5263"
+    },
+    {
+      "states_uts": "Karnataka",
+      "crime_head": "5.1 - Sexual Harassment",
+      "_2014": "253"
+    },
+    {
+      "states_uts": "Karnataka",
+      "crime_head": "5.2 - Assault on women with intent to Disrobe",
+      "_2014": "163"
+    },
+    {
+      "states_uts": "Karnataka",
+      "crime_head": "5.3 - Voyeurism",
+      "_2014": "8"
+    },
+    {
+      "states_uts": "Karnataka",
+      "crime_head": "5.4 - Stalking",
+      "_2014": "64"
+    },
+    {
+      "states_uts": "Karnataka",
+      "crime_head": "5.5 - Others",
+      "_2014": "4775"
+    },
+    {
+      "states_uts": "Karnataka",
+      "crime_head": "6 - Insult to the Modesty of Women_Total (Section 509 IPC)",
+      "_2014": "170"
+    },
+    {
+      "states_uts": "Karnataka",
+      "crime_head": "6.1 - At Office premises",
+      "_2014": "3"
+    },
+    {
+      "states_uts": "Karnataka",
+      "crime_head": "6.2 - Other places related to work",
+      "_2014": "9"
+    },
+    {
+      "states_uts": "Karnataka",
+      "crime_head": "6.3 - In Public Transport system",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Karnataka",
+      "crime_head": "6.4 - in Other Places",
+      "_2014": "157"
+    },
+    {
+      "states_uts": "Karnataka",
+      "crime_head": "7 - Cruelty by Husband or his Relatives (Section 498A)",
+      "_2014": "3025"
+    },
+    {
+      "states_uts": "Karnataka",
+      "crime_head": "8 - Importation of Girls from Foreign Country (Section 366B IPC)",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Karnataka",
+      "crime_head": "9 - Abetment of Suicides of Women u/s 306 IPC",
+      "_2014": "222"
+    },
+    {
+      "states_uts": "Karnataka",
+      "crime_head": "10 - Dowry Prohibition Act, 1961",
+      "_2014": "1730"
+    },
+    {
+      "states_uts": "Karnataka",
+      "crime_head": "11 - Indecent Representation of Women (Prohibition) Act, 1986",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Karnataka",
+      "crime_head": "12 - Commission of Sati Prevention Act 1987",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Karnataka",
+      "crime_head": "13 - Protection of Women from Domestic Violence Act, 2005",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Karnataka",
+      "crime_head": "14 - Immoral Traffic (Prevention) Act (Women Cases only)",
+      "_2014": "388"
+    },
+    {
+      "states_uts": "Karnataka",
+      "crime_head": "14.1 - Under ITP Section 5",
+      "_2014": "104"
+    },
+    {
+      "states_uts": "Karnataka",
+      "crime_head": "14.2 - Under ITP Section 6",
+      "_2014": "4"
+    },
+    {
+      "states_uts": "Karnataka",
+      "crime_head": "14.3 - Under ITP Section 7",
+      "_2014": "39"
+    },
+    {
+      "states_uts": "Karnataka",
+      "crime_head": "14.4 - Under ITP Section 8",
+      "_2014": "21"
+    },
+    {
+      "states_uts": "Karnataka",
+      "crime_head": "14.5 - Other Sections under ITP Act",
+      "_2014": "220"
+    },
+    {
+      "states_uts": "Karnataka",
+      "crime_head": "15 - Total Crimes against Women",
+      "_2014": "13914"
+    },
+    {
+      "states_uts": "Kerala",
+      "crime_head": "1 - Rape (Section 376 IPC)",
+      "_2014": "1347"
+    },
+    {
+      "states_uts": "Kerala",
+      "crime_head": "1.1 - Custodial Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Kerala",
+      "crime_head": "1.1.1 - Custodial_Gang Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Kerala",
+      "crime_head": "1.1.2 - Custodial_Other Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Kerala",
+      "crime_head": "1.2 - Rape other than Custodial",
+      "_2014": "1347"
+    },
+    {
+      "states_uts": "Kerala",
+      "crime_head": "1.2.1 - Rape_Gang Rape",
+      "_2014": "8"
+    },
+    {
+      "states_uts": "Kerala",
+      "crime_head": "1.2.2 - Rape_Others",
+      "_2014": "1339"
+    },
+    {
+      "states_uts": "Kerala",
+      "crime_head": "2 - Attempt to commit Rape (Section 376 & 511 IPC)",
+      "_2014": "36"
+    },
+    {
+      "states_uts": "Kerala",
+      "crime_head": "3 - Kidnapping & Abduction of Women (Section 363,364,364A, 366-369 IPC)",
+      "_2014": "143"
+    },
+    {
+      "states_uts": "Kerala",
+      "crime_head": "3.1 - Kidnaping & Abduction Section 363 IPC",
+      "_2014": "24"
+    },
+    {
+      "states_uts": "Kerala",
+      "crime_head": "3.2 - Kidnaping & Abduction in order to Murder Section 364 IPC",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Kerala",
+      "crime_head": "3.3 - Kidnapping for Ransom Section 364A",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Kerala",
+      "crime_head": "3.4 - Kidnapping & Abduction of Women to compel her for marriage",
+      "_2014": "89"
+    },
+    {
+      "states_uts": "Kerala",
+      "crime_head": "3.5 - Kidnapping & Abduction of Women-Other",
+      "_2014": "30"
+    },
+    {
+      "states_uts": "Kerala",
+      "crime_head": "4 - Dowry Deaths (Section 304-B IPC)",
+      "_2014": "28"
+    },
+    {
+      "states_uts": "Kerala",
+      "crime_head": "5 - Assault on Women with intent to outrage her Modesty_Total (Section 354 IPC)",
+      "_2014": "4367"
+    },
+    {
+      "states_uts": "Kerala",
+      "crime_head": "5.1 - Sexual Harassment",
+      "_2014": "980"
+    },
+    {
+      "states_uts": "Kerala",
+      "crime_head": "5.2 - Assault on women with intent to Disrobe",
+      "_2014": "398"
+    },
+    {
+      "states_uts": "Kerala",
+      "crime_head": "5.3 - Voyeurism",
+      "_2014": "18"
+    },
+    {
+      "states_uts": "Kerala",
+      "crime_head": "5.4 - Stalking",
+      "_2014": "37"
+    },
+    {
+      "states_uts": "Kerala",
+      "crime_head": "5.5 - Others",
+      "_2014": "2934"
+    },
+    {
+      "states_uts": "Kerala",
+      "crime_head": "6 - Insult to the Modesty of Women_Total (Section 509 IPC)",
+      "_2014": "257"
+    },
+    {
+      "states_uts": "Kerala",
+      "crime_head": "6.1 - At Office premises",
+      "_2014": "6"
+    },
+    {
+      "states_uts": "Kerala",
+      "crime_head": "6.2 - Other places related to work",
+      "_2014": "3"
+    },
+    {
+      "states_uts": "Kerala",
+      "crime_head": "6.3 - In Public Transport system",
+      "_2014": "11"
+    },
+    {
+      "states_uts": "Kerala",
+      "crime_head": "6.4 - in Other Places",
+      "_2014": "237"
+    },
+    {
+      "states_uts": "Kerala",
+      "crime_head": "7 - Cruelty by Husband or his Relatives (Section 498A)",
+      "_2014": "4919"
+    },
+    {
+      "states_uts": "Kerala",
+      "crime_head": "8 - Importation of Girls from Foreign Country (Section 366B IPC)",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Kerala",
+      "crime_head": "9 - Abetment of Suicides of Women u/s 306 IPC",
+      "_2014": "38"
+    },
+    {
+      "states_uts": "Kerala",
+      "crime_head": "10 - Dowry Prohibition Act, 1961",
+      "_2014": "3"
+    },
+    {
+      "states_uts": "Kerala",
+      "crime_head": "11 - Indecent Representation of Women (Prohibition) Act, 1986",
+      "_2014": "11"
+    },
+    {
+      "states_uts": "Kerala",
+      "crime_head": "12 - Commission of Sati Prevention Act 1987",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Kerala",
+      "crime_head": "13 - Protection of Women from Domestic Violence Act, 2005",
+      "_2014": "140"
+    },
+    {
+      "states_uts": "Kerala",
+      "crime_head": "14 - Immoral Traffic (Prevention) Act (Women Cases only)",
+      "_2014": "91"
+    },
+    {
+      "states_uts": "Kerala",
+      "crime_head": "14.1 - Under ITP Section 5",
+      "_2014": "4"
+    },
+    {
+      "states_uts": "Kerala",
+      "crime_head": "14.2 - Under ITP Section 6",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Kerala",
+      "crime_head": "14.3 - Under ITP Section 7",
+      "_2014": "28"
+    },
+    {
+      "states_uts": "Kerala",
+      "crime_head": "14.4 - Under ITP Section 8",
+      "_2014": "48"
+    },
+    {
+      "states_uts": "Kerala",
+      "crime_head": "14.5 - Other Sections under ITP Act",
+      "_2014": "11"
+    },
+    {
+      "states_uts": "Kerala",
+      "crime_head": "15 - Total Crimes against Women",
+      "_2014": "11380"
+    },
+    {
+      "states_uts": "Madhya Pradesh",
+      "crime_head": "1 - Rape (Section 376 IPC)",
+      "_2014": "5076"
+    },
+    {
+      "states_uts": "Madhya Pradesh",
+      "crime_head": "1.1 - Custodial Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Madhya Pradesh",
+      "crime_head": "1.1.1 - Custodial_Gang Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Madhya Pradesh",
+      "crime_head": "1.1.2 - Custodial_Other Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Madhya Pradesh",
+      "crime_head": "1.2 - Rape other than Custodial",
+      "_2014": "5076"
+    },
+    {
+      "states_uts": "Madhya Pradesh",
+      "crime_head": "1.2.1 - Rape_Gang Rape",
+      "_2014": "284"
+    },
+    {
+      "states_uts": "Madhya Pradesh",
+      "crime_head": "1.2.2 - Rape_Others",
+      "_2014": "4792"
+    },
+    {
+      "states_uts": "Madhya Pradesh",
+      "crime_head": "2 - Attempt to commit Rape (Section 376 & 511 IPC)",
+      "_2014": "56"
+    },
+    {
+      "states_uts": "Madhya Pradesh",
+      "crime_head": "3 - Kidnapping & Abduction of Women (Section 363,364,364A, 366-369 IPC)",
+      "_2014": "5688"
+    },
+    {
+      "states_uts": "Madhya Pradesh",
+      "crime_head": "3.1 - Kidnaping & Abduction Section 363 IPC",
+      "_2014": "2233"
+    },
+    {
+      "states_uts": "Madhya Pradesh",
+      "crime_head": "3.2 - Kidnaping & Abduction in order to Murder Section 364 IPC",
+      "_2014": "9"
+    },
+    {
+      "states_uts": "Madhya Pradesh",
+      "crime_head": "3.3 - Kidnapping for Ransom Section 364A",
+      "_2014": "2"
+    },
+    {
+      "states_uts": "Madhya Pradesh",
+      "crime_head": "3.4 - Kidnapping & Abduction of Women to compel her for marriage",
+      "_2014": "2364"
+    },
+    {
+      "states_uts": "Madhya Pradesh",
+      "crime_head": "3.5 - Kidnapping & Abduction of Women-Other",
+      "_2014": "1080"
+    },
+    {
+      "states_uts": "Madhya Pradesh",
+      "crime_head": "4 - Dowry Deaths (Section 304-B IPC)",
+      "_2014": "733"
+    },
+    {
+      "states_uts": "Madhya Pradesh",
+      "crime_head": "5 - Assault on Women with intent to outrage her Modesty_Total (Section 354 IPC)",
+      "_2014": "9609"
+    },
+    {
+      "states_uts": "Madhya Pradesh",
+      "crime_head": "5.1 - Sexual Harassment",
+      "_2014": "3163"
+    },
+    {
+      "states_uts": "Madhya Pradesh",
+      "crime_head": "5.2 - Assault on women with intent to Disrobe",
+      "_2014": "132"
+    },
+    {
+      "states_uts": "Madhya Pradesh",
+      "crime_head": "5.3 - Voyeurism",
+      "_2014": "86"
+    },
+    {
+      "states_uts": "Madhya Pradesh",
+      "crime_head": "5.4 - Stalking",
+      "_2014": "401"
+    },
+    {
+      "states_uts": "Madhya Pradesh",
+      "crime_head": "5.5 - Others",
+      "_2014": "5827"
+    },
+    {
+      "states_uts": "Madhya Pradesh",
+      "crime_head": "6 - Insult to the Modesty of Women_Total (Section 509 IPC)",
+      "_2014": "429"
+    },
+    {
+      "states_uts": "Madhya Pradesh",
+      "crime_head": "6.1 - At Office premises",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Madhya Pradesh",
+      "crime_head": "6.2 - Other places related to work",
+      "_2014": "21"
+    },
+    {
+      "states_uts": "Madhya Pradesh",
+      "crime_head": "6.3 - In Public Transport system",
+      "_2014": "3"
+    },
+    {
+      "states_uts": "Madhya Pradesh",
+      "crime_head": "6.4 - in Other Places",
+      "_2014": "404"
+    },
+    {
+      "states_uts": "Madhya Pradesh",
+      "crime_head": "7 - Cruelty by Husband or his Relatives (Section 498A)",
+      "_2014": "6451"
+    },
+    {
+      "states_uts": "Madhya Pradesh",
+      "crime_head": "8 - Importation of Girls from Foreign Country (Section 366B IPC)",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Madhya Pradesh",
+      "crime_head": "9 - Abetment of Suicides of Women u/s 306 IPC",
+      "_2014": "455"
+    },
+    {
+      "states_uts": "Madhya Pradesh",
+      "crime_head": "10 - Dowry Prohibition Act, 1961",
+      "_2014": "113"
+    },
+    {
+      "states_uts": "Madhya Pradesh",
+      "crime_head": "11 - Indecent Representation of Women (Prohibition) Act, 1986",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Madhya Pradesh",
+      "crime_head": "12 - Commission of Sati Prevention Act 1987",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Madhya Pradesh",
+      "crime_head": "13 - Protection of Women from Domestic Violence Act, 2005",
+      "_2014": "53"
+    },
+    {
+      "states_uts": "Madhya Pradesh",
+      "crime_head": "14 - Immoral Traffic (Prevention) Act (Women Cases only)",
+      "_2014": "15"
+    },
+    {
+      "states_uts": "Madhya Pradesh",
+      "crime_head": "14.1 - Under ITP Section 5",
+      "_2014": "2"
+    },
+    {
+      "states_uts": "Madhya Pradesh",
+      "crime_head": "14.2 - Under ITP Section 6",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Madhya Pradesh",
+      "crime_head": "14.3 - Under ITP Section 7",
+      "_2014": "2"
+    },
+    {
+      "states_uts": "Madhya Pradesh",
+      "crime_head": "14.4 - Under ITP Section 8",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Madhya Pradesh",
+      "crime_head": "14.5 - Other Sections under ITP Act",
+      "_2014": "11"
+    },
+    {
+      "states_uts": "Madhya Pradesh",
+      "crime_head": "15 - Total Crimes against Women",
+      "_2014": "28678"
+    },
+    {
+      "states_uts": "Maharashtra",
+      "crime_head": "1 - Rape (Section 376 IPC)",
+      "_2014": "3438"
+    },
+    {
+      "states_uts": "Maharashtra",
+      "crime_head": "1.1 - Custodial Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Maharashtra",
+      "crime_head": "1.1.1 - Custodial_Gang Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Maharashtra",
+      "crime_head": "1.1.2 - Custodial_Other Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Maharashtra",
+      "crime_head": "1.2 - Rape other than Custodial",
+      "_2014": "3438"
+    },
+    {
+      "states_uts": "Maharashtra",
+      "crime_head": "1.2.1 - Rape_Gang Rape",
+      "_2014": "126"
+    },
+    {
+      "states_uts": "Maharashtra",
+      "crime_head": "1.2.2 - Rape_Others",
+      "_2014": "3312"
+    },
+    {
+      "states_uts": "Maharashtra",
+      "crime_head": "2 - Attempt to commit Rape (Section 376 & 511 IPC)",
+      "_2014": "15"
+    },
+    {
+      "states_uts": "Maharashtra",
+      "crime_head": "3 - Kidnapping & Abduction of Women (Section 363,364,364A, 366-369 IPC)",
+      "_2014": "2457"
+    },
+    {
+      "states_uts": "Maharashtra",
+      "crime_head": "3.1 - Kidnaping & Abduction Section 363 IPC",
+      "_2014": "1042"
+    },
+    {
+      "states_uts": "Maharashtra",
+      "crime_head": "3.2 - Kidnaping & Abduction in order to Murder Section 364 IPC",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Maharashtra",
+      "crime_head": "3.3 - Kidnapping for Ransom Section 364A",
+      "_2014": "8"
+    },
+    {
+      "states_uts": "Maharashtra",
+      "crime_head": "3.4 - Kidnapping & Abduction of Women to compel her for marriage",
+      "_2014": "1046"
+    },
+    {
+      "states_uts": "Maharashtra",
+      "crime_head": "3.5 - Kidnapping & Abduction of Women-Other",
+      "_2014": "360"
+    },
+    {
+      "states_uts": "Maharashtra",
+      "crime_head": "4 - Dowry Deaths (Section 304-B IPC)",
+      "_2014": "279"
+    },
+    {
+      "states_uts": "Maharashtra",
+      "crime_head": "5 - Assault on Women with intent to outrage her Modesty_Total (Section 354 IPC)",
+      "_2014": "10001"
+    },
+    {
+      "states_uts": "Maharashtra",
+      "crime_head": "5.1 - Sexual Harassment",
+      "_2014": "4052"
+    },
+    {
+      "states_uts": "Maharashtra",
+      "crime_head": "5.2 - Assault on women with intent to Disrobe",
+      "_2014": "309"
+    },
+    {
+      "states_uts": "Maharashtra",
+      "crime_head": "5.3 - Voyeurism",
+      "_2014": "105"
+    },
+    {
+      "states_uts": "Maharashtra",
+      "crime_head": "5.4 - Stalking",
+      "_2014": "797"
+    },
+    {
+      "states_uts": "Maharashtra",
+      "crime_head": "5.5 - Others",
+      "_2014": "4738"
+    },
+    {
+      "states_uts": "Maharashtra",
+      "crime_head": "6 - Insult to the Modesty of Women_Total (Section 509 IPC)",
+      "_2014": "1575"
+    },
+    {
+      "states_uts": "Maharashtra",
+      "crime_head": "6.1 - At Office premises",
+      "_2014": "10"
+    },
+    {
+      "states_uts": "Maharashtra",
+      "crime_head": "6.2 - Other places related to work",
+      "_2014": "48"
+    },
+    {
+      "states_uts": "Maharashtra",
+      "crime_head": "6.3 - In Public Transport system",
+      "_2014": "8"
+    },
+    {
+      "states_uts": "Maharashtra",
+      "crime_head": "6.4 - in Other Places",
+      "_2014": "1509"
+    },
+    {
+      "states_uts": "Maharashtra",
+      "crime_head": "7 - Cruelty by Husband or his Relatives (Section 498A)",
+      "_2014": "7696"
+    },
+    {
+      "states_uts": "Maharashtra",
+      "crime_head": "8 - Importation of Girls from Foreign Country (Section 366B IPC)",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Maharashtra",
+      "crime_head": "9 - Abetment of Suicides of Women u/s 306 IPC",
+      "_2014": "986"
+    },
+    {
+      "states_uts": "Maharashtra",
+      "crime_head": "10 - Dowry Prohibition Act, 1961",
+      "_2014": "39"
+    },
+    {
+      "states_uts": "Maharashtra",
+      "crime_head": "11 - Indecent Representation of Women (Prohibition) Act, 1986",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Maharashtra",
+      "crime_head": "12 - Commission of Sati Prevention Act 1987",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Maharashtra",
+      "crime_head": "13 - Protection of Women from Domestic Violence Act, 2005",
+      "_2014": "4"
+    },
+    {
+      "states_uts": "Maharashtra",
+      "crime_head": "14 - Immoral Traffic (Prevention) Act (Women Cases only)",
+      "_2014": "202"
+    },
+    {
+      "states_uts": "Maharashtra",
+      "crime_head": "14.1 - Under ITP Section 5",
+      "_2014": "79"
+    },
+    {
+      "states_uts": "Maharashtra",
+      "crime_head": "14.2 - Under ITP Section 6",
+      "_2014": "5"
+    },
+    {
+      "states_uts": "Maharashtra",
+      "crime_head": "14.3 - Under ITP Section 7",
+      "_2014": "33"
+    },
+    {
+      "states_uts": "Maharashtra",
+      "crime_head": "14.4 - Under ITP Section 8",
+      "_2014": "7"
+    },
+    {
+      "states_uts": "Maharashtra",
+      "crime_head": "14.5 - Other Sections under ITP Act",
+      "_2014": "78"
+    },
+    {
+      "states_uts": "Maharashtra",
+      "crime_head": "15 - Total Crimes against Women",
+      "_2014": "26693"
+    },
+    {
+      "states_uts": "Manipur",
+      "crime_head": "1 - Rape (Section 376 IPC)",
+      "_2014": "75"
+    },
+    {
+      "states_uts": "Manipur",
+      "crime_head": "1.1 - Custodial Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Manipur",
+      "crime_head": "1.1.1 - Custodial_Gang Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Manipur",
+      "crime_head": "1.1.2 - Custodial_Other Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Manipur",
+      "crime_head": "1.2 - Rape other than Custodial",
+      "_2014": "75"
+    },
+    {
+      "states_uts": "Manipur",
+      "crime_head": "1.2.1 - Rape_Gang Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Manipur",
+      "crime_head": "1.2.2 - Rape_Others",
+      "_2014": "75"
+    },
+    {
+      "states_uts": "Manipur",
+      "crime_head": "2 - Attempt to commit Rape (Section 376 & 511 IPC)",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Manipur",
+      "crime_head": "3 - Kidnapping & Abduction of Women (Section 363,364,364A, 366-369 IPC)",
+      "_2014": "121"
+    },
+    {
+      "states_uts": "Manipur",
+      "crime_head": "3.1 - Kidnaping & Abduction Section 363 IPC",
+      "_2014": "2"
+    },
+    {
+      "states_uts": "Manipur",
+      "crime_head": "3.2 - Kidnaping & Abduction in order to Murder Section 364 IPC",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Manipur",
+      "crime_head": "3.3 - Kidnapping for Ransom Section 364A",
+      "_2014": "5"
+    },
+    {
+      "states_uts": "Manipur",
+      "crime_head": "3.4 - Kidnapping & Abduction of Women to compel her for marriage",
+      "_2014": "102"
+    },
+    {
+      "states_uts": "Manipur",
+      "crime_head": "3.5 - Kidnapping & Abduction of Women-Other",
+      "_2014": "12"
+    },
+    {
+      "states_uts": "Manipur",
+      "crime_head": "4 - Dowry Deaths (Section 304-B IPC)",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Manipur",
+      "crime_head": "5 - Assault on Women with intent to outrage her Modesty_Total (Section 354 IPC)",
+      "_2014": "98"
+    },
+    {
+      "states_uts": "Manipur",
+      "crime_head": "5.1 - Sexual Harassment",
+      "_2014": "5"
+    },
+    {
+      "states_uts": "Manipur",
+      "crime_head": "5.2 - Assault on women with intent to Disrobe",
+      "_2014": "4"
+    },
+    {
+      "states_uts": "Manipur",
+      "crime_head": "5.3 - Voyeurism",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Manipur",
+      "crime_head": "5.4 - Stalking",
+      "_2014": "2"
+    },
+    {
+      "states_uts": "Manipur",
+      "crime_head": "5.5 - Others",
+      "_2014": "87"
+    },
+    {
+      "states_uts": "Manipur",
+      "crime_head": "6 - Insult to the Modesty of Women_Total (Section 509 IPC)",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Manipur",
+      "crime_head": "6.1 - At Office premises",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Manipur",
+      "crime_head": "6.2 - Other places related to work",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Manipur",
+      "crime_head": "6.3 - In Public Transport system",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Manipur",
+      "crime_head": "6.4 - in Other Places",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Manipur",
+      "crime_head": "7 - Cruelty by Husband or his Relatives (Section 498A)",
+      "_2014": "41"
+    },
+    {
+      "states_uts": "Manipur",
+      "crime_head": "8 - Importation of Girls from Foreign Country (Section 366B IPC)",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Manipur",
+      "crime_head": "9 - Abetment of Suicides of Women u/s 306 IPC",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Manipur",
+      "crime_head": "10 - Dowry Prohibition Act, 1961",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Manipur",
+      "crime_head": "11 - Indecent Representation of Women (Prohibition) Act, 1986",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Manipur",
+      "crime_head": "12 - Commission of Sati Prevention Act 1987",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Manipur",
+      "crime_head": "13 - Protection of Women from Domestic Violence Act, 2005",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Manipur",
+      "crime_head": "14 - Immoral Traffic (Prevention) Act (Women Cases only)",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Manipur",
+      "crime_head": "14.1 - Under ITP Section 5",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Manipur",
+      "crime_head": "14.2 - Under ITP Section 6",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Manipur",
+      "crime_head": "14.3 - Under ITP Section 7",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Manipur",
+      "crime_head": "14.4 - Under ITP Section 8",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Manipur",
+      "crime_head": "14.5 - Other Sections under ITP Act",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Manipur",
+      "crime_head": "15 - Total Crimes against Women",
+      "_2014": "337"
+    },
+    {
+      "states_uts": "Meghalaya",
+      "crime_head": "1 - Rape (Section 376 IPC)",
+      "_2014": "118"
+    },
+    {
+      "states_uts": "Meghalaya",
+      "crime_head": "1.1 - Custodial Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Meghalaya",
+      "crime_head": "1.1.1 - Custodial_Gang Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Meghalaya",
+      "crime_head": "1.1.2 - Custodial_Other Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Meghalaya",
+      "crime_head": "1.2 - Rape other than Custodial",
+      "_2014": "118"
+    },
+    {
+      "states_uts": "Meghalaya",
+      "crime_head": "1.2.1 - Rape_Gang Rape",
+      "_2014": "3"
+    },
+    {
+      "states_uts": "Meghalaya",
+      "crime_head": "1.2.2 - Rape_Others",
+      "_2014": "115"
+    },
+    {
+      "states_uts": "Meghalaya",
+      "crime_head": "2 - Attempt to commit Rape (Section 376 & 511 IPC)",
+      "_2014": "26"
+    },
+    {
+      "states_uts": "Meghalaya",
+      "crime_head": "3 - Kidnapping & Abduction of Women (Section 363,364,364A, 366-369 IPC)",
+      "_2014": "38"
+    },
+    {
+      "states_uts": "Meghalaya",
+      "crime_head": "3.1 - Kidnaping & Abduction Section 363 IPC",
+      "_2014": "9"
+    },
+    {
+      "states_uts": "Meghalaya",
+      "crime_head": "3.2 - Kidnaping & Abduction in order to Murder Section 364 IPC",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Meghalaya",
+      "crime_head": "3.3 - Kidnapping for Ransom Section 364A",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Meghalaya",
+      "crime_head": "3.4 - Kidnapping & Abduction of Women to compel her for marriage",
+      "_2014": "9"
+    },
+    {
+      "states_uts": "Meghalaya",
+      "crime_head": "3.5 - Kidnapping & Abduction of Women-Other",
+      "_2014": "19"
+    },
+    {
+      "states_uts": "Meghalaya",
+      "crime_head": "4 - Dowry Deaths (Section 304-B IPC)",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Meghalaya",
+      "crime_head": "5 - Assault on Women with intent to outrage her Modesty_Total (Section 354 IPC)",
+      "_2014": "105"
+    },
+    {
+      "states_uts": "Meghalaya",
+      "crime_head": "5.1 - Sexual Harassment",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Meghalaya",
+      "crime_head": "5.2 - Assault on women with intent to Disrobe",
+      "_2014": "10"
+    },
+    {
+      "states_uts": "Meghalaya",
+      "crime_head": "5.3 - Voyeurism",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Meghalaya",
+      "crime_head": "5.4 - Stalking",
+      "_2014": "4"
+    },
+    {
+      "states_uts": "Meghalaya",
+      "crime_head": "5.5 - Others",
+      "_2014": "90"
+    },
+    {
+      "states_uts": "Meghalaya",
+      "crime_head": "6 - Insult to the Modesty of Women_Total (Section 509 IPC)",
+      "_2014": "54"
+    },
+    {
+      "states_uts": "Meghalaya",
+      "crime_head": "6.1 - At Office premises",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Meghalaya",
+      "crime_head": "6.2 - Other places related to work",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Meghalaya",
+      "crime_head": "6.3 - In Public Transport system",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Meghalaya",
+      "crime_head": "6.4 - in Other Places",
+      "_2014": "54"
+    },
+    {
+      "states_uts": "Meghalaya",
+      "crime_head": "7 - Cruelty by Husband or his Relatives (Section 498A)",
+      "_2014": "42"
+    },
+    {
+      "states_uts": "Meghalaya",
+      "crime_head": "8 - Importation of Girls from Foreign Country (Section 366B IPC)",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Meghalaya",
+      "crime_head": "9 - Abetment of Suicides of Women u/s 306 IPC",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Meghalaya",
+      "crime_head": "10 - Dowry Prohibition Act, 1961",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Meghalaya",
+      "crime_head": "11 - Indecent Representation of Women (Prohibition) Act, 1986",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Meghalaya",
+      "crime_head": "12 - Commission of Sati Prevention Act 1987",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Meghalaya",
+      "crime_head": "13 - Protection of Women from Domestic Violence Act, 2005",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Meghalaya",
+      "crime_head": "14 - Immoral Traffic (Prevention) Act (Women Cases only)",
+      "_2014": "3"
+    },
+    {
+      "states_uts": "Meghalaya",
+      "crime_head": "14.1 - Under ITP Section 5",
+      "_2014": "3"
+    },
+    {
+      "states_uts": "Meghalaya",
+      "crime_head": "14.2 - Under ITP Section 6",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Meghalaya",
+      "crime_head": "14.3 - Under ITP Section 7",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Meghalaya",
+      "crime_head": "14.4 - Under ITP Section 8",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Meghalaya",
+      "crime_head": "14.5 - Other Sections under ITP Act",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Meghalaya",
+      "crime_head": "15 - Total Crimes against Women",
+      "_2014": "388"
+    },
+    {
+      "states_uts": "Mizoram",
+      "crime_head": "1 - Rape (Section 376 IPC)",
+      "_2014": "120"
+    },
+    {
+      "states_uts": "Mizoram",
+      "crime_head": "1.1 - Custodial Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Mizoram",
+      "crime_head": "1.1.1 - Custodial_Gang Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Mizoram",
+      "crime_head": "1.1.2 - Custodial_Other Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Mizoram",
+      "crime_head": "1.2 - Rape other than Custodial",
+      "_2014": "120"
+    },
+    {
+      "states_uts": "Mizoram",
+      "crime_head": "1.2.1 - Rape_Gang Rape",
+      "_2014": "7"
+    },
+    {
+      "states_uts": "Mizoram",
+      "crime_head": "1.2.2 - Rape_Others",
+      "_2014": "113"
+    },
+    {
+      "states_uts": "Mizoram",
+      "crime_head": "2 - Attempt to commit Rape (Section 376 & 511 IPC)",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Mizoram",
+      "crime_head": "3 - Kidnapping & Abduction of Women (Section 363,364,364A, 366-369 IPC)",
+      "_2014": "3"
+    },
+    {
+      "states_uts": "Mizoram",
+      "crime_head": "3.1 - Kidnaping & Abduction Section 363 IPC",
+      "_2014": "2"
+    },
+    {
+      "states_uts": "Mizoram",
+      "crime_head": "3.2 - Kidnaping & Abduction in order to Murder Section 364 IPC",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Mizoram",
+      "crime_head": "3.3 - Kidnapping for Ransom Section 364A",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Mizoram",
+      "crime_head": "3.4 - Kidnapping & Abduction of Women to compel her for marriage",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Mizoram",
+      "crime_head": "3.5 - Kidnapping & Abduction of Women-Other",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Mizoram",
+      "crime_head": "4 - Dowry Deaths (Section 304-B IPC)",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Mizoram",
+      "crime_head": "5 - Assault on Women with intent to outrage her Modesty_Total (Section 354 IPC)",
+      "_2014": "97"
+    },
+    {
+      "states_uts": "Mizoram",
+      "crime_head": "5.1 - Sexual Harassment",
+      "_2014": "53"
+    },
+    {
+      "states_uts": "Mizoram",
+      "crime_head": "5.2 - Assault on women with intent to Disrobe",
+      "_2014": "12"
+    },
+    {
+      "states_uts": "Mizoram",
+      "crime_head": "5.3 - Voyeurism",
+      "_2014": "2"
+    },
+    {
+      "states_uts": "Mizoram",
+      "crime_head": "5.4 - Stalking",
+      "_2014": "6"
+    },
+    {
+      "states_uts": "Mizoram",
+      "crime_head": "5.5 - Others",
+      "_2014": "24"
+    },
+    {
+      "states_uts": "Mizoram",
+      "crime_head": "6 - Insult to the Modesty of Women_Total (Section 509 IPC)",
+      "_2014": "29"
+    },
+    {
+      "states_uts": "Mizoram",
+      "crime_head": "6.1 - At Office premises",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Mizoram",
+      "crime_head": "6.2 - Other places related to work",
+      "_2014": "29"
+    },
+    {
+      "states_uts": "Mizoram",
+      "crime_head": "6.3 - In Public Transport system",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Mizoram",
+      "crime_head": "6.4 - in Other Places",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Mizoram",
+      "crime_head": "7 - Cruelty by Husband or his Relatives (Section 498A)",
+      "_2014": "8"
+    },
+    {
+      "states_uts": "Mizoram",
+      "crime_head": "8 - Importation of Girls from Foreign Country (Section 366B IPC)",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Mizoram",
+      "crime_head": "9 - Abetment of Suicides of Women u/s 306 IPC",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Mizoram",
+      "crime_head": "10 - Dowry Prohibition Act, 1961",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Mizoram",
+      "crime_head": "11 - Indecent Representation of Women (Prohibition) Act, 1986",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Mizoram",
+      "crime_head": "12 - Commission of Sati Prevention Act 1987",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Mizoram",
+      "crime_head": "13 - Protection of Women from Domestic Violence Act, 2005",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Mizoram",
+      "crime_head": "14 - Immoral Traffic (Prevention) Act (Women Cases only)",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Mizoram",
+      "crime_head": "14.1 - Under ITP Section 5",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Mizoram",
+      "crime_head": "14.2 - Under ITP Section 6",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Mizoram",
+      "crime_head": "14.3 - Under ITP Section 7",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Mizoram",
+      "crime_head": "14.4 - Under ITP Section 8",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Mizoram",
+      "crime_head": "14.5 - Other Sections under ITP Act",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Mizoram",
+      "crime_head": "15 - Total Crimes against Women",
+      "_2014": "258"
+    },
+    {
+      "states_uts": "Nagaland",
+      "crime_head": "1 - Rape (Section 376 IPC)",
+      "_2014": "30"
+    },
+    {
+      "states_uts": "Nagaland",
+      "crime_head": "1.1 - Custodial Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Nagaland",
+      "crime_head": "1.1.1 - Custodial_Gang Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Nagaland",
+      "crime_head": "1.1.2 - Custodial_Other Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Nagaland",
+      "crime_head": "1.2 - Rape other than Custodial",
+      "_2014": "30"
+    },
+    {
+      "states_uts": "Nagaland",
+      "crime_head": "1.2.1 - Rape_Gang Rape",
+      "_2014": "4"
+    },
+    {
+      "states_uts": "Nagaland",
+      "crime_head": "1.2.2 - Rape_Others",
+      "_2014": "26"
+    },
+    {
+      "states_uts": "Nagaland",
+      "crime_head": "2 - Attempt to commit Rape (Section 376 & 511 IPC)",
+      "_2014": "3"
+    },
+    {
+      "states_uts": "Nagaland",
+      "crime_head": "3 - Kidnapping & Abduction of Women (Section 363,364,364A, 366-369 IPC)",
+      "_2014": "13"
+    },
+    {
+      "states_uts": "Nagaland",
+      "crime_head": "3.1 - Kidnaping & Abduction Section 363 IPC",
+      "_2014": "3"
+    },
+    {
+      "states_uts": "Nagaland",
+      "crime_head": "3.2 - Kidnaping & Abduction in order to Murder Section 364 IPC",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Nagaland",
+      "crime_head": "3.3 - Kidnapping for Ransom Section 364A",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Nagaland",
+      "crime_head": "3.4 - Kidnapping & Abduction of Women to compel her for marriage",
+      "_2014": "2"
+    },
+    {
+      "states_uts": "Nagaland",
+      "crime_head": "3.5 - Kidnapping & Abduction of Women-Other",
+      "_2014": "8"
+    },
+    {
+      "states_uts": "Nagaland",
+      "crime_head": "4 - Dowry Deaths (Section 304-B IPC)",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Nagaland",
+      "crime_head": "5 - Assault on Women with intent to outrage her Modesty_Total (Section 354 IPC)",
+      "_2014": "16"
+    },
+    {
+      "states_uts": "Nagaland",
+      "crime_head": "5.1 - Sexual Harassment",
+      "_2014": "5"
+    },
+    {
+      "states_uts": "Nagaland",
+      "crime_head": "5.2 - Assault on women with intent to Disrobe",
+      "_2014": "5"
+    },
+    {
+      "states_uts": "Nagaland",
+      "crime_head": "5.3 - Voyeurism",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Nagaland",
+      "crime_head": "5.4 - Stalking",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Nagaland",
+      "crime_head": "5.5 - Others",
+      "_2014": "5"
+    },
+    {
+      "states_uts": "Nagaland",
+      "crime_head": "6 - Insult to the Modesty of Women_Total (Section 509 IPC)",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Nagaland",
+      "crime_head": "6.1 - At Office premises",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Nagaland",
+      "crime_head": "6.2 - Other places related to work",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Nagaland",
+      "crime_head": "6.3 - In Public Transport system",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Nagaland",
+      "crime_head": "6.4 - in Other Places",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Nagaland",
+      "crime_head": "7 - Cruelty by Husband or his Relatives (Section 498A)",
+      "_2014": "3"
+    },
+    {
+      "states_uts": "Nagaland",
+      "crime_head": "8 - Importation of Girls from Foreign Country (Section 366B IPC)",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Nagaland",
+      "crime_head": "9 - Abetment of Suicides of Women u/s 306 IPC",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Nagaland",
+      "crime_head": "10 - Dowry Prohibition Act, 1961",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Nagaland",
+      "crime_head": "11 - Indecent Representation of Women (Prohibition) Act, 1986",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Nagaland",
+      "crime_head": "12 - Commission of Sati Prevention Act 1987",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Nagaland",
+      "crime_head": "13 - Protection of Women from Domestic Violence Act, 2005",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Nagaland",
+      "crime_head": "14 - Immoral Traffic (Prevention) Act (Women Cases only)",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Nagaland",
+      "crime_head": "14.1 - Under ITP Section 5",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Nagaland",
+      "crime_head": "14.2 - Under ITP Section 6",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Nagaland",
+      "crime_head": "14.3 - Under ITP Section 7",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Nagaland",
+      "crime_head": "14.4 - Under ITP Section 8",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Nagaland",
+      "crime_head": "14.5 - Other Sections under ITP Act",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Nagaland",
+      "crime_head": "15 - Total Crimes against Women",
+      "_2014": "67"
+    },
+    {
+      "states_uts": "Odisha",
+      "crime_head": "1 - Rape (Section 376 IPC)",
+      "_2014": "1978"
+    },
+    {
+      "states_uts": "Odisha",
+      "crime_head": "1.1 - Custodial Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Odisha",
+      "crime_head": "1.1.1 - Custodial_Gang Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Odisha",
+      "crime_head": "1.1.2 - Custodial_Other Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Odisha",
+      "crime_head": "1.2 - Rape other than Custodial",
+      "_2014": "1978"
+    },
+    {
+      "states_uts": "Odisha",
+      "crime_head": "1.2.1 - Rape_Gang Rape",
+      "_2014": "82"
+    },
+    {
+      "states_uts": "Odisha",
+      "crime_head": "1.2.2 - Rape_Others",
+      "_2014": "1896"
+    },
+    {
+      "states_uts": "Odisha",
+      "crime_head": "2 - Attempt to commit Rape (Section 376 & 511 IPC)",
+      "_2014": "33"
+    },
+    {
+      "states_uts": "Odisha",
+      "crime_head": "3 - Kidnapping & Abduction of Women (Section 363,364,364A, 366-369 IPC)",
+      "_2014": "2436"
+    },
+    {
+      "states_uts": "Odisha",
+      "crime_head": "3.1 - Kidnaping & Abduction Section 363 IPC",
+      "_2014": "849"
+    },
+    {
+      "states_uts": "Odisha",
+      "crime_head": "3.2 - Kidnaping & Abduction in order to Murder Section 364 IPC",
+      "_2014": "2"
+    },
+    {
+      "states_uts": "Odisha",
+      "crime_head": "3.3 - Kidnapping for Ransom Section 364A",
+      "_2014": "4"
+    },
+    {
+      "states_uts": "Odisha",
+      "crime_head": "3.4 - Kidnapping & Abduction of Women to compel her for marriage",
+      "_2014": "1313"
+    },
+    {
+      "states_uts": "Odisha",
+      "crime_head": "3.5 - Kidnapping & Abduction of Women-Other",
+      "_2014": "268"
+    },
+    {
+      "states_uts": "Odisha",
+      "crime_head": "4 - Dowry Deaths (Section 304-B IPC)",
+      "_2014": "441"
+    },
+    {
+      "states_uts": "Odisha",
+      "crime_head": "5 - Assault on Women with intent to outrage her Modesty_Total (Section 354 IPC)",
+      "_2014": "5543"
+    },
+    {
+      "states_uts": "Odisha",
+      "crime_head": "5.1 - Sexual Harassment",
+      "_2014": "802"
+    },
+    {
+      "states_uts": "Odisha",
+      "crime_head": "5.2 - Assault on women with intent to Disrobe",
+      "_2014": "1142"
+    },
+    {
+      "states_uts": "Odisha",
+      "crime_head": "5.3 - Voyeurism",
+      "_2014": "28"
+    },
+    {
+      "states_uts": "Odisha",
+      "crime_head": "5.4 - Stalking",
+      "_2014": "134"
+    },
+    {
+      "states_uts": "Odisha",
+      "crime_head": "5.5 - Others",
+      "_2014": "3437"
+    },
+    {
+      "states_uts": "Odisha",
+      "crime_head": "6 - Insult to the Modesty of Women_Total (Section 509 IPC)",
+      "_2014": "379"
+    },
+    {
+      "states_uts": "Odisha",
+      "crime_head": "6.1 - At Office premises",
+      "_2014": "8"
+    },
+    {
+      "states_uts": "Odisha",
+      "crime_head": "6.2 - Other places related to work",
+      "_2014": "10"
+    },
+    {
+      "states_uts": "Odisha",
+      "crime_head": "6.3 - In Public Transport system",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Odisha",
+      "crime_head": "6.4 - in Other Places",
+      "_2014": "360"
+    },
+    {
+      "states_uts": "Odisha",
+      "crime_head": "7 - Cruelty by Husband or his Relatives (Section 498A)",
+      "_2014": "3114"
+    },
+    {
+      "states_uts": "Odisha",
+      "crime_head": "8 - Importation of Girls from Foreign Country (Section 366B IPC)",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Odisha",
+      "crime_head": "9 - Abetment of Suicides of Women u/s 306 IPC",
+      "_2014": "4"
+    },
+    {
+      "states_uts": "Odisha",
+      "crime_head": "10 - Dowry Prohibition Act, 1961",
+      "_2014": "646"
+    },
+    {
+      "states_uts": "Odisha",
+      "crime_head": "11 - Indecent Representation of Women (Prohibition) Act, 1986",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Odisha",
+      "crime_head": "12 - Commission of Sati Prevention Act 1987",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Odisha",
+      "crime_head": "13 - Protection of Women from Domestic Violence Act, 2005",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Odisha",
+      "crime_head": "14 - Immoral Traffic (Prevention) Act (Women Cases only)",
+      "_2014": "32"
+    },
+    {
+      "states_uts": "Odisha",
+      "crime_head": "14.1 - Under ITP Section 5",
+      "_2014": "7"
+    },
+    {
+      "states_uts": "Odisha",
+      "crime_head": "14.2 - Under ITP Section 6",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Odisha",
+      "crime_head": "14.3 - Under ITP Section 7",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Odisha",
+      "crime_head": "14.4 - Under ITP Section 8",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Odisha",
+      "crime_head": "14.5 - Other Sections under ITP Act",
+      "_2014": "24"
+    },
+    {
+      "states_uts": "Odisha",
+      "crime_head": "15 - Total Crimes against Women",
+      "_2014": "14606"
+    },
+    {
+      "states_uts": "Punjab",
+      "crime_head": "1 - Rape (Section 376 IPC)",
+      "_2014": "981"
+    },
+    {
+      "states_uts": "Punjab",
+      "crime_head": "1.1 - Custodial Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Punjab",
+      "crime_head": "1.1.1 - Custodial_Gang Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Punjab",
+      "crime_head": "1.1.2 - Custodial_Other Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Punjab",
+      "crime_head": "1.2 - Rape other than Custodial",
+      "_2014": "981"
+    },
+    {
+      "states_uts": "Punjab",
+      "crime_head": "1.2.1 - Rape_Gang Rape",
+      "_2014": "24"
+    },
+    {
+      "states_uts": "Punjab",
+      "crime_head": "1.2.2 - Rape_Others",
+      "_2014": "957"
+    },
+    {
+      "states_uts": "Punjab",
+      "crime_head": "2 - Attempt to commit Rape (Section 376 & 511 IPC)",
+      "_2014": "154"
+    },
+    {
+      "states_uts": "Punjab",
+      "crime_head": "3 - Kidnapping & Abduction of Women (Section 363,364,364A, 366-369 IPC)",
+      "_2014": "1176"
+    },
+    {
+      "states_uts": "Punjab",
+      "crime_head": "3.1 - Kidnaping & Abduction Section 363 IPC",
+      "_2014": "86"
+    },
+    {
+      "states_uts": "Punjab",
+      "crime_head": "3.2 - Kidnaping & Abduction in order to Murder Section 364 IPC",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Punjab",
+      "crime_head": "3.3 - Kidnapping for Ransom Section 364A",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Punjab",
+      "crime_head": "3.4 - Kidnapping & Abduction of Women to compel her for marriage",
+      "_2014": "806"
+    },
+    {
+      "states_uts": "Punjab",
+      "crime_head": "3.5 - Kidnapping & Abduction of Women-Other",
+      "_2014": "283"
+    },
+    {
+      "states_uts": "Punjab",
+      "crime_head": "4 - Dowry Deaths (Section 304-B IPC)",
+      "_2014": "90"
+    },
+    {
+      "states_uts": "Punjab",
+      "crime_head": "5 - Assault on Women with intent to outrage her Modesty_Total (Section 354 IPC)",
+      "_2014": "1113"
+    },
+    {
+      "states_uts": "Punjab",
+      "crime_head": "5.1 - Sexual Harassment",
+      "_2014": "344"
+    },
+    {
+      "states_uts": "Punjab",
+      "crime_head": "5.2 - Assault on women with intent to Disrobe",
+      "_2014": "41"
+    },
+    {
+      "states_uts": "Punjab",
+      "crime_head": "5.3 - Voyeurism",
+      "_2014": "48"
+    },
+    {
+      "states_uts": "Punjab",
+      "crime_head": "5.4 - Stalking",
+      "_2014": "48"
+    },
+    {
+      "states_uts": "Punjab",
+      "crime_head": "5.5 - Others",
+      "_2014": "632"
+    },
+    {
+      "states_uts": "Punjab",
+      "crime_head": "6 - Insult to the Modesty of Women_Total (Section 509 IPC)",
+      "_2014": "35"
+    },
+    {
+      "states_uts": "Punjab",
+      "crime_head": "6.1 - At Office premises",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Punjab",
+      "crime_head": "6.2 - Other places related to work",
+      "_2014": "3"
+    },
+    {
+      "states_uts": "Punjab",
+      "crime_head": "6.3 - In Public Transport system",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Punjab",
+      "crime_head": "6.4 - in Other Places",
+      "_2014": "32"
+    },
+    {
+      "states_uts": "Punjab",
+      "crime_head": "7 - Cruelty by Husband or his Relatives (Section 498A)",
+      "_2014": "1681"
+    },
+    {
+      "states_uts": "Punjab",
+      "crime_head": "8 - Importation of Girls from Foreign Country (Section 366B IPC)",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Punjab",
+      "crime_head": "9 - Abetment of Suicides of Women u/s 306 IPC",
+      "_2014": "124"
+    },
+    {
+      "states_uts": "Punjab",
+      "crime_head": "10 - Dowry Prohibition Act, 1961",
+      "_2014": "5"
+    },
+    {
+      "states_uts": "Punjab",
+      "crime_head": "11 - Indecent Representation of Women (Prohibition) Act, 1986",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Punjab",
+      "crime_head": "12 - Commission of Sati Prevention Act 1987",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Punjab",
+      "crime_head": "13 - Protection of Women from Domestic Violence Act, 2005",
+      "_2014": "2"
+    },
+    {
+      "states_uts": "Punjab",
+      "crime_head": "14 - Immoral Traffic (Prevention) Act (Women Cases only)",
+      "_2014": "63"
+    },
+    {
+      "states_uts": "Punjab",
+      "crime_head": "14.1 - Under ITP Section 5",
+      "_2014": "33"
+    },
+    {
+      "states_uts": "Punjab",
+      "crime_head": "14.2 - Under ITP Section 6",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Punjab",
+      "crime_head": "14.3 - Under ITP Section 7",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Punjab",
+      "crime_head": "14.4 - Under ITP Section 8",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Punjab",
+      "crime_head": "14.5 - Other Sections under ITP Act",
+      "_2014": "29"
+    },
+    {
+      "states_uts": "Punjab",
+      "crime_head": "15 - Total Crimes against Women",
+      "_2014": "5425"
+    },
+    {
+      "states_uts": "Rajasthan",
+      "crime_head": "1 - Rape (Section 376 IPC)",
+      "_2014": "3759"
+    },
+    {
+      "states_uts": "Rajasthan",
+      "crime_head": "1.1 - Custodial Rape",
+      "_2014": "3"
+    },
+    {
+      "states_uts": "Rajasthan",
+      "crime_head": "1.1.1 - Custodial_Gang Rape",
+      "_2014": "2"
+    },
+    {
+      "states_uts": "Rajasthan",
+      "crime_head": "1.1.2 - Custodial_Other Rape",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Rajasthan",
+      "crime_head": "1.2 - Rape other than Custodial",
+      "_2014": "3756"
+    },
+    {
+      "states_uts": "Rajasthan",
+      "crime_head": "1.2.1 - Rape_Gang Rape",
+      "_2014": "414"
+    },
+    {
+      "states_uts": "Rajasthan",
+      "crime_head": "1.2.2 - Rape_Others",
+      "_2014": "3342"
+    },
+    {
+      "states_uts": "Rajasthan",
+      "crime_head": "2 - Attempt to commit Rape (Section 376 & 511 IPC)",
+      "_2014": "373"
+    },
+    {
+      "states_uts": "Rajasthan",
+      "crime_head": "3 - Kidnapping & Abduction of Women (Section 363,364,364A, 366-369 IPC)",
+      "_2014": "4421"
+    },
+    {
+      "states_uts": "Rajasthan",
+      "crime_head": "3.1 - Kidnaping & Abduction Section 363 IPC",
+      "_2014": "1057"
+    },
+    {
+      "states_uts": "Rajasthan",
+      "crime_head": "3.2 - Kidnaping & Abduction in order to Murder Section 364 IPC",
+      "_2014": "88"
+    },
+    {
+      "states_uts": "Rajasthan",
+      "crime_head": "3.3 - Kidnapping for Ransom Section 364A",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Rajasthan",
+      "crime_head": "3.4 - Kidnapping & Abduction of Women to compel her for marriage",
+      "_2014": "2360"
+    },
+    {
+      "states_uts": "Rajasthan",
+      "crime_head": "3.5 - Kidnapping & Abduction of Women-Other",
+      "_2014": "916"
+    },
+    {
+      "states_uts": "Rajasthan",
+      "crime_head": "4 - Dowry Deaths (Section 304-B IPC)",
+      "_2014": "408"
+    },
+    {
+      "states_uts": "Rajasthan",
+      "crime_head": "5 - Assault on Women with intent to outrage her Modesty_Total (Section 354 IPC)",
+      "_2014": "5999"
+    },
+    {
+      "states_uts": "Rajasthan",
+      "crime_head": "5.1 - Sexual Harassment",
+      "_2014": "727"
+    },
+    {
+      "states_uts": "Rajasthan",
+      "crime_head": "5.2 - Assault on women with intent to Disrobe",
+      "_2014": "235"
+    },
+    {
+      "states_uts": "Rajasthan",
+      "crime_head": "5.3 - Voyeurism",
+      "_2014": "23"
+    },
+    {
+      "states_uts": "Rajasthan",
+      "crime_head": "5.4 - Stalking",
+      "_2014": "88"
+    },
+    {
+      "states_uts": "Rajasthan",
+      "crime_head": "5.5 - Others",
+      "_2014": "4926"
+    },
+    {
+      "states_uts": "Rajasthan",
+      "crime_head": "6 - Insult to the Modesty of Women_Total (Section 509 IPC)",
+      "_2014": "18"
+    },
+    {
+      "states_uts": "Rajasthan",
+      "crime_head": "6.1 - At Office premises",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Rajasthan",
+      "crime_head": "6.2 - Other places related to work",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Rajasthan",
+      "crime_head": "6.3 - In Public Transport system",
+      "_2014": "2"
+    },
+    {
+      "states_uts": "Rajasthan",
+      "crime_head": "6.4 - in Other Places",
+      "_2014": "16"
+    },
+    {
+      "states_uts": "Rajasthan",
+      "crime_head": "7 - Cruelty by Husband or his Relatives (Section 498A)",
+      "_2014": "15905"
+    },
+    {
+      "states_uts": "Rajasthan",
+      "crime_head": "8 - Importation of Girls from Foreign Country (Section 366B IPC)",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Rajasthan",
+      "crime_head": "9 - Abetment of Suicides of Women u/s 306 IPC",
+      "_2014": "143"
+    },
+    {
+      "states_uts": "Rajasthan",
+      "crime_head": "10 - Dowry Prohibition Act, 1961",
+      "_2014": "12"
+    },
+    {
+      "states_uts": "Rajasthan",
+      "crime_head": "11 - Indecent Representation of Women (Prohibition) Act, 1986",
+      "_2014": "18"
+    },
+    {
+      "states_uts": "Rajasthan",
+      "crime_head": "12 - Commission of Sati Prevention Act 1987",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Rajasthan",
+      "crime_head": "13 - Protection of Women from Domestic Violence Act, 2005",
+      "_2014": "17"
+    },
+    {
+      "states_uts": "Rajasthan",
+      "crime_head": "14 - Immoral Traffic (Prevention) Act (Women Cases only)",
+      "_2014": "78"
+    },
+    {
+      "states_uts": "Rajasthan",
+      "crime_head": "14.1 - Under ITP Section 5",
+      "_2014": "18"
+    },
+    {
+      "states_uts": "Rajasthan",
+      "crime_head": "14.2 - Under ITP Section 6",
+      "_2014": "8"
+    },
+    {
+      "states_uts": "Rajasthan",
+      "crime_head": "14.3 - Under ITP Section 7",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Rajasthan",
+      "crime_head": "14.4 - Under ITP Section 8",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Rajasthan",
+      "crime_head": "14.5 - Other Sections under ITP Act",
+      "_2014": "51"
+    },
+    {
+      "states_uts": "Rajasthan",
+      "crime_head": "15 - Total Crimes against Women",
+      "_2014": "31151"
+    },
+    {
+      "states_uts": "Sikkim",
+      "crime_head": "1 - Rape (Section 376 IPC)",
+      "_2014": "47"
+    },
+    {
+      "states_uts": "Sikkim",
+      "crime_head": "1.1 - Custodial Rape",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Sikkim",
+      "crime_head": "1.1.1 - Custodial_Gang Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Sikkim",
+      "crime_head": "1.1.2 - Custodial_Other Rape",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Sikkim",
+      "crime_head": "1.2 - Rape other than Custodial",
+      "_2014": "46"
+    },
+    {
+      "states_uts": "Sikkim",
+      "crime_head": "1.2.1 - Rape_Gang Rape",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Sikkim",
+      "crime_head": "1.2.2 - Rape_Others",
+      "_2014": "45"
+    },
+    {
+      "states_uts": "Sikkim",
+      "crime_head": "2 - Attempt to commit Rape (Section 376 & 511 IPC)",
+      "_2014": "9"
+    },
+    {
+      "states_uts": "Sikkim",
+      "crime_head": "3 - Kidnapping & Abduction of Women (Section 363,364,364A, 366-369 IPC)",
+      "_2014": "12"
+    },
+    {
+      "states_uts": "Sikkim",
+      "crime_head": "3.1 - Kidnaping & Abduction Section 363 IPC",
+      "_2014": "9"
+    },
+    {
+      "states_uts": "Sikkim",
+      "crime_head": "3.2 - Kidnaping & Abduction in order to Murder Section 364 IPC",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Sikkim",
+      "crime_head": "3.3 - Kidnapping for Ransom Section 364A",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Sikkim",
+      "crime_head": "3.4 - Kidnapping & Abduction of Women to compel her for marriage",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Sikkim",
+      "crime_head": "3.5 - Kidnapping & Abduction of Women-Other",
+      "_2014": "3"
+    },
+    {
+      "states_uts": "Sikkim",
+      "crime_head": "4 - Dowry Deaths (Section 304-B IPC)",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Sikkim",
+      "crime_head": "5 - Assault on Women with intent to outrage her Modesty_Total (Section 354 IPC)",
+      "_2014": "34"
+    },
+    {
+      "states_uts": "Sikkim",
+      "crime_head": "5.1 - Sexual Harassment",
+      "_2014": "14"
+    },
+    {
+      "states_uts": "Sikkim",
+      "crime_head": "5.2 - Assault on women with intent to Disrobe",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Sikkim",
+      "crime_head": "5.3 - Voyeurism",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Sikkim",
+      "crime_head": "5.4 - Stalking",
+      "_2014": "2"
+    },
+    {
+      "states_uts": "Sikkim",
+      "crime_head": "5.5 - Others",
+      "_2014": "17"
+    },
+    {
+      "states_uts": "Sikkim",
+      "crime_head": "6 - Insult to the Modesty of Women_Total (Section 509 IPC)",
+      "_2014": "3"
+    },
+    {
+      "states_uts": "Sikkim",
+      "crime_head": "6.1 - At Office premises",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Sikkim",
+      "crime_head": "6.2 - Other places related to work",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Sikkim",
+      "crime_head": "6.3 - In Public Transport system",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Sikkim",
+      "crime_head": "6.4 - in Other Places",
+      "_2014": "3"
+    },
+    {
+      "states_uts": "Sikkim",
+      "crime_head": "7 - Cruelty by Husband or his Relatives (Section 498A)",
+      "_2014": "5"
+    },
+    {
+      "states_uts": "Sikkim",
+      "crime_head": "8 - Importation of Girls from Foreign Country (Section 366B IPC)",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Sikkim",
+      "crime_head": "9 - Abetment of Suicides of Women u/s 306 IPC",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Sikkim",
+      "crime_head": "10 - Dowry Prohibition Act, 1961",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Sikkim",
+      "crime_head": "11 - Indecent Representation of Women (Prohibition) Act, 1986",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Sikkim",
+      "crime_head": "12 - Commission of Sati Prevention Act 1987",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Sikkim",
+      "crime_head": "13 - Protection of Women from Domestic Violence Act, 2005",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Sikkim",
+      "crime_head": "14 - Immoral Traffic (Prevention) Act (Women Cases only)",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Sikkim",
+      "crime_head": "14.1 - Under ITP Section 5",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Sikkim",
+      "crime_head": "14.2 - Under ITP Section 6",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Sikkim",
+      "crime_head": "14.3 - Under ITP Section 7",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Sikkim",
+      "crime_head": "14.4 - Under ITP Section 8",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Sikkim",
+      "crime_head": "14.5 - Other Sections under ITP Act",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Sikkim",
+      "crime_head": "15 - Total Crimes against Women",
+      "_2014": "110"
+    },
+    {
+      "states_uts": "Tamil Nadu",
+      "crime_head": "1 - Rape (Section 376 IPC)",
+      "_2014": "455"
+    },
+    {
+      "states_uts": "Tamil Nadu",
+      "crime_head": "1.1 - Custodial Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Tamil Nadu",
+      "crime_head": "1.1.1 - Custodial_Gang Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Tamil Nadu",
+      "crime_head": "1.1.2 - Custodial_Other Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Tamil Nadu",
+      "crime_head": "1.2 - Rape other than Custodial",
+      "_2014": "455"
+    },
+    {
+      "states_uts": "Tamil Nadu",
+      "crime_head": "1.2.1 - Rape_Gang Rape",
+      "_2014": "2"
+    },
+    {
+      "states_uts": "Tamil Nadu",
+      "crime_head": "1.2.2 - Rape_Others",
+      "_2014": "453"
+    },
+    {
+      "states_uts": "Tamil Nadu",
+      "crime_head": "2 - Attempt to commit Rape (Section 376 & 511 IPC)",
+      "_2014": "16"
+    },
+    {
+      "states_uts": "Tamil Nadu",
+      "crime_head": "3 - Kidnapping & Abduction of Women (Section 363,364,364A, 366-369 IPC)",
+      "_2014": "1502"
+    },
+    {
+      "states_uts": "Tamil Nadu",
+      "crime_head": "3.1 - Kidnaping & Abduction Section 363 IPC",
+      "_2014": "231"
+    },
+    {
+      "states_uts": "Tamil Nadu",
+      "crime_head": "3.2 - Kidnaping & Abduction in order to Murder Section 364 IPC",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Tamil Nadu",
+      "crime_head": "3.3 - Kidnapping for Ransom Section 364A",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Tamil Nadu",
+      "crime_head": "3.4 - Kidnapping & Abduction of Women to compel her for marriage",
+      "_2014": "1080"
+    },
+    {
+      "states_uts": "Tamil Nadu",
+      "crime_head": "3.5 - Kidnapping & Abduction of Women-Other",
+      "_2014": "190"
+    },
+    {
+      "states_uts": "Tamil Nadu",
+      "crime_head": "4 - Dowry Deaths (Section 304-B IPC)",
+      "_2014": "95"
+    },
+    {
+      "states_uts": "Tamil Nadu",
+      "crime_head": "5 - Assault on Women with intent to outrage her Modesty_Total (Section 354 IPC)",
+      "_2014": "1102"
+    },
+    {
+      "states_uts": "Tamil Nadu",
+      "crime_head": "5.1 - Sexual Harassment",
+      "_2014": "46"
+    },
+    {
+      "states_uts": "Tamil Nadu",
+      "crime_head": "5.2 - Assault on women with intent to Disrobe",
+      "_2014": "71"
+    },
+    {
+      "states_uts": "Tamil Nadu",
+      "crime_head": "5.3 - Voyeurism",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Tamil Nadu",
+      "crime_head": "5.4 - Stalking",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Tamil Nadu",
+      "crime_head": "5.5 - Others",
+      "_2014": "983"
+    },
+    {
+      "states_uts": "Tamil Nadu",
+      "crime_head": "6 - Insult to the Modesty of Women_Total (Section 509 IPC)",
+      "_2014": "229"
+    },
+    {
+      "states_uts": "Tamil Nadu",
+      "crime_head": "6.1 - At Office premises",
+      "_2014": "2"
+    },
+    {
+      "states_uts": "Tamil Nadu",
+      "crime_head": "6.2 - Other places related to work",
+      "_2014": "157"
+    },
+    {
+      "states_uts": "Tamil Nadu",
+      "crime_head": "6.3 - In Public Transport system",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Tamil Nadu",
+      "crime_head": "6.4 - in Other Places",
+      "_2014": "70"
+    },
+    {
+      "states_uts": "Tamil Nadu",
+      "crime_head": "7 - Cruelty by Husband or his Relatives (Section 498A)",
+      "_2014": "2103"
+    },
+    {
+      "states_uts": "Tamil Nadu",
+      "crime_head": "8 - Importation of Girls from Foreign Country (Section 366B IPC)",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Tamil Nadu",
+      "crime_head": "9 - Abetment of Suicides of Women u/s 306 IPC",
+      "_2014": "52"
+    },
+    {
+      "states_uts": "Tamil Nadu",
+      "crime_head": "10 - Dowry Prohibition Act, 1961",
+      "_2014": "292"
+    },
+    {
+      "states_uts": "Tamil Nadu",
+      "crime_head": "11 - Indecent Representation of Women (Prohibition) Act, 1986",
+      "_2014": "4"
+    },
+    {
+      "states_uts": "Tamil Nadu",
+      "crime_head": "12 - Commission of Sati Prevention Act 1987",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Tamil Nadu",
+      "crime_head": "13 - Protection of Women from Domestic Violence Act, 2005",
+      "_2014": "4"
+    },
+    {
+      "states_uts": "Tamil Nadu",
+      "crime_head": "14 - Immoral Traffic (Prevention) Act (Women Cases only)",
+      "_2014": "471"
+    },
+    {
+      "states_uts": "Tamil Nadu",
+      "crime_head": "14.1 - Under ITP Section 5",
+      "_2014": "94"
+    },
+    {
+      "states_uts": "Tamil Nadu",
+      "crime_head": "14.2 - Under ITP Section 6",
+      "_2014": "2"
+    },
+    {
+      "states_uts": "Tamil Nadu",
+      "crime_head": "14.3 - Under ITP Section 7",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Tamil Nadu",
+      "crime_head": "14.4 - Under ITP Section 8",
+      "_2014": "19"
+    },
+    {
+      "states_uts": "Tamil Nadu",
+      "crime_head": "14.5 - Other Sections under ITP Act",
+      "_2014": "356"
+    },
+    {
+      "states_uts": "Tamil Nadu",
+      "crime_head": "15 - Total Crimes against Women",
+      "_2014": "6325"
+    },
+    {
+      "states_uts": "Telangana",
+      "crime_head": "1 - Rape (Section 376 IPC)",
+      "_2014": "979"
+    },
+    {
+      "states_uts": "Telangana",
+      "crime_head": "1.1 - Custodial Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Telangana",
+      "crime_head": "1.1.1 - Custodial_Gang Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Telangana",
+      "crime_head": "1.1.2 - Custodial_Other Rape",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Telangana",
+      "crime_head": "1.2 - Rape other than Custodial",
+      "_2014": "979"
+    },
+    {
+      "states_uts": "Telangana",
+      "crime_head": "1.2.1 - Rape_Gang Rape",
+      "_2014": "14"
+    },
+    {
+      "states_uts": "Telangana",
+      "crime_head": "1.2.2 - Rape_Others",
+      "_2014": "965"
+    },
+    {
+      "states_uts": "Telangana",
+      "crime_head": "2 - Attempt to commit Rape (Section 376 & 511 IPC)",
+      "_2014": "73"
+    },
+    {
+      "states_uts": "Telangana",
+      "crime_head": "3 - Kidnapping & Abduction of Women (Section 363,364,364A, 366-369 IPC)",
+      "_2014": "711"
+    },
+    {
+      "states_uts": "Telangana",
+      "crime_head": "3.1 - Kidnaping & Abduction Section 363 IPC",
+      "_2014": "243"
+    },
+    {
+      "states_uts": "Telangana",
+      "crime_head": "3.2 - Kidnaping & Abduction in order to Murder Section 364 IPC",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Telangana",
+      "crime_head": "3.3 - Kidnapping for Ransom Section 364A",
+      "_2014": "2"
+    },
+    {
+      "states_uts": "Telangana",
+      "crime_head": "3.4 - Kidnapping & Abduction of Women to compel her for marriage",
+      "_2014": "247"
+    },
+    {
+      "states_uts": "Telangana",
+      "crime_head": "3.5 - Kidnapping & Abduction of Women-Other",
+      "_2014": "219"
+    },
+    {
+      "states_uts": "Telangana",
+      "crime_head": "4 - Dowry Deaths (Section 304-B IPC)",
+      "_2014": "289"
+    },
+    {
+      "states_uts": "Telangana",
+      "crime_head": "5 - Assault on Women with intent to outrage her Modesty_Total (Section 354 IPC)",
+      "_2014": "3188"
+    },
+    {
+      "states_uts": "Telangana",
+      "crime_head": "5.1 - Sexual Harassment",
+      "_2014": "620"
+    },
+    {
+      "states_uts": "Telangana",
+      "crime_head": "5.2 - Assault on women with intent to Disrobe",
+      "_2014": "176"
+    },
+    {
+      "states_uts": "Telangana",
+      "crime_head": "5.3 - Voyeurism",
+      "_2014": "45"
+    },
+    {
+      "states_uts": "Telangana",
+      "crime_head": "5.4 - Stalking",
+      "_2014": "426"
+    },
+    {
+      "states_uts": "Telangana",
+      "crime_head": "5.5 - Others",
+      "_2014": "1921"
+    },
+    {
+      "states_uts": "Telangana",
+      "crime_head": "6 - Insult to the Modesty of Women_Total (Section 509 IPC)",
+      "_2014": "1142"
+    },
+    {
+      "states_uts": "Telangana",
+      "crime_head": "6.1 - At Office premises",
+      "_2014": "5"
+    },
+    {
+      "states_uts": "Telangana",
+      "crime_head": "6.2 - Other places related to work",
+      "_2014": "43"
+    },
+    {
+      "states_uts": "Telangana",
+      "crime_head": "6.3 - In Public Transport system",
+      "_2014": "3"
+    },
+    {
+      "states_uts": "Telangana",
+      "crime_head": "6.4 - in Other Places",
+      "_2014": "1091"
+    },
+    {
+      "states_uts": "Telangana",
+      "crime_head": "7 - Cruelty by Husband or his Relatives (Section 498A)",
+      "_2014": "6369"
+    },
+    {
+      "states_uts": "Telangana",
+      "crime_head": "8 - Importation of Girls from Foreign Country (Section 366B IPC)",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Telangana",
+      "crime_head": "9 - Abetment of Suicides of Women u/s 306 IPC",
+      "_2014": "627"
+    },
+    {
+      "states_uts": "Telangana",
+      "crime_head": "10 - Dowry Prohibition Act, 1961",
+      "_2014": "563"
+    },
+    {
+      "states_uts": "Telangana",
+      "crime_head": "11 - Indecent Representation of Women (Prohibition) Act, 1986",
+      "_2014": "2"
+    },
+    {
+      "states_uts": "Telangana",
+      "crime_head": "12 - Commission of Sati Prevention Act 1987",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Telangana",
+      "crime_head": "13 - Protection of Women from Domestic Violence Act, 2005",
+      "_2014": "1"
+    },
+    {
+      "states_uts": "Telangana",
+      "crime_head": "14 - Immoral Traffic (Prevention) Act (Women Cases only)",
+      "_2014": "192"
+    },
+    {
+      "states_uts": "Telangana",
+      "crime_head": "14.1 - Under ITP Section 5",
+      "_2014": "82"
+    },
+    {
+      "states_uts": "Telangana",
+      "crime_head": "14.2 - Under ITP Section 6",
+      "_2014": "29"
+    },
+    {
+      "states_uts": "Telangana",
+      "crime_head": "14.3 - Under ITP Section 7",
+      "_2014": "8"
+    },
+    {
+      "states_uts": "Telangana",
+      "crime_head": "14.4 - Under ITP Section 8",
+      "_2014": "0"
+    },
+    {
+      "states_uts": "Telangana",
+      "crime_head": "14.5 - Other Sections under ITP Act",
+      "_2014": "73"
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "index_name": "11983bd3-d25f-46bc-8b5e-ee215fd6adf4",
+  "title": "Gram Panchayat-wise Rural Sanitation Coverage in Dadra And Nagar Haveli District of Dadra and Nagar Haveli as on date",
+  "desc": "Gram Panchayat-wise Rural Sanitation Coverage in Dadra And Nagar Haveli District of Dadra and Nagar Haveli as on date",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Jal Shakti",
+    "Department of Drinking Water and Sanitation"
+  ],
+  "sector": [
+    "Water and Sanitation"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1688360374,
+  "updated": 1688364935,
+  "created_date": "2023-07-03T06:59:34Z",
+  "updated_date": "2023-07-03T11:45:35Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "sbm",
+    "type": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+    "field": "11983bd3-d25f-46bc-8b5e-ee215fd6adf4"
+  },
+  "field": [
+    {
+      "id": "statename",
+      "name": "StateName",
+      "type": "keyword"
+    },
+    {
+      "id": "districtname",
+      "name": "DistrictName",
+      "type": "keyword"
+    },
+    {
+      "id": "blockname",
+      "name": "BlockName",
+      "type": "keyword"
+    },
+    {
+      "id": "grampanchayatname",
+      "name": "GramPanchayatName",
+      "type": "keyword"
+    },
+    {
+      "id": "ihhltotalasperdetails",
+      "name": "IHHLTotalAsPerDetails",
+      "type": "double"
+    },
+    {
+      "id": "ihhltotalach",
+      "name": "IHHLTotalAch",
+      "type": "double"
+    },
+    {
+      "id": "date",
+      "name": "Date",
+      "type": "keyword"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 20,
+  "count": 20,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "statename": "D & N Haveli",
+      "districtname": "DADRA AND NAGAR HAVELI",
+      "blockname": "Dadra Nagar Haveli",
+      "grampanchayatname": "AMBOLI",
+      "ihhltotalasperdetails": 1921,
+      "ihhltotalach": 1921,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "D & N Haveli",
+      "districtname": "DADRA AND NAGAR HAVELI",
+      "blockname": "Dadra Nagar Haveli",
+      "grampanchayatname": "DADRA",
+      "ihhltotalasperdetails": 1076,
+      "ihhltotalach": 1076,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "D & N Haveli",
+      "districtname": "DADRA AND NAGAR HAVELI",
+      "blockname": "Dadra Nagar Haveli",
+      "grampanchayatname": "DAPADA",
+      "ihhltotalasperdetails": 3174,
+      "ihhltotalach": 3174,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "D & N Haveli",
+      "districtname": "DADRA AND NAGAR HAVELI",
+      "blockname": "Dadra Nagar Haveli",
+      "grampanchayatname": "DUDHANI",
+      "ihhltotalasperdetails": 2301,
+      "ihhltotalach": 2301,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "D & N Haveli",
+      "districtname": "DADRA AND NAGAR HAVELI",
+      "blockname": "Dadra Nagar Haveli",
+      "grampanchayatname": "GALONDA",
+      "ihhltotalasperdetails": 1957,
+      "ihhltotalach": 1957,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "D & N Haveli",
+      "districtname": "DADRA AND NAGAR HAVELI",
+      "blockname": "Dadra Nagar Haveli",
+      "grampanchayatname": "KAUNCHA",
+      "ihhltotalasperdetails": 1491,
+      "ihhltotalach": 1491,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "D & N Haveli",
+      "districtname": "DADRA AND NAGAR HAVELI",
+      "blockname": "Dadra Nagar Haveli",
+      "grampanchayatname": "KHANVEL",
+      "ihhltotalasperdetails": 2479,
+      "ihhltotalach": 2479,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "D & N Haveli",
+      "districtname": "DADRA AND NAGAR HAVELI",
+      "blockname": "Dadra Nagar Haveli",
+      "grampanchayatname": "KHARADPADA",
+      "ihhltotalasperdetails": 2338,
+      "ihhltotalach": 2338,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "D & N Haveli",
+      "districtname": "DADRA AND NAGAR HAVELI",
+      "blockname": "Dadra Nagar Haveli",
+      "grampanchayatname": "KHERDI",
+      "ihhltotalasperdetails": 1841,
+      "ihhltotalach": 1841,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "D & N Haveli",
+      "districtname": "DADRA AND NAGAR HAVELI",
+      "blockname": "Dadra Nagar Haveli",
+      "grampanchayatname": "KILVANI",
+      "ihhltotalasperdetails": 1246,
+      "ihhltotalach": 1246,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "D & N Haveli",
+      "districtname": "DADRA AND NAGAR HAVELI",
+      "blockname": "Dadra Nagar Haveli",
+      "grampanchayatname": "MANDONI",
+      "ihhltotalasperdetails": 1790,
+      "ihhltotalach": 1790,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "D & N Haveli",
+      "districtname": "DADRA AND NAGAR HAVELI",
+      "blockname": "Dadra Nagar Haveli",
+      "grampanchayatname": "MASAT",
+      "ihhltotalasperdetails": 650,
+      "ihhltotalach": 650,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "D & N Haveli",
+      "districtname": "DADRA AND NAGAR HAVELI",
+      "blockname": "Dadra Nagar Haveli",
+      "grampanchayatname": "NAROLI",
+      "ihhltotalasperdetails": 1252,
+      "ihhltotalach": 1252,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "D & N Haveli",
+      "districtname": "DADRA AND NAGAR HAVELI",
+      "blockname": "Dadra Nagar Haveli",
+      "grampanchayatname": "RAKHOLI",
+      "ihhltotalasperdetails": 1236,
+      "ihhltotalach": 1236,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "D & N Haveli",
+      "districtname": "DADRA AND NAGAR HAVELI",
+      "blockname": "Dadra Nagar Haveli",
+      "grampanchayatname": "RANDHA",
+      "ihhltotalasperdetails": 1192,
+      "ihhltotalach": 1192,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "D & N Haveli",
+      "districtname": "DADRA AND NAGAR HAVELI",
+      "blockname": "Dadra Nagar Haveli",
+      "grampanchayatname": "RUDANA",
+      "ihhltotalasperdetails": 1793,
+      "ihhltotalach": 1793,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "D & N Haveli",
+      "districtname": "DADRA AND NAGAR HAVELI",
+      "blockname": "Dadra Nagar Haveli",
+      "grampanchayatname": "SAMARVANI",
+      "ihhltotalasperdetails": 256,
+      "ihhltotalach": 256,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "D & N Haveli",
+      "districtname": "DADRA AND NAGAR HAVELI",
+      "blockname": "Dadra Nagar Haveli",
+      "grampanchayatname": "SAYLI",
+      "ihhltotalasperdetails": 1613,
+      "ihhltotalach": 1613,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "D & N Haveli",
+      "districtname": "DADRA AND NAGAR HAVELI",
+      "blockname": "Dadra Nagar Haveli",
+      "grampanchayatname": "SINDONI",
+      "ihhltotalasperdetails": 2240,
+      "ihhltotalach": 2240,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "D & N Haveli",
+      "districtname": "DADRA AND NAGAR HAVELI",
+      "blockname": "Dadra Nagar Haveli",
+      "grampanchayatname": "SURANGI",
+      "ihhltotalasperdetails": 1478,
+      "ihhltotalach": 1478,
+      "date": "5/19/2020 12:00:00 AM"
+    }
+  ]
+}

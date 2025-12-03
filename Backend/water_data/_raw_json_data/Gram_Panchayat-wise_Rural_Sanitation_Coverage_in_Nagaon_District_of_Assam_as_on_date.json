@@ -1,0 +1,1613 @@
+{
+  "index_name": "02641dbc-3c6f-42cd-ad1d-81d5423c7d22",
+  "title": "Gram Panchayat-wise Rural Sanitation Coverage in Nagaon District of Assam as on date",
+  "desc": "Gram Panchayat-wise Rural Sanitation Coverage in Nagaon District of Assam as on date",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Jal Shakti",
+    "Department of Drinking Water and Sanitation"
+  ],
+  "sector": [
+    "Water and Sanitation"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1688360230,
+  "updated": 1688364896,
+  "created_date": "2023-07-03T06:57:10Z",
+  "updated_date": "2023-07-03T11:44:56Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "sbm",
+    "type": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+    "field": "02641dbc-3c6f-42cd-ad1d-81d5423c7d22"
+  },
+  "field": [
+    {
+      "id": "statename",
+      "name": "StateName",
+      "type": "keyword"
+    },
+    {
+      "id": "districtname",
+      "name": "DistrictName",
+      "type": "keyword"
+    },
+    {
+      "id": "blockname",
+      "name": "BlockName",
+      "type": "keyword"
+    },
+    {
+      "id": "grampanchayatname",
+      "name": "GramPanchayatName",
+      "type": "keyword"
+    },
+    {
+      "id": "ihhltotalasperdetails",
+      "name": "IHHLTotalAsPerDetails",
+      "type": "double"
+    },
+    {
+      "id": "ihhltotalach",
+      "name": "IHHLTotalAch",
+      "type": "double"
+    },
+    {
+      "id": "date",
+      "name": "Date",
+      "type": "keyword"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 171,
+  "count": 171,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "BAJIAGAON",
+      "grampanchayatname": "AMLAKHI",
+      "ihhltotalasperdetails": 1138,
+      "ihhltotalach": 1138,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "BAJIAGAON",
+      "grampanchayatname": "BAJIAGAON",
+      "ihhltotalasperdetails": 2429,
+      "ihhltotalach": 2429,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "BAJIAGAON",
+      "grampanchayatname": "KANUWAMARI",
+      "ihhltotalasperdetails": 2284,
+      "ihhltotalach": 2284,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "BAJIAGAON",
+      "grampanchayatname": "KHATOWAL",
+      "ihhltotalasperdetails": 1668,
+      "ihhltotalach": 1668,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "BAJIAGAON",
+      "grampanchayatname": "KUHUMTOLI",
+      "ihhltotalasperdetails": 489,
+      "ihhltotalach": 489,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "BAJIAGAON",
+      "grampanchayatname": "MOWAMARI",
+      "ihhltotalasperdetails": 1162,
+      "ihhltotalach": 1162,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "BAJIAGAON",
+      "grampanchayatname": "NIZ BHELEUGURI",
+      "ihhltotalasperdetails": 1346,
+      "ihhltotalach": 1346,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "BAJIAGAON",
+      "grampanchayatname": "NIZ BHORAGURI",
+      "ihhltotalasperdetails": 1420,
+      "ihhltotalach": 1420,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "BAJIAGAON",
+      "grampanchayatname": "RANGAGARA",
+      "ihhltotalasperdetails": 1233,
+      "ihhltotalach": 1233,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "BAJIAGAON",
+      "grampanchayatname": "SAMAGURI",
+      "ihhltotalasperdetails": 1042,
+      "ihhltotalach": 1042,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "BAJIAGAON",
+      "grampanchayatname": "SUTARGAON",
+      "ihhltotalasperdetails": 847,
+      "ihhltotalach": 847,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "BAJIAGAON",
+      "grampanchayatname": "UDMARI",
+      "ihhltotalasperdetails": 1705,
+      "ihhltotalach": 1705,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "BARHAMPUR",
+      "grampanchayatname": "BALIJURI",
+      "ihhltotalasperdetails": 1364,
+      "ihhltotalach": 1364,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "BARHAMPUR",
+      "grampanchayatname": "BAMUNIGAON",
+      "ihhltotalasperdetails": 1180,
+      "ihhltotalach": 1180,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "BARHAMPUR",
+      "grampanchayatname": "BARBARI",
+      "ihhltotalasperdetails": 643,
+      "ihhltotalach": 643,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "BARHAMPUR",
+      "grampanchayatname": "BARHAMPUR",
+      "ihhltotalasperdetails": 682,
+      "ihhltotalach": 682,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "BARHAMPUR",
+      "grampanchayatname": "CHAPANALA",
+      "ihhltotalasperdetails": 1567,
+      "ihhltotalach": 1567,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "BARHAMPUR",
+      "grampanchayatname": "HALOWAGAON",
+      "ihhltotalasperdetails": 1209,
+      "ihhltotalach": 1209,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "BARHAMPUR",
+      "grampanchayatname": "KATONIGAON",
+      "ihhltotalasperdetails": 865,
+      "ihhltotalach": 865,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "BARHAMPUR",
+      "grampanchayatname": "NIZ CHALCHALI",
+      "ihhltotalasperdetails": 1769,
+      "ihhltotalach": 1769,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "BARHAMPUR",
+      "grampanchayatname": "PURANIGUDAM",
+      "ihhltotalasperdetails": 1232,
+      "ihhltotalach": 1232,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "BARHAMPUR",
+      "grampanchayatname": "SUTARGAON",
+      "ihhltotalasperdetails": 805,
+      "ihhltotalach": 805,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "BARHAMPUR",
+      "grampanchayatname": "URIAGAON",
+      "ihhltotalasperdetails": 830,
+      "ihhltotalach": 830,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "BATADRABA (PART)",
+      "grampanchayatname": "AMLAKHI",
+      "ihhltotalasperdetails": 1755,
+      "ihhltotalach": 1755,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "BATADRABA (PART)",
+      "grampanchayatname": "BATADRABA",
+      "ihhltotalasperdetails": 1034,
+      "ihhltotalach": 1034,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "BATADRABA (PART)",
+      "grampanchayatname": "BHOMORAGURI",
+      "ihhltotalasperdetails": 1103,
+      "ihhltotalach": 1103,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "BATADRABA (PART)",
+      "grampanchayatname": "BILOTIA",
+      "ihhltotalasperdetails": 1850,
+      "ihhltotalach": 1850,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "BATADRABA (PART)",
+      "grampanchayatname": "DHANIA BHETI",
+      "ihhltotalasperdetails": 2038,
+      "ihhltotalach": 2038,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "BATADRABA (PART)",
+      "grampanchayatname": "DHUPAGURI",
+      "ihhltotalasperdetails": 1382,
+      "ihhltotalach": 1382,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "BATADRABA (PART)",
+      "grampanchayatname": "KADAMONI",
+      "ihhltotalasperdetails": 977,
+      "ihhltotalach": 977,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "BATADRABA (PART)",
+      "grampanchayatname": "KANDHULIMARI",
+      "ihhltotalasperdetails": 304,
+      "ihhltotalach": 304,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "BATADRABA (PART)",
+      "grampanchayatname": "KATAHGURI",
+      "ihhltotalasperdetails": 1620,
+      "ihhltotalach": 1620,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "BATADRABA (PART)",
+      "grampanchayatname": "RAMPUR SATRA",
+      "ihhltotalasperdetails": 1363,
+      "ihhltotalach": 1363,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "BATADRABA (PART)",
+      "grampanchayatname": "SAHARIA",
+      "ihhltotalasperdetails": 1587,
+      "ihhltotalach": 1587,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "BATADRABA (PART)",
+      "grampanchayatname": "SOLOGURI",
+      "ihhltotalasperdetails": 1500,
+      "ihhltotalach": 1500,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "BATADRABA (PART)",
+      "grampanchayatname": "TUKTUKI",
+      "ihhltotalasperdetails": 1859,
+      "ihhltotalach": 1859,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "BATADRABA (PART)",
+      "grampanchayatname": "UPAR DUMDUMIA",
+      "ihhltotalasperdetails": 1205,
+      "ihhltotalach": 1205,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "DULONGGHAT (PART)",
+      "grampanchayatname": "AIBHETI",
+      "ihhltotalasperdetails": 1062,
+      "ihhltotalach": 1062,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "DULONGGHAT (PART)",
+      "grampanchayatname": "HATIJUJUWA",
+      "ihhltotalasperdetails": 1078,
+      "ihhltotalach": 1078,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "DULONGGHAT (PART)",
+      "grampanchayatname": "JAMUGURI",
+      "ihhltotalasperdetails": 744,
+      "ihhltotalach": 744,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "DULONGGHAT (PART)",
+      "grampanchayatname": "KAKAMARI",
+      "ihhltotalasperdetails": 1636,
+      "ihhltotalach": 1636,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "DULONGGHAT (PART)",
+      "grampanchayatname": "MAJ JAJORI",
+      "ihhltotalasperdetails": 1229,
+      "ihhltotalach": 1229,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "DULONGGHAT (PART)",
+      "grampanchayatname": "NIZ HATICHUNG",
+      "ihhltotalasperdetails": 1000,
+      "ihhltotalach": 1000,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "DULONGGHAT (PART)",
+      "grampanchayatname": "RAIDONGIA",
+      "ihhltotalasperdetails": 1111,
+      "ihhltotalach": 1111,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "JURIA",
+      "grampanchayatname": "ALITANGANI JAMUGURI",
+      "ihhltotalasperdetails": 2096,
+      "ihhltotalach": 2096,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "JURIA",
+      "grampanchayatname": "BAGARIGURI",
+      "ihhltotalasperdetails": 1884,
+      "ihhltotalach": 1884,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "JURIA",
+      "grampanchayatname": "BALIKATIA",
+      "ihhltotalasperdetails": 1919,
+      "ihhltotalach": 1919,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "JURIA",
+      "grampanchayatname": "BARALIMARI FURHANIATI",
+      "ihhltotalasperdetails": 2644,
+      "ihhltotalach": 2644,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "JURIA",
+      "grampanchayatname": "CHATIAN",
+      "ihhltotalasperdetails": 3688,
+      "ihhltotalach": 3688,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "JURIA",
+      "grampanchayatname": "DA-GAON DHING GAON",
+      "ihhltotalasperdetails": 1809,
+      "ihhltotalach": 1809,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "JURIA",
+      "grampanchayatname": "DHINGBORI CHAPARI",
+      "ihhltotalasperdetails": 2277,
+      "ihhltotalach": 2277,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "JURIA",
+      "grampanchayatname": "GADAIMARI",
+      "ihhltotalasperdetails": 1458,
+      "ihhltotalach": 1458,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "JURIA",
+      "grampanchayatname": "JARAMARI LANGIA",
+      "ihhltotalasperdetails": 2113,
+      "ihhltotalach": 2113,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "JURIA",
+      "grampanchayatname": "JENGANI KALADUBA",
+      "ihhltotalasperdetails": 1701,
+      "ihhltotalach": 1701,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "JURIA",
+      "grampanchayatname": "JURIA",
+      "ihhltotalasperdetails": 2646,
+      "ihhltotalach": 2646,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "JURIA",
+      "grampanchayatname": "KACHARIGAON",
+      "ihhltotalasperdetails": 2414,
+      "ihhltotalach": 2414,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "JURIA",
+      "grampanchayatname": "KANDHULIMARI PARAMAIBHETI",
+      "ihhltotalasperdetails": 2108,
+      "ihhltotalach": 2108,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "JURIA",
+      "grampanchayatname": "MAHGURI",
+      "ihhltotalasperdetails": 2874,
+      "ihhltotalach": 2874,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "JURIA",
+      "grampanchayatname": "MEHERIPAR",
+      "ihhltotalasperdetails": 2550,
+      "ihhltotalach": 2550,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "JURIA",
+      "grampanchayatname": "MELEKA DHING MUKUNDA ATI",
+      "ihhltotalasperdetails": 2059,
+      "ihhltotalach": 2059,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "JURIA",
+      "grampanchayatname": "PATIA CHAPARI ROWMARI",
+      "ihhltotalasperdetails": 1470,
+      "ihhltotalach": 1470,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "JURIA",
+      "grampanchayatname": "SINGIA",
+      "ihhltotalasperdetails": 1298,
+      "ihhltotalach": 1298,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "JURIA",
+      "grampanchayatname": "SONAIBERA SIMALUTALI",
+      "ihhltotalasperdetails": 1706,
+      "ihhltotalach": 1706,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "JURIA",
+      "grampanchayatname": "SUTIRPAR",
+      "ihhltotalasperdetails": 1871,
+      "ihhltotalach": 1871,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "JURIA",
+      "grampanchayatname": "TELIA BEBEJIA",
+      "ihhltotalasperdetails": 1304,
+      "ihhltotalach": 1304,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "JURIA",
+      "grampanchayatname": "TINSUKIA",
+      "ihhltotalasperdetails": 3397,
+      "ihhltotalach": 3397,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "KALIABOR",
+      "grampanchayatname": "AMGURI",
+      "ihhltotalasperdetails": 883,
+      "ihhltotalach": 883,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "KALIABOR",
+      "grampanchayatname": "CHIKONI BARHOLA",
+      "ihhltotalasperdetails": 1409,
+      "ihhltotalach": 1409,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "KALIABOR",
+      "grampanchayatname": "HATBOR",
+      "ihhltotalasperdetails": 2367,
+      "ihhltotalach": 2367,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "KALIABOR",
+      "grampanchayatname": "JAKHALABANDHA",
+      "ihhltotalasperdetails": 782,
+      "ihhltotalach": 782,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "KALIABOR",
+      "grampanchayatname": "KUTHORI",
+      "ihhltotalasperdetails": 960,
+      "ihhltotalach": 960,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "KALIABOR",
+      "grampanchayatname": "KUWARITOL",
+      "ihhltotalasperdetails": 1668,
+      "ihhltotalach": 1668,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "KALIABOR",
+      "grampanchayatname": "MAJ PUBTHORIA",
+      "ihhltotalasperdetails": 2340,
+      "ihhltotalach": 2340,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "KALIABOR",
+      "grampanchayatname": "PUB PUBTHORIA",
+      "ihhltotalasperdetails": 1353,
+      "ihhltotalach": 1353,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "KALIABOR",
+      "grampanchayatname": "UTTAR PASCHIM PUBTHORIA",
+      "ihhltotalasperdetails": 1137,
+      "ihhltotalach": 1137,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "KALIABOR",
+      "grampanchayatname": "UTTAR PUBTHORIA",
+      "ihhltotalasperdetails": 1249,
+      "ihhltotalach": 1249,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "KAPILI (PART)",
+      "grampanchayatname": "BARPUJIA",
+      "ihhltotalasperdetails": 1306,
+      "ihhltotalach": 1306,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "KAPILI (PART)",
+      "grampanchayatname": "JARABARI",
+      "ihhltotalasperdetails": 847,
+      "ihhltotalach": 847,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "KAPILI (PART)",
+      "grampanchayatname": "MANIPURTUP",
+      "ihhltotalasperdetails": 3266,
+      "ihhltotalach": 3266,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "KATHIATOLI",
+      "grampanchayatname": "BAKULGURI",
+      "ihhltotalasperdetails": 2406,
+      "ihhltotalach": 2406,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "KATHIATOLI",
+      "grampanchayatname": "BARPATHAR",
+      "ihhltotalasperdetails": 1745,
+      "ihhltotalach": 1745,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "KATHIATOLI",
+      "grampanchayatname": "CHANKHOLA",
+      "ihhltotalasperdetails": 2723,
+      "ihhltotalach": 2723,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "KATHIATOLI",
+      "grampanchayatname": "CHENGCHAKI",
+      "ihhltotalasperdetails": 765,
+      "ihhltotalach": 765,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "KATHIATOLI",
+      "grampanchayatname": "DAKHIN NANOI",
+      "ihhltotalasperdetails": 662,
+      "ihhltotalach": 662,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "KATHIATOLI",
+      "grampanchayatname": "DEB NARIKALI",
+      "ihhltotalasperdetails": 1583,
+      "ihhltotalach": 1583,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "KATHIATOLI",
+      "grampanchayatname": "GARJAIPAM",
+      "ihhltotalasperdetails": 3129,
+      "ihhltotalach": 3129,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "KATHIATOLI",
+      "grampanchayatname": "GARUKHUNDA",
+      "ihhltotalasperdetails": 655,
+      "ihhltotalach": 655,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "KATHIATOLI",
+      "grampanchayatname": "JURIPAR",
+      "ihhltotalasperdetails": 2702,
+      "ihhltotalach": 2702,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "KATHIATOLI",
+      "grampanchayatname": "KACHUWA",
+      "ihhltotalasperdetails": 2396,
+      "ihhltotalach": 2396,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "KATHIATOLI",
+      "grampanchayatname": "KONDOLI",
+      "ihhltotalasperdetails": 1937,
+      "ihhltotalach": 1937,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "KATHIATOLI",
+      "grampanchayatname": "LONGJAP",
+      "ihhltotalasperdetails": 2262,
+      "ihhltotalach": 2262,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "KATHIATOLI",
+      "grampanchayatname": "MADHAPARA",
+      "ihhltotalasperdetails": 2193,
+      "ihhltotalach": 2193,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "KATHIATOLI",
+      "grampanchayatname": "NAMBOR LALUNG-GAON",
+      "ihhltotalasperdetails": 2650,
+      "ihhltotalach": 2650,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "KATHIATOLI",
+      "grampanchayatname": "NIZ KAMPUR",
+      "ihhltotalasperdetails": 1088,
+      "ihhltotalach": 1088,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "KATHIATOLI",
+      "grampanchayatname": "NIZ KATHIATOLI",
+      "ihhltotalasperdetails": 2179,
+      "ihhltotalach": 2179,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "KATHIATOLI",
+      "grampanchayatname": "RANGALU",
+      "ihhltotalasperdetails": 2899,
+      "ihhltotalach": 2899,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "KATHIATOLI",
+      "grampanchayatname": "SINGIMARI",
+      "ihhltotalasperdetails": 1803,
+      "ihhltotalach": 1803,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "KATHIATOLI",
+      "grampanchayatname": "TETELISORA",
+      "ihhltotalasperdetails": 929,
+      "ihhltotalach": 929,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "KHAGARIJAN",
+      "grampanchayatname": "BEBEJIA DIMOW BANGTHAI",
+      "ihhltotalasperdetails": 1330,
+      "ihhltotalach": 1330,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "KHAGARIJAN",
+      "grampanchayatname": "BHAKATGAON",
+      "ihhltotalasperdetails": 2868,
+      "ihhltotalach": 2868,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "KHAGARIJAN",
+      "grampanchayatname": "BORBHETI",
+      "ihhltotalasperdetails": 1544,
+      "ihhltotalach": 1544,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "KHAGARIJAN",
+      "grampanchayatname": "DIMARUGURI",
+      "ihhltotalasperdetails": 1860,
+      "ihhltotalach": 1860,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "KHAGARIJAN",
+      "grampanchayatname": "DIPHALU",
+      "ihhltotalasperdetails": 1840,
+      "ihhltotalach": 1840,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "KHAGARIJAN",
+      "grampanchayatname": "HERAPATTY",
+      "ihhltotalasperdetails": 2537,
+      "ihhltotalach": 2537,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "KHAGARIJAN",
+      "grampanchayatname": "KACHAMARI",
+      "ihhltotalasperdetails": 698,
+      "ihhltotalach": 698,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "KHAGARIJAN",
+      "grampanchayatname": "LAWGAON",
+      "ihhltotalasperdetails": 1480,
+      "ihhltotalach": 1480,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "KHAGARIJAN",
+      "grampanchayatname": "RANGAGARH HUZ",
+      "ihhltotalasperdetails": 812,
+      "ihhltotalach": 812,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "KHAGARIJAN",
+      "grampanchayatname": "SENCHOWA",
+      "ihhltotalasperdetails": 802,
+      "ihhltotalach": 802,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "LAO-KHOWA",
+      "grampanchayatname": "AMBAGAN",
+      "ihhltotalasperdetails": 938,
+      "ihhltotalach": 938,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "LAO-KHOWA",
+      "grampanchayatname": "BHATIAKHALI",
+      "ihhltotalasperdetails": 1971,
+      "ihhltotalach": 1971,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "LAO-KHOWA",
+      "grampanchayatname": "BHURBANDHA",
+      "ihhltotalasperdetails": 4044,
+      "ihhltotalach": 4044,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "LAO-KHOWA",
+      "grampanchayatname": "KATHPARA",
+      "ihhltotalasperdetails": 1141,
+      "ihhltotalach": 1141,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "LAO-KHOWA",
+      "grampanchayatname": "KAWAIMARI",
+      "ihhltotalasperdetails": 1357,
+      "ihhltotalach": 1357,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "LAO-KHOWA",
+      "grampanchayatname": "LAILURI",
+      "ihhltotalasperdetails": 1109,
+      "ihhltotalach": 1109,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "LAO-KHOWA",
+      "grampanchayatname": "LAOKHOWA",
+      "ihhltotalasperdetails": 1286,
+      "ihhltotalach": 1286,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "LAO-KHOWA",
+      "grampanchayatname": "MAGURMARI",
+      "ihhltotalasperdetails": 1328,
+      "ihhltotalach": 1328,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "LAO-KHOWA",
+      "grampanchayatname": "SALPARA",
+      "ihhltotalasperdetails": 1556,
+      "ihhltotalach": 1556,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "LAO-KHOWA",
+      "grampanchayatname": "SINGIMARI",
+      "ihhltotalasperdetails": 2078,
+      "ihhltotalach": 2078,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "LAO-KHOWA",
+      "grampanchayatname": "TUBUKI JARANI",
+      "ihhltotalasperdetails": 1635,
+      "ihhltotalach": 1635,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "MAIRABARI (PART)",
+      "grampanchayatname": "BECHAMARI",
+      "ihhltotalasperdetails": 1771,
+      "ihhltotalach": 1771,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "MAIRABARI (PART)",
+      "grampanchayatname": "BORBHETI",
+      "ihhltotalasperdetails": 2388,
+      "ihhltotalach": 2388,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "MAIRABARI (PART)",
+      "grampanchayatname": "LAHKAR GAON",
+      "ihhltotalasperdetails": 1668,
+      "ihhltotalach": 1668,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "MAIRABARI (PART)",
+      "grampanchayatname": "LALIPATHAR",
+      "ihhltotalasperdetails": 2165,
+      "ihhltotalach": 2165,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "MAIRABARI (PART)",
+      "grampanchayatname": "MOIRADHAJ",
+      "ihhltotalasperdetails": 1755,
+      "ihhltotalach": 1755,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "MAIRABARI (PART)",
+      "grampanchayatname": "NIZ DHING",
+      "ihhltotalasperdetails": 1558,
+      "ihhltotalach": 1558,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "PACHIM-KALIABOR",
+      "grampanchayatname": "ANJUKPANI",
+      "ihhltotalasperdetails": 1254,
+      "ihhltotalach": 1254,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "PACHIM-KALIABOR",
+      "grampanchayatname": "BORGHULI",
+      "ihhltotalasperdetails": 1590,
+      "ihhltotalach": 1590,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "PACHIM-KALIABOR",
+      "grampanchayatname": "HATIGAON BAGICHA",
+      "ihhltotalasperdetails": 1015,
+      "ihhltotalach": 1015,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "PACHIM-KALIABOR",
+      "grampanchayatname": "KATHALGURI",
+      "ihhltotalasperdetails": 523,
+      "ihhltotalach": 523,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "PACHIM-KALIABOR",
+      "grampanchayatname": "LAKHANABANDHA",
+      "ihhltotalasperdetails": 1696,
+      "ihhltotalach": 1696,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "PACHIM-KALIABOR",
+      "grampanchayatname": "NIZ BORBHUGIA",
+      "ihhltotalasperdetails": 1216,
+      "ihhltotalach": 1216,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "PACHIM-KALIABOR",
+      "grampanchayatname": "RAHDHALA",
+      "ihhltotalasperdetails": 1230,
+      "ihhltotalach": 1230,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "PACHIM-KALIABOR",
+      "grampanchayatname": "SALNA BAGISA",
+      "ihhltotalasperdetails": 1045,
+      "ihhltotalach": 1045,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "PAKHIMARIA",
+      "grampanchayatname": "BENGENAATI",
+      "ihhltotalasperdetails": 1397,
+      "ihhltotalach": 1397,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "PAKHIMARIA",
+      "grampanchayatname": "BHOTAI PATHORI",
+      "ihhltotalasperdetails": 952,
+      "ihhltotalach": 952,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "PAKHIMARIA",
+      "grampanchayatname": "CHOTO HAIBOR",
+      "ihhltotalasperdetails": 910,
+      "ihhltotalach": 910,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "PAKHIMARIA",
+      "grampanchayatname": "DAKARGHAT",
+      "ihhltotalasperdetails": 910,
+      "ihhltotalach": 910,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "PAKHIMARIA",
+      "grampanchayatname": "DAKHINPAT",
+      "ihhltotalasperdetails": 1284,
+      "ihhltotalach": 1284,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "PAKHIMARIA",
+      "grampanchayatname": "DEODHAR",
+      "ihhltotalasperdetails": 1435,
+      "ihhltotalach": 1435,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "PAKHIMARIA",
+      "grampanchayatname": "PAKHIMORIA",
+      "ihhltotalasperdetails": 878,
+      "ihhltotalach": 878,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "PAKHIMARIA",
+      "grampanchayatname": "TULSHI DEURI",
+      "ihhltotalasperdetails": 1550,
+      "ihhltotalach": 1550,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "RAHA",
+      "grampanchayatname": "AMSOI",
+      "ihhltotalasperdetails": 1788,
+      "ihhltotalach": 1788,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "RAHA",
+      "grampanchayatname": "AMTOLA",
+      "ihhltotalasperdetails": 1851,
+      "ihhltotalach": 1851,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "RAHA",
+      "grampanchayatname": "BAGALAJAN",
+      "ihhltotalasperdetails": 2249,
+      "ihhltotalach": 2249,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "RAHA",
+      "grampanchayatname": "CHAPARMUKH",
+      "ihhltotalasperdetails": 1082,
+      "ihhltotalach": 1082,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "RAHA",
+      "grampanchayatname": "DAKHIN JAGIAL",
+      "ihhltotalasperdetails": 1342,
+      "ihhltotalach": 1342,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "RAHA",
+      "grampanchayatname": "DIGHALDORI",
+      "ihhltotalasperdetails": 1253,
+      "ihhltotalach": 1253,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "RAHA",
+      "grampanchayatname": "DIGHALIATI",
+      "ihhltotalasperdetails": 1304,
+      "ihhltotalach": 1304,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "RAHA",
+      "grampanchayatname": "GHAHI",
+      "ihhltotalasperdetails": 1237,
+      "ihhltotalach": 1237,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "RAHA",
+      "grampanchayatname": "HATBOR",
+      "ihhltotalasperdetails": 1336,
+      "ihhltotalach": 1336,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "RAHA",
+      "grampanchayatname": "KAMARGAON",
+      "ihhltotalasperdetails": 1271,
+      "ihhltotalach": 1271,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "RAHA",
+      "grampanchayatname": "MAGURGAON",
+      "ihhltotalasperdetails": 1881,
+      "ihhltotalach": 1881,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "RAHA",
+      "grampanchayatname": "PHULAGURI",
+      "ihhltotalasperdetails": 914,
+      "ihhltotalach": 914,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "RAHA",
+      "grampanchayatname": "PRAMILA",
+      "ihhltotalasperdetails": 2098,
+      "ihhltotalach": 2098,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "RAHA",
+      "grampanchayatname": "RANTHOLI",
+      "ihhltotalasperdetails": 2740,
+      "ihhltotalach": 2740,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "RAHA",
+      "grampanchayatname": "SAHARI",
+      "ihhltotalasperdetails": 1202,
+      "ihhltotalach": 1202,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "RAHA",
+      "grampanchayatname": "SALMARA",
+      "ihhltotalasperdetails": 752,
+      "ihhltotalach": 752,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "RUPAHI",
+      "grampanchayatname": "BARGHAT",
+      "ihhltotalasperdetails": 2054,
+      "ihhltotalach": 2054,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "RUPAHI",
+      "grampanchayatname": "DAKHIN KHATOWAL",
+      "ihhltotalasperdetails": 2526,
+      "ihhltotalach": 2526,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "RUPAHI",
+      "grampanchayatname": "FAKALI",
+      "ihhltotalasperdetails": 2341,
+      "ihhltotalach": 2341,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "RUPAHI",
+      "grampanchayatname": "FUTALJAN",
+      "ihhltotalasperdetails": 1900,
+      "ihhltotalach": 1900,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "RUPAHI",
+      "grampanchayatname": "GARAJAN",
+      "ihhltotalasperdetails": 1768,
+      "ihhltotalach": 1768,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "RUPAHI",
+      "grampanchayatname": "GATANGA",
+      "ihhltotalasperdetails": 2121,
+      "ihhltotalach": 2121,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "RUPAHI",
+      "grampanchayatname": "GEREKI",
+      "ihhltotalasperdetails": 2194,
+      "ihhltotalach": 2194,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "RUPAHI",
+      "grampanchayatname": "HATIPARA",
+      "ihhltotalasperdetails": 2138,
+      "ihhltotalach": 2138,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "RUPAHI",
+      "grampanchayatname": "HATIPUKHURI",
+      "ihhltotalasperdetails": 1889,
+      "ihhltotalach": 1889,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "RUPAHI",
+      "grampanchayatname": "JEUMARI",
+      "ihhltotalasperdetails": 1775,
+      "ihhltotalach": 1775,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "RUPAHI",
+      "grampanchayatname": "KANCHANPUR",
+      "ihhltotalasperdetails": 1661,
+      "ihhltotalach": 1661,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "RUPAHI",
+      "grampanchayatname": "RUPAHI",
+      "ihhltotalasperdetails": 1061,
+      "ihhltotalach": 1061,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "RUPAHI",
+      "grampanchayatname": "SAIDORIA",
+      "ihhltotalasperdetails": 1822,
+      "ihhltotalach": 1822,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NAGAON",
+      "blockname": "RUPAHI",
+      "grampanchayatname": "UTTAR KHATOWAL",
+      "ihhltotalasperdetails": 1739,
+      "ihhltotalach": 1739,
+      "date": "5/19/2020 12:00:00 AM"
+    }
+  ]
+}

@@ -1,0 +1,2331 @@
+{
+  "created": 1497002034,
+  "updated": 1543524031,
+  "title": "Crime against Women during 2013",
+  "source": "data.gov.in",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Home Affairs",
+    "Department of States",
+    "National Crime Records Bureau (NCRB)"
+  ],
+  "sector": [
+    "Police",
+    "Home Affairs and Enforcement",
+    "Statistics"
+  ],
+  "visualizable": "1",
+  "index_name": "ed286df7-e6bf-4938-8892-188cdeb1e62e",
+  "catalog_uuid": "8d3c4bfe-20d3-47f9-bb5e-85c19fb4e4da",
+  "status": "ok",
+  "field": [
+    {
+      "id": "state_uts",
+      "name": "State/UTs",
+      "type": "keyword"
+    },
+    {
+      "id": "crime_head",
+      "name": "Crime Head",
+      "type": "keyword"
+    },
+    {
+      "id": "_2013",
+      "name": "2013",
+      "type": "double"
+    }
+  ],
+  "created_date": "2017-06-09T09:53:54Z",
+  "updated_date": "2018-11-30T02:10:31Z",
+  "active": "1",
+  "external_ws_url": "",
+  "external_ws": "0",
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "total": 456,
+  "count": 456,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "state_uts": "Andhra Pradesh",
+      "crime_head": "Assault on women with intent to outrage her Modest",
+      "_2013": "6930"
+    },
+    {
+      "state_uts": "Arunachal Pradesh",
+      "crime_head": "Assault on women with intent to outrage her Modest",
+      "_2013": "93"
+    },
+    {
+      "state_uts": "Assam",
+      "crime_head": "Assault on women with intent to outrage her Modest",
+      "_2013": "2409"
+    },
+    {
+      "state_uts": "Bihar",
+      "crime_head": "Assault on women with intent to outrage her Modest",
+      "_2013": "331"
+    },
+    {
+      "state_uts": "Chhattisgarh",
+      "crime_head": "Assault on women with intent to outrage her Modest",
+      "_2013": "2261"
+    },
+    {
+      "state_uts": "Goa",
+      "crime_head": "Assault on women with intent to outrage her Modest",
+      "_2013": "162"
+    },
+    {
+      "state_uts": "Gujarat",
+      "crime_head": "Assault on women with intent to outrage her Modest",
+      "_2013": "1243"
+    },
+    {
+      "state_uts": "Haryana",
+      "crime_head": "Assault on women with intent to outrage her Modest",
+      "_2013": "1560"
+    },
+    {
+      "state_uts": "Himachal Pradesh",
+      "crime_head": "Assault on women with intent to outrage her Modest",
+      "_2013": "493"
+    },
+    {
+      "state_uts": "Jammu & Kashmir",
+      "crime_head": "Assault on women with intent to outrage her Modest",
+      "_2013": "1389"
+    },
+    {
+      "state_uts": "Jharkhand",
+      "crime_head": "Assault on women with intent to outrage her Modest",
+      "_2013": "524"
+    },
+    {
+      "state_uts": "Karnataka",
+      "crime_head": "Assault on women with intent to outrage her Modest",
+      "_2013": "3913"
+    },
+    {
+      "state_uts": "Kerala",
+      "crime_head": "Assault on women with intent to outrage her Modest",
+      "_2013": "4362"
+    },
+    {
+      "state_uts": "Madhya Pradesh",
+      "crime_head": "Assault on women with intent to outrage her Modest",
+      "_2013": "8252"
+    },
+    {
+      "state_uts": "Maharashtra",
+      "crime_head": "Assault on women with intent to outrage her Modest",
+      "_2013": "8132"
+    },
+    {
+      "state_uts": "Manipur",
+      "crime_head": "Assault on women with intent to outrage her Modest",
+      "_2013": "59"
+    },
+    {
+      "state_uts": "Meghalaya",
+      "crime_head": "Assault on women with intent to outrage her Modest",
+      "_2013": "98"
+    },
+    {
+      "state_uts": "Mizoram",
+      "crime_head": "Assault on women with intent to outrage her Modest",
+      "_2013": "81"
+    },
+    {
+      "state_uts": "Nagaland",
+      "crime_head": "Assault on women with intent to outrage her Modest",
+      "_2013": "18"
+    },
+    {
+      "state_uts": "Odisha",
+      "crime_head": "Assault on women with intent to outrage her Modest",
+      "_2013": "4618"
+    },
+    {
+      "state_uts": "Punjab",
+      "crime_head": "Assault on women with intent to outrage her Modest",
+      "_2013": "1045"
+    },
+    {
+      "state_uts": "Rajasthan",
+      "crime_head": "Assault on women with intent to outrage her Modest",
+      "_2013": "4829"
+    },
+    {
+      "state_uts": "Sikkim",
+      "crime_head": "Assault on women with intent to outrage her Modest",
+      "_2013": "29"
+    },
+    {
+      "state_uts": "Tamil Nadu",
+      "crime_head": "Assault on women with intent to outrage her Modest",
+      "_2013": "1271"
+    },
+    {
+      "state_uts": "Tripura",
+      "crime_head": "Assault on women with intent to outrage her Modest",
+      "_2013": "407"
+    },
+    {
+      "state_uts": "Uttar Pradesh",
+      "crime_head": "Assault on women with intent to outrage her Modest",
+      "_2013": "7303"
+    },
+    {
+      "state_uts": "Uttarakhand",
+      "crime_head": "Assault on women with intent to outrage her Modest",
+      "_2013": "295"
+    },
+    {
+      "state_uts": "West Bengal",
+      "crime_head": "Assault on women with intent to outrage her Modest",
+      "_2013": "4913"
+    },
+    {
+      "state_uts": "Total (State)",
+      "crime_head": "Assault on women with intent to outrage her Modest",
+      "_2013": "67020"
+    },
+    {
+      "state_uts": "A&N Islands",
+      "crime_head": "Assault on women with intent to outrage her Modest",
+      "_2013": "45"
+    },
+    {
+      "state_uts": "Chandigarh",
+      "crime_head": "Assault on women with intent to outrage her Modest",
+      "_2013": "143"
+    },
+    {
+      "state_uts": "D&N Haveli",
+      "crime_head": "Assault on women with intent to outrage her Modest",
+      "_2013": "1"
+    },
+    {
+      "state_uts": "Daman & Diu",
+      "crime_head": "Assault on women with intent to outrage her Modest",
+      "_2013": "2"
+    },
+    {
+      "state_uts": "Delhi UT",
+      "crime_head": "Assault on women with intent to outrage her Modest",
+      "_2013": "3515"
+    },
+    {
+      "state_uts": "Lakshadweep",
+      "crime_head": "Assault on women with intent to outrage her Modest",
+      "_2013": "1"
+    },
+    {
+      "state_uts": "Puducherry",
+      "crime_head": "Assault on women with intent to outrage her Modest",
+      "_2013": "12"
+    },
+    {
+      "state_uts": "Total (UTs)",
+      "crime_head": "Assault on women with intent to outrage her Modest",
+      "_2013": "3719"
+    },
+    {
+      "state_uts": "Total (All-India)",
+      "crime_head": "Assault on women with intent to outrage her Modest",
+      "_2013": "70739"
+    },
+    {
+      "state_uts": "Andhra Pradesh",
+      "crime_head": "Commission of Sati (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Arunachal Pradesh",
+      "crime_head": "Commission of Sati (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Assam",
+      "crime_head": "Commission of Sati (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Bihar",
+      "crime_head": "Commission of Sati (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Chhattisgarh",
+      "crime_head": "Commission of Sati (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Goa",
+      "crime_head": "Commission of Sati (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Gujarat",
+      "crime_head": "Commission of Sati (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Haryana",
+      "crime_head": "Commission of Sati (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Himachal Pradesh",
+      "crime_head": "Commission of Sati (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Jammu & Kashmir",
+      "crime_head": "Commission of Sati (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Jharkhand",
+      "crime_head": "Commission of Sati (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Karnataka",
+      "crime_head": "Commission of Sati (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Kerala",
+      "crime_head": "Commission of Sati (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Madhya Pradesh",
+      "crime_head": "Commission of Sati (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Maharashtra",
+      "crime_head": "Commission of Sati (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Manipur",
+      "crime_head": "Commission of Sati (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Meghalaya",
+      "crime_head": "Commission of Sati (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Mizoram",
+      "crime_head": "Commission of Sati (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Nagaland",
+      "crime_head": "Commission of Sati (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Odisha",
+      "crime_head": "Commission of Sati (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Punjab",
+      "crime_head": "Commission of Sati (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Rajasthan",
+      "crime_head": "Commission of Sati (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Sikkim",
+      "crime_head": "Commission of Sati (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Tamil Nadu",
+      "crime_head": "Commission of Sati (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Tripura",
+      "crime_head": "Commission of Sati (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Uttar Pradesh",
+      "crime_head": "Commission of Sati (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Uttarakhand",
+      "crime_head": "Commission of Sati (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "West Bengal",
+      "crime_head": "Commission of Sati (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Total (State)",
+      "crime_head": "Commission of Sati (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "A&N Islands",
+      "crime_head": "Commission of Sati (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Chandigarh",
+      "crime_head": "Commission of Sati (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "D&N Haveli",
+      "crime_head": "Commission of Sati (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Daman & Diu",
+      "crime_head": "Commission of Sati (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Delhi UT",
+      "crime_head": "Commission of Sati (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Lakshadweep",
+      "crime_head": "Commission of Sati (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Puducherry",
+      "crime_head": "Commission of Sati (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Total (UTs)",
+      "crime_head": "Commission of Sati (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Total (All-India)",
+      "crime_head": "Commission of Sati (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Andhra Pradesh",
+      "crime_head": "Cruelty by Husband or his relatives",
+      "_2013": "15084"
+    },
+    {
+      "state_uts": "Arunachal Pradesh",
+      "crime_head": "Cruelty by Husband or his relatives",
+      "_2013": "29"
+    },
+    {
+      "state_uts": "Assam",
+      "crime_head": "Cruelty by Husband or his relatives",
+      "_2013": "8636"
+    },
+    {
+      "state_uts": "Bihar",
+      "crime_head": "Cruelty by Husband or his relatives",
+      "_2013": "4533"
+    },
+    {
+      "state_uts": "Chhattisgarh",
+      "crime_head": "Cruelty by Husband or his relatives",
+      "_2013": "1181"
+    },
+    {
+      "state_uts": "Goa",
+      "crime_head": "Cruelty by Husband or his relatives",
+      "_2013": "40"
+    },
+    {
+      "state_uts": "Gujarat",
+      "crime_head": "Cruelty by Husband or his relatives",
+      "_2013": "7812"
+    },
+    {
+      "state_uts": "Haryana",
+      "crime_head": "Cruelty by Husband or his relatives",
+      "_2013": "3617"
+    },
+    {
+      "state_uts": "Himachal Pradesh",
+      "crime_head": "Cruelty by Husband or his relatives",
+      "_2013": "328"
+    },
+    {
+      "state_uts": "Jammu & Kashmir",
+      "crime_head": "Cruelty by Husband or his relatives",
+      "_2013": "428"
+    },
+    {
+      "state_uts": "Jharkhand",
+      "crime_head": "Cruelty by Husband or his relatives",
+      "_2013": "2084"
+    },
+    {
+      "state_uts": "Karnataka",
+      "crime_head": "Cruelty by Husband or his relatives",
+      "_2013": "3276"
+    },
+    {
+      "state_uts": "Kerala",
+      "crime_head": "Cruelty by Husband or his relatives",
+      "_2013": "4820"
+    },
+    {
+      "state_uts": "Madhya Pradesh",
+      "crime_head": "Cruelty by Husband or his relatives",
+      "_2013": "4988"
+    },
+    {
+      "state_uts": "Maharashtra",
+      "crime_head": "Cruelty by Husband or his relatives",
+      "_2013": "8542"
+    },
+    {
+      "state_uts": "Manipur",
+      "crime_head": "Cruelty by Husband or his relatives",
+      "_2013": "29"
+    },
+    {
+      "state_uts": "Meghalaya",
+      "crime_head": "Cruelty by Husband or his relatives",
+      "_2013": "23"
+    },
+    {
+      "state_uts": "Mizoram",
+      "crime_head": "Cruelty by Husband or his relatives",
+      "_2013": "5"
+    },
+    {
+      "state_uts": "Nagaland",
+      "crime_head": "Cruelty by Husband or his relatives",
+      "_2013": "4"
+    },
+    {
+      "state_uts": "Odisha",
+      "crime_head": "Cruelty by Husband or his relatives",
+      "_2013": "2792"
+    },
+    {
+      "state_uts": "Punjab",
+      "crime_head": "Cruelty by Husband or his relatives",
+      "_2013": "1741"
+    },
+    {
+      "state_uts": "Rajasthan",
+      "crime_head": "Cruelty by Husband or his relatives",
+      "_2013": "15094"
+    },
+    {
+      "state_uts": "Sikkim",
+      "crime_head": "Cruelty by Husband or his relatives",
+      "_2013": "5"
+    },
+    {
+      "state_uts": "Tamil Nadu",
+      "crime_head": "Cruelty by Husband or his relatives",
+      "_2013": "2471"
+    },
+    {
+      "state_uts": "Tripura",
+      "crime_head": "Cruelty by Husband or his relatives",
+      "_2013": "827"
+    },
+    {
+      "state_uts": "Uttar Pradesh",
+      "crime_head": "Cruelty by Husband or his relatives",
+      "_2013": "8781"
+    },
+    {
+      "state_uts": "Uttarakhand",
+      "crime_head": "Cruelty by Husband or his relatives",
+      "_2013": "435"
+    },
+    {
+      "state_uts": "West Bengal",
+      "crime_head": "Cruelty by Husband or his relatives",
+      "_2013": "18116"
+    },
+    {
+      "state_uts": "Total (State)",
+      "crime_head": "Cruelty by Husband or his relatives",
+      "_2013": "115721"
+    },
+    {
+      "state_uts": "A&N Islands",
+      "crime_head": "Cruelty by Husband or his relatives",
+      "_2013": "9"
+    },
+    {
+      "state_uts": "Chandigarh",
+      "crime_head": "Cruelty by Husband or his relatives",
+      "_2013": "92"
+    },
+    {
+      "state_uts": "D&N Haveli",
+      "crime_head": "Cruelty by Husband or his relatives",
+      "_2013": "1"
+    },
+    {
+      "state_uts": "Daman & Diu",
+      "crime_head": "Cruelty by Husband or his relatives",
+      "_2013": "2"
+    },
+    {
+      "state_uts": "Delhi UT",
+      "crime_head": "Cruelty by Husband or his relatives",
+      "_2013": "3033"
+    },
+    {
+      "state_uts": "Lakshadweep",
+      "crime_head": "Cruelty by Husband or his relatives",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Puducherry",
+      "crime_head": "Cruelty by Husband or his relatives",
+      "_2013": "8"
+    },
+    {
+      "state_uts": "Total (UTs)",
+      "crime_head": "Cruelty by Husband or his relatives",
+      "_2013": "3145"
+    },
+    {
+      "state_uts": "Total (All-India)",
+      "crime_head": "Cruelty by Husband or his relatives",
+      "_2013": "118866"
+    },
+    {
+      "state_uts": "Andhra Pradesh",
+      "crime_head": "Dowry Deaths",
+      "_2013": "492"
+    },
+    {
+      "state_uts": "Arunachal Pradesh",
+      "crime_head": "Dowry Deaths",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Assam",
+      "crime_head": "Dowry Deaths",
+      "_2013": "170"
+    },
+    {
+      "state_uts": "Bihar",
+      "crime_head": "Dowry Deaths",
+      "_2013": "1182"
+    },
+    {
+      "state_uts": "Chhattisgarh",
+      "crime_head": "Dowry Deaths",
+      "_2013": "109"
+    },
+    {
+      "state_uts": "Goa",
+      "crime_head": "Dowry Deaths",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Gujarat",
+      "crime_head": "Dowry Deaths",
+      "_2013": "29"
+    },
+    {
+      "state_uts": "Haryana",
+      "crime_head": "Dowry Deaths",
+      "_2013": "263"
+    },
+    {
+      "state_uts": "Himachal Pradesh",
+      "crime_head": "Dowry Deaths",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Jammu & Kashmir",
+      "crime_head": "Dowry Deaths",
+      "_2013": "7"
+    },
+    {
+      "state_uts": "Jharkhand",
+      "crime_head": "Dowry Deaths",
+      "_2013": "307"
+    },
+    {
+      "state_uts": "Karnataka",
+      "crime_head": "Dowry Deaths",
+      "_2013": "277"
+    },
+    {
+      "state_uts": "Kerala",
+      "crime_head": "Dowry Deaths",
+      "_2013": "21"
+    },
+    {
+      "state_uts": "Madhya Pradesh",
+      "crime_head": "Dowry Deaths",
+      "_2013": "776"
+    },
+    {
+      "state_uts": "Maharashtra",
+      "crime_head": "Dowry Deaths",
+      "_2013": "320"
+    },
+    {
+      "state_uts": "Manipur",
+      "crime_head": "Dowry Deaths",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Meghalaya",
+      "crime_head": "Dowry Deaths",
+      "_2013": "2"
+    },
+    {
+      "state_uts": "Mizoram",
+      "crime_head": "Dowry Deaths",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Nagaland",
+      "crime_head": "Dowry Deaths",
+      "_2013": "1"
+    },
+    {
+      "state_uts": "Odisha",
+      "crime_head": "Dowry Deaths",
+      "_2013": "395"
+    },
+    {
+      "state_uts": "Punjab",
+      "crime_head": "Dowry Deaths",
+      "_2013": "126"
+    },
+    {
+      "state_uts": "Rajasthan",
+      "crime_head": "Dowry Deaths",
+      "_2013": "453"
+    },
+    {
+      "state_uts": "Sikkim",
+      "crime_head": "Dowry Deaths",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Tamil Nadu",
+      "crime_head": "Dowry Deaths",
+      "_2013": "118"
+    },
+    {
+      "state_uts": "Tripura",
+      "crime_head": "Dowry Deaths",
+      "_2013": "29"
+    },
+    {
+      "state_uts": "Uttar Pradesh",
+      "crime_head": "Dowry Deaths",
+      "_2013": "2335"
+    },
+    {
+      "state_uts": "Uttarakhand",
+      "crime_head": "Dowry Deaths",
+      "_2013": "43"
+    },
+    {
+      "state_uts": "West Bengal",
+      "crime_head": "Dowry Deaths",
+      "_2013": "481"
+    },
+    {
+      "state_uts": "Total (State)",
+      "crime_head": "Dowry Deaths",
+      "_2013": "7936"
+    },
+    {
+      "state_uts": "A&N Islands",
+      "crime_head": "Dowry Deaths",
+      "_2013": "1"
+    },
+    {
+      "state_uts": "Chandigarh",
+      "crime_head": "Dowry Deaths",
+      "_2013": "1"
+    },
+    {
+      "state_uts": "D&N Haveli",
+      "crime_head": "Dowry Deaths",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Daman & Diu",
+      "crime_head": "Dowry Deaths",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Delhi UT",
+      "crime_head": "Dowry Deaths",
+      "_2013": "144"
+    },
+    {
+      "state_uts": "Lakshadweep",
+      "crime_head": "Dowry Deaths",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Puducherry",
+      "crime_head": "Dowry Deaths",
+      "_2013": "1"
+    },
+    {
+      "state_uts": "Total (UTs)",
+      "crime_head": "Dowry Deaths",
+      "_2013": "147"
+    },
+    {
+      "state_uts": "Total (All-India)",
+      "crime_head": "Dowry Deaths",
+      "_2013": "8083"
+    },
+    {
+      "state_uts": "Andhra Pradesh",
+      "crime_head": "Dowry Prohibition Act",
+      "_2013": "1631"
+    },
+    {
+      "state_uts": "Arunachal Pradesh",
+      "crime_head": "Dowry Prohibition Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Assam",
+      "crime_head": "Dowry Prohibition Act",
+      "_2013": "40"
+    },
+    {
+      "state_uts": "Bihar",
+      "crime_head": "Dowry Prohibition Act",
+      "_2013": "1893"
+    },
+    {
+      "state_uts": "Chhattisgarh",
+      "crime_head": "Dowry Prohibition Act",
+      "_2013": "11"
+    },
+    {
+      "state_uts": "Goa",
+      "crime_head": "Dowry Prohibition Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Gujarat",
+      "crime_head": "Dowry Prohibition Act",
+      "_2013": "84"
+    },
+    {
+      "state_uts": "Haryana",
+      "crime_head": "Dowry Prohibition Act",
+      "_2013": "13"
+    },
+    {
+      "state_uts": "Himachal Pradesh",
+      "crime_head": "Dowry Prohibition Act",
+      "_2013": "2"
+    },
+    {
+      "state_uts": "Jammu & Kashmir",
+      "crime_head": "Dowry Prohibition Act",
+      "_2013": "3"
+    },
+    {
+      "state_uts": "Jharkhand",
+      "crime_head": "Dowry Prohibition Act",
+      "_2013": "1428"
+    },
+    {
+      "state_uts": "Karnataka",
+      "crime_head": "Dowry Prohibition Act",
+      "_2013": "1693"
+    },
+    {
+      "state_uts": "Kerala",
+      "crime_head": "Dowry Prohibition Act",
+      "_2013": "3"
+    },
+    {
+      "state_uts": "Madhya Pradesh",
+      "crime_head": "Dowry Prohibition Act",
+      "_2013": "72"
+    },
+    {
+      "state_uts": "Maharashtra",
+      "crime_head": "Dowry Prohibition Act",
+      "_2013": "43"
+    },
+    {
+      "state_uts": "Manipur",
+      "crime_head": "Dowry Prohibition Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Meghalaya",
+      "crime_head": "Dowry Prohibition Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Mizoram",
+      "crime_head": "Dowry Prohibition Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Nagaland",
+      "crime_head": "Dowry Prohibition Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Odisha",
+      "crime_head": "Dowry Prohibition Act",
+      "_2013": "2014"
+    },
+    {
+      "state_uts": "Punjab",
+      "crime_head": "Dowry Prohibition Act",
+      "_2013": "3"
+    },
+    {
+      "state_uts": "Rajasthan",
+      "crime_head": "Dowry Prohibition Act",
+      "_2013": "57"
+    },
+    {
+      "state_uts": "Sikkim",
+      "crime_head": "Dowry Prohibition Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Tamil Nadu",
+      "crime_head": "Dowry Prohibition Act",
+      "_2013": "305"
+    },
+    {
+      "state_uts": "Tripura",
+      "crime_head": "Dowry Prohibition Act",
+      "_2013": "1"
+    },
+    {
+      "state_uts": "Uttar Pradesh",
+      "crime_head": "Dowry Prohibition Act",
+      "_2013": "1277"
+    },
+    {
+      "state_uts": "Uttarakhand",
+      "crime_head": "Dowry Prohibition Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "West Bengal",
+      "crime_head": "Dowry Prohibition Act",
+      "_2013": "107"
+    },
+    {
+      "state_uts": "Total (State)",
+      "crime_head": "Dowry Prohibition Act",
+      "_2013": "10680"
+    },
+    {
+      "state_uts": "A&N Islands",
+      "crime_head": "Dowry Prohibition Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Chandigarh",
+      "crime_head": "Dowry Prohibition Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "D&N Haveli",
+      "crime_head": "Dowry Prohibition Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Daman & Diu",
+      "crime_head": "Dowry Prohibition Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Delhi UT",
+      "crime_head": "Dowry Prohibition Act",
+      "_2013": "15"
+    },
+    {
+      "state_uts": "Lakshadweep",
+      "crime_head": "Dowry Prohibition Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Puducherry",
+      "crime_head": "Dowry Prohibition Act",
+      "_2013": "14"
+    },
+    {
+      "state_uts": "Total (UTs)",
+      "crime_head": "Dowry Prohibition Act",
+      "_2013": "29"
+    },
+    {
+      "state_uts": "Total (All-India)",
+      "crime_head": "Dowry Prohibition Act",
+      "_2013": "10709"
+    },
+    {
+      "state_uts": "Andhra Pradesh",
+      "crime_head": "Immoral Traffic (P) Act",
+      "_2013": "489"
+    },
+    {
+      "state_uts": "Arunachal Pradesh",
+      "crime_head": "Immoral Traffic (P) Act",
+      "_2013": "2"
+    },
+    {
+      "state_uts": "Assam",
+      "crime_head": "Immoral Traffic (P) Act",
+      "_2013": "18"
+    },
+    {
+      "state_uts": "Bihar",
+      "crime_head": "Immoral Traffic (P) Act",
+      "_2013": "64"
+    },
+    {
+      "state_uts": "Chhattisgarh",
+      "crime_head": "Immoral Traffic (P) Act",
+      "_2013": "8"
+    },
+    {
+      "state_uts": "Goa",
+      "crime_head": "Immoral Traffic (P) Act",
+      "_2013": "28"
+    },
+    {
+      "state_uts": "Gujarat",
+      "crime_head": "Immoral Traffic (P) Act",
+      "_2013": "76"
+    },
+    {
+      "state_uts": "Haryana",
+      "crime_head": "Immoral Traffic (P) Act",
+      "_2013": "63"
+    },
+    {
+      "state_uts": "Himachal Pradesh",
+      "crime_head": "Immoral Traffic (P) Act",
+      "_2013": "4"
+    },
+    {
+      "state_uts": "Jammu & Kashmir",
+      "crime_head": "Immoral Traffic (P) Act",
+      "_2013": "1"
+    },
+    {
+      "state_uts": "Jharkhand",
+      "crime_head": "Immoral Traffic (P) Act",
+      "_2013": "11"
+    },
+    {
+      "state_uts": "Karnataka",
+      "crime_head": "Immoral Traffic (P) Act",
+      "_2013": "340"
+    },
+    {
+      "state_uts": "Kerala",
+      "crime_head": "Immoral Traffic (P) Act",
+      "_2013": "180"
+    },
+    {
+      "state_uts": "Madhya Pradesh",
+      "crime_head": "Immoral Traffic (P) Act",
+      "_2013": "22"
+    },
+    {
+      "state_uts": "Maharashtra",
+      "crime_head": "Immoral Traffic (P) Act",
+      "_2013": "289"
+    },
+    {
+      "state_uts": "Manipur",
+      "crime_head": "Immoral Traffic (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Meghalaya",
+      "crime_head": "Immoral Traffic (P) Act",
+      "_2013": "4"
+    },
+    {
+      "state_uts": "Mizoram",
+      "crime_head": "Immoral Traffic (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Nagaland",
+      "crime_head": "Immoral Traffic (P) Act",
+      "_2013": "1"
+    },
+    {
+      "state_uts": "Odisha",
+      "crime_head": "Immoral Traffic (P) Act",
+      "_2013": "27"
+    },
+    {
+      "state_uts": "Punjab",
+      "crime_head": "Immoral Traffic (P) Act",
+      "_2013": "137"
+    },
+    {
+      "state_uts": "Rajasthan",
+      "crime_head": "Immoral Traffic (P) Act",
+      "_2013": "74"
+    },
+    {
+      "state_uts": "Sikkim",
+      "crime_head": "Immoral Traffic (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Tamil Nadu",
+      "crime_head": "Immoral Traffic (P) Act",
+      "_2013": "549"
+    },
+    {
+      "state_uts": "Tripura",
+      "crime_head": "Immoral Traffic (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Uttar Pradesh",
+      "crime_head": "Immoral Traffic (P) Act",
+      "_2013": "37"
+    },
+    {
+      "state_uts": "Uttarakhand",
+      "crime_head": "Immoral Traffic (P) Act",
+      "_2013": "13"
+    },
+    {
+      "state_uts": "West Bengal",
+      "crime_head": "Immoral Traffic (P) Act",
+      "_2013": "104"
+    },
+    {
+      "state_uts": "Total (State)",
+      "crime_head": "Immoral Traffic (P) Act",
+      "_2013": "2541"
+    },
+    {
+      "state_uts": "A&N Islands",
+      "crime_head": "Immoral Traffic (P) Act",
+      "_2013": "4"
+    },
+    {
+      "state_uts": "Chandigarh",
+      "crime_head": "Immoral Traffic (P) Act",
+      "_2013": "6"
+    },
+    {
+      "state_uts": "D&N Haveli",
+      "crime_head": "Immoral Traffic (P) Act",
+      "_2013": "2"
+    },
+    {
+      "state_uts": "Daman & Diu",
+      "crime_head": "Immoral Traffic (P) Act",
+      "_2013": "6"
+    },
+    {
+      "state_uts": "Delhi UT",
+      "crime_head": "Immoral Traffic (P) Act",
+      "_2013": "20"
+    },
+    {
+      "state_uts": "Lakshadweep",
+      "crime_head": "Immoral Traffic (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Puducherry",
+      "crime_head": "Immoral Traffic (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Total (UTs)",
+      "crime_head": "Immoral Traffic (P) Act",
+      "_2013": "38"
+    },
+    {
+      "state_uts": "Total (All-India)",
+      "crime_head": "Immoral Traffic (P) Act",
+      "_2013": "2579"
+    },
+    {
+      "state_uts": "Andhra Pradesh",
+      "crime_head": "Importation of Girls from Foreign Country",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Arunachal Pradesh",
+      "crime_head": "Importation of Girls from Foreign Country",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Assam",
+      "crime_head": "Importation of Girls from Foreign Country",
+      "_2013": "2"
+    },
+    {
+      "state_uts": "Bihar",
+      "crime_head": "Importation of Girls from Foreign Country",
+      "_2013": "7"
+    },
+    {
+      "state_uts": "Chhattisgarh",
+      "crime_head": "Importation of Girls from Foreign Country",
+      "_2013": "1"
+    },
+    {
+      "state_uts": "Goa",
+      "crime_head": "Importation of Girls from Foreign Country",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Gujarat",
+      "crime_head": "Importation of Girls from Foreign Country",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Haryana",
+      "crime_head": "Importation of Girls from Foreign Country",
+      "_2013": "2"
+    },
+    {
+      "state_uts": "Himachal Pradesh",
+      "crime_head": "Importation of Girls from Foreign Country",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Jammu & Kashmir",
+      "crime_head": "Importation of Girls from Foreign Country",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Jharkhand",
+      "crime_head": "Importation of Girls from Foreign Country",
+      "_2013": "2"
+    },
+    {
+      "state_uts": "Karnataka",
+      "crime_head": "Importation of Girls from Foreign Country",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Kerala",
+      "crime_head": "Importation of Girls from Foreign Country",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Madhya Pradesh",
+      "crime_head": "Importation of Girls from Foreign Country",
+      "_2013": "7"
+    },
+    {
+      "state_uts": "Maharashtra",
+      "crime_head": "Importation of Girls from Foreign Country",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Manipur",
+      "crime_head": "Importation of Girls from Foreign Country",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Meghalaya",
+      "crime_head": "Importation of Girls from Foreign Country",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Mizoram",
+      "crime_head": "Importation of Girls from Foreign Country",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Nagaland",
+      "crime_head": "Importation of Girls from Foreign Country",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Odisha",
+      "crime_head": "Importation of Girls from Foreign Country",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Punjab",
+      "crime_head": "Importation of Girls from Foreign Country",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Rajasthan",
+      "crime_head": "Importation of Girls from Foreign Country",
+      "_2013": "1"
+    },
+    {
+      "state_uts": "Sikkim",
+      "crime_head": "Importation of Girls from Foreign Country",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Tamil Nadu",
+      "crime_head": "Importation of Girls from Foreign Country",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Tripura",
+      "crime_head": "Importation of Girls from Foreign Country",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Uttar Pradesh",
+      "crime_head": "Importation of Girls from Foreign Country",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Uttarakhand",
+      "crime_head": "Importation of Girls from Foreign Country",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "West Bengal",
+      "crime_head": "Importation of Girls from Foreign Country",
+      "_2013": "9"
+    },
+    {
+      "state_uts": "Total (State)",
+      "crime_head": "Importation of Girls from Foreign Country",
+      "_2013": "31"
+    },
+    {
+      "state_uts": "A&N Islands",
+      "crime_head": "Importation of Girls from Foreign Country",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Chandigarh",
+      "crime_head": "Importation of Girls from Foreign Country",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "D&N Haveli",
+      "crime_head": "Importation of Girls from Foreign Country",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Daman & Diu",
+      "crime_head": "Importation of Girls from Foreign Country",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Delhi UT",
+      "crime_head": "Importation of Girls from Foreign Country",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Lakshadweep",
+      "crime_head": "Importation of Girls from Foreign Country",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Puducherry",
+      "crime_head": "Importation of Girls from Foreign Country",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Total (UTs)",
+      "crime_head": "Importation of Girls from Foreign Country",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Total (All-India)",
+      "crime_head": "Importation of Girls from Foreign Country",
+      "_2013": "31"
+    },
+    {
+      "state_uts": "Andhra Pradesh",
+      "crime_head": "Indecent Representation of Women (P) Act",
+      "_2013": "251"
+    },
+    {
+      "state_uts": "Arunachal Pradesh",
+      "crime_head": "Indecent Representation of Women (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Assam",
+      "crime_head": "Indecent Representation of Women (P) Act",
+      "_2013": "1"
+    },
+    {
+      "state_uts": "Bihar",
+      "crime_head": "Indecent Representation of Women (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Chhattisgarh",
+      "crime_head": "Indecent Representation of Women (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Goa",
+      "crime_head": "Indecent Representation of Women (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Gujarat",
+      "crime_head": "Indecent Representation of Women (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Haryana",
+      "crime_head": "Indecent Representation of Women (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Himachal Pradesh",
+      "crime_head": "Indecent Representation of Women (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Jammu & Kashmir",
+      "crime_head": "Indecent Representation of Women (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Jharkhand",
+      "crime_head": "Indecent Representation of Women (P) Act",
+      "_2013": "2"
+    },
+    {
+      "state_uts": "Karnataka",
+      "crime_head": "Indecent Representation of Women (P) Act",
+      "_2013": "2"
+    },
+    {
+      "state_uts": "Kerala",
+      "crime_head": "Indecent Representation of Women (P) Act",
+      "_2013": "20"
+    },
+    {
+      "state_uts": "Madhya Pradesh",
+      "crime_head": "Indecent Representation of Women (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Maharashtra",
+      "crime_head": "Indecent Representation of Women (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Manipur",
+      "crime_head": "Indecent Representation of Women (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Meghalaya",
+      "crime_head": "Indecent Representation of Women (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Mizoram",
+      "crime_head": "Indecent Representation of Women (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Nagaland",
+      "crime_head": "Indecent Representation of Women (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Odisha",
+      "crime_head": "Indecent Representation of Women (P) Act",
+      "_2013": "2"
+    },
+    {
+      "state_uts": "Punjab",
+      "crime_head": "Indecent Representation of Women (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Rajasthan",
+      "crime_head": "Indecent Representation of Women (P) Act",
+      "_2013": "68"
+    },
+    {
+      "state_uts": "Sikkim",
+      "crime_head": "Indecent Representation of Women (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Tamil Nadu",
+      "crime_head": "Indecent Representation of Women (P) Act",
+      "_2013": "9"
+    },
+    {
+      "state_uts": "Tripura",
+      "crime_head": "Indecent Representation of Women (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Uttar Pradesh",
+      "crime_head": "Indecent Representation of Women (P) Act",
+      "_2013": "1"
+    },
+    {
+      "state_uts": "Uttarakhand",
+      "crime_head": "Indecent Representation of Women (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "West Bengal",
+      "crime_head": "Indecent Representation of Women (P) Act",
+      "_2013": "4"
+    },
+    {
+      "state_uts": "Total (State)",
+      "crime_head": "Indecent Representation of Women (P) Act",
+      "_2013": "360"
+    },
+    {
+      "state_uts": "A&N Islands",
+      "crime_head": "Indecent Representation of Women (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Chandigarh",
+      "crime_head": "Indecent Representation of Women (P) Act",
+      "_2013": "1"
+    },
+    {
+      "state_uts": "D&N Haveli",
+      "crime_head": "Indecent Representation of Women (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Daman & Diu",
+      "crime_head": "Indecent Representation of Women (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Delhi UT",
+      "crime_head": "Indecent Representation of Women (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Lakshadweep",
+      "crime_head": "Indecent Representation of Women (P) Act",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Puducherry",
+      "crime_head": "Indecent Representation of Women (P) Act",
+      "_2013": "1"
+    },
+    {
+      "state_uts": "Total (UTs)",
+      "crime_head": "Indecent Representation of Women (P) Act",
+      "_2013": "2"
+    },
+    {
+      "state_uts": "Total (All-India)",
+      "crime_head": "Indecent Representation of Women (P) Act",
+      "_2013": "362"
+    },
+    {
+      "state_uts": "Andhra Pradesh",
+      "crime_head": "Insult to the modesty of Women",
+      "_2013": "4702"
+    },
+    {
+      "state_uts": "Arunachal Pradesh",
+      "crime_head": "Insult to the modesty of Women",
+      "_2013": "3"
+    },
+    {
+      "state_uts": "Assam",
+      "crime_head": "Insult to the modesty of Women",
+      "_2013": "14"
+    },
+    {
+      "state_uts": "Bihar",
+      "crime_head": "Insult to the modesty of Women",
+      "_2013": "52"
+    },
+    {
+      "state_uts": "Chhattisgarh",
+      "crime_head": "Insult to the modesty of Women",
+      "_2013": "180"
+    },
+    {
+      "state_uts": "Goa",
+      "crime_head": "Insult to the modesty of Women",
+      "_2013": "54"
+    },
+    {
+      "state_uts": "Gujarat",
+      "crime_head": "Insult to the modesty of Women",
+      "_2013": "77"
+    },
+    {
+      "state_uts": "Haryana",
+      "crime_head": "Insult to the modesty of Women",
+      "_2013": "643"
+    },
+    {
+      "state_uts": "Himachal Pradesh",
+      "crime_head": "Insult to the modesty of Women",
+      "_2013": "111"
+    },
+    {
+      "state_uts": "Jammu & Kashmir",
+      "crime_head": "Insult to the modesty of Women",
+      "_2013": "354"
+    },
+    {
+      "state_uts": "Jharkhand",
+      "crime_head": "Insult to the modesty of Women",
+      "_2013": "18"
+    },
+    {
+      "state_uts": "Karnataka",
+      "crime_head": "Insult to the modesty of Women",
+      "_2013": "137"
+    },
+    {
+      "state_uts": "Kerala",
+      "crime_head": "Insult to the modesty of Women",
+      "_2013": "404"
+    },
+    {
+      "state_uts": "Madhya Pradesh",
+      "crime_head": "Insult to the modesty of Women",
+      "_2013": "736"
+    },
+    {
+      "state_uts": "Maharashtra",
+      "crime_head": "Insult to the modesty of Women",
+      "_2013": "2632"
+    },
+    {
+      "state_uts": "Manipur",
+      "crime_head": "Insult to the modesty of Women",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Meghalaya",
+      "crime_head": "Insult to the modesty of Women",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Mizoram",
+      "crime_head": "Insult to the modesty of Women",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Nagaland",
+      "crime_head": "Insult to the modesty of Women",
+      "_2013": "1"
+    },
+    {
+      "state_uts": "Odisha",
+      "crime_head": "Insult to the modesty of Women",
+      "_2013": "426"
+    },
+    {
+      "state_uts": "Punjab",
+      "crime_head": "Insult to the modesty of Women",
+      "_2013": "67"
+    },
+    {
+      "state_uts": "Rajasthan",
+      "crime_head": "Insult to the modesty of Women",
+      "_2013": "25"
+    },
+    {
+      "state_uts": "Sikkim",
+      "crime_head": "Insult to the modesty of Women",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Tamil Nadu",
+      "crime_head": "Insult to the modesty of Women",
+      "_2013": "313"
+    },
+    {
+      "state_uts": "Tripura",
+      "crime_head": "Insult to the modesty of Women",
+      "_2013": "7"
+    },
+    {
+      "state_uts": "Uttar Pradesh",
+      "crime_head": "Insult to the modesty of Women",
+      "_2013": "25"
+    },
+    {
+      "state_uts": "Uttarakhand",
+      "crime_head": "Insult to the modesty of Women",
+      "_2013": "72"
+    },
+    {
+      "state_uts": "West Bengal",
+      "crime_head": "Insult to the modesty of Women",
+      "_2013": "577"
+    },
+    {
+      "state_uts": "Total (State)",
+      "crime_head": "Insult to the modesty of Women",
+      "_2013": "11630"
+    },
+    {
+      "state_uts": "A&N Islands",
+      "crime_head": "Insult to the modesty of Women",
+      "_2013": "8"
+    },
+    {
+      "state_uts": "Chandigarh",
+      "crime_head": "Insult to the modesty of Women",
+      "_2013": "26"
+    },
+    {
+      "state_uts": "D&N Haveli",
+      "crime_head": "Insult to the modesty of Women",
+      "_2013": "1"
+    },
+    {
+      "state_uts": "Daman & Diu",
+      "crime_head": "Insult to the modesty of Women",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Delhi UT",
+      "crime_head": "Insult to the modesty of Women",
+      "_2013": "916"
+    },
+    {
+      "state_uts": "Lakshadweep",
+      "crime_head": "Insult to the modesty of Women",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Puducherry",
+      "crime_head": "Insult to the modesty of Women",
+      "_2013": "8"
+    },
+    {
+      "state_uts": "Total (UTs)",
+      "crime_head": "Insult to the modesty of Women",
+      "_2013": "959"
+    },
+    {
+      "state_uts": "Total (All-India)",
+      "crime_head": "Insult to the modesty of Women",
+      "_2013": "12589"
+    },
+    {
+      "state_uts": "Andhra Pradesh",
+      "crime_head": "Kidnapping & Abduction of Women & Grils",
+      "_2013": "1595"
+    },
+    {
+      "state_uts": "Arunachal Pradesh",
+      "crime_head": "Kidnapping & Abduction of Women & Grils",
+      "_2013": "86"
+    },
+    {
+      "state_uts": "Assam",
+      "crime_head": "Kidnapping & Abduction of Women & Grils",
+      "_2013": "4222"
+    },
+    {
+      "state_uts": "Bihar",
+      "crime_head": "Kidnapping & Abduction of Women & Grils",
+      "_2013": "4419"
+    },
+    {
+      "state_uts": "Chhattisgarh",
+      "crime_head": "Kidnapping & Abduction of Women & Grils",
+      "_2013": "1881"
+    },
+    {
+      "state_uts": "Goa",
+      "crime_head": "Kidnapping & Abduction of Women & Grils",
+      "_2013": "70"
+    },
+    {
+      "state_uts": "Gujarat",
+      "crime_head": "Kidnapping & Abduction of Women & Grils",
+      "_2013": "2230"
+    },
+    {
+      "state_uts": "Haryana",
+      "crime_head": "Kidnapping & Abduction of Women & Grils",
+      "_2013": "1957"
+    },
+    {
+      "state_uts": "Himachal Pradesh",
+      "crime_head": "Kidnapping & Abduction of Women & Grils",
+      "_2013": "290"
+    },
+    {
+      "state_uts": "Jammu & Kashmir",
+      "crime_head": "Kidnapping & Abduction of Women & Grils",
+      "_2013": "949"
+    },
+    {
+      "state_uts": "Jharkhand",
+      "crime_head": "Kidnapping & Abduction of Women & Grils",
+      "_2013": "926"
+    },
+    {
+      "state_uts": "Karnataka",
+      "crime_head": "Kidnapping & Abduction of Women & Grils",
+      "_2013": "1359"
+    },
+    {
+      "state_uts": "Kerala",
+      "crime_head": "Kidnapping & Abduction of Women & Grils",
+      "_2013": "185"
+    },
+    {
+      "state_uts": "Madhya Pradesh",
+      "crime_head": "Kidnapping & Abduction of Women & Grils",
+      "_2013": "2873"
+    },
+    {
+      "state_uts": "Maharashtra",
+      "crime_head": "Kidnapping & Abduction of Women & Grils",
+      "_2013": "1874"
+    },
+    {
+      "state_uts": "Manipur",
+      "crime_head": "Kidnapping & Abduction of Women & Grils",
+      "_2013": "125"
+    },
+    {
+      "state_uts": "Meghalaya",
+      "crime_head": "Kidnapping & Abduction of Women & Grils",
+      "_2013": "33"
+    },
+    {
+      "state_uts": "Mizoram",
+      "crime_head": "Kidnapping & Abduction of Women & Grils",
+      "_2013": "2"
+    },
+    {
+      "state_uts": "Nagaland",
+      "crime_head": "Kidnapping & Abduction of Women & Grils",
+      "_2013": "11"
+    },
+    {
+      "state_uts": "Odisha",
+      "crime_head": "Kidnapping & Abduction of Women & Grils",
+      "_2013": "2067"
+    },
+    {
+      "state_uts": "Punjab",
+      "crime_head": "Kidnapping & Abduction of Women & Grils",
+      "_2013": "987"
+    },
+    {
+      "state_uts": "Rajasthan",
+      "crime_head": "Kidnapping & Abduction of Women & Grils",
+      "_2013": "4047"
+    },
+    {
+      "state_uts": "Sikkim",
+      "crime_head": "Kidnapping & Abduction of Women & Grils",
+      "_2013": "16"
+    },
+    {
+      "state_uts": "Tamil Nadu",
+      "crime_head": "Kidnapping & Abduction of Women & Grils",
+      "_2013": "1516"
+    },
+    {
+      "state_uts": "Tripura",
+      "crime_head": "Kidnapping & Abduction of Women & Grils",
+      "_2013": "124"
+    },
+    {
+      "state_uts": "Uttar Pradesh",
+      "crime_head": "Kidnapping & Abduction of Women & Grils",
+      "_2013": "9737"
+    },
+    {
+      "state_uts": "Uttarakhand",
+      "crime_head": "Kidnapping & Abduction of Women & Grils",
+      "_2013": "633"
+    },
+    {
+      "state_uts": "West Bengal",
+      "crime_head": "Kidnapping & Abduction of Women & Grils",
+      "_2013": "3830"
+    },
+    {
+      "state_uts": "Total (State)",
+      "crime_head": "Kidnapping & Abduction of Women & Grils",
+      "_2013": "48044"
+    },
+    {
+      "state_uts": "A&N Islands",
+      "crime_head": "Kidnapping & Abduction of Women & Grils",
+      "_2013": "12"
+    },
+    {
+      "state_uts": "Chandigarh",
+      "crime_head": "Kidnapping & Abduction of Women & Grils",
+      "_2013": "174"
+    },
+    {
+      "state_uts": "D&N Haveli",
+      "crime_head": "Kidnapping & Abduction of Women & Grils",
+      "_2013": "11"
+    },
+    {
+      "state_uts": "Daman & Diu",
+      "crime_head": "Kidnapping & Abduction of Women & Grils",
+      "_2013": "6"
+    },
+    {
+      "state_uts": "Delhi UT",
+      "crime_head": "Kidnapping & Abduction of Women & Grils",
+      "_2013": "3609"
+    },
+    {
+      "state_uts": "Lakshadweep",
+      "crime_head": "Kidnapping & Abduction of Women & Grils",
+      "_2013": "0"
+    },
+    {
+      "state_uts": "Puducherry",
+      "crime_head": "Kidnapping & Abduction of Women & Grils",
+      "_2013": "25"
+    },
+    {
+      "state_uts": "Total (UTs)",
+      "crime_head": "Kidnapping & Abduction of Women & Grils",
+      "_2013": "3837"
+    },
+    {
+      "state_uts": "Total (All-India)",
+      "crime_head": "Kidnapping & Abduction of Women & Grils",
+      "_2013": "51881"
+    },
+    {
+      "state_uts": "Andhra Pradesh",
+      "crime_head": "Rape",
+      "_2013": "1635"
+    },
+    {
+      "state_uts": "Arunachal Pradesh",
+      "crime_head": "Rape",
+      "_2013": "75"
+    },
+    {
+      "state_uts": "Assam",
+      "crime_head": "Rape",
+      "_2013": "1937"
+    },
+    {
+      "state_uts": "Bihar",
+      "crime_head": "Rape",
+      "_2013": "1128"
+    },
+    {
+      "state_uts": "Chhattisgarh",
+      "crime_head": "Rape",
+      "_2013": "1380"
+    },
+    {
+      "state_uts": "Goa",
+      "crime_head": "Rape",
+      "_2013": "86"
+    },
+    {
+      "state_uts": "Gujarat",
+      "crime_head": "Rape",
+      "_2013": "732"
+    },
+    {
+      "state_uts": "Haryana",
+      "crime_head": "Rape",
+      "_2013": "971"
+    },
+    {
+      "state_uts": "Himachal Pradesh",
+      "crime_head": "Rape",
+      "_2013": "250"
+    },
+    {
+      "state_uts": "Jammu & Kashmir",
+      "crime_head": "Rape",
+      "_2013": "378"
+    },
+    {
+      "state_uts": "Jharkhand",
+      "crime_head": "Rape",
+      "_2013": "1204"
+    },
+    {
+      "state_uts": "Karnataka",
+      "crime_head": "Rape",
+      "_2013": "1030"
+    },
+    {
+      "state_uts": "Kerala",
+      "crime_head": "Rape",
+      "_2013": "1221"
+    },
+    {
+      "state_uts": "Madhya Pradesh",
+      "crime_head": "Rape",
+      "_2013": "4335"
+    },
+    {
+      "state_uts": "Maharashtra",
+      "crime_head": "Rape",
+      "_2013": "3063"
+    },
+    {
+      "state_uts": "Manipur",
+      "crime_head": "Rape",
+      "_2013": "72"
+    },
+    {
+      "state_uts": "Meghalaya",
+      "crime_head": "Rape",
+      "_2013": "183"
+    },
+    {
+      "state_uts": "Mizoram",
+      "crime_head": "Rape",
+      "_2013": "89"
+    },
+    {
+      "state_uts": "Nagaland",
+      "crime_head": "Rape",
+      "_2013": "31"
+    },
+    {
+      "state_uts": "Odisha",
+      "crime_head": "Rape",
+      "_2013": "1832"
+    },
+    {
+      "state_uts": "Punjab",
+      "crime_head": "Rape",
+      "_2013": "888"
+    },
+    {
+      "state_uts": "Rajasthan",
+      "crime_head": "Rape",
+      "_2013": "3285"
+    },
+    {
+      "state_uts": "Sikkim",
+      "crime_head": "Rape",
+      "_2013": "43"
+    },
+    {
+      "state_uts": "Tamil Nadu",
+      "crime_head": "Rape",
+      "_2013": "923"
+    },
+    {
+      "state_uts": "Tripura",
+      "crime_head": "Rape",
+      "_2013": "233"
+    },
+    {
+      "state_uts": "Uttar Pradesh",
+      "crime_head": "Rape",
+      "_2013": "3050"
+    },
+    {
+      "state_uts": "Uttarakhand",
+      "crime_head": "Rape",
+      "_2013": "228"
+    },
+    {
+      "state_uts": "West Bengal",
+      "crime_head": "Rape",
+      "_2013": "1685"
+    },
+    {
+      "state_uts": "Total (State)",
+      "crime_head": "Rape",
+      "_2013": "31967"
+    },
+    {
+      "state_uts": "A&N Islands",
+      "crime_head": "Rape",
+      "_2013": "27"
+    },
+    {
+      "state_uts": "Chandigarh",
+      "crime_head": "Rape",
+      "_2013": "45"
+    },
+    {
+      "state_uts": "D&N Haveli",
+      "crime_head": "Rape",
+      "_2013": "5"
+    },
+    {
+      "state_uts": "Daman & Diu",
+      "crime_head": "Rape",
+      "_2013": "8"
+    },
+    {
+      "state_uts": "Delhi UT",
+      "crime_head": "Rape",
+      "_2013": "1636"
+    },
+    {
+      "state_uts": "Lakshadweep",
+      "crime_head": "Rape",
+      "_2013": "2"
+    },
+    {
+      "state_uts": "Puducherry",
+      "crime_head": "Rape",
+      "_2013": "17"
+    },
+    {
+      "state_uts": "Total (UTs)",
+      "crime_head": "Rape",
+      "_2013": "1740"
+    },
+    {
+      "state_uts": "Total (All-India)",
+      "crime_head": "Rape",
+      "_2013": "33707"
+    },
+    {
+      "state_uts": "Andhra Pradesh",
+      "crime_head": "Total Crimes against Women",
+      "_2013": "32809"
+    },
+    {
+      "state_uts": "Arunachal Pradesh",
+      "crime_head": "Total Crimes against Women",
+      "_2013": "288"
+    },
+    {
+      "state_uts": "Assam",
+      "crime_head": "Total Crimes against Women",
+      "_2013": "17449"
+    },
+    {
+      "state_uts": "Bihar",
+      "crime_head": "Total Crimes against Women",
+      "_2013": "13609"
+    },
+    {
+      "state_uts": "Chhattisgarh",
+      "crime_head": "Total Crimes against Women",
+      "_2013": "7012"
+    },
+    {
+      "state_uts": "Goa",
+      "crime_head": "Total Crimes against Women",
+      "_2013": "440"
+    },
+    {
+      "state_uts": "Gujarat",
+      "crime_head": "Total Crimes against Women",
+      "_2013": "12283"
+    },
+    {
+      "state_uts": "Haryana",
+      "crime_head": "Total Crimes against Women",
+      "_2013": "9089"
+    },
+    {
+      "state_uts": "Himachal Pradesh",
+      "crime_head": "Total Crimes against Women",
+      "_2013": "1478"
+    },
+    {
+      "state_uts": "Jammu & Kashmir",
+      "crime_head": "Total Crimes against Women",
+      "_2013": "3509"
+    },
+    {
+      "state_uts": "Jharkhand",
+      "crime_head": "Total Crimes against Women",
+      "_2013": "6506"
+    },
+    {
+      "state_uts": "Karnataka",
+      "crime_head": "Total Crimes against Women",
+      "_2013": "12027"
+    },
+    {
+      "state_uts": "Kerala",
+      "crime_head": "Total Crimes against Women",
+      "_2013": "11216"
+    },
+    {
+      "state_uts": "Madhya Pradesh",
+      "crime_head": "Total Crimes against Women",
+      "_2013": "22061"
+    },
+    {
+      "state_uts": "Maharashtra",
+      "crime_head": "Total Crimes against Women",
+      "_2013": "24895"
+    },
+    {
+      "state_uts": "Manipur",
+      "crime_head": "Total Crimes against Women",
+      "_2013": "285"
+    },
+    {
+      "state_uts": "Meghalaya",
+      "crime_head": "Total Crimes against Women",
+      "_2013": "343"
+    },
+    {
+      "state_uts": "Mizoram",
+      "crime_head": "Total Crimes against Women",
+      "_2013": "177"
+    },
+    {
+      "state_uts": "Nagaland",
+      "crime_head": "Total Crimes against Women",
+      "_2013": "67"
+    },
+    {
+      "state_uts": "Odisha",
+      "crime_head": "Total Crimes against Women",
+      "_2013": "14173"
+    },
+    {
+      "state_uts": "Punjab",
+      "crime_head": "Total Crimes against Women",
+      "_2013": "4994"
+    },
+    {
+      "state_uts": "Rajasthan",
+      "crime_head": "Total Crimes against Women",
+      "_2013": "27933"
+    },
+    {
+      "state_uts": "Sikkim",
+      "crime_head": "Total Crimes against Women",
+      "_2013": "93"
+    },
+    {
+      "state_uts": "Tamil Nadu",
+      "crime_head": "Total Crimes against Women",
+      "_2013": "7475"
+    },
+    {
+      "state_uts": "Tripura",
+      "crime_head": "Total Crimes against Women",
+      "_2013": "1628"
+    },
+    {
+      "state_uts": "Uttar Pradesh",
+      "crime_head": "Total Crimes against Women",
+      "_2013": "32546"
+    },
+    {
+      "state_uts": "Uttarakhand",
+      "crime_head": "Total Crimes against Women",
+      "_2013": "1719"
+    },
+    {
+      "state_uts": "West Bengal",
+      "crime_head": "Total Crimes against Women",
+      "_2013": "29826"
+    },
+    {
+      "state_uts": "Total (State)",
+      "crime_head": "Total Crimes against Women",
+      "_2013": "295930"
+    },
+    {
+      "state_uts": "A&N Islands",
+      "crime_head": "Total Crimes against Women",
+      "_2013": "106"
+    },
+    {
+      "state_uts": "Chandigarh",
+      "crime_head": "Total Crimes against Women",
+      "_2013": "488"
+    },
+    {
+      "state_uts": "D&N Haveli",
+      "crime_head": "Total Crimes against Women",
+      "_2013": "21"
+    },
+    {
+      "state_uts": "Daman & Diu",
+      "crime_head": "Total Crimes against Women",
+      "_2013": "24"
+    },
+    {
+      "state_uts": "Delhi UT",
+      "crime_head": "Total Crimes against Women",
+      "_2013": "12888"
+    },
+    {
+      "state_uts": "Lakshadweep",
+      "crime_head": "Total Crimes against Women",
+      "_2013": "3"
+    },
+    {
+      "state_uts": "Puducherry",
+      "crime_head": "Total Crimes against Women",
+      "_2013": "86"
+    },
+    {
+      "state_uts": "Total (UTs)",
+      "crime_head": "Total Crimes against Women",
+      "_2013": "13616"
+    },
+    {
+      "state_uts": "Total (All-India)",
+      "crime_head": "Total Crimes against Women",
+      "_2013": "309546"
+    }
+  ]
+}

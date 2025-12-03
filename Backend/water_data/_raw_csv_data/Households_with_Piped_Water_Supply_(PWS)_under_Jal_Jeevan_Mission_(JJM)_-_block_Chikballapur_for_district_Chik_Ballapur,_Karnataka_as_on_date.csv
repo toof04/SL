@@ -1,0 +1,303 @@
+state_name,district_name,block_name,panchayat_name,villagen_name,habitation_name,habitation_id,households,house_connection_by_pws,ispws,gen_current_pop,sc_current_pop,st_current_pop,total_current_pop,water_quality_contamination,update_date
+Karnataka,"Chik Ballapur",Chikballapur,Muddenahally,NA,Chigatenahally,0000384456,43,0,Yes,33,96,72,201,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Muddenahally,NA,Kanganahally,0000384461,204,6,Yes,254,339,345,938,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Muddenahally,NA,Dinnur,0000384466,57,0,Yes,102,74,58,234,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Thippenahally,NA,Thippenahally,0000384474,405,362,Yes,958,655,0,1613,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Posettihally,NA,Posettihally,0000384481,255,61,Yes,612,472,62,1146,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Posettihally,NA,Yapalahally,0000384482,58,21,Yes,132,24,135,291,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Avalagurki,NA,Arikere,0000384501,96,5,Yes,314,62,2,378,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Avalagurki,NA,Avalagurki,0000384503,297,69,Yes,565,530,218,1313,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Gollahally,NA,Pyur,0000384512,17,0,Yes,20,48,9,77,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Gollahally,NA,Kethenahally,0000384517,235,63,Yes,579,159,429,1167,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Gollahally,NA,Kothanur,0000384519,172,0,Yes,522,260,0,782,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Gollahally,NA,Yerranagenahalli,0000384520,60,0,Yes,200,71,30,301,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Gollahally,NA,Narenahally,0000384521,13,0,Yes,63,0,0,63,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Gollahally,NA,Nallakadhirenahalli,0000384522,34,0,Yes,65,107,0,172,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Harobande,NA,"Jadena Hally",0000384527,49,0,Yes,94,140,0,234,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Harobande,NA,Devasthanahosahally,0000384528,197,52,Yes,513,485,0,998,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Angarekanahally,NA,Nanjapura,0001623837,38,0,Yes,142,42,3,187,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Aruru,NA,Adegarahalli,0001623838,49,0,Yes,228,40,0,268,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Addagallu,NA,Bisaigarahalli,0001623839,25,0,Yes,130,32,27,189,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Gollahally,NA,Motlur,0001623849,11,0,Yes,19,12,10,41,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Gollahally,NA,Anemodagu,0001623852,92,0,Yes,198,129,105,432,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Gollahally,NA,Golladoddi,0001623854,62,0,Yes,38,170,77,285,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Kammaguttahally,NA,Chikkanarappanahalli,0001815977,70,0,No,50,150,150,350,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Mandikal,NA,Bachenahally,0000384253,105,0,Yes,490,52,72,614,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Addagallu,NA,Kachakadatha,0000384256,53,0,Yes,102,134,0,236,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Mandikal,NA,Jeedamakalahally,0000384268,32,0,Yes,162,35,0,197,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Kammaguttahally,NA,Namilagurki,0000384271,25,0,Yes,48,53,24,125,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Kammaguttahally,NA,Karakamakalahally,0000384277,13,0,Yes,5,57,0,62,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Aruru,NA,Chikkaarooru,0000384298,125,19,Yes,570,220,0,790,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Addagallu,NA,Settigere,0000384300,145,32,Yes,395,212,104,711,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Aruru,NA,Chikkanagavalli,0000384310,97,25,Yes,340,190,31,561,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Peresandra,NA,"Thuma Kunte",0000384318,35,0,Yes,73,83,2,158,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Peresandra,NA,Boyinahally,0000384320,147,25,Yes,298,339,10,647,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Dhoddapayalagurki,NA,"Thalagena Hally",0000384335,20,0,Yes,60,20,1,81,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Dhoddapayalagurki,NA,"Sugnaana Sagara",0000384338,12,0,Yes,40,11,0,51,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Dhoddapayalagurki,NA,Bommahally,0000384341,56,25,Yes,84,175,15,274,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Dhoddapayalagurki,NA,Lakshmipathihally,0000384342,23,0,Yes,75,0,30,105,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Angarekanahally,NA,Marganahally,0000384359,33,0,Yes,42,0,129,171,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Angarekanahally,NA,"Thubakala Hosuru",0000384361,13,0,Yes,53,19,1,73,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Hosahudya,NA,Nelamakalahally,0000384369,68,0,Yes,206,119,0,325,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Hosahudya,NA,Yelehally,0000384372,130,0,Yes,300,0,356,656,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Hosahudya,NA,"Yennur Kadhirenahally",0000384374,166,0,Yes,372,183,49,604,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Dibburu,NA,Rayappanahally,0000384385,45,0,Yes,253,0,15,268,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Patrenahally,NA,Tandramaradhahally,0000384410,83,0,Yes,375,29,0,404,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Kondenahally,NA,"Kanitha Hally",0000384419,280,30,Yes,768,521,0,1289,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Dhoddamarali,NA,Yelavahally,0000384428,168,62,Yes,592,199,13,804,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Dhoddamarali,NA,Devishettihally,0000384429,132,65,Yes,478,114,0,592,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Dhoddamarali,NA,Chadalapura,0000384431,187,89,Yes,536,385,15,936,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Agalagurki,NA,Cheedachikkanaahlly,0000384435,110,0,Yes,396,12,0,408,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Kuppahally,NA,Kuduvathi,0000384446,346,118,Yes,527,426,610,1563,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Muddenahally,NA,Suddahally,0000384455,73,4,Yes,56,163,122,341,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Muddenahally,NA,"Kanive Narayana Pur",0000384459,123,0,Yes,232,36,282,550,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Muddenahally,NA,Ganchinahally,0000384462,131,0,Yes,166,221,225,612,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Muddenahally,NA,Bachahally,0000384464,106,0,Yes,306,179,0,485,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Muddenahally,NA,Kalavara,0000384465,203,9,Yes,373,272,214,859,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Muddenahally,NA,Subbarayanahally,0000384469,19,0,Yes,13,17,64,94,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Thippenahally,NA,Badaganahally,0000384473,182,161,Yes,515,263,0,778,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Thippenahally,NA,"Hanumantha Pura",0000384478,97,0,Yes,173,6,198,377,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Posettihally,NA,Nallakadhirenahalli,0000384484,137,131,Yes,192,478,3,673,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Posettihally,NA,Chikkanahally,0000384486,74,0,Yes,282,61,0,343,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Posettihally,NA,Gungirlahally,0000384487,54,5,Yes,159,28,85,272,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Posettihally,NA,Jakkalamadagu,0000384488,140,0,Yes,412,72,221,705,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Posettihally,NA,Gurukulanagenahally,0000384490,148,6,Yes,214,499,11,724,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Posettihally,NA,Naremmanahally,0000384495,62,0,Yes,120,145,40,305,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Avalagurki,NA,Nadavanahally,0000384496,39,6,Yes,130,47,0,177,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Avalagurki,NA,Honnenahally,0000384499,152,43,Yes,458,256,84,798,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Avalagurki,NA,Vadrahally,0000384506,98,1,Yes,4,607,9,620,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Gollahally,NA,Jangamarappanahally,0000384509,54,0,Yes,132,102,9,243,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Gollahally,NA,Gollahally,0000384510,112,8,Yes,342,160,20,522,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Gollahally,NA,Nallaguttapalya,0000384513,46,0,Yes,55,128,25,208,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Harobande,NA,Gunthappanahally,0000384524,121,14,Yes,252,264,27,543,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Harobande,NA,Harobande,0000384525,298,52,Yes,621,650,67,1338,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Harobande,NA,Soppahally,0000384532,105,0,Yes,404,98,2,504,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Harobande,NA,Kallakunte,0000384533,46,0,Yes,124,36,53,213,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Harobande,NA,Chembahally,0000384534,30,0,Yes,185,0,0,185,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Aruru,NA,"Havadigara Colony",0001623840,34,0,Yes,120,20,0,140,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Avalagurki,NA,Hariharapura,0001623841,67,7,Yes,214,73,43,330,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Dhoddapayalagurki,NA,Papinayakanahalli,0001623845,33,0,Yes,46,107,0,153,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Angarekanahally,NA,"Gandlahosa Hally",0000384355,43,2,Yes,66,26,117,209,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Angarekanahally,NA,Kaththariguppe,0000384362,159,1,Yes,602,212,8,822,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Angarekanahally,NA,Angarekanahally,0000384366,148,54,Yes,478,71,131,680,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Hosahudya,NA,"Chikka Kirugumbi",0000384371,63,0,Yes,0,58,307,365,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Hosahudya,NA,Keshavara,0000384375,260,80,Yes,875,271,73,1219,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Dibburu,NA,Lakkinayakanahally,0000384383,42,0,Yes,66,99,0,165,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Dibburu,NA,Chelakayalaparthi,0000384388,185,2,Yes,163,98,4,265,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Manchanabale,NA,Sabbenahally,0000384392,210,52,Yes,660,218,2,880,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Manchanabale,NA,Puttathimmanahally,0000384393,88,1,Yes,195,216,0,411,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Ajjavara,NA,Bannikuppe,0000384398,156,45,Yes,693,168,0,861,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Kondenahally,NA,Thowdanahally,0000384418,175,38,Yes,328,359,0,687,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Dhoddamarali,NA,Beedaganahally,0000384427,213,80,Yes,340,317,349,1006,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Dhoddamarali,NA,Gaviganahally,0000384430,129,0,Yes,243,375,0,618,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Dhoddamarali,NA,Varamallenaahlly,0000384432,42,1,Yes,6,38,106,150,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Kuppahally,NA,Kuppahally,0000384444,322,115,Yes,675,939,6,1620,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Kuppahally,NA,Angatta,0000384445,175,50,Yes,418,208,141,767,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Nandhi,NA,"Madaka Hosahally",0000384452,45,0,Yes,61,73,91,225,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Mandikal,NA,Yataganahally,0000384248,32,0,Yes,82,25,17,124,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Mandikal,NA,Manipura,0000384250,41,0,Yes,109,48,31,188,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Mandikal,NA,Gundlamandikal,0000384251,179,7,Yes,465,204,134,803,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Mandikal,NA,Darbur,0000384257,168,9,Yes,774,217,118,1109,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Mandikal,NA,Yerrabapanahally,0000384259,21,0,Yes,104,0,2,106,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Mandikal,NA,Gudisihally,0000384261,55,0,Yes,49,76,192,317,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Mandikal,NA,Payuru,0000384262,95,0,Yes,512,176,67,755,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Kammaguttahally,NA,Kommalamari,0000384279,19,0,Yes,52,29,0,81,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Kammaguttahally,NA,"Uppakunta Hally",0000384280,44,0,Yes,79,134,2,215,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Kammaguttahally,NA,Bodinarenahally,0000384285,66,0,Yes,173,35,55,263,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Kammaguttahally,NA,"Hire Nagavalli",0000384288,136,39,Yes,390,164,63,617,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Kammaguttahally,NA,R.kambalahally,0000384292,15,0,Yes,73,0,0,73,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Aruru,NA,Avalanagenahally,0000384295,67,0,Yes,280,230,0,510,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Aruru,NA,Muthakadhahally,0000384307,80,5,Yes,237,230,0,467,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Aruru,NA,Adhayyagarahally,0000384309,97,0,Yes,360,230,6,596,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Aruru,NA,Hanumanthapura,0000384311,45,0,Yes,235,60,0,295,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Aruru,NA,Jonnalakunte,0000384312,12,0,Yes,46,7,0,53,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Peresandra,NA,Peresandra,0000384313,791,200,Yes,2510,876,152,3538,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Peresandra,NA,"Nallaralla Hally",0000384317,52,0,Yes,159,69,0,228,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Peresandra,NA,Korenahally,0000384323,12,0,Yes,38,24,0,62,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Peresandra,NA,"Kadhiradevara Hally",0000384324,52,0,Yes,144,91,0,235,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Peresandra,NA,"Thippareddi Nagenahally",0000384325,40,0,Yes,113,72,0,185,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Dhoddapayalagurki,NA,Dasarahally,0000384337,54,25,Yes,170,70,0,240,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Dhoddapayalagurki,NA,Kammathanahally,0000384343,114,41,Yes,449,93,42,584,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Dhoddapayalagurki,NA,Reddigollavarahally,0000384344,96,45,Yes,290,170,0,460,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Dhoddapayalagurki,NA,Marganahally,0000384346,42,0,Yes,105,86,0,191,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Dhoddapayalagurki,NA,Kachuru,0000384348,80,5,Yes,239,141,0,380,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Angarekanahally,NA,Pathuru,0000384350,45,0,Yes,147,81,10,238,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Angarekanahally,NA,Budaganuru,0000384352,44,0,Yes,123,100,3,226,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Angarekanahally,NA,Hiriyannanahally,0000384354,125,22,Yes,498,42,11,551,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Angarekanahally,NA,Kandakanahally,0000384357,118,0,Yes,203,68,307,578,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Angarekanahally,NA,Avalahally,0000384360,68,2,Yes,84,0,257,341,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Angarekanahally,NA,"Ramachanra Hosur",0000384364,152,36,Yes,559,164,11,734,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Hosahudya,NA,Jathavara,0000384370,211,49,Yes,684,43,238,965,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Hosahudya,NA,Gidnahally,0000384376,248,92,Yes,690,175,259,1124,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Hosahudya,NA,Hosahudya,0000384377,212,70,Yes,578,146,217,941,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Dibburu,NA,Dibbur,0000384379,336,104,Yes,857,381,241,1479,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Dibburu,NA,Gangarekaluve,0000384380,360,30,Yes,822,364,197,1383,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Manchanabale,NA,Gundlagurki,0000384391,319,96,Yes,801,600,18,1419,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Manchanabale,NA,Ithamakalahally,0000384395,40,1,Yes,66,128,31,225,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Ajjavara,NA,Nayanahally,0000384397,430,119,Yes,982,621,96,1699,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Ajjavara,NA,"Mannara Pura",0000384401,149,27,Yes,564,142,156,862,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Ajjavara,NA,Varadhahally,0000384403,101,0,Yes,395,178,0,573,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Ajjavara,NA,Dhoddakirugumbi,0000384404,133,26,Yes,350,345,0,695,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Patrenahally,NA,Anakanur,0000384409,309,42,Yes,776,370,215,1361,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Patrenahally,NA,Andarlahalli,0000384413,259,72,Yes,699,431,0,1130,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Kondenahally,NA,Kadaseegenahally,0000384417,242,61,Yes,855,310,0,1165,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Kondenahally,NA,Nakkalabachahally,0000384422,47,0,Yes,65,132,15,212,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Dhoddamarali,NA,D.hosur,0000384425,161,53,Yes,530,203,5,738,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Kuppahally,NA,Thumakalahally,0000384433,20,0,Yes,95,0,0,95,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Agalagurki,NA,Jadalathimmanahally,0000384439,248,85,Yes,750,118,20,888,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Kuppahally,NA,Thirnahally,0000384440,154,44,Yes,416,105,9,530,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Kuppahally,NA,Arasanahally,0000384442,129,27,Yes,359,215,0,574,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Nandhi,NA,"Byranayakana Hally",0000384449,83,5,Yes,158,153,49,360,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Mandikal,NA,Mandikal,0000384249,547,50,Yes,1730,340,226,2296,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Addagallu,NA,Chennahally,0000384254,16,0,Yes,34,45,0,79,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Mandikal,NA,Parenahally,0000384263,19,0,Yes,25,21,56,102,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Mandikal,NA,Yedarlahally,0000384267,31,0,Yes,132,0,23,155,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Kammaguttahally,NA,Jeeganahally,0000384273,115,0,Yes,214,240,107,561,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Kammaguttahally,NA,Vanturu,0000384274,18,0,Yes,56,0,34,90,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Kammaguttahally,NA,Renumakalahally,0000384278,132,17,Yes,501,0,26,527,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Kammaguttahally,NA,Muddalahally,0000384287,46,0,Yes,121,62,16,199,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Kammaguttahally,NA,Madinayakanaahlly,0000384289,53,8,Yes,44,203,0,247,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Kammaguttahally,NA,Ramapatna,0000384291,200,42,Yes,349,484,86,919,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Aruru,NA,Arooru,0000384294,150,70,Yes,750,180,2,932,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Aruru,NA,Thumakalahally,0000384296,98,0,Yes,480,140,0,620,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Aruru,NA,Busettihally,0000384303,111,0,Yes,288,176,15,479,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Aruru,NA,Adhennagarahally,0000384305,77,1,Yes,203,124,11,338,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Aruru,NA,Kakalachinte,0000384306,98,0,Yes,371,124,0,495,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Aruru,NA,Kammaganaahlly,0000384308,110,0,Yes,468,230,0,698,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Peresandra,NA,"Hoovinavara Hally",0000384314,121,0,Yes,370,159,1,530,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Peresandra,NA,"Dhombara Palya",0000384319,27,0,Yes,58,66,2,126,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Peresandra,NA,Seegamakalahally,0000384321,52,0,Yes,151,96,0,247,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Dhoddapayalagurki,NA,Koduru,0000384339,85,40,Yes,277,76,2,355,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Dhoddapayalagurki,NA,Inumichenahally,0000384349,125,72,Yes,373,221,0,594,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Muddenahally,NA,"Mylappana Hally",0000384457,314,61,Yes,769,433,202,1404,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Muddenahally,NA,Madhurenahally,0000384460,78,0,Yes,91,119,126,336,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Muddenahally,NA,Gattiganahally,0000384470,39,0,Yes,26,35,129,190,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Posettihally,NA,Bommenahally,0000384485,138,35,Yes,425,115,0,540,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Posettihally,NA,Gollahally,0000384492,50,0,Yes,110,24,91,225,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Posettihally,NA,Bandammanahally,0000384494,37,0,Yes,163,0,10,173,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Gollahally,NA,Ittappanahally,0000384511,75,0,Yes,182,121,49,352,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Gollahally,NA,Kariganapalya,0000384516,80,0,Yes,138,76,175,389,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Gollahally,NA,Kondenahalli,0001623847,13,0,Yes,20,32,9,61,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Dhoddamarali,NA,Chinnandanahalli,0001875209,18,0,Yes,52,0,0,52,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Aruru,NA,"Peresandra Cross",0001875610,60,0,Yes,120,48,0,168,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Angarekanahally,NA,Cheemanahally,0000384351,67,0,Yes,221,121,14,356,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Angarekanahally,NA,Honnappanahally,0000384358,50,10,Yes,62,0,192,254,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Angarekanahally,NA,Kadadibbur,0000384367,102,1,Yes,25,11,487,523,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Hosahudya,NA,"Jathavara Hosahally",0000384368,233,28,Yes,598,364,21,983,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Hosahudya,NA,Thammanayakanahally,0000384373,130,4,Yes,399,192,39,630,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Dibburu,NA,Shettivarahally,0000384382,29,0,Yes,41,104,0,145,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Dibburu,NA,Renumakalahally,0000384384,95,27,Yes,346,116,8,470,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Dibburu,NA,"Gollu Chinnappanahally",0000384386,125,38,Yes,452,89,48,589,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Manchanabale,NA,Manchanabale,0000384390,855,350,Yes,3042,627,11,3680,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Ajjavara,NA,Thippanahally,0000384400,65,0,Yes,150,120,15,285,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Ajjavara,NA,Sonnapura,0000384402,54,1,Yes,165,138,0,303,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Ajjavara,NA,Chilumenahally,0000384405,55,0,Yes,142,135,0,277,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Patrenahally,NA,Poojanahally,0000384408,95,0,Yes,112,314,4,430,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Patrenahally,NA,"Adavigollavara Hally",0000384411,184,65,Yes,522,250,1,773,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Kondenahally,NA,Bommanahally,0000384416,136,11,Yes,303,238,0,541,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Kondenahally,NA,"Thala Hally",0000384420,167,42,Yes,459,312,0,771,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Dhoddamarali,NA,Dhoddamarali,0000384424,189,88,Yes,626,240,5,871,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Dhoddamarali,NA,Kolavanahally,0000384426,266,91,Yes,850,417,0,1267,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Agalagurki,NA,Chikkakadiganahally,0000384436,192,59,Yes,260,450,0,710,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Kuppahally,NA,Mavahally,0000384441,90,12,Yes,2,418,0,420,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Kuppahally,NA,Erenahally,0000384447,62,0,Yes,4,7,273,284,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Nandhi,NA,Nandhi,0000384448,728,199,Yes,2579,468,75,3122,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Nandhi,NA,"Singati Kadhirena Hally",0000384450,121,35,Yes,0,676,0,676,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Addagallu,NA,Doddihally,0000384258,20,0,Yes,35,85,0,120,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Addagallu,NA,Pathuru,0000384264,48,0,Yes,122,98,8,228,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Addagallu,NA,Nallappanahally,0000384266,114,0,Yes,398,192,0,590,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Mandikal,NA,Hosahally,0000384269,59,0,Yes,163,70,1,234,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Kammaguttahally,NA,Vakrahally,0000384272,21,0,Yes,39,44,20,103,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Kammaguttahally,NA,Nagasanaahlly,0000384275,33,0,Yes,99,0,62,161,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Kammaguttahally,NA,Siddaganahally,0000384276,41,0,Yes,1,15,201,217,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Kammaguttahally,NA,R.chokkanahally,0000384283,64,0,Yes,150,125,0,275,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Aruru,NA,Basavanaparthi,0000384297,40,0,Yes,75,61,0,136,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Addagallu,NA,Pillagundlahally,0000384301,40,0,Yes,117,63,30,210,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Aruru,NA,Dhombaragudisalu,0000384304,80,0,Yes,340,150,0,490,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Peresandra,NA,Haleperesandra,0000384322,92,18,Yes,264,168,0,432,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Peresandra,NA,"Yelagala Hally",0000384327,84,0,Yes,239,152,0,391,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Dhoddapayalagurki,NA,Samasenahally,0000384330,71,0,Yes,120,140,45,305,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Dhoddapayalagurki,NA,Gowdanahally,0000384333,60,11,Yes,242,37,59,338,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Dhoddapayalagurki,NA,Reddihally,0000384336,46,0,Yes,180,49,4,233,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Dhoddapayalagurki,NA,Ramaganaparthy,0000384347,81,0,Yes,176,230,0,406,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Muddenahally,NA,Bandahally,0000384458,122,4,Yes,255,286,0,541,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Muddenahally,NA,Gantiganahally,0000384467,39,0,Yes,97,23,62,182,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Muddenahally,NA,Korlahally,0000384468,68,1,Yes,46,55,210,311,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Muddenahally,NA,Chikkamuddenahally,0000384472,20,0,Yes,92,15,5,112,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Posettihally,NA,Kolimihally,0000384491,87,2,Yes,492,36,59,587,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Avalagurki,NA,Lingashettipura,0000384497,114,25,Yes,163,293,32,488,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Avalagurki,NA,Susepalya,0000384502,67,35,Yes,223,44,1,268,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Gollahally,NA,Yalagere,0000384515,102,0,Yes,313,106,0,419,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Gollahally,NA,Nasthimmanahally,0000384523,60,0,Yes,172,138,2,312,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Harobande,NA,Marasanaahlly,0000384526,261,62,Yes,645,470,25,1140,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Harobande,NA,Akalathimmanahally,0000384530,63,0,Yes,258,13,0,271,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Harobande,NA,Guvvalakanahally,0000384536,96,0,Yes,260,75,111,446,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Avalagurki,NA,Sulikunte,0001623842,119,9,Yes,385,192,36,613,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Avalagurki,NA,"Dinne Gerahalli",0001623843,18,0,Yes,32,19,0,51,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Gollahally,NA,Beeraganahalli,0001623855,35,0,Yes,103,9,0,112,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Dibburu,NA,"D Kurubarahalli",0001872319,23,0,No,114,0,18,132,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Muddenahally,NA,"Nasikunte Hosur",0000384463,121,0,Yes,108,47,374,529,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Thippenahally,NA,Mustoor,0000384475,667,61,Yes,1851,1315,190,3356,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Thippenahally,NA,Kanajenahally,0000384476,245,52,Yes,727,213,29,969,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Thippenahally,NA,Ankanagondhi,0000384477,177,167,Yes,355,395,8,758,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Thippenahally,NA,Dinnehosahally,0000384479,175,135,Yes,404,287,19,710,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Posettihally,NA,Dhoddeganahally,0000384480,147,0,Yes,338,266,30,634,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Posettihally,NA,Ragimakalahally,0000384483,121,20,Yes,184,119,235,538,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Posettihally,NA,Motlur,0000384489,67,54,Yes,103,213,3,319,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Posettihally,NA,Balakuntahally,0000384493,157,15,Yes,296,476,0,772,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Avalagurki,NA,Kavarnahally,0000384498,136,43,Yes,363,147,56,566,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Avalagurki,NA,Gondhihally,0000384500,37,0,Yes,109,49,0,158,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Avalagurki,NA,"Honnagiriyappana Hally",0000384504,56,0,Yes,108,101,42,251,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Avalagurki,NA,Kurlahally,0000384505,61,4,Yes,114,107,44,265,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Avalagurki,NA,Barlahally,0000384507,18,0,Yes,33,31,13,77,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Avalagurki,NA,Gerahally,0000384508,149,29,Yes,383,238,105,726,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Gollahally,NA,Mogalakuppe,0000384514,51,0,Yes,180,13,33,226,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Gollahally,NA,Sadenahally,0000384518,85,0,Yes,0,0,416,416,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Harobande,NA,Hunegal,0000384529,166,59,Yes,388,412,14,814,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Harobande,NA,"Gandla Hally",0000384531,67,0,Yes,258,63,2,323,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Gollahally,NA,Katarikarenahalli,0001623848,119,0,Yes,221,143,111,475,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Gollahally,NA,Gongadipura,0001623851,15,0,Yes,45,32,0,77,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Gollahally,NA,Marappanahalli,0001623853,154,1,Yes,346,241,177,764,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Kuppahally,NA,Chikkasagarahalli,0001623859,55,7,Yes,151,39,19,209,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Kuppahally,NA,Kothanura,0001833292,216,0,Yes,748,302,6,1056,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Addagallu,NA,Goramillahally,0000384255,17,0,Yes,36,47,0,83,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Mandikal,NA,Nelamanaparthi,0000384260,36,0,Yes,46,59,136,241,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Addagallu,NA,Addagal,0000384265,95,0,Yes,235,185,20,440,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Kammaguttahally,NA,Kammaguttahally,0000384270,63,0,Yes,190,86,38,314,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Kammaguttahally,NA,Dhinnahally,0000384281,20,0,Yes,36,61,1,98,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Kammaguttahally,NA,Bommaganahally,0000384282,89,20,Yes,156,254,6,416,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Kammaguttahally,NA,Dinnahally,0000384286,19,0,No,49,25,7,81,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Kammaguttahally,NA,Udagirinallappanahally,0000384290,60,0,Yes,0,0,283,283,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Kammaguttahally,NA,P.chokkanahally,0000384293,73,13,Yes,241,49,53,343,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Addagallu,NA,Bandahally,0000384299,78,1,Yes,175,135,240,550,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Addagallu,NA,Bogaparthy,0000384302,81,0,Yes,355,90,35,480,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Peresandra,NA,Shettvarahally,0000384315,71,6,Yes,222,96,1,319,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Peresandra,NA,"Ramaswami Hally",0000384316,18,0,Yes,57,25,0,82,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Peresandra,NA,Kasavaguttahally,0000384326,68,0,Yes,189,120,0,309,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Peresandra,NA,Gantiganahudya,0000384328,72,0,Yes,52,205,0,257,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Dhoddapayalagurki,NA,Dhoddapayalagurki,0000384329,111,50,Yes,361,55,75,491,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Dhoddapayalagurki,NA,Chikkapayalagurki,0000384331,168,68,Yes,295,395,110,800,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Dhoddapayalagurki,NA,H.kurubarahally,0000384332,11,0,Yes,1,59,0,60,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Dhoddapayalagurki,NA,Haristhala,0000384334,91,51,Yes,366,56,89,511,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Dhoddapayalagurki,NA,Maravanahally,0000384340,46,20,Yes,69,144,12,225,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Dhoddapayalagurki,NA,Bayyappanahally,0000384345,74,10,Yes,295,45,0,340,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Angarekanahally,NA,Badhaniganahally,0000384353,31,5,Yes,91,74,3,168,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Angarekanahally,NA,Maralakunte,0000384363,140,10,Yes,428,166,67,661,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Angarekanahally,NA,Chikkathimmaganahalli,0000384365,57,0,Yes,181,27,50,258,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Dibburu,NA,Puradagadda,0000384378,78,21,Yes,195,86,55,336,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Dibburu,NA,Dhoddathammanaahlly,0000384381,166,54,Yes,382,101,95,578,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Dibburu,NA,Nallimaradhahally,0000384387,121,42,Yes,351,146,2,499,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Dibburu,NA,Gollu,0000384389,185,31,Yes,197,103,100,400,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Manchanabale,NA,Kamasettihally,0000384394,71,1,Yes,62,99,143,304,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Ajjavara,NA,Ajjavara,0000384396,375,133,Yes,960,469,175,1604,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Ajjavara,NA,Nugathihally,0000384399,132,1,Yes,392,189,48,629,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Patrenahally,NA,Patrenahally,0000384407,321,110,Yes,980,418,0,1398,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Patrenahally,NA,Muthakadhahally,0000384412,71,0,Yes,172,156,0,328,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Kondenahally,NA,Kondenahally,0000384415,165,61,Yes,595,199,0,794,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Kondenahally,NA,Thimmanaahlly,0000384421,167,81,Yes,579,160,0,739,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Kondenahally,NA,"Nakkala Hally",0000384423,70,0,Yes,119,196,18,333,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Agalagurki,NA,Agalagurki,0000384434,732,225,Yes,2133,571,123,2827,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Agalagurki,NA,Sriramapura,0000384437,364,76,Yes,525,544,150,1219,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Agalagurki,NA,Chokkahally,0000384438,221,36,Yes,564,225,110,899,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Nandhi,NA,"Sulthana Pet",0000384451,370,109,Yes,904,195,489,1588,NA,2024-06-07
+Karnataka,"Chik Ballapur",Chikballapur,Muddenahally,NA,Muddenahally,0000384454,81,28,Yes,267,3,64,334,NA,2024-06-07

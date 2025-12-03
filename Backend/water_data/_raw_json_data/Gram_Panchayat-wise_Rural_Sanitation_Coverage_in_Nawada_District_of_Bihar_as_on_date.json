@@ -1,0 +1,1757 @@
+{
+  "index_name": "47f2509f-189e-4560-ad27-70325cff4685",
+  "title": "Gram Panchayat-wise Rural Sanitation Coverage in Nawada District of Bihar as on date",
+  "desc": "Gram Panchayat-wise Rural Sanitation Coverage in Nawada District of Bihar as on date",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Jal Shakti",
+    "Department of Drinking Water and Sanitation"
+  ],
+  "sector": [
+    "Water and Sanitation"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1688360277,
+  "updated": 1688364913,
+  "created_date": "2023-07-03T06:57:57Z",
+  "updated_date": "2023-07-03T11:45:13Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "sbm",
+    "type": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+    "field": "47f2509f-189e-4560-ad27-70325cff4685"
+  },
+  "field": [
+    {
+      "id": "statename",
+      "name": "StateName",
+      "type": "keyword"
+    },
+    {
+      "id": "districtname",
+      "name": "DistrictName",
+      "type": "keyword"
+    },
+    {
+      "id": "blockname",
+      "name": "BlockName",
+      "type": "keyword"
+    },
+    {
+      "id": "grampanchayatname",
+      "name": "GramPanchayatName",
+      "type": "keyword"
+    },
+    {
+      "id": "ihhltotalasperdetails",
+      "name": "IHHLTotalAsPerDetails",
+      "type": "double"
+    },
+    {
+      "id": "ihhltotalach",
+      "name": "IHHLTotalAch",
+      "type": "double"
+    },
+    {
+      "id": "date",
+      "name": "Date",
+      "type": "keyword"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 187,
+  "count": 187,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "AKBARPUR",
+      "grampanchayatname": "BAKSANDA",
+      "ihhltotalasperdetails": 1509,
+      "ihhltotalach": 1509,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "AKBARPUR",
+      "grampanchayatname": "BALIYA BUZURG",
+      "ihhltotalasperdetails": 1247,
+      "ihhltotalach": 1247,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "AKBARPUR",
+      "grampanchayatname": "BARAIL",
+      "ihhltotalasperdetails": 1099,
+      "ihhltotalach": 1099,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "AKBARPUR",
+      "grampanchayatname": "BAREW",
+      "ihhltotalasperdetails": 1345,
+      "ihhltotalach": 1345,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "AKBARPUR",
+      "grampanchayatname": "BHANAIL LODIPUR",
+      "ihhltotalasperdetails": 1094,
+      "ihhltotalach": 1094,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "AKBARPUR",
+      "grampanchayatname": "BUDHUWA",
+      "ihhltotalasperdetails": 952,
+      "ihhltotalach": 952,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "AKBARPUR",
+      "grampanchayatname": "FATEHPUR",
+      "ihhltotalasperdetails": 1603,
+      "ihhltotalach": 1603,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "AKBARPUR",
+      "grampanchayatname": "GOBIND BIGHA",
+      "ihhltotalasperdetails": 1425,
+      "ihhltotalach": 1425,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "AKBARPUR",
+      "grampanchayatname": "KULANA",
+      "ihhltotalasperdetails": 1330,
+      "ihhltotalach": 1330,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "AKBARPUR",
+      "grampanchayatname": "LEDAHA",
+      "ihhltotalasperdetails": 1133,
+      "ihhltotalach": 1133,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "AKBARPUR",
+      "grampanchayatname": "MALIKPUR  NEMDARGANJ",
+      "ihhltotalasperdetails": 1925,
+      "ihhltotalach": 1925,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "AKBARPUR",
+      "grampanchayatname": "MANKHAR",
+      "ihhltotalasperdetails": 1268,
+      "ihhltotalach": 1268,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "AKBARPUR",
+      "grampanchayatname": "PACHGANWA",
+      "ihhltotalasperdetails": 1478,
+      "ihhltotalach": 1478,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "AKBARPUR",
+      "grampanchayatname": "PACHRUKHI",
+      "ihhltotalasperdetails": 957,
+      "ihhltotalach": 957,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "AKBARPUR",
+      "grampanchayatname": "PAIJUNA",
+      "ihhltotalasperdetails": 1314,
+      "ihhltotalach": 1314,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "AKBARPUR",
+      "grampanchayatname": "PANTI",
+      "ihhltotalasperdetails": 1381,
+      "ihhltotalach": 1381,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "AKBARPUR",
+      "grampanchayatname": "PARATO KARHARI",
+      "ihhltotalasperdetails": 1749,
+      "ihhltotalach": 1749,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "AKBARPUR",
+      "grampanchayatname": "PHARAHA",
+      "ihhltotalasperdetails": 1108,
+      "ihhltotalach": 1108,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "AKBARPUR",
+      "grampanchayatname": "SAKARPURA",
+      "ihhltotalasperdetails": 751,
+      "ihhltotalach": 751,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "AKBARPUR",
+      "grampanchayatname": "TEYAR",
+      "ihhltotalasperdetails": 1390,
+      "ihhltotalach": 1390,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "GOBINDPUR",
+      "grampanchayatname": "BAKSOTI",
+      "ihhltotalasperdetails": 1158,
+      "ihhltotalach": 1158,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "GOBINDPUR",
+      "grampanchayatname": "BANIYA BIGHA",
+      "ihhltotalasperdetails": 1206,
+      "ihhltotalach": 1206,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "GOBINDPUR",
+      "grampanchayatname": "BHAWAN PUR",
+      "ihhltotalasperdetails": 1150,
+      "ihhltotalach": 1150,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "GOBINDPUR",
+      "grampanchayatname": "BISHUN PUR",
+      "ihhltotalasperdetails": 1139,
+      "ihhltotalach": 1139,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "GOBINDPUR",
+      "grampanchayatname": "BUDHWARA",
+      "ihhltotalasperdetails": 1306,
+      "ihhltotalach": 1306,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "GOBINDPUR",
+      "grampanchayatname": "GOBINDPUR",
+      "ihhltotalasperdetails": 1115,
+      "ihhltotalach": 1115,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "GOBINDPUR",
+      "grampanchayatname": "MADHOPUR",
+      "ihhltotalasperdetails": 1123,
+      "ihhltotalach": 1123,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "GOBINDPUR",
+      "grampanchayatname": "SARKANDA",
+      "ihhltotalasperdetails": 1180,
+      "ihhltotalach": 1180,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "GOBINDPUR",
+      "grampanchayatname": "SUGHARI",
+      "ihhltotalasperdetails": 1242,
+      "ihhltotalach": 1242,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "HISUA",
+      "grampanchayatname": "BAGODAR",
+      "ihhltotalasperdetails": 1697,
+      "ihhltotalach": 1697,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "HISUA",
+      "grampanchayatname": "CHHATIHAR",
+      "ihhltotalasperdetails": 1735,
+      "ihhltotalach": 1735,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "HISUA",
+      "grampanchayatname": "CHITARGHATTI",
+      "ihhltotalasperdetails": 1330,
+      "ihhltotalach": 1330,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "HISUA",
+      "grampanchayatname": "DHANWA",
+      "ihhltotalasperdetails": 2033,
+      "ihhltotalach": 2033,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "HISUA",
+      "grampanchayatname": "DONA",
+      "ihhltotalasperdetails": 1631,
+      "ihhltotalach": 1631,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "HISUA",
+      "grampanchayatname": "HADSA",
+      "ihhltotalasperdetails": 1498,
+      "ihhltotalach": 1498,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "HISUA",
+      "grampanchayatname": "KAITHIR",
+      "ihhltotalasperdetails": 1336,
+      "ihhltotalach": 1336,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "HISUA",
+      "grampanchayatname": "PACHARHA",
+      "ihhltotalasperdetails": 1711,
+      "ihhltotalach": 1711,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "HISUA",
+      "grampanchayatname": "SONSA",
+      "ihhltotalasperdetails": 1245,
+      "ihhltotalach": 1245,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "HISUA",
+      "grampanchayatname": "TUNGI",
+      "ihhltotalasperdetails": 2194,
+      "ihhltotalach": 2194,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "KASHICHAK",
+      "grampanchayatname": "BELAR",
+      "ihhltotalasperdetails": 1528,
+      "ihhltotalach": 1528,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "KASHICHAK",
+      "grampanchayatname": "BIRNANWAN",
+      "ihhltotalasperdetails": 1184,
+      "ihhltotalach": 1184,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "KASHICHAK",
+      "grampanchayatname": "CHANDI NAWAN",
+      "ihhltotalasperdetails": 986,
+      "ihhltotalach": 986,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "KASHICHAK",
+      "grampanchayatname": "KHAKHARI",
+      "ihhltotalasperdetails": 2049,
+      "ihhltotalach": 2049,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "KASHICHAK",
+      "grampanchayatname": "KHERA JAGDISHPUR",
+      "ihhltotalasperdetails": 1643,
+      "ihhltotalach": 1643,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "KASHICHAK",
+      "grampanchayatname": "PARWATI",
+      "ihhltotalasperdetails": 1287,
+      "ihhltotalach": 1287,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "KASHICHAK",
+      "grampanchayatname": "SUBHANPUR",
+      "ihhltotalasperdetails": 628,
+      "ihhltotalach": 628,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "KAWAKOLE",
+      "grampanchayatname": "CHHABAIL",
+      "ihhltotalasperdetails": 903,
+      "ihhltotalach": 903,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "KAWAKOLE",
+      "grampanchayatname": "DARAWAN",
+      "ihhltotalasperdetails": 1181,
+      "ihhltotalach": 1181,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "KAWAKOLE",
+      "grampanchayatname": "DEWANGARH",
+      "ihhltotalasperdetails": 1988,
+      "ihhltotalach": 1988,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "KAWAKOLE",
+      "grampanchayatname": "KAUAKOLE",
+      "ihhltotalasperdetails": 1996,
+      "ihhltotalach": 1996,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "KAWAKOLE",
+      "grampanchayatname": "KEWALI",
+      "ihhltotalasperdetails": 768,
+      "ihhltotalach": 768,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "KAWAKOLE",
+      "grampanchayatname": "KHARSARI",
+      "ihhltotalasperdetails": 1415,
+      "ihhltotalach": 1415,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "KAWAKOLE",
+      "grampanchayatname": "LALPUR",
+      "ihhltotalasperdetails": 883,
+      "ihhltotalach": 883,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "KAWAKOLE",
+      "grampanchayatname": "MAHURAR",
+      "ihhltotalasperdetails": 1253,
+      "ihhltotalach": 1253,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "KAWAKOLE",
+      "grampanchayatname": "MANJHILA",
+      "ihhltotalasperdetails": 1289,
+      "ihhltotalach": 1289,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "KAWAKOLE",
+      "grampanchayatname": "NAWADIH",
+      "ihhltotalasperdetails": 1085,
+      "ihhltotalach": 1085,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "KAWAKOLE",
+      "grampanchayatname": "PAHARPUR",
+      "ihhltotalasperdetails": 1823,
+      "ihhltotalach": 1823,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "KAWAKOLE",
+      "grampanchayatname": "PALI",
+      "ihhltotalasperdetails": 734,
+      "ihhltotalach": 734,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "KAWAKOLE",
+      "grampanchayatname": "PANDEY GANGAUT",
+      "ihhltotalasperdetails": 1104,
+      "ihhltotalach": 1104,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "KAWAKOLE",
+      "grampanchayatname": "SARAUNI",
+      "ihhltotalasperdetails": 652,
+      "ihhltotalach": 652,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "KAWAKOLE",
+      "grampanchayatname": "SEKHODEWRA",
+      "ihhltotalasperdetails": 1651,
+      "ihhltotalach": 1651,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "MESCAUR",
+      "grampanchayatname": "ANKRI  PANDEYBIGHA",
+      "ihhltotalasperdetails": 1657,
+      "ihhltotalach": 1657,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "MESCAUR",
+      "grampanchayatname": "BARAT",
+      "ihhltotalasperdetails": 1381,
+      "ihhltotalach": 1381,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "MESCAUR",
+      "grampanchayatname": "BAROSAR",
+      "ihhltotalasperdetails": 1298,
+      "ihhltotalach": 1298,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "MESCAUR",
+      "grampanchayatname": "BIJU BIGHA",
+      "ihhltotalasperdetails": 1349,
+      "ihhltotalach": 1349,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "MESCAUR",
+      "grampanchayatname": "BISIAIT",
+      "ihhltotalasperdetails": 1624,
+      "ihhltotalach": 1624,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "MESCAUR",
+      "grampanchayatname": "MESKAUR",
+      "ihhltotalasperdetails": 1166,
+      "ihhltotalach": 1166,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "MESCAUR",
+      "grampanchayatname": "MIRZAPUR",
+      "ihhltotalasperdetails": 1982,
+      "ihhltotalach": 1982,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "MESCAUR",
+      "grampanchayatname": "RASALPURA",
+      "ihhltotalasperdetails": 1568,
+      "ihhltotalach": 1568,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "MESCAUR",
+      "grampanchayatname": "SATIWAZPUR SARAI",
+      "ihhltotalasperdetails": 1402,
+      "ihhltotalach": 1402,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "MESCAUR",
+      "grampanchayatname": "TETARIA",
+      "ihhltotalasperdetails": 1332,
+      "ihhltotalach": 1332,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "NARDIGANJ",
+      "grampanchayatname": "DOHRA",
+      "ihhltotalasperdetails": 1839,
+      "ihhltotalach": 1839,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "NARDIGANJ",
+      "grampanchayatname": "HANRIYA",
+      "ihhltotalasperdetails": 1123,
+      "ihhltotalach": 1123,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "NARDIGANJ",
+      "grampanchayatname": "ICHUAKARNA",
+      "ihhltotalasperdetails": 1455,
+      "ihhltotalach": 1455,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "NARDIGANJ",
+      "grampanchayatname": "KAHUARA",
+      "ihhltotalasperdetails": 891,
+      "ihhltotalach": 891,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "NARDIGANJ",
+      "grampanchayatname": "KOSLA",
+      "ihhltotalasperdetails": 1014,
+      "ihhltotalach": 1014,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "NARDIGANJ",
+      "grampanchayatname": "MASAURHA",
+      "ihhltotalasperdetails": 1073,
+      "ihhltotalach": 1073,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "NARDIGANJ",
+      "grampanchayatname": "NARDIGANJ",
+      "ihhltotalasperdetails": 1259,
+      "ihhltotalach": 1259,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "NARDIGANJ",
+      "grampanchayatname": "NENAURA",
+      "ihhltotalasperdetails": 1444,
+      "ihhltotalach": 1444,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "NARDIGANJ",
+      "grampanchayatname": "ORDO",
+      "ihhltotalasperdetails": 1155,
+      "ihhltotalach": 1155,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "NARDIGANJ",
+      "grampanchayatname": "PARMAN",
+      "ihhltotalasperdetails": 1430,
+      "ihhltotalach": 1430,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "NARDIGANJ",
+      "grampanchayatname": "PES",
+      "ihhltotalasperdetails": 2285,
+      "ihhltotalach": 2285,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "NARHAT",
+      "grampanchayatname": "BABHNAUR",
+      "ihhltotalasperdetails": 1176,
+      "ihhltotalach": 1176,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "NARHAT",
+      "grampanchayatname": "JAMUARA",
+      "ihhltotalasperdetails": 1329,
+      "ihhltotalach": 1329,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "NARHAT",
+      "grampanchayatname": "KHANWAN",
+      "ihhltotalasperdetails": 919,
+      "ihhltotalach": 919,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "NARHAT",
+      "grampanchayatname": "KONIBAR",
+      "ihhltotalasperdetails": 1077,
+      "ihhltotalach": 1077,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "NARHAT",
+      "grampanchayatname": "NARHAT",
+      "ihhltotalasperdetails": 1116,
+      "ihhltotalach": 1116,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "NARHAT",
+      "grampanchayatname": "PALI KHURD",
+      "ihhltotalasperdetails": 1145,
+      "ihhltotalach": 1145,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "NARHAT",
+      "grampanchayatname": "PUNAUL",
+      "ihhltotalasperdetails": 1207,
+      "ihhltotalach": 1207,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "NARHAT",
+      "grampanchayatname": "PUNTHAR",
+      "ihhltotalasperdetails": 904,
+      "ihhltotalach": 904,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "NARHAT",
+      "grampanchayatname": "SAIDAPUR GOWASA",
+      "ihhltotalasperdetails": 897,
+      "ihhltotalach": 897,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "NARHAT",
+      "grampanchayatname": "SHEKHPURA",
+      "ihhltotalasperdetails": 1287,
+      "ihhltotalach": 1287,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "NAWADA",
+      "grampanchayatname": "AANTI",
+      "ihhltotalasperdetails": 1420,
+      "ihhltotalach": 1420,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "NAWADA",
+      "grampanchayatname": "BHADAUNI",
+      "ihhltotalasperdetails": 2145,
+      "ihhltotalach": 2145,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "NAWADA",
+      "grampanchayatname": "BHADOKHARA",
+      "ihhltotalasperdetails": 630,
+      "ihhltotalach": 630,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "NAWADA",
+      "grampanchayatname": "BHAGWAN PUR",
+      "ihhltotalasperdetails": 1248,
+      "ihhltotalach": 1248,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "NAWADA",
+      "grampanchayatname": "DEDAUR",
+      "ihhltotalasperdetails": 1278,
+      "ihhltotalach": 1278,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "NAWADA",
+      "grampanchayatname": "GONAWA",
+      "ihhltotalasperdetails": 1439,
+      "ihhltotalach": 1439,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "NAWADA",
+      "grampanchayatname": "JAMUAWAN PATWASARAI",
+      "ihhltotalasperdetails": 1675,
+      "ihhltotalach": 1675,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "NAWADA",
+      "grampanchayatname": "JHUNATHI",
+      "ihhltotalasperdetails": 1518,
+      "ihhltotalach": 1518,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "NAWADA",
+      "grampanchayatname": "KENA",
+      "ihhltotalasperdetails": 1938,
+      "ihhltotalach": 1938,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "NAWADA",
+      "grampanchayatname": "KHARANT",
+      "ihhltotalasperdetails": 1537,
+      "ihhltotalach": 1537,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "NAWADA",
+      "grampanchayatname": "LOHARPURA",
+      "ihhltotalasperdetails": 1326,
+      "ihhltotalach": 1326,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "NAWADA",
+      "grampanchayatname": "MAHULI",
+      "ihhltotalasperdetails": 1622,
+      "ihhltotalach": 1622,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "NAWADA",
+      "grampanchayatname": "NONOURA",
+      "ihhltotalasperdetails": 1377,
+      "ihhltotalach": 1377,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "NAWADA",
+      "grampanchayatname": "ORAINA",
+      "ihhltotalasperdetails": 1840,
+      "ihhltotalach": 1840,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "NAWADA",
+      "grampanchayatname": "PAURA",
+      "ihhltotalasperdetails": 1079,
+      "ihhltotalach": 1079,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "NAWADA",
+      "grampanchayatname": "QADIR GANJ",
+      "ihhltotalasperdetails": 1657,
+      "ihhltotalach": 1657,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "NAWADA",
+      "grampanchayatname": "SAMAI",
+      "ihhltotalasperdetails": 1702,
+      "ihhltotalach": 1702,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "NAWADA",
+      "grampanchayatname": "SONSIHARI",
+      "ihhltotalasperdetails": 1456,
+      "ihhltotalach": 1456,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "PAKRI BARAWAN",
+      "grampanchayatname": "BALKHUNDA",
+      "ihhltotalasperdetails": 1225,
+      "ihhltotalach": 1225,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "PAKRI BARAWAN",
+      "grampanchayatname": "BUDHAULI",
+      "ihhltotalasperdetails": 1471,
+      "ihhltotalach": 1471,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "PAKRI BARAWAN",
+      "grampanchayatname": "DATRAUL",
+      "ihhltotalasperdetails": 1241,
+      "ihhltotalach": 1241,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "PAKRI BARAWAN",
+      "grampanchayatname": "DHAMAUL",
+      "ihhltotalasperdetails": 741,
+      "ihhltotalach": 741,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "PAKRI BARAWAN",
+      "grampanchayatname": "DHEWADHA",
+      "ihhltotalasperdetails": 1372,
+      "ihhltotalach": 1372,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "PAKRI BARAWAN",
+      "grampanchayatname": "DHORAH",
+      "ihhltotalasperdetails": 1514,
+      "ihhltotalach": 1514,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "PAKRI BARAWAN",
+      "grampanchayatname": "DUMRAWAN",
+      "ihhltotalasperdetails": 1225,
+      "ihhltotalach": 1225,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "PAKRI BARAWAN",
+      "grampanchayatname": "GULANI",
+      "ihhltotalasperdetails": 1522,
+      "ihhltotalach": 1522,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "PAKRI BARAWAN",
+      "grampanchayatname": "IRURI",
+      "ihhltotalasperdetails": 1355,
+      "ihhltotalach": 1355,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "PAKRI BARAWAN",
+      "grampanchayatname": "JIURI",
+      "ihhltotalasperdetails": 1844,
+      "ihhltotalach": 1844,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "PAKRI BARAWAN",
+      "grampanchayatname": "KABLA",
+      "ihhltotalasperdetails": 1288,
+      "ihhltotalach": 1288,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "PAKRI BARAWAN",
+      "grampanchayatname": "KONANDPUR",
+      "ihhltotalasperdetails": 707,
+      "ihhltotalach": 707,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "PAKRI BARAWAN",
+      "grampanchayatname": "PAKRI BARAWAN SOUTH",
+      "ihhltotalasperdetails": 1096,
+      "ihhltotalach": 1096,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "PAKRI BARAWAN",
+      "grampanchayatname": "PAKRI BARWAN NORTH",
+      "ihhltotalasperdetails": 835,
+      "ihhltotalach": 835,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "PAKRI BARAWAN",
+      "grampanchayatname": "POKSI",
+      "ihhltotalasperdetails": 1524,
+      "ihhltotalach": 1524,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "PAKRI BARAWAN",
+      "grampanchayatname": "UKAURA",
+      "ihhltotalasperdetails": 1163,
+      "ihhltotalach": 1163,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "RAJAULI",
+      "grampanchayatname": "AMAWAN EAST",
+      "ihhltotalasperdetails": 763,
+      "ihhltotalach": 763,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "RAJAULI",
+      "grampanchayatname": "AMAWAN WEST",
+      "ihhltotalasperdetails": 1761,
+      "ihhltotalach": 1761,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "RAJAULI",
+      "grampanchayatname": "ANDHARBARI",
+      "ihhltotalasperdetails": 1063,
+      "ihhltotalach": 1063,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "RAJAULI",
+      "grampanchayatname": "BAHADURPUR",
+      "ihhltotalasperdetails": 1178,
+      "ihhltotalach": 1178,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "RAJAULI",
+      "grampanchayatname": "CHITARKOLI",
+      "ihhltotalasperdetails": 905,
+      "ihhltotalach": 905,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "RAJAULI",
+      "grampanchayatname": "DHAMNI",
+      "ihhltotalasperdetails": 1055,
+      "ihhltotalach": 1055,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "RAJAULI",
+      "grampanchayatname": "FARKA BUZURG",
+      "ihhltotalasperdetails": 1028,
+      "ihhltotalach": 1028,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "RAJAULI",
+      "grampanchayatname": "HARDIA",
+      "ihhltotalasperdetails": 1099,
+      "ihhltotalach": 1099,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "RAJAULI",
+      "grampanchayatname": "JOGYA MARAN",
+      "ihhltotalasperdetails": 610,
+      "ihhltotalach": 610,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "RAJAULI",
+      "grampanchayatname": "LENGURA",
+      "ihhltotalasperdetails": 1212,
+      "ihhltotalach": 1212,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "RAJAULI",
+      "grampanchayatname": "MURHAINA",
+      "ihhltotalasperdetails": 812,
+      "ihhltotalach": 812,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "RAJAULI",
+      "grampanchayatname": "RAJAULI EAST",
+      "ihhltotalasperdetails": 557,
+      "ihhltotalach": 557,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "RAJAULI",
+      "grampanchayatname": "RAJAULI WEST",
+      "ihhltotalasperdetails": 1314,
+      "ihhltotalach": 1314,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "RAJAULI",
+      "grampanchayatname": "SABAIYATAND",
+      "ihhltotalasperdetails": 821,
+      "ihhltotalach": 821,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "RAJAULI",
+      "grampanchayatname": "SIRODABAR",
+      "ihhltotalasperdetails": 656,
+      "ihhltotalach": 656,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "RAJAULI",
+      "grampanchayatname": "TAKUNATAND",
+      "ihhltotalasperdetails": 1384,
+      "ihhltotalach": 1384,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "ROH",
+      "grampanchayatname": "BHATTA",
+      "ihhltotalasperdetails": 1263,
+      "ihhltotalach": 1263,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "ROH",
+      "grampanchayatname": "BHIKHANPUR",
+      "ihhltotalasperdetails": 1605,
+      "ihhltotalach": 1605,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "ROH",
+      "grampanchayatname": "CHHANAUN",
+      "ihhltotalasperdetails": 1702,
+      "ihhltotalach": 1702,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "ROH",
+      "grampanchayatname": "DUMARI",
+      "ihhltotalasperdetails": 1551,
+      "ihhltotalach": 1551,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "ROH",
+      "grampanchayatname": "KOSHIRUKHI",
+      "ihhltotalasperdetails": 1605,
+      "ihhltotalach": 1605,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "ROH",
+      "grampanchayatname": "KUNJ",
+      "ihhltotalasperdetails": 1108,
+      "ihhltotalach": 1108,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "ROH",
+      "grampanchayatname": "MADRA",
+      "ihhltotalasperdetails": 1347,
+      "ihhltotalach": 1347,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "ROH",
+      "grampanchayatname": "MARUI",
+      "ihhltotalasperdetails": 1822,
+      "ihhltotalach": 1822,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "ROH",
+      "grampanchayatname": "MORAWAN",
+      "ihhltotalasperdetails": 1426,
+      "ihhltotalach": 1426,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "ROH",
+      "grampanchayatname": "NAZARDIH",
+      "ihhltotalasperdetails": 803,
+      "ihhltotalach": 803,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "ROH",
+      "grampanchayatname": "OHARI",
+      "ihhltotalasperdetails": 924,
+      "ihhltotalach": 924,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "ROH",
+      "grampanchayatname": "ROH",
+      "ihhltotalasperdetails": 1402,
+      "ihhltotalach": 1402,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "ROH",
+      "grampanchayatname": "SAMAHRIGADH",
+      "ihhltotalasperdetails": 1503,
+      "ihhltotalach": 1503,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "ROH",
+      "grampanchayatname": "SIUR",
+      "ihhltotalasperdetails": 1541,
+      "ihhltotalach": 1541,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "SIRDALA",
+      "grampanchayatname": "ABDUL",
+      "ihhltotalasperdetails": 1385,
+      "ihhltotalach": 1385,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "SIRDALA",
+      "grampanchayatname": "AKAUNA",
+      "ihhltotalasperdetails": 1842,
+      "ihhltotalach": 1842,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "SIRDALA",
+      "grampanchayatname": "BANDHI",
+      "ihhltotalasperdetails": 492,
+      "ihhltotalach": 492,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "SIRDALA",
+      "grampanchayatname": "BARGAWN",
+      "ihhltotalasperdetails": 2011,
+      "ihhltotalach": 2011,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "SIRDALA",
+      "grampanchayatname": "CHAUBEY",
+      "ihhltotalasperdetails": 1793,
+      "ihhltotalach": 1793,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "SIRDALA",
+      "grampanchayatname": "CHAUKIYA",
+      "ihhltotalasperdetails": 235,
+      "ihhltotalach": 235,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "SIRDALA",
+      "grampanchayatname": "DHIRAUNDH",
+      "ihhltotalasperdetails": 356,
+      "ihhltotalach": 356,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "SIRDALA",
+      "grampanchayatname": "GHAGHAT",
+      "ihhltotalasperdetails": 1419,
+      "ihhltotalach": 1419,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "SIRDALA",
+      "grampanchayatname": "KHANPURA",
+      "ihhltotalasperdetails": 1295,
+      "ihhltotalach": 1295,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "SIRDALA",
+      "grampanchayatname": "KHATANGI",
+      "ihhltotalasperdetails": 1727,
+      "ihhltotalach": 1727,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "SIRDALA",
+      "grampanchayatname": "LAUND",
+      "ihhltotalasperdetails": 1629,
+      "ihhltotalach": 1629,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "SIRDALA",
+      "grampanchayatname": "RAJAN",
+      "ihhltotalasperdetails": 1906,
+      "ihhltotalach": 1906,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "SIRDALA",
+      "grampanchayatname": "SANRH MAJHAGAWAN",
+      "ihhltotalasperdetails": 898,
+      "ihhltotalach": 898,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "SIRDALA",
+      "grampanchayatname": "SIRDALLA",
+      "ihhltotalasperdetails": 2125,
+      "ihhltotalach": 2125,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "SIRDALA",
+      "grampanchayatname": "UPARDIH",
+      "ihhltotalasperdetails": 1856,
+      "ihhltotalach": 1856,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "WARISALIGANJ",
+      "grampanchayatname": "APSAND",
+      "ihhltotalasperdetails": 902,
+      "ihhltotalach": 902,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "WARISALIGANJ",
+      "grampanchayatname": "BAGHI BARDIHA",
+      "ihhltotalasperdetails": 1474,
+      "ihhltotalach": 1474,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "WARISALIGANJ",
+      "grampanchayatname": "BIRNANWAN",
+      "ihhltotalasperdetails": 1668,
+      "ihhltotalach": 1668,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "WARISALIGANJ",
+      "grampanchayatname": "CHAKWAI",
+      "ihhltotalasperdetails": 1339,
+      "ihhltotalach": 1339,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "WARISALIGANJ",
+      "grampanchayatname": "DOSUT",
+      "ihhltotalasperdetails": 1385,
+      "ihhltotalach": 1385,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "WARISALIGANJ",
+      "grampanchayatname": "HAJIPUR",
+      "ihhltotalasperdetails": 1713,
+      "ihhltotalach": 1713,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "WARISALIGANJ",
+      "grampanchayatname": "KOCHGAWAN",
+      "ihhltotalasperdetails": 1917,
+      "ihhltotalach": 1917,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "WARISALIGANJ",
+      "grampanchayatname": "KUTRI",
+      "ihhltotalasperdetails": 1619,
+      "ihhltotalach": 1619,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "WARISALIGANJ",
+      "grampanchayatname": "MAKANPUR",
+      "ihhltotalasperdetails": 1828,
+      "ihhltotalach": 1828,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "WARISALIGANJ",
+      "grampanchayatname": "MANJAUR",
+      "ihhltotalasperdetails": 869,
+      "ihhltotalach": 869,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "WARISALIGANJ",
+      "grampanchayatname": "MOHIUDDINPUR",
+      "ihhltotalasperdetails": 830,
+      "ihhltotalach": 830,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "WARISALIGANJ",
+      "grampanchayatname": "MOSAMA",
+      "ihhltotalasperdetails": 1626,
+      "ihhltotalach": 1626,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "WARISALIGANJ",
+      "grampanchayatname": "PAINGARI",
+      "ihhltotalasperdetails": 1278,
+      "ihhltotalach": 1278,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "WARISALIGANJ",
+      "grampanchayatname": "SAUR",
+      "ihhltotalasperdetails": 1471,
+      "ihhltotalach": 1471,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "WARISALIGANJ",
+      "grampanchayatname": "SHAHPUR",
+      "ihhltotalasperdetails": 1242,
+      "ihhltotalach": 1242,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "NAWADA",
+      "blockname": "WARISALIGANJ",
+      "grampanchayatname": "THERA",
+      "ihhltotalasperdetails": 1566,
+      "ihhltotalach": 1566,
+      "date": "5/19/2020 12:00:00 AM"
+    }
+  ]
+}

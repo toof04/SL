@@ -1,0 +1,182 @@
+Sl.No,"Name of the Regional Office","Name of the ULB/RDMA",Address,"Telephone No. with STD code","Fax Number ","Email id","No.of Wards"
+1,Chengalpattu,"RDMA office","No.124.GST Road,Chengalpattu",044-27424192,044-27424192,rdma.chengalpet@tn.gov.in,NA
+2,Chengalpattu,Chengalpattu,"GST Road,Chengalpattu",044-27422251,044-27422251,commr.chengalpattu@tn.gov.in,33
+3,Chengalpattu,Kancheepuram,"Annai Indra Gandhi Salai, Kancheepuram",044-27422251,044-27422251,commr.kancheepuram@tn.gov.in,51
+4,Chengalpattu,Madurantakam,"GST Road, Madurantakam",044-27222801,044-27222801,commr.madhuranthagam@tn.gov.in,24
+5,Chengalpattu,Pallavapuram,"No.6, 6th Cross Street, New Colony, Chromepet, Chennai",044-22416909,044-2241700,commr.pallavapuram@tn.gov.in,42
+6,Chengalpattu,Tambaram,"10,Muthurangam  Street,Tambaram,Chennai",044-22264790,044-2221700,commr.tambaram@tn.gov.in,39
+7,Chengalpattu,Anakaputhur,"10,Muthurangam  Street,Tambaram,Chennai",044-22480953,044-2241700,commr.anakaputhur@tn.gov.in,18
+8,Chengalpattu,Pammal,"Dr.Ambedkar Salai (Pozhichalur Salai), Pammal",044-22483110,044-22483110,commr.pammal@tn.gov.in,21
+9,Chengalpattu,"Mariamalai Nagar","Maraimalai Adigalar Road, Maraimalainagar",044-27452297,044-27452297,commr.maraimalainagar@tn.gov.in,21
+10,Chengalpattu,Avadi,"154,MNM Road, Avadi,Chennai",044-26553980,044-2651700,commr.avadi@tn.gov.in,48
+11,Chengalpattu,Tiruvallur,"56,J.N.Road, Tiruvallur",044-27660226,044-27660226,commr.tiruvallur@tn.gov.in,48
+12,Chengalpattu,Poonamallee,"Trunk Road, Kandasamy Nagar, Poonamallee",044-26491611,044-26491611,commr.poonamalleer@tn.gov.in,27
+13,Chengalpattu,Thiruverkadu,"Sivan Koil street,Thiruverkadu,Chennai",044-26800437,044-26800437,commr.thiruverkadu@tn.gov.in,21
+14,Chengalpattu,Thiruthani,"78,M.P.S. Road, Tiruthani",044-27885258,044-27885258,commr.thiruthani@tn.gov.in,21
+15,Chengalpattu,Chidambaram,"2,Cutchery Road, Chidambaram",04142-230021,04142-230021,commr.cuddalore@tn.gov.in,33
+16,Chengalpattu,Cuddaloare,"Bharathi Road, Manjakuppam, Cuddalore",04144-222231,04144-222231,commr.chidambaram@tn.gov.in,45
+17,Chengalpattu,Panruti,"Diversion Road, Panruti",04142-242110,04142-242110,commr.panruti@tn.gov.in,33
+18,Chengalpattu,Nellikuppam,"439,Main Road, Nellikuppam",04142-272249,04142-272249,commr.nellikuppam@tn.gov.in,33
+19,Chengalpattu,Virudhachalam,"31,Ayyanar Koil Street, Virudhachalam",04143-230240,04143-230240,commr.virudhachalam@tn.gov.in,33
+20,Chengalpattu,Sembakkam,"1,Kalaivani Street,       Kamarajapuram,Sembakkam",044-22282115,NA,commr.sembakkam@tn.gov.in,15
+21,Madurai,RDMA,"3rd Floor  Aringar  Anna Maligai, Madurai  Corporation  Building, Madurai -625002",0452-2539821,NA,rdma.madurai@tn.gov.in,NA
+22,Madurai,Theni-Allinagaram,"Theni-Allinagaram  Municipal  Office,Nehruji Road, Theni Allinagaram - 625 531.",04546-252470,NA,commr.theni@tn.gov.in,33
+23,Madurai,Bodinaykanur,"Bodinayakanur  Municipal  Office,25-Kamarajapandian Road, Bodinayakanur - 625 513.",04546-280228,NA,commr.bodi@tn.gov.in,33
+24,Madurai,Cumbum,"Cumbum  Municipal  Office46/31, Sukkankal Road, Cumbum - 625 516.",04554-271283,NA,commr.cumbum@tn.gov.in,33
+25,Madurai,Chinnamanur,"Chinnamanur  Municipal  Office,Cumbum Road, Chinnamanur - 625 515.",04554-247383,NA,commr.chinnamanur@tn.gov.in,27
+26,Madurai,Periyakulam,"Periyakulam Municipal Office, Katcheri Road, ThenkaraiPeriyakulam - 625 601.",04546-231210,NA,commr.periyakulam@tn.gov.in,30
+27,Madurai,Gudalur,"Gudalur Municipal Office, Gudalur - 625 518.",04554-231236,NA,commr.gudalur-mdu@tn.gov.in,NA
+28,Madurai,Tirumangalam,"Thirumangalam  Municipal  Office, Madurai Road, Madurai-625 706",04549-280757,NA,commr.tirumangalam@tn.gov.in,27
+29,Madurai,Melur,"Melur Municipal Office, Thiruvathavoor Road, Melur - 625 106.",0452-2415239,NA,commr.melur@tn.gov.in,27
+30,Madurai,Usilampatti,"Usilampatti  Municipal  Office, DEO Office Road, Usilampatti - 625 532.",04552-252384,NA,commr.usilampatti@tn.gov.in,24
+31,Madurai,Sivagangai,"Sivagangai  Municipal OfficeThondi Road, Sivagangai - 630 561.",04575-241253,NA,commr.sivagangai@tn.gov.in,27
+32,Madurai,Karaikudi,"Karaikudi  Municipal  Office,100 Feet Road, Karaikudi - 630 001.",04565-238201,NA,commr.karaikudi@tn.gov.in,36
+33,Madurai,Devakottai,"Devakottai Municipal Office, Thiruppathur Road, Devekottai - 630 302.",04561-272232,NA,commr.devakkottai@tn.gov.in,27
+34,Madurai,Ramanathapuram,"Ramanathapuram Municipal Office,Vandikara Street, Ramanathapuram - 623 501.",04567-220445,NA,commr.ramanathapuram@tn.gov.in,33
+35,Madurai,Paramakudi,"Paramakudi  Municipal  Office,4/311, Gandhiji Road, Paramakudi - 623 707.",04564-226742,NA,commr.paramakudi@tn.gov.in,36
+36,Madurai,Rameswaram,"Rameswaram Municipal Office, Rameswaram - 623 526.",04573-221264,NA,commr.rameswaram@tn.gov.in,21
+37,Madurai,Keelakarai,"Keelakarai Municipal Office, V.S.Salai,  Keelakarai - 623 517.",04567-241317,NA,commr.keelakarai@tn.gov.in,21
+38,Madurai,Kodaikanal,"Kodaikanal Municipal Office, Lake Road, Kodaikanal - 624 101.",04542-241253,NA,commr.kodaikanal@tn.gov.in,24
+39,Madurai,Palani,"Palani Municipal Office, Palani Main RoadPalani - 624 601.",04545-242214,NA,commr.palani@tn.gov.in,33
+40,Madurai,Oddanchatram,"Oddanchatram  Municipal  Office.Palani Road, Oddanchatram - 624 619.",04553-240255,NA,commr.oddanchatram@tn.gov.in,18
+41,Salem,"RDMA office, Salem",NA,0427-2413536,NA,rdma.salem@tn.gov.in,NA
+42,Salem,Attur,"634, Ranipet Bazaar Street, Attur",04282-240773,04282-240317,commr.attur@tn.gov.in,33
+43,Salem,Mettur,NA,"04298-244018,             9443414443",NA,commr.mettur@tn.gov.in,30
+44,Salem,Idappadi,"J.K.P. Road,     Idappadi-637101,     Salem District.",04283-222201,NA,commr.idappadi@tn.gov.in,30
+45,Salem,Narasingapuram,"121 Salem Cuddalore Main Road, Salem District",04282-281495,NA,commr.narasingapruam@tn.gov.in,18
+46,Salem,Namakkal,"Paramathi Road, Namakkal",04286-221001,04286-230002,commr.namakkal@tn.gov.in,39
+47,Salem,Tiruchengode,"Municipal Office,1, Cutchery Street,Tiruchengode - 637 211,",4288252310,04288-252360,commr.tiruchengode@tn.gov.in,33
+48,Salem,Komarapalayam,"Municipal OfficeKomarapalayamNamakkal Dt.",04288-261733,04288-261041,commr.komarapalayam@tn.gov.in,33
+49,Salem,Rasipuram,"NO. 72, Bharathidasan salai,Rasipuram - 637408, Namakkal (Dt)",NA,"04287 222709",commr.rasipuram@tn.gov.in,27
+50,Salem,Pallipalayam,"Pallipalayam Municipality,Namakkal Dt.,Pin : 638 006","04288- 240816 & 04288-240817",NA,commr.pallipalayam@tn.gov.in,21
+51,Salem,Dharmapuri,"43/13, Kandasamy Vathiyar Street, Municipal Office,   Dharmapuri",04342-260387,NA,commr.dharmapuri@tn.gov.in,33
+52,Salem,Krishnagiri,"327 Gandhi RoadKrishnagiri.Krishnagiri District.Pin code -635 001","94439 2264004343-232664",NA,commr.krishnagiri@tn.gov.in,33
+53,Salem,Hosur,"No.1, Bangalore Bye Pass Road, Hosur, Krishnagiri District. Pin-635109",04344-24224104344-24222204344-242402,NA,commr.hosur@tn.gov.in,45
+54,Salem,Karur,NA,"04324- 260341, 261480",NA,commr.karur@tn.gov.in,48
+55,Salem,Kulithalai,"Old Hospital StreetKulithalai-639104Karur District",04323-222321,NA,commr.kulithalai@tn.gov.in,24
+56,Thanjavur,"RDMA- Thanjavur","212, Gandhiji Salai, Gandhiji Commercial Complex, Thanjavur 613 001",04362-270364,NA,rdma.thanjavur@tn.gov.in,NA
+57,Thanjavur,Kumbakonam,"Dr, Murthy Road, Kumbakonam, Thanjavur (Dt) Pin 612001","Office:              0435-2425423 Quaeters : 0435-2410 006  Cell : 9443428644",0435-2425423,commr.kumbakonam@tn.gov.in,45
+58,Thanjavur,Pattukottai,"Kasankulam South Municipal Office, Pudukkottai",04373-252097,"04373-      253758",commr.pattukkottai@tn.gov.in,33
+59,Thanjavur,Nagappattinam,"Public office Road, Kadampadi, Nagapattinam",04365-248055,NA,Commr.nagapattinam@tn.gov.in,36
+60,Thanjavur,Mayiladuthurai,"No.1.PattamangalaStreet,Municipal Office, Mayiladuthurai,Nagapattinam(DT),Tamil Nadu                        Pin-609001.",04364-222555,04364-222554,"Commr.mayiladu thurai@tn.gov.in",36
+61,Thanjavur,Sirkali,"No.1.Kamarajar Street,Municipal Office , Sirkali, Nagapattinam(DT), Tamil Nadu,Pin-609110",04364-270566,04364-270276,Commr.sirkazhi@tn.gov.in,24
+62,Thanjavur,Vedaranyam,"Hospital Street, Vedaranyam , Nagapattinam Dt.",04369-250452,NA,commr.vedaranyam@tn.gov.in,21
+63,Thanjavur,Tiruvarur,"47, South Main Street, Tiruvarur","04366 242590","04366 242590",commr.tiruvarur@tn.gov.in,30
+64,Thanjavur,Mannargudi,"Opp.Govt.Hospital, Gandhi Road, Mannargudi",04367-252263,NA,commr.mannargudi@tn.gov.in,33
+65,Thanjavur,Koothanallur,"1 Syed Hussian Road , Koothanallur,     Tiruvarur Dt  614101",04367-236183,NA,commr.koothanallur@tn.gov.in,24
+66,Thanjavur,Thiruthuraipoondi,"Ramamada Street, Thiruthuraipoondi, Tiruvarur Dt.",04369-220551,NA,commr.thiruthuraipoondi@tn.gov.in,24
+67,Thanjavur,Pudhukottai,"South Main Street, Pudukkottai-622001","04322-222252, 221529",NA,commr.pudukkottai@tn.gov.in,42
+68,Thanjavur,Aranthangi,"#28, Pattukkottai Road-3, Aranthangi-614616",04371-220556,NA,commr.aranthangi@tn.gov.in,27
+69,Thanjavur,Thuraiyur,"Municipal Office,(Near Bus Stand),Thuraiyur-621 010,Trichy Dist.",04327-222347,NA,commr.thuraiyur@tn.gov.in,24
+70,Thanjavur,Manapparai,NA,NA,NA,commr.manapparai@tn.gov.in,27
+71,Thanjavur,Thuvakkudi,"Thuvakudi Municipal Office, Thuvakudy, Trichy-15",0431-2500024,NA,commr.thuvakudi@tn.gov.in,21
+72,Thanjavur,Perambalur,"Amaravathi Thidal, Thuraiyur Main Road, Perambalur       621 212",04328-277185,NA,commr.perambalur@tn.gov.in,21
+73,Thanjavur,Ariyalur,"107,Market Street, Ariyalur",04329-220988,NA,commr.ariyalur@tn.gov.in,18
+74,Thanjavur,Jayakondam,"16, Kattara Street, Bus Stand Road, Jayankondam",04331-250337,NA,commr.jayankondam@tn.gov.in,21
+75,Tirunelveli,"RDMA Office,Tirunelveli","Near Palay Bus Stand, Tirunelveli -2",0462-2561998,0462-2561998,rdma.tirunelveli@tn.gov.in,NA
+76,Tirunelveli,Tenkasi,"Tirunelveli Road, Anaikarai St., Tenkasi ,Tirunelveli Dt - 627811",04633-222228,04633-21700,commr.tenkasi@tn.gov.in,33
+77,Tirunelveli,Sankarankoil,"62/173, Balasubramanian Salai, Sankarankoil, Tirunelveli Dt    -627756",04636-222236,04636-21700,commr.sankarankoil@tn.gov.in,30
+78,Tirunelveli,Kadayanallur,"11, Main Road, Kadayanallur, Tirunelveli Dt - 627751",04633-240440,04633-21700,commr.kadayanallur@tn.gov.in,33
+79,Tirunelveli,Puliangudi,"9, Subramaniasamy Kovil,  South Sannathi Street,Puliangudi,                        Tirunelveli Dt -627 855",04636-234115,04636-21700,commr.puliyangudi@tn.gov.in,33
+80,Tirunelveli,Sengottai,"63, Jawaharlal Nehru Road, Sengottai- Tirunelveli Dt- 627809",04633-233238,04633-233238,commr.sengottai@tn.gov.in,24
+81,Tirunelveli,Ambasamudram,"149,  Pudugramam St., Ambasamudram Tirunelveli Dt - 627401",04634-254470,"04634- 254470",commr.ambasamudram@tn.gov.in,21
+82,Tirunelveli,Vickramasingapuram,"9/4, East Car Street., Vickramasingapuram, Tirunelveli Dt - 627425.",04634-220343,04634-21700,commr.vikramasingapuram@tn.gov.in,21
+83,Tirunelveli,Kovilpatti,"108, New road, Kovilpatti - 628 501 Thoothukkudi Dist",04632-220404,04632-220404,commr.kovilpatti@tn.gov.in,36
+84,Tirunelveli,Kayalpattinam,"69, Mutharamman Kovil St.,  Kayalpattinam, Thoothukkudi Dist          627 425",04639-280224,04639-21700,commr.kayalpattinam@tn.gov.in,18
+85,Tirunelveli,Nagarcoil,"166, Bala More Road, Nagarcoil,              K.K. Dist.,  -629001",04652-230984,04652-21700,commr.nagarcoil@tn.gov.in,52
+86,Tirunelveli,Colachel,"Main Road, Near Bus Stand, Colachel,    K.K. Dist., 629 251",04651-226229,04651-21700,commr.colachel@tn.gov.in,24
+87,Tirunelveli,"Kuzhithurai Municipality","Kuzhithurai, Marthandam Post, Kanyakumari District,                     pin : 629165",04651-270036,NA,commr.kuzhithurai@tn.gov.in,21
+88,Tirunelveli,Padmanabhapuram,"15/60. Palace Road, Thakkalai Post, Padmanabhapuram, K.K. Dist.,",04651-250728,04651-21700,commr.padmanabhapuram@tn.gov.in,21
+89,Tirunelveli,Rajapalayam,"19, T.P. Mills road, Rajapalayam, Virudhunagar- Dt., 626117",04563-222328,04563-21700,commr.rajapalayam@tn.gov.in,42
+90,Tirunelveli,Virudhunager,"42, Municipal Office Road,                Virudhunager - 626001.",04562-243861,04562-243861,commr.virudhunagar@tn.gov.in,36
+91,Tirunelveli,Sivakasi,"30, Police Station Road, Sivakasi,  Virudhunager- Dist - 626123.",04562-220051,04562-21700,commr.sivakasi@tn.gov.in,33
+92,Tirunelveli,Aruppukottai,"Pandhalkudi Road, Aruppukottai - 626101, Virudhunager- Dist",04566-223300,04562-223300,commr.aruppukkottai@tn.gov.in,36
+93,Tirunelveli,Srivilliputhur,"Municipal Office Road, Srivilliputhur, Virudhunager-Dt.,    626 125",04563-260257,04563-21700,commr.srivilliputhur@tn.gov.in,33
+94,Tirunelveli,Thiruthangal,"71, Sivakasi, Virudhunager, Main Road, Thiruthangal,   Virudhunager- Dist 626 130",04562-232367,04562-21700,commr.thiruthangal@tn.gov.in,21
+95,Tirunelveli,Sattur,"19/10, Sivankoil, South Car St., Sattur, Virudhunager- Dist- 626203",04562-260356,04562-21700,commr.sattur@tn.gov.in,24
+96,Tiruppur,"RDMA Office, Tiruppur","1st Floor, Kumaran Shopping Complex, Kumaran Road, Tiruppur-1.",0421-2200308,NA,rdma.tiruppur@tn.gov.in,NA
+97,Tiruppur,Pollachi,"Palghat Road,Pollachi,642001","04259 220999",04259225355,commr.pollachi@tn.gov.in,36
+98,Tiruppur,Udumalpet,"Dhali Road, Udumalpet","04252 - 223885","04252 -223865",commr.udumalaipet@tn.gov.in,33
+99,Tiruppur,Mettupayam,"26,Market road,Mettupalayam",04254-222324,04254-222324,commr.mettupalayam@tn.gov.in,33
+100,Tiruppur,Bhavani,"Varnapuram, IInd street,  Erode District","04256 230556, 230410",-,commr.bhavani@tn.gov.in,27
+101,Tiruppur,Sathyamangalam,"Mysore Trunk Road, Rangasamudram, Sathyamangalam",0429-5220870,0429-5220870,commr.sathyamangalam@tn.gov.in,27
+102,Tiruppur,Gobichettipalayam,"Cutchery street, Gobichettipalayam .","04285 222159, 222559","04285 222559",commr.gobi@tn.gov.in,30
+103,Tiruppur,Dharapuram,"85, New Police Station Road, Dharapuram.","04258 220206","04258 26261",commr.dharapuram@tn.gov.in,30
+104,Tiruppur,Udhagamandalam,"Municipal Office, Udhagamandalam.PIN: 643001",0423-2223242,NA,commr.udhagamandalam@tn.gov.in,36
+105,Tiruppur,Coonoor,"Mount Road, Coonoor - 1, The Nilgiris",0423-2230201,0423-2230701,commr.coonoor@tn.gov.in,30
+106,Tiruppur,Valparai,"Main Road, Valparai",04253-222394,04253-222394,commr.valparai@tn.gov.in,21
+107,Tiruppur,Palladam,"No. 1, Trichy Main Road, Palladam-4.","04255 253087",NA,commr.palladam@tn.gov.in,18
+108,Tiruppur,"Punjai Puliampatti","339 Jawahar Main Road, Punjai Puliampatti.","04295 - 267061",NA,commr.punjaipuliampatti@tn.gov.in,18
+109,Tiruppur,Vellakovil,"210, TC Mainroad, Vellakovil - 638111.","04257 - 260580,  261380, 264170","04257 - 261380",commr.vellakoil@tn.gov.in,21
+110,Tiruppur,Gudalur,"Municipality Office    Rajagopalapuram,Ooty Road,           Gudalur","04262- 261358","04262- 261358",commr.gudalur-tpr@tn.gov.in,21
+111,Tiruppur,Neliyalam,"The Commissioner, Nelliyalam Municipality, Pandalur.",04262-220238,04262-220718,commr.nelliyalam@tn.gov.in,21
+112,Tiruppur,Kangeyam,"Ayyan Thiru valluvar Maaligai, Kangeyam Main Road, Kangeyam.",04257-220608,NA,commr.kangeyam@tn.gov.in,18
+113,Vellore,"RDMA Office,","Sarathy Nagar, Kagithapatatai,    Vellore-12",0416-2220807,NA,rdma.vellore@tn.gov.in,NA
+114,Vellore,Ambur,"Municipal office, Ambur","04174 - 242890",NA,commr.ambur@tn.gov.in,36
+115,Vellore,Arcot,"Municipal Officer,6 Santhapettai st,Arcot","04172 - 235900",NA,commr.arcot@tn.gov.in,30
+116,Vellore,Arakkonam,"Municipal Office, 110 , Gandhi Road, Arakkonam","04177-236236,",NA,commr.arakkonam@tn.gov.in,36
+117,Vellore,Gudiyatham,"Municipal Office, R.S.Road, Gudiyatham","04171-220738,",NA,commr.gudiyatham@tn.gov.in,36
+118,Vellore,Ranipet,"3,Railway Station Road,Ranipet",04172-272502,NA,commr.ranipet@tn.gov.in,30
+119,Vellore,Tirupattur,"Municipal office, Govt. Garden , Tirupathur","04179 - 220130",NA,commr.thriupathur@tn.gov.in,36
+120,Vellore,Vaniyambadi,"Municipal Office, By Pass road, Vaniyambadi    &  Mpl commissioner, C.MOULANA  Street, Vaniyambai","04174 - 233142,",NA,commr.vaniyambadi@tn.gov.in,36
+121,Vellore,Walajapet,"Municipal Office, MBT Road,Walajapet","04172 - 232837",NA,commr.walajapet@tn.gov.in,24
+122,Vellore,Jolarpaet,"Municipal Office, Ediyampattim Jolarpet","04179 - 241268",NA,commr.jolarpet@tn.gov.in,18
+123,Vellore,Melvisharam,"Municipal Officer,6 Santhapettai st,Arcot","04172 - 266049",NA,commr.melvisharam@tn.gov.in,21
+124,Vellore,pernampattu,"Municipal office,Chowk Road, Pernampattu","04171 - 232203",NA,commr.pernampattu@tn.gov.in,21
+125,Vellore,Tiruvannamalai,"SannathiStreet, ThiruvannamalaiPin:606601",04175-222344,04175-220942,commr.thiruvannamalai@tn.gov.in,39
+126,Vellore,Arni,"Municipal Office ,Arni",04173-226921,04173-222321,commr.arani@tn.gov.in,33
+127,Vellore,Thirvathipuram,"5,Arcot Road,          Anumanthanpet, Cheyyar.",04182-222242,NA,commr.thiruvathipuram@tn.gov.in,27
+128,Vellore,Vandavasi,"Municipal Office ,Vandavasi",04183-225048,04183-225048,commr.vandavasi@tn.gov.in,24
+129,Vellore,Villupuram,"PJN Road, Villupuram-605602",04146-222206,NA,commr.villupuram@tn.gov.in,42
+130,Vellore,Tindivanam,"Hospital Road, Tindivanam",04147-222073,04147-222073,commr.tindivanam@tn.gov.in,33
+131,Vellore,Kallakurichi,"Municipal Office,                 Rajambal Nagar,                Salem Main Road, Kallakurichi-606202",04151-2227983,NA,commr.kallakurichi@tn.gov.in,21
+132,"Madurai Corporation","Main Office","2. Aringar Anna Maligai, Outpost, Thallakulam,Madurai -625 002","0452-2530521, 0452-2530526",NA,"commr.madurai@tn.gov.in,mducorp@gmail.com",100
+133,"Madurai Corporation","ZONE- 1 -West","T.B. Road, (Nr Railway Station) Madurai",NA,NA,NA,NA
+134,"Madurai Corporation","ZONE -2 - North","Racecourse Road, Tallakulam Road, Madurai",NA,NA,NA,NA
+135,"Madurai Corporation","ZONE -3 -East","Munisalai, Madurai",NA,NA,NA,NA
+136,"Madurai Corporation","ZONE -4- South","West Maret Road, Madurai",NA,NA,NA,NA
+137,"Coimbatore Corporation","Main Office","Big Bazar Street,Town Hall Coimbatore - 641 001","0422-2390261,0422-2390262,2390261",NA,"commr.coimbatore@tn.gov.in,dc@ccmc.gov.in",100
+138,"Coimbatore Corporation","East Zone","Trichy Road, Singanallur",NA,NA,NA,NA
+139,"Coimbatore Corporation","West Zone","Ramachandra Road, R.S.Puram",NA,NA,NA,NA
+140,"Coimbatore Corporation","Ceneral Zone","Hosur Road, Coimbatore",NA,NA,NA,NA
+141,"Coimbatore Corporation","North Zone","R.T.O Office Road, Gandhipuram",NA,NA,NA,NA
+142,"Coimbatore Corporation","South zone","Palakkad Main Road,Kuniyamuthur Post,Coimbatore",NA,NA,NA,NA
+143,"Trichy Corporation","Main Office","No.58, Bharathidasan Salai, Contonment,Tiruchirappalli - 620 001",0431-2415329,NA,commr.trichy@tn.gov.in,65
+144,"Trichy Corporation","ZONE- 1","Co-Abhishekarapuram,EVR Road,Trichy-17","0431 -2772098",NA,ackabi.tcc@gmail.com,NA
+145,"Trichy Corporation","ZONE -2","Ponmalai zone Main office Buildings,Bharadhisan Salai, Trichy -1","0431 -2415393",NA,acpon.tcc@gmail.com,NA
+146,"Trichy Corporation","ZONE -3","Srirangam,Gandhi Road,Trichy","431 -2432255",NA,acsri.tcc@gmail.com,NA
+147,"Trichy Corporation","ZONE -4","Ariymangalam,Balakarai Main Road,Trichy","0431 -2467615",NA,acari.tcc@gmail.com,NA
+148,"Salem Corporation","Main Office","Fort Main Road, Salem",NA,NA,commr.salem@tn.gov.in,60
+149,"Salem Corporation","ZONE- 1","Sarada College Road,Salem",NA,NA,NA,NA
+150,"Salem Corporation","ZONE -2","Old Suramangalam,Salem",NA,NA,NA,NA
+151,"Salem Corporation","ZONE -3","Kondalampatti Zonal Office,Trichy Main Road",NA,NA,NA,NA
+152,"Salem Corporation","ZONE -4","Ammapet Zonal Office,Vidhya Nagar",NA,NA,NA,NA
+153,"Tirunelveli Corporation","Main Office","S.N. High Road,Tirunelveli,627001",NA,NA,commr.tirunelveli@tn.gov.in,55
+154,"Tirunelveli Corporation","Thatchanallur Ward Office","Madurai Road,  Tirunelveli Junction,Tirunelveli",NA,NA,NA,NA
+155,"Tirunelveli Corporation","Melappalayam Ward Office","Nethaji Road, Melappalayam",NA,NA,NA,NA
+156,"Tirunelveli Corporation","Palayamkottai ward office","Tiruvandrum Road,Palayamkottai",NA,NA,NA,NA
+157,"Tirunelveli Corporation","Tirunelveli  Ward office","Corporation Office Building",NA,NA,NA,NA
+158,"Tirunelveli Corporation",NA,"SN High Road, Tirunelveli","0462 - 2336633",NA,NA,NA
+159,"Tiruppur Corporation","Main Office","Kumaran Road,State Highway,169,Noyyal,Tiruppur",0421-2242101,NA,NA,60
+160,"Tiruppur Corporation","ZONE- 1","15.Velampalayam,Tiruppur",NA,NA,NA,NA
+161,"Tiruppur Corporation","ZONE -2","Thottipalayam,PN road,Tiruppur",NA,NA,NA,NA
+162,"Tiruppur Corporation","ZONE -3","Nallur,GangeyamRoad, Tiruppur.",NA,NA,NA,NA
+163,"Tiruppur Corporation","ZONE -4","Andipalayam,Tiruppur",NA,NA,NA,NA
+164,"Vellore Corporation","Main Office","Infantry Road,Vellore,Pin code-632001",0416-2220576,NA,commr.vellore@tn.gov.in,60
+165,"Vellore Corporation","ZONE- 1","Tharapadaiveedu, Chathiram Bust stand ,Kadpadi,Vellore",NA,NA,NA,NA
+166,"Vellore Corporation","ZONE -2","Sathuvachery,Milk Dairy Road, Vellore",NA,NA,NA,NA
+167,"Vellore Corporation","ZONE -3","Old Municipal Office, AnnasalaiSalai, Vellore.",NA,NA,NA,NA
+168,"Vellore Corporation","ZONE -4","Shenpakkam,Contonment Road,Vellore",NA,NA,NA,NA
+169,"Thoothukudi Corporation","Main Office","113, Palai Road,Thoothukudi-628002",0461-2320457,NA,commr.thoothukudi@tn.gov.in,60
+170,"Thoothukudi Corporation","South Zone","JS Nagar,Muthaiypuram, Thoothukudi",NA,NA,NA,NA
+171,"Thoothukudi Corporation","North zone","Pollpettai Road,SBI Colony.",NA,NA,NA,NA
+172,"Thoothukudi Corporation",NA,Thoothukudi,NA,NA,NA,NA
+173,"Thoothukudi Corporation","West Zone","Great Cotton Road,Thoothukudi",NA,NA,NA,NA
+174,"Thoothukudi Corporation","East Zone","Great Cotton Road,Thoothukudi",NA,NA,NA,NA
+175,"Erode Corporation","Main Office",NA,"0424 - 2251616",NA,commr.erode@tn.gov.in,60
+176,"Erode Corporation","ZONE- 1","Door No. 1 Javuli Nagar, RN Pudhur.",NA,NA,NA,NA
+177,"Erode Corporation","ZONE -2","EBB Nagar, Soolai , Erode",NA,NA,NA,NA
+178,"Erode Corporation","ZONE -3","Door No. 32, Dr. Radhakrishnnan Salai, Teachers Colony,",NA,NA,NA,NA
+179,"Erode Corporation","ZONE -4","Poonthurai Main Road, Moolappalayam, Erode",NA,NA,NA,NA
+180,"Dindigul Corporation","Main Office","Dindigul Municipal Office, 13/9 Main Road, Dindigul - 624 001.",0451-2429947,"0451- 2429947",commr.dindigul@tn.gov.in,44
+181,"Thanjavur Corporation","Main Office","Gandhiji Road,Thanjavur-613001","04362 - 231553",04362-277280,commr.thanjavur@tn.gov.in,51

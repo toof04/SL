@@ -1,0 +1,310 @@
+{
+  "created": 1496982168,
+  "updated": 1543515253,
+  "title": "State-wise Percentage of Schools having Computer Aided Learning (CAL) Facility - DISE 2012-13: Flash Statistics",
+  "source": "data.gov.in",
+  "org_type": "Central",
+  "org": [
+    "NITI Aayog"
+  ],
+  "sector": [
+    "Elementary",
+    "Education"
+  ],
+  "visualizable": "1",
+  "index_name": "8dde8fb6-ba5e-49c1-9618-4e6e61bcc69f",
+  "catalog_uuid": "24b1201b-c825-4dd3-acbd-6c15f2fa1863",
+  "status": "ok",
+  "field": [
+    {
+      "id": "states_uts",
+      "name": "States/UTs",
+      "type": "keyword"
+    },
+    {
+      "id": "cal_facility_upper_primary_schools___sections_2011_12",
+      "name": "CAL Facility : Upper Primary Schools - Sections 2011-12",
+      "type": "double"
+    },
+    {
+      "id": "cal_facility_upper_primary_schools___sections_2012_13",
+      "name": "CAL Facility : Upper Primary Schools - Sections 2012-13",
+      "type": "double"
+    },
+    {
+      "id": "library___primary_schools_2012_13",
+      "name": "Library - Primary Schools 2012-13",
+      "type": "double"
+    },
+    {
+      "id": "library___all_schools_2012_13",
+      "name": "Library - All Schools 2012-13",
+      "type": "double"
+    }
+  ],
+  "created_date": "2017-06-09T09:52:48Z",
+  "updated_date": "2018-11-29T23:44:13Z",
+  "active": "1",
+  "external_ws_url": "",
+  "external_ws": "0",
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "total": 36,
+  "count": 36,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "states_uts": "A & N Islands",
+      "cal_facility_upper_primary_schools___sections_2011_12": "36.72",
+      "cal_facility_upper_primary_schools___sections_2012_13": "36.84",
+      "library___primary_schools_2012_13": "66.79",
+      "library___all_schools_2012_13": "76.72"
+    },
+    {
+      "states_uts": "Andhra Pradesh",
+      "cal_facility_upper_primary_schools___sections_2011_12": "23.69",
+      "cal_facility_upper_primary_schools___sections_2012_13": "23.61",
+      "library___primary_schools_2012_13": "91.11",
+      "library___all_schools_2012_13": "89.96"
+    },
+    {
+      "states_uts": "Arunachal Pradesh",
+      "cal_facility_upper_primary_schools___sections_2011_12": "19.19",
+      "cal_facility_upper_primary_schools___sections_2012_13": "18.61",
+      "library___primary_schools_2012_13": "2.73",
+      "library___all_schools_2012_13": "9.36"
+    },
+    {
+      "states_uts": "Assam",
+      "cal_facility_upper_primary_schools___sections_2011_12": "13.63",
+      "cal_facility_upper_primary_schools___sections_2012_13": "14.71",
+      "library___primary_schools_2012_13": "26.97",
+      "library___all_schools_2012_13": "30.29"
+    },
+    {
+      "states_uts": "Bihar",
+      "cal_facility_upper_primary_schools___sections_2011_12": "2.65",
+      "cal_facility_upper_primary_schools___sections_2012_13": "3.19",
+      "library___primary_schools_2012_13": "45.56",
+      "library___all_schools_2012_13": "54.56"
+    },
+    {
+      "states_uts": "Chandigarh",
+      "cal_facility_upper_primary_schools___sections_2011_12": "82.66",
+      "cal_facility_upper_primary_schools___sections_2012_13": "82.76",
+      "library___primary_schools_2012_13": "92.86",
+      "library___all_schools_2012_13": "96.81"
+    },
+    {
+      "states_uts": "Chhattisgarh",
+      "cal_facility_upper_primary_schools___sections_2011_12": "12.08",
+      "cal_facility_upper_primary_schools___sections_2012_13": "12.65",
+      "library___primary_schools_2012_13": "77.14",
+      "library___all_schools_2012_13": "76.86"
+    },
+    {
+      "states_uts": "Dadra & Nagar Haveli",
+      "cal_facility_upper_primary_schools___sections_2011_12": "40.59",
+      "cal_facility_upper_primary_schools___sections_2012_13": "35.07",
+      "library___primary_schools_2012_13": "86.74",
+      "library___all_schools_2012_13": "91.11"
+    },
+    {
+      "states_uts": "Daman & Diu",
+      "cal_facility_upper_primary_schools___sections_2011_12": "80.77",
+      "cal_facility_upper_primary_schools___sections_2012_13": "69.49",
+      "library___primary_schools_2012_13": "82.14",
+      "library___all_schools_2012_13": "83.33"
+    },
+    {
+      "states_uts": "Delhi",
+      "cal_facility_upper_primary_schools___sections_2011_12": "62.41",
+      "cal_facility_upper_primary_schools___sections_2012_13": "57.77",
+      "library___primary_schools_2012_13": "89.69",
+      "library___all_schools_2012_13": "90.59"
+    },
+    {
+      "states_uts": "Goa",
+      "cal_facility_upper_primary_schools___sections_2011_12": "71.28",
+      "cal_facility_upper_primary_schools___sections_2012_13": "72.41",
+      "library___primary_schools_2012_13": "92.19",
+      "library___all_schools_2012_13": "92.68"
+    },
+    {
+      "states_uts": "Gujarat",
+      "cal_facility_upper_primary_schools___sections_2011_12": "47.46",
+      "cal_facility_upper_primary_schools___sections_2012_13": "47.6",
+      "library___primary_schools_2012_13": "82.28",
+      "library___all_schools_2012_13": "85.41"
+    },
+    {
+      "states_uts": "Haryana",
+      "cal_facility_upper_primary_schools___sections_2011_12": "38.21",
+      "cal_facility_upper_primary_schools___sections_2012_13": "39.36",
+      "library___primary_schools_2012_13": "80.93",
+      "library___all_schools_2012_13": "82.46"
+    },
+    {
+      "states_uts": "Himachal Pradesh",
+      "cal_facility_upper_primary_schools___sections_2011_12": "23.72",
+      "cal_facility_upper_primary_schools___sections_2012_13": "23.76",
+      "library___primary_schools_2012_13": "84.36",
+      "library___all_schools_2012_13": "85.73"
+    },
+    {
+      "states_uts": "Jammu & Kashmir",
+      "cal_facility_upper_primary_schools___sections_2011_12": "10.55",
+      "cal_facility_upper_primary_schools___sections_2012_13": "10.46",
+      "library___primary_schools_2012_13": "12.01",
+      "library___all_schools_2012_13": "31.35"
+    },
+    {
+      "states_uts": "Jharkhand",
+      "cal_facility_upper_primary_schools___sections_2011_12": "10.99",
+      "cal_facility_upper_primary_schools___sections_2012_13": "11.33",
+      "library___primary_schools_2012_13": "75.23",
+      "library___all_schools_2012_13": "77.9"
+    },
+    {
+      "states_uts": "Karnataka",
+      "cal_facility_upper_primary_schools___sections_2011_12": "27.31",
+      "cal_facility_upper_primary_schools___sections_2012_13": "23.3",
+      "library___primary_schools_2012_13": "94.08",
+      "library___all_schools_2012_13": "96.07"
+    },
+    {
+      "states_uts": "Kerala",
+      "cal_facility_upper_primary_schools___sections_2011_12": "67.18",
+      "cal_facility_upper_primary_schools___sections_2012_13": "65.02",
+      "library___primary_schools_2012_13": "80.86",
+      "library___all_schools_2012_13": "82"
+    },
+    {
+      "states_uts": "Lakshadweep",
+      "cal_facility_upper_primary_schools___sections_2011_12": "76.92",
+      "cal_facility_upper_primary_schools___sections_2012_13": "73.08",
+      "library___primary_schools_2012_13": "72.22",
+      "library___all_schools_2012_13": "84.09"
+    },
+    {
+      "states_uts": "Madhya Pradesh",
+      "cal_facility_upper_primary_schools___sections_2011_12": "13.99",
+      "cal_facility_upper_primary_schools___sections_2012_13": "13.22",
+      "library___primary_schools_2012_13": "58.08",
+      "library___all_schools_2012_13": "60"
+    },
+    {
+      "states_uts": "Maharashtra",
+      "cal_facility_upper_primary_schools___sections_2011_12": "13.51",
+      "cal_facility_upper_primary_schools___sections_2012_13": "12.84",
+      "library___primary_schools_2012_13": "77.89",
+      "library___all_schools_2012_13": "83.25"
+    },
+    {
+      "states_uts": "Manipur",
+      "cal_facility_upper_primary_schools___sections_2011_12": "22.91",
+      "cal_facility_upper_primary_schools___sections_2012_13": "19.53",
+      "library___primary_schools_2012_13": "4.17",
+      "library___all_schools_2012_13": "21.59"
+    },
+    {
+      "states_uts": "Meghalaya",
+      "cal_facility_upper_primary_schools___sections_2011_12": "7.7",
+      "cal_facility_upper_primary_schools___sections_2012_13": "8.35",
+      "library___primary_schools_2012_13": "2.85",
+      "library___all_schools_2012_13": "4.98"
+    },
+    {
+      "states_uts": "Mizoram",
+      "cal_facility_upper_primary_schools___sections_2011_12": "15.01",
+      "cal_facility_upper_primary_schools___sections_2012_13": "14.45",
+      "library___primary_schools_2012_13": "34.8",
+      "library___all_schools_2012_13": "36.8"
+    },
+    {
+      "states_uts": "Nagaland",
+      "cal_facility_upper_primary_schools___sections_2011_12": "31.05",
+      "cal_facility_upper_primary_schools___sections_2012_13": "52.98",
+      "library___primary_schools_2012_13": "3.27",
+      "library___all_schools_2012_13": "13.99"
+    },
+    {
+      "states_uts": "Odisha",
+      "cal_facility_upper_primary_schools___sections_2011_12": "7.33",
+      "cal_facility_upper_primary_schools___sections_2012_13": "7.3",
+      "library___primary_schools_2012_13": "71.58",
+      "library___all_schools_2012_13": "76.61"
+    },
+    {
+      "states_uts": "Puducherry",
+      "cal_facility_upper_primary_schools___sections_2011_12": "67.54",
+      "cal_facility_upper_primary_schools___sections_2012_13": "67.92",
+      "library___primary_schools_2012_13": "93.26",
+      "library___all_schools_2012_13": "94.5"
+    },
+    {
+      "states_uts": "Punjab",
+      "cal_facility_upper_primary_schools___sections_2011_12": "57.75",
+      "cal_facility_upper_primary_schools___sections_2012_13": "58.85",
+      "library___primary_schools_2012_13": "88.73",
+      "library___all_schools_2012_13": "86.13"
+    },
+    {
+      "states_uts": "Rajasthan",
+      "cal_facility_upper_primary_schools___sections_2011_12": "11.34",
+      "cal_facility_upper_primary_schools___sections_2012_13": "10.94",
+      "library___primary_schools_2012_13": "38.77",
+      "library___all_schools_2012_13": "57.09"
+    },
+    {
+      "states_uts": "Sikkim",
+      "cal_facility_upper_primary_schools___sections_2011_12": "25.1",
+      "cal_facility_upper_primary_schools___sections_2012_13": "25.14",
+      "library___primary_schools_2012_13": "12.53",
+      "library___all_schools_2012_13": "26.74"
+    },
+    {
+      "states_uts": "Tamil Nadu",
+      "cal_facility_upper_primary_schools___sections_2011_12": "29.42",
+      "cal_facility_upper_primary_schools___sections_2012_13": "27.4",
+      "library___primary_schools_2012_13": "94.96",
+      "library___all_schools_2012_13": "95.42"
+    },
+    {
+      "states_uts": "Tripura",
+      "cal_facility_upper_primary_schools___sections_2011_12": "3.61",
+      "cal_facility_upper_primary_schools___sections_2012_13": "4.12",
+      "library___primary_schools_2012_13": "5.33",
+      "library___all_schools_2012_13": "11.55"
+    },
+    {
+      "states_uts": "Uttar Pradesh",
+      "cal_facility_upper_primary_schools___sections_2011_12": "7.17",
+      "cal_facility_upper_primary_schools___sections_2012_13": "14.47",
+      "library___primary_schools_2012_13": "74.88",
+      "library___all_schools_2012_13": "73.86"
+    },
+    {
+      "states_uts": "Uttarakhand",
+      "cal_facility_upper_primary_schools___sections_2011_12": "36.92",
+      "cal_facility_upper_primary_schools___sections_2012_13": "37.32",
+      "library___primary_schools_2012_13": "83.06",
+      "library___all_schools_2012_13": "80.17"
+    },
+    {
+      "states_uts": "West Bengal",
+      "cal_facility_upper_primary_schools___sections_2011_12": "14.19",
+      "cal_facility_upper_primary_schools___sections_2012_13": "13.77",
+      "library___primary_schools_2012_13": "37.63",
+      "library___all_schools_2012_13": "39.85"
+    },
+    {
+      "states_uts": "All States",
+      "cal_facility_upper_primary_schools___sections_2011_12": "18.68",
+      "cal_facility_upper_primary_schools___sections_2012_13": "19.1",
+      "library___primary_schools_2012_13": "64.47",
+      "library___all_schools_2012_13": "68.95"
+    }
+  ]
+}

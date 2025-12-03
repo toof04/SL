@@ -1,0 +1,212 @@
+{
+  "index_name": "528ddbe8-f195-46c2-a4fc-5fa65341b04a",
+  "title": "Total and Surfaced Road Length by Categories in India as on 31st March 2014",
+  "desc": "Total and Surfaced Road Length by Categories in India as on 31st March 2014",
+  "created": 1503472482,
+  "updated": 1543519336,
+  "visualizable": "1",
+  "source": "data.gov.in",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Road Transport and Highways"
+  ],
+  "sector": [
+    "Roads"
+  ],
+  "catalog_uuid": "b7faf63a-6898-41eb-9625-1bfce2d8657a",
+  "status": "ok",
+  "field": [
+    {
+      "id": "_sl_no",
+      "name": "Sl No",
+      "type": "keyword"
+    },
+    {
+      "id": "india_category",
+      "name": "India/Category",
+      "type": "keyword"
+    },
+    {
+      "id": "sub_category",
+      "name": "Sub-Category",
+      "type": "keyword"
+    },
+    {
+      "id": "_total",
+      "name": "Total",
+      "type": "double"
+    },
+    {
+      "id": "surfaced",
+      "name": "Surfaced",
+      "type": "double"
+    }
+  ],
+  "created_date": "2017-08-23T07:14:42Z",
+  "updated_date": "2018-11-30T00:52:16Z",
+  "active": "1",
+  "external_ws_url": "",
+  "external_ws": "0",
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "total": 22,
+  "count": 22,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "_sl_no": "1",
+      "india_category": "National Highways",
+      "sub_category": "National Highways",
+      "_total": "91286.58",
+      "surfaced": "91286.58"
+    },
+    {
+      "_sl_no": "2",
+      "india_category": "State Highways",
+      "sub_category": "State Highways",
+      "_total": "170818.135",
+      "surfaced": "168953"
+    },
+    {
+      "_sl_no": "3",
+      "india_category": "Other PWD Roads",
+      "sub_category": "Other PWD Roads",
+      "_total": "1082267",
+      "surfaced": "944189"
+    },
+    {
+      "_sl_no": "4",
+      "india_category": "Rural Roads",
+      "sub_category": "Rural Roads",
+      "_total": "2404328",
+      "surfaced": "1408176"
+    },
+    {
+      "_sl_no": "4",
+      "india_category": "Rural Roads",
+      "sub_category": "Panchayati Raj Roads (Zilla Parishad/ Village Panchayat / CD/ Panchayat Samiti Roads)",
+      "_total": "1800747",
+      "surfaced": "962537"
+    },
+    {
+      "_sl_no": "4",
+      "india_category": "Rural Roads",
+      "sub_category": "PMGSY Roads",
+      "_total": "603581",
+      "surfaced": "445639"
+    },
+    {
+      "_sl_no": "5",
+      "india_category": "Urban Roads",
+      "sub_category": "Urban Roads",
+      "_total": "457466.91",
+      "surfaced": "338458.91"
+    },
+    {
+      "_sl_no": "5",
+      "india_category": "Urban Roads",
+      "sub_category": "Municipal Roads",
+      "_total": "432083",
+      "surfaced": "314668"
+    },
+    {
+      "_sl_no": "5",
+      "india_category": "Urban Roads",
+      "sub_category": "MES Roads",
+      "_total": "12789",
+      "surfaced": "12653"
+    },
+    {
+      "_sl_no": "5",
+      "india_category": "Urban Roads",
+      "sub_category": "Railway Roads",
+      "_total": "11508",
+      "surfaced": "10097"
+    },
+    {
+      "_sl_no": "5",
+      "india_category": "Urban Roads",
+      "sub_category": "Major Port Roads",
+      "_total": "799.91",
+      "surfaced": "788.91"
+    },
+    {
+      "_sl_no": "5",
+      "india_category": "Urban Roads",
+      "sub_category": "Minor Port Roads",
+      "_total": "287",
+      "surfaced": "252"
+    },
+    {
+      "_sl_no": "6",
+      "india_category": "Project Roads",
+      "sub_category": "Project Roads",
+      "_total": "296319",
+      "surfaced": "86237"
+    },
+    {
+      "_sl_no": "6",
+      "india_category": "Project Roads",
+      "sub_category": "Forest Department Roads",
+      "_total": "165488",
+      "surfaced": "27572"
+    },
+    {
+      "_sl_no": "6",
+      "india_category": "Project Roads",
+      "sub_category": "Irrigation Department Roads",
+      "_total": "101053",
+      "surfaced": "33477"
+    },
+    {
+      "_sl_no": "6",
+      "india_category": "Project Roads",
+      "sub_category": "Electricity Department Roads",
+      "_total": "4815",
+      "surfaced": "4494"
+    },
+    {
+      "_sl_no": "6",
+      "india_category": "Project Roads",
+      "sub_category": "Sugarcane Authority Roads",
+      "_total": "13816",
+      "surfaced": "10281"
+    },
+    {
+      "_sl_no": "6",
+      "india_category": "Project Roads",
+      "sub_category": "Coal Mine Roads",
+      "_total": "3093",
+      "surfaced": "2967"
+    },
+    {
+      "_sl_no": "6",
+      "india_category": "Project Roads",
+      "sub_category": "SAIL & NMDC Roads",
+      "_total": "2709",
+      "surfaced": "2535"
+    },
+    {
+      "_sl_no": "6",
+      "india_category": "Project Roads",
+      "sub_category": "BRO Roads",
+      "_total": "5345",
+      "surfaced": "4911"
+    },
+    {
+      "_sl_no": "All India (Excluding JRY Roads)",
+      "india_category": "All India (Excluding JRY Roads)",
+      "sub_category": "All India (Excluding JRY Roads)",
+      "_total": "4502485.625",
+      "surfaced": "3037300.49"
+    },
+    {
+      "_sl_no": "All India (Including JRY Roads)",
+      "india_category": "All India (Including JRY Roads)",
+      "sub_category": "All India (Including JRY Roads)",
+      "_total": "5402485.625",
+      "surfaced": "3220502.49"
+    }
+  ]
+}

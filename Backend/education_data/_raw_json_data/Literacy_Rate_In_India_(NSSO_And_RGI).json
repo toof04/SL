@@ -1,0 +1,128 @@
+{
+  "index_name": "1471b575-da71-48f5-b635-f376195e3e86",
+  "title": "Literacy Rate In India (NSSO And RGI)",
+  "desc": "Literacy Rate In India (NSSO And RGI)",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Statistics and Programme Implementation"
+  ],
+  "sector": [
+    "Education",
+    "Statistics"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "47392cb4-d46f-4de8-b09d-2883676660a6",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1670741254,
+  "updated": 1670910307,
+  "created_date": "2022-12-11T07:47:34Z",
+  "updated_date": "2022-12-13T11:15:07Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "47392cb4-d46f-4de8-b09d-2883676660a6",
+    "field": "1471b575-da71-48f5-b635-f376195e3e86"
+  },
+  "field": [
+    {
+      "id": "state_union_",
+      "name": "State/Union ",
+      "type": "double"
+    },
+    {
+      "id": "_____rural_male",
+      "name": "     Rural Male",
+      "type": "double"
+    },
+    {
+      "id": "_____rural_female",
+      "name": "     Rural Female",
+      "type": "double"
+    },
+    {
+      "id": "_____rural_persons",
+      "name": "     Rural Persons",
+      "type": "double"
+    },
+    {
+      "id": "_____urban_male",
+      "name": "     Urban Male",
+      "type": "double"
+    },
+    {
+      "id": "_____urban_female",
+      "name": "     Urban Female",
+      "type": "double"
+    },
+    {
+      "id": "_____urban_persons",
+      "name": "     Urban Persons",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 6,
+  "count": 6,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "state_union_": 2003,
+      "_____rural_male": 71,
+      "_____rural_female": 48,
+      "_____rural_persons": 60,
+      "_____urban_male": 88,
+      "_____urban_female": 74,
+      "_____urban_persons": 81
+    },
+    {
+      "state_union_": 2004,
+      "_____rural_male": 72,
+      "_____rural_female": 50,
+      "_____rural_persons": 61,
+      "_____urban_male": 88,
+      "_____urban_female": 75,
+      "_____urban_persons": 82
+    },
+    {
+      "state_union_": 2005,
+      "_____rural_male": "NA",
+      "_____rural_female": "NA",
+      "_____rural_persons": "NA",
+      "_____urban_male": "NA",
+      "_____urban_female": "NA",
+      "_____urban_persons": "NA"
+    },
+    {
+      "state_union_": 2006,
+      "_____rural_male": 75,
+      "_____rural_female": 52,
+      "_____rural_persons": 64,
+      "_____urban_male": 89,
+      "_____urban_female": 77,
+      "_____urban_persons": 83
+    },
+    {
+      "state_union_": 2007,
+      "_____rural_male": 76,
+      "_____rural_female": 54,
+      "_____rural_persons": 65,
+      "_____urban_male": 89,
+      "_____urban_female": 77,
+      "_____urban_persons": 84
+    },
+    {
+      "state_union_": 2011,
+      "_____rural_male": 79,
+      "_____rural_female": 59,
+      "_____rural_persons": 69,
+      "_____urban_male": 90,
+      "_____urban_female": 80,
+      "_____urban_persons": 85
+    }
+  ]
+}

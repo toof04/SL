@@ -1,0 +1,76 @@
+{
+  "index_name": "60b93c0d-fe1f-4df1-b122-8d9f0daee495",
+  "title": "Gender-wise number of registrations of unorganised workers till 23-02-2023",
+  "desc": "Gender-wise number of registrations of unorganised workers till 23-02-2023",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Labour and Employment"
+  ],
+  "sector": [
+    "Labour and Employment"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "a2553f9a-62f2-4f6c-9d5f-d4ae0942ddfa",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1680072533,
+  "updated": 1680072981,
+  "created_date": "2023-03-29T08:48:53Z",
+  "updated_date": "2023-03-29T12:26:21Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "a2553f9a-62f2-4f6c-9d5f-d4ae0942ddfa",
+    "field": "60b93c0d-fe1f-4df1-b122-8d9f0daee495"
+  },
+  "field": [
+    {
+      "id": "gender_code",
+      "name": "Gender_Code",
+      "type": "keyword"
+    },
+    {
+      "id": "gender_name",
+      "name": "Gender_Name",
+      "type": "keyword"
+    },
+    {
+      "id": "registration_count",
+      "name": "Registration_count",
+      "type": "double"
+    },
+    {
+      "id": "last_updated",
+      "name": "Last_Updated",
+      "type": "date"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 3,
+  "count": 3,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "gender_code": "F",
+      "gender_name": "FEMALE",
+      "registration_count": 151014293,
+      "last_updated": "2023-02-23T08:49:26Z"
+    },
+    {
+      "gender_code": "M",
+      "gender_name": "MALE",
+      "registration_count": 135019374,
+      "last_updated": "2023-02-23T08:49:26Z"
+    },
+    {
+      "gender_code": "T",
+      "gender_name": "TRANSGENDER",
+      "registration_count": 5854,
+      "last_updated": "2023-02-23T08:49:26Z"
+    }
+  ]
+}

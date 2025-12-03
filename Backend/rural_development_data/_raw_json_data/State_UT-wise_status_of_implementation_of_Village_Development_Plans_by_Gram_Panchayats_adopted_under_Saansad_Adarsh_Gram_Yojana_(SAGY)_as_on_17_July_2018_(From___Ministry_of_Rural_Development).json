@@ -1,0 +1,280 @@
+{
+  "index_name": "809a0ee6-5824-4b5c-83ff-690bb7eef54b",
+  "title": "State/UT-wise status of implementation of Village Development Plans by Gram Panchayats adopted under Saansad Adarsh Gram Yojana (SAGY) as on 17 July 2018 (From : Ministry of Rural Development)",
+  "desc": "State/UT-wise status of implementation of Village Development Plans by Gram Panchayats adopted under Saansad Adarsh Gram Yojana (SAGY) as on 17 July 2018 (From : Ministry of Rural Development)",
+  "org_type": "Central",
+  "org": [
+    "Rajya Sabha"
+  ],
+  "sector": [
+    "All"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "09685331-ed12-446c-8a2d-7ac2577a308c",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1697776981,
+  "updated": 1698053591,
+  "created_date": "2023-10-20T06:43:01Z",
+  "updated_date": "2023-10-23T15:03:11Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "09685331-ed12-446c-8a2d-7ac2577a308c",
+    "field": "809a0ee6-5824-4b5c-83ff-690bb7eef54b"
+  },
+  "field": [
+    {
+      "id": "states_uts",
+      "name": "States/UTs",
+      "type": "keyword"
+    },
+    {
+      "id": "no__of_gps",
+      "name": "No. of GPs",
+      "type": "double"
+    },
+    {
+      "id": "no__of_projects_planned",
+      "name": "No. of projects planned",
+      "type": "double"
+    },
+    {
+      "id": "no__of_projects_completed",
+      "name": "No. of projects completed",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 37,
+  "count": 37,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "states_uts": "Andaman And Nicobar Islands",
+      "no__of_gps": 2,
+      "no__of_projects_planned": 242,
+      "no__of_projects_completed": 57
+    },
+    {
+      "states_uts": "Andhra Pradesh",
+      "no__of_gps": 64,
+      "no__of_projects_planned": 1068,
+      "no__of_projects_completed": 335
+    },
+    {
+      "states_uts": "Arunachal Pradesh",
+      "no__of_gps": 7,
+      "no__of_projects_planned": 216,
+      "no__of_projects_completed": 28
+    },
+    {
+      "states_uts": "Assam",
+      "no__of_gps": 35,
+      "no__of_projects_planned": 2418,
+      "no__of_projects_completed": 508
+    },
+    {
+      "states_uts": "Bihar",
+      "no__of_gps": 78,
+      "no__of_projects_planned": 3887,
+      "no__of_projects_completed": 813
+    },
+    {
+      "states_uts": "Chandigarh",
+      "no__of_gps": 2,
+      "no__of_projects_planned": 31,
+      "no__of_projects_completed": 14
+    },
+    {
+      "states_uts": "Chhattisgarh",
+      "no__of_gps": 44,
+      "no__of_projects_planned": 2666,
+      "no__of_projects_completed": 1349
+    },
+    {
+      "states_uts": "Dadra And Nagar Haveli",
+      "no__of_gps": 1,
+      "no__of_projects_planned": "0",
+      "no__of_projects_completed": "0"
+    },
+    {
+      "states_uts": "Daman And Diu",
+      "no__of_gps": 1,
+      "no__of_projects_planned": 52,
+      "no__of_projects_completed": 24
+    },
+    {
+      "states_uts": "Delhi",
+      "no__of_gps": 13,
+      "no__of_projects_planned": "0",
+      "no__of_projects_completed": "0"
+    },
+    {
+      "states_uts": "Goa",
+      "no__of_gps": 5,
+      "no__of_projects_planned": 172,
+      "no__of_projects_completed": 80
+    },
+    {
+      "states_uts": "Gujarat",
+      "no__of_gps": 71,
+      "no__of_projects_planned": 1422,
+      "no__of_projects_completed": 1014
+    },
+    {
+      "states_uts": "Haryana",
+      "no__of_gps": 32,
+      "no__of_projects_planned": 1445,
+      "no__of_projects_completed": 894
+    },
+    {
+      "states_uts": "Himachal Pradesh",
+      "no__of_gps": 13,
+      "no__of_projects_planned": 1008,
+      "no__of_projects_completed": 347
+    },
+    {
+      "states_uts": "Jammu And Kashmir",
+      "no__of_gps": 14,
+      "no__of_projects_planned": 843,
+      "no__of_projects_completed": 349
+    },
+    {
+      "states_uts": "Jharkhand",
+      "no__of_gps": 50,
+      "no__of_projects_planned": 3806,
+      "no__of_projects_completed": 1186
+    },
+    {
+      "states_uts": "Karnataka",
+      "no__of_gps": 56,
+      "no__of_projects_planned": 9316,
+      "no__of_projects_completed": 3514
+    },
+    {
+      "states_uts": "Kerala",
+      "no__of_gps": 72,
+      "no__of_projects_planned": 2349,
+      "no__of_projects_completed": 1016
+    },
+    {
+      "states_uts": "Lakshadweep",
+      "no__of_gps": 1,
+      "no__of_projects_planned": 79,
+      "no__of_projects_completed": 4
+    },
+    {
+      "states_uts": "Madhya Pradesh",
+      "no__of_gps": 66,
+      "no__of_projects_planned": 2531,
+      "no__of_projects_completed": 1596
+    },
+    {
+      "states_uts": "Maharashtra",
+      "no__of_gps": 125,
+      "no__of_projects_planned": 6196,
+      "no__of_projects_completed": 2696
+    },
+    {
+      "states_uts": "Manipur",
+      "no__of_gps": 12,
+      "no__of_projects_planned": 787,
+      "no__of_projects_completed": 119
+    },
+    {
+      "states_uts": "Meghalaya",
+      "no__of_gps": 7,
+      "no__of_projects_planned": 320,
+      "no__of_projects_completed": 86
+    },
+    {
+      "states_uts": "Mizoram",
+      "no__of_gps": 5,
+      "no__of_projects_planned": 514,
+      "no__of_projects_completed": 304
+    },
+    {
+      "states_uts": "Nagaland",
+      "no__of_gps": 3,
+      "no__of_projects_planned": 71,
+      "no__of_projects_completed": 16
+    },
+    {
+      "states_uts": "Odisha",
+      "no__of_gps": 44,
+      "no__of_projects_planned": 942,
+      "no__of_projects_completed": 164
+    },
+    {
+      "states_uts": "Puducherry",
+      "no__of_gps": 2,
+      "no__of_projects_planned": 72,
+      "no__of_projects_completed": 17
+    },
+    {
+      "states_uts": "Punjab",
+      "no__of_gps": 32,
+      "no__of_projects_planned": 778,
+      "no__of_projects_completed": 243
+    },
+    {
+      "states_uts": "Rajasthan",
+      "no__of_gps": 76,
+      "no__of_projects_planned": 3361,
+      "no__of_projects_completed": 1296
+    },
+    {
+      "states_uts": "Sikkim",
+      "no__of_gps": 4,
+      "no__of_projects_planned": 162,
+      "no__of_projects_completed": 112
+    },
+    {
+      "states_uts": "Tamil Nadu",
+      "no__of_gps": 133,
+      "no__of_projects_planned": 3946,
+      "no__of_projects_completed": 3321
+    },
+    {
+      "states_uts": "Telangana",
+      "no__of_gps": 45,
+      "no__of_projects_planned": 1356,
+      "no__of_projects_completed": 528
+    },
+    {
+      "states_uts": "Tripura",
+      "no__of_gps": 4,
+      "no__of_projects_planned": 159,
+      "no__of_projects_completed": 79
+    },
+    {
+      "states_uts": "Uttar Pradesh",
+      "no__of_gps": 259,
+      "no__of_projects_planned": 5743,
+      "no__of_projects_completed": 4525
+    },
+    {
+      "states_uts": "Uttarakhand",
+      "no__of_gps": 13,
+      "no__of_projects_planned": 475,
+      "no__of_projects_completed": 378
+    },
+    {
+      "states_uts": "West Bengal",
+      "no__of_gps": 9,
+      "no__of_projects_planned": 61,
+      "no__of_projects_completed": "0"
+    },
+    {
+      "states_uts": "Total",
+      "no__of_gps": 1400,
+      "no__of_projects_planned": 58494,
+      "no__of_projects_completed": 27012
+    }
+  ]
+}

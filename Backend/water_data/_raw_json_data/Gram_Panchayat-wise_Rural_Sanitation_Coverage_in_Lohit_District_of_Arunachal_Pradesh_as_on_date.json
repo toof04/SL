@@ -1,0 +1,353 @@
+{
+  "index_name": "ef5d253b-cd66-4363-9897-b2f461d13be7",
+  "title": "Gram Panchayat-wise Rural Sanitation Coverage in Lohit District of Arunachal Pradesh as on date",
+  "desc": "Gram Panchayat-wise Rural Sanitation Coverage in Lohit District of Arunachal Pradesh as on date",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Jal Shakti",
+    "Department of Drinking Water and Sanitation"
+  ],
+  "sector": [
+    "Water and Sanitation"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1688360218,
+  "updated": 1688364890,
+  "created_date": "2023-07-03T06:56:58Z",
+  "updated_date": "2023-07-03T11:44:50Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "sbm",
+    "type": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+    "field": "ef5d253b-cd66-4363-9897-b2f461d13be7"
+  },
+  "field": [
+    {
+      "id": "statename",
+      "name": "StateName",
+      "type": "keyword"
+    },
+    {
+      "id": "districtname",
+      "name": "DistrictName",
+      "type": "keyword"
+    },
+    {
+      "id": "blockname",
+      "name": "BlockName",
+      "type": "keyword"
+    },
+    {
+      "id": "grampanchayatname",
+      "name": "GramPanchayatName",
+      "type": "keyword"
+    },
+    {
+      "id": "ihhltotalasperdetails",
+      "name": "IHHLTotalAsPerDetails",
+      "type": "double"
+    },
+    {
+      "id": "ihhltotalach",
+      "name": "IHHLTotalAch",
+      "type": "double"
+    },
+    {
+      "id": "date",
+      "name": "Date",
+      "type": "keyword"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 31,
+  "count": 31,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOHIT",
+      "blockname": "TEZU-SUNPURA",
+      "grampanchayatname": "BHEKULIANG",
+      "ihhltotalasperdetails": 117,
+      "ihhltotalach": 117,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOHIT",
+      "blockname": "TEZU-SUNPURA",
+      "grampanchayatname": "CHAILIANG",
+      "ihhltotalasperdetails": 92,
+      "ihhltotalach": 92,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOHIT",
+      "blockname": "TEZU-SUNPURA",
+      "grampanchayatname": "CHANGLIANG",
+      "ihhltotalasperdetails": 249,
+      "ihhltotalach": 249,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOHIT",
+      "blockname": "TEZU-SUNPURA",
+      "grampanchayatname": "DANGLAT",
+      "ihhltotalasperdetails": 418,
+      "ihhltotalach": 418,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOHIT",
+      "blockname": "TEZU-SUNPURA",
+      "grampanchayatname": "DURALIANG",
+      "ihhltotalasperdetails": 153,
+      "ihhltotalach": 153,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOHIT",
+      "blockname": "TEZU-SUNPURA",
+      "grampanchayatname": "HATIDUBA",
+      "ihhltotalasperdetails": 76,
+      "ihhltotalach": 76,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOHIT",
+      "blockname": "TEZU-SUNPURA",
+      "grampanchayatname": "JEKO",
+      "ihhltotalasperdetails": 120,
+      "ihhltotalach": 120,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOHIT",
+      "blockname": "TEZU-SUNPURA",
+      "grampanchayatname": "JEKO SUNPURA",
+      "ihhltotalasperdetails": 135,
+      "ihhltotalach": 135,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOHIT",
+      "blockname": "TEZU-SUNPURA",
+      "grampanchayatname": "KHORALIANG",
+      "ihhltotalasperdetails": 193,
+      "ihhltotalach": 193,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOHIT",
+      "blockname": "TEZU-SUNPURA",
+      "grampanchayatname": "LOILIANG",
+      "ihhltotalasperdetails": 432,
+      "ihhltotalach": 432,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOHIT",
+      "blockname": "TEZU-SUNPURA",
+      "grampanchayatname": "MEKAILIANG",
+      "ihhltotalasperdetails": 121,
+      "ihhltotalach": 121,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOHIT",
+      "blockname": "TEZU-SUNPURA",
+      "grampanchayatname": "NEW DANGLAT",
+      "ihhltotalasperdetails": 147,
+      "ihhltotalach": 147,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOHIT",
+      "blockname": "TEZU-SUNPURA",
+      "grampanchayatname": "NEW HATIDUBA",
+      "ihhltotalasperdetails": 57,
+      "ihhltotalach": 57,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOHIT",
+      "blockname": "TEZU-SUNPURA",
+      "grampanchayatname": "POMLIANG",
+      "ihhltotalasperdetails": 186,
+      "ihhltotalach": 186,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOHIT",
+      "blockname": "TEZU-SUNPURA",
+      "grampanchayatname": "TAFRAGAM-I",
+      "ihhltotalasperdetails": 112,
+      "ihhltotalach": 112,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOHIT",
+      "blockname": "TEZU-SUNPURA",
+      "grampanchayatname": "TAFRAGAM-II",
+      "ihhltotalasperdetails": 83,
+      "ihhltotalach": 83,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOHIT",
+      "blockname": "TEZU-SUNPURA",
+      "grampanchayatname": "TAFRAGAM-III",
+      "ihhltotalasperdetails": 86,
+      "ihhltotalach": 86,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOHIT",
+      "blockname": "TEZU-SUNPURA",
+      "grampanchayatname": "TELLULIANG",
+      "ihhltotalasperdetails": 479,
+      "ihhltotalach": 479,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOHIT",
+      "blockname": "TEZU-SUNPURA",
+      "grampanchayatname": "YEALIANG",
+      "ihhltotalasperdetails": 195,
+      "ihhltotalach": 195,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOHIT",
+      "blockname": "TEZU-SUNPURA",
+      "grampanchayatname": "YEALIANG-19 MILE",
+      "ihhltotalasperdetails": 48,
+      "ihhltotalach": 48,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOHIT",
+      "blockname": "WAKRO",
+      "grampanchayatname": "HOOKING",
+      "ihhltotalasperdetails": 211,
+      "ihhltotalach": 211,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOHIT",
+      "blockname": "WAKRO",
+      "grampanchayatname": "KAMJA TOWAM",
+      "ihhltotalasperdetails": 197,
+      "ihhltotalach": 197,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOHIT",
+      "blockname": "WAKRO",
+      "grampanchayatname": "KANJANG",
+      "ihhltotalasperdetails": 95,
+      "ihhltotalach": 95,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOHIT",
+      "blockname": "WAKRO",
+      "grampanchayatname": "KHARE",
+      "ihhltotalasperdetails": 156,
+      "ihhltotalach": 156,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOHIT",
+      "blockname": "WAKRO",
+      "grampanchayatname": "MAWAL",
+      "ihhltotalasperdetails": 75,
+      "ihhltotalach": 75,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOHIT",
+      "blockname": "WAKRO",
+      "grampanchayatname": "MEDO",
+      "ihhltotalasperdetails": 764,
+      "ihhltotalach": 764,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOHIT",
+      "blockname": "WAKRO",
+      "grampanchayatname": "NAMGO",
+      "ihhltotalasperdetails": 283,
+      "ihhltotalach": 283,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOHIT",
+      "blockname": "WAKRO",
+      "grampanchayatname": "PHUKHURI",
+      "ihhltotalasperdetails": 115,
+      "ihhltotalach": 115,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOHIT",
+      "blockname": "WAKRO",
+      "grampanchayatname": "TILLAI",
+      "ihhltotalasperdetails": 223,
+      "ihhltotalach": 223,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOHIT",
+      "blockname": "WAKRO",
+      "grampanchayatname": "WAIKHETIANG-DABRUMLIANG",
+      "ihhltotalasperdetails": 84,
+      "ihhltotalach": 84,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOHIT",
+      "blockname": "WAKRO",
+      "grampanchayatname": "WAKRO",
+      "ihhltotalasperdetails": 582,
+      "ihhltotalach": 582,
+      "date": "5/19/2020 12:00:00 AM"
+    }
+  ]
+}

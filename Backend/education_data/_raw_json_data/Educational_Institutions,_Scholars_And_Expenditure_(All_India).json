@@ -1,0 +1,301 @@
+{
+  "index_name": "70331cda-6b76-4fa9-9b26-7402b8cb07a5",
+  "title": "Educational Institutions, Scholars And Expenditure (All India)",
+  "desc": "Educational Institutions, Scholars And Expenditure (All India)",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Statistics and Programme Implementation"
+  ],
+  "sector": [
+    "Education",
+    "Statistics"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "686d4c64-8077-48ad-aa34-5a48b345f9ab",
+  "visualizable": "0",
+  "active": "1",
+  "created": 1759229492,
+  "updated": 1759229492,
+  "created_date": "2025-09-30T12:51:32Z",
+  "updated_date": "2025-09-30T12:51:32Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "686d4c64-8077-48ad-aa34-5a48b345f9ab",
+    "field": "70331cda-6b76-4fa9-9b26-7402b8cb07a5"
+  },
+  "field": [
+    {
+      "id": "_year",
+      "name": "Year",
+      "type": "keyword"
+    },
+    {
+      "id": "number_of_institutions_university_colleges___",
+      "name": "Number of institutions University/Colleges(*)",
+      "type": "double"
+    },
+    {
+      "id": "number_of_institutions_schools___",
+      "name": "Number of institutions Schools(#)",
+      "type": "double"
+    },
+    {
+      "id": "number_of_institutions_total",
+      "name": "Number of institutions Total",
+      "type": "double"
+    },
+    {
+      "id": "university_colleges_total",
+      "name": "University/Colleges Total",
+      "type": "double"
+    },
+    {
+      "id": "university_colleges_women",
+      "name": "University/Colleges Women",
+      "type": "double"
+    },
+    {
+      "id": "___schools____total",
+      "name": "   Schools(@) Total",
+      "type": "double"
+    },
+    {
+      "id": "___schools____women",
+      "name": "   Schools(@) Women",
+      "type": "double"
+    },
+    {
+      "id": "____total_for_colleges_and_schools_total",
+      "name": "    Total for Colleges and Schools Total",
+      "type": "double"
+    },
+    {
+      "id": "____total_for_colleges_and_schools_women",
+      "name": "    Total for Colleges and Schools Women",
+      "type": "double"
+    },
+    {
+      "id": "public_expenditure_in_rs_crores_gdp_at_current_prices__at_factor_cost___",
+      "name": "Public Expenditure in Rs Crores GDP at Current Prices (at factor cost)  ",
+      "type": "double"
+    },
+    {
+      "id": "public_expenditure_in_rs_crores_total_expenditure_by__all_sectors__",
+      "name": "Public Expenditure in Rs Crores Total Expenditure by  all Sectors  ",
+      "type": "double"
+    },
+    {
+      "id": "public_expenditure_in_rs_crores_expenditure_on_education_by_education___other_deptts__",
+      "name": "Public Expenditure in Rs Crores Expenditure on Education by Education & Other Deptts. ",
+      "type": "double"
+    },
+    {
+      "id": "public_expenditure_in_rs_crores_expenditure_on_education_by__education___other_deptts__as__age_of__public_expenditure",
+      "name": "Public Expenditure in Rs Crores Expenditure on Education by  Education & Other Deptts. as %age of  Public Expenditure",
+      "type": "double"
+    },
+    {
+      "id": "public_expenditure_in_rs_crores_expenditure_on_education_by_education___other_deptts_as__age_of_gdp",
+      "name": "Public Expenditure in Rs Crores Expenditure on Education by Education & Other Deptts as %age of GDP",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 11,
+  "count": 11,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "_year": "2000-01",
+      "number_of_institutions_university_colleges___": 13062,
+      "number_of_institutions_schools___": 971054,
+      "number_of_institutions_total": 984116,
+      "university_colleges_total": 8.4,
+      "university_colleges_women": 3.31,
+      "___schools____total": 184.2,
+      "___schools____women": 78,
+      "____total_for_colleges_and_schools_total": 192.6,
+      "____total_for_colleges_and_schools_women": 81.31,
+      "public_expenditure_in_rs_crores_gdp_at_current_prices__at_factor_cost___": 1925017,
+      "public_expenditure_in_rs_crores_total_expenditure_by__all_sectors__": 572160.14,
+      "public_expenditure_in_rs_crores_expenditure_on_education_by_education___other_deptts__": 82486.48,
+      "public_expenditure_in_rs_crores_expenditure_on_education_by__education___other_deptts__as__age_of__public_expenditure": 14.42,
+      "public_expenditure_in_rs_crores_expenditure_on_education_by_education___other_deptts_as__age_of_gdp": 4.28
+    },
+    {
+      "_year": "2001-02",
+      "number_of_institutions_university_colleges___": 11418,
+      "number_of_institutions_schools___": 1017159,
+      "number_of_institutions_total": 1028577,
+      "university_colleges_total": 9.24,
+      "university_colleges_women": 3.6,
+      "___schools____total": 189.2,
+      "___schools____women": 81.1,
+      "____total_for_colleges_and_schools_total": 198.44,
+      "____total_for_colleges_and_schools_women": 84.7,
+      "public_expenditure_in_rs_crores_gdp_at_current_prices__at_factor_cost___": 2097726,
+      "public_expenditure_in_rs_crores_total_expenditure_by__all_sectors__": 619713.14,
+      "public_expenditure_in_rs_crores_expenditure_on_education_by_education___other_deptts__": 79865.7,
+      "public_expenditure_in_rs_crores_expenditure_on_education_by__education___other_deptts__as__age_of__public_expenditure": 12.89,
+      "public_expenditure_in_rs_crores_expenditure_on_education_by_education___other_deptts_as__age_of_gdp": 3.81
+    },
+    {
+      "_year": "2002-03",
+      "number_of_institutions_university_colleges___": 12080,
+      "number_of_institutions_schools___": 1033863,
+      "number_of_institutions_total": 1045943,
+      "university_colleges_total": 9.99,
+      "university_colleges_women": 3.94,
+      "___schools____total": 202.5,
+      "___schools____women": 91.6,
+      "____total_for_colleges_and_schools_total": 212.49,
+      "____total_for_colleges_and_schools_women": 95.54,
+      "public_expenditure_in_rs_crores_gdp_at_current_prices__at_factor_cost___": 2261415,
+      "public_expenditure_in_rs_crores_total_expenditure_by__all_sectors__": 678548.31,
+      "public_expenditure_in_rs_crores_expenditure_on_education_by_education___other_deptts__": 85507.34,
+      "public_expenditure_in_rs_crores_expenditure_on_education_by__education___other_deptts__as__age_of__public_expenditure": 12.6,
+      "public_expenditure_in_rs_crores_expenditure_on_education_by_education___other_deptts_as__age_of_gdp": 3.78
+    },
+    {
+      "_year": "2003-04",
+      "number_of_institutions_university_colleges___": 12482,
+      "number_of_institutions_schools___": 1120487,
+      "number_of_institutions_total": 1132969,
+      "university_colleges_total": 10.38,
+      "university_colleges_women": 4.06,
+      "___schools____total": 212,
+      "___schools____women": 95.8,
+      "____total_for_colleges_and_schools_total": 222.38,
+      "____total_for_colleges_and_schools_women": 99.86,
+      "public_expenditure_in_rs_crores_gdp_at_current_prices__at_factor_cost___": 2538170,
+      "public_expenditure_in_rs_crores_total_expenditure_by__all_sectors__": 743668.96,
+      "public_expenditure_in_rs_crores_expenditure_on_education_by_education___other_deptts__": 89079.25,
+      "public_expenditure_in_rs_crores_expenditure_on_education_by__education___other_deptts__as__age_of__public_expenditure": 11.98,
+      "public_expenditure_in_rs_crores_expenditure_on_education_by_education___other_deptts_as__age_of_gdp": 3.51
+    },
+    {
+      "_year": "2004-05",
+      "number_of_institutions_university_colleges___": 13921,
+      "number_of_institutions_schools___": 1194300,
+      "number_of_institutions_total": 1208221,
+      "university_colleges_total": 12.17,
+      "university_colleges_women": 4.73,
+      "___schools____total": 219.1,
+      "___schools____women": 99.2,
+      "____total_for_colleges_and_schools_total": 231.27,
+      "____total_for_colleges_and_schools_women": 103.93,
+      "public_expenditure_in_rs_crores_gdp_at_current_prices__at_factor_cost___": 2971464,
+      "public_expenditure_in_rs_crores_total_expenditure_by__all_sectors__": 797345.74,
+      "public_expenditure_in_rs_crores_expenditure_on_education_by_education___other_deptts__": 96694.1,
+      "public_expenditure_in_rs_crores_expenditure_on_education_by__education___other_deptts__as__age_of__public_expenditure": 12.13,
+      "public_expenditure_in_rs_crores_expenditure_on_education_by_education___other_deptts_as__age_of_gdp": 3.25
+    },
+    {
+      "_year": "2005-06",
+      "number_of_institutions_university_colleges___": 17332,
+      "number_of_institutions_schools___": 1220728,
+      "number_of_institutions_total": 1238060,
+      "university_colleges_total": 14.32,
+      "university_colleges_women": 5.49,
+      "___schools____total": 222.7,
+      "___schools____women": 101,
+      "____total_for_colleges_and_schools_total": 237.02,
+      "____total_for_colleges_and_schools_women": 106.49,
+      "public_expenditure_in_rs_crores_gdp_at_current_prices__at_factor_cost___": 3390503,
+      "public_expenditure_in_rs_crores_total_expenditure_by__all_sectors__": 889713.96,
+      "public_expenditure_in_rs_crores_expenditure_on_education_by_education___other_deptts__": 113228.71,
+      "public_expenditure_in_rs_crores_expenditure_on_education_by__education___other_deptts__as__age_of__public_expenditure": 12.73,
+      "public_expenditure_in_rs_crores_expenditure_on_education_by_education___other_deptts_as__age_of_gdp": 3.34
+    },
+    {
+      "_year": "2006-07",
+      "number_of_institutions_university_colleges___": 20186,
+      "number_of_institutions_schools___": 1260004,
+      "number_of_institutions_total": 1280190,
+      "university_colleges_total": 15.55,
+      "university_colleges_women": 5.95,
+      "___schools____total": 228.13,
+      "___schools____women": 104.2,
+      "____total_for_colleges_and_schools_total": 243.68,
+      "____total_for_colleges_and_schools_women": 110.15,
+      "public_expenditure_in_rs_crores_gdp_at_current_prices__at_factor_cost___": 3953276,
+      "public_expenditure_in_rs_crores_total_expenditure_by__all_sectors__": 1033873.04,
+      "public_expenditure_in_rs_crores_expenditure_on_education_by_education___other_deptts__": 137383.99,
+      "public_expenditure_in_rs_crores_expenditure_on_education_by__education___other_deptts__as__age_of__public_expenditure": 13.29,
+      "public_expenditure_in_rs_crores_expenditure_on_education_by_education___other_deptts_as__age_of_gdp": 3.48
+    },
+    {
+      "_year": "2007-08",
+      "number_of_institutions_university_colleges___": 23503,
+      "number_of_institutions_schools___": 1285991,
+      "number_of_institutions_total": 1309496,
+      "university_colleges_total": 17.04,
+      "university_colleges_women": 6.57,
+      "___schools____total": 237.15,
+      "___schools____women": 109.85,
+      "____total_for_colleges_and_schools_total": 254.19,
+      "____total_for_colleges_and_schools_women": 116.42,
+      "public_expenditure_in_rs_crores_gdp_at_current_prices__at_factor_cost___": 4582086,
+      "public_expenditure_in_rs_crores_total_expenditure_by__all_sectors__": 1191514.69,
+      "public_expenditure_in_rs_crores_expenditure_on_education_by_education___other_deptts__": 155797.27,
+      "public_expenditure_in_rs_crores_expenditure_on_education_by__education___other_deptts__as__age_of__public_expenditure": 13.08,
+      "public_expenditure_in_rs_crores_expenditure_on_education_by_education___other_deptts_as__age_of_gdp": 3.4
+    },
+    {
+      "_year": "2008-09",
+      "number_of_institutions_university_colleges___": 26399,
+      "number_of_institutions_schools___": 1309730,
+      "number_of_institutions_total": 1336126,
+      "university_colleges_total": 18.64,
+      "university_colleges_women": 7.2,
+      "___schools____total": 235.67,
+      "___schools____women": 110.47,
+      "____total_for_colleges_and_schools_total": 254.31,
+      "____total_for_colleges_and_schools_women": 117.67,
+      "public_expenditure_in_rs_crores_gdp_at_current_prices__at_factor_cost___": 5303567,
+      "public_expenditure_in_rs_crores_total_expenditure_by__all_sectors__": 1495733.62,
+      "public_expenditure_in_rs_crores_expenditure_on_education_by_education___other_deptts__": 189068.84,
+      "public_expenditure_in_rs_crores_expenditure_on_education_by__education___other_deptts__as__age_of__public_expenditure": 12.64,
+      "public_expenditure_in_rs_crores_expenditure_on_education_by_education___other_deptts_as__age_of_gdp": 3.56
+    },
+    {
+      "_year": "2009-10",
+      "number_of_institutions_university_colleges___": 26474,
+      "number_of_institutions_schools___": 1314633,
+      "number_of_institutions_total": 1341107,
+      "university_colleges_total": 20.7,
+      "university_colleges_women": 8.3,
+      "___schools____total": 243.36,
+      "___schools____women": 113.95,
+      "____total_for_colleges_and_schools_total": 264.06,
+      "____total_for_colleges_and_schools_women": 122.25,
+      "public_expenditure_in_rs_crores_gdp_at_current_prices__at_factor_cost___": 6091485,
+      "public_expenditure_in_rs_crores_total_expenditure_by__all_sectors__": 1784358.47,
+      "public_expenditure_in_rs_crores_expenditure_on_education_by_education___other_deptts__": 242504.82,
+      "public_expenditure_in_rs_crores_expenditure_on_education_by__education___other_deptts__as__age_of__public_expenditure": 13.59,
+      "public_expenditure_in_rs_crores_expenditure_on_education_by_education___other_deptts_as__age_of_gdp": 3.98
+    },
+    {
+      "_year": "2010-11",
+      "number_of_institutions_university_colleges___": "NA",
+      "number_of_institutions_schools___": "NA",
+      "number_of_institutions_total": "NA",
+      "university_colleges_total": "NA",
+      "university_colleges_women": "NA",
+      "___schools____total": "NA",
+      "___schools____women": "NA",
+      "____total_for_colleges_and_schools_total": "NA",
+      "____total_for_colleges_and_schools_women": "NA",
+      "public_expenditure_in_rs_crores_gdp_at_current_prices__at_factor_cost___": 7157412,
+      "public_expenditure_in_rs_crores_total_expenditure_by__all_sectors__": 1920913.57,
+      "public_expenditure_in_rs_crores_expenditure_on_education_by_education___other_deptts__": 272137.43,
+      "public_expenditure_in_rs_crores_expenditure_on_education_by__education___other_deptts__as__age_of__public_expenditure": 14.17,
+      "public_expenditure_in_rs_crores_expenditure_on_education_by_education___other_deptts_as__age_of_gdp": 3.8
+    }
+  ]
+}

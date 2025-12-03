@@ -1,0 +1,133 @@
+{
+  "index_name": "dc89af3e-f268-4cca-b711-b252cde91356",
+  "title": "Dropout Rates of Scheduled Tribes in 2004-05 (Provisional)",
+  "desc": "Dropout Rates of Scheduled Tribes in 2004-05 (Provisional)",
+  "org_type": "Central",
+  "org": [
+    "NITI Aayog"
+  ],
+  "sector": [
+    "Education",
+    "Elementary"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "7947c524-61e8-4bae-8155-d026ad4fa374",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1669279675,
+  "updated": 1669286510,
+  "created_date": "2022-11-24T09:47:55Z",
+  "updated_date": "2022-11-24T16:11:50Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "7947c524-61e8-4bae-8155-d026ad4fa374",
+    "field": "dc89af3e-f268-4cca-b711-b252cde91356"
+  },
+  "field": [
+    {
+      "id": "_year",
+      "name": "Year",
+      "type": "keyword"
+    },
+    {
+      "id": "sex",
+      "name": "Sex",
+      "type": "keyword"
+    },
+    {
+      "id": "classes_i_to_v___all",
+      "name": "Classes I to V - All",
+      "type": "double"
+    },
+    {
+      "id": "classes_i_to_v___st",
+      "name": "Classes I to V - ST",
+      "type": "double"
+    },
+    {
+      "id": "classes_i_to_v___gap",
+      "name": "Classes I to V - Gap",
+      "type": "double"
+    },
+    {
+      "id": "classes_i_to_viii___all",
+      "name": "Classes I to VIII - All",
+      "type": "double"
+    },
+    {
+      "id": "classes_i_to_viii___st",
+      "name": "Classes I to VIII - ST",
+      "type": "double"
+    },
+    {
+      "id": "classes_i_to_viii___gap",
+      "name": "Classes I to VIII - Gap",
+      "type": "double"
+    },
+    {
+      "id": "classes_i_to_x___all",
+      "name": "Classes I to X - All",
+      "type": "double"
+    },
+    {
+      "id": "classes_i_to_x___st",
+      "name": "Classes I to X - ST",
+      "type": "double"
+    },
+    {
+      "id": "classes_i_to_x___gap",
+      "name": "Classes I to X - Gap",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 3,
+  "count": 3,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "_year": "NA",
+      "sex": "Boys",
+      "classes_i_to_v___all": 31.8,
+      "classes_i_to_v___st": 42.6,
+      "classes_i_to_v___gap": -10.7,
+      "classes_i_to_viii___all": 50.4,
+      "classes_i_to_viii___st": 65,
+      "classes_i_to_viii___gap": -14.6,
+      "classes_i_to_x___all": 60.4,
+      "classes_i_to_x___st": 77.8,
+      "classes_i_to_x___gap": -17.4
+    },
+    {
+      "_year": "NA",
+      "sex": "Girls",
+      "classes_i_to_v___all": 25.4,
+      "classes_i_to_v___st": 42,
+      "classes_i_to_v___gap": -16.6,
+      "classes_i_to_viii___all": 51.3,
+      "classes_i_to_viii___st": 67.1,
+      "classes_i_to_viii___gap": -15.8,
+      "classes_i_to_x___all": 63.9,
+      "classes_i_to_x___st": 80.7,
+      "classes_i_to_x___gap": -16.8
+    },
+    {
+      "_year": "NA",
+      "sex": "Total",
+      "classes_i_to_v___all": 29,
+      "classes_i_to_v___st": 42.3,
+      "classes_i_to_v___gap": -13.3,
+      "classes_i_to_viii___all": 50.8,
+      "classes_i_to_viii___st": 65.9,
+      "classes_i_to_viii___gap": -15.1,
+      "classes_i_to_x___all": 61.9,
+      "classes_i_to_x___st": 79,
+      "classes_i_to_x___gap": -17.1
+    }
+  ]
+}

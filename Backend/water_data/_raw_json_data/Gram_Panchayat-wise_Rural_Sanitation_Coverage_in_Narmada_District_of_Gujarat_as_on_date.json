@@ -1,0 +1,2063 @@
+{
+  "index_name": "f9030fc2-39fe-458a-bf76-3d7e2d09f738",
+  "title": "Gram Panchayat-wise Rural Sanitation Coverage in Narmada District of Gujarat as on date",
+  "desc": "Gram Panchayat-wise Rural Sanitation Coverage in Narmada District of Gujarat as on date",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Jal Shakti",
+    "Department of Drinking Water and Sanitation"
+  ],
+  "sector": [
+    "Water and Sanitation"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1688360449,
+  "updated": 1688364949,
+  "created_date": "2023-07-03T07:00:49Z",
+  "updated_date": "2023-07-03T11:45:49Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "sbm",
+    "type": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+    "field": "f9030fc2-39fe-458a-bf76-3d7e2d09f738"
+  },
+  "field": [
+    {
+      "id": "statename",
+      "name": "StateName",
+      "type": "keyword"
+    },
+    {
+      "id": "districtname",
+      "name": "DistrictName",
+      "type": "keyword"
+    },
+    {
+      "id": "blockname",
+      "name": "BlockName",
+      "type": "keyword"
+    },
+    {
+      "id": "grampanchayatname",
+      "name": "GramPanchayatName",
+      "type": "keyword"
+    },
+    {
+      "id": "ihhltotalasperdetails",
+      "name": "IHHLTotalAsPerDetails",
+      "type": "double"
+    },
+    {
+      "id": "ihhltotalach",
+      "name": "IHHLTotalAch",
+      "type": "double"
+    },
+    {
+      "id": "date",
+      "name": "Date",
+      "type": "keyword"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 221,
+  "count": 221,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "DEDIYAPADA",
+      "grampanchayatname": "ALMAVADI",
+      "ihhltotalasperdetails": 480,
+      "ihhltotalach": 480,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "DEDIYAPADA",
+      "grampanchayatname": "AMBAVADI",
+      "ihhltotalasperdetails": 514,
+      "ihhltotalach": 514,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "DEDIYAPADA",
+      "grampanchayatname": "BABADA",
+      "ihhltotalasperdetails": 595,
+      "ihhltotalach": 595,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "DEDIYAPADA",
+      "grampanchayatname": "BARSAN",
+      "ihhltotalasperdetails": 194,
+      "ihhltotalach": 194,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "DEDIYAPADA",
+      "grampanchayatname": "BESNA",
+      "ihhltotalasperdetails": 258,
+      "ihhltotalach": 258,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "DEDIYAPADA",
+      "grampanchayatname": "BHATPUR",
+      "ihhltotalasperdetails": 336,
+      "ihhltotalach": 336,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "DEDIYAPADA",
+      "grampanchayatname": "BOGAJ",
+      "ihhltotalasperdetails": 283,
+      "ihhltotalach": 283,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "DEDIYAPADA",
+      "grampanchayatname": "CHIKDA",
+      "ihhltotalasperdetails": 1059,
+      "ihhltotalach": 1059,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "DEDIYAPADA",
+      "grampanchayatname": "CHULI",
+      "ihhltotalasperdetails": 679,
+      "ihhltotalach": 679,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "DEDIYAPADA",
+      "grampanchayatname": "DABHAVAN",
+      "ihhltotalasperdetails": 762,
+      "ihhltotalach": 762,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "DEDIYAPADA",
+      "grampanchayatname": "DEDIAPADA",
+      "ihhltotalasperdetails": 307,
+      "ihhltotalach": 307,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "DEDIYAPADA",
+      "grampanchayatname": "DUMKHAL",
+      "ihhltotalasperdetails": 877,
+      "ihhltotalach": 877,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "DEDIYAPADA",
+      "grampanchayatname": "FULSAR",
+      "ihhltotalasperdetails": 289,
+      "ihhltotalach": 289,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "DEDIYAPADA",
+      "grampanchayatname": "GANGAPUR",
+      "ihhltotalasperdetails": 120,
+      "ihhltotalach": 120,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "DEDIYAPADA",
+      "grampanchayatname": "GHANTOLI",
+      "ihhltotalasperdetails": 829,
+      "ihhltotalach": 829,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "DEDIYAPADA",
+      "grampanchayatname": "GOPALIYA",
+      "ihhltotalasperdetails": 194,
+      "ihhltotalach": 194,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "DEDIYAPADA",
+      "grampanchayatname": "JHANK",
+      "ihhltotalasperdetails": 208,
+      "ihhltotalach": 208,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "DEDIYAPADA",
+      "grampanchayatname": "JUNA MOSDA",
+      "ihhltotalasperdetails": 272,
+      "ihhltotalach": 272,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "DEDIYAPADA",
+      "grampanchayatname": "KABRIPATHAR",
+      "ihhltotalasperdetails": 247,
+      "ihhltotalach": 247,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "DEDIYAPADA",
+      "grampanchayatname": "KAKARPADA",
+      "ihhltotalasperdetails": 233,
+      "ihhltotalach": 233,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "DEDIYAPADA",
+      "grampanchayatname": "KEVDI",
+      "ihhltotalasperdetails": 394,
+      "ihhltotalach": 394,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "DEDIYAPADA",
+      "grampanchayatname": "KHAIDIPADA",
+      "ihhltotalasperdetails": 508,
+      "ihhltotalach": 508,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "DEDIYAPADA",
+      "grampanchayatname": "KHOKHRA UMAR (ZARNAWADIWALU)",
+      "ihhltotalasperdetails": 157,
+      "ihhltotalach": 157,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "DEDIYAPADA",
+      "grampanchayatname": "KUKADDA",
+      "ihhltotalasperdetails": 267,
+      "ihhltotalach": 267,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "DEDIYAPADA",
+      "grampanchayatname": "KUNDIAMBA",
+      "ihhltotalasperdetails": 621,
+      "ihhltotalach": 621,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "DEDIYAPADA",
+      "grampanchayatname": "MANDALA",
+      "ihhltotalasperdetails": 530,
+      "ihhltotalach": 530,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "DEDIYAPADA",
+      "grampanchayatname": "MOSKUT",
+      "ihhltotalasperdetails": 208,
+      "ihhltotalach": 208,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "DEDIYAPADA",
+      "grampanchayatname": "MOTA SUKA AMBA",
+      "ihhltotalasperdetails": 413,
+      "ihhltotalach": 413,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "DEDIYAPADA",
+      "grampanchayatname": "NANI BEDWAN",
+      "ihhltotalasperdetails": 468,
+      "ihhltotalach": 468,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "DEDIYAPADA",
+      "grampanchayatname": "NAVAGAM (DEDIAPADA)",
+      "ihhltotalasperdetails": 443,
+      "ihhltotalach": 443,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "DEDIYAPADA",
+      "grampanchayatname": "NIGHAT",
+      "ihhltotalasperdetails": 391,
+      "ihhltotalach": 391,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "DEDIYAPADA",
+      "grampanchayatname": "NIVALDA",
+      "ihhltotalasperdetails": 219,
+      "ihhltotalach": 219,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "DEDIYAPADA",
+      "grampanchayatname": "PANUDA",
+      "ihhltotalasperdetails": 392,
+      "ihhltotalach": 392,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "DEDIYAPADA",
+      "grampanchayatname": "PATDI",
+      "ihhltotalasperdetails": 255,
+      "ihhltotalach": 255,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "DEDIYAPADA",
+      "grampanchayatname": "PATVALI",
+      "ihhltotalasperdetails": 841,
+      "ihhltotalach": 841,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "DEDIYAPADA",
+      "grampanchayatname": "ROHDA",
+      "ihhltotalasperdetails": 288,
+      "ihhltotalach": 288,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "DEDIYAPADA",
+      "grampanchayatname": "SABUTI",
+      "ihhltotalasperdetails": 550,
+      "ihhltotalach": 550,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "DEDIYAPADA",
+      "grampanchayatname": "SAMARPADA (THAVA)",
+      "ihhltotalasperdetails": 1442,
+      "ihhltotalach": 1442,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "DEDIYAPADA",
+      "grampanchayatname": "SAMOT",
+      "ihhltotalasperdetails": 1488,
+      "ihhltotalach": 1488,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "DEDIYAPADA",
+      "grampanchayatname": "SEJPUR",
+      "ihhltotalasperdetails": 312,
+      "ihhltotalach": 312,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "DEDIYAPADA",
+      "grampanchayatname": "SOLIYA",
+      "ihhltotalasperdetails": 195,
+      "ihhltotalach": 195,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "DEDIYAPADA",
+      "grampanchayatname": "SUKWAL",
+      "ihhltotalasperdetails": 1822,
+      "ihhltotalach": 1822,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "DEDIYAPADA",
+      "grampanchayatname": "TAPDA",
+      "ihhltotalasperdetails": 739,
+      "ihhltotalach": 739,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "DEDIYAPADA",
+      "grampanchayatname": "UMRAN",
+      "ihhltotalasperdetails": 391,
+      "ihhltotalach": 391,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "DEDIYAPADA",
+      "grampanchayatname": "VADHVA",
+      "ihhltotalasperdetails": 216,
+      "ihhltotalach": 216,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "DEDIYAPADA",
+      "grampanchayatname": "ZARNAWADI",
+      "ihhltotalasperdetails": 798,
+      "ihhltotalach": 798,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "GARUDESHWAR",
+      "grampanchayatname": "AKTESHWAR",
+      "ihhltotalasperdetails": 519,
+      "ihhltotalach": 519,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "GARUDESHWAR",
+      "grampanchayatname": "AMADLA",
+      "ihhltotalasperdetails": 542,
+      "ihhltotalach": 542,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "GARUDESHWAR",
+      "grampanchayatname": "BHILVASHI",
+      "ihhltotalasperdetails": 678,
+      "ihhltotalach": 678,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "GARUDESHWAR",
+      "grampanchayatname": "DHAMADRA",
+      "ihhltotalasperdetails": 525,
+      "ihhltotalach": 525,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "GARUDESHWAR",
+      "grampanchayatname": "FULVADI",
+      "ihhltotalasperdetails": 817,
+      "ihhltotalach": 817,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "GARUDESHWAR",
+      "grampanchayatname": "GADKOI",
+      "ihhltotalasperdetails": 360,
+      "ihhltotalach": 360,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "GARUDESHWAR",
+      "grampanchayatname": "GADOD",
+      "ihhltotalasperdetails": 550,
+      "ihhltotalach": 550,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "GARUDESHWAR",
+      "grampanchayatname": "GARUDESHWAR",
+      "ihhltotalasperdetails": 163,
+      "ihhltotalach": 163,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "GARUDESHWAR",
+      "grampanchayatname": "GORA",
+      "ihhltotalasperdetails": 434,
+      "ihhltotalach": 434,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "GARUDESHWAR",
+      "grampanchayatname": "INDRAVARNA",
+      "ihhltotalasperdetails": 596,
+      "ihhltotalach": 596,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "GARUDESHWAR",
+      "grampanchayatname": "JETPOR (VAGHRALI)",
+      "ihhltotalasperdetails": 392,
+      "ihhltotalach": 392,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "GARUDESHWAR",
+      "grampanchayatname": "KALI MAKVANA",
+      "ihhltotalasperdetails": 385,
+      "ihhltotalach": 385,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "GARUDESHWAR",
+      "grampanchayatname": "KARELI",
+      "ihhltotalasperdetails": 366,
+      "ihhltotalach": 366,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "GARUDESHWAR",
+      "grampanchayatname": "KHADAGADA",
+      "ihhltotalasperdetails": 535,
+      "ihhltotalach": 535,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "GARUDESHWAR",
+      "grampanchayatname": "KOTHI",
+      "ihhltotalasperdetails": 602,
+      "ihhltotalach": 602,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "GARUDESHWAR",
+      "grampanchayatname": "LIMDI",
+      "ihhltotalasperdetails": 441,
+      "ihhltotalach": 441,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "GARUDESHWAR",
+      "grampanchayatname": "MITHIVAV",
+      "ihhltotalasperdetails": 1081,
+      "ihhltotalach": 1081,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "GARUDESHWAR",
+      "grampanchayatname": "MOKHDI",
+      "ihhltotalasperdetails": 831,
+      "ihhltotalach": 831,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "GARUDESHWAR",
+      "grampanchayatname": "MOTA AMBA",
+      "ihhltotalasperdetails": 344,
+      "ihhltotalach": 344,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "GARUDESHWAR",
+      "grampanchayatname": "MOTI RAVAL",
+      "ihhltotalasperdetails": 575,
+      "ihhltotalach": 575,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "GARUDESHWAR",
+      "grampanchayatname": "NAGHATPOR",
+      "ihhltotalasperdetails": 1685,
+      "ihhltotalach": 1685,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "GARUDESHWAR",
+      "grampanchayatname": "ORPA",
+      "ihhltotalasperdetails": 412,
+      "ihhltotalach": 412,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "GARUDESHWAR",
+      "grampanchayatname": "PAN TALAVADI",
+      "ihhltotalasperdetails": 479,
+      "ihhltotalach": 479,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "GARUDESHWAR",
+      "grampanchayatname": "PANCHLA",
+      "ihhltotalasperdetails": 1385,
+      "ihhltotalach": 1385,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "GARUDESHWAR",
+      "grampanchayatname": "PINCHHIPARA",
+      "ihhltotalasperdetails": 761,
+      "ihhltotalach": 761,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "GARUDESHWAR",
+      "grampanchayatname": "SAMARIA",
+      "ihhltotalasperdetails": 285,
+      "ihhltotalach": 285,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "GARUDESHWAR",
+      "grampanchayatname": "SONGAM",
+      "ihhltotalasperdetails": 595,
+      "ihhltotalach": 595,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "GARUDESHWAR",
+      "grampanchayatname": "SUKA",
+      "ihhltotalasperdetails": 415,
+      "ihhltotalach": 415,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "GARUDESHWAR",
+      "grampanchayatname": "TIMRAVA",
+      "ihhltotalasperdetails": 171,
+      "ihhltotalach": 171,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "GARUDESHWAR",
+      "grampanchayatname": "UNDVA",
+      "ihhltotalasperdetails": 635,
+      "ihhltotalach": 635,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "GARUDESHWAR",
+      "grampanchayatname": "VAGADIA",
+      "ihhltotalasperdetails": 228,
+      "ihhltotalach": 228,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "GARUDESHWAR",
+      "grampanchayatname": "VAGHRALI",
+      "ihhltotalasperdetails": 378,
+      "ihhltotalach": 378,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "GARUDESHWAR",
+      "grampanchayatname": "VANSLA",
+      "ihhltotalasperdetails": 327,
+      "ihhltotalach": 327,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "GARUDESHWAR",
+      "grampanchayatname": "VAVIALA",
+      "ihhltotalasperdetails": 419,
+      "ihhltotalach": 419,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "GARUDESHWAR",
+      "grampanchayatname": "VELCHHANDI",
+      "ihhltotalasperdetails": 806,
+      "ihhltotalach": 806,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "GARUDESHWAR",
+      "grampanchayatname": "ZARIA",
+      "ihhltotalasperdetails": 351,
+      "ihhltotalach": 351,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "GARUDESHWAR",
+      "grampanchayatname": "ZARVANI",
+      "ihhltotalasperdetails": 751,
+      "ihhltotalach": 751,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "AKUWADA",
+      "ihhltotalasperdetails": 811,
+      "ihhltotalach": 811,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "AMLETHA",
+      "ihhltotalasperdetails": 1339,
+      "ihhltotalach": 1339,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "ANIZARA",
+      "ihhltotalasperdetails": 32,
+      "ihhltotalach": 32,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "BHACHARVADA",
+      "ihhltotalasperdetails": 693,
+      "ihhltotalach": 693,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "BHADAM",
+      "ihhltotalasperdetails": 849,
+      "ihhltotalach": 849,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "BHUCHHAD",
+      "ihhltotalasperdetails": 536,
+      "ihhltotalach": 536,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "BORIDRA",
+      "ihhltotalasperdetails": 444,
+      "ihhltotalach": 444,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "CHITRAVADI",
+      "ihhltotalasperdetails": 311,
+      "ihhltotalach": 311,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "DHAMNACHA",
+      "ihhltotalasperdetails": 364,
+      "ihhltotalach": 364,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "DHANPOR",
+      "ihhltotalasperdetails": 120,
+      "ihhltotalach": 120,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "DHOLAR",
+      "ihhltotalasperdetails": 364,
+      "ihhltotalach": 364,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "GADIT",
+      "ihhltotalasperdetails": 269,
+      "ihhltotalach": 269,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "GAMKUVA",
+      "ihhltotalasperdetails": 290,
+      "ihhltotalach": 290,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "GOPALPURA",
+      "ihhltotalasperdetails": 298,
+      "ihhltotalach": 298,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "GUVAR",
+      "ihhltotalasperdetails": 154,
+      "ihhltotalach": 154,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "HAJARPARA",
+      "ihhltotalasperdetails": 365,
+      "ihhltotalach": 365,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "HELAMBI",
+      "ihhltotalasperdetails": 64,
+      "ihhltotalach": 64,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "JESALPOR",
+      "ihhltotalasperdetails": 295,
+      "ihhltotalach": 295,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "JETPOR (RAMGADH)",
+      "ihhltotalasperdetails": 485,
+      "ihhltotalach": 485,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "JIOR",
+      "ihhltotalasperdetails": 367,
+      "ihhltotalach": 367,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "JITGADH",
+      "ihhltotalasperdetails": 227,
+      "ihhltotalach": 227,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "JITNAGAR",
+      "ihhltotalasperdetails": 466,
+      "ihhltotalach": 466,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "JUNARAJ",
+      "ihhltotalasperdetails": 399,
+      "ihhltotalach": 399,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "KAKADVA",
+      "ihhltotalasperdetails": 175,
+      "ihhltotalach": 175,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "KANDROJ",
+      "ihhltotalasperdetails": 236,
+      "ihhltotalach": 236,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "KARANTHA",
+      "ihhltotalasperdetails": 336,
+      "ihhltotalach": 336,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "KHOJALVASA",
+      "ihhltotalasperdetails": 842,
+      "ihhltotalach": 842,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "KOTHARA",
+      "ihhltotalasperdetails": 200,
+      "ihhltotalach": 200,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "KUMASGAM",
+      "ihhltotalasperdetails": 235,
+      "ihhltotalach": 235,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "LACHHRAS",
+      "ihhltotalasperdetails": 478,
+      "ihhltotalach": 478,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "MANGROL",
+      "ihhltotalasperdetails": 196,
+      "ihhltotalach": 196,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "MOTA RAYPARA",
+      "ihhltotalasperdetails": 429,
+      "ihhltotalach": 429,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "MOTI BHAMRI",
+      "ihhltotalasperdetails": 1578,
+      "ihhltotalach": 1578,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "NANA HAIDVA",
+      "ihhltotalasperdetails": 286,
+      "ihhltotalach": 286,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "NARKHADI",
+      "ihhltotalasperdetails": 178,
+      "ihhltotalach": 178,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "NAVAPARA (NIKOLI)",
+      "ihhltotalasperdetails": 9,
+      "ihhltotalach": 9,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "NAVRA",
+      "ihhltotalasperdetails": 552,
+      "ihhltotalach": 552,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "NIKOLI",
+      "ihhltotalasperdetails": 249,
+      "ihhltotalach": 249,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "ORI",
+      "ihhltotalasperdetails": 478,
+      "ihhltotalach": 478,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "PATNA",
+      "ihhltotalasperdetails": 444,
+      "ihhltotalach": 444,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "POICHA",
+      "ihhltotalasperdetails": 288,
+      "ihhltotalach": 288,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "PRATAPNAGAR",
+      "ihhltotalasperdetails": 610,
+      "ihhltotalach": 610,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "PRATAPPARA",
+      "ihhltotalasperdetails": 359,
+      "ihhltotalach": 359,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "RAJUVADIA",
+      "ihhltotalasperdetails": 628,
+      "ihhltotalach": 628,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "RAMPARA (MANGROL)",
+      "ihhltotalasperdetails": 180,
+      "ihhltotalach": 180,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "RANIPURA",
+      "ihhltotalasperdetails": 345,
+      "ihhltotalach": 345,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "RASELA",
+      "ihhltotalasperdetails": 165,
+      "ihhltotalach": 165,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "RUNDH",
+      "ihhltotalasperdetails": 274,
+      "ihhltotalach": 274,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "SERAV",
+      "ihhltotalasperdetails": 630,
+      "ihhltotalach": 630,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "SISODARA",
+      "ihhltotalasperdetails": 556,
+      "ihhltotalach": 556,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "SONDHALIYA",
+      "ihhltotalasperdetails": 207,
+      "ihhltotalach": 207,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "SUNDARPURA",
+      "ihhltotalasperdetails": 223,
+      "ihhltotalach": 223,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "TANKARI",
+      "ihhltotalasperdetails": 236,
+      "ihhltotalach": 236,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "TAROPA",
+      "ihhltotalasperdetails": 397,
+      "ihhltotalach": 397,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "THARI",
+      "ihhltotalasperdetails": 121,
+      "ihhltotalach": 121,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "TIMBI",
+      "ihhltotalasperdetails": 314,
+      "ihhltotalach": 314,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "TORNA",
+      "ihhltotalasperdetails": 152,
+      "ihhltotalach": 152,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "UMARVA",
+      "ihhltotalasperdetails": 534,
+      "ihhltotalach": 534,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "VADIYA",
+      "ihhltotalasperdetails": 133,
+      "ihhltotalach": 133,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "VAGHETHA",
+      "ihhltotalasperdetails": 529,
+      "ihhltotalach": 529,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "VAGHODIA",
+      "ihhltotalasperdetails": 265,
+      "ihhltotalach": 265,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "VARACHHA",
+      "ihhltotalasperdetails": 88,
+      "ihhltotalach": 88,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "VARKHAD",
+      "ihhltotalasperdetails": 143,
+      "ihhltotalach": 143,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "VAVDI",
+      "ihhltotalasperdetails": 673,
+      "ihhltotalach": 673,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "VIRPOR",
+      "ihhltotalasperdetails": 268,
+      "ihhltotalach": 268,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "NANDOD",
+      "grampanchayatname": "ZER",
+      "ihhltotalasperdetails": 5,
+      "ihhltotalach": 5,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "SAGBARA",
+      "grampanchayatname": "AMIYAR",
+      "ihhltotalasperdetails": 740,
+      "ihhltotalach": 740,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "SAGBARA",
+      "grampanchayatname": "BHADOD",
+      "ihhltotalasperdetails": 780,
+      "ihhltotalach": 780,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "SAGBARA",
+      "grampanchayatname": "BHOGWAD",
+      "ihhltotalasperdetails": 693,
+      "ihhltotalach": 693,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "SAGBARA",
+      "grampanchayatname": "BHORAMLI",
+      "ihhltotalasperdetails": 704,
+      "ihhltotalach": 704,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "SAGBARA",
+      "grampanchayatname": "CHOPADVAV",
+      "ihhltotalasperdetails": 848,
+      "ihhltotalach": 848,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "SAGBARA",
+      "grampanchayatname": "DATWADA",
+      "ihhltotalasperdetails": 661,
+      "ihhltotalach": 661,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "SAGBARA",
+      "grampanchayatname": "DEVMOGRA",
+      "ihhltotalasperdetails": 963,
+      "ihhltotalach": 963,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "SAGBARA",
+      "grampanchayatname": "DEVSAKI",
+      "ihhltotalasperdetails": 780,
+      "ihhltotalach": 780,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "SAGBARA",
+      "grampanchayatname": "DHAVLIVER",
+      "ihhltotalasperdetails": 1203,
+      "ihhltotalach": 1203,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "SAGBARA",
+      "grampanchayatname": "DODHANVADI",
+      "ihhltotalasperdetails": 671,
+      "ihhltotalach": 671,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "SAGBARA",
+      "grampanchayatname": "JAVLI (NAVAGAM)",
+      "ihhltotalasperdetails": 595,
+      "ihhltotalach": 595,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "SAGBARA",
+      "grampanchayatname": "KHERPADA",
+      "ihhltotalasperdetails": 810,
+      "ihhltotalach": 810,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "SAGBARA",
+      "grampanchayatname": "KOLVAN",
+      "ihhltotalasperdetails": 558,
+      "ihhltotalach": 558,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "SAGBARA",
+      "grampanchayatname": "MAHUPADA",
+      "ihhltotalasperdetails": 190,
+      "ihhltotalach": 190,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "SAGBARA",
+      "grampanchayatname": "MOTA KAKDI AMBA",
+      "ihhltotalasperdetails": 864,
+      "ihhltotalach": 864,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "SAGBARA",
+      "grampanchayatname": "MOVI",
+      "ihhltotalasperdetails": 255,
+      "ihhltotalach": 255,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "SAGBARA",
+      "grampanchayatname": "NAL",
+      "ihhltotalasperdetails": 618,
+      "ihhltotalach": 618,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "SAGBARA",
+      "grampanchayatname": "NANA KAKDI AMBA",
+      "ihhltotalasperdetails": 879,
+      "ihhltotalach": 879,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "SAGBARA",
+      "grampanchayatname": "NAVAGAM (JAVLI)",
+      "ihhltotalasperdetails": 459,
+      "ihhltotalach": 459,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "SAGBARA",
+      "grampanchayatname": "PALASWADA",
+      "ihhltotalasperdetails": 502,
+      "ihhltotalach": 502,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "SAGBARA",
+      "grampanchayatname": "PANCHPIPRI",
+      "ihhltotalasperdetails": 345,
+      "ihhltotalach": 345,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "SAGBARA",
+      "grampanchayatname": "PAT",
+      "ihhltotalasperdetails": 154,
+      "ihhltotalach": 154,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "SAGBARA",
+      "grampanchayatname": "PATANAMAU",
+      "ihhltotalasperdetails": 434,
+      "ihhltotalach": 434,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "SAGBARA",
+      "grampanchayatname": "RANIPUR",
+      "ihhltotalasperdetails": 365,
+      "ihhltotalach": 365,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "SAGBARA",
+      "grampanchayatname": "ROZDEV",
+      "ihhltotalasperdetails": 988,
+      "ihhltotalach": 988,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "SAGBARA",
+      "grampanchayatname": "SAGBARA",
+      "ihhltotalasperdetails": 1397,
+      "ihhltotalach": 1397,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "SAGBARA",
+      "grampanchayatname": "SAJANVAV",
+      "ihhltotalasperdetails": 333,
+      "ihhltotalach": 333,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "SAGBARA",
+      "grampanchayatname": "SELAMBA",
+      "ihhltotalasperdetails": 1544,
+      "ihhltotalach": 1544,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "SAGBARA",
+      "grampanchayatname": "SORAPADA",
+      "ihhltotalasperdetails": 894,
+      "ihhltotalach": 894,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "SAGBARA",
+      "grampanchayatname": "TAVAL",
+      "ihhltotalasperdetails": 298,
+      "ihhltotalach": 298,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "SAGBARA",
+      "grampanchayatname": "UBHARIYA",
+      "ihhltotalasperdetails": 435,
+      "ihhltotalach": 435,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "TILAKWADA",
+      "grampanchayatname": "AGAR",
+      "ihhltotalasperdetails": 406,
+      "ihhltotalach": 406,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "TILAKWADA",
+      "grampanchayatname": "ALVA",
+      "ihhltotalasperdetails": 292,
+      "ihhltotalach": 292,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "TILAKWADA",
+      "grampanchayatname": "AMALIYA",
+      "ihhltotalasperdetails": 406,
+      "ihhltotalach": 406,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "TILAKWADA",
+      "grampanchayatname": "BHADARWA",
+      "ihhltotalasperdetails": 464,
+      "ihhltotalach": 464,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "TILAKWADA",
+      "grampanchayatname": "BUJETHA",
+      "ihhltotalasperdetails": 300,
+      "ihhltotalach": 300,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "TILAKWADA",
+      "grampanchayatname": "CHUDESHWAR",
+      "ihhltotalasperdetails": 252,
+      "ihhltotalach": 252,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "TILAKWADA",
+      "grampanchayatname": "DEVALIYA",
+      "ihhltotalasperdetails": 530,
+      "ihhltotalach": 530,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "TILAKWADA",
+      "grampanchayatname": "FATEPUR (VAJIRIYA)",
+      "ihhltotalasperdetails": 85,
+      "ihhltotalach": 85,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "TILAKWADA",
+      "grampanchayatname": "FATEPUR (VANMALA)",
+      "ihhltotalasperdetails": 385,
+      "ihhltotalach": 385,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "TILAKWADA",
+      "grampanchayatname": "GAMOD",
+      "ihhltotalasperdetails": 188,
+      "ihhltotalach": 188,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "TILAKWADA",
+      "grampanchayatname": "HAFISPURA",
+      "ihhltotalasperdetails": 145,
+      "ihhltotalach": 145,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "TILAKWADA",
+      "grampanchayatname": "INDARMAN",
+      "ihhltotalasperdetails": 279,
+      "ihhltotalach": 279,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "TILAKWADA",
+      "grampanchayatname": "JALODRA",
+      "ihhltotalasperdetails": 81,
+      "ihhltotalach": 81,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "TILAKWADA",
+      "grampanchayatname": "KAMSOLI",
+      "ihhltotalasperdetails": 292,
+      "ihhltotalach": 292,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "TILAKWADA",
+      "grampanchayatname": "KANTHARPURA",
+      "ihhltotalasperdetails": 334,
+      "ihhltotalach": 334,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "TILAKWADA",
+      "grampanchayatname": "KATKOI",
+      "ihhltotalasperdetails": 343,
+      "ihhltotalach": 343,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "TILAKWADA",
+      "grampanchayatname": "KHATA ASITARA",
+      "ihhltotalasperdetails": 231,
+      "ihhltotalach": 231,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "TILAKWADA",
+      "grampanchayatname": "KOYARI",
+      "ihhltotalasperdetails": 290,
+      "ihhltotalach": 290,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "TILAKWADA",
+      "grampanchayatname": "LIMPURA",
+      "ihhltotalasperdetails": 145,
+      "ihhltotalach": 145,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "TILAKWADA",
+      "grampanchayatname": "MANGU",
+      "ihhltotalasperdetails": 47,
+      "ihhltotalach": 47,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "TILAKWADA",
+      "grampanchayatname": "NAMARIYA",
+      "ihhltotalasperdetails": 150,
+      "ihhltotalach": 150,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "TILAKWADA",
+      "grampanchayatname": "ODAMBIYA",
+      "ihhltotalasperdetails": 277,
+      "ihhltotalach": 277,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "TILAKWADA",
+      "grampanchayatname": "PICHHIPURA",
+      "ihhltotalasperdetails": 249,
+      "ihhltotalach": 249,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "TILAKWADA",
+      "grampanchayatname": "PUCHHAPURA",
+      "ihhltotalasperdetails": 173,
+      "ihhltotalach": 173,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "TILAKWADA",
+      "grampanchayatname": "RATUDIYA",
+      "ihhltotalasperdetails": 252,
+      "ihhltotalach": 252,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "TILAKWADA",
+      "grampanchayatname": "RENGAN",
+      "ihhltotalasperdetails": 284,
+      "ihhltotalach": 284,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "TILAKWADA",
+      "grampanchayatname": "SAHEBPURA",
+      "ihhltotalasperdetails": 197,
+      "ihhltotalach": 197,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "TILAKWADA",
+      "grampanchayatname": "SAVLI",
+      "ihhltotalasperdetails": 421,
+      "ihhltotalach": 421,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "TILAKWADA",
+      "grampanchayatname": "SEVADA",
+      "ihhltotalasperdetails": 89,
+      "ihhltotalach": 89,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "TILAKWADA",
+      "grampanchayatname": "SHIRA",
+      "ihhltotalasperdetails": 371,
+      "ihhltotalach": 371,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "TILAKWADA",
+      "grampanchayatname": "SINDHIYAPURA",
+      "ihhltotalasperdetails": 247,
+      "ihhltotalach": 247,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "TILAKWADA",
+      "grampanchayatname": "TILAKWADA",
+      "ihhltotalasperdetails": 852,
+      "ihhltotalach": 852,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "TILAKWADA",
+      "grampanchayatname": "UCHAD",
+      "ihhltotalasperdetails": 352,
+      "ihhltotalach": 352,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "TILAKWADA",
+      "grampanchayatname": "VADIYA (KALAGHODA)",
+      "ihhltotalasperdetails": 222,
+      "ihhltotalach": 222,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "TILAKWADA",
+      "grampanchayatname": "VAGHELI",
+      "ihhltotalasperdetails": 407,
+      "ihhltotalach": 407,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "TILAKWADA",
+      "grampanchayatname": "VAJIRIYA",
+      "ihhltotalasperdetails": 368,
+      "ihhltotalach": 368,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "TILAKWADA",
+      "grampanchayatname": "VANDH",
+      "ihhltotalasperdetails": 240,
+      "ihhltotalach": 240,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "TILAKWADA",
+      "grampanchayatname": "VARVADA",
+      "ihhltotalasperdetails": 234,
+      "ihhltotalach": 234,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "TILAKWADA",
+      "grampanchayatname": "VASAN",
+      "ihhltotalasperdetails": 229,
+      "ihhltotalach": 229,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "TILAKWADA",
+      "grampanchayatname": "VORA",
+      "ihhltotalasperdetails": 253,
+      "ihhltotalach": 253,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NARMADA",
+      "blockname": "TILAKWADA",
+      "grampanchayatname": "VYADHAR",
+      "ihhltotalasperdetails": 302,
+      "ihhltotalach": 302,
+      "date": "5/19/2020 12:00:00 AM"
+    }
+  ]
+}

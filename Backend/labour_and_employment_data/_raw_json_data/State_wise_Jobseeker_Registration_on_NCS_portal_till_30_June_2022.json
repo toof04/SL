@@ -1,0 +1,372 @@
+{
+  "index_name": "a79d3456-edcc-4c52-9be8-7682476cb64a",
+  "title": "State wise Jobseeker Registration on NCS portal till 30 June 2022",
+  "desc": "State wise Jobseeker Registration on NCS portal till 30 June 2022",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Labour and Employment"
+  ],
+  "sector": [
+    "Labour and Employment"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "11f7723c-ea55-4ad6-b2b9-9cd7e2a0e46f",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1694766552,
+  "updated": 1694769164,
+  "created_date": "2023-09-15T10:29:12Z",
+  "updated_date": "2023-09-15T14:42:44Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "11f7723c-ea55-4ad6-b2b9-9cd7e2a0e46f",
+    "field": "a79d3456-edcc-4c52-9be8-7682476cb64a"
+  },
+  "field": [
+    {
+      "id": "states",
+      "name": "States",
+      "type": "keyword"
+    },
+    {
+      "id": "female",
+      "name": "Female",
+      "type": "double"
+    },
+    {
+      "id": "male",
+      "name": "Male",
+      "type": "double"
+    },
+    {
+      "id": "transgender",
+      "name": "Transgender",
+      "type": "double"
+    },
+    {
+      "id": "grand_total",
+      "name": "Grand Total",
+      "type": "double"
+    },
+    {
+      "id": "data_upto",
+      "name": "Data Upto",
+      "type": "date"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 38,
+  "count": 38,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "states": "Andaman and Nicobar Islands",
+      "female": 22891,
+      "male": 25517,
+      "transgender": 2,
+      "grand_total": 48410,
+      "data_upto": "2022-06-30T10:29:37Z"
+    },
+    {
+      "states": "Andhra Pradesh",
+      "female": 225883,
+      "male": 326213,
+      "transgender": 157,
+      "grand_total": 552253,
+      "data_upto": "2022-06-30T10:29:37Z"
+    },
+    {
+      "states": "Arunachal Pradesh",
+      "female": 30765,
+      "male": 21926,
+      "transgender": 7,
+      "grand_total": 52698,
+      "data_upto": "2022-06-30T10:29:37Z"
+    },
+    {
+      "states": "Assam",
+      "female": 509206,
+      "male": 640525,
+      "transgender": 193,
+      "grand_total": 1149924,
+      "data_upto": "2022-06-30T10:29:37Z"
+    },
+    {
+      "states": "Bihar",
+      "female": 462015,
+      "male": 1352609,
+      "transgender": 359,
+      "grand_total": 1814983,
+      "data_upto": "2022-06-30T10:29:37Z"
+    },
+    {
+      "states": "Chandigarh",
+      "female": 18790,
+      "male": 20762,
+      "transgender": 13,
+      "grand_total": 39565,
+      "data_upto": "2022-06-30T10:29:37Z"
+    },
+    {
+      "states": "Chhattisgarh",
+      "female": 109723,
+      "male": 154272,
+      "transgender": 93,
+      "grand_total": 264088,
+      "data_upto": "2022-06-30T10:29:37Z"
+    },
+    {
+      "states": "Dadra and Nagar Haveli",
+      "female": 1287,
+      "male": 1894,
+      "transgender": 1,
+      "grand_total": 3182,
+      "data_upto": "2022-06-30T10:29:37Z"
+    },
+    {
+      "states": "Daman and Diu",
+      "female": 616,
+      "male": 856,
+      "transgender": "NA",
+      "grand_total": 1472,
+      "data_upto": "2022-06-30T10:29:37Z"
+    },
+    {
+      "states": "Delhi",
+      "female": 146895,
+      "male": 217232,
+      "transgender": 79,
+      "grand_total": 364206,
+      "data_upto": "2022-06-30T10:29:37Z"
+    },
+    {
+      "states": "Goa",
+      "female": 43837,
+      "male": 51732,
+      "transgender": 5,
+      "grand_total": 95574,
+      "data_upto": "2022-06-30T10:29:37Z"
+    },
+    {
+      "states": "Gujarat",
+      "female": 181419,
+      "male": 331928,
+      "transgender": 141,
+      "grand_total": 513488,
+      "data_upto": "2022-06-30T10:29:37Z"
+    },
+    {
+      "states": "Haryana",
+      "female": 184187,
+      "male": 200305,
+      "transgender": 48,
+      "grand_total": 384540,
+      "data_upto": "2022-06-30T10:29:37Z"
+    },
+    {
+      "states": "Himachal Pradesh",
+      "female": 210293,
+      "male": 240034,
+      "transgender": 27,
+      "grand_total": 450354,
+      "data_upto": "2022-06-30T10:29:37Z"
+    },
+    {
+      "states": "Jammu and Kashmir",
+      "female": 105290,
+      "male": 114231,
+      "transgender": 35,
+      "grand_total": 219556,
+      "data_upto": "2022-06-30T10:29:37Z"
+    },
+    {
+      "states": "Jharkhand",
+      "female": 335092,
+      "male": 657951,
+      "transgender": 59,
+      "grand_total": 993102,
+      "data_upto": "2022-06-30T10:29:37Z"
+    },
+    {
+      "states": "Karnataka",
+      "female": 204445,
+      "male": 289608,
+      "transgender": 154,
+      "grand_total": 494207,
+      "data_upto": "2022-06-30T10:29:37Z"
+    },
+    {
+      "states": "Kerala",
+      "female": 141475,
+      "male": 164649,
+      "transgender": 101,
+      "grand_total": 306225,
+      "data_upto": "2022-06-30T10:29:37Z"
+    },
+    {
+      "states": "Ladakh",
+      "female": 2950,
+      "male": 1489,
+      "transgender": "NA",
+      "grand_total": 4439,
+      "data_upto": "2022-06-30T10:29:37Z"
+    },
+    {
+      "states": "Lakshadweep",
+      "female": 3310,
+      "male": 2770,
+      "transgender": 1,
+      "grand_total": 6081,
+      "data_upto": "2022-06-30T10:29:37Z"
+    },
+    {
+      "states": "Madhya Pradesh",
+      "female": 525796,
+      "male": 755108,
+      "transgender": 163,
+      "grand_total": 1281067,
+      "data_upto": "2022-06-30T10:29:37Z"
+    },
+    {
+      "states": "Maharashtra",
+      "female": 1449676,
+      "male": 3844796,
+      "transgender": 890,
+      "grand_total": 5295362,
+      "data_upto": "2022-06-30T10:29:37Z"
+    },
+    {
+      "states": "Manipur",
+      "female": 37516,
+      "male": 24971,
+      "transgender": 16,
+      "grand_total": 62503,
+      "data_upto": "2022-06-30T10:29:37Z"
+    },
+    {
+      "states": "Meghalaya",
+      "female": 16687,
+      "male": 11592,
+      "transgender": 3,
+      "grand_total": 28282,
+      "data_upto": "2022-06-30T10:29:37Z"
+    },
+    {
+      "states": "Mizoram",
+      "female": 11170,
+      "male": 6899,
+      "transgender": "NA",
+      "grand_total": 18069,
+      "data_upto": "2022-06-30T10:29:37Z"
+    },
+    {
+      "states": "Nagaland",
+      "female": 17240,
+      "male": 11194,
+      "transgender": 2,
+      "grand_total": 28436,
+      "data_upto": "2022-06-30T10:29:37Z"
+    },
+    {
+      "states": "Odisha",
+      "female": 130255,
+      "male": 238327,
+      "transgender": 49,
+      "grand_total": 368631,
+      "data_upto": "2022-06-30T10:29:37Z"
+    },
+    {
+      "states": "Puducherry",
+      "female": 64710,
+      "male": 61374,
+      "transgender": 11,
+      "grand_total": 126095,
+      "data_upto": "2022-06-30T10:29:37Z"
+    },
+    {
+      "states": "Punjab",
+      "female": 292587,
+      "male": 496644,
+      "transgender": 69,
+      "grand_total": 789300,
+      "data_upto": "2022-06-30T10:29:37Z"
+    },
+    {
+      "states": "Rajasthan",
+      "female": 518673,
+      "male": 916946,
+      "transgender": 115,
+      "grand_total": 1435734,
+      "data_upto": "2022-06-30T10:29:37Z"
+    },
+    {
+      "states": "Sikkim",
+      "female": 4543,
+      "male": 3862,
+      "transgender": 1,
+      "grand_total": 8406,
+      "data_upto": "2022-06-30T10:29:37Z"
+    },
+    {
+      "states": "Tamil Nadu",
+      "female": 414152,
+      "male": 498903,
+      "transgender": 230,
+      "grand_total": 913285,
+      "data_upto": "2022-06-30T10:29:37Z"
+    },
+    {
+      "states": "Telangana",
+      "female": 244902,
+      "male": 342241,
+      "transgender": 87,
+      "grand_total": 587230,
+      "data_upto": "2022-06-30T10:29:37Z"
+    },
+    {
+      "states": "Tripura",
+      "female": 138032,
+      "male": 189271,
+      "transgender": 43,
+      "grand_total": 327346,
+      "data_upto": "2022-06-30T10:29:37Z"
+    },
+    {
+      "states": "Uttar Pradesh",
+      "female": 913315,
+      "male": 1672468,
+      "transgender": 754,
+      "grand_total": 2586537,
+      "data_upto": "2022-06-30T10:29:37Z"
+    },
+    {
+      "states": "Uttarakhand",
+      "female": 104725,
+      "male": 132450,
+      "transgender": 44,
+      "grand_total": 237219,
+      "data_upto": "2022-06-30T10:29:37Z"
+    },
+    {
+      "states": "West Bengal",
+      "female": 1262270,
+      "male": 1699878,
+      "transgender": 1030,
+      "grand_total": 2963178,
+      "data_upto": "2022-06-30T10:29:37Z"
+    },
+    {
+      "states": "Grand Total",
+      "female": 9086618,
+      "male": 15723427,
+      "transgender": 4982,
+      "grand_total": 24815027,
+      "data_upto": "2022-06-30T10:29:37Z"
+    }
+  ]
+}

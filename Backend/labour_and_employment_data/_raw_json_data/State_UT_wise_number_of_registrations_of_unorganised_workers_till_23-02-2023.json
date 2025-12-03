@@ -1,0 +1,274 @@
+{
+  "index_name": "e052933a-069b-4771-bb6a-5a093dddee6a",
+  "title": "State/UT wise number of registrations of unorganised workers till 23-02-2023",
+  "desc": "State/UT wise number of registrations of unorganised workers till 23-02-2023",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Labour and Employment"
+  ],
+  "sector": [
+    "Labour and Employment"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "a2553f9a-62f2-4f6c-9d5f-d4ae0942ddfa",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1680074124,
+  "updated": 1680073896,
+  "created_date": "2023-03-29T09:15:24Z",
+  "updated_date": "2023-03-29T12:41:36Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "a2553f9a-62f2-4f6c-9d5f-d4ae0942ddfa",
+    "field": "e052933a-069b-4771-bb6a-5a093dddee6a"
+  },
+  "field": [
+    {
+      "id": "lg_state_code",
+      "name": "LG_State_Code",
+      "type": "keyword"
+    },
+    {
+      "id": "state_name",
+      "name": "State_Name",
+      "type": "keyword"
+    },
+    {
+      "id": "registration_count",
+      "name": "Registration_count",
+      "type": "double"
+    },
+    {
+      "id": "last_updated",
+      "name": "Last_Updated",
+      "type": "date"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 36,
+  "count": 36,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "lg_state_code": "1",
+      "state_name": "JAMMU AND KASHMIR",
+      "registration_count": 3378579,
+      "last_updated": "2023-02-23T09:15:57Z"
+    },
+    {
+      "lg_state_code": "2",
+      "state_name": "HIMACHAL PRADESH",
+      "registration_count": 1923672,
+      "last_updated": "2023-02-23T09:15:57Z"
+    },
+    {
+      "lg_state_code": "3",
+      "state_name": "PUNJAB",
+      "registration_count": 5496777,
+      "last_updated": "2023-02-23T09:15:57Z"
+    },
+    {
+      "lg_state_code": "4",
+      "state_name": "CHANDIGARH",
+      "registration_count": 174112,
+      "last_updated": "2023-02-23T09:15:57Z"
+    },
+    {
+      "lg_state_code": "5",
+      "state_name": "UTTARAKHAND",
+      "registration_count": 2972426,
+      "last_updated": "2023-02-23T09:15:57Z"
+    },
+    {
+      "lg_state_code": "6",
+      "state_name": "HARYANA",
+      "registration_count": 5256673,
+      "last_updated": "2023-02-23T09:15:57Z"
+    },
+    {
+      "lg_state_code": "7",
+      "state_name": "DELHI",
+      "registration_count": 3252212,
+      "last_updated": "2023-02-23T09:15:57Z"
+    },
+    {
+      "lg_state_code": "8",
+      "state_name": "RAJASTHAN",
+      "registration_count": 12807531,
+      "last_updated": "2023-02-23T09:15:57Z"
+    },
+    {
+      "lg_state_code": "9",
+      "state_name": "UTTAR PRADESH",
+      "registration_count": 83016088,
+      "last_updated": "2023-02-23T09:15:57Z"
+    },
+    {
+      "lg_state_code": "10",
+      "state_name": "BIHAR",
+      "registration_count": 28567740,
+      "last_updated": "2023-02-23T09:15:57Z"
+    },
+    {
+      "lg_state_code": "11",
+      "state_name": "SIKKIM",
+      "registration_count": 24436,
+      "last_updated": "2023-02-23T09:15:57Z"
+    },
+    {
+      "lg_state_code": "12",
+      "state_name": "ARUNACHAL PRADESH",
+      "registration_count": 140631,
+      "last_updated": "2023-02-23T09:15:57Z"
+    },
+    {
+      "lg_state_code": "13",
+      "state_name": "NAGALAND",
+      "registration_count": 218681,
+      "last_updated": "2023-02-23T09:15:57Z"
+    },
+    {
+      "lg_state_code": "14",
+      "state_name": "MANIPUR",
+      "registration_count": 405133,
+      "last_updated": "2023-02-23T09:15:57Z"
+    },
+    {
+      "lg_state_code": "15",
+      "state_name": "MIZORAM",
+      "registration_count": 58273,
+      "last_updated": "2023-02-23T09:15:57Z"
+    },
+    {
+      "lg_state_code": "16",
+      "state_name": "TRIPURA",
+      "registration_count": 844623,
+      "last_updated": "2023-02-23T09:15:57Z"
+    },
+    {
+      "lg_state_code": "17",
+      "state_name": "MEGHALAYA",
+      "registration_count": 288838,
+      "last_updated": "2023-02-23T09:15:57Z"
+    },
+    {
+      "lg_state_code": "18",
+      "state_name": "ASSAM",
+      "registration_count": 6933160,
+      "last_updated": "2023-02-23T09:15:57Z"
+    },
+    {
+      "lg_state_code": "19",
+      "state_name": "WEST BENGAL",
+      "registration_count": 25799359,
+      "last_updated": "2023-02-23T09:15:57Z"
+    },
+    {
+      "lg_state_code": "20",
+      "state_name": "JHARKHAND",
+      "registration_count": 9146955,
+      "last_updated": "2023-02-23T09:15:57Z"
+    },
+    {
+      "lg_state_code": "21",
+      "state_name": "ODISHA",
+      "registration_count": 13329013,
+      "last_updated": "2023-02-23T09:15:57Z"
+    },
+    {
+      "lg_state_code": "22",
+      "state_name": "CHHATTISGARH",
+      "registration_count": 8261290,
+      "last_updated": "2023-02-23T09:15:57Z"
+    },
+    {
+      "lg_state_code": "23",
+      "state_name": "MADHYA PRADESH",
+      "registration_count": 16908003,
+      "last_updated": "2023-02-23T09:15:57Z"
+    },
+    {
+      "lg_state_code": "24",
+      "state_name": "GUJARAT",
+      "registration_count": 9194538,
+      "last_updated": "2023-02-23T09:15:57Z"
+    },
+    {
+      "lg_state_code": "27",
+      "state_name": "MAHARASHTRA",
+      "registration_count": 13483977,
+      "last_updated": "2023-02-23T09:15:57Z"
+    },
+    {
+      "lg_state_code": "28",
+      "state_name": "ANDHRA PRADESH",
+      "registration_count": 7931078,
+      "last_updated": "2023-02-23T09:15:57Z"
+    },
+    {
+      "lg_state_code": "29",
+      "state_name": "KARNATAKA",
+      "registration_count": 7469830,
+      "last_updated": "2023-02-23T09:15:57Z"
+    },
+    {
+      "lg_state_code": "30",
+      "state_name": "GOA",
+      "registration_count": 57350,
+      "last_updated": "2023-02-23T09:15:57Z"
+    },
+    {
+      "lg_state_code": "31",
+      "state_name": "LAKSHADWEEP",
+      "registration_count": 2433,
+      "last_updated": "2023-02-23T09:15:57Z"
+    },
+    {
+      "lg_state_code": "32",
+      "state_name": "KERALA",
+      "registration_count": 5904331,
+      "last_updated": "2023-02-23T09:15:57Z"
+    },
+    {
+      "lg_state_code": "33",
+      "state_name": "TAMIL NADU",
+      "registration_count": 8378398,
+      "last_updated": "2023-02-23T09:15:57Z"
+    },
+    {
+      "lg_state_code": "34",
+      "state_name": "PONDICHERRY",
+      "registration_count": 176464,
+      "last_updated": "2023-02-23T09:15:57Z"
+    },
+    {
+      "lg_state_code": "35",
+      "state_name": "ANDAMAN AND NICOBAR ISLANDS",
+      "registration_count": 28497,
+      "last_updated": "2023-02-23T09:15:57Z"
+    },
+    {
+      "lg_state_code": "36",
+      "state_name": "TELANGANA",
+      "registration_count": 4106653,
+      "last_updated": "2023-02-23T09:15:57Z"
+    },
+    {
+      "lg_state_code": "37",
+      "state_name": "LADAKH",
+      "registration_count": 28901,
+      "last_updated": "2023-02-23T09:15:57Z"
+    },
+    {
+      "lg_state_code": "38",
+      "state_name": "THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU",
+      "registration_count": 72866,
+      "last_updated": "2023-02-23T09:15:57Z"
+    }
+  ]
+}

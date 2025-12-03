@@ -1,0 +1,3368 @@
+{
+  "index_name": "c10cfb00-c073-4141-a757-b9dbde6a8c80",
+  "title": "Gram Panchayat-wise Rural Sanitation Coverage in Navsari District of Gujarat as on date",
+  "desc": "Gram Panchayat-wise Rural Sanitation Coverage in Navsari District of Gujarat as on date",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Jal Shakti",
+    "Department of Drinking Water and Sanitation"
+  ],
+  "sector": [
+    "Water and Sanitation"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1688360451,
+  "updated": 1688364950,
+  "created_date": "2023-07-03T07:00:51Z",
+  "updated_date": "2023-07-03T11:45:50Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "sbm",
+    "type": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+    "field": "c10cfb00-c073-4141-a757-b9dbde6a8c80"
+  },
+  "field": [
+    {
+      "id": "statename",
+      "name": "StateName",
+      "type": "keyword"
+    },
+    {
+      "id": "districtname",
+      "name": "DistrictName",
+      "type": "keyword"
+    },
+    {
+      "id": "blockname",
+      "name": "BlockName",
+      "type": "keyword"
+    },
+    {
+      "id": "grampanchayatname",
+      "name": "GramPanchayatName",
+      "type": "keyword"
+    },
+    {
+      "id": "ihhltotalasperdetails",
+      "name": "IHHLTotalAsPerDetails",
+      "type": "double"
+    },
+    {
+      "id": "ihhltotalach",
+      "name": "IHHLTotalAch",
+      "type": "double"
+    },
+    {
+      "id": "date",
+      "name": "Date",
+      "type": "keyword"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 366,
+  "count": 366,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "AGASI",
+      "ihhltotalasperdetails": 441,
+      "ihhltotalach": 441,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "ALIPOR",
+      "ihhltotalasperdetails": 826,
+      "ihhltotalach": 826,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "AMADHARA",
+      "ihhltotalasperdetails": 217,
+      "ihhltotalach": 217,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "AMBACH",
+      "ihhltotalasperdetails": 320,
+      "ihhltotalach": 320,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "BALWADA",
+      "ihhltotalasperdetails": 709,
+      "ihhltotalach": 709,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "BAMANVEL",
+      "ihhltotalasperdetails": 349,
+      "ihhltotalach": 349,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "BAMANWADA",
+      "ihhltotalasperdetails": 291,
+      "ihhltotalach": 291,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "BAROLIA",
+      "ihhltotalasperdetails": 322,
+      "ihhltotalach": 322,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "BODVANK",
+      "ihhltotalasperdetails": 441,
+      "ihhltotalach": 441,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "CHARI",
+      "ihhltotalasperdetails": 871,
+      "ihhltotalach": 871,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "CHASA",
+      "ihhltotalasperdetails": 590,
+      "ihhltotalach": 590,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "CHIKHLI",
+      "ihhltotalasperdetails": 107,
+      "ihhltotalach": 107,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "CHITALI",
+      "ihhltotalasperdetails": 73,
+      "ihhltotalach": 73,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "DEGAM",
+      "ihhltotalasperdetails": 428,
+      "ihhltotalach": 428,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "DHOLUMBER",
+      "ihhltotalasperdetails": 415,
+      "ihhltotalach": 415,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "DONJA",
+      "ihhltotalasperdetails": 559,
+      "ihhltotalach": 559,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "FADVEL",
+      "ihhltotalasperdetails": 639,
+      "ihhltotalach": 639,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "GHEJ",
+      "ihhltotalasperdetails": 1624,
+      "ihhltotalach": 1624,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "GHEKTI",
+      "ihhltotalasperdetails": 383,
+      "ihhltotalach": 383,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "GHODVANI",
+      "ihhltotalasperdetails": 453,
+      "ihhltotalach": 453,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "GHOLAR",
+      "ihhltotalasperdetails": 513,
+      "ihhltotalach": 513,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "GODTHAL",
+      "ihhltotalasperdetails": 743,
+      "ihhltotalach": 743,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "HARANGAM",
+      "ihhltotalasperdetails": 873,
+      "ihhltotalach": 873,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "HOND",
+      "ihhltotalasperdetails": 781,
+      "ihhltotalach": 781,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "JOGWAD",
+      "ihhltotalasperdetails": 640,
+      "ihhltotalach": 640,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "KAKADVEL",
+      "ihhltotalasperdetails": 532,
+      "ihhltotalach": 532,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "KALIYARI",
+      "ihhltotalasperdetails": 472,
+      "ihhltotalach": 472,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "KANBHAI",
+      "ihhltotalasperdetails": 1007,
+      "ihhltotalach": 1007,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "KANGVAI",
+      "ihhltotalasperdetails": 412,
+      "ihhltotalach": 412,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "KHAMBHDA",
+      "ihhltotalasperdetails": 425,
+      "ihhltotalach": 425,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "KHAROLI",
+      "ihhltotalasperdetails": 647,
+      "ihhltotalach": 647,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "KHUDVEL",
+      "ihhltotalasperdetails": 698,
+      "ihhltotalach": 698,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "KHUNDH",
+      "ihhltotalasperdetails": 1286,
+      "ihhltotalach": 1286,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "KUKERI",
+      "ihhltotalasperdetails": 1303,
+      "ihhltotalach": 1303,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "MAJIGAM",
+      "ihhltotalasperdetails": 252,
+      "ihhltotalach": 252,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "MALIADHARA",
+      "ihhltotalasperdetails": 568,
+      "ihhltotalach": 568,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "MALWADA",
+      "ihhltotalasperdetails": 245,
+      "ihhltotalach": 245,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "MANDAV KHADAK",
+      "ihhltotalasperdetails": 1327,
+      "ihhltotalach": 1327,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "MANEKPOR",
+      "ihhltotalasperdetails": 247,
+      "ihhltotalach": 247,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "MINKACHCHH",
+      "ihhltotalasperdetails": 514,
+      "ihhltotalach": 514,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "MOGRAWADI",
+      "ihhltotalasperdetails": 301,
+      "ihhltotalach": 301,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "NOGAMA",
+      "ihhltotalasperdetails": 662,
+      "ihhltotalach": 662,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "PIPALGABHAN",
+      "ihhltotalasperdetails": 748,
+      "ihhltotalach": 748,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "RANKUWA",
+      "ihhltotalasperdetails": 455,
+      "ihhltotalach": 455,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "RANVERIKALLA",
+      "ihhltotalasperdetails": 543,
+      "ihhltotalach": 543,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "RANVERIKHURD",
+      "ihhltotalasperdetails": 1006,
+      "ihhltotalach": 1006,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "RETHVANIA-UNDHVAL",
+      "ihhltotalasperdetails": 455,
+      "ihhltotalach": 455,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "RUMLA",
+      "ihhltotalasperdetails": 932,
+      "ihhltotalach": 932,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "SADADVEL",
+      "ihhltotalasperdetails": 1244,
+      "ihhltotalach": 1244,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "SADAKPOR",
+      "ihhltotalasperdetails": 699,
+      "ihhltotalach": 699,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "SAMAROLI",
+      "ihhltotalasperdetails": 737,
+      "ihhltotalach": 737,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "SARAIYA",
+      "ihhltotalasperdetails": 471,
+      "ihhltotalach": 471,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "SARAVANI",
+      "ihhltotalasperdetails": 1045,
+      "ihhltotalach": 1045,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "SATADIYA",
+      "ihhltotalasperdetails": 457,
+      "ihhltotalach": 457,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "SOLDHARA",
+      "ihhltotalasperdetails": 229,
+      "ihhltotalach": 229,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "SUNTHWAD",
+      "ihhltotalasperdetails": 396,
+      "ihhltotalach": 396,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "SURKHAI",
+      "ihhltotalasperdetails": 596,
+      "ihhltotalach": 596,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "SYADA",
+      "ihhltotalasperdetails": 1401,
+      "ihhltotalach": 1401,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "TALAVCHORA",
+      "ihhltotalasperdetails": 1080,
+      "ihhltotalach": 1080,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "TANKAL",
+      "ihhltotalasperdetails": 543,
+      "ihhltotalach": 543,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "TEJLAV",
+      "ihhltotalasperdetails": 666,
+      "ihhltotalach": 666,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "THALA",
+      "ihhltotalasperdetails": 326,
+      "ihhltotalach": 326,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "VANKAL",
+      "ihhltotalasperdetails": 734,
+      "ihhltotalach": 734,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "VANZNA",
+      "ihhltotalasperdetails": 930,
+      "ihhltotalach": 930,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "VELANPOR",
+      "ihhltotalasperdetails": 237,
+      "ihhltotalach": 237,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "CHIKHALI",
+      "grampanchayatname": "ZARI",
+      "ihhltotalasperdetails": 217,
+      "ihhltotalach": 217,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "AJRAI",
+      "ihhltotalasperdetails": 460,
+      "ihhltotalach": 460,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "AMALSAD",
+      "ihhltotalasperdetails": 1604,
+      "ihhltotalach": 1604,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "AMBHETA",
+      "ihhltotalasperdetails": 645,
+      "ihhltotalach": 645,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "ANCHELI",
+      "ihhltotalasperdetails": 335,
+      "ihhltotalach": 335,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "ANTALIYA",
+      "ihhltotalasperdetails": 1321,
+      "ihhltotalach": 1321,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "BHAGAD",
+      "ihhltotalasperdetails": 254,
+      "ihhltotalach": 254,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "BHAT",
+      "ihhltotalasperdetails": 548,
+      "ihhltotalach": 548,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "BHATHA",
+      "ihhltotalasperdetails": 564,
+      "ihhltotalach": 564,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "BIGRI",
+      "ihhltotalasperdetails": 608,
+      "ihhltotalach": 608,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "CHHAPAR",
+      "ihhltotalasperdetails": 343,
+      "ihhltotalach": 343,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "DESHAD",
+      "ihhltotalasperdetails": 295,
+      "ihhltotalach": 295,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "DEVDHA",
+      "ihhltotalasperdetails": 686,
+      "ihhltotalach": 686,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "DEVSAR",
+      "ihhltotalasperdetails": 1089,
+      "ihhltotalach": 1089,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "DHAKWADA",
+      "ihhltotalasperdetails": 692,
+      "ihhltotalach": 692,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "DHAMDACHHA",
+      "ihhltotalasperdetails": 742,
+      "ihhltotalach": 742,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "DHANORI",
+      "ihhltotalasperdetails": 448,
+      "ihhltotalach": 448,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "DHOLAI",
+      "ihhltotalasperdetails": 442,
+      "ihhltotalach": 442,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "DUWADA",
+      "ihhltotalasperdetails": 355,
+      "ihhltotalach": 355,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "ENDHAL",
+      "ihhltotalasperdetails": 830,
+      "ihhltotalach": 830,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "GADAT",
+      "ihhltotalasperdetails": 483,
+      "ihhltotalach": 483,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "GANDEVA",
+      "ihhltotalasperdetails": 1588,
+      "ihhltotalach": 1588,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "GANGHOR",
+      "ihhltotalasperdetails": 174,
+      "ihhltotalach": 174,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "GOVANDI BHATHALA",
+      "ihhltotalasperdetails": 531,
+      "ihhltotalach": 531,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "ICHHAPOR",
+      "ihhltotalasperdetails": 321,
+      "ihhltotalach": 321,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "KACHHOLI",
+      "ihhltotalasperdetails": 865,
+      "ihhltotalach": 865,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "KALAMTHA",
+      "ihhltotalasperdetails": 446,
+      "ihhltotalach": 446,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "KALVACH",
+      "ihhltotalasperdetails": 232,
+      "ihhltotalach": 232,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "KESALI",
+      "ihhltotalasperdetails": 505,
+      "ihhltotalach": 505,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "KHAKHWADA",
+      "ihhltotalasperdetails": 254,
+      "ihhltotalach": 254,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "KHAPARIYA",
+      "ihhltotalasperdetails": 469,
+      "ihhltotalach": 469,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "KHAPARWADA",
+      "ihhltotalasperdetails": 739,
+      "ihhltotalach": 739,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "KHERGAM",
+      "ihhltotalasperdetails": 535,
+      "ihhltotalach": 535,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "KOLVA",
+      "ihhltotalasperdetails": 285,
+      "ihhltotalach": 285,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "KOTHA",
+      "ihhltotalasperdetails": 641,
+      "ihhltotalach": 641,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "MACHHIYAVASAN",
+      "ihhltotalasperdetails": 382,
+      "ihhltotalach": 382,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "MANEKPOR",
+      "ihhltotalasperdetails": 312,
+      "ihhltotalach": 312,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "MASA",
+      "ihhltotalasperdetails": 336,
+      "ihhltotalach": 336,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "MATWAD",
+      "ihhltotalasperdetails": 554,
+      "ihhltotalach": 554,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "MENDHAR",
+      "ihhltotalasperdetails": 450,
+      "ihhltotalach": 450,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "MOHANPUR",
+      "ihhltotalasperdetails": 264,
+      "ihhltotalach": 264,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "MORALI",
+      "ihhltotalasperdetails": 243,
+      "ihhltotalach": 243,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "MOVASA",
+      "ihhltotalasperdetails": 353,
+      "ihhltotalach": 353,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "NANDARKHA",
+      "ihhltotalasperdetails": 637,
+      "ihhltotalach": 637,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "PATHRI",
+      "ihhltotalasperdetails": 333,
+      "ihhltotalach": 333,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "PATI",
+      "ihhltotalasperdetails": 427,
+      "ihhltotalach": 427,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "PINJRA",
+      "ihhltotalasperdetails": 106,
+      "ihhltotalach": 106,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "PIPALDHARA",
+      "ihhltotalasperdetails": 438,
+      "ihhltotalach": 438,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "PONSRI",
+      "ihhltotalasperdetails": 664,
+      "ihhltotalach": 664,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "RAHEJ",
+      "ihhltotalasperdetails": 308,
+      "ihhltotalach": 308,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "SALEJ",
+      "ihhltotalasperdetails": 436,
+      "ihhltotalach": 436,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "SARIBUJRANG",
+      "ihhltotalasperdetails": 1212,
+      "ihhltotalach": 1212,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "SARIKHURD",
+      "ihhltotalasperdetails": 383,
+      "ihhltotalach": 383,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "SONWADI",
+      "ihhltotalasperdetails": 413,
+      "ihhltotalach": 413,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "TALIYARA",
+      "ihhltotalasperdetails": 175,
+      "ihhltotalach": 175,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "TALODH",
+      "ihhltotalasperdetails": 1121,
+      "ihhltotalach": 1121,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "TORANGAM",
+      "ihhltotalasperdetails": 612,
+      "ihhltotalach": 612,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "UNDACH LUHAR FALIYA",
+      "ihhltotalasperdetails": 593,
+      "ihhltotalach": 593,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "UNDACH VANIYA FALIYA",
+      "ihhltotalasperdetails": 557,
+      "ihhltotalach": 557,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "VADI",
+      "ihhltotalasperdetails": 114,
+      "ihhltotalach": 114,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "VADSANGAL",
+      "ihhltotalasperdetails": 437,
+      "ihhltotalach": 437,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "VAGHRECH",
+      "ihhltotalasperdetails": 621,
+      "ihhltotalach": 621,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "VALOTI",
+      "ihhltotalasperdetails": 643,
+      "ihhltotalach": 643,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "VANGAM",
+      "ihhltotalasperdetails": 282,
+      "ihhltotalach": 282,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "VASAN",
+      "ihhltotalasperdetails": 276,
+      "ihhltotalach": 276,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "GANDEVI",
+      "grampanchayatname": "VEGAM-VAGALVAD",
+      "ihhltotalasperdetails": 581,
+      "ihhltotalach": 581,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "ABRAMA",
+      "ihhltotalasperdetails": 794,
+      "ihhltotalach": 794,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "ALAK-RANODRA",
+      "ihhltotalasperdetails": 233,
+      "ihhltotalach": 233,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "ASANA",
+      "ihhltotalasperdetails": 224,
+      "ihhltotalach": 224,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "AT-KHAMBHLAV",
+      "ihhltotalasperdetails": 1066,
+      "ihhltotalach": 1066,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "BHINAR",
+      "ihhltotalasperdetails": 422,
+      "ihhltotalach": 422,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "BHUTSAD",
+      "ihhltotalasperdetails": 91,
+      "ihhltotalach": 91,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "BODALI",
+      "ihhltotalasperdetails": 508,
+      "ihhltotalach": 508,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "BORSI",
+      "ihhltotalasperdetails": 138,
+      "ihhltotalach": 138,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "CHHINAM",
+      "ihhltotalasperdetails": 613,
+      "ihhltotalach": 613,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "CHIJGAM",
+      "ihhltotalasperdetails": 540,
+      "ihhltotalach": 540,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "CHOKHAD",
+      "ihhltotalasperdetails": 256,
+      "ihhltotalach": 256,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "DABHEL",
+      "ihhltotalasperdetails": 602,
+      "ihhltotalach": 602,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "DAMBHER",
+      "ihhltotalasperdetails": 303,
+      "ihhltotalach": 303,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "DANDI",
+      "ihhltotalasperdetails": 278,
+      "ihhltotalach": 278,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "DANTI",
+      "ihhltotalasperdetails": 596,
+      "ihhltotalach": 596,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "DIPLA",
+      "ihhltotalasperdetails": 524,
+      "ihhltotalach": 524,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "DIVADANDI MACHHIWAD",
+      "ihhltotalasperdetails": 746,
+      "ihhltotalach": 746,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "EROO",
+      "ihhltotalasperdetails": 1326,
+      "ihhltotalach": 1326,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "ETHAN",
+      "ihhltotalasperdetails": 126,
+      "ihhltotalach": 126,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "HANSAPOR",
+      "ihhltotalasperdetails": 580,
+      "ihhltotalach": 580,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "KADOLI",
+      "ihhltotalasperdetails": 179,
+      "ihhltotalach": 179,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "KALAKACHHA",
+      "ihhltotalasperdetails": 246,
+      "ihhltotalach": 246,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "KALTHAN",
+      "ihhltotalasperdetails": 299,
+      "ihhltotalach": 299,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "KANERA",
+      "ihhltotalasperdetails": 203,
+      "ihhltotalach": 203,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "KARADI",
+      "ihhltotalasperdetails": 313,
+      "ihhltotalach": 313,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "KARANKHAT",
+      "ihhltotalasperdetails": 192,
+      "ihhltotalach": 192,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "KAROD KOTHVA",
+      "ihhltotalasperdetails": 269,
+      "ihhltotalach": 269,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "KHARSAD",
+      "ihhltotalasperdetails": 415,
+      "ihhltotalach": 415,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "KOLASANA",
+      "ihhltotalasperdetails": 193,
+      "ihhltotalach": 193,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "KOTHAMADI",
+      "ihhltotalasperdetails": 317,
+      "ihhltotalach": 317,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "KRUSHNAPUR",
+      "ihhltotalasperdetails": 1189,
+      "ihhltotalach": 1189,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "KUCHED",
+      "ihhltotalasperdetails": 300,
+      "ihhltotalach": 300,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "MACHHAD",
+      "ihhltotalasperdetails": 300,
+      "ihhltotalach": 300,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "MACHHIWAD",
+      "ihhltotalasperdetails": 246,
+      "ihhltotalach": 246,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "MAGOB-BHATHA",
+      "ihhltotalasperdetails": 364,
+      "ihhltotalach": 364,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "MAHUWAR",
+      "ihhltotalasperdetails": 1459,
+      "ihhltotalach": 1459,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "MANDIR",
+      "ihhltotalasperdetails": 696,
+      "ihhltotalach": 696,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "MANEKPOR-TANKOLI",
+      "ihhltotalasperdetails": 383,
+      "ihhltotalach": 383,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "MANGROL",
+      "ihhltotalasperdetails": 198,
+      "ihhltotalach": 198,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "MAROLI",
+      "ihhltotalasperdetails": 644,
+      "ihhltotalach": 644,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "MATWAD",
+      "ihhltotalasperdetails": 631,
+      "ihhltotalach": 631,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "MIRJAPOR",
+      "ihhltotalasperdetails": 329,
+      "ihhltotalach": 329,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "NADOD",
+      "ihhltotalasperdetails": 312,
+      "ihhltotalach": 312,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "NIMLAI",
+      "ihhltotalasperdetails": 187,
+      "ihhltotalach": 187,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "ONJAL",
+      "ihhltotalasperdetails": 749,
+      "ihhltotalach": 749,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "PANAR",
+      "ihhltotalasperdetails": 317,
+      "ihhltotalach": 317,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "PARSOLI",
+      "ihhltotalasperdetails": 235,
+      "ihhltotalach": 235,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "PARUJAN",
+      "ihhltotalasperdetails": 288,
+      "ihhltotalach": 288,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "PETHAN",
+      "ihhltotalasperdetails": 201,
+      "ihhltotalach": 201,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "PONSARA",
+      "ihhltotalasperdetails": 525,
+      "ihhltotalach": 525,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "SAGRA",
+      "ihhltotalasperdetails": 149,
+      "ihhltotalach": 149,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "SAMAPOR",
+      "ihhltotalasperdetails": 384,
+      "ihhltotalach": 384,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "SANDALPOR",
+      "ihhltotalasperdetails": 331,
+      "ihhltotalach": 331,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "SARAV",
+      "ihhltotalasperdetails": 225,
+      "ihhltotalach": 225,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "SIMALGAM-DALKI",
+      "ihhltotalasperdetails": 313,
+      "ihhltotalach": 313,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "SIMLAK",
+      "ihhltotalasperdetails": 222,
+      "ihhltotalach": 222,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "SISODRA-PARDI (ALAK)",
+      "ihhltotalasperdetails": 685,
+      "ihhltotalach": 685,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "SULTANPUR",
+      "ihhltotalasperdetails": 494,
+      "ihhltotalach": 494,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "TAVDI",
+      "ihhltotalasperdetails": 268,
+      "ihhltotalach": 268,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "UMBHRAT",
+      "ihhltotalasperdetails": 387,
+      "ihhltotalach": 387,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "VADOLI-DELVADA-ALURA",
+      "ihhltotalasperdetails": 365,
+      "ihhltotalach": 365,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "VANSI",
+      "ihhltotalasperdetails": 122,
+      "ihhltotalach": 122,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "VEDCHHA",
+      "ihhltotalasperdetails": 618,
+      "ihhltotalach": 618,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "VESMA-SADODRA",
+      "ihhltotalasperdetails": 1635,
+      "ihhltotalach": 1635,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "JALALPORE",
+      "grampanchayatname": "WADA",
+      "ihhltotalasperdetails": 335,
+      "ihhltotalach": 335,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "KHERGAM",
+      "grampanchayatname": "ACHHAVANI",
+      "ihhltotalasperdetails": 557,
+      "ihhltotalach": 557,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "KHERGAM",
+      "grampanchayatname": "BAHEJ",
+      "ihhltotalasperdetails": 1537,
+      "ihhltotalach": 1537,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "KHERGAM",
+      "grampanchayatname": "BHERVI",
+      "ihhltotalasperdetails": 575,
+      "ihhltotalach": 575,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "KHERGAM",
+      "grampanchayatname": "CHIMANPADA",
+      "ihhltotalasperdetails": 129,
+      "ihhltotalach": 129,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "KHERGAM",
+      "grampanchayatname": "DEBARPADA",
+      "ihhltotalasperdetails": 206,
+      "ihhltotalach": 206,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "KHERGAM",
+      "grampanchayatname": "DHAMA DHUMA",
+      "ihhltotalasperdetails": 278,
+      "ihhltotalach": 278,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "KHERGAM",
+      "grampanchayatname": "GAURI",
+      "ihhltotalasperdetails": 516,
+      "ihhltotalach": 516,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "KHERGAM",
+      "grampanchayatname": "JAMANPADA",
+      "ihhltotalasperdetails": 520,
+      "ihhltotalach": 520,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "KHERGAM",
+      "grampanchayatname": "KAKADVERI",
+      "ihhltotalasperdetails": 561,
+      "ihhltotalach": 561,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "KHERGAM",
+      "grampanchayatname": "KHERGAM",
+      "ihhltotalasperdetails": 4177,
+      "ihhltotalach": 4177,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "KHERGAM",
+      "grampanchayatname": "NADAGDHARI",
+      "ihhltotalasperdetails": 551,
+      "ihhltotalach": 551,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "KHERGAM",
+      "grampanchayatname": "NANDHAI",
+      "ihhltotalasperdetails": 629,
+      "ihhltotalach": 629,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "KHERGAM",
+      "grampanchayatname": "NARANPOR",
+      "ihhltotalasperdetails": 392,
+      "ihhltotalach": 392,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "KHERGAM",
+      "grampanchayatname": "PANANJ",
+      "ihhltotalasperdetails": 229,
+      "ihhltotalach": 229,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "KHERGAM",
+      "grampanchayatname": "PANIKHADAK",
+      "ihhltotalasperdetails": 306,
+      "ihhltotalach": 306,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "KHERGAM",
+      "grampanchayatname": "PATI",
+      "ihhltotalasperdetails": 471,
+      "ihhltotalach": 471,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "KHERGAM",
+      "grampanchayatname": "PELADI BHERVI",
+      "ihhltotalasperdetails": 254,
+      "ihhltotalach": 254,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "KHERGAM",
+      "grampanchayatname": "RUZVANI",
+      "ihhltotalasperdetails": 710,
+      "ihhltotalach": 710,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "KHERGAM",
+      "grampanchayatname": "TORANVERA",
+      "ihhltotalasperdetails": 376,
+      "ihhltotalach": 376,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "KHERGAM",
+      "grampanchayatname": "VAD",
+      "ihhltotalasperdetails": 561,
+      "ihhltotalach": 561,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "KHERGAM",
+      "grampanchayatname": "VADPADA",
+      "ihhltotalasperdetails": 375,
+      "ihhltotalach": 375,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "KHERGAM",
+      "grampanchayatname": "VAV",
+      "ihhltotalasperdetails": 582,
+      "ihhltotalach": 582,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "ADADA",
+      "ihhltotalasperdetails": 459,
+      "ihhltotalach": 459,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "AMADPOR",
+      "ihhltotalasperdetails": 554,
+      "ihhltotalach": 554,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "AMBADA",
+      "ihhltotalasperdetails": 614,
+      "ihhltotalach": 614,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "AMRI",
+      "ihhltotalasperdetails": 464,
+      "ihhltotalach": 464,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "ARSAN",
+      "ihhltotalasperdetails": 1,
+      "ihhltotalach": 1,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "ASHTAGAM",
+      "ihhltotalasperdetails": 413,
+      "ihhltotalach": 413,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "ASUNDAR",
+      "ihhltotalasperdetails": 212,
+      "ihhltotalach": 212,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "BHATTAI",
+      "ihhltotalasperdetails": 284,
+      "ihhltotalach": 284,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "BHULA FALIYA",
+      "ihhltotalasperdetails": 438,
+      "ihhltotalach": 438,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "BORIACH-RAJWADA-KAMBADA",
+      "ihhltotalasperdetails": 457,
+      "ihhltotalach": 457,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "CHANDRAVASAN SUPA",
+      "ihhltotalasperdetails": 355,
+      "ihhltotalach": 355,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "CHHAPRA (PART)",
+      "ihhltotalasperdetails": 1913,
+      "ihhltotalach": 1913,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "CHOVISI",
+      "ihhltotalasperdetails": 900,
+      "ihhltotalach": 900,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "DABHALAI-BUTLAV",
+      "ihhltotalasperdetails": 183,
+      "ihhltotalach": 183,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "DANDESAR",
+      "ihhltotalasperdetails": 346,
+      "ihhltotalach": 346,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "DANTEJ",
+      "ihhltotalasperdetails": 175,
+      "ihhltotalach": 175,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "DHAMAN",
+      "ihhltotalasperdetails": 385,
+      "ihhltotalach": 385,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "DHARAGIRI",
+      "ihhltotalasperdetails": 526,
+      "ihhltotalach": 526,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "ITALVA",
+      "ihhltotalasperdetails": 487,
+      "ihhltotalach": 487,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "JAMALPORE",
+      "ihhltotalasperdetails": 835,
+      "ihhltotalach": 835,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "KABILPORE",
+      "ihhltotalasperdetails": 2728,
+      "ihhltotalach": 2728,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "KACHHOL",
+      "ihhltotalasperdetails": 260,
+      "ihhltotalach": 260,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "KALIYAVADI",
+      "ihhltotalasperdetails": 868,
+      "ihhltotalach": 868,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "KANBAD",
+      "ihhltotalasperdetails": 120,
+      "ihhltotalach": 120,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "KASBAPAR-KADIPOR",
+      "ihhltotalasperdetails": 587,
+      "ihhltotalach": 587,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "KHADSUPA",
+      "ihhltotalasperdetails": 698,
+      "ihhltotalach": 698,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "KHERGAM",
+      "ihhltotalasperdetails": 296,
+      "ihhltotalach": 296,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "KUMBHAR FALIYA",
+      "ihhltotalasperdetails": 549,
+      "ihhltotalach": 549,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "KUREL",
+      "ihhltotalasperdetails": 267,
+      "ihhltotalach": 267,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "MAHUDI-PUNI-BHUNVADI",
+      "ihhltotalasperdetails": 644,
+      "ihhltotalach": 644,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "MOGAR",
+      "ihhltotalasperdetails": 409,
+      "ihhltotalach": 409,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "MOLDHARA",
+      "ihhltotalasperdetails": 411,
+      "ihhltotalach": 411,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "MUNSAD",
+      "ihhltotalasperdetails": 657,
+      "ihhltotalach": 657,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "NAGDHARA",
+      "ihhltotalasperdetails": 698,
+      "ihhltotalach": 698,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "NASILPOR-VIRVADI",
+      "ihhltotalasperdetails": 289,
+      "ihhltotalach": 289,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "NAVATALAV",
+      "ihhltotalasperdetails": 295,
+      "ihhltotalach": 295,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "ONCHI",
+      "ihhltotalasperdetails": 256,
+      "ihhltotalach": 256,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "PADGHA",
+      "ihhltotalasperdetails": 369,
+      "ihhltotalach": 369,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "PARDI",
+      "ihhltotalasperdetails": 486,
+      "ihhltotalach": 486,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "PARTAPOR",
+      "ihhltotalasperdetails": 151,
+      "ihhltotalach": 151,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "PARTHAN",
+      "ihhltotalasperdetails": 209,
+      "ihhltotalach": 209,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "PERA",
+      "ihhltotalasperdetails": 369,
+      "ihhltotalach": 369,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "PINSAD-SARONA",
+      "ihhltotalasperdetails": 201,
+      "ihhltotalach": 201,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "SADLAV",
+      "ihhltotalasperdetails": 377,
+      "ihhltotalach": 377,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "SARAI",
+      "ihhltotalasperdetails": 232,
+      "ihhltotalach": 232,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "SARPOR",
+      "ihhltotalasperdetails": 222,
+      "ihhltotalach": 222,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "SATEM",
+      "ihhltotalasperdetails": 791,
+      "ihhltotalach": 791,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "SHAHU",
+      "ihhltotalasperdetails": 342,
+      "ihhltotalach": 342,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "SINGOD",
+      "ihhltotalasperdetails": 177,
+      "ihhltotalach": 177,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "SISODRA (GANESH)",
+      "ihhltotalasperdetails": 1066,
+      "ihhltotalach": 1066,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "SUPA",
+      "ihhltotalasperdetails": 466,
+      "ihhltotalach": 466,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "TARSADI",
+      "ihhltotalasperdetails": 318,
+      "ihhltotalach": 318,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "TELADA",
+      "ihhltotalasperdetails": 256,
+      "ihhltotalach": 256,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "TIGHRA",
+      "ihhltotalasperdetails": 473,
+      "ihhltotalach": 473,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "TOLI",
+      "ihhltotalasperdetails": 275,
+      "ihhltotalach": 275,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "UGAT-NAVAPARA",
+      "ihhltotalasperdetails": 548,
+      "ihhltotalach": 548,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "UN",
+      "ihhltotalasperdetails": 313,
+      "ihhltotalach": 313,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "VACHHARVAD",
+      "ihhltotalasperdetails": 227,
+      "ihhltotalach": 227,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "VASAR",
+      "ihhltotalasperdetails": 162,
+      "ihhltotalach": 162,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "VEJALPOR",
+      "ihhltotalasperdetails": 229,
+      "ihhltotalach": 229,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "VIRAVAL",
+      "ihhltotalasperdetails": 992,
+      "ihhltotalach": 992,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "NAVSARI",
+      "grampanchayatname": "WADA (SISODRA)",
+      "ihhltotalasperdetails": 279,
+      "ihhltotalach": 279,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "AMBABARI-SADADDEVI",
+      "ihhltotalasperdetails": 318,
+      "ihhltotalach": 318,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "AMBAPANI",
+      "ihhltotalasperdetails": 443,
+      "ihhltotalach": 443,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "ANKLACHH-KAMALZARI",
+      "ihhltotalasperdetails": 904,
+      "ihhltotalach": 904,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "BARTAD (KHANPUR)",
+      "ihhltotalasperdetails": 1262,
+      "ihhltotalach": 1262,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "BARTAD (UNAI)",
+      "ihhltotalasperdetails": 528,
+      "ihhltotalach": 528,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "BEDMAL",
+      "ihhltotalasperdetails": 357,
+      "ihhltotalach": 357,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "BHINAR",
+      "ihhltotalasperdetails": 1099,
+      "ihhltotalach": 1099,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "BORIACHH",
+      "ihhltotalasperdetails": 561,
+      "ihhltotalach": 561,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "CHADHAV",
+      "ihhltotalasperdetails": 332,
+      "ihhltotalach": 332,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "CHAPALDHARA",
+      "ihhltotalasperdetails": 1194,
+      "ihhltotalach": 1194,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "CHARANWADA",
+      "ihhltotalasperdetails": 207,
+      "ihhltotalach": 207,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "CHIKATIYA",
+      "ihhltotalasperdetails": 294,
+      "ihhltotalach": 294,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "CHONDHA",
+      "ihhltotalasperdetails": 697,
+      "ihhltotalach": 697,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "CHORVANI",
+      "ihhltotalasperdetails": 431,
+      "ihhltotalach": 431,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "DHAKMAL",
+      "ihhltotalasperdetails": 308,
+      "ihhltotalach": 308,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "DHARAMPURI",
+      "ihhltotalasperdetails": 422,
+      "ihhltotalach": 422,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "DHOLUMBER",
+      "ihhltotalasperdetails": 679,
+      "ihhltotalach": 679,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "DOLDHA",
+      "ihhltotalasperdetails": 339,
+      "ihhltotalach": 339,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "DUBAL FALIYA",
+      "ihhltotalasperdetails": 427,
+      "ihhltotalach": 427,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "GANGPUR",
+      "ihhltotalasperdetails": 518,
+      "ihhltotalach": 518,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "GHODMAL",
+      "ihhltotalasperdetails": 760,
+      "ihhltotalach": 760,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "GODHABARI",
+      "ihhltotalasperdetails": 320,
+      "ihhltotalach": 320,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "HANUMANBARI",
+      "ihhltotalasperdetails": 422,
+      "ihhltotalach": 422,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "HOLIPADA",
+      "ihhltotalasperdetails": 307,
+      "ihhltotalach": 307,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "JAMALIYA",
+      "ihhltotalasperdetails": 486,
+      "ihhltotalach": 486,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "KALA AMBA-VATI",
+      "ihhltotalasperdetails": 226,
+      "ihhltotalach": 226,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "KAMBOYA",
+      "ihhltotalasperdetails": 340,
+      "ihhltotalach": 340,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "KANADHA",
+      "ihhltotalasperdetails": 521,
+      "ihhltotalach": 521,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "KANDOLPADA",
+      "ihhltotalasperdetails": 415,
+      "ihhltotalach": 415,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "KANSARIYA",
+      "ihhltotalasperdetails": 312,
+      "ihhltotalach": 312,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "KANTASVEL",
+      "ihhltotalasperdetails": 397,
+      "ihhltotalach": 397,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "KAVDEJ",
+      "ihhltotalasperdetails": 344,
+      "ihhltotalach": 344,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "KELIA",
+      "ihhltotalasperdetails": 304,
+      "ihhltotalach": 304,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "KELKUTCH",
+      "ihhltotalasperdetails": 274,
+      "ihhltotalach": 274,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "KEVDI",
+      "ihhltotalasperdetails": 249,
+      "ihhltotalach": 249,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "KHADAKIYA",
+      "ihhltotalasperdetails": 204,
+      "ihhltotalach": 204,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "KHAMBHALA GROUP PANCHAYAT",
+      "ihhltotalasperdetails": 1275,
+      "ihhltotalach": 1275,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "KHAMBHALIYA",
+      "ihhltotalasperdetails": 745,
+      "ihhltotalach": 745,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "KHANPUR",
+      "ihhltotalasperdetails": 527,
+      "ihhltotalach": 527,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "KHARJAI",
+      "ihhltotalasperdetails": 676,
+      "ihhltotalach": 676,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "KHATA AMBA",
+      "ihhltotalasperdetails": 1126,
+      "ihhltotalach": 1126,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "KUKDA",
+      "ihhltotalasperdetails": 324,
+      "ihhltotalach": 324,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "KURELIYA",
+      "ihhltotalasperdetails": 1240,
+      "ihhltotalach": 1240,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "LACHHAKADI",
+      "ihhltotalasperdetails": 395,
+      "ihhltotalach": 395,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "LAKADBARI",
+      "ihhltotalasperdetails": 622,
+      "ihhltotalach": 622,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "LAKHAWADI",
+      "ihhltotalasperdetails": 338,
+      "ihhltotalach": 338,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "LIMBARPADA",
+      "ihhltotalasperdetails": 414,
+      "ihhltotalach": 414,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "LIMZAR",
+      "ihhltotalasperdetails": 1815,
+      "ihhltotalach": 1815,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "MAHUVAS",
+      "ihhltotalasperdetails": 473,
+      "ihhltotalach": 473,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "MANKUNIA-RAYBOR",
+      "ihhltotalasperdetails": 1038,
+      "ihhltotalach": 1038,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "MANPUR",
+      "ihhltotalasperdetails": 369,
+      "ihhltotalach": 369,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "MINDHABARI",
+      "ihhltotalasperdetails": 363,
+      "ihhltotalach": 363,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "MOLA AMBA",
+      "ihhltotalasperdetails": 699,
+      "ihhltotalach": 699,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "MOTI BHAMTI",
+      "ihhltotalasperdetails": 85,
+      "ihhltotalach": 85,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "MOTI VALZAR",
+      "ihhltotalasperdetails": 78,
+      "ihhltotalach": 78,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "NANI BHAMTI",
+      "ihhltotalasperdetails": 236,
+      "ihhltotalach": 236,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "NANI VALZAR",
+      "ihhltotalasperdetails": 349,
+      "ihhltotalach": 349,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "NAVANAGAR",
+      "ihhltotalasperdetails": 370,
+      "ihhltotalach": 370,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "NAVTAD",
+      "ihhltotalasperdetails": 45,
+      "ihhltotalach": 45,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "NIRPAN",
+      "ihhltotalasperdetails": 101,
+      "ihhltotalach": 101,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "PALGABHAN",
+      "ihhltotalasperdetails": 427,
+      "ihhltotalach": 427,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "PIPALKHED",
+      "ihhltotalasperdetails": 132,
+      "ihhltotalach": 132,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "PRATAPNAGAR-RAJPUR",
+      "ihhltotalasperdetails": 227,
+      "ihhltotalach": 227,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "RANGPUR",
+      "ihhltotalasperdetails": 332,
+      "ihhltotalach": 332,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "RANIFALIYA",
+      "ihhltotalasperdetails": 140,
+      "ihhltotalach": 140,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "RAVANIYA",
+      "ihhltotalasperdetails": 222,
+      "ihhltotalach": 222,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "RUPVEL",
+      "ihhltotalasperdetails": 479,
+      "ihhltotalach": 479,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "SARA",
+      "ihhltotalasperdetails": 368,
+      "ihhltotalach": 368,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "SATIMAL",
+      "ihhltotalasperdetails": 728,
+      "ihhltotalach": 728,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "SINDHAI",
+      "ihhltotalasperdetails": 533,
+      "ihhltotalach": 533,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "SINGADH",
+      "ihhltotalasperdetails": 211,
+      "ihhltotalach": 211,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "SITAPUR",
+      "ihhltotalasperdetails": 287,
+      "ihhltotalach": 287,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "SUKHABARI",
+      "ihhltotalasperdetails": 417,
+      "ihhltotalach": 417,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "UMARKUI",
+      "ihhltotalasperdetails": 620,
+      "ihhltotalach": 620,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "UNAI",
+      "ihhltotalasperdetails": 1154,
+      "ihhltotalach": 1154,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "UPSAL",
+      "ihhltotalasperdetails": 619,
+      "ihhltotalach": 619,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "VADICHONDHA",
+      "ihhltotalasperdetails": 164,
+      "ihhltotalach": 164,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "VAGHABARI",
+      "ihhltotalasperdetails": 418,
+      "ihhltotalach": 418,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "VANARASI",
+      "ihhltotalasperdetails": 512,
+      "ihhltotalach": 512,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "VANDARVELA",
+      "ihhltotalasperdetails": 1603,
+      "ihhltotalach": 1603,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "VANGAN",
+      "ihhltotalasperdetails": 751,
+      "ihhltotalach": 751,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "VANSDA",
+      "ihhltotalasperdetails": 2876,
+      "ihhltotalach": 2876,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "VANSKUI",
+      "ihhltotalasperdetails": 327,
+      "ihhltotalach": 327,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "VASIYA TALAV",
+      "ihhltotalasperdetails": 534,
+      "ihhltotalach": 534,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "ZARI",
+      "ihhltotalasperdetails": 1105,
+      "ihhltotalach": 1105,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "NAVSARI",
+      "blockname": "VANSDA",
+      "grampanchayatname": "ZUJ",
+      "ihhltotalasperdetails": 219,
+      "ihhltotalach": 219,
+      "date": "5/19/2020 12:00:00 AM"
+    }
+  ]
+}

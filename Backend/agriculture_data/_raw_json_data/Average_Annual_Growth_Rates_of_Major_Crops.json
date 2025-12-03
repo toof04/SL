@@ -1,0 +1,189 @@
+{
+  "index_name": "204f3de1-9b3f-4516-9aab-c756f5610428",
+  "title": "Average Annual Growth Rates of Major Crops",
+  "desc": "Average Annual Growth Rates of Major Crops",
+  "org_type": "Central",
+  "org": [
+    "NITI Aayog"
+  ],
+  "sector": [
+    "Agriculture",
+    "Crops"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "da3fe8e2-309f-4068-81f4-0b53e7a1700f",
+  "visualizable": "0",
+  "active": "1",
+  "created": 1759230819,
+  "updated": 1759230819,
+  "created_date": "2025-09-30T13:13:39Z",
+  "updated_date": "2025-09-30T13:13:39Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "da3fe8e2-309f-4068-81f4-0b53e7a1700f",
+    "field": "204f3de1-9b3f-4516-9aab-c756f5610428"
+  },
+  "field": [
+    {
+      "id": "crop",
+      "name": "Crop",
+      "type": "keyword"
+    },
+    {
+      "id": "_pre__green_revolution__1951_52_to_1967_68",
+      "name": "(Pre- Green Revolution) 1951-52 to 1967-68",
+      "type": "double"
+    },
+    {
+      "id": "_green_revolution__1968_69_to_1980_81",
+      "name": "(Green Revolution) 1968-69 to 1980-81",
+      "type": "double"
+    },
+    {
+      "id": "_wider_coverage__1981_82_to_1990_91",
+      "name": "(Wider Coverage) 1981-82 to 1990-91",
+      "type": "double"
+    },
+    {
+      "id": "_early_liberalisation__1991_92_to_1996_97",
+      "name": "(Early Liberalisation) 1991-92 to 1996-97",
+      "type": "double"
+    },
+    {
+      "id": "_ninth_plan__1997_98_to_2001_02",
+      "name": "(Ninth Plan) 1997-98 to 2001-02",
+      "type": "double"
+    },
+    {
+      "id": "_tenth_plan__2002_03_to_2006_07",
+      "name": "(Tenth Plan) 2002-03 to 2006-07",
+      "type": "double"
+    },
+    {
+      "id": "_eleventh_plan__2007_08_to_2011_12",
+      "name": "(Eleventh Plan) 2007-08 to 2011-12",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 11,
+  "count": 11,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "crop": "Wheat",
+      "_pre__green_revolution__1951_52_to_1967_68": 3.7,
+      "_green_revolution__1968_69_to_1980_81": 3.3,
+      "_wider_coverage__1981_82_to_1990_91": 3.6,
+      "_early_liberalisation__1991_92_to_1996_97": 2.8,
+      "_ninth_plan__1997_98_to_2001_02": 0.7,
+      "_tenth_plan__2002_03_to_2006_07": -0.3,
+      "_eleventh_plan__2007_08_to_2011_12": 3
+    },
+    {
+      "crop": "Rice",
+      "_pre__green_revolution__1951_52_to_1967_68": 3.2,
+      "_green_revolution__1968_69_to_1980_81": 2.7,
+      "_wider_coverage__1981_82_to_1990_91": 3,
+      "_early_liberalisation__1991_92_to_1996_97": 1.4,
+      "_ninth_plan__1997_98_to_2001_02": 2.1,
+      "_tenth_plan__2002_03_to_2006_07": 1.2,
+      "_eleventh_plan__2007_08_to_2011_12": 2.2
+    },
+    {
+      "crop": "Jowar",
+      "_pre__green_revolution__1951_52_to_1967_68": 3.4,
+      "_green_revolution__1968_69_to_1980_81": 2.9,
+      "_wider_coverage__1981_82_to_1990_91": 3.2,
+      "_early_liberalisation__1991_92_to_1996_97": 1.3,
+      "_ninth_plan__1997_98_to_2001_02": 0.2,
+      "_tenth_plan__2002_03_to_2006_07": 2.1,
+      "_eleventh_plan__2007_08_to_2011_12": 3.1
+    },
+    {
+      "crop": "Bajra",
+      "_pre__green_revolution__1951_52_to_1967_68": 2.6,
+      "_green_revolution__1968_69_to_1980_81": 6.3,
+      "_wider_coverage__1981_82_to_1990_91": 8.8,
+      "_early_liberalisation__1991_92_to_1996_97": 6.2,
+      "_ninth_plan__1997_98_to_2001_02": 4.9,
+      "_tenth_plan__2002_03_to_2006_07": 7.3,
+      "_eleventh_plan__2007_08_to_2011_12": 8.4
+    },
+    {
+      "crop": "Maize",
+      "_pre__green_revolution__1951_52_to_1967_68": 4.8,
+      "_green_revolution__1968_69_to_1980_81": 1.7,
+      "_wider_coverage__1981_82_to_1990_91": 4.1,
+      "_early_liberalisation__1991_92_to_1996_97": 2.6,
+      "_ninth_plan__1997_98_to_2001_02": 3.1,
+      "_tenth_plan__2002_03_to_2006_07": -0.2,
+      "_eleventh_plan__2007_08_to_2011_12": 6.5
+    },
+    {
+      "crop": "Coarse cereals",
+      "_pre__green_revolution__1951_52_to_1967_68": 2.6,
+      "_green_revolution__1968_69_to_1980_81": 1.5,
+      "_wider_coverage__1981_82_to_1990_91": 3.1,
+      "_early_liberalisation__1991_92_to_1996_97": 4.3,
+      "_ninth_plan__1997_98_to_2001_02": 1.3,
+      "_tenth_plan__2002_03_to_2006_07": 1.7,
+      "_eleventh_plan__2007_08_to_2011_12": 7.3
+    },
+    {
+      "crop": "Pulses",
+      "_pre__green_revolution__1951_52_to_1967_68": 2.3,
+      "_green_revolution__1968_69_to_1980_81": -0.2,
+      "_wider_coverage__1981_82_to_1990_91": 2.3,
+      "_early_liberalisation__1991_92_to_1996_97": 1.9,
+      "_ninth_plan__1997_98_to_2001_02": -0.3,
+      "_tenth_plan__2002_03_to_2006_07": 0.6,
+      "_eleventh_plan__2007_08_to_2011_12": 2.7
+    },
+    {
+      "crop": "Oilseeds",
+      "_pre__green_revolution__1951_52_to_1967_68": 1.3,
+      "_green_revolution__1968_69_to_1980_81": 0.8,
+      "_wider_coverage__1981_82_to_1990_91": 4.8,
+      "_early_liberalisation__1991_92_to_1996_97": 3.3,
+      "_ninth_plan__1997_98_to_2001_02": 0.4,
+      "_tenth_plan__2002_03_to_2006_07": 3.5,
+      "_eleventh_plan__2007_08_to_2011_12": 5.4
+    },
+    {
+      "crop": "Cotton",
+      "_pre__green_revolution__1951_52_to_1967_68": 3,
+      "_green_revolution__1968_69_to_1980_81": 2.6,
+      "_wider_coverage__1981_82_to_1990_91": 5.3,
+      "_early_liberalisation__1991_92_to_1996_97": 3.1,
+      "_ninth_plan__1997_98_to_2001_02": -6.2,
+      "_tenth_plan__2002_03_to_2006_07": 19.4,
+      "_eleventh_plan__2007_08_to_2011_12": 3.9
+    },
+    {
+      "crop": "Sugarcane",
+      "_pre__green_revolution__1951_52_to_1967_68": 1.6,
+      "_green_revolution__1968_69_to_1980_81": 3.1,
+      "_wider_coverage__1981_82_to_1990_91": 1.3,
+      "_early_liberalisation__1991_92_to_1996_97": 0.4,
+      "_ninth_plan__1997_98_to_2001_02": 0.3,
+      "_tenth_plan__2002_03_to_2006_07": 0.7,
+      "_eleventh_plan__2007_08_to_2011_12": 0.5
+    },
+    {
+      "crop": "Above figures are average annual growth rates calculated on yields per hectare",
+      "_pre__green_revolution__1951_52_to_1967_68": "NA",
+      "_green_revolution__1968_69_to_1980_81": "NA",
+      "_wider_coverage__1981_82_to_1990_91": "NA",
+      "_early_liberalisation__1991_92_to_1996_97": "NA",
+      "_ninth_plan__1997_98_to_2001_02": "NA",
+      "_tenth_plan__2002_03_to_2006_07": "NA",
+      "_eleventh_plan__2007_08_to_2011_12": "NA"
+    }
+  ]
+}

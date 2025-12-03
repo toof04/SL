@@ -1,0 +1,2972 @@
+{
+  "index_name": "b4f1f69f-2045-437e-9fc7-077c7bf85da2",
+  "title": "Gram Panchayat-wise Rural Sanitation Coverage in Patna District of Bihar as on date",
+  "desc": "Gram Panchayat-wise Rural Sanitation Coverage in Patna District of Bihar as on date",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Jal Shakti",
+    "Department of Drinking Water and Sanitation"
+  ],
+  "sector": [
+    "Water and Sanitation"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1688360282,
+  "updated": 1688364914,
+  "created_date": "2023-07-03T06:58:02Z",
+  "updated_date": "2023-07-03T11:45:14Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "sbm",
+    "type": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+    "field": "b4f1f69f-2045-437e-9fc7-077c7bf85da2"
+  },
+  "field": [
+    {
+      "id": "statename",
+      "name": "StateName",
+      "type": "keyword"
+    },
+    {
+      "id": "districtname",
+      "name": "DistrictName",
+      "type": "keyword"
+    },
+    {
+      "id": "blockname",
+      "name": "BlockName",
+      "type": "keyword"
+    },
+    {
+      "id": "grampanchayatname",
+      "name": "GramPanchayatName",
+      "type": "keyword"
+    },
+    {
+      "id": "ihhltotalasperdetails",
+      "name": "IHHLTotalAsPerDetails",
+      "type": "double"
+    },
+    {
+      "id": "ihhltotalach",
+      "name": "IHHLTotalAch",
+      "type": "double"
+    },
+    {
+      "id": "date",
+      "name": "Date",
+      "type": "keyword"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 322,
+  "count": 322,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "ATHAMALGOLA",
+      "grampanchayatname": "BAHADURPUR",
+      "ihhltotalasperdetails": 2558,
+      "ihhltotalach": 2558,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "ATHAMALGOLA",
+      "grampanchayatname": "KALYANPUR",
+      "ihhltotalasperdetails": 1867,
+      "ihhltotalach": 1867,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "ATHAMALGOLA",
+      "grampanchayatname": "KARJAN",
+      "ihhltotalasperdetails": 3088,
+      "ihhltotalach": 3088,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "ATHAMALGOLA",
+      "grampanchayatname": "PHULELPUR MEAURA",
+      "ihhltotalasperdetails": 1208,
+      "ihhltotalach": 1208,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "ATHAMALGOLA",
+      "grampanchayatname": "RAMNAGAR DIYARA",
+      "ihhltotalasperdetails": 1129,
+      "ihhltotalach": 1129,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "ATHAMALGOLA",
+      "grampanchayatname": "RAMNAGAR KORARI KOCHHAR",
+      "ihhltotalasperdetails": 2462,
+      "ihhltotalach": 2462,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "ATHAMALGOLA",
+      "grampanchayatname": "SABNIMA",
+      "ihhltotalasperdetails": 1941,
+      "ihhltotalach": 1941,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "ATHAMALGOLA",
+      "grampanchayatname": "USMANPUR",
+      "ihhltotalasperdetails": 2196,
+      "ihhltotalach": 2196,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BAKHTIARPUR",
+      "grampanchayatname": "ALIPUR BIHTA",
+      "ihhltotalasperdetails": 2020,
+      "ihhltotalach": 2020,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BAKHTIARPUR",
+      "grampanchayatname": "BIDHIPUR NARAULI",
+      "ihhltotalasperdetails": 1602,
+      "ihhltotalach": 1602,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BAKHTIARPUR",
+      "grampanchayatname": "CHAMPA PUR",
+      "ihhltotalasperdetails": 2841,
+      "ihhltotalach": 2841,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BAKHTIARPUR",
+      "grampanchayatname": "CHIRAIYA RUPAS",
+      "ihhltotalasperdetails": 393,
+      "ihhltotalach": 393,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BAKHTIARPUR",
+      "grampanchayatname": "DOMA",
+      "ihhltotalasperdetails": 2645,
+      "ihhltotalach": 2645,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BAKHTIARPUR",
+      "grampanchayatname": "GHANGAH",
+      "ihhltotalasperdetails": 838,
+      "ihhltotalach": 838,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BAKHTIARPUR",
+      "grampanchayatname": "GHOSWARI",
+      "ihhltotalasperdetails": 1696,
+      "ihhltotalach": 1696,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BAKHTIARPUR",
+      "grampanchayatname": "HARDASPUR DIARA",
+      "ihhltotalasperdetails": 260,
+      "ihhltotalach": 260,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BAKHTIARPUR",
+      "grampanchayatname": "HIDAYATPUR SAIDPUR",
+      "ihhltotalasperdetails": 1704,
+      "ihhltotalach": 1704,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BAKHTIARPUR",
+      "grampanchayatname": "KALA DIARA",
+      "ihhltotalasperdetails": 2862,
+      "ihhltotalach": 2862,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BAKHTIARPUR",
+      "grampanchayatname": "KARNAUTI",
+      "ihhltotalasperdetails": 2407,
+      "ihhltotalach": 2407,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BAKHTIARPUR",
+      "grampanchayatname": "MANJHAULI",
+      "ihhltotalasperdetails": 1439,
+      "ihhltotalach": 1439,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BAKHTIARPUR",
+      "grampanchayatname": "MISSI",
+      "ihhltotalasperdetails": 1268,
+      "ihhltotalach": 1268,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BAKHTIARPUR",
+      "grampanchayatname": "MOGAL PURA",
+      "ihhltotalasperdetails": 1646,
+      "ihhltotalach": 1646,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BAKHTIARPUR",
+      "grampanchayatname": "RUPAS MAHAJI",
+      "ihhltotalasperdetails": 1512,
+      "ihhltotalach": 1512,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BAKHTIARPUR",
+      "grampanchayatname": "SATBHAIYA RAM NAGAR",
+      "ihhltotalasperdetails": 1413,
+      "ihhltotalach": 1413,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BARH",
+      "grampanchayatname": "AGWANPUR",
+      "ihhltotalasperdetails": 1900,
+      "ihhltotalach": 1900,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BARH",
+      "grampanchayatname": "BERHANA EAST",
+      "ihhltotalasperdetails": 1828,
+      "ihhltotalach": 1828,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BARH",
+      "grampanchayatname": "BERHANA WEST",
+      "ihhltotalasperdetails": 1801,
+      "ihhltotalach": 1801,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BARH",
+      "grampanchayatname": "BHATGAWN",
+      "ihhltotalasperdetails": 2662,
+      "ihhltotalach": 2662,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BARH",
+      "grampanchayatname": "DHANWAN MOBARAKPUR",
+      "ihhltotalasperdetails": 2129,
+      "ihhltotalach": 2129,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BARH",
+      "grampanchayatname": "EKDANGA",
+      "ihhltotalasperdetails": 2070,
+      "ihhltotalach": 2070,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BARH",
+      "grampanchayatname": "IBRAHIMPUR",
+      "ihhltotalasperdetails": 3566,
+      "ihhltotalach": 3566,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BARH",
+      "grampanchayatname": "NADAWAN",
+      "ihhltotalasperdetails": 762,
+      "ihhltotalach": 762,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BARH",
+      "grampanchayatname": "NARUADA",
+      "ihhltotalasperdetails": 2616,
+      "ihhltotalach": 2616,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BARH",
+      "grampanchayatname": "RAHIMPUR RUPAS",
+      "ihhltotalasperdetails": 2366,
+      "ihhltotalach": 2366,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BARH",
+      "grampanchayatname": "RANGBIGHA",
+      "ihhltotalasperdetails": 1123,
+      "ihhltotalach": 1123,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BARH",
+      "grampanchayatname": "SARKATTI   SAIDPUR",
+      "ihhltotalasperdetails": 1384,
+      "ihhltotalach": 1384,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BARH",
+      "grampanchayatname": "SHOHARI",
+      "ihhltotalasperdetails": 2694,
+      "ihhltotalach": 2694,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BELCHCHI",
+      "grampanchayatname": "AUNDOULI DARWESHPURA",
+      "ihhltotalasperdetails": 1851,
+      "ihhltotalach": 1851,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BELCHCHI",
+      "grampanchayatname": "BARAH",
+      "ihhltotalasperdetails": 1591,
+      "ihhltotalach": 1591,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BELCHCHI",
+      "grampanchayatname": "BELCHHI",
+      "ihhltotalasperdetails": 1675,
+      "ihhltotalach": 1675,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BELCHCHI",
+      "grampanchayatname": "FATEHPUR",
+      "ihhltotalasperdetails": 2170,
+      "ihhltotalach": 2170,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BELCHCHI",
+      "grampanchayatname": "KORARI",
+      "ihhltotalasperdetails": 1906,
+      "ihhltotalach": 1906,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BELCHCHI",
+      "grampanchayatname": "SAKSOHARA WEST",
+      "ihhltotalasperdetails": 1764,
+      "ihhltotalach": 1764,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BELCHCHI",
+      "grampanchayatname": "SAKSOHRA EAST",
+      "ihhltotalasperdetails": 1633,
+      "ihhltotalach": 1633,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BIHTA",
+      "grampanchayatname": "AMHARA",
+      "ihhltotalasperdetails": 1863,
+      "ihhltotalach": 1863,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BIHTA",
+      "grampanchayatname": "ANANDPUR",
+      "ihhltotalasperdetails": 1779,
+      "ihhltotalach": 1779,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BIHTA",
+      "grampanchayatname": "BELA",
+      "ihhltotalasperdetails": 1721,
+      "ihhltotalach": 1721,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BIHTA",
+      "grampanchayatname": "BIHTA",
+      "ihhltotalasperdetails": 2120,
+      "ihhltotalach": 2120,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BIHTA",
+      "grampanchayatname": "BINDAUL",
+      "ihhltotalasperdetails": 1857,
+      "ihhltotalach": 1857,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BIHTA",
+      "grampanchayatname": "BISHUNPURA",
+      "ihhltotalasperdetails": 1122,
+      "ihhltotalach": 1122,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BIHTA",
+      "grampanchayatname": "DAYALPUR DAULATPUR",
+      "ihhltotalasperdetails": 1644,
+      "ihhltotalach": 1644,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BIHTA",
+      "grampanchayatname": "DOULATPUR SIMRI",
+      "ihhltotalasperdetails": 1622,
+      "ihhltotalach": 1622,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BIHTA",
+      "grampanchayatname": "KANCHANPUR KHARAGPUR",
+      "ihhltotalasperdetails": 1508,
+      "ihhltotalach": 1508,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BIHTA",
+      "grampanchayatname": "KATESHAR",
+      "ihhltotalasperdetails": 1947,
+      "ihhltotalach": 1947,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BIHTA",
+      "grampanchayatname": "KOURIYA",
+      "ihhltotalasperdetails": 2094,
+      "ihhltotalach": 2094,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BIHTA",
+      "grampanchayatname": "KUNWA",
+      "ihhltotalasperdetails": 1828,
+      "ihhltotalach": 1828,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BIHTA",
+      "grampanchayatname": "MACHHALPUR LAI",
+      "ihhltotalasperdetails": 1389,
+      "ihhltotalach": 1389,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BIHTA",
+      "grampanchayatname": "MAKHDUMPUR",
+      "ihhltotalasperdetails": 1093,
+      "ihhltotalach": 1093,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BIHTA",
+      "grampanchayatname": "MUSHEPUR",
+      "ihhltotalasperdetails": 1415,
+      "ihhltotalach": 1415,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BIHTA",
+      "grampanchayatname": "NEORA",
+      "ihhltotalasperdetails": 2300,
+      "ihhltotalach": 2300,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BIHTA",
+      "grampanchayatname": "PAINAL",
+      "ihhltotalasperdetails": 1574,
+      "ihhltotalach": 1574,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BIHTA",
+      "grampanchayatname": "PAREV",
+      "ihhltotalasperdetails": 1887,
+      "ihhltotalach": 1887,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BIHTA",
+      "grampanchayatname": "PURUSOTTAMPUR PAINATHI",
+      "ihhltotalasperdetails": 1369,
+      "ihhltotalach": 1369,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BIHTA",
+      "grampanchayatname": "RAGHOPUR",
+      "ihhltotalasperdetails": 2129,
+      "ihhltotalach": 2129,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BIHTA",
+      "grampanchayatname": "SADISOPUR",
+      "ihhltotalasperdetails": 1453,
+      "ihhltotalach": 1453,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BIHTA",
+      "grampanchayatname": "SIKANDARPUR",
+      "ihhltotalasperdetails": 1950,
+      "ihhltotalach": 1950,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BIHTA",
+      "grampanchayatname": "SRI CHANDPUR",
+      "ihhltotalasperdetails": 1227,
+      "ihhltotalach": 1227,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BIHTA",
+      "grampanchayatname": "SRI RAMPUR",
+      "ihhltotalasperdetails": 1780,
+      "ihhltotalach": 1780,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BIHTA",
+      "grampanchayatname": "TARA NAGAR",
+      "ihhltotalasperdetails": 1485,
+      "ihhltotalach": 1485,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BIHTA",
+      "grampanchayatname": "YAMUNAPUR",
+      "ihhltotalasperdetails": 1293,
+      "ihhltotalach": 1293,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BIKRAM",
+      "grampanchayatname": "AKHTIYAR PUR MANCHAULI",
+      "ihhltotalasperdetails": 2112,
+      "ihhltotalach": 2112,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BIKRAM",
+      "grampanchayatname": "ARAP",
+      "ihhltotalasperdetails": 1620,
+      "ihhltotalach": 1620,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BIKRAM",
+      "grampanchayatname": "BARAH",
+      "ihhltotalasperdetails": 1400,
+      "ihhltotalach": 1400,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BIKRAM",
+      "grampanchayatname": "BENI BIGHA",
+      "ihhltotalasperdetails": 2198,
+      "ihhltotalach": 2198,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BIKRAM",
+      "grampanchayatname": "BIRGHOUR BERAR KATARI",
+      "ihhltotalasperdetails": 1581,
+      "ihhltotalach": 1581,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BIKRAM",
+      "grampanchayatname": "DANARA KATARI",
+      "ihhltotalasperdetails": 1635,
+      "ihhltotalach": 1635,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BIKRAM",
+      "grampanchayatname": "DATIYANA",
+      "ihhltotalasperdetails": 1817,
+      "ihhltotalach": 1817,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BIKRAM",
+      "grampanchayatname": "GORKHARI",
+      "ihhltotalasperdetails": 1614,
+      "ihhltotalach": 1614,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BIKRAM",
+      "grampanchayatname": "HAIBASPUR GONA",
+      "ihhltotalasperdetails": 1671,
+      "ihhltotalach": 1671,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BIKRAM",
+      "grampanchayatname": "MAHAJPURA",
+      "ihhltotalasperdetails": 1590,
+      "ihhltotalach": 1590,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BIKRAM",
+      "grampanchayatname": "MORIYAWA SHIVGARH",
+      "ihhltotalasperdetails": 1463,
+      "ihhltotalach": 1463,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BIKRAM",
+      "grampanchayatname": "NAGHAR",
+      "ihhltotalasperdetails": 1548,
+      "ihhltotalach": 1548,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BIKRAM",
+      "grampanchayatname": "PATUT",
+      "ihhltotalasperdetails": 1811,
+      "ihhltotalach": 1811,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BIKRAM",
+      "grampanchayatname": "SAIDABAD KANPA",
+      "ihhltotalasperdetails": 2237,
+      "ihhltotalach": 2237,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BIKRAM",
+      "grampanchayatname": "SUNDERPUR CHOUTHIA",
+      "ihhltotalasperdetails": 1622,
+      "ihhltotalach": 1622,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "BIKRAM",
+      "grampanchayatname": "WAZIRPUR",
+      "ihhltotalasperdetails": 1751,
+      "ihhltotalach": 1751,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "DANIYAWAN",
+      "grampanchayatname": "BANKI PUR MACHHARIYAWAN",
+      "ihhltotalasperdetails": 2824,
+      "ihhltotalach": 2824,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "DANIYAWAN",
+      "grampanchayatname": "DANIYAWAN",
+      "ihhltotalasperdetails": 2407,
+      "ihhltotalach": 2407,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "DANIYAWAN",
+      "grampanchayatname": "KHAR BHAIYA",
+      "ihhltotalasperdetails": 2626,
+      "ihhltotalach": 2626,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "DANIYAWAN",
+      "grampanchayatname": "SAHJAHANPUR",
+      "ihhltotalasperdetails": 2120,
+      "ihhltotalach": 2120,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "DANIYAWAN",
+      "grampanchayatname": "SALAR PUR",
+      "ihhltotalasperdetails": 2230,
+      "ihhltotalach": 2230,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "DANIYAWAN",
+      "grampanchayatname": "SINGRIYAWAN",
+      "ihhltotalasperdetails": 2305,
+      "ihhltotalach": 2305,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "DHANARUA",
+      "grampanchayatname": "BAHRAMPUR",
+      "ihhltotalasperdetails": 981,
+      "ihhltotalach": 981,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "DHANARUA",
+      "grampanchayatname": "BARIBIGHA",
+      "ihhltotalasperdetails": 1100,
+      "ihhltotalach": 1100,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "DHANARUA",
+      "grampanchayatname": "BARNI",
+      "ihhltotalasperdetails": 2049,
+      "ihhltotalach": 2049,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "DHANARUA",
+      "grampanchayatname": "BIJPURA",
+      "ihhltotalasperdetails": 1852,
+      "ihhltotalach": 1852,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "DHANARUA",
+      "grampanchayatname": "CHHATI",
+      "ihhltotalasperdetails": 1585,
+      "ihhltotalach": 1585,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "DHANARUA",
+      "grampanchayatname": "DEODAHA",
+      "ihhltotalasperdetails": 1954,
+      "ihhltotalach": 1954,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "DHANARUA",
+      "grampanchayatname": "DEWAN",
+      "ihhltotalasperdetails": 1528,
+      "ihhltotalach": 1528,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "DHANARUA",
+      "grampanchayatname": "DHANARUA",
+      "ihhltotalasperdetails": 1812,
+      "ihhltotalach": 1812,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "DHANARUA",
+      "grampanchayatname": "GOBINDPUR",
+      "ihhltotalasperdetails": 1191,
+      "ihhltotalach": 1191,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "DHANARUA",
+      "grampanchayatname": "HULASCHAKBIR",
+      "ihhltotalasperdetails": 2212,
+      "ihhltotalach": 2212,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "DHANARUA",
+      "grampanchayatname": "KOSUT",
+      "ihhltotalasperdetails": 2168,
+      "ihhltotalach": 2168,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "DHANARUA",
+      "grampanchayatname": "MAI NATAUL",
+      "ihhltotalasperdetails": 1780,
+      "ihhltotalach": 1780,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "DHANARUA",
+      "grampanchayatname": "MORIAWAN",
+      "ihhltotalasperdetails": 1858,
+      "ihhltotalach": 1858,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "DHANARUA",
+      "grampanchayatname": "NADWAN",
+      "ihhltotalasperdetails": 1321,
+      "ihhltotalach": 1321,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "DHANARUA",
+      "grampanchayatname": "NIMRA",
+      "ihhltotalasperdetails": 1372,
+      "ihhltotalach": 1372,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "DHANARUA",
+      "grampanchayatname": "PABHERA",
+      "ihhltotalasperdetails": 1921,
+      "ihhltotalach": 1921,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "DHANARUA",
+      "grampanchayatname": "PATHARHAT",
+      "ihhltotalasperdetails": 1996,
+      "ihhltotalach": 1996,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "DHANARUA",
+      "grampanchayatname": "SANDA",
+      "ihhltotalasperdetails": 1894,
+      "ihhltotalach": 1894,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "DHANARUA",
+      "grampanchayatname": "SATPARSA",
+      "ihhltotalasperdetails": 2213,
+      "ihhltotalach": 2213,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "DHANARUA",
+      "grampanchayatname": "SONMAI",
+      "ihhltotalasperdetails": 1776,
+      "ihhltotalach": 1776,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "DINAPUR",
+      "grampanchayatname": "GANGHARA",
+      "ihhltotalasperdetails": 812,
+      "ihhltotalach": 812,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "DINAPUR",
+      "grampanchayatname": "HATHIA KANDH",
+      "ihhltotalasperdetails": 1970,
+      "ihhltotalach": 1970,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "DINAPUR",
+      "grampanchayatname": "HETANPUR",
+      "ihhltotalasperdetails": 1503,
+      "ihhltotalach": 1503,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "DINAPUR",
+      "grampanchayatname": "JAMALUDDIN",
+      "ihhltotalasperdetails": 2678,
+      "ihhltotalach": 2678,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "DINAPUR",
+      "grampanchayatname": "JAMSAUT",
+      "ihhltotalasperdetails": 2357,
+      "ihhltotalach": 2357,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "DINAPUR",
+      "grampanchayatname": "KASIM CHAK",
+      "ihhltotalasperdetails": 2007,
+      "ihhltotalach": 2007,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "DINAPUR",
+      "grampanchayatname": "KOTHAWAN",
+      "ihhltotalasperdetails": 1456,
+      "ihhltotalach": 1456,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "DINAPUR",
+      "grampanchayatname": "LAKHANI BIGHA",
+      "ihhltotalasperdetails": 2181,
+      "ihhltotalach": 2181,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "DINAPUR",
+      "grampanchayatname": "MANAS",
+      "ihhltotalasperdetails": 1312,
+      "ihhltotalach": 1312,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "DINAPUR",
+      "grampanchayatname": "MOBARAKPUR-RAGHURAMPUR",
+      "ihhltotalasperdetails": 2190,
+      "ihhltotalach": 2190,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "DINAPUR",
+      "grampanchayatname": "PATLA PUR",
+      "ihhltotalasperdetails": 1180,
+      "ihhltotalach": 1180,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "DINAPUR",
+      "grampanchayatname": "PURANI PANAPUR",
+      "ihhltotalasperdetails": 2734,
+      "ihhltotalach": 2734,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "DINAPUR",
+      "grampanchayatname": "SARARI",
+      "ihhltotalasperdetails": 2481,
+      "ihhltotalach": 2481,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "DULHIN BAZAR",
+      "grampanchayatname": "AAINKHA BHIMANICHAK",
+      "ihhltotalasperdetails": 1301,
+      "ihhltotalach": 1301,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "DULHIN BAZAR",
+      "grampanchayatname": "ACHHUA RAKASIA",
+      "ihhltotalasperdetails": 1267,
+      "ihhltotalach": 1267,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "DULHIN BAZAR",
+      "grampanchayatname": "BHARATPURA",
+      "ihhltotalasperdetails": 1152,
+      "ihhltotalach": 1152,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "DULHIN BAZAR",
+      "grampanchayatname": "DHANA NISARPURA",
+      "ihhltotalasperdetails": 1165,
+      "ihhltotalach": 1165,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "DULHIN BAZAR",
+      "grampanchayatname": "KAB",
+      "ihhltotalasperdetails": 1753,
+      "ihhltotalach": 1753,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "DULHIN BAZAR",
+      "grampanchayatname": "LALA BHADASARA",
+      "ihhltotalasperdetails": 1697,
+      "ihhltotalach": 1697,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "DULHIN BAZAR",
+      "grampanchayatname": "NARAHI PIRAHI",
+      "ihhltotalasperdetails": 2087,
+      "ihhltotalach": 2087,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "DULHIN BAZAR",
+      "grampanchayatname": "RAJIPUR",
+      "ihhltotalasperdetails": 1761,
+      "ihhltotalach": 1761,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "DULHIN BAZAR",
+      "grampanchayatname": "SADAWAH DORWA",
+      "ihhltotalasperdetails": 1770,
+      "ihhltotalach": 1770,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "DULHIN BAZAR",
+      "grampanchayatname": "SELHAURI BELHAURI",
+      "ihhltotalasperdetails": 1875,
+      "ihhltotalach": 1875,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "DULHIN BAZAR",
+      "grampanchayatname": "SIHI",
+      "ihhltotalasperdetails": 1687,
+      "ihhltotalach": 1687,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "DULHIN BAZAR",
+      "grampanchayatname": "SINGHARA KOPA",
+      "ihhltotalasperdetails": 1655,
+      "ihhltotalach": 1655,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "DULHIN BAZAR",
+      "grampanchayatname": "SONIYAWA",
+      "ihhltotalasperdetails": 1411,
+      "ihhltotalach": 1411,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "DULHIN BAZAR",
+      "grampanchayatname": "ULAR SORAMPUR",
+      "ihhltotalasperdetails": 1925,
+      "ihhltotalach": 1925,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "FATUHA",
+      "grampanchayatname": "ALAWAL PUR",
+      "ihhltotalasperdetails": 1815,
+      "ihhltotalach": 1815,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "FATUHA",
+      "grampanchayatname": "BALI",
+      "ihhltotalasperdetails": 1428,
+      "ihhltotalach": 1428,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "FATUHA",
+      "grampanchayatname": "DUMARI",
+      "ihhltotalasperdetails": 1748,
+      "ihhltotalach": 1748,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "FATUHA",
+      "grampanchayatname": "GAURI PUNDA",
+      "ihhltotalasperdetails": 889,
+      "ihhltotalach": 889,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "FATUHA",
+      "grampanchayatname": "JAITA",
+      "ihhltotalasperdetails": 761,
+      "ihhltotalach": 761,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "FATUHA",
+      "grampanchayatname": "JETHULI",
+      "ihhltotalasperdetails": 1742,
+      "ihhltotalach": 1742,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "FATUHA",
+      "grampanchayatname": "KOLHAR",
+      "ihhltotalasperdetails": 684,
+      "ihhltotalach": 684,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "FATUHA",
+      "grampanchayatname": "MANSING PUR",
+      "ihhltotalasperdetails": 1032,
+      "ihhltotalach": 1032,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "FATUHA",
+      "grampanchayatname": "MASADHI",
+      "ihhltotalasperdetails": 1072,
+      "ihhltotalach": 1072,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "FATUHA",
+      "grampanchayatname": "MAUJI PUR",
+      "ihhltotalasperdetails": 929,
+      "ihhltotalach": 929,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "FATUHA",
+      "grampanchayatname": "MOHIUDDIN PUR",
+      "ihhltotalasperdetails": 1175,
+      "ihhltotalach": 1175,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "FATUHA",
+      "grampanchayatname": "MOMIN PUR",
+      "ihhltotalasperdetails": 1216,
+      "ihhltotalach": 1216,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "FATUHA",
+      "grampanchayatname": "PITAMBERPUR",
+      "ihhltotalasperdetails": 1967,
+      "ihhltotalach": 1967,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "FATUHA",
+      "grampanchayatname": "RUKUN PUR",
+      "ihhltotalasperdetails": 1271,
+      "ihhltotalach": 1271,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "FATUHA",
+      "grampanchayatname": "USFA",
+      "ihhltotalasperdetails": 1525,
+      "ihhltotalach": 1525,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "GHOSWARI",
+      "grampanchayatname": "GHOSWARI",
+      "ihhltotalasperdetails": 1560,
+      "ihhltotalach": 1560,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "GHOSWARI",
+      "grampanchayatname": "GOSAI GAON",
+      "ihhltotalasperdetails": 972,
+      "ihhltotalach": 972,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "GHOSWARI",
+      "grampanchayatname": "KUMHARA",
+      "ihhltotalasperdetails": 1460,
+      "ihhltotalach": 1460,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "GHOSWARI",
+      "grampanchayatname": "KURMICHAK",
+      "ihhltotalasperdetails": 1139,
+      "ihhltotalach": 1139,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "GHOSWARI",
+      "grampanchayatname": "PAIJANA",
+      "ihhltotalasperdetails": 1051,
+      "ihhltotalach": 1051,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "GHOSWARI",
+      "grampanchayatname": "SAMYA GARH",
+      "ihhltotalasperdetails": 1190,
+      "ihhltotalach": 1190,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "GHOSWARI",
+      "grampanchayatname": "TARTAR",
+      "ihhltotalasperdetails": 1249,
+      "ihhltotalach": 1249,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "GHOSWARI",
+      "grampanchayatname": "TRIMUHAN",
+      "ihhltotalasperdetails": 832,
+      "ihhltotalach": 832,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "KHUSRUPUR",
+      "grampanchayatname": "ALAWALPUR",
+      "ihhltotalasperdetails": 1654,
+      "ihhltotalach": 1654,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "KHUSRUPUR",
+      "grampanchayatname": "BAIKATPUR",
+      "ihhltotalasperdetails": 3839,
+      "ihhltotalach": 3839,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "KHUSRUPUR",
+      "grampanchayatname": "CHAURA",
+      "ihhltotalasperdetails": 795,
+      "ihhltotalach": 795,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "KHUSRUPUR",
+      "grampanchayatname": "HAIBATPUR",
+      "ihhltotalasperdetails": 1974,
+      "ihhltotalach": 1974,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "KHUSRUPUR",
+      "grampanchayatname": "HARDAS BIGHA",
+      "ihhltotalasperdetails": 2976,
+      "ihhltotalach": 2976,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "KHUSRUPUR",
+      "grampanchayatname": "MOSIM PUR",
+      "ihhltotalasperdetails": 2198,
+      "ihhltotalach": 2198,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "KHUSRUPUR",
+      "grampanchayatname": "SUKARBEG CHAK",
+      "ihhltotalasperdetails": 2155,
+      "ihhltotalach": 2155,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "MANER",
+      "grampanchayatname": "BALUWA",
+      "ihhltotalasperdetails": 1951,
+      "ihhltotalach": 1951,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "MANER",
+      "grampanchayatname": "BANK",
+      "ihhltotalasperdetails": 2798,
+      "ihhltotalach": 2798,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "MANER",
+      "grampanchayatname": "BIYAPUR",
+      "ihhltotalasperdetails": 2138,
+      "ihhltotalach": 2138,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "MANER",
+      "grampanchayatname": "DARWESH PUR  NORTH",
+      "ihhltotalasperdetails": 1501,
+      "ihhltotalach": 1501,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "MANER",
+      "grampanchayatname": "DARWESH PUR SOUTH",
+      "ihhltotalasperdetails": 1813,
+      "ihhltotalach": 1813,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "MANER",
+      "grampanchayatname": "GYAS PUR",
+      "ihhltotalasperdetails": 1216,
+      "ihhltotalach": 1216,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "MANER",
+      "grampanchayatname": "KHAS PUR",
+      "ihhltotalasperdetails": 2931,
+      "ihhltotalach": 2931,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "MANER",
+      "grampanchayatname": "KITA CHAUHATTAR  EAST",
+      "ihhltotalasperdetails": 1122,
+      "ihhltotalach": 1122,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "MANER",
+      "grampanchayatname": "KITA CHAUHATTAR MIDDLE",
+      "ihhltotalasperdetails": 1332,
+      "ihhltotalach": 1332,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "MANER",
+      "grampanchayatname": "KITA CHAUHATTAR WEST",
+      "ihhltotalasperdetails": 2366,
+      "ihhltotalach": 2366,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "MANER",
+      "grampanchayatname": "MADHOPUR",
+      "ihhltotalasperdetails": 1795,
+      "ihhltotalach": 1795,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "MANER",
+      "grampanchayatname": "MAGAR PAL",
+      "ihhltotalasperdetails": 699,
+      "ihhltotalach": 699,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "MANER",
+      "grampanchayatname": "RAMPUR DIYARA TAUFFIR",
+      "ihhltotalasperdetails": 2268,
+      "ihhltotalach": 2268,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "MANER",
+      "grampanchayatname": "SADIKPUR",
+      "ihhltotalasperdetails": 2691,
+      "ihhltotalach": 2691,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "MANER",
+      "grampanchayatname": "SARAI",
+      "ihhltotalasperdetails": 2138,
+      "ihhltotalach": 2138,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "MANER",
+      "grampanchayatname": "SHERPUR  EAST",
+      "ihhltotalasperdetails": 2495,
+      "ihhltotalach": 2495,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "MANER",
+      "grampanchayatname": "SHERPUR WEST",
+      "ihhltotalasperdetails": 2564,
+      "ihhltotalach": 2564,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "MANER",
+      "grampanchayatname": "SINGHARA",
+      "ihhltotalasperdetails": 1151,
+      "ihhltotalach": 1151,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "MANER",
+      "grampanchayatname": "SUWARMARWAH",
+      "ihhltotalasperdetails": 1371,
+      "ihhltotalach": 1371,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "MASAURHI",
+      "grampanchayatname": "BARA",
+      "ihhltotalasperdetails": 1911,
+      "ihhltotalach": 1911,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "MASAURHI",
+      "grampanchayatname": "BERRA",
+      "ihhltotalasperdetails": 1574,
+      "ihhltotalach": 1574,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "MASAURHI",
+      "grampanchayatname": "BHADAURA",
+      "ihhltotalasperdetails": 2010,
+      "ihhltotalach": 2010,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "MASAURHI",
+      "grampanchayatname": "BHAGWANGANJ",
+      "ihhltotalasperdetails": 2128,
+      "ihhltotalach": 2128,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "MASAURHI",
+      "grampanchayatname": "BHAISWAN",
+      "ihhltotalasperdetails": 1913,
+      "ihhltotalach": 1913,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "MASAURHI",
+      "grampanchayatname": "CHAPAUR",
+      "ihhltotalasperdetails": 1961,
+      "ihhltotalach": 1961,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "MASAURHI",
+      "grampanchayatname": "CHARMA",
+      "ihhltotalasperdetails": 1704,
+      "ihhltotalach": 1704,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "MASAURHI",
+      "grampanchayatname": "DAULATPUR",
+      "ihhltotalasperdetails": 1707,
+      "ihhltotalach": 1707,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "MASAURHI",
+      "grampanchayatname": "DEORIA",
+      "ihhltotalasperdetails": 2166,
+      "ihhltotalach": 2166,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "MASAURHI",
+      "grampanchayatname": "KARAI",
+      "ihhltotalasperdetails": 1944,
+      "ihhltotalach": 1944,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "MASAURHI",
+      "grampanchayatname": "KHARANT",
+      "ihhltotalasperdetails": 1565,
+      "ihhltotalach": 1565,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "MASAURHI",
+      "grampanchayatname": "LAKHNAUR-BEDAULI",
+      "ihhltotalasperdetails": 2286,
+      "ihhltotalach": 2286,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "MASAURHI",
+      "grampanchayatname": "NADAUL",
+      "ihhltotalasperdetails": 1855,
+      "ihhltotalach": 1855,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "MASAURHI",
+      "grampanchayatname": "NISIAWAN",
+      "ihhltotalasperdetails": 2104,
+      "ihhltotalach": 2104,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "MASAURHI",
+      "grampanchayatname": "NURA",
+      "ihhltotalasperdetails": 2373,
+      "ihhltotalach": 2373,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "MASAURHI",
+      "grampanchayatname": "REWAN",
+      "ihhltotalasperdetails": 1913,
+      "ihhltotalach": 1913,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "MASAURHI",
+      "grampanchayatname": "SHAHABAD",
+      "ihhltotalasperdetails": 2118,
+      "ihhltotalach": 2118,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "MASAURHI",
+      "grampanchayatname": "TINERI",
+      "ihhltotalasperdetails": 1700,
+      "ihhltotalach": 1700,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "MOKAMA",
+      "grampanchayatname": "AUNTA",
+      "ihhltotalasperdetails": 1710,
+      "ihhltotalach": 1710,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "MOKAMA",
+      "grampanchayatname": "BARAHPUR",
+      "ihhltotalasperdetails": 1970,
+      "ihhltotalach": 1970,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "MOKAMA",
+      "grampanchayatname": "DARIYAPUR",
+      "ihhltotalasperdetails": 1468,
+      "ihhltotalach": 1468,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "MOKAMA",
+      "grampanchayatname": "HATHIDAH  BUZURG",
+      "ihhltotalasperdetails": 1948,
+      "ihhltotalach": 1948,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "MOKAMA",
+      "grampanchayatname": "KANHAI PUR",
+      "ihhltotalasperdetails": 2588,
+      "ihhltotalach": 2588,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "MOKAMA",
+      "grampanchayatname": "KASAHA DIYARA",
+      "ihhltotalasperdetails": 288,
+      "ihhltotalach": 288,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "MOKAMA",
+      "grampanchayatname": "MALPUR",
+      "ihhltotalasperdetails": 3415,
+      "ihhltotalach": 3415,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "MOKAMA",
+      "grampanchayatname": "MARANCHI NORTH",
+      "ihhltotalasperdetails": 1350,
+      "ihhltotalach": 1350,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "MOKAMA",
+      "grampanchayatname": "MARANCHI SOUTH",
+      "ihhltotalasperdetails": 1766,
+      "ihhltotalach": 1766,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "MOKAMA",
+      "grampanchayatname": "MEKRA",
+      "ihhltotalasperdetails": 2039,
+      "ihhltotalach": 2039,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "MOKAMA",
+      "grampanchayatname": "MORE EAST",
+      "ihhltotalasperdetails": 3219,
+      "ihhltotalach": 3219,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "MOKAMA",
+      "grampanchayatname": "MORE WEST",
+      "ihhltotalasperdetails": 110,
+      "ihhltotalach": 110,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "MOKAMA",
+      "grampanchayatname": "NAURANGA JALALPUR",
+      "ihhltotalasperdetails": 1365,
+      "ihhltotalach": 1365,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "MOKAMA",
+      "grampanchayatname": "RAMPUR DUMRA",
+      "ihhltotalasperdetails": 1663,
+      "ihhltotalach": 1663,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "MOKAMA",
+      "grampanchayatname": "SHIV NAGAR",
+      "ihhltotalasperdetails": 2092,
+      "ihhltotalach": 2092,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "NAUBATPUR",
+      "grampanchayatname": "ADLA",
+      "ihhltotalasperdetails": 1654,
+      "ihhltotalach": 1654,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "NAUBATPUR",
+      "grampanchayatname": "AJWAN",
+      "ihhltotalasperdetails": 2162,
+      "ihhltotalach": 2162,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "NAUBATPUR",
+      "grampanchayatname": "BADI TENGLAILA",
+      "ihhltotalasperdetails": 2506,
+      "ihhltotalach": 2506,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "NAUBATPUR",
+      "grampanchayatname": "BARA",
+      "ihhltotalasperdetails": 1842,
+      "ihhltotalach": 1842,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "NAUBATPUR",
+      "grampanchayatname": "CHAK-CHECHOUL",
+      "ihhltotalasperdetails": 2301,
+      "ihhltotalach": 2301,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "NAUBATPUR",
+      "grampanchayatname": "CHESI",
+      "ihhltotalasperdetails": 1948,
+      "ihhltotalach": 1948,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "NAUBATPUR",
+      "grampanchayatname": "CHIRORA",
+      "ihhltotalasperdetails": 1531,
+      "ihhltotalach": 1531,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "NAUBATPUR",
+      "grampanchayatname": "DARIYAPUR",
+      "ihhltotalasperdetails": 2346,
+      "ihhltotalach": 2346,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "NAUBATPUR",
+      "grampanchayatname": "DEWRA",
+      "ihhltotalasperdetails": 2316,
+      "ihhltotalach": 2316,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "NAUBATPUR",
+      "grampanchayatname": "FARIDPUR",
+      "ihhltotalasperdetails": 1623,
+      "ihhltotalach": 1623,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "NAUBATPUR",
+      "grampanchayatname": "GANAWAN",
+      "ihhltotalasperdetails": 1505,
+      "ihhltotalach": 1505,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "NAUBATPUR",
+      "grampanchayatname": "IBRAHIMPUR",
+      "ihhltotalasperdetails": 2024,
+      "ihhltotalach": 2024,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "NAUBATPUR",
+      "grampanchayatname": "JAITIPUR",
+      "ihhltotalasperdetails": 1538,
+      "ihhltotalach": 1538,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "NAUBATPUR",
+      "grampanchayatname": "JAMALPURA",
+      "ihhltotalasperdetails": 1892,
+      "ihhltotalach": 1892,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "NAUBATPUR",
+      "grampanchayatname": "KARANJA GOWAI",
+      "ihhltotalasperdetails": 1496,
+      "ihhltotalach": 1496,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "NAUBATPUR",
+      "grampanchayatname": "KHAJURI",
+      "ihhltotalasperdetails": 2103,
+      "ihhltotalach": 2103,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "NAUBATPUR",
+      "grampanchayatname": "NAWDIHA",
+      "ihhltotalasperdetails": 1492,
+      "ihhltotalach": 1492,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "NAUBATPUR",
+      "grampanchayatname": "NAWHI",
+      "ihhltotalasperdetails": 1492,
+      "ihhltotalach": 1492,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "NAUBATPUR",
+      "grampanchayatname": "SAVAR CHAK",
+      "ihhltotalasperdetails": 1225,
+      "ihhltotalach": 1225,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PALIGANJ",
+      "grampanchayatname": "AKBARPUR RANIPUR",
+      "ihhltotalasperdetails": 2191,
+      "ihhltotalach": 2191,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PALIGANJ",
+      "grampanchayatname": "AZADA SIKARIYA",
+      "ihhltotalasperdetails": 1570,
+      "ihhltotalach": 1570,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PALIGANJ",
+      "grampanchayatname": "BHELARIASAI RAMPUR",
+      "ihhltotalasperdetails": 1398,
+      "ihhltotalach": 1398,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PALIGANJ",
+      "grampanchayatname": "CHANDOS",
+      "ihhltotalasperdetails": 1878,
+      "ihhltotalach": 1878,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PALIGANJ",
+      "grampanchayatname": "CHIKASI",
+      "ihhltotalasperdetails": 1972,
+      "ihhltotalach": 1972,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PALIGANJ",
+      "grampanchayatname": "DAHIYA",
+      "ihhltotalasperdetails": 1848,
+      "ihhltotalach": 1848,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PALIGANJ",
+      "grampanchayatname": "DHARHARA",
+      "ihhltotalasperdetails": 1797,
+      "ihhltotalach": 1797,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PALIGANJ",
+      "grampanchayatname": "JAMHARU  IMAM GANJ",
+      "ihhltotalasperdetails": 1989,
+      "ihhltotalach": 1989,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PALIGANJ",
+      "grampanchayatname": "JARAKHA",
+      "ihhltotalasperdetails": 1673,
+      "ihhltotalach": 1673,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PALIGANJ",
+      "grampanchayatname": "KALYANPUR PAIPURA",
+      "ihhltotalasperdetails": 2058,
+      "ihhltotalach": 2058,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PALIGANJ",
+      "grampanchayatname": "KATAKA PAIGAMBER PUR",
+      "ihhltotalasperdetails": 2035,
+      "ihhltotalach": 2035,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PALIGANJ",
+      "grampanchayatname": "KHANPUR TARANPUR",
+      "ihhltotalasperdetails": 2036,
+      "ihhltotalach": 2036,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PALIGANJ",
+      "grampanchayatname": "LALGANJ SAHERA",
+      "ihhltotalasperdetails": 1721,
+      "ihhltotalach": 1721,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PALIGANJ",
+      "grampanchayatname": "MADHAMA MAKHMILPUR",
+      "ihhltotalasperdetails": 1751,
+      "ihhltotalach": 1751,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PALIGANJ",
+      "grampanchayatname": "MAHABALI PUR   CHOK",
+      "ihhltotalasperdetails": 2262,
+      "ihhltotalach": 2262,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PALIGANJ",
+      "grampanchayatname": "MASHORA JALPURA",
+      "ihhltotalasperdetails": 1788,
+      "ihhltotalach": 1788,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PALIGANJ",
+      "grampanchayatname": "MAURI PERPURA",
+      "ihhltotalasperdetails": 1842,
+      "ihhltotalach": 1842,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PALIGANJ",
+      "grampanchayatname": "MERA PATAUNA",
+      "ihhltotalasperdetails": 1320,
+      "ihhltotalach": 1320,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PALIGANJ",
+      "grampanchayatname": "MURIKA",
+      "ihhltotalasperdetails": 1582,
+      "ihhltotalach": 1582,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PALIGANJ",
+      "grampanchayatname": "NADAHARI KODAHARI",
+      "ihhltotalasperdetails": 1836,
+      "ihhltotalach": 1836,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PALIGANJ",
+      "grampanchayatname": "NIRAKHPUR PALI",
+      "ihhltotalasperdetails": 3663,
+      "ihhltotalach": 3663,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PALIGANJ",
+      "grampanchayatname": "RAMPUR NAGAWA",
+      "ihhltotalasperdetails": 1982,
+      "ihhltotalach": 1982,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PALIGANJ",
+      "grampanchayatname": "RANIPUR KURKURI",
+      "ihhltotalasperdetails": 2230,
+      "ihhltotalach": 2230,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PALIGANJ",
+      "grampanchayatname": "SARJI PIPARDAHA",
+      "ihhltotalasperdetails": 2074,
+      "ihhltotalach": 2074,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PALIGANJ",
+      "grampanchayatname": "SIGODI",
+      "ihhltotalasperdetails": 3143,
+      "ihhltotalach": 3143,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PANDARAK",
+      "grampanchayatname": "AJGARA BAKAWAN",
+      "ihhltotalasperdetails": 1693,
+      "ihhltotalach": 1693,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PANDARAK",
+      "grampanchayatname": "BARAUNE BATHOI",
+      "ihhltotalasperdetails": 1004,
+      "ihhltotalach": 1004,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PANDARAK",
+      "grampanchayatname": "BIHARI BIGHA",
+      "ihhltotalasperdetails": 1405,
+      "ihhltotalach": 1405,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PANDARAK",
+      "grampanchayatname": "CHAKJALAL",
+      "ihhltotalasperdetails": 1300,
+      "ihhltotalach": 1300,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PANDARAK",
+      "grampanchayatname": "DARWE BHADOUR",
+      "ihhltotalasperdetails": 1108,
+      "ihhltotalach": 1108,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PANDARAK",
+      "grampanchayatname": "DHIBAR",
+      "ihhltotalasperdetails": 1047,
+      "ihhltotalach": 1047,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PANDARAK",
+      "grampanchayatname": "DHOBHAWAN",
+      "ihhltotalasperdetails": 1432,
+      "ihhltotalach": 1432,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PANDARAK",
+      "grampanchayatname": "GOASA SHEKHPURA",
+      "ihhltotalasperdetails": 1721,
+      "ihhltotalach": 1721,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PANDARAK",
+      "grampanchayatname": "KHUSHAL CHAK",
+      "ihhltotalasperdetails": 1130,
+      "ihhltotalach": 1130,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PANDARAK",
+      "grampanchayatname": "KUNDI",
+      "ihhltotalasperdetails": 1539,
+      "ihhltotalach": 1539,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PANDARAK",
+      "grampanchayatname": "LEMUABAD",
+      "ihhltotalasperdetails": 2092,
+      "ihhltotalach": 2092,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PANDARAK",
+      "grampanchayatname": "PANDARAK EAST",
+      "ihhltotalasperdetails": 1685,
+      "ihhltotalach": 1685,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PANDARAK",
+      "grampanchayatname": "PANDARAK WEST",
+      "ihhltotalasperdetails": 1433,
+      "ihhltotalach": 1433,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PANDARAK",
+      "grampanchayatname": "PARSAMAN",
+      "ihhltotalasperdetails": 1147,
+      "ihhltotalach": 1147,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PANDARAK",
+      "grampanchayatname": "RAILI",
+      "ihhltotalasperdetails": 1024,
+      "ihhltotalach": 1024,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PATNA SADAR",
+      "grampanchayatname": "FATEHPUR",
+      "ihhltotalasperdetails": 2137,
+      "ihhltotalach": 2137,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PATNA SADAR",
+      "grampanchayatname": "MAHULI",
+      "ihhltotalasperdetails": 1121,
+      "ihhltotalach": 1121,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PATNA SADAR",
+      "grampanchayatname": "MARCHI",
+      "ihhltotalasperdetails": 2037,
+      "ihhltotalach": 2037,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PATNA SADAR",
+      "grampanchayatname": "NAKTA DIYARA",
+      "ihhltotalasperdetails": 1838,
+      "ihhltotalach": 1838,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PATNA SADAR",
+      "grampanchayatname": "PUNADIH",
+      "ihhltotalasperdetails": 2208,
+      "ihhltotalach": 2208,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PATNA SADAR",
+      "grampanchayatname": "SABALPUR",
+      "ihhltotalasperdetails": 2001,
+      "ihhltotalach": 2001,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PATNA SADAR",
+      "grampanchayatname": "SONAWA PUR",
+      "ihhltotalasperdetails": 2044,
+      "ihhltotalach": 2044,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PHULWARI",
+      "grampanchayatname": "BHUSAULA DANAPUR",
+      "ihhltotalasperdetails": 2261,
+      "ihhltotalach": 2261,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PHULWARI",
+      "grampanchayatname": "CHILBILLI",
+      "ihhltotalasperdetails": 2619,
+      "ihhltotalach": 2619,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PHULWARI",
+      "grampanchayatname": "DHIWARA",
+      "ihhltotalasperdetails": 1629,
+      "ihhltotalach": 1629,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PHULWARI",
+      "grampanchayatname": "GONPURA",
+      "ihhltotalasperdetails": 2728,
+      "ihhltotalach": 2728,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PHULWARI",
+      "grampanchayatname": "KORIAYAWAN",
+      "ihhltotalasperdetails": 1969,
+      "ihhltotalach": 1969,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PHULWARI",
+      "grampanchayatname": "KURKURI",
+      "ihhltotalasperdetails": 1931,
+      "ihhltotalach": 1931,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PHULWARI",
+      "grampanchayatname": "KURTHOUL",
+      "ihhltotalasperdetails": 3462,
+      "ihhltotalach": 3462,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PHULWARI",
+      "grampanchayatname": "MENPURA  ANDA",
+      "ihhltotalasperdetails": 1806,
+      "ihhltotalach": 1806,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PHULWARI",
+      "grampanchayatname": "NOHSA",
+      "ihhltotalasperdetails": 2478,
+      "ihhltotalach": 2478,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PHULWARI",
+      "grampanchayatname": "PERSA",
+      "ihhltotalasperdetails": 1853,
+      "ihhltotalach": 1853,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PHULWARI",
+      "grampanchayatname": "RAMPUR FARIDPUR",
+      "ihhltotalasperdetails": 2063,
+      "ihhltotalach": 2063,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PHULWARI",
+      "grampanchayatname": "SAKRAICHA",
+      "ihhltotalasperdetails": 2436,
+      "ihhltotalach": 2436,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PHULWARI",
+      "grampanchayatname": "SHORAMPUR",
+      "ihhltotalasperdetails": 2767,
+      "ihhltotalach": 2767,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PHULWARI",
+      "grampanchayatname": "SUITHA",
+      "ihhltotalasperdetails": 2103,
+      "ihhltotalach": 2103,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PUNPUN",
+      "grampanchayatname": "BARAH",
+      "ihhltotalasperdetails": 1080,
+      "ihhltotalach": 1080,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PUNPUN",
+      "grampanchayatname": "BARANWA",
+      "ihhltotalasperdetails": 2279,
+      "ihhltotalach": 2279,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PUNPUN",
+      "grampanchayatname": "BEHRANWA",
+      "ihhltotalasperdetails": 1882,
+      "ihhltotalach": 1882,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PUNPUN",
+      "grampanchayatname": "DUMRI",
+      "ihhltotalasperdetails": 2085,
+      "ihhltotalach": 2085,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PUNPUN",
+      "grampanchayatname": "EAST LAKHNA",
+      "ihhltotalasperdetails": 1789,
+      "ihhltotalach": 1789,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PUNPUN",
+      "grampanchayatname": "EKAUNA",
+      "ihhltotalasperdetails": 1303,
+      "ihhltotalach": 1303,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PUNPUN",
+      "grampanchayatname": "KALYANPUR",
+      "ihhltotalasperdetails": 1899,
+      "ihhltotalach": 1899,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PUNPUN",
+      "grampanchayatname": "KEWRA",
+      "ihhltotalasperdetails": 1698,
+      "ihhltotalach": 1698,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PUNPUN",
+      "grampanchayatname": "LAKHANPUR",
+      "ihhltotalasperdetails": 1875,
+      "ihhltotalach": 1875,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PUNPUN",
+      "grampanchayatname": "LAKHNA NORTH",
+      "ihhltotalasperdetails": 2054,
+      "ihhltotalach": 2054,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PUNPUN",
+      "grampanchayatname": "PAIMAR",
+      "ihhltotalasperdetails": 1168,
+      "ihhltotalach": 1168,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PUNPUN",
+      "grampanchayatname": "PARTHU",
+      "ihhltotalasperdetails": 1801,
+      "ihhltotalach": 1801,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PUNPUN",
+      "grampanchayatname": "POTTHHI",
+      "ihhltotalasperdetails": 2108,
+      "ihhltotalach": 2108,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "PUNPUN",
+      "grampanchayatname": "PUNPUN",
+      "ihhltotalasperdetails": 1961,
+      "ihhltotalach": 1961,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "SAMPATCHAK",
+      "grampanchayatname": "BAIRIYA KARANPUR",
+      "ihhltotalasperdetails": 2552,
+      "ihhltotalach": 2552,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "SAMPATCHAK",
+      "grampanchayatname": "BHELWARA DARIAPUR",
+      "ihhltotalasperdetails": 2137,
+      "ihhltotalach": 2137,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "SAMPATCHAK",
+      "grampanchayatname": "CHIPURA",
+      "ihhltotalasperdetails": 2527,
+      "ihhltotalach": 2527,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "SAMPATCHAK",
+      "grampanchayatname": "KANAUJI KACHUARA",
+      "ihhltotalasperdetails": 3161,
+      "ihhltotalach": 3161,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "SAMPATCHAK",
+      "grampanchayatname": "KANDAP TARANPUR",
+      "ihhltotalasperdetails": 1905,
+      "ihhltotalach": 1905,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "SAMPATCHAK",
+      "grampanchayatname": "LANKA KACHUARA",
+      "ihhltotalasperdetails": 2208,
+      "ihhltotalach": 2208,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "PATNA",
+      "blockname": "SAMPATCHAK",
+      "grampanchayatname": "SONA GOPALPUR",
+      "ihhltotalasperdetails": 2920,
+      "ihhltotalach": 2920,
+      "date": "5/19/2020 12:00:00 AM"
+    }
+  ]
+}

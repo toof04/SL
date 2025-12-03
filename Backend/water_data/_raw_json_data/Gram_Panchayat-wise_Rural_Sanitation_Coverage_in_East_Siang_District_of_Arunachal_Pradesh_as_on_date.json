@@ -1,0 +1,875 @@
+{
+  "index_name": "0b14fc71-ee88-4043-bbb0-73c626e0f152",
+  "title": "Gram Panchayat-wise Rural Sanitation Coverage in East Siang District of Arunachal Pradesh as on date",
+  "desc": "Gram Panchayat-wise Rural Sanitation Coverage in East Siang District of Arunachal Pradesh as on date",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Jal Shakti",
+    "Department of Drinking Water and Sanitation"
+  ],
+  "sector": [
+    "Water and Sanitation"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1688360217,
+  "updated": 1688364888,
+  "created_date": "2023-07-03T06:56:57Z",
+  "updated_date": "2023-07-03T11:44:48Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "sbm",
+    "type": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+    "field": "0b14fc71-ee88-4043-bbb0-73c626e0f152"
+  },
+  "field": [
+    {
+      "id": "statename",
+      "name": "StateName",
+      "type": "keyword"
+    },
+    {
+      "id": "districtname",
+      "name": "DistrictName",
+      "type": "keyword"
+    },
+    {
+      "id": "blockname",
+      "name": "BlockName",
+      "type": "keyword"
+    },
+    {
+      "id": "grampanchayatname",
+      "name": "GramPanchayatName",
+      "type": "keyword"
+    },
+    {
+      "id": "ihhltotalasperdetails",
+      "name": "IHHLTotalAsPerDetails",
+      "type": "double"
+    },
+    {
+      "id": "ihhltotalach",
+      "name": "IHHLTotalAch",
+      "type": "double"
+    },
+    {
+      "id": "date",
+      "name": "Date",
+      "type": "keyword"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 89,
+  "count": 89,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "MEBO",
+      "grampanchayatname": "AOHALI",
+      "ihhltotalasperdetails": 33,
+      "ihhltotalach": 33,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "MEBO",
+      "grampanchayatname": "AYENG BEGING",
+      "ihhltotalasperdetails": 124,
+      "ihhltotalach": 124,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "MEBO",
+      "grampanchayatname": "AYENG BESOK",
+      "ihhltotalasperdetails": 96,
+      "ihhltotalach": 96,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "MEBO",
+      "grampanchayatname": "BODAK",
+      "ihhltotalasperdetails": 32,
+      "ihhltotalach": 32,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "MEBO",
+      "grampanchayatname": "BOGRULI",
+      "ihhltotalasperdetails": 124,
+      "ihhltotalach": 124,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "MEBO",
+      "grampanchayatname": "DARNE",
+      "ihhltotalasperdetails": 45,
+      "ihhltotalach": 45,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "MEBO",
+      "grampanchayatname": "GADUM",
+      "ihhltotalasperdetails": 58,
+      "ihhltotalach": 58,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "MEBO",
+      "grampanchayatname": "KIYIT YITDUM",
+      "ihhltotalasperdetails": 130,
+      "ihhltotalach": 130,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "MEBO",
+      "grampanchayatname": "KIYIT YITKONG",
+      "ihhltotalasperdetails": 112,
+      "ihhltotalach": 112,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "MEBO",
+      "grampanchayatname": "MEBO GIDUM",
+      "ihhltotalasperdetails": 95,
+      "ihhltotalach": 95,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "MEBO",
+      "grampanchayatname": "MEBO GINGKONG",
+      "ihhltotalasperdetails": 150,
+      "ihhltotalach": 150,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "MEBO",
+      "grampanchayatname": "MER",
+      "ihhltotalasperdetails": 151,
+      "ihhltotalach": 151,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "MEBO",
+      "grampanchayatname": "MOTUM",
+      "ihhltotalasperdetails": 125,
+      "ihhltotalach": 125,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "MEBO",
+      "grampanchayatname": "NAMSING ANGGO",
+      "ihhltotalasperdetails": 124,
+      "ihhltotalach": 124,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "MEBO",
+      "grampanchayatname": "NAMSING SANGGO",
+      "ihhltotalasperdetails": 110,
+      "ihhltotalach": 110,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "MEBO",
+      "grampanchayatname": "NEW BORGULI",
+      "ihhltotalasperdetails": 43,
+      "ihhltotalach": 43,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "MEBO",
+      "grampanchayatname": "NGOPOK POKKONG",
+      "ihhltotalasperdetails": 159,
+      "ihhltotalach": 159,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "MEBO",
+      "grampanchayatname": "NGOPOK-POKDUM",
+      "ihhltotalasperdetails": 194,
+      "ihhltotalach": 194,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "MEBO",
+      "grampanchayatname": "RALLING",
+      "ihhltotalasperdetails": 36,
+      "ihhltotalach": 36,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "MEBO",
+      "grampanchayatname": "SERAM PALEK",
+      "ihhltotalasperdetails": 152,
+      "ihhltotalach": 152,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "MEBO",
+      "grampanchayatname": "SERAM RAMKU",
+      "ihhltotalasperdetails": 85,
+      "ihhltotalach": 85,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "MEBO",
+      "grampanchayatname": "SIGAR",
+      "ihhltotalasperdetails": 75,
+      "ihhltotalach": 75,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "MEBO",
+      "grampanchayatname": "SILLUK",
+      "ihhltotalasperdetails": 141,
+      "ihhltotalach": 141,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "PASIGHAT",
+      "grampanchayatname": "BALEK",
+      "ihhltotalasperdetails": 48,
+      "ihhltotalach": 48,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "PASIGHAT",
+      "grampanchayatname": "BERUNG",
+      "ihhltotalasperdetails": 72,
+      "ihhltotalach": 72,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "PASIGHAT",
+      "grampanchayatname": "BOYING",
+      "ihhltotalasperdetails": 74,
+      "ihhltotalach": 74,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "PASIGHAT",
+      "grampanchayatname": "DIKING",
+      "ihhltotalasperdetails": 43,
+      "ihhltotalach": 43,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "PASIGHAT",
+      "grampanchayatname": "GUNE",
+      "ihhltotalasperdetails": 21,
+      "ihhltotalach": 21,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "PASIGHAT",
+      "grampanchayatname": "KELEK MIRBUK",
+      "ihhltotalasperdetails": 68,
+      "ihhltotalach": 68,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "PASIGHAT",
+      "grampanchayatname": "KELEK-ROING",
+      "ihhltotalasperdetails": 32,
+      "ihhltotalach": 32,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "PASIGHAT",
+      "grampanchayatname": "MIRKU (PAKOK)",
+      "ihhltotalasperdetails": 44,
+      "ihhltotalach": 44,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "PASIGHAT",
+      "grampanchayatname": "MIRKU DAPI",
+      "ihhltotalasperdetails": 43,
+      "ihhltotalach": 43,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "PASIGHAT",
+      "grampanchayatname": "MIRKU(GENGKUNG)",
+      "ihhltotalasperdetails": 55,
+      "ihhltotalach": 55,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "PASIGHAT",
+      "grampanchayatname": "MIRSAM-I",
+      "ihhltotalasperdetails": 49,
+      "ihhltotalach": 49,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "PASIGHAT",
+      "grampanchayatname": "MIRSAM-II",
+      "ihhltotalasperdetails": 43,
+      "ihhltotalach": 43,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "PASIGHAT",
+      "grampanchayatname": "MONGKU",
+      "ihhltotalasperdetails": 61,
+      "ihhltotalach": 61,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "PASIGHAT",
+      "grampanchayatname": "NAPIT",
+      "ihhltotalasperdetails": 53,
+      "ihhltotalach": 53,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "PASIGHAT",
+      "grampanchayatname": "RASAM",
+      "ihhltotalasperdetails": 30,
+      "ihhltotalach": 30,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "PASIGHAT",
+      "grampanchayatname": "RENGGING",
+      "ihhltotalasperdetails": 35,
+      "ihhltotalach": 35,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "PASIGHAT",
+      "grampanchayatname": "RUNNE-I",
+      "ihhltotalasperdetails": 52,
+      "ihhltotalach": 52,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "PASIGHAT",
+      "grampanchayatname": "SIBUT",
+      "ihhltotalasperdetails": 70,
+      "ihhltotalach": 70,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "PASIGHAT",
+      "grampanchayatname": "TAKILALUNG-I",
+      "ihhltotalasperdetails": 54,
+      "ihhltotalach": 54,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "PASIGHAT",
+      "grampanchayatname": "TAKILALUNG-II",
+      "ihhltotalasperdetails": 54,
+      "ihhltotalach": 54,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "PASIGHAT",
+      "grampanchayatname": "TAKILALUNG-III",
+      "ihhltotalasperdetails": 48,
+      "ihhltotalach": 48,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "PASIGHAT",
+      "grampanchayatname": "TEBO",
+      "ihhltotalasperdetails": 54,
+      "ihhltotalach": 54,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "PASIGHAT",
+      "grampanchayatname": "TEKANG-I",
+      "ihhltotalasperdetails": 33,
+      "ihhltotalach": 33,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "PASIGHAT",
+      "grampanchayatname": "TEKANG-II",
+      "ihhltotalasperdetails": 52,
+      "ihhltotalach": 52,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "PASIGHAT",
+      "grampanchayatname": "TIGRA",
+      "ihhltotalasperdetails": 44,
+      "ihhltotalach": 44,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "PASIGHAT",
+      "grampanchayatname": "TIGRA MIRBUK (UPPER)",
+      "ihhltotalasperdetails": 33,
+      "ihhltotalach": 33,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "PASIGHAT",
+      "grampanchayatname": "TIGRA MIRBUK(LOWER)",
+      "ihhltotalasperdetails": 87,
+      "ihhltotalach": 87,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "PASIGHAT",
+      "grampanchayatname": "YAGRUNG-I",
+      "ihhltotalasperdetails": 32,
+      "ihhltotalach": 32,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "PASIGHAT",
+      "grampanchayatname": "YAGRUNG-II",
+      "ihhltotalasperdetails": 35,
+      "ihhltotalach": 35,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "PASIGHAT",
+      "grampanchayatname": "YAGRUNG-III",
+      "ihhltotalasperdetails": 76,
+      "ihhltotalach": 76,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "PASIGHAT",
+      "grampanchayatname": "YAPGO",
+      "ihhltotalasperdetails": 52,
+      "ihhltotalach": 52,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "RUKSIN-BILAT",
+      "grampanchayatname": "BILAT BAMIN-I",
+      "ihhltotalasperdetails": 103,
+      "ihhltotalach": 103,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "RUKSIN-BILAT",
+      "grampanchayatname": "BILAT BAMIN-II",
+      "ihhltotalasperdetails": 82,
+      "ihhltotalach": 82,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "RUKSIN-BILAT",
+      "grampanchayatname": "DEBING-I",
+      "ihhltotalasperdetails": 71,
+      "ihhltotalach": 71,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "RUKSIN-BILAT",
+      "grampanchayatname": "DEBING-II",
+      "ihhltotalasperdetails": 42,
+      "ihhltotalach": 42,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "RUKSIN-BILAT",
+      "grampanchayatname": "LEDUM-I",
+      "ihhltotalasperdetails": 62,
+      "ihhltotalach": 62,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "RUKSIN-BILAT",
+      "grampanchayatname": "LEDUM-II",
+      "ihhltotalasperdetails": 51,
+      "ihhltotalach": 51,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "RUKSIN-BILAT",
+      "grampanchayatname": "LINGKA",
+      "ihhltotalasperdetails": 41,
+      "ihhltotalach": 41,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "RUKSIN-BILAT",
+      "grampanchayatname": "MANGNANG",
+      "ihhltotalasperdetails": 86,
+      "ihhltotalach": 86,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "RUKSIN-BILAT",
+      "grampanchayatname": "MIGLUNG",
+      "ihhltotalasperdetails": 47,
+      "ihhltotalach": 47,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "RUKSIN-BILAT",
+      "grampanchayatname": "MIKONG -I",
+      "ihhltotalasperdetails": 132,
+      "ihhltotalach": 132,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "RUKSIN-BILAT",
+      "grampanchayatname": "MILE",
+      "ihhltotalasperdetails": 39,
+      "ihhltotalach": 39,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "RUKSIN-BILAT",
+      "grampanchayatname": "MIREM-I",
+      "ihhltotalasperdetails": 72,
+      "ihhltotalach": 72,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "RUKSIN-BILAT",
+      "grampanchayatname": "MIREM-II",
+      "ihhltotalasperdetails": 47,
+      "ihhltotalach": 47,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "RUKSIN-BILAT",
+      "grampanchayatname": "MIREM-III",
+      "ihhltotalasperdetails": 57,
+      "ihhltotalach": 57,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "RUKSIN-BILAT",
+      "grampanchayatname": "MIREM-IV",
+      "ihhltotalasperdetails": 54,
+      "ihhltotalach": 54,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "RUKSIN-BILAT",
+      "grampanchayatname": "MIREM-V",
+      "ihhltotalasperdetails": 64,
+      "ihhltotalach": 64,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "RUKSIN-BILAT",
+      "grampanchayatname": "NGORLUNG-I",
+      "ihhltotalasperdetails": 83,
+      "ihhltotalach": 83,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "RUKSIN-BILAT",
+      "grampanchayatname": "NGORLUNG-II",
+      "ihhltotalasperdetails": 87,
+      "ihhltotalach": 87,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "RUKSIN-BILAT",
+      "grampanchayatname": "NGORLUNG-III",
+      "ihhltotalasperdetails": 68,
+      "ihhltotalach": 68,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "RUKSIN-BILAT",
+      "grampanchayatname": "NIGLOK",
+      "ihhltotalasperdetails": 66,
+      "ihhltotalach": 66,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "RUKSIN-BILAT",
+      "grampanchayatname": "OYAN-I",
+      "ihhltotalasperdetails": 156,
+      "ihhltotalach": 156,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "RUKSIN-BILAT",
+      "grampanchayatname": "OYAN-II",
+      "ihhltotalasperdetails": 151,
+      "ihhltotalach": 151,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "RUKSIN-BILAT",
+      "grampanchayatname": "RANI-I",
+      "ihhltotalasperdetails": 57,
+      "ihhltotalach": 57,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "RUKSIN-BILAT",
+      "grampanchayatname": "RANI-II",
+      "ihhltotalasperdetails": 65,
+      "ihhltotalach": 65,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "RUKSIN-BILAT",
+      "grampanchayatname": "RANI-III",
+      "ihhltotalasperdetails": 72,
+      "ihhltotalach": 72,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "RUKSIN-BILAT",
+      "grampanchayatname": "RANI-IV",
+      "ihhltotalasperdetails": 43,
+      "ihhltotalach": 43,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "RUKSIN-BILAT",
+      "grampanchayatname": "RAYENG-I",
+      "ihhltotalasperdetails": 72,
+      "ihhltotalach": 72,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "RUKSIN-BILAT",
+      "grampanchayatname": "RAYENG-II",
+      "ihhltotalasperdetails": 79,
+      "ihhltotalach": 79,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "RUKSIN-BILAT",
+      "grampanchayatname": "REMI",
+      "ihhltotalasperdetails": 58,
+      "ihhltotalach": 58,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "RUKSIN-BILAT",
+      "grampanchayatname": "RUKSIN",
+      "ihhltotalasperdetails": 94,
+      "ihhltotalach": 94,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "RUKSIN-BILAT",
+      "grampanchayatname": "SIKA BAMIN-I",
+      "ihhltotalasperdetails": 66,
+      "ihhltotalach": 66,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "RUKSIN-BILAT",
+      "grampanchayatname": "SIKA BAMIN-II",
+      "ihhltotalasperdetails": 78,
+      "ihhltotalach": 78,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "RUKSIN-BILAT",
+      "grampanchayatname": "SIKA TODE-I",
+      "ihhltotalasperdetails": 66,
+      "ihhltotalach": 66,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "RUKSIN-BILAT",
+      "grampanchayatname": "SIKA TODE-II",
+      "ihhltotalasperdetails": 40,
+      "ihhltotalach": 40,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST SIANG",
+      "blockname": "RUKSIN-BILAT",
+      "grampanchayatname": "SILLE",
+      "ihhltotalasperdetails": 118,
+      "ihhltotalach": 118,
+      "date": "5/19/2020 12:00:00 AM"
+    }
+  ]
+}

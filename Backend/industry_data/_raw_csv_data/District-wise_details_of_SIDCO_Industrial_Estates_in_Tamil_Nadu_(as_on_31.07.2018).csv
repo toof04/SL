@@ -1,0 +1,115 @@
+Sl.No,District,Location,"Year of formation","Total extent in acres"
+1,Chennai,Guindy,1958,404.08
+2,Chennai,Arumbakkam,1979,3.92
+3,Chennai,Villivakkam,1979,2.04
+4,Chennai,Kodungaiyur,1979,7.88
+5,Tiruvallur,Ambattur,1963,1167
+6,Tiruvallur,Kakkalur,1988,283.01
+7,Tiruvallur,Thirumazhisai,1988,160.85
+8,Tiruvallur,Gummidipoondi,1988,25.24
+9,Tiruvallur,R.K.Pet,1996,8.15
+10,Tiruvallur,Vichoor,1994,59.16
+11,Tiruvallur,Thirumullaivoil(WIP),2001,246.07
+12,Tiruvallur,Chengarai,2017,36.25
+13,Kancheepuram,Kancheepuram,1968,37.95
+14,Kancheepuram,Maraimalainagar,1981,39.5
+15,Kancheepuram,Alathur,1984,150
+16,Kancheepuram,"Thirumudivakkam (Main)",1993,201.11
+17,Kancheepuram,"Thirumudivakkam (Micro)",2013,5.262
+18,Kancheepuram,"Thirumudivakkam (WIP)",2002,11.48
+19,Kancheepuram,"Thirumudivakkam Phase-II",2017,22.44
+20,Kancheepuram,Thandarai,2017,44.3
+21,Vellore,Katpadi,1968,19.48
+22,Vellore,Arakkonam,1968,51.74
+23,Vellore,Ranipet,1972,113.44
+24,Vellore,Mukuntharayapuram,1980,86.19
+25,Vellore,Vannivedu,1987,16.44
+26,Vellore,Vinnamangalam,2009,10.49
+27,Vellore,Vaniyambadi,2013,7.08
+28,Thiruvannamalai,Thiruvannamalai,1968,15.56
+29,Krishnagiri,Krishnagiri,1965,41.86
+30,Krishnagiri,Uthangarai,1995,41.28
+31,Krishnagiri,Hosur(SIPCOT),1976,95.15
+32,Krishnagiri,Hosur(New),1999,18.8
+33,Krishnagiri,Bargur,1995,31.64
+34,Krishnagiri,Pollupalli,2009,60.96
+35,Dharmapuri,Dharmapuri,1965,20.28
+36,Dharmapuri,Kadagathur,2009,7.02
+37,Dharmapuri,Parvathanahalli,2014,29.89
+38,Dharmapuri,Echampadi,2017,50.46
+39,Salem,Salem,1967,19.55
+40,Salem,Mettur,1967,184.38
+41,Salem,"Karuppur WIP",2004,51.24
+42,Salem,Veerapandi,1993,9.79
+43,Salem,Konamrampatti,2017,16.61
+44,Namakkal,Namakkal,1977,10.09
+45,Namakkal,Thiruchengodu,1980,9.18
+46,Namakkal,Vettambadi,2014,15.34
+47,Erode,Erode,1959,25.13
+48,Erode,Nanjaiuthukuli,1995,13.05
+49,Erode,Perundurai,2017,49.47
+50,Coimbatore,Kurichi,1972,88.43
+51,Coimbatore,Malumichampatti,1994,36.14
+52,Tiruppur,Ganapathipalayam,1993,17.1
+53,Tiruppur,Tiruppur,1978,10.14
+54,Tiruppur,Gudimangalam,1992,6.74
+55,Tiruppur,Rasathavalasu,2011,51.8
+56,Nilgiris,Ooty,1981,10.65
+57,Cuddalore,Cuddalore,1971,15.6
+58,Cuddalore,Vadalur,1972,26.22
+59,Cuddalore,Periyanesalur,2015,90.8
+60,Villupuram,Patanam,2014,60.55
+61,Villupuram,Asanur,2009,212.83
+62,Villupuram,Kattuvannanjur,2014,42
+63,Villupuram,Venmaniathur,2011,36.82
+64,Perambalur,Elambalur,2009,44.48
+65,Thanjavur,Thanjavur,1968,21.94
+66,Thanjavur,Kumbakonam,1968,32.3
+67,Thanjavur,Pillaiyarpatti,1974,10.96
+68,Thanjavur,Nanjikkottai,1996,26.3
+69,Thanjavur,Palayapatti,2012,104.37
+70,Nagapattinam,Nagapattinam,1966,20.97
+71,Nagapattinam,Mayiladuthurai,2009,12.56
+72,Tiruchirapalli,Thuvakudi,1974,478.38
+73,Tiruchirapalli,Thiruverambur,1974,74.5
+74,Tiruchirapalli,Ariyamangalam,1974,17.64
+75,Tiruchirapalli,Kumbakudy,2009,24.46
+76,Tiruchirapalli,Valavanthaankottai(WIP),2003,51.7
+77,Tiruchirapalli,Valavanthankottai,2008,179.02
+78,Karur,"Karur (Vellalapatti)",1974,26.63
+79,Karur,Karur(Athur),1993,36.29
+80,Karur,Punjaikalakurichi,2016,52.076
+81,Pudukottai,Pudukottai,1974,23.18
+82,Pudukottai,Pudukottai(SIPCOT),1988,51.45
+83,Pudukottai,Mathur,1975,26
+84,Pudukottai,"Mathur (New)",2013,19.92
+85,Theni,Theni,1963,26.59
+86,Theni,Andipatti,1994,22.34
+87,Theni,Marikundu,2017,79.4
+88,Dindigul,Dindigul,1965,39.9
+89,Dindigul,Batlagundu,1965,16.26
+90,Madurai,K.Pudur,1960,56.05
+91,Madurai,Kappalur,1966,534.64
+92,Madurai,"Kappalur WIP",2008,18.87
+93,Ramnad,Paramakudi,1976,10
+94,Ramnad,Keelanagachi,1993,10
+95,Ramnad,Urapuli,1993,12.14
+96,Sivaganga,Karaikudi,1966,180.19
+97,Sivaganga,Sivaganga,1966,70.61
+98,Sivaganga,Krungakottai,1993,21.85
+99,Sivaganga,Sakkarakottai,2017,100
+100,Virudhunagar,Virudhunagar,1958,45.65
+101,Virudhunagar,Rajapalayam,1995,41.13
+102,Virudhunagar,"Virudhunagar (Urban)",2013,37.54
+103,Tirunelveli,Pettai,1959,50.55
+104,Tirunelveli,Kadayanallur,1992,10
+105,Tirunelveli,Valliyur,2005,39.91
+106,Tirunelveli,Kurukkalpatti,2016,68.8
+107,Thoothukudi,Kovilpatti,1962,85.54
+108,Thoothukudi,"Thoothukudi (Phase I)",1988,9.72
+109,Thoothukudi,"Thoothukudi(Phase II)",2003,14.46
+110,Thoothukudi,Pidaneri,2016,108.23
+111,Kanyakumari,Konam,1964,20.7
+112,Kanyakumari,Marthandam,1964,7.5
+113,Ariyalur,Mallur,2014,25.34
+TOTAL,TOTAL,TOTAL,NA,7842.138

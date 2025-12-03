@@ -1,0 +1,522 @@
+{
+  "index_name": "4c5b41b2-ee08-4eb4-804f-b5c413bd74ea",
+  "title": "State-Wise  Distribution Of Employment By Type Of Sex / Social Category (Fourth All India Census of MSME 2006-07: Unregistered Sector)",
+  "desc": "State-Wise  Distribution Of Employment By Type Of Sex / Social Category (Fourth All India Census of MSME 2006-07: Unregistered Sector)",
+  "created": 1564999179,
+  "updated": 1564999179,
+  "created_date": "2019-08-05T15:29:39Z",
+  "updated_date": "2019-08-05T15:29:39Z",
+  "active": "1",
+  "visualizable": "1",
+  "catalog_uuid": "1445e8bc-cbf4-4cfd-8f14-1d737ee958ab",
+  "source": "data.gov.in",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Micro, Small and Medium Enterprises"
+  ],
+  "sector": [
+    "Industries",
+    "Micro",
+    "Small Scale"
+  ],
+  "field": [
+    {
+      "id": "__sl_no_",
+      "name": "Sl. No.",
+      "type": "double"
+    },
+    {
+      "id": "state_name",
+      "name": "State Name",
+      "type": "keyword"
+    },
+    {
+      "id": "female_values_in_lakh_",
+      "name": "Female (Values in Lakh)",
+      "type": "double"
+    },
+    {
+      "id": "male_values_in_lakh_",
+      "name": "Male(Values in Lakh)",
+      "type": "double"
+    },
+    {
+      "id": "total_values_in_lakh_",
+      "name": "Total (Values in Lakh)",
+      "type": "double"
+    },
+    {
+      "id": "sc_values_in_lakh_",
+      "name": "SC (Values in Lakh)",
+      "type": "double"
+    },
+    {
+      "id": "st_values_in_lakh_",
+      "name": "ST (Values in Lakh)",
+      "type": "double"
+    },
+    {
+      "id": "obc_values_in_lakh_",
+      "name": "OBC (Values in Lakh)",
+      "type": "double"
+    },
+    {
+      "id": "others_values_in_lakh_",
+      "name": "Others (Values in Lakh)",
+      "type": "double"
+    },
+    {
+      "id": "not_recorded_values_in_lakh_",
+      "name": "Not Recorded (Values in Lakh)",
+      "type": "double"
+    }
+  ],
+  "target_bucket": {
+    "index": "api",
+    "type": "1445e8bc-cbf4-4cfd-8f14-1d737ee958ab",
+    "field": "4c5b41b2-ee08-4eb4-804f-b5c413bd74ea"
+  },
+  "external_ws_url": "",
+  "external_ws": "0",
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 36,
+  "count": 36,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "__sl_no_": 1,
+      "state_name": "Jammu and Kashmir",
+      "female_values_in_lakh_": 0.21,
+      "male_values_in_lakh_": 1.95,
+      "total_values_in_lakh_": "2.17",
+      "sc_values_in_lakh_": 0.12,
+      "st_values_in_lakh_": 0.22,
+      "obc_values_in_lakh_": 0.6,
+      "others_values_in_lakh_": 1.23,
+      "not_recorded_values_in_lakh_": 0
+    },
+    {
+      "__sl_no_": 2,
+      "state_name": "Himachal Pradesh",
+      "female_values_in_lakh_": 0.16,
+      "male_values_in_lakh_": 2.11,
+      "total_values_in_lakh_": "2.27",
+      "sc_values_in_lakh_": 0.94,
+      "st_values_in_lakh_": 0.12,
+      "obc_values_in_lakh_": 0.25,
+      "others_values_in_lakh_": 0.96,
+      "not_recorded_values_in_lakh_": 0
+    },
+    {
+      "__sl_no_": 3,
+      "state_name": "Punjab",
+      "female_values_in_lakh_": 1.06,
+      "male_values_in_lakh_": 13.1,
+      "total_values_in_lakh_": "14.16",
+      "sc_values_in_lakh_": 2.46,
+      "st_values_in_lakh_": 0.21,
+      "obc_values_in_lakh_": 6.31,
+      "others_values_in_lakh_": 5.17,
+      "not_recorded_values_in_lakh_": 0
+    },
+    {
+      "__sl_no_": 4,
+      "state_name": "Chandigarh",
+      "female_values_in_lakh_": 0.07,
+      "male_values_in_lakh_": 0.51,
+      "total_values_in_lakh_": "0.58",
+      "sc_values_in_lakh_": 0,
+      "st_values_in_lakh_": 0,
+      "obc_values_in_lakh_": 0,
+      "others_values_in_lakh_": 0,
+      "not_recorded_values_in_lakh_": 0.58
+    },
+    {
+      "__sl_no_": 5,
+      "state_name": "Uttarakhand",
+      "female_values_in_lakh_": 0.29,
+      "male_values_in_lakh_": 3.33,
+      "total_values_in_lakh_": "3.62",
+      "sc_values_in_lakh_": 0.71,
+      "st_values_in_lakh_": 0.13,
+      "obc_values_in_lakh_": 0.9,
+      "others_values_in_lakh_": 1.88,
+      "not_recorded_values_in_lakh_": 0
+    },
+    {
+      "__sl_no_": 6,
+      "state_name": "Haryana",
+      "female_values_in_lakh_": 0.32,
+      "male_values_in_lakh_": 8.09,
+      "total_values_in_lakh_": "8.41",
+      "sc_values_in_lakh_": 1.08,
+      "st_values_in_lakh_": 0.07,
+      "obc_values_in_lakh_": 4.44,
+      "others_values_in_lakh_": 2.82,
+      "not_recorded_values_in_lakh_": 0
+    },
+    {
+      "__sl_no_": 7,
+      "state_name": "Delhi",
+      "female_values_in_lakh_": 1.23,
+      "male_values_in_lakh_": 4.71,
+      "total_values_in_lakh_": "5.94",
+      "sc_values_in_lakh_": 0.24,
+      "st_values_in_lakh_": 0.05,
+      "obc_values_in_lakh_": 0.96,
+      "others_values_in_lakh_": 4.69,
+      "not_recorded_values_in_lakh_": 0
+    },
+    {
+      "__sl_no_": 8,
+      "state_name": "Rajasthan",
+      "female_values_in_lakh_": 1.43,
+      "male_values_in_lakh_": 13.57,
+      "total_values_in_lakh_": "15",
+      "sc_values_in_lakh_": 2.02,
+      "st_values_in_lakh_": 0.99,
+      "obc_values_in_lakh_": 7.93,
+      "others_values_in_lakh_": 4.06,
+      "not_recorded_values_in_lakh_": 0
+    },
+    {
+      "__sl_no_": 9,
+      "state_name": "Uttar Pradesh",
+      "female_values_in_lakh_": 3.08,
+      "male_values_in_lakh_": 48.68,
+      "total_values_in_lakh_": "51.76",
+      "sc_values_in_lakh_": 7.15,
+      "st_values_in_lakh_": 0.3,
+      "obc_values_in_lakh_": 28.4,
+      "others_values_in_lakh_": 15.91,
+      "not_recorded_values_in_lakh_": 0
+    },
+    {
+      "__sl_no_": 10,
+      "state_name": "Bihar",
+      "female_values_in_lakh_": 1.45,
+      "male_values_in_lakh_": 14.52,
+      "total_values_in_lakh_": "15.97",
+      "sc_values_in_lakh_": 2.46,
+      "st_values_in_lakh_": 0.66,
+      "obc_values_in_lakh_": 10.05,
+      "others_values_in_lakh_": 2.81,
+      "not_recorded_values_in_lakh_": 0
+    },
+    {
+      "__sl_no_": 11,
+      "state_name": "Sikkim",
+      "female_values_in_lakh_": 0.18,
+      "male_values_in_lakh_": 0.37,
+      "total_values_in_lakh_": "0.56",
+      "sc_values_in_lakh_": 0,
+      "st_values_in_lakh_": 0,
+      "obc_values_in_lakh_": 0,
+      "others_values_in_lakh_": 0.01,
+      "not_recorded_values_in_lakh_": 0.55
+    },
+    {
+      "__sl_no_": 12,
+      "state_name": "Arunachal Pradesh",
+      "female_values_in_lakh_": 0.22,
+      "male_values_in_lakh_": 0.6,
+      "total_values_in_lakh_": "0.82",
+      "sc_values_in_lakh_": 0.02,
+      "st_values_in_lakh_": 0.61,
+      "obc_values_in_lakh_": 0.04,
+      "others_values_in_lakh_": 0.15,
+      "not_recorded_values_in_lakh_": 0
+    },
+    {
+      "__sl_no_": 13,
+      "state_name": "Nagaland",
+      "female_values_in_lakh_": 0.26,
+      "male_values_in_lakh_": 0.75,
+      "total_values_in_lakh_": "1",
+      "sc_values_in_lakh_": 0.01,
+      "st_values_in_lakh_": 0.92,
+      "obc_values_in_lakh_": 0.01,
+      "others_values_in_lakh_": 0.07,
+      "not_recorded_values_in_lakh_": 0
+    },
+    {
+      "__sl_no_": 14,
+      "state_name": "Manipur",
+      "female_values_in_lakh_": 0.41,
+      "male_values_in_lakh_": 0.97,
+      "total_values_in_lakh_": "1.38",
+      "sc_values_in_lakh_": 0,
+      "st_values_in_lakh_": 0,
+      "obc_values_in_lakh_": 0.06,
+      "others_values_in_lakh_": 0.38,
+      "not_recorded_values_in_lakh_": 0.94
+    },
+    {
+      "__sl_no_": 15,
+      "state_name": "Mizoram",
+      "female_values_in_lakh_": 0.07,
+      "male_values_in_lakh_": 0.22,
+      "total_values_in_lakh_": "0.3",
+      "sc_values_in_lakh_": 0,
+      "st_values_in_lakh_": 0.23,
+      "obc_values_in_lakh_": 0,
+      "others_values_in_lakh_": 0,
+      "not_recorded_values_in_lakh_": 0.07
+    },
+    {
+      "__sl_no_": 16,
+      "state_name": "Tripura",
+      "female_values_in_lakh_": 0.1,
+      "male_values_in_lakh_": 0.43,
+      "total_values_in_lakh_": "0.53",
+      "sc_values_in_lakh_": 0.09,
+      "st_values_in_lakh_": 0.05,
+      "obc_values_in_lakh_": 0.15,
+      "others_values_in_lakh_": 0.24,
+      "not_recorded_values_in_lakh_": 0
+    },
+    {
+      "__sl_no_": 17,
+      "state_name": "Meghalaya",
+      "female_values_in_lakh_": 0.23,
+      "male_values_in_lakh_": 0.82,
+      "total_values_in_lakh_": "1.04",
+      "sc_values_in_lakh_": 0.01,
+      "st_values_in_lakh_": 0.89,
+      "obc_values_in_lakh_": 0.02,
+      "others_values_in_lakh_": 0.12,
+      "not_recorded_values_in_lakh_": 0
+    },
+    {
+      "__sl_no_": 18,
+      "state_name": "Assam",
+      "female_values_in_lakh_": 0.66,
+      "male_values_in_lakh_": 3.82,
+      "total_values_in_lakh_": "4.48",
+      "sc_values_in_lakh_": 0.42,
+      "st_values_in_lakh_": 0.58,
+      "obc_values_in_lakh_": 1.16,
+      "others_values_in_lakh_": 2.32,
+      "not_recorded_values_in_lakh_": 0
+    },
+    {
+      "__sl_no_": 19,
+      "state_name": "West Bengal",
+      "female_values_in_lakh_": 7.72,
+      "male_values_in_lakh_": 47.22,
+      "total_values_in_lakh_": "54.93",
+      "sc_values_in_lakh_": 9.86,
+      "st_values_in_lakh_": 1.62,
+      "obc_values_in_lakh_": 9.84,
+      "others_values_in_lakh_": 33.61,
+      "not_recorded_values_in_lakh_": 0
+    },
+    {
+      "__sl_no_": 20,
+      "state_name": "Jharkhand",
+      "female_values_in_lakh_": 0.61,
+      "male_values_in_lakh_": 7.63,
+      "total_values_in_lakh_": "8.24",
+      "sc_values_in_lakh_": 0.38,
+      "st_values_in_lakh_": 1.5,
+      "obc_values_in_lakh_": 4.41,
+      "others_values_in_lakh_": 1.96,
+      "not_recorded_values_in_lakh_": 0
+    },
+    {
+      "__sl_no_": 21,
+      "state_name": "Orissa",
+      "female_values_in_lakh_": 4.58,
+      "male_values_in_lakh_": 17.36,
+      "total_values_in_lakh_": "21.94",
+      "sc_values_in_lakh_": 2.38,
+      "st_values_in_lakh_": 4.17,
+      "obc_values_in_lakh_": 9.36,
+      "others_values_in_lakh_": 6.03,
+      "not_recorded_values_in_lakh_": 0
+    },
+    {
+      "__sl_no_": 22,
+      "state_name": "Chhattisgarh",
+      "female_values_in_lakh_": 0.43,
+      "male_values_in_lakh_": 4.25,
+      "total_values_in_lakh_": "4.68",
+      "sc_values_in_lakh_": 0.68,
+      "st_values_in_lakh_": 0.91,
+      "obc_values_in_lakh_": 2.17,
+      "others_values_in_lakh_": 0.92,
+      "not_recorded_values_in_lakh_": 0
+    },
+    {
+      "__sl_no_": 23,
+      "state_name": "Madhya Pradesh",
+      "female_values_in_lakh_": 1.97,
+      "male_values_in_lakh_": 15.34,
+      "total_values_in_lakh_": "17.32",
+      "sc_values_in_lakh_": 2.21,
+      "st_values_in_lakh_": 1.43,
+      "obc_values_in_lakh_": 9.43,
+      "others_values_in_lakh_": 4.24,
+      "not_recorded_values_in_lakh_": 0
+    },
+    {
+      "__sl_no_": 24,
+      "state_name": "Gujarat",
+      "female_values_in_lakh_": 1.06,
+      "male_values_in_lakh_": 20.91,
+      "total_values_in_lakh_": "21.97",
+      "sc_values_in_lakh_": 3.59,
+      "st_values_in_lakh_": 1.19,
+      "obc_values_in_lakh_": 7.39,
+      "others_values_in_lakh_": 9.8,
+      "not_recorded_values_in_lakh_": 0
+    },
+    {
+      "__sl_no_": 25,
+      "state_name": "Daman & Diu",
+      "female_values_in_lakh_": 0,
+      "male_values_in_lakh_": 0.03,
+      "total_values_in_lakh_": "0.03",
+      "sc_values_in_lakh_": 0,
+      "st_values_in_lakh_": 0,
+      "obc_values_in_lakh_": 0,
+      "others_values_in_lakh_": 0.02,
+      "not_recorded_values_in_lakh_": 0
+    },
+    {
+      "__sl_no_": 26,
+      "state_name": "Dadar and Nagar Haveli",
+      "female_values_in_lakh_": 0.01,
+      "male_values_in_lakh_": 0.06,
+      "total_values_in_lakh_": "0.07",
+      "sc_values_in_lakh_": 0,
+      "st_values_in_lakh_": 0,
+      "obc_values_in_lakh_": 0,
+      "others_values_in_lakh_": 0.07,
+      "not_recorded_values_in_lakh_": 0
+    },
+    {
+      "__sl_no_": 27,
+      "state_name": "Maharashtra",
+      "female_values_in_lakh_": 1.77,
+      "male_values_in_lakh_": 22.95,
+      "total_values_in_lakh_": "24.72",
+      "sc_values_in_lakh_": 1.23,
+      "st_values_in_lakh_": 0.54,
+      "obc_values_in_lakh_": 9.65,
+      "others_values_in_lakh_": 13.3,
+      "not_recorded_values_in_lakh_": 0
+    },
+    {
+      "__sl_no_": 28,
+      "state_name": "Andhra Pradesh",
+      "female_values_in_lakh_": 5.27,
+      "male_values_in_lakh_": 29.88,
+      "total_values_in_lakh_": "35.15",
+      "sc_values_in_lakh_": 2.71,
+      "st_values_in_lakh_": 0.71,
+      "obc_values_in_lakh_": 21.97,
+      "others_values_in_lakh_": 9.76,
+      "not_recorded_values_in_lakh_": 0
+    },
+    {
+      "__sl_no_": 29,
+      "state_name": "Karnataka",
+      "female_values_in_lakh_": 4.17,
+      "male_values_in_lakh_": 18.41,
+      "total_values_in_lakh_": "22.58",
+      "sc_values_in_lakh_": 1.21,
+      "st_values_in_lakh_": 0.79,
+      "obc_values_in_lakh_": 14.46,
+      "others_values_in_lakh_": 6.12,
+      "not_recorded_values_in_lakh_": 0
+    },
+    {
+      "__sl_no_": 30,
+      "state_name": "Goa",
+      "female_values_in_lakh_": 0.1,
+      "male_values_in_lakh_": 0.76,
+      "total_values_in_lakh_": "0.87",
+      "sc_values_in_lakh_": 0,
+      "st_values_in_lakh_": 0,
+      "obc_values_in_lakh_": 0.08,
+      "others_values_in_lakh_": 0.78,
+      "not_recorded_values_in_lakh_": 0
+    },
+    {
+      "__sl_no_": 31,
+      "state_name": "Lakshadweep",
+      "female_values_in_lakh_": 0.03,
+      "male_values_in_lakh_": 0.02,
+      "total_values_in_lakh_": "0.05",
+      "sc_values_in_lakh_": 0,
+      "st_values_in_lakh_": 0,
+      "obc_values_in_lakh_": 0,
+      "others_values_in_lakh_": 0,
+      "not_recorded_values_in_lakh_": 0.05
+    },
+    {
+      "__sl_no_": 32,
+      "state_name": "Kerala",
+      "female_values_in_lakh_": 6.24,
+      "male_values_in_lakh_": 20.75,
+      "total_values_in_lakh_": "26.98",
+      "sc_values_in_lakh_": 1.18,
+      "st_values_in_lakh_": 0.25,
+      "obc_values_in_lakh_": 16.27,
+      "others_values_in_lakh_": 9.29,
+      "not_recorded_values_in_lakh_": 0
+    },
+    {
+      "__sl_no_": 33,
+      "state_name": "Tamil Nadu",
+      "female_values_in_lakh_": 7.77,
+      "male_values_in_lakh_": 31.13,
+      "total_values_in_lakh_": "38.89",
+      "sc_values_in_lakh_": 5.33,
+      "st_values_in_lakh_": 0.32,
+      "obc_values_in_lakh_": 27.68,
+      "others_values_in_lakh_": 5.56,
+      "not_recorded_values_in_lakh_": 0
+    },
+    {
+      "__sl_no_": 34,
+      "state_name": "Puducherry",
+      "female_values_in_lakh_": 0.07,
+      "male_values_in_lakh_": 0.18,
+      "total_values_in_lakh_": "0.25",
+      "sc_values_in_lakh_": 0.01,
+      "st_values_in_lakh_": 0,
+      "obc_values_in_lakh_": 0.14,
+      "others_values_in_lakh_": 0.09,
+      "not_recorded_values_in_lakh_": 0
+    },
+    {
+      "__sl_no_": 35,
+      "state_name": "Andaman and Nicobar Islands",
+      "female_values_in_lakh_": 0.02,
+      "male_values_in_lakh_": 0.16,
+      "total_values_in_lakh_": "0.18",
+      "sc_values_in_lakh_": 0.01,
+      "st_values_in_lakh_": 0.05,
+      "obc_values_in_lakh_": 0.02,
+      "others_values_in_lakh_": 0.09,
+      "not_recorded_values_in_lakh_": 0
+    },
+    {
+      "__sl_no_": "NA",
+      "state_name": "All India",
+      "female_values_in_lakh_": 53.24,
+      "male_values_in_lakh_": 355.6,
+      "total_values_in_lakh_": "408.84",
+      "sc_values_in_lakh_": 48.5,
+      "st_values_in_lakh_": 19.54,
+      "obc_values_in_lakh_": 194.17,
+      "others_values_in_lakh_": 144.44,
+      "not_recorded_values_in_lakh_": 2.18
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "index_name": "3d9192e2-f608-4bad-a5d3-b7dcee256992",
+  "title": "Monthly Department-wise public grievance receipts and disposals from January 2016 to Octorber 2019",
+  "desc": "Monthly Department-wise public grievance receipts and disposals from January 2016 to Octorber 2019",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Personnel, Public Grievances and Pensions",
+    "Department of Administrative Reforms and Public Grievances (DARPG)"
+  ],
+  "sector": [
+    "Governance and Administration",
+    "Grievances"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "9891bb4a-7f02-444a-b6bc-2691589d9a64",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1695101262,
+  "updated": 1695101262,
+  "created_date": "2023-09-19T07:27:42Z",
+  "updated_date": "2023-09-19T07:27:42Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "854e5a1f-a4e3-4177-8586-2bcc27b74552",
+    "field": "9891bb4a-7f02-444a-b6bc-2691589d9a64"
+  },
+  "field": [],
+  "message": "Resource id doesn't exist.",
+  "version": "2.2.0",
+  "status": "error",
+  "total": 0,
+  "count": 0,
+  "limit": "999",
+  "offset": "0",
+  "records": []
+}

@@ -1,0 +1,1890 @@
+{
+  "index_name": "06d1c774-4b82-42a2-ade3-4e8a90f1ec08",
+  "title": "CMA Regional Offices and Urban Local Bodies (ULBs) Address Details",
+  "desc": "CMA Regional Offices and Urban Local Bodies (ULBs) Address Details",
+  "org_type": "State",
+  "org": [
+    "Tamil Nadu",
+    "Municipal Administration and Water Supply Department",
+    "Commissionerate of Municipal Administration (CMA)"
+  ],
+  "sector": [
+    "Governance and Administration"
+  ],
+  "source": "tn.data.gov.in",
+  "catalog_uuid": "53631d8d-15ba-4798-ac35-fa5dcf84d516",
+  "visualizable": "0",
+  "active": "1",
+  "created": 1756619407,
+  "updated": 1756619407,
+  "created_date": "2025-08-31T07:50:07Z",
+  "updated_date": "2025-08-31T07:50:07Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "53631d8d-15ba-4798-ac35-fa5dcf84d516",
+    "field": "06d1c774-4b82-42a2-ade3-4e8a90f1ec08"
+  },
+  "field": [
+    {
+      "id": "sl_no",
+      "name": "Sl.No",
+      "type": "double"
+    },
+    {
+      "id": "name_of_the_regional_office",
+      "name": "Name of the Regional Office",
+      "type": "keyword"
+    },
+    {
+      "id": "name_of_the_ulb_rdma",
+      "name": "Name of the ULB/RDMA",
+      "type": "keyword"
+    },
+    {
+      "id": "address",
+      "name": "Address",
+      "type": "keyword"
+    },
+    {
+      "id": "telephone_no__with_std_code",
+      "name": "Telephone No. with STD code",
+      "type": "keyword"
+    },
+    {
+      "id": "fax_number_",
+      "name": "Fax Number ",
+      "type": "keyword"
+    },
+    {
+      "id": "email_id",
+      "name": "Email id",
+      "type": "keyword"
+    },
+    {
+      "id": "no_of_wards",
+      "name": "No.of Wards",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 181,
+  "count": 181,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "sl_no": 1,
+      "name_of_the_regional_office": "Chengalpattu",
+      "name_of_the_ulb_rdma": "RDMA office",
+      "address": "No.124.GST Road,Chengalpattu",
+      "telephone_no__with_std_code": "044-27424192",
+      "fax_number_": "044-27424192",
+      "email_id": "rdma.chengalpet@tn.gov.in",
+      "no_of_wards": "NA"
+    },
+    {
+      "sl_no": 2,
+      "name_of_the_regional_office": "Chengalpattu",
+      "name_of_the_ulb_rdma": "Chengalpattu",
+      "address": "GST Road,Chengalpattu",
+      "telephone_no__with_std_code": "044-27422251",
+      "fax_number_": "044-27422251",
+      "email_id": "commr.chengalpattu@tn.gov.in",
+      "no_of_wards": 33
+    },
+    {
+      "sl_no": 3,
+      "name_of_the_regional_office": "Chengalpattu",
+      "name_of_the_ulb_rdma": "Kancheepuram",
+      "address": "Annai Indra Gandhi Salai, Kancheepuram",
+      "telephone_no__with_std_code": "044-27422251",
+      "fax_number_": "044-27422251",
+      "email_id": "commr.kancheepuram@tn.gov.in",
+      "no_of_wards": 51
+    },
+    {
+      "sl_no": 4,
+      "name_of_the_regional_office": "Chengalpattu",
+      "name_of_the_ulb_rdma": "Madurantakam",
+      "address": "GST Road, Madurantakam",
+      "telephone_no__with_std_code": "044-27222801",
+      "fax_number_": "044-27222801",
+      "email_id": "commr.madhuranthagam@tn.gov.in",
+      "no_of_wards": 24
+    },
+    {
+      "sl_no": 5,
+      "name_of_the_regional_office": "Chengalpattu",
+      "name_of_the_ulb_rdma": "Pallavapuram",
+      "address": "No.6, 6th Cross Street, New Colony, Chromepet, Chennai",
+      "telephone_no__with_std_code": "044-22416909",
+      "fax_number_": "044-2241700",
+      "email_id": "commr.pallavapuram@tn.gov.in",
+      "no_of_wards": 42
+    },
+    {
+      "sl_no": 6,
+      "name_of_the_regional_office": "Chengalpattu",
+      "name_of_the_ulb_rdma": "Tambaram",
+      "address": "10,Muthurangam  Street,Tambaram,Chennai",
+      "telephone_no__with_std_code": "044-22264790",
+      "fax_number_": "044-2221700",
+      "email_id": "commr.tambaram@tn.gov.in",
+      "no_of_wards": 39
+    },
+    {
+      "sl_no": 7,
+      "name_of_the_regional_office": "Chengalpattu",
+      "name_of_the_ulb_rdma": "Anakaputhur",
+      "address": "10,Muthurangam  Street,Tambaram,Chennai",
+      "telephone_no__with_std_code": "044-22480953",
+      "fax_number_": "044-2241700",
+      "email_id": "commr.anakaputhur@tn.gov.in",
+      "no_of_wards": 18
+    },
+    {
+      "sl_no": 8,
+      "name_of_the_regional_office": "Chengalpattu",
+      "name_of_the_ulb_rdma": "Pammal",
+      "address": "Dr.Ambedkar Salai (Pozhichalur Salai), Pammal",
+      "telephone_no__with_std_code": "044-22483110",
+      "fax_number_": "044-22483110",
+      "email_id": "commr.pammal@tn.gov.in",
+      "no_of_wards": 21
+    },
+    {
+      "sl_no": 9,
+      "name_of_the_regional_office": "Chengalpattu",
+      "name_of_the_ulb_rdma": "Mariamalai Nagar",
+      "address": "Maraimalai Adigalar Road, Maraimalainagar",
+      "telephone_no__with_std_code": "044-27452297",
+      "fax_number_": "044-27452297",
+      "email_id": "commr.maraimalainagar@tn.gov.in",
+      "no_of_wards": 21
+    },
+    {
+      "sl_no": 10,
+      "name_of_the_regional_office": "Chengalpattu",
+      "name_of_the_ulb_rdma": "Avadi",
+      "address": "154,MNM Road, Avadi,Chennai",
+      "telephone_no__with_std_code": "044-26553980",
+      "fax_number_": "044-2651700",
+      "email_id": "commr.avadi@tn.gov.in",
+      "no_of_wards": 48
+    },
+    {
+      "sl_no": 11,
+      "name_of_the_regional_office": "Chengalpattu",
+      "name_of_the_ulb_rdma": "Tiruvallur",
+      "address": "56,J.N.Road, Tiruvallur",
+      "telephone_no__with_std_code": "044-27660226",
+      "fax_number_": "044-27660226",
+      "email_id": "commr.tiruvallur@tn.gov.in",
+      "no_of_wards": 48
+    },
+    {
+      "sl_no": 12,
+      "name_of_the_regional_office": "Chengalpattu",
+      "name_of_the_ulb_rdma": "Poonamallee",
+      "address": "Trunk Road, Kandasamy Nagar, Poonamallee",
+      "telephone_no__with_std_code": "044-26491611",
+      "fax_number_": "044-26491611",
+      "email_id": "commr.poonamalleer@tn.gov.in",
+      "no_of_wards": 27
+    },
+    {
+      "sl_no": 13,
+      "name_of_the_regional_office": "Chengalpattu",
+      "name_of_the_ulb_rdma": "Thiruverkadu",
+      "address": "Sivan Koil street,Thiruverkadu,Chennai",
+      "telephone_no__with_std_code": "044-26800437",
+      "fax_number_": "044-26800437",
+      "email_id": "commr.thiruverkadu@tn.gov.in",
+      "no_of_wards": 21
+    },
+    {
+      "sl_no": 14,
+      "name_of_the_regional_office": "Chengalpattu",
+      "name_of_the_ulb_rdma": "Thiruthani",
+      "address": "78,M.P.S. Road, Tiruthani",
+      "telephone_no__with_std_code": "044-27885258",
+      "fax_number_": "044-27885258",
+      "email_id": "commr.thiruthani@tn.gov.in",
+      "no_of_wards": 21
+    },
+    {
+      "sl_no": 15,
+      "name_of_the_regional_office": "Chengalpattu",
+      "name_of_the_ulb_rdma": "Chidambaram",
+      "address": "2,Cutchery Road, Chidambaram",
+      "telephone_no__with_std_code": "04142-230021",
+      "fax_number_": "04142-230021",
+      "email_id": "commr.cuddalore@tn.gov.in",
+      "no_of_wards": 33
+    },
+    {
+      "sl_no": 16,
+      "name_of_the_regional_office": "Chengalpattu",
+      "name_of_the_ulb_rdma": "Cuddaloare",
+      "address": "Bharathi Road, Manjakuppam, Cuddalore",
+      "telephone_no__with_std_code": "04144-222231",
+      "fax_number_": "04144-222231",
+      "email_id": "commr.chidambaram@tn.gov.in",
+      "no_of_wards": 45
+    },
+    {
+      "sl_no": 17,
+      "name_of_the_regional_office": "Chengalpattu",
+      "name_of_the_ulb_rdma": "Panruti",
+      "address": "Diversion Road, Panruti",
+      "telephone_no__with_std_code": "04142-242110",
+      "fax_number_": "04142-242110",
+      "email_id": "commr.panruti@tn.gov.in",
+      "no_of_wards": 33
+    },
+    {
+      "sl_no": 18,
+      "name_of_the_regional_office": "Chengalpattu",
+      "name_of_the_ulb_rdma": "Nellikuppam",
+      "address": "439,Main Road, Nellikuppam",
+      "telephone_no__with_std_code": "04142-272249",
+      "fax_number_": "04142-272249",
+      "email_id": "commr.nellikuppam@tn.gov.in",
+      "no_of_wards": 33
+    },
+    {
+      "sl_no": 19,
+      "name_of_the_regional_office": "Chengalpattu",
+      "name_of_the_ulb_rdma": "Virudhachalam",
+      "address": "31,Ayyanar Koil Street, Virudhachalam",
+      "telephone_no__with_std_code": "04143-230240",
+      "fax_number_": "04143-230240",
+      "email_id": "commr.virudhachalam@tn.gov.in",
+      "no_of_wards": 33
+    },
+    {
+      "sl_no": 20,
+      "name_of_the_regional_office": "Chengalpattu",
+      "name_of_the_ulb_rdma": "Sembakkam",
+      "address": "1,Kalaivani Street,       Kamarajapuram,Sembakkam",
+      "telephone_no__with_std_code": "044-22282115",
+      "fax_number_": "NA",
+      "email_id": "commr.sembakkam@tn.gov.in",
+      "no_of_wards": 15
+    },
+    {
+      "sl_no": 21,
+      "name_of_the_regional_office": "Madurai",
+      "name_of_the_ulb_rdma": "RDMA",
+      "address": "3rd Floor  Aringar  Anna Maligai, Madurai  Corporation  Building, Madurai -625002",
+      "telephone_no__with_std_code": "0452-2539821",
+      "fax_number_": "NA",
+      "email_id": "rdma.madurai@tn.gov.in",
+      "no_of_wards": "NA"
+    },
+    {
+      "sl_no": 22,
+      "name_of_the_regional_office": "Madurai",
+      "name_of_the_ulb_rdma": "Theni-Allinagaram",
+      "address": "Theni-Allinagaram  Municipal  Office,Nehruji Road, Theni Allinagaram - 625 531.",
+      "telephone_no__with_std_code": "04546-252470",
+      "fax_number_": "NA",
+      "email_id": "commr.theni@tn.gov.in",
+      "no_of_wards": 33
+    },
+    {
+      "sl_no": 23,
+      "name_of_the_regional_office": "Madurai",
+      "name_of_the_ulb_rdma": "Bodinaykanur",
+      "address": "Bodinayakanur  Municipal  Office,25-Kamarajapandian Road, Bodinayakanur - 625 513.",
+      "telephone_no__with_std_code": "04546-280228",
+      "fax_number_": "NA",
+      "email_id": "commr.bodi@tn.gov.in",
+      "no_of_wards": 33
+    },
+    {
+      "sl_no": 24,
+      "name_of_the_regional_office": "Madurai",
+      "name_of_the_ulb_rdma": "Cumbum",
+      "address": "Cumbum  Municipal  Office46/31, Sukkankal Road, Cumbum - 625 516.",
+      "telephone_no__with_std_code": "04554-271283",
+      "fax_number_": "NA",
+      "email_id": "commr.cumbum@tn.gov.in",
+      "no_of_wards": 33
+    },
+    {
+      "sl_no": 25,
+      "name_of_the_regional_office": "Madurai",
+      "name_of_the_ulb_rdma": "Chinnamanur",
+      "address": "Chinnamanur  Municipal  Office,Cumbum Road, Chinnamanur - 625 515.",
+      "telephone_no__with_std_code": "04554-247383",
+      "fax_number_": "NA",
+      "email_id": "commr.chinnamanur@tn.gov.in",
+      "no_of_wards": 27
+    },
+    {
+      "sl_no": 26,
+      "name_of_the_regional_office": "Madurai",
+      "name_of_the_ulb_rdma": "Periyakulam",
+      "address": "Periyakulam Municipal Office, Katcheri Road, ThenkaraiPeriyakulam - 625 601.",
+      "telephone_no__with_std_code": "04546-231210",
+      "fax_number_": "NA",
+      "email_id": "commr.periyakulam@tn.gov.in",
+      "no_of_wards": 30
+    },
+    {
+      "sl_no": 27,
+      "name_of_the_regional_office": "Madurai",
+      "name_of_the_ulb_rdma": "Gudalur",
+      "address": "Gudalur Municipal Office, Gudalur - 625 518.",
+      "telephone_no__with_std_code": "04554-231236",
+      "fax_number_": "NA",
+      "email_id": "commr.gudalur-mdu@tn.gov.in",
+      "no_of_wards": "NA"
+    },
+    {
+      "sl_no": 28,
+      "name_of_the_regional_office": "Madurai",
+      "name_of_the_ulb_rdma": "Tirumangalam",
+      "address": "Thirumangalam  Municipal  Office, Madurai Road, Madurai-625 706",
+      "telephone_no__with_std_code": "04549-280757",
+      "fax_number_": "NA",
+      "email_id": "commr.tirumangalam@tn.gov.in",
+      "no_of_wards": 27
+    },
+    {
+      "sl_no": 29,
+      "name_of_the_regional_office": "Madurai",
+      "name_of_the_ulb_rdma": "Melur",
+      "address": "Melur Municipal Office, Thiruvathavoor Road, Melur - 625 106.",
+      "telephone_no__with_std_code": "0452-2415239",
+      "fax_number_": "NA",
+      "email_id": "commr.melur@tn.gov.in",
+      "no_of_wards": 27
+    },
+    {
+      "sl_no": 30,
+      "name_of_the_regional_office": "Madurai",
+      "name_of_the_ulb_rdma": "Usilampatti",
+      "address": "Usilampatti  Municipal  Office, DEO Office Road, Usilampatti - 625 532.",
+      "telephone_no__with_std_code": "04552-252384",
+      "fax_number_": "NA",
+      "email_id": "commr.usilampatti@tn.gov.in",
+      "no_of_wards": 24
+    },
+    {
+      "sl_no": 31,
+      "name_of_the_regional_office": "Madurai",
+      "name_of_the_ulb_rdma": "Sivagangai",
+      "address": "Sivagangai  Municipal OfficeThondi Road, Sivagangai - 630 561.",
+      "telephone_no__with_std_code": "04575-241253",
+      "fax_number_": "NA",
+      "email_id": "commr.sivagangai@tn.gov.in",
+      "no_of_wards": 27
+    },
+    {
+      "sl_no": 32,
+      "name_of_the_regional_office": "Madurai",
+      "name_of_the_ulb_rdma": "Karaikudi",
+      "address": "Karaikudi  Municipal  Office,100 Feet Road, Karaikudi - 630 001.",
+      "telephone_no__with_std_code": "04565-238201",
+      "fax_number_": "NA",
+      "email_id": "commr.karaikudi@tn.gov.in",
+      "no_of_wards": 36
+    },
+    {
+      "sl_no": 33,
+      "name_of_the_regional_office": "Madurai",
+      "name_of_the_ulb_rdma": "Devakottai",
+      "address": "Devakottai Municipal Office, Thiruppathur Road, Devekottai - 630 302.",
+      "telephone_no__with_std_code": "04561-272232",
+      "fax_number_": "NA",
+      "email_id": "commr.devakkottai@tn.gov.in",
+      "no_of_wards": 27
+    },
+    {
+      "sl_no": 34,
+      "name_of_the_regional_office": "Madurai",
+      "name_of_the_ulb_rdma": "Ramanathapuram",
+      "address": "Ramanathapuram Municipal Office,Vandikara Street, Ramanathapuram - 623 501.",
+      "telephone_no__with_std_code": "04567-220445",
+      "fax_number_": "NA",
+      "email_id": "commr.ramanathapuram@tn.gov.in",
+      "no_of_wards": 33
+    },
+    {
+      "sl_no": 35,
+      "name_of_the_regional_office": "Madurai",
+      "name_of_the_ulb_rdma": "Paramakudi",
+      "address": "Paramakudi  Municipal  Office,4/311, Gandhiji Road, Paramakudi - 623 707.",
+      "telephone_no__with_std_code": "04564-226742",
+      "fax_number_": "NA",
+      "email_id": "commr.paramakudi@tn.gov.in",
+      "no_of_wards": 36
+    },
+    {
+      "sl_no": 36,
+      "name_of_the_regional_office": "Madurai",
+      "name_of_the_ulb_rdma": "Rameswaram",
+      "address": "Rameswaram Municipal Office, Rameswaram - 623 526.",
+      "telephone_no__with_std_code": "04573-221264",
+      "fax_number_": "NA",
+      "email_id": "commr.rameswaram@tn.gov.in",
+      "no_of_wards": 21
+    },
+    {
+      "sl_no": 37,
+      "name_of_the_regional_office": "Madurai",
+      "name_of_the_ulb_rdma": "Keelakarai",
+      "address": "Keelakarai Municipal Office, V.S.Salai,  Keelakarai - 623 517.",
+      "telephone_no__with_std_code": "04567-241317",
+      "fax_number_": "NA",
+      "email_id": "commr.keelakarai@tn.gov.in",
+      "no_of_wards": 21
+    },
+    {
+      "sl_no": 38,
+      "name_of_the_regional_office": "Madurai",
+      "name_of_the_ulb_rdma": "Kodaikanal",
+      "address": "Kodaikanal Municipal Office, Lake Road, Kodaikanal - 624 101.",
+      "telephone_no__with_std_code": "04542-241253",
+      "fax_number_": "NA",
+      "email_id": "commr.kodaikanal@tn.gov.in",
+      "no_of_wards": 24
+    },
+    {
+      "sl_no": 39,
+      "name_of_the_regional_office": "Madurai",
+      "name_of_the_ulb_rdma": "Palani",
+      "address": "Palani Municipal Office, Palani Main RoadPalani - 624 601.",
+      "telephone_no__with_std_code": "04545-242214",
+      "fax_number_": "NA",
+      "email_id": "commr.palani@tn.gov.in",
+      "no_of_wards": 33
+    },
+    {
+      "sl_no": 40,
+      "name_of_the_regional_office": "Madurai",
+      "name_of_the_ulb_rdma": "Oddanchatram",
+      "address": "Oddanchatram  Municipal  Office.Palani Road, Oddanchatram - 624 619.",
+      "telephone_no__with_std_code": "04553-240255",
+      "fax_number_": "NA",
+      "email_id": "commr.oddanchatram@tn.gov.in",
+      "no_of_wards": 18
+    },
+    {
+      "sl_no": 41,
+      "name_of_the_regional_office": "Salem",
+      "name_of_the_ulb_rdma": "RDMA office, Salem",
+      "address": "NA",
+      "telephone_no__with_std_code": "0427-2413536",
+      "fax_number_": "NA",
+      "email_id": "rdma.salem@tn.gov.in",
+      "no_of_wards": "NA"
+    },
+    {
+      "sl_no": 42,
+      "name_of_the_regional_office": "Salem",
+      "name_of_the_ulb_rdma": "Attur",
+      "address": "634, Ranipet Bazaar Street, Attur",
+      "telephone_no__with_std_code": "04282-240773",
+      "fax_number_": "04282-240317",
+      "email_id": "commr.attur@tn.gov.in",
+      "no_of_wards": 33
+    },
+    {
+      "sl_no": 43,
+      "name_of_the_regional_office": "Salem",
+      "name_of_the_ulb_rdma": "Mettur",
+      "address": "NA",
+      "telephone_no__with_std_code": "04298-244018,             9443414443",
+      "fax_number_": "NA",
+      "email_id": "commr.mettur@tn.gov.in",
+      "no_of_wards": 30
+    },
+    {
+      "sl_no": 44,
+      "name_of_the_regional_office": "Salem",
+      "name_of_the_ulb_rdma": "Idappadi",
+      "address": "J.K.P. Road,     Idappadi-637101,     Salem District.",
+      "telephone_no__with_std_code": "04283-222201",
+      "fax_number_": "NA",
+      "email_id": "commr.idappadi@tn.gov.in",
+      "no_of_wards": 30
+    },
+    {
+      "sl_no": 45,
+      "name_of_the_regional_office": "Salem",
+      "name_of_the_ulb_rdma": "Narasingapuram",
+      "address": "121 Salem Cuddalore Main Road, Salem District",
+      "telephone_no__with_std_code": "04282-281495",
+      "fax_number_": "NA",
+      "email_id": "commr.narasingapruam@tn.gov.in",
+      "no_of_wards": 18
+    },
+    {
+      "sl_no": 46,
+      "name_of_the_regional_office": "Salem",
+      "name_of_the_ulb_rdma": "Namakkal",
+      "address": "Paramathi Road, Namakkal",
+      "telephone_no__with_std_code": "04286-221001",
+      "fax_number_": "04286-230002",
+      "email_id": "commr.namakkal@tn.gov.in",
+      "no_of_wards": 39
+    },
+    {
+      "sl_no": 47,
+      "name_of_the_regional_office": "Salem",
+      "name_of_the_ulb_rdma": "Tiruchengode",
+      "address": "Municipal Office,1, Cutchery Street,Tiruchengode - 637 211,",
+      "telephone_no__with_std_code": "4288252310",
+      "fax_number_": "04288-252360",
+      "email_id": "commr.tiruchengode@tn.gov.in",
+      "no_of_wards": 33
+    },
+    {
+      "sl_no": 48,
+      "name_of_the_regional_office": "Salem",
+      "name_of_the_ulb_rdma": "Komarapalayam",
+      "address": "Municipal OfficeKomarapalayamNamakkal Dt.",
+      "telephone_no__with_std_code": "04288-261733",
+      "fax_number_": "04288-261041",
+      "email_id": "commr.komarapalayam@tn.gov.in",
+      "no_of_wards": 33
+    },
+    {
+      "sl_no": 49,
+      "name_of_the_regional_office": "Salem",
+      "name_of_the_ulb_rdma": "Rasipuram",
+      "address": "NO. 72, Bharathidasan salai,Rasipuram - 637408, Namakkal (Dt)",
+      "telephone_no__with_std_code": "NA",
+      "fax_number_": "04287 222709",
+      "email_id": "commr.rasipuram@tn.gov.in",
+      "no_of_wards": 27
+    },
+    {
+      "sl_no": 50,
+      "name_of_the_regional_office": "Salem",
+      "name_of_the_ulb_rdma": "Pallipalayam",
+      "address": "Pallipalayam Municipality,Namakkal Dt.,Pin : 638 006",
+      "telephone_no__with_std_code": "04288- 240816 & 04288-240817",
+      "fax_number_": "NA",
+      "email_id": "commr.pallipalayam@tn.gov.in",
+      "no_of_wards": 21
+    },
+    {
+      "sl_no": 51,
+      "name_of_the_regional_office": "Salem",
+      "name_of_the_ulb_rdma": "Dharmapuri",
+      "address": "43/13, Kandasamy Vathiyar Street, Municipal Office,   Dharmapuri",
+      "telephone_no__with_std_code": "04342-260387",
+      "fax_number_": "NA",
+      "email_id": "commr.dharmapuri@tn.gov.in",
+      "no_of_wards": 33
+    },
+    {
+      "sl_no": 52,
+      "name_of_the_regional_office": "Salem",
+      "name_of_the_ulb_rdma": "Krishnagiri",
+      "address": "327 Gandhi RoadKrishnagiri.Krishnagiri District.Pin code -635 001",
+      "telephone_no__with_std_code": "94439 2264004343-232664",
+      "fax_number_": "NA",
+      "email_id": "commr.krishnagiri@tn.gov.in",
+      "no_of_wards": 33
+    },
+    {
+      "sl_no": 53,
+      "name_of_the_regional_office": "Salem",
+      "name_of_the_ulb_rdma": "Hosur",
+      "address": "No.1, Bangalore Bye Pass Road, Hosur, Krishnagiri District. Pin-635109",
+      "telephone_no__with_std_code": "04344-24224104344-24222204344-242402",
+      "fax_number_": "NA",
+      "email_id": "commr.hosur@tn.gov.in",
+      "no_of_wards": 45
+    },
+    {
+      "sl_no": 54,
+      "name_of_the_regional_office": "Salem",
+      "name_of_the_ulb_rdma": "Karur",
+      "address": "NA",
+      "telephone_no__with_std_code": "04324- 260341, 261480",
+      "fax_number_": "NA",
+      "email_id": "commr.karur@tn.gov.in",
+      "no_of_wards": 48
+    },
+    {
+      "sl_no": 55,
+      "name_of_the_regional_office": "Salem",
+      "name_of_the_ulb_rdma": "Kulithalai",
+      "address": "Old Hospital StreetKulithalai-639104Karur District",
+      "telephone_no__with_std_code": "04323-222321",
+      "fax_number_": "NA",
+      "email_id": "commr.kulithalai@tn.gov.in",
+      "no_of_wards": 24
+    },
+    {
+      "sl_no": 56,
+      "name_of_the_regional_office": "Thanjavur",
+      "name_of_the_ulb_rdma": "RDMA- Thanjavur",
+      "address": "212, Gandhiji Salai, Gandhiji Commercial Complex, Thanjavur 613 001",
+      "telephone_no__with_std_code": "04362-270364",
+      "fax_number_": "NA",
+      "email_id": "rdma.thanjavur@tn.gov.in",
+      "no_of_wards": "NA"
+    },
+    {
+      "sl_no": 57,
+      "name_of_the_regional_office": "Thanjavur",
+      "name_of_the_ulb_rdma": "Kumbakonam",
+      "address": "Dr, Murthy Road, Kumbakonam, Thanjavur (Dt) Pin 612001",
+      "telephone_no__with_std_code": "Office:              0435-2425423 Quaeters : 0435-2410 006  Cell : 9443428644",
+      "fax_number_": "0435-2425423",
+      "email_id": "commr.kumbakonam@tn.gov.in",
+      "no_of_wards": 45
+    },
+    {
+      "sl_no": 58,
+      "name_of_the_regional_office": "Thanjavur",
+      "name_of_the_ulb_rdma": "Pattukottai",
+      "address": "Kasankulam South Municipal Office, Pudukkottai",
+      "telephone_no__with_std_code": "04373-252097",
+      "fax_number_": "04373-      253758",
+      "email_id": "commr.pattukkottai@tn.gov.in",
+      "no_of_wards": 33
+    },
+    {
+      "sl_no": 59,
+      "name_of_the_regional_office": "Thanjavur",
+      "name_of_the_ulb_rdma": "Nagappattinam",
+      "address": "Public office Road, Kadampadi, Nagapattinam",
+      "telephone_no__with_std_code": "04365-248055",
+      "fax_number_": "NA",
+      "email_id": "Commr.nagapattinam@tn.gov.in",
+      "no_of_wards": 36
+    },
+    {
+      "sl_no": 60,
+      "name_of_the_regional_office": "Thanjavur",
+      "name_of_the_ulb_rdma": "Mayiladuthurai",
+      "address": "No.1.PattamangalaStreet,Municipal Office, Mayiladuthurai,Nagapattinam(DT),Tamil Nadu                        Pin-609001.",
+      "telephone_no__with_std_code": "04364-222555",
+      "fax_number_": "04364-222554",
+      "email_id": "Commr.mayiladu thurai@tn.gov.in",
+      "no_of_wards": 36
+    },
+    {
+      "sl_no": 61,
+      "name_of_the_regional_office": "Thanjavur",
+      "name_of_the_ulb_rdma": "Sirkali",
+      "address": "No.1.Kamarajar Street,Municipal Office , Sirkali, Nagapattinam(DT), Tamil Nadu,Pin-609110",
+      "telephone_no__with_std_code": "04364-270566",
+      "fax_number_": "04364-270276",
+      "email_id": "Commr.sirkazhi@tn.gov.in",
+      "no_of_wards": 24
+    },
+    {
+      "sl_no": 62,
+      "name_of_the_regional_office": "Thanjavur",
+      "name_of_the_ulb_rdma": "Vedaranyam",
+      "address": "Hospital Street, Vedaranyam , Nagapattinam Dt.",
+      "telephone_no__with_std_code": "04369-250452",
+      "fax_number_": "NA",
+      "email_id": "commr.vedaranyam@tn.gov.in",
+      "no_of_wards": 21
+    },
+    {
+      "sl_no": 63,
+      "name_of_the_regional_office": "Thanjavur",
+      "name_of_the_ulb_rdma": "Tiruvarur",
+      "address": "47, South Main Street, Tiruvarur",
+      "telephone_no__with_std_code": "04366 242590",
+      "fax_number_": "04366 242590",
+      "email_id": "commr.tiruvarur@tn.gov.in",
+      "no_of_wards": 30
+    },
+    {
+      "sl_no": 64,
+      "name_of_the_regional_office": "Thanjavur",
+      "name_of_the_ulb_rdma": "Mannargudi",
+      "address": "Opp.Govt.Hospital, Gandhi Road, Mannargudi",
+      "telephone_no__with_std_code": "04367-252263",
+      "fax_number_": "NA",
+      "email_id": "commr.mannargudi@tn.gov.in",
+      "no_of_wards": 33
+    },
+    {
+      "sl_no": 65,
+      "name_of_the_regional_office": "Thanjavur",
+      "name_of_the_ulb_rdma": "Koothanallur",
+      "address": "1 Syed Hussian Road , Koothanallur,     Tiruvarur Dt  614101",
+      "telephone_no__with_std_code": "04367-236183",
+      "fax_number_": "NA",
+      "email_id": "commr.koothanallur@tn.gov.in",
+      "no_of_wards": 24
+    },
+    {
+      "sl_no": 66,
+      "name_of_the_regional_office": "Thanjavur",
+      "name_of_the_ulb_rdma": "Thiruthuraipoondi",
+      "address": "Ramamada Street, Thiruthuraipoondi, Tiruvarur Dt.",
+      "telephone_no__with_std_code": "04369-220551",
+      "fax_number_": "NA",
+      "email_id": "commr.thiruthuraipoondi@tn.gov.in",
+      "no_of_wards": 24
+    },
+    {
+      "sl_no": 67,
+      "name_of_the_regional_office": "Thanjavur",
+      "name_of_the_ulb_rdma": "Pudhukottai",
+      "address": "South Main Street, Pudukkottai-622001",
+      "telephone_no__with_std_code": "04322-222252, 221529",
+      "fax_number_": "NA",
+      "email_id": "commr.pudukkottai@tn.gov.in",
+      "no_of_wards": 42
+    },
+    {
+      "sl_no": 68,
+      "name_of_the_regional_office": "Thanjavur",
+      "name_of_the_ulb_rdma": "Aranthangi",
+      "address": "#28, Pattukkottai Road-3, Aranthangi-614616",
+      "telephone_no__with_std_code": "04371-220556",
+      "fax_number_": "NA",
+      "email_id": "commr.aranthangi@tn.gov.in",
+      "no_of_wards": 27
+    },
+    {
+      "sl_no": 69,
+      "name_of_the_regional_office": "Thanjavur",
+      "name_of_the_ulb_rdma": "Thuraiyur",
+      "address": "Municipal Office,(Near Bus Stand),Thuraiyur-621 010,Trichy Dist.",
+      "telephone_no__with_std_code": "04327-222347",
+      "fax_number_": "NA",
+      "email_id": "commr.thuraiyur@tn.gov.in",
+      "no_of_wards": 24
+    },
+    {
+      "sl_no": 70,
+      "name_of_the_regional_office": "Thanjavur",
+      "name_of_the_ulb_rdma": "Manapparai",
+      "address": "NA",
+      "telephone_no__with_std_code": "NA",
+      "fax_number_": "NA",
+      "email_id": "commr.manapparai@tn.gov.in",
+      "no_of_wards": 27
+    },
+    {
+      "sl_no": 71,
+      "name_of_the_regional_office": "Thanjavur",
+      "name_of_the_ulb_rdma": "Thuvakkudi",
+      "address": "Thuvakudi Municipal Office, Thuvakudy, Trichy-15",
+      "telephone_no__with_std_code": "0431-2500024",
+      "fax_number_": "NA",
+      "email_id": "commr.thuvakudi@tn.gov.in",
+      "no_of_wards": 21
+    },
+    {
+      "sl_no": 72,
+      "name_of_the_regional_office": "Thanjavur",
+      "name_of_the_ulb_rdma": "Perambalur",
+      "address": "Amaravathi Thidal, Thuraiyur Main Road, Perambalur       621 212",
+      "telephone_no__with_std_code": "04328-277185",
+      "fax_number_": "NA",
+      "email_id": "commr.perambalur@tn.gov.in",
+      "no_of_wards": 21
+    },
+    {
+      "sl_no": 73,
+      "name_of_the_regional_office": "Thanjavur",
+      "name_of_the_ulb_rdma": "Ariyalur",
+      "address": "107,Market Street, Ariyalur",
+      "telephone_no__with_std_code": "04329-220988",
+      "fax_number_": "NA",
+      "email_id": "commr.ariyalur@tn.gov.in",
+      "no_of_wards": 18
+    },
+    {
+      "sl_no": 74,
+      "name_of_the_regional_office": "Thanjavur",
+      "name_of_the_ulb_rdma": "Jayakondam",
+      "address": "16, Kattara Street, Bus Stand Road, Jayankondam",
+      "telephone_no__with_std_code": "04331-250337",
+      "fax_number_": "NA",
+      "email_id": "commr.jayankondam@tn.gov.in",
+      "no_of_wards": 21
+    },
+    {
+      "sl_no": 75,
+      "name_of_the_regional_office": "Tirunelveli",
+      "name_of_the_ulb_rdma": "RDMA Office,Tirunelveli",
+      "address": "Near Palay Bus Stand, Tirunelveli -2",
+      "telephone_no__with_std_code": "0462-2561998",
+      "fax_number_": "0462-2561998",
+      "email_id": "rdma.tirunelveli@tn.gov.in",
+      "no_of_wards": "NA"
+    },
+    {
+      "sl_no": 76,
+      "name_of_the_regional_office": "Tirunelveli",
+      "name_of_the_ulb_rdma": "Tenkasi",
+      "address": "Tirunelveli Road, Anaikarai St., Tenkasi ,Tirunelveli Dt - 627811",
+      "telephone_no__with_std_code": "04633-222228",
+      "fax_number_": "04633-21700",
+      "email_id": "commr.tenkasi@tn.gov.in",
+      "no_of_wards": 33
+    },
+    {
+      "sl_no": 77,
+      "name_of_the_regional_office": "Tirunelveli",
+      "name_of_the_ulb_rdma": "Sankarankoil",
+      "address": "62/173, Balasubramanian Salai, Sankarankoil, Tirunelveli Dt    -627756",
+      "telephone_no__with_std_code": "04636-222236",
+      "fax_number_": "04636-21700",
+      "email_id": "commr.sankarankoil@tn.gov.in",
+      "no_of_wards": 30
+    },
+    {
+      "sl_no": 78,
+      "name_of_the_regional_office": "Tirunelveli",
+      "name_of_the_ulb_rdma": "Kadayanallur",
+      "address": "11, Main Road, Kadayanallur, Tirunelveli Dt - 627751",
+      "telephone_no__with_std_code": "04633-240440",
+      "fax_number_": "04633-21700",
+      "email_id": "commr.kadayanallur@tn.gov.in",
+      "no_of_wards": 33
+    },
+    {
+      "sl_no": 79,
+      "name_of_the_regional_office": "Tirunelveli",
+      "name_of_the_ulb_rdma": "Puliangudi",
+      "address": "9, Subramaniasamy Kovil,  South Sannathi Street,Puliangudi,                        Tirunelveli Dt -627 855",
+      "telephone_no__with_std_code": "04636-234115",
+      "fax_number_": "04636-21700",
+      "email_id": "commr.puliyangudi@tn.gov.in",
+      "no_of_wards": 33
+    },
+    {
+      "sl_no": 80,
+      "name_of_the_regional_office": "Tirunelveli",
+      "name_of_the_ulb_rdma": "Sengottai",
+      "address": "63, Jawaharlal Nehru Road, Sengottai- Tirunelveli Dt- 627809",
+      "telephone_no__with_std_code": "04633-233238",
+      "fax_number_": "04633-233238",
+      "email_id": "commr.sengottai@tn.gov.in",
+      "no_of_wards": 24
+    },
+    {
+      "sl_no": 81,
+      "name_of_the_regional_office": "Tirunelveli",
+      "name_of_the_ulb_rdma": "Ambasamudram",
+      "address": "149,  Pudugramam St., Ambasamudram Tirunelveli Dt - 627401",
+      "telephone_no__with_std_code": "04634-254470",
+      "fax_number_": "04634- 254470",
+      "email_id": "commr.ambasamudram@tn.gov.in",
+      "no_of_wards": 21
+    },
+    {
+      "sl_no": 82,
+      "name_of_the_regional_office": "Tirunelveli",
+      "name_of_the_ulb_rdma": "Vickramasingapuram",
+      "address": "9/4, East Car Street., Vickramasingapuram, Tirunelveli Dt - 627425.",
+      "telephone_no__with_std_code": "04634-220343",
+      "fax_number_": "04634-21700",
+      "email_id": "commr.vikramasingapuram@tn.gov.in",
+      "no_of_wards": 21
+    },
+    {
+      "sl_no": 83,
+      "name_of_the_regional_office": "Tirunelveli",
+      "name_of_the_ulb_rdma": "Kovilpatti",
+      "address": "108, New road, Kovilpatti - 628 501 Thoothukkudi Dist",
+      "telephone_no__with_std_code": "04632-220404",
+      "fax_number_": "04632-220404",
+      "email_id": "commr.kovilpatti@tn.gov.in",
+      "no_of_wards": 36
+    },
+    {
+      "sl_no": 84,
+      "name_of_the_regional_office": "Tirunelveli",
+      "name_of_the_ulb_rdma": "Kayalpattinam",
+      "address": "69, Mutharamman Kovil St.,  Kayalpattinam, Thoothukkudi Dist          627 425",
+      "telephone_no__with_std_code": "04639-280224",
+      "fax_number_": "04639-21700",
+      "email_id": "commr.kayalpattinam@tn.gov.in",
+      "no_of_wards": 18
+    },
+    {
+      "sl_no": 85,
+      "name_of_the_regional_office": "Tirunelveli",
+      "name_of_the_ulb_rdma": "Nagarcoil",
+      "address": "166, Bala More Road, Nagarcoil,              K.K. Dist.,  -629001",
+      "telephone_no__with_std_code": "04652-230984",
+      "fax_number_": "04652-21700",
+      "email_id": "commr.nagarcoil@tn.gov.in",
+      "no_of_wards": 52
+    },
+    {
+      "sl_no": 86,
+      "name_of_the_regional_office": "Tirunelveli",
+      "name_of_the_ulb_rdma": "Colachel",
+      "address": "Main Road, Near Bus Stand, Colachel,    K.K. Dist., 629 251",
+      "telephone_no__with_std_code": "04651-226229",
+      "fax_number_": "04651-21700",
+      "email_id": "commr.colachel@tn.gov.in",
+      "no_of_wards": 24
+    },
+    {
+      "sl_no": 87,
+      "name_of_the_regional_office": "Tirunelveli",
+      "name_of_the_ulb_rdma": "Kuzhithurai Municipality",
+      "address": "Kuzhithurai, Marthandam Post, Kanyakumari District,                     pin : 629165",
+      "telephone_no__with_std_code": "04651-270036",
+      "fax_number_": "NA",
+      "email_id": "commr.kuzhithurai@tn.gov.in",
+      "no_of_wards": 21
+    },
+    {
+      "sl_no": 88,
+      "name_of_the_regional_office": "Tirunelveli",
+      "name_of_the_ulb_rdma": "Padmanabhapuram",
+      "address": "15/60. Palace Road, Thakkalai Post, Padmanabhapuram, K.K. Dist.,",
+      "telephone_no__with_std_code": "04651-250728",
+      "fax_number_": "04651-21700",
+      "email_id": "commr.padmanabhapuram@tn.gov.in",
+      "no_of_wards": 21
+    },
+    {
+      "sl_no": 89,
+      "name_of_the_regional_office": "Tirunelveli",
+      "name_of_the_ulb_rdma": "Rajapalayam",
+      "address": "19, T.P. Mills road, Rajapalayam, Virudhunagar- Dt., 626117",
+      "telephone_no__with_std_code": "04563-222328",
+      "fax_number_": "04563-21700",
+      "email_id": "commr.rajapalayam@tn.gov.in",
+      "no_of_wards": 42
+    },
+    {
+      "sl_no": 90,
+      "name_of_the_regional_office": "Tirunelveli",
+      "name_of_the_ulb_rdma": "Virudhunager",
+      "address": "42, Municipal Office Road,                Virudhunager - 626001.",
+      "telephone_no__with_std_code": "04562-243861",
+      "fax_number_": "04562-243861",
+      "email_id": "commr.virudhunagar@tn.gov.in",
+      "no_of_wards": 36
+    },
+    {
+      "sl_no": 91,
+      "name_of_the_regional_office": "Tirunelveli",
+      "name_of_the_ulb_rdma": "Sivakasi",
+      "address": "30, Police Station Road, Sivakasi,  Virudhunager- Dist - 626123.",
+      "telephone_no__with_std_code": "04562-220051",
+      "fax_number_": "04562-21700",
+      "email_id": "commr.sivakasi@tn.gov.in",
+      "no_of_wards": 33
+    },
+    {
+      "sl_no": 92,
+      "name_of_the_regional_office": "Tirunelveli",
+      "name_of_the_ulb_rdma": "Aruppukottai",
+      "address": "Pandhalkudi Road, Aruppukottai - 626101, Virudhunager- Dist",
+      "telephone_no__with_std_code": "04566-223300",
+      "fax_number_": "04562-223300",
+      "email_id": "commr.aruppukkottai@tn.gov.in",
+      "no_of_wards": 36
+    },
+    {
+      "sl_no": 93,
+      "name_of_the_regional_office": "Tirunelveli",
+      "name_of_the_ulb_rdma": "Srivilliputhur",
+      "address": "Municipal Office Road, Srivilliputhur, Virudhunager-Dt.,    626 125",
+      "telephone_no__with_std_code": "04563-260257",
+      "fax_number_": "04563-21700",
+      "email_id": "commr.srivilliputhur@tn.gov.in",
+      "no_of_wards": 33
+    },
+    {
+      "sl_no": 94,
+      "name_of_the_regional_office": "Tirunelveli",
+      "name_of_the_ulb_rdma": "Thiruthangal",
+      "address": "71, Sivakasi, Virudhunager, Main Road, Thiruthangal,   Virudhunager- Dist 626 130",
+      "telephone_no__with_std_code": "04562-232367",
+      "fax_number_": "04562-21700",
+      "email_id": "commr.thiruthangal@tn.gov.in",
+      "no_of_wards": 21
+    },
+    {
+      "sl_no": 95,
+      "name_of_the_regional_office": "Tirunelveli",
+      "name_of_the_ulb_rdma": "Sattur",
+      "address": "19/10, Sivankoil, South Car St., Sattur, Virudhunager- Dist- 626203",
+      "telephone_no__with_std_code": "04562-260356",
+      "fax_number_": "04562-21700",
+      "email_id": "commr.sattur@tn.gov.in",
+      "no_of_wards": 24
+    },
+    {
+      "sl_no": 96,
+      "name_of_the_regional_office": "Tiruppur",
+      "name_of_the_ulb_rdma": "RDMA Office, Tiruppur",
+      "address": "1st Floor, Kumaran Shopping Complex, Kumaran Road, Tiruppur-1.",
+      "telephone_no__with_std_code": "0421-2200308",
+      "fax_number_": "NA",
+      "email_id": "rdma.tiruppur@tn.gov.in",
+      "no_of_wards": "NA"
+    },
+    {
+      "sl_no": 97,
+      "name_of_the_regional_office": "Tiruppur",
+      "name_of_the_ulb_rdma": "Pollachi",
+      "address": "Palghat Road,Pollachi,642001",
+      "telephone_no__with_std_code": "04259 220999",
+      "fax_number_": "04259225355",
+      "email_id": "commr.pollachi@tn.gov.in",
+      "no_of_wards": 36
+    },
+    {
+      "sl_no": 98,
+      "name_of_the_regional_office": "Tiruppur",
+      "name_of_the_ulb_rdma": "Udumalpet",
+      "address": "Dhali Road, Udumalpet",
+      "telephone_no__with_std_code": "04252 - 223885",
+      "fax_number_": "04252 -223865",
+      "email_id": "commr.udumalaipet@tn.gov.in",
+      "no_of_wards": 33
+    },
+    {
+      "sl_no": 99,
+      "name_of_the_regional_office": "Tiruppur",
+      "name_of_the_ulb_rdma": "Mettupayam",
+      "address": "26,Market road,Mettupalayam",
+      "telephone_no__with_std_code": "04254-222324",
+      "fax_number_": "04254-222324",
+      "email_id": "commr.mettupalayam@tn.gov.in",
+      "no_of_wards": 33
+    },
+    {
+      "sl_no": 100,
+      "name_of_the_regional_office": "Tiruppur",
+      "name_of_the_ulb_rdma": "Bhavani",
+      "address": "Varnapuram, IInd street,  Erode District",
+      "telephone_no__with_std_code": "04256 230556, 230410",
+      "fax_number_": "-",
+      "email_id": "commr.bhavani@tn.gov.in",
+      "no_of_wards": 27
+    },
+    {
+      "sl_no": 101,
+      "name_of_the_regional_office": "Tiruppur",
+      "name_of_the_ulb_rdma": "Sathyamangalam",
+      "address": "Mysore Trunk Road, Rangasamudram, Sathyamangalam",
+      "telephone_no__with_std_code": "0429-5220870",
+      "fax_number_": "0429-5220870",
+      "email_id": "commr.sathyamangalam@tn.gov.in",
+      "no_of_wards": 27
+    },
+    {
+      "sl_no": 102,
+      "name_of_the_regional_office": "Tiruppur",
+      "name_of_the_ulb_rdma": "Gobichettipalayam",
+      "address": "Cutchery street, Gobichettipalayam .",
+      "telephone_no__with_std_code": "04285 222159, 222559",
+      "fax_number_": "04285 222559",
+      "email_id": "commr.gobi@tn.gov.in",
+      "no_of_wards": 30
+    },
+    {
+      "sl_no": 103,
+      "name_of_the_regional_office": "Tiruppur",
+      "name_of_the_ulb_rdma": "Dharapuram",
+      "address": "85, New Police Station Road, Dharapuram.",
+      "telephone_no__with_std_code": "04258 220206",
+      "fax_number_": "04258 26261",
+      "email_id": "commr.dharapuram@tn.gov.in",
+      "no_of_wards": 30
+    },
+    {
+      "sl_no": 104,
+      "name_of_the_regional_office": "Tiruppur",
+      "name_of_the_ulb_rdma": "Udhagamandalam",
+      "address": "Municipal Office, Udhagamandalam.PIN: 643001",
+      "telephone_no__with_std_code": "0423-2223242",
+      "fax_number_": "NA",
+      "email_id": "commr.udhagamandalam@tn.gov.in",
+      "no_of_wards": 36
+    },
+    {
+      "sl_no": 105,
+      "name_of_the_regional_office": "Tiruppur",
+      "name_of_the_ulb_rdma": "Coonoor",
+      "address": "Mount Road, Coonoor - 1, The Nilgiris",
+      "telephone_no__with_std_code": "0423-2230201",
+      "fax_number_": "0423-2230701",
+      "email_id": "commr.coonoor@tn.gov.in",
+      "no_of_wards": 30
+    },
+    {
+      "sl_no": 106,
+      "name_of_the_regional_office": "Tiruppur",
+      "name_of_the_ulb_rdma": "Valparai",
+      "address": "Main Road, Valparai",
+      "telephone_no__with_std_code": "04253-222394",
+      "fax_number_": "04253-222394",
+      "email_id": "commr.valparai@tn.gov.in",
+      "no_of_wards": 21
+    },
+    {
+      "sl_no": 107,
+      "name_of_the_regional_office": "Tiruppur",
+      "name_of_the_ulb_rdma": "Palladam",
+      "address": "No. 1, Trichy Main Road, Palladam-4.",
+      "telephone_no__with_std_code": "04255 253087",
+      "fax_number_": "NA",
+      "email_id": "commr.palladam@tn.gov.in",
+      "no_of_wards": 18
+    },
+    {
+      "sl_no": 108,
+      "name_of_the_regional_office": "Tiruppur",
+      "name_of_the_ulb_rdma": "Punjai Puliampatti",
+      "address": "339 Jawahar Main Road, Punjai Puliampatti.",
+      "telephone_no__with_std_code": "04295 - 267061",
+      "fax_number_": "NA",
+      "email_id": "commr.punjaipuliampatti@tn.gov.in",
+      "no_of_wards": 18
+    },
+    {
+      "sl_no": 109,
+      "name_of_the_regional_office": "Tiruppur",
+      "name_of_the_ulb_rdma": "Vellakovil",
+      "address": "210, TC Mainroad, Vellakovil - 638111.",
+      "telephone_no__with_std_code": "04257 - 260580,  261380, 264170",
+      "fax_number_": "04257 - 261380",
+      "email_id": "commr.vellakoil@tn.gov.in",
+      "no_of_wards": 21
+    },
+    {
+      "sl_no": 110,
+      "name_of_the_regional_office": "Tiruppur",
+      "name_of_the_ulb_rdma": "Gudalur",
+      "address": "Municipality Office    Rajagopalapuram,Ooty Road,           Gudalur",
+      "telephone_no__with_std_code": "04262- 261358",
+      "fax_number_": "04262- 261358",
+      "email_id": "commr.gudalur-tpr@tn.gov.in",
+      "no_of_wards": 21
+    },
+    {
+      "sl_no": 111,
+      "name_of_the_regional_office": "Tiruppur",
+      "name_of_the_ulb_rdma": "Neliyalam",
+      "address": "The Commissioner, Nelliyalam Municipality, Pandalur.",
+      "telephone_no__with_std_code": "04262-220238",
+      "fax_number_": "04262-220718",
+      "email_id": "commr.nelliyalam@tn.gov.in",
+      "no_of_wards": 21
+    },
+    {
+      "sl_no": 112,
+      "name_of_the_regional_office": "Tiruppur",
+      "name_of_the_ulb_rdma": "Kangeyam",
+      "address": "Ayyan Thiru valluvar Maaligai, Kangeyam Main Road, Kangeyam.",
+      "telephone_no__with_std_code": "04257-220608",
+      "fax_number_": "NA",
+      "email_id": "commr.kangeyam@tn.gov.in",
+      "no_of_wards": 18
+    },
+    {
+      "sl_no": 113,
+      "name_of_the_regional_office": "Vellore",
+      "name_of_the_ulb_rdma": "RDMA Office,",
+      "address": "Sarathy Nagar, Kagithapatatai,    Vellore-12",
+      "telephone_no__with_std_code": "0416-2220807",
+      "fax_number_": "NA",
+      "email_id": "rdma.vellore@tn.gov.in",
+      "no_of_wards": "NA"
+    },
+    {
+      "sl_no": 114,
+      "name_of_the_regional_office": "Vellore",
+      "name_of_the_ulb_rdma": "Ambur",
+      "address": "Municipal office, Ambur",
+      "telephone_no__with_std_code": "04174 - 242890",
+      "fax_number_": "NA",
+      "email_id": "commr.ambur@tn.gov.in",
+      "no_of_wards": 36
+    },
+    {
+      "sl_no": 115,
+      "name_of_the_regional_office": "Vellore",
+      "name_of_the_ulb_rdma": "Arcot",
+      "address": "Municipal Officer,6 Santhapettai st,Arcot",
+      "telephone_no__with_std_code": "04172 - 235900",
+      "fax_number_": "NA",
+      "email_id": "commr.arcot@tn.gov.in",
+      "no_of_wards": 30
+    },
+    {
+      "sl_no": 116,
+      "name_of_the_regional_office": "Vellore",
+      "name_of_the_ulb_rdma": "Arakkonam",
+      "address": "Municipal Office, 110 , Gandhi Road, Arakkonam",
+      "telephone_no__with_std_code": "04177-236236,",
+      "fax_number_": "NA",
+      "email_id": "commr.arakkonam@tn.gov.in",
+      "no_of_wards": 36
+    },
+    {
+      "sl_no": 117,
+      "name_of_the_regional_office": "Vellore",
+      "name_of_the_ulb_rdma": "Gudiyatham",
+      "address": "Municipal Office, R.S.Road, Gudiyatham",
+      "telephone_no__with_std_code": "04171-220738,",
+      "fax_number_": "NA",
+      "email_id": "commr.gudiyatham@tn.gov.in",
+      "no_of_wards": 36
+    },
+    {
+      "sl_no": 118,
+      "name_of_the_regional_office": "Vellore",
+      "name_of_the_ulb_rdma": "Ranipet",
+      "address": "3,Railway Station Road,Ranipet",
+      "telephone_no__with_std_code": "04172-272502",
+      "fax_number_": "NA",
+      "email_id": "commr.ranipet@tn.gov.in",
+      "no_of_wards": 30
+    },
+    {
+      "sl_no": 119,
+      "name_of_the_regional_office": "Vellore",
+      "name_of_the_ulb_rdma": "Tirupattur",
+      "address": "Municipal office, Govt. Garden , Tirupathur",
+      "telephone_no__with_std_code": "04179 - 220130",
+      "fax_number_": "NA",
+      "email_id": "commr.thriupathur@tn.gov.in",
+      "no_of_wards": 36
+    },
+    {
+      "sl_no": 120,
+      "name_of_the_regional_office": "Vellore",
+      "name_of_the_ulb_rdma": "Vaniyambadi",
+      "address": "Municipal Office, By Pass road, Vaniyambadi    &  Mpl commissioner, C.MOULANA  Street, Vaniyambai",
+      "telephone_no__with_std_code": "04174 - 233142,",
+      "fax_number_": "NA",
+      "email_id": "commr.vaniyambadi@tn.gov.in",
+      "no_of_wards": 36
+    },
+    {
+      "sl_no": 121,
+      "name_of_the_regional_office": "Vellore",
+      "name_of_the_ulb_rdma": "Walajapet",
+      "address": "Municipal Office, MBT Road,Walajapet",
+      "telephone_no__with_std_code": "04172 - 232837",
+      "fax_number_": "NA",
+      "email_id": "commr.walajapet@tn.gov.in",
+      "no_of_wards": 24
+    },
+    {
+      "sl_no": 122,
+      "name_of_the_regional_office": "Vellore",
+      "name_of_the_ulb_rdma": "Jolarpaet",
+      "address": "Municipal Office, Ediyampattim Jolarpet",
+      "telephone_no__with_std_code": "04179 - 241268",
+      "fax_number_": "NA",
+      "email_id": "commr.jolarpet@tn.gov.in",
+      "no_of_wards": 18
+    },
+    {
+      "sl_no": 123,
+      "name_of_the_regional_office": "Vellore",
+      "name_of_the_ulb_rdma": "Melvisharam",
+      "address": "Municipal Officer,6 Santhapettai st,Arcot",
+      "telephone_no__with_std_code": "04172 - 266049",
+      "fax_number_": "NA",
+      "email_id": "commr.melvisharam@tn.gov.in",
+      "no_of_wards": 21
+    },
+    {
+      "sl_no": 124,
+      "name_of_the_regional_office": "Vellore",
+      "name_of_the_ulb_rdma": "pernampattu",
+      "address": "Municipal office,Chowk Road, Pernampattu",
+      "telephone_no__with_std_code": "04171 - 232203",
+      "fax_number_": "NA",
+      "email_id": "commr.pernampattu@tn.gov.in",
+      "no_of_wards": 21
+    },
+    {
+      "sl_no": 125,
+      "name_of_the_regional_office": "Vellore",
+      "name_of_the_ulb_rdma": "Tiruvannamalai",
+      "address": "SannathiStreet, ThiruvannamalaiPin:606601",
+      "telephone_no__with_std_code": "04175-222344",
+      "fax_number_": "04175-220942",
+      "email_id": "commr.thiruvannamalai@tn.gov.in",
+      "no_of_wards": 39
+    },
+    {
+      "sl_no": 126,
+      "name_of_the_regional_office": "Vellore",
+      "name_of_the_ulb_rdma": "Arni",
+      "address": "Municipal Office ,Arni",
+      "telephone_no__with_std_code": "04173-226921",
+      "fax_number_": "04173-222321",
+      "email_id": "commr.arani@tn.gov.in",
+      "no_of_wards": 33
+    },
+    {
+      "sl_no": 127,
+      "name_of_the_regional_office": "Vellore",
+      "name_of_the_ulb_rdma": "Thirvathipuram",
+      "address": "5,Arcot Road,          Anumanthanpet, Cheyyar.",
+      "telephone_no__with_std_code": "04182-222242",
+      "fax_number_": "NA",
+      "email_id": "commr.thiruvathipuram@tn.gov.in",
+      "no_of_wards": 27
+    },
+    {
+      "sl_no": 128,
+      "name_of_the_regional_office": "Vellore",
+      "name_of_the_ulb_rdma": "Vandavasi",
+      "address": "Municipal Office ,Vandavasi",
+      "telephone_no__with_std_code": "04183-225048",
+      "fax_number_": "04183-225048",
+      "email_id": "commr.vandavasi@tn.gov.in",
+      "no_of_wards": 24
+    },
+    {
+      "sl_no": 129,
+      "name_of_the_regional_office": "Vellore",
+      "name_of_the_ulb_rdma": "Villupuram",
+      "address": "PJN Road, Villupuram-605602",
+      "telephone_no__with_std_code": "04146-222206",
+      "fax_number_": "NA",
+      "email_id": "commr.villupuram@tn.gov.in",
+      "no_of_wards": 42
+    },
+    {
+      "sl_no": 130,
+      "name_of_the_regional_office": "Vellore",
+      "name_of_the_ulb_rdma": "Tindivanam",
+      "address": "Hospital Road, Tindivanam",
+      "telephone_no__with_std_code": "04147-222073",
+      "fax_number_": "04147-222073",
+      "email_id": "commr.tindivanam@tn.gov.in",
+      "no_of_wards": 33
+    },
+    {
+      "sl_no": 131,
+      "name_of_the_regional_office": "Vellore",
+      "name_of_the_ulb_rdma": "Kallakurichi",
+      "address": "Municipal Office,                 Rajambal Nagar,                Salem Main Road, Kallakurichi-606202",
+      "telephone_no__with_std_code": "04151-2227983",
+      "fax_number_": "NA",
+      "email_id": "commr.kallakurichi@tn.gov.in",
+      "no_of_wards": 21
+    },
+    {
+      "sl_no": 132,
+      "name_of_the_regional_office": "Madurai Corporation",
+      "name_of_the_ulb_rdma": "Main Office",
+      "address": "2. Aringar Anna Maligai, Outpost, Thallakulam,Madurai -625 002",
+      "telephone_no__with_std_code": "0452-2530521, 0452-2530526",
+      "fax_number_": "NA",
+      "email_id": "commr.madurai@tn.gov.in,mducorp@gmail.com",
+      "no_of_wards": 100
+    },
+    {
+      "sl_no": 133,
+      "name_of_the_regional_office": "Madurai Corporation",
+      "name_of_the_ulb_rdma": "ZONE- 1 -West",
+      "address": "T.B. Road, (Nr Railway Station) Madurai",
+      "telephone_no__with_std_code": "NA",
+      "fax_number_": "NA",
+      "email_id": "NA",
+      "no_of_wards": "NA"
+    },
+    {
+      "sl_no": 134,
+      "name_of_the_regional_office": "Madurai Corporation",
+      "name_of_the_ulb_rdma": "ZONE -2 - North",
+      "address": "Racecourse Road, Tallakulam Road, Madurai",
+      "telephone_no__with_std_code": "NA",
+      "fax_number_": "NA",
+      "email_id": "NA",
+      "no_of_wards": "NA"
+    },
+    {
+      "sl_no": 135,
+      "name_of_the_regional_office": "Madurai Corporation",
+      "name_of_the_ulb_rdma": "ZONE -3 -East",
+      "address": "Munisalai, Madurai",
+      "telephone_no__with_std_code": "NA",
+      "fax_number_": "NA",
+      "email_id": "NA",
+      "no_of_wards": "NA"
+    },
+    {
+      "sl_no": 136,
+      "name_of_the_regional_office": "Madurai Corporation",
+      "name_of_the_ulb_rdma": "ZONE -4- South",
+      "address": "West Maret Road, Madurai",
+      "telephone_no__with_std_code": "NA",
+      "fax_number_": "NA",
+      "email_id": "NA",
+      "no_of_wards": "NA"
+    },
+    {
+      "sl_no": 137,
+      "name_of_the_regional_office": "Coimbatore Corporation",
+      "name_of_the_ulb_rdma": "Main Office",
+      "address": "Big Bazar Street,Town Hall Coimbatore - 641 001",
+      "telephone_no__with_std_code": "0422-2390261,0422-2390262,2390261",
+      "fax_number_": "NA",
+      "email_id": "commr.coimbatore@tn.gov.in,dc@ccmc.gov.in",
+      "no_of_wards": 100
+    },
+    {
+      "sl_no": 138,
+      "name_of_the_regional_office": "Coimbatore Corporation",
+      "name_of_the_ulb_rdma": "East Zone",
+      "address": "Trichy Road, Singanallur",
+      "telephone_no__with_std_code": "NA",
+      "fax_number_": "NA",
+      "email_id": "NA",
+      "no_of_wards": "NA"
+    },
+    {
+      "sl_no": 139,
+      "name_of_the_regional_office": "Coimbatore Corporation",
+      "name_of_the_ulb_rdma": "West Zone",
+      "address": "Ramachandra Road, R.S.Puram",
+      "telephone_no__with_std_code": "NA",
+      "fax_number_": "NA",
+      "email_id": "NA",
+      "no_of_wards": "NA"
+    },
+    {
+      "sl_no": 140,
+      "name_of_the_regional_office": "Coimbatore Corporation",
+      "name_of_the_ulb_rdma": "Ceneral Zone",
+      "address": "Hosur Road, Coimbatore",
+      "telephone_no__with_std_code": "NA",
+      "fax_number_": "NA",
+      "email_id": "NA",
+      "no_of_wards": "NA"
+    },
+    {
+      "sl_no": 141,
+      "name_of_the_regional_office": "Coimbatore Corporation",
+      "name_of_the_ulb_rdma": "North Zone",
+      "address": "R.T.O Office Road, Gandhipuram",
+      "telephone_no__with_std_code": "NA",
+      "fax_number_": "NA",
+      "email_id": "NA",
+      "no_of_wards": "NA"
+    },
+    {
+      "sl_no": 142,
+      "name_of_the_regional_office": "Coimbatore Corporation",
+      "name_of_the_ulb_rdma": "South zone",
+      "address": "Palakkad Main Road,Kuniyamuthur Post,Coimbatore",
+      "telephone_no__with_std_code": "NA",
+      "fax_number_": "NA",
+      "email_id": "NA",
+      "no_of_wards": "NA"
+    },
+    {
+      "sl_no": 143,
+      "name_of_the_regional_office": "Trichy Corporation",
+      "name_of_the_ulb_rdma": "Main Office",
+      "address": "No.58, Bharathidasan Salai, Contonment,Tiruchirappalli - 620 001",
+      "telephone_no__with_std_code": "0431-2415329",
+      "fax_number_": "NA",
+      "email_id": "commr.trichy@tn.gov.in",
+      "no_of_wards": 65
+    },
+    {
+      "sl_no": 144,
+      "name_of_the_regional_office": "Trichy Corporation",
+      "name_of_the_ulb_rdma": "ZONE- 1",
+      "address": "Co-Abhishekarapuram,EVR Road,Trichy-17",
+      "telephone_no__with_std_code": "0431 -2772098",
+      "fax_number_": "NA",
+      "email_id": "ackabi.tcc@gmail.com",
+      "no_of_wards": "NA"
+    },
+    {
+      "sl_no": 145,
+      "name_of_the_regional_office": "Trichy Corporation",
+      "name_of_the_ulb_rdma": "ZONE -2",
+      "address": "Ponmalai zone Main office Buildings,Bharadhisan Salai, Trichy -1",
+      "telephone_no__with_std_code": "0431 -2415393",
+      "fax_number_": "NA",
+      "email_id": "acpon.tcc@gmail.com",
+      "no_of_wards": "NA"
+    },
+    {
+      "sl_no": 146,
+      "name_of_the_regional_office": "Trichy Corporation",
+      "name_of_the_ulb_rdma": "ZONE -3",
+      "address": "Srirangam,Gandhi Road,Trichy",
+      "telephone_no__with_std_code": "431 -2432255",
+      "fax_number_": "NA",
+      "email_id": "acsri.tcc@gmail.com",
+      "no_of_wards": "NA"
+    },
+    {
+      "sl_no": 147,
+      "name_of_the_regional_office": "Trichy Corporation",
+      "name_of_the_ulb_rdma": "ZONE -4",
+      "address": "Ariymangalam,Balakarai Main Road,Trichy",
+      "telephone_no__with_std_code": "0431 -2467615",
+      "fax_number_": "NA",
+      "email_id": "acari.tcc@gmail.com",
+      "no_of_wards": "NA"
+    },
+    {
+      "sl_no": 148,
+      "name_of_the_regional_office": "Salem Corporation",
+      "name_of_the_ulb_rdma": "Main Office",
+      "address": "Fort Main Road, Salem",
+      "telephone_no__with_std_code": "NA",
+      "fax_number_": "NA",
+      "email_id": "commr.salem@tn.gov.in",
+      "no_of_wards": 60
+    },
+    {
+      "sl_no": 149,
+      "name_of_the_regional_office": "Salem Corporation",
+      "name_of_the_ulb_rdma": "ZONE- 1",
+      "address": "Sarada College Road,Salem",
+      "telephone_no__with_std_code": "NA",
+      "fax_number_": "NA",
+      "email_id": "NA",
+      "no_of_wards": "NA"
+    },
+    {
+      "sl_no": 150,
+      "name_of_the_regional_office": "Salem Corporation",
+      "name_of_the_ulb_rdma": "ZONE -2",
+      "address": "Old Suramangalam,Salem",
+      "telephone_no__with_std_code": "NA",
+      "fax_number_": "NA",
+      "email_id": "NA",
+      "no_of_wards": "NA"
+    },
+    {
+      "sl_no": 151,
+      "name_of_the_regional_office": "Salem Corporation",
+      "name_of_the_ulb_rdma": "ZONE -3",
+      "address": "Kondalampatti Zonal Office,Trichy Main Road",
+      "telephone_no__with_std_code": "NA",
+      "fax_number_": "NA",
+      "email_id": "NA",
+      "no_of_wards": "NA"
+    },
+    {
+      "sl_no": 152,
+      "name_of_the_regional_office": "Salem Corporation",
+      "name_of_the_ulb_rdma": "ZONE -4",
+      "address": "Ammapet Zonal Office,Vidhya Nagar",
+      "telephone_no__with_std_code": "NA",
+      "fax_number_": "NA",
+      "email_id": "NA",
+      "no_of_wards": "NA"
+    },
+    {
+      "sl_no": 153,
+      "name_of_the_regional_office": "Tirunelveli Corporation",
+      "name_of_the_ulb_rdma": "Main Office",
+      "address": "S.N. High Road,Tirunelveli,627001",
+      "telephone_no__with_std_code": "NA",
+      "fax_number_": "NA",
+      "email_id": "commr.tirunelveli@tn.gov.in",
+      "no_of_wards": 55
+    },
+    {
+      "sl_no": 154,
+      "name_of_the_regional_office": "Tirunelveli Corporation",
+      "name_of_the_ulb_rdma": "Thatchanallur Ward Office",
+      "address": "Madurai Road,  Tirunelveli Junction,Tirunelveli",
+      "telephone_no__with_std_code": "NA",
+      "fax_number_": "NA",
+      "email_id": "NA",
+      "no_of_wards": "NA"
+    },
+    {
+      "sl_no": 155,
+      "name_of_the_regional_office": "Tirunelveli Corporation",
+      "name_of_the_ulb_rdma": "Melappalayam Ward Office",
+      "address": "Nethaji Road, Melappalayam",
+      "telephone_no__with_std_code": "NA",
+      "fax_number_": "NA",
+      "email_id": "NA",
+      "no_of_wards": "NA"
+    },
+    {
+      "sl_no": 156,
+      "name_of_the_regional_office": "Tirunelveli Corporation",
+      "name_of_the_ulb_rdma": "Palayamkottai ward office",
+      "address": "Tiruvandrum Road,Palayamkottai",
+      "telephone_no__with_std_code": "NA",
+      "fax_number_": "NA",
+      "email_id": "NA",
+      "no_of_wards": "NA"
+    },
+    {
+      "sl_no": 157,
+      "name_of_the_regional_office": "Tirunelveli Corporation",
+      "name_of_the_ulb_rdma": "Tirunelveli  Ward office",
+      "address": "Corporation Office Building",
+      "telephone_no__with_std_code": "NA",
+      "fax_number_": "NA",
+      "email_id": "NA",
+      "no_of_wards": "NA"
+    },
+    {
+      "sl_no": 158,
+      "name_of_the_regional_office": "Tirunelveli Corporation",
+      "name_of_the_ulb_rdma": "NA",
+      "address": "SN High Road, Tirunelveli",
+      "telephone_no__with_std_code": "0462 - 2336633",
+      "fax_number_": "NA",
+      "email_id": "NA",
+      "no_of_wards": "NA"
+    },
+    {
+      "sl_no": 159,
+      "name_of_the_regional_office": "Tiruppur Corporation",
+      "name_of_the_ulb_rdma": "Main Office",
+      "address": "Kumaran Road,State Highway,169,Noyyal,Tiruppur",
+      "telephone_no__with_std_code": "0421-2242101",
+      "fax_number_": "NA",
+      "email_id": "NA",
+      "no_of_wards": 60
+    },
+    {
+      "sl_no": 160,
+      "name_of_the_regional_office": "Tiruppur Corporation",
+      "name_of_the_ulb_rdma": "ZONE- 1",
+      "address": "15.Velampalayam,Tiruppur",
+      "telephone_no__with_std_code": "NA",
+      "fax_number_": "NA",
+      "email_id": "NA",
+      "no_of_wards": "NA"
+    },
+    {
+      "sl_no": 161,
+      "name_of_the_regional_office": "Tiruppur Corporation",
+      "name_of_the_ulb_rdma": "ZONE -2",
+      "address": "Thottipalayam,PN road,Tiruppur",
+      "telephone_no__with_std_code": "NA",
+      "fax_number_": "NA",
+      "email_id": "NA",
+      "no_of_wards": "NA"
+    },
+    {
+      "sl_no": 162,
+      "name_of_the_regional_office": "Tiruppur Corporation",
+      "name_of_the_ulb_rdma": "ZONE -3",
+      "address": "Nallur,GangeyamRoad, Tiruppur.",
+      "telephone_no__with_std_code": "NA",
+      "fax_number_": "NA",
+      "email_id": "NA",
+      "no_of_wards": "NA"
+    },
+    {
+      "sl_no": 163,
+      "name_of_the_regional_office": "Tiruppur Corporation",
+      "name_of_the_ulb_rdma": "ZONE -4",
+      "address": "Andipalayam,Tiruppur",
+      "telephone_no__with_std_code": "NA",
+      "fax_number_": "NA",
+      "email_id": "NA",
+      "no_of_wards": "NA"
+    },
+    {
+      "sl_no": 164,
+      "name_of_the_regional_office": "Vellore Corporation",
+      "name_of_the_ulb_rdma": "Main Office",
+      "address": "Infantry Road,Vellore,Pin code-632001",
+      "telephone_no__with_std_code": "0416-2220576",
+      "fax_number_": "NA",
+      "email_id": "commr.vellore@tn.gov.in",
+      "no_of_wards": 60
+    },
+    {
+      "sl_no": 165,
+      "name_of_the_regional_office": "Vellore Corporation",
+      "name_of_the_ulb_rdma": "ZONE- 1",
+      "address": "Tharapadaiveedu, Chathiram Bust stand ,Kadpadi,Vellore",
+      "telephone_no__with_std_code": "NA",
+      "fax_number_": "NA",
+      "email_id": "NA",
+      "no_of_wards": "NA"
+    },
+    {
+      "sl_no": 166,
+      "name_of_the_regional_office": "Vellore Corporation",
+      "name_of_the_ulb_rdma": "ZONE -2",
+      "address": "Sathuvachery,Milk Dairy Road, Vellore",
+      "telephone_no__with_std_code": "NA",
+      "fax_number_": "NA",
+      "email_id": "NA",
+      "no_of_wards": "NA"
+    },
+    {
+      "sl_no": 167,
+      "name_of_the_regional_office": "Vellore Corporation",
+      "name_of_the_ulb_rdma": "ZONE -3",
+      "address": "Old Municipal Office, AnnasalaiSalai, Vellore.",
+      "telephone_no__with_std_code": "NA",
+      "fax_number_": "NA",
+      "email_id": "NA",
+      "no_of_wards": "NA"
+    },
+    {
+      "sl_no": 168,
+      "name_of_the_regional_office": "Vellore Corporation",
+      "name_of_the_ulb_rdma": "ZONE -4",
+      "address": "Shenpakkam,Contonment Road,Vellore",
+      "telephone_no__with_std_code": "NA",
+      "fax_number_": "NA",
+      "email_id": "NA",
+      "no_of_wards": "NA"
+    },
+    {
+      "sl_no": 169,
+      "name_of_the_regional_office": "Thoothukudi Corporation",
+      "name_of_the_ulb_rdma": "Main Office",
+      "address": "113, Palai Road,Thoothukudi-628002",
+      "telephone_no__with_std_code": "0461-2320457",
+      "fax_number_": "NA",
+      "email_id": "commr.thoothukudi@tn.gov.in",
+      "no_of_wards": 60
+    },
+    {
+      "sl_no": 170,
+      "name_of_the_regional_office": "Thoothukudi Corporation",
+      "name_of_the_ulb_rdma": "South Zone",
+      "address": "JS Nagar,Muthaiypuram, Thoothukudi",
+      "telephone_no__with_std_code": "NA",
+      "fax_number_": "NA",
+      "email_id": "NA",
+      "no_of_wards": "NA"
+    },
+    {
+      "sl_no": 171,
+      "name_of_the_regional_office": "Thoothukudi Corporation",
+      "name_of_the_ulb_rdma": "North zone",
+      "address": "Pollpettai Road,SBI Colony.",
+      "telephone_no__with_std_code": "NA",
+      "fax_number_": "NA",
+      "email_id": "NA",
+      "no_of_wards": "NA"
+    },
+    {
+      "sl_no": 172,
+      "name_of_the_regional_office": "Thoothukudi Corporation",
+      "name_of_the_ulb_rdma": "NA",
+      "address": "Thoothukudi",
+      "telephone_no__with_std_code": "NA",
+      "fax_number_": "NA",
+      "email_id": "NA",
+      "no_of_wards": "NA"
+    },
+    {
+      "sl_no": 173,
+      "name_of_the_regional_office": "Thoothukudi Corporation",
+      "name_of_the_ulb_rdma": "West Zone",
+      "address": "Great Cotton Road,Thoothukudi",
+      "telephone_no__with_std_code": "NA",
+      "fax_number_": "NA",
+      "email_id": "NA",
+      "no_of_wards": "NA"
+    },
+    {
+      "sl_no": 174,
+      "name_of_the_regional_office": "Thoothukudi Corporation",
+      "name_of_the_ulb_rdma": "East Zone",
+      "address": "Great Cotton Road,Thoothukudi",
+      "telephone_no__with_std_code": "NA",
+      "fax_number_": "NA",
+      "email_id": "NA",
+      "no_of_wards": "NA"
+    },
+    {
+      "sl_no": 175,
+      "name_of_the_regional_office": "Erode Corporation",
+      "name_of_the_ulb_rdma": "Main Office",
+      "address": "NA",
+      "telephone_no__with_std_code": "0424 - 2251616",
+      "fax_number_": "NA",
+      "email_id": "commr.erode@tn.gov.in",
+      "no_of_wards": 60
+    },
+    {
+      "sl_no": 176,
+      "name_of_the_regional_office": "Erode Corporation",
+      "name_of_the_ulb_rdma": "ZONE- 1",
+      "address": "Door No. 1 Javuli Nagar, RN Pudhur.",
+      "telephone_no__with_std_code": "NA",
+      "fax_number_": "NA",
+      "email_id": "NA",
+      "no_of_wards": "NA"
+    },
+    {
+      "sl_no": 177,
+      "name_of_the_regional_office": "Erode Corporation",
+      "name_of_the_ulb_rdma": "ZONE -2",
+      "address": "EBB Nagar, Soolai , Erode",
+      "telephone_no__with_std_code": "NA",
+      "fax_number_": "NA",
+      "email_id": "NA",
+      "no_of_wards": "NA"
+    },
+    {
+      "sl_no": 178,
+      "name_of_the_regional_office": "Erode Corporation",
+      "name_of_the_ulb_rdma": "ZONE -3",
+      "address": "Door No. 32, Dr. Radhakrishnnan Salai, Teachers Colony,",
+      "telephone_no__with_std_code": "NA",
+      "fax_number_": "NA",
+      "email_id": "NA",
+      "no_of_wards": "NA"
+    },
+    {
+      "sl_no": 179,
+      "name_of_the_regional_office": "Erode Corporation",
+      "name_of_the_ulb_rdma": "ZONE -4",
+      "address": "Poonthurai Main Road, Moolappalayam, Erode",
+      "telephone_no__with_std_code": "NA",
+      "fax_number_": "NA",
+      "email_id": "NA",
+      "no_of_wards": "NA"
+    },
+    {
+      "sl_no": 180,
+      "name_of_the_regional_office": "Dindigul Corporation",
+      "name_of_the_ulb_rdma": "Main Office",
+      "address": "Dindigul Municipal Office, 13/9 Main Road, Dindigul - 624 001.",
+      "telephone_no__with_std_code": "0451-2429947",
+      "fax_number_": "0451- 2429947",
+      "email_id": "commr.dindigul@tn.gov.in",
+      "no_of_wards": 44
+    },
+    {
+      "sl_no": 181,
+      "name_of_the_regional_office": "Thanjavur Corporation",
+      "name_of_the_ulb_rdma": "Main Office",
+      "address": "Gandhiji Road,Thanjavur-613001",
+      "telephone_no__with_std_code": "04362 - 231553",
+      "fax_number_": "04362-277280",
+      "email_id": "commr.thanjavur@tn.gov.in",
+      "no_of_wards": 51
+    }
+  ]
+}

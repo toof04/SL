@@ -1,0 +1,379 @@
+state_name,district_name,block_name,panchayat_name,villagen_name,habitation_name,habitation_id,households,house_connection_by_pws,ispws,gen_current_pop,sc_current_pop,st_current_pop,total_current_pop,water_quality_contamination,update_date
+Karnataka,"Bangalore Rural",Dodballapur,Hanabe,NA,Karepura,0000362986,79,0,Yes,588,92,0,680,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hanabe,NA,Chikkanahally,0000362987,225,0,Yes,1470,130,0,1600,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Heggadahally,NA,Kurubarahally,0000362995,43,0,Yes,47,26,108,181,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Honnavara,NA,Honnadevipura,0000363006,72,0,Yes,200,92,0,292,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Honnavara,NA,Kammasandra,0000363015,88,39,Yes,190,128,0,318,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Honnavara,NA,Chikkavadagere,0000363017,15,2,Yes,35,19,0,54,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hosahally,NA,Vabasandra,0000363031,47,0,Yes,48,79,64,191,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hosahally,NA,Gundamgere,0000363033,659,168,Yes,1255,715,375,2345,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hosahally,NA,Ojenahally,0000363034,110,0,Yes,395,9,23,427,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hosahally,NA,Sonnenahally,0000363035,80,0,Yes,258,44,10,312,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hulikunte,NA,Muthukadahally,0000363043,46,0,Yes,194,0,5,199,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hulikunte,NA,Tubukunte,0000363047,125,0,Yes,312,78,0,390,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hulikunte,NA,Hunsepalya,0000363048,78,0,Yes,278,75,0,353,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hulikunte,NA,Inahalli,0000363052,157,0,Yes,578,279,1,858,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kadanuru,NA,Madagondanahally,0000363057,208,85,Yes,765,278,0,1043,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kadanuru,NA,Muppadighatta,0000363059,114,57,Yes,378,192,0,570,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kanasavadi,NA,Kanasavadi,0000363063,538,189,Yes,1806,226,121,2153,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kanasavadi,NA,Nagenahally,0000363068,129,0,Yes,401,81,3,485,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kanasavadi,NA,Yelladahally,0000363071,34,0,Yes,115,20,1,136,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kanasavadi,NA,Marasandra,0000363073,236,72,Yes,599,215,94,908,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kanasavadi,NA,Ramadevanahally,0000363075,224,78,Yes,782,177,94,1053,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kantanakunte,NA,Mallathahally,0000363080,271,2,Yes,527,406,20,953,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Aralumallige,NA,Allahalli,0000362867,336,37,Yes,1298,93,7,1398,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Arodi,NA,Harohalli,0000362870,20,0,Yes,0,0,128,128,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Arodi,NA,Javaraianapalya,0000362885,16,10,Yes,0,75,0,75,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Arodi,NA,Palanahally,0000362887,26,0,Yes,24,0,34,58,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Arodi,NA,Vaddanahally,0000362889,98,4,Yes,426,233,6,665,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Bashettihalli,NA,Yellupura,0000362900,676,8,Yes,1975,86,191,2252,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Bhaktharahally,NA,Kangalapura,0000362910,72,0,Yes,199,86,3,288,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Bhaktharahally,NA,Byappanahally,0000362919,130,0,Yes,410,93,47,550,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Doddabelavangala,NA,Doddabelavangala,0000362940,904,312,Yes,2940,548,126,3614,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Doddatumukuru,NA,Gejjagadahally,0000362954,248,11,Yes,732,179,5,916,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hadonahlly,NA,Gollahally,0000362965,81,0,Yes,238,85,0,323,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hadonahlly,NA,Durgenahally,0000362966,202,0,Yes,694,196,8,898,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hadripura,NA,Hadripura,0000362969,291,128,Yes,576,277,18,871,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hadripura,NA,Chikkahejjaji,0000362970,646,137,Yes,1053,104,390,1547,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hadripura,NA,"Madhurana Hosahally",0000362972,164,0,Yes,393,122,17,532,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kodigehally,NA,Palanajogihally,0000363108,1370,27,Yes,4904,785,94,5783,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Majarahosahally,NA,Chikkatumakur,0000363120,223,122,Yes,476,392,1,869,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Melekote,NA,Melekote,0000363123,478,68,Yes,1504,270,135,1909,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Melekote,NA,Marahally,0000363124,110,0,Yes,298,118,0,416,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Melekote,NA,Bhumenahally,0000363126,167,0,Yes,450,140,70,660,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Melekote,NA,Sonnapura,0000363135,25,0,Yes,100,0,0,100,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Melinajoganahally,NA,Gunjuru,0000363149,212,55,Yes,441,253,148,842,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,"Sakkare Gollahally",NA,Chikkamankanala,0000363176,125,0,Yes,398,90,0,488,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,"Sakkare Gollahally",NA,"Kamana Agrahara",0000363177,92,0,Yes,288,82,0,370,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,"Sakkare Gollahally",NA,Kooligere,0000363178,120,0,Yes,272,111,93,476,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,"Sakkare Gollahally",NA,Sonnenahally,0000363182,128,0,Yes,391,117,0,508,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Sasalu,NA,Annayanapalya,0000363184,53,0,Yes,116,85,10,211,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Sasalu,NA,Dasarapalya,0000363187,68,0,Yes,270,0,1,271,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Sasalu,NA,Sriramanahally,0000363194,85,0,Yes,234,103,0,337,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Sasalu,NA,Nagalapura,0000363199,71,0,Yes,218,63,0,281,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Sasalu,NA,Channaveeranahally,0000363200,182,0,Yes,604,99,14,717,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Tubugere,NA,Lakkasandra,0000363229,21,0,Yes,74,10,0,84,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Tubugere,NA,Kallukotea,0000363235,92,0,Yes,181,180,0,361,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Bhaktharahally,NA,Kollipalya,0001623763,84,2,Yes,250,0,0,250,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kanasavadi,NA,"Kannamangala Colony",0001623779,25,0,Yes,72,20,13,105,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kantanakunte,NA,"Thapasihally Colony",0001623781,40,0,Yes,98,25,18,141,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Sasalu,NA,Thodalabande,0001623803,74,0,Yes,296,0,0,296,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Thippuru,NA,"Nellukunte Palya",0001659180,42,0,Yes,120,42,0,162,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kantanakunte,NA,Thogarighatta,0000363083,133,0,Yes,504,26,0,530,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kestur,NA,Kestur,0000363089,257,178,Yes,634,394,0,1028,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kestur,NA,Menasi,0000363090,236,40,Yes,281,659,0,940,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kestur,NA,Kuntanahally,0000363096,172,0,Yes,647,38,0,685,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kodigehally,NA,Kakkehally,0000363101,34,0,Yes,13,123,0,136,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Konaghatta,NA,Konaghatta,0000363109,575,300,Yes,1604,620,68,2292,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Konaghatta,NA,Kodihally,0000363110,319,168,Yes,807,351,117,1275,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Konaghatta,NA,Linganahally,0000363113,324,180,Yes,718,432,151,1301,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Konaghatta,NA,Ancharahally,0000363114,93,0,Yes,61,80,229,370,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Majarahosahally,NA,Thippapura,0000363118,611,87,Yes,1968,426,52,2446,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Melekote,NA,Gantiganahally,0000363125,331,0,Yes,880,400,42,1322,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Melekote,NA,Doddarayappanahally,0000363127,132,0,Yes,346,174,4,524,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Melekote,NA,Mukkenahally,0000363132,91,0,Yes,214,104,26,344,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Melekote,NA,"Melekote Cross",0000363133,120,0,Yes,291,100,77,468,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Melinajoganahally,NA,Geddalapalya,0000363142,150,0,Yes,0,595,0,595,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Melinajoganahally,NA,"S. Nagenahally",0000363144,178,0,Yes,454,262,0,716,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Melinajoganahally,NA,Lagumenahally,0000363147,226,0,Yes,632,218,49,899,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,"Sakkare Gollahally",NA,Shankarasanahally,0000363173,30,0,Yes,99,18,0,117,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,"Sakkare Gollahally",NA,Mallanayakanahally,0000363180,86,0,Yes,337,0,182,519,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Sasalu,NA,Singenahally,0000363186,108,0,Yes,421,0,0,421,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Sasalu,NA,Narasapura,0000363188,189,0,Yes,0,752,0,752,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hadripura,NA,Naranahally,0000362975,145,0,Yes,465,107,32,604,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hanabe,NA,Hanabe,0000362976,580,227,Yes,1193,254,3,1450,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hanabe,NA,Neralaghatta,0000362978,280,75,Yes,1000,840,10,1850,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Heggadahally,NA,Machagondahlly,0000362990,98,0,Yes,280,61,50,391,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Heggadahally,NA,Sonnamaranahally,0000362996,136,0,Yes,231,142,178,551,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Honnavara,NA,Honnavara,0000363002,136,0,Yes,278,266,28,572,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Honnavara,NA,Nallenahally,0000363003,19,0,Yes,100,0,0,100,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Honnavara,NA,Shakaladevipura,0000363007,180,0,Yes,572,212,0,784,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Honnavara,NA,Bhdrapura,0000363011,52,0,Yes,138,98,0,236,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Honnavara,NA,Doddavadagere,0000363016,120,0,Yes,402,130,0,532,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hosahally,NA,Kalkunte,0000363020,116,0,Yes,398,0,72,470,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hosahally,NA,Ujjani,0000363022,420,52,Yes,1047,529,107,1683,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hosahally,NA,Kukkalahally,0000363024,57,0,Yes,168,29,24,221,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hulikunte,NA,Seegepalya,0000363046,13,0,Yes,46,12,0,58,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hulikunte,NA,Bovipalya,0000363049,18,0,Yes,49,12,0,61,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hulikunte,NA,Kasagatta,0000363051,121,0,Yes,318,96,0,414,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kadanuru,NA,Kadanuru,0000363055,557,108,Yes,1115,1114,0,2229,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kadanuru,NA,"Kadanuru Palya",0000363056,43,0,Yes,164,80,0,244,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kanasavadi,NA,Jodithimmasandra,0000363064,218,69,Yes,724,133,29,886,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kanasavadi,NA,Kannamangala,0000363067,211,60,Yes,554,192,98,844,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kanasavadi,NA,"K.g. Sastripalya",0000363078,58,0,Yes,141,94,0,235,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Aralumallige,NA,"S.m. Gollahally",0000362866,192,40,Yes,636,132,0,768,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Aralumallige,NA,Jakkasandra,0000362868,72,0,Yes,263,134,5,402,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Arodi,NA,Killaralahally,0000362876,37,0,Yes,136,0,0,136,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Arodi,NA,Dhadagattamadagu,0000362878,159,116,Yes,280,144,51,475,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Arodi,NA,"Krishnapura Thanda",0000362882,28,0,Yes,0,140,0,140,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Arodi,NA,Karekallahally,0000362883,26,0,Yes,104,29,0,133,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Arodi,NA,Arodi,0000362886,479,10,Yes,1333,736,379,2448,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Bashettihalli,NA,Nagadenhally,0000362897,166,120,Yes,485,281,0,766,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Bashettihalli,NA,Bisuvanahally,0000362903,239,23,Yes,394,371,185,950,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Bhaktharahally,NA,Shiresthedaranapalya,0000362907,52,0,Yes,0,402,0,402,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Bhaktharahally,NA,Kanakenahally,0000362909,140,0,Yes,370,125,105,600,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hadonahlly,NA,Thimmajanahally,0000362959,42,0,Yes,128,52,1,181,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hadonahlly,NA,Gangasandra,0000362961,91,0,Yes,235,129,4,368,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Sasalu,NA,Lingadheeranahally,0000363195,177,0,Yes,645,65,0,710,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Thippuru,NA,Thippuru,0000363201,518,179,Yes,1543,315,215,2073,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Thippuru,NA,Suthahally,0000363204,187,0,Yes,0,748,0,748,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Tubugere,NA,Yeddalahally,0000363221,85,0,Yes,247,56,33,336,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Tubugere,NA,Kuruvigere,0000363228,114,5,Yes,288,169,0,457,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Tubugere,NA,Narasimnahally,0000363233,103,0,Yes,249,160,0,409,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Bhaktharahally,NA,Nayakarapalya,0001623758,25,0,Yes,50,20,0,70,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kestur,NA,"Mandibyadrahally Col",0001623796,14,0,Yes,42,11,0,53,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Thippuru,NA,"Byrapura Thanda",0001623808,22,0,Yes,22,24,20,66,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Aralumallige,NA,Aralumallige,0000362863,535,475,Yes,1215,574,264,2053,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Aralumallige,NA,Karenahally,0000362869,888,191,Yes,1864,102,97,2063,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Arodi,NA,Singraianapalya,0000362872,120,0,Yes,480,0,0,480,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Arodi,NA,Nanjappanapalya,0000362884,19,0,Yes,65,0,0,65,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Arodi,NA,Garakenahally,0000362888,64,0,Yes,287,0,0,287,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Arodi,NA,Amalagunte,0000362890,90,0,Yes,305,93,0,398,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Bashettihalli,NA,"Adhinarayana Hosahally",0000362898,94,10,Yes,274,92,139,505,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Bhaktharahally,NA,Bhaktharahally,0000362905,155,0,Yes,462,158,0,620,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Bhaktharahally,NA,Ankonahalli11,0000362920,25,0,Yes,50,20,0,70,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Bhaktharahally,NA,Chowdaianapalya,0000362922,36,10,Yes,0,200,0,200,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,"Channadevi Agrahara",NA,Gadigarapalya,0000362926,88,0,Yes,258,87,4,349,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,"Channadevi Agrahara",NA,Kodihally,0000362932,309,69,Yes,999,235,4,1238,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Dargajogihalli,NA,Nagasandra,0000362937,220,24,Yes,821,58,0,879,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Doddabelavangala,NA,Vaddarapalya,0000362942,89,0,Yes,65,402,5,472,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Doddabelavangala,NA,Chikkabelavangala,0000362945,329,187,Yes,1018,296,0,1314,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Doddatumukuru,NA,Doddatumukuru,0000362949,396,11,Yes,1276,314,20,1610,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Doddatumukuru,NA,Gowdahally,0000362951,162,0,Yes,480,55,112,647,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Doddatumukuru,NA,"Gejjagadahally Palya",0000362955,51,0,Yes,110,50,0,160,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hadonahlly,NA,Lakshmidevipura,0000362958,322,31,Yes,958,403,15,1376,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hadonahlly,NA,Thirumagondanahally,0000362960,387,15,Yes,1338,199,9,1546,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hadonahlly,NA,Perumgondanahally,0000362962,70,0,Yes,195,95,3,293,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hadonahlly,NA,"Gollahally Thanda",0000362963,54,0,Yes,140,72,2,214,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hadonahlly,NA,Iyyammanahally,0000362968,50,0,Yes,105,118,3,226,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hadripura,NA,Kathalepalya,0000362971,85,0,Yes,351,0,0,351,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hanabe,NA,Kalludevanahally,0000362981,99,0,Yes,766,34,0,800,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Heggadahally,NA,Kanivepura,0000362989,90,0,Yes,427,35,0,462,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Heggadahally,NA,"Beedikere Agrahara",0000363000,15,0,Yes,12,43,0,55,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Heggadahally,NA,Acharalahally,0000363001,104,0,Yes,305,105,93,503,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Honnavara,NA,Gandragolipura,0000363004,91,0,Yes,392,59,0,451,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Honnavara,NA,Isturu,0000363012,142,27,Yes,265,174,33,472,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Honnavara,NA,"Isturu Palya",0000363013,28,0,Yes,80,34,5,119,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Honnavara,NA,Halenahally,0000363014,153,10,Yes,403,186,9,598,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hosahally,NA,Kadukunte,0000363025,105,0,Yes,354,51,22,427,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hosahally,NA,Hosahally,0000363027,484,202,Yes,990,453,374,1817,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hosahally,NA,Hosakote,0000363029,47,0,Yes,162,19,0,181,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hosahally,NA,Makali,0000363032,106,0,Yes,180,5,245,430,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hosahally,NA,Mallasandra,0000363036,279,0,Yes,631,378,128,1137,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hulikunte,NA,Dyavasandra,0000363038,35,0,Yes,178,12,0,190,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hulikunte,NA,Mariheggaianapalya,0000363039,75,0,Yes,293,123,0,416,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hulikunte,NA,Channabasavaianapalya,0000363042,44,0,Yes,125,0,49,174,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hulikunte,NA,Kathihosahally,0000363044,233,62,Yes,614,295,11,920,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hulikunte,NA,Ambaligere,0000363050,126,12,Yes,314,186,0,500,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kadanuru,NA,"Narasaiana Agrahara",0000363060,48,0,Yes,338,27,0,365,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kanasavadi,NA,Puttenahally,0000363066,18,0,Yes,66,0,19,85,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kanasavadi,NA,Kukkalahally,0000363076,278,0,Yes,691,256,124,1071,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kanasavadi,NA,Kallodu,0000363077,70,0,Yes,242,20,18,280,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kestur,NA,Mandibyadarahally,0000363094,157,0,Yes,485,149,0,634,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kestur,NA,Shravanuru,0000363099,156,0,Yes,519,101,0,620,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kodigehally,NA,Kodigehally,0000363100,496,7,Yes,1097,593,9,1699,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kodigehally,NA,Koluru,0000363107,288,12,Yes,620,382,28,1030,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Konaghatta,NA,Sonnappanahally,0000363115,175,80,Yes,426,420,0,846,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Majarahosahally,NA,Veerapura,0000363121,533,91,Yes,1958,110,60,2128,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Melekote,NA,Gandarajapura,0000363130,106,0,Yes,320,103,0,423,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Melekote,NA,Chikkarayappanahally,0000363134,57,20,Yes,116,70,39,225,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Melinajoganahally,NA,"Kelagina Nayakaranda Hally",0000363141,158,0,Yes,0,625,0,625,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Melinajoganahally,NA,"Makali Railway Station",0000363151,44,0,Yes,86,84,10,180,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Rajaghatta,NA,Gaddambachahally,0000363158,111,0,Yes,335,95,0,430,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Rajaghatta,NA,Pindakurathimmanahally,0000363161,246,15,Yes,422,247,262,931,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,"Sakkare Gollahally",NA,"Sakkare Gollahally",0000363162,278,0,Yes,690,419,4,1113,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,"Sakkare Gollahally",NA,Thambenahally,0000363165,120,0,Yes,462,8,0,470,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,"Sakkare Gollahally",NA,Halekote,0000363166,126,0,Yes,222,221,24,467,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,"Sakkare Gollahally",NA,Boochanahally,0000363167,93,0,Yes,183,186,0,369,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,"Sakkare Gollahally",NA,Lingapura,0000363171,78,0,Yes,127,167,0,294,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,"Sakkare Gollahally",NA,Doddamankanala,0000363174,21,0,Yes,48,30,0,78,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,"Sakkare Gollahally",NA,Kadathippenahally,0000363175,20,0,Yes,80,0,0,80,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Sasalu,NA,Sasalu,0000363183,281,93,Yes,730,357,35,1122,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Sasalu,NA,Lakkenahally,0000363192,90,0,Yes,356,0,0,356,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Thippuru,NA,"Vanigara Hally",0000363202,114,0,Yes,267,135,0,402,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Thippuru,NA,Kamaluru,0000363207,84,0,Yes,243,85,0,328,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Thippuru,NA,Cheelenahally,0000363211,161,0,Yes,269,317,59,645,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Tubugere,NA,Karnala,0000363224,196,0,Yes,373,353,61,787,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Tubugere,NA,Hosahally,0000363226,100,0,Yes,309,65,0,374,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Tubugere,NA,Hirenaguddadahally,0000363227,81,0,Yes,0,0,324,324,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Tubugere,NA,Peddathimmanahally,0000363231,87,0,Yes,10,0,336,346,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Tubugere,NA,Hiremuddenahally,0000363232,245,1,Yes,505,458,15,978,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Bhaktharahally,NA,Gurvaihanapalya,0001623761,20,0,Yes,0,59,0,59,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Bhaktharahally,NA,Narasapura,0001623762,22,0,Yes,33,17,0,50,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,"Channadevi Agrahara",NA,"Beeraihanapalya Colo",0001623766,28,3,Yes,90,15,0,105,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Doddabelavangala,NA,"Karepura Colony",0001623768,19,0,Yes,36,12,1,49,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hadripura,NA,"Hadripura Colony",0001623771,35,0,Yes,141,60,12,213,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hadripura,NA,Basappanapalya,0001623772,13,0,Yes,30,16,2,48,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hosahally,NA,Yakaralahally,0001623776,28,0,Yes,24,52,9,85,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kantanakunte,NA,Ragralagutte,0001623782,14,0,Yes,5,52,0,57,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Sasalu,NA,"Putligayana Palya",0001659177,42,0,Yes,163,6,0,169,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kadanuru,NA,"R G Nagar",0001873181,40,0,Yes,144,34,0,178,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kantanakunte,NA,Vaddarapalya,0000363081,120,0,Yes,271,221,0,492,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kantanakunte,NA,Ramaianahapalya,0000363084,109,0,Yes,211,225,0,436,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kantanakunte,NA,Anthrahally,0000363086,211,30,Yes,590,254,0,844,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kestur,NA,Anagalapura,0000363091,54,6,Yes,215,0,0,215,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kestur,NA,Honnaghatta,0000363092,160,0,Yes,442,209,0,651,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kestur,NA,Galipooje,0000363095,65,0,Yes,107,161,0,268,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kestur,NA,Koogonahally,0000363097,80,0,Yes,115,146,39,300,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kodigehally,NA,Kurubarahally,0000363102,599,8,Yes,1833,564,0,2397,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kodigehally,NA,"K. Hosahally",0000363103,95,0,Yes,289,89,3,381,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Konaghatta,NA,Hamam,0000363112,215,152,Yes,742,116,0,858,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Majarahosahally,NA,Majarahosahally,0000363116,240,23,Yes,783,177,0,960,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Majarahosahally,NA,Hosahudya,0000363122,135,0,Yes,439,103,0,542,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Melekote,NA,Chowgondanahally,0000363131,92,0,Yes,326,27,7,360,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Melekote,NA,Sachumata,0000363136,58,0,Yes,103,49,84,236,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Melinajoganahally,NA,Melinajoganahally,0000363137,167,17,Yes,450,163,52,665,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Melinajoganahally,NA,"S. S. Ghati",0000363139,197,0,Yes,154,627,0,781,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Melinajoganahally,NA,Thuruvanahally,0000363143,168,0,Yes,576,9,83,668,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,"Sakkare Gollahally",NA,Konenahally,0000363170,178,0,Yes,704,0,0,704,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Sasalu,NA,Ganadal,0000363185,29,0,Yes,108,0,0,108,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hanabe,NA,Siravara,0000362977,263,22,Yes,495,161,0,656,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hanabe,NA,Somashettihally,0000362979,165,0,Yes,630,30,0,660,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hanabe,NA,Srinivasapura,0000362980,45,0,Yes,174,6,0,180,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hanabe,NA,Bommanahally,0000362985,210,118,Yes,114,199,987,1300,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Heggadahally,NA,Heggadahally,0000362988,214,48,Yes,787,150,31,968,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Heggadahally,NA,Seegehally,0000362991,162,0,Yes,420,200,60,680,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Heggadahally,NA,Vasudevanahally,0000362994,29,0,Yes,103,3,3,109,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Heggadahally,NA,"Gulya Nandigunda",0000362997,143,64,Yes,265,306,7,578,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Heggadahally,NA,Gulya,0000362998,108,3,Yes,312,116,0,428,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Heggadahally,NA,Oodhanahally,0000362999,61,0,Yes,169,56,23,248,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Honnavara,NA,Purushanahally,0000363009,100,44,Yes,406,57,4,467,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hosahally,NA,Thippayanapalya,0000363023,48,0,Yes,173,0,25,198,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hulikunte,NA,Hulikunte,0000363037,288,175,Yes,935,88,150,1173,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hulikunte,NA,Chikkayellaiaapalya,0000363040,23,0,Yes,104,32,0,136,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hulikunte,NA,"Hulikunte Colony",0000363041,26,0,Yes,0,95,0,95,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kadanuru,NA,Bokipura,0000363062,61,0,Yes,245,34,0,279,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kanasavadi,NA,"M. G. Ramarayanapalya",0000363065,14,0,Yes,45,12,2,59,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kanasavadi,NA,Kenchagadahally,0000363069,172,0,Yes,614,81,0,695,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kanasavadi,NA,Udhichikkanahally,0000363072,61,0,Yes,313,0,0,313,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Sasalu,NA,Garudagallu,0000363189,75,0,Yes,238,44,0,282,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Thippuru,NA,Nellukunte,0000363208,97,0,Yes,273,115,0,388,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Thippuru,NA,Nagashettyhally,0000363212,68,0,Yes,151,92,32,275,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Thippuru,NA,Byrapura,0000363213,131,0,Yes,255,183,87,525,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Tubugere,NA,Naraganahally,0000363216,45,0,Yes,22,146,0,168,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Tubugere,NA,Kondasanda,0000363219,50,0,Yes,197,0,0,197,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Tubugere,NA,Sunnaghattahally,0000363225,94,0,Yes,376,0,0,376,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Tubugere,NA,Chikkamuddenahally,0000363230,115,0,Yes,264,144,51,459,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Tubugere,NA,Balenahally,0000363236,81,0,Yes,304,17,0,321,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Bhaktharahally,NA,Avalaiahnapalya,0001623756,35,0,Yes,0,130,0,130,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Doddabelavangala,NA,Ajjanakatte,0001623770,101,35,Yes,182,45,9,236,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Honnavara,NA,"Kammasanddra Dinne Colony",0001623774,15,0,Yes,12,40,0,52,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hosahally,NA,Kattehindalahally,0001623778,22,0,Yes,52,29,0,81,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Melekote,NA,"Bedikere Cross",0001623799,12,0,Yes,18,33,0,51,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hosahally,NA,"Hosahally Palya",0001659176,40,0,Yes,0,159,0,159,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Thippuru,NA,"Kamalur Palya",0001659178,30,0,Yes,102,20,0,122,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Thippuru,NA,"Majarahosahally Dinne Thanda",0001659179,48,0,Yes,110,0,37,147,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Dargajogihalli,NA,Dargajogihalli,0001722433,2494,444,Yes,8919,634,164,9717,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Arodi,NA,Chikkagundappanayakanally,0000362873,18,0,Yes,58,0,0,58,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Arodi,NA,Guttahally,0000362880,16,0,Yes,112,0,0,112,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Arodi,NA,Gowdanakunte,0000362881,106,2,Yes,397,80,0,477,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Arodi,NA,Kamenahally,0000362891,53,0,Yes,260,0,96,356,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Bashettihalli,NA,Bashettihalli,0000362893,2109,219,Yes,3892,884,333,5109,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Bhaktharahally,NA,Jyothipura,0000362911,63,0,Yes,48,50,92,190,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Bhaktharahally,NA,"M. Kalenahally",0000362913,70,20,Yes,215,105,0,320,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Bhaktharahally,NA,Adkavala,0000362918,80,0,Yes,230,250,0,480,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Bhaktharahally,NA,Alappanahally,0000362921,95,80,Yes,280,110,50,440,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Bhaktharahally,NA,Benachihatti,0000362923,60,0,Yes,0,350,0,350,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Bhaktharahally,NA,Hanumanthaianapalya,0000362924,20,0,Yes,0,120,0,120,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,"Channadevi Agrahara",NA,"Channadevi Agrahara",0000362925,81,45,Yes,171,97,0,268,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,"Channadevi Agrahara",NA,Madhure,0000362927,95,64,Yes,259,121,0,380,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,"Channadevi Agrahara",NA,Bandaianapalya,0000362934,88,0,Yes,350,0,0,350,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Doddabelavangala,NA,Ramapura,0000362941,171,0,Yes,422,227,101,750,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Doddabelavangala,NA,Karepura,0000362948,154,0,Yes,486,137,11,634,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Doddatumukuru,NA,"Karim Sonnenahally",0000362956,162,0,Yes,427,85,134,646,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hadonahlly,NA,Nellagudige,0000362967,52,0,Yes,120,108,3,231,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Aralumallige,NA,"Khane Hosahally",0000362864,89,0,Yes,180,138,36,354,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Aralumallige,NA,Ekashipura,0000362865,215,0,Yes,792,66,21,879,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Arodi,NA,Banavathi,0000362871,280,0,Yes,696,424,0,1120,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Arodi,NA,Gundappanayakanahlly,0000362874,150,0,Yes,678,0,0,678,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Arodi,NA,Pacharlahally,0000362875,60,0,Yes,358,22,0,380,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Arodi,NA,Marimakalahalli,0000362877,96,0,Yes,386,0,0,386,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Arodi,NA,Hanumanthapura,0000362879,60,0,Yes,11,301,0,312,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Bashettihalli,NA,"Arehalli Guddadahalli",0000362894,506,195,Yes,1450,487,126,2063,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Bhaktharahally,NA,Mallegowdanahally,0000362908,80,0,Yes,401,0,0,401,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Bhaktharahally,NA,Seeragondanahally,0000362912,37,0,Yes,160,0,0,160,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Bhaktharahally,NA,"Thannirina Hally",0000362914,75,0,Yes,350,0,0,350,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Bhaktharahally,NA,Gundlahally,0000362915,110,0,Yes,251,77,0,328,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Bhaktharahally,NA,Kadathippuru,0000362916,206,58,Yes,500,100,250,850,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Bhaktharahally,NA,Bommahally,0000362917,88,0,Yes,304,0,54,358,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,"Channadevi Agrahara",NA,Kumbalagunte,0000362928,45,1,Yes,138,42,0,180,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,"Channadevi Agrahara",NA,Mallohally,0000362929,232,56,Yes,1219,650,0,1869,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,"Channadevi Agrahara",NA,Mallohallypalya,0000362930,54,0,Yes,108,100,0,208,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,"Channadevi Agrahara",NA,"Mallohally Colony",0000362931,37,0,Yes,78,67,0,145,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,"Channadevi Agrahara",NA,Beeraihanapalya,0000362933,94,0,Yes,366,4,0,370,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Doddabelavangala,NA,Vaderahally,0000362943,49,0,Yes,121,72,0,193,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Doddabelavangala,NA,Bhaktharahally,0000362944,172,0,Yes,389,296,0,685,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Doddabelavangala,NA,Moogenahally,0000362946,68,0,Yes,216,51,5,272,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Doddabelavangala,NA,Doddahejjajaji,0000362947,280,185,Yes,787,416,109,1312,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Doddatumukuru,NA,Dombarahally,0000362950,70,0,Yes,225,51,1,277,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Doddatumukuru,NA,Byrasandra,0000362952,230,0,Yes,736,165,18,919,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Doddatumukuru,NA,"Byrasandra Palya",0000362953,129,0,Yes,454,67,5,526,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hadonahlly,NA,Hadonahlly,0000362957,445,0,Yes,1501,296,48,1845,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hadonahlly,NA,Bachahally,0000362964,134,0,Yes,325,281,0,606,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hadripura,NA,"Chunchegowdana Hosahally",0000362973,98,0,Yes,449,85,0,534,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hadripura,NA,Rameshwara,0000362974,258,8,Yes,685,183,0,868,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hanabe,NA,Maralenahally,0000362982,273,34,Yes,778,254,3,1035,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hanabe,NA,Galibilikote,0000362983,120,0,Yes,661,189,0,850,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hanabe,NA,Madeshwara,0000362984,119,22,Yes,774,76,10,860,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Heggadahally,NA,"D.d. Kodigehally",0000362993,144,0,Yes,230,306,55,591,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Honnavara,NA,Simpadipura,0000363005,106,0,Yes,92,225,141,458,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Honnavara,NA,"Puttaiana Agrahara",0000363008,186,0,Yes,712,133,0,845,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Honnavara,NA,Gulllya,0000363010,83,0,Yes,194,180,0,374,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hosahally,NA,Thekalahally,0000363019,16,0,Yes,50,0,13,63,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hosahally,NA,Jakkenahally,0000363021,38,0,Yes,68,68,17,153,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hosahally,NA,Kottigemachanahally,0000363026,199,0,Yes,436,257,96,789,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hosahally,NA,Bankenahally,0000363030,84,0,Yes,330,11,0,341,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hulikunte,NA,Appakaranahally,0000363045,97,0,Yes,194,38,0,232,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hulikunte,NA,Tharabanahally,0000363054,78,0,Yes,259,105,0,364,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kadanuru,NA,Kalludevanahally,0000363061,52,0,Yes,173,34,0,207,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kanasavadi,NA,"Marasandra Colony",0000363074,38,0,Yes,102,42,15,159,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kantanakunte,NA,Kantanakunte,0000363079,569,10,Yes,1433,430,18,1881,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kantanakunte,NA,Vaddarahally,0000363082,374,0,Yes,773,726,0,1499,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kantanakunte,NA,Medihally,0000363085,94,0,Yes,48,329,0,377,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kantanakunte,NA,Allasandra,0000363087,105,0,Yes,270,29,110,409,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kantanakunte,NA,Thapasihally,0000363088,170,13,Yes,557,97,25,679,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kestur,NA,Huskur,0000363093,222,120,Yes,544,349,0,893,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kestur,NA,"Koogonahally Colony",0000363098,43,0,Yes,78,45,25,148,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kodigehally,NA,Thalagawara,0000363104,274,9,Yes,624,443,26,1093,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kodigehally,NA,Madagondanahally,0000363105,199,0,Yes,495,304,0,799,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kodigehally,NA,Hasanagatta,0000363106,115,0,Yes,274,186,3,463,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Konaghatta,NA,Shivapura,0000363111,302,175,Yes,870,336,0,1206,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Majarahosahally,NA,Jinkebachahally,0000363117,308,102,Yes,1022,203,8,1233,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Majarahosahally,NA,"Vivekananda Nagara",0000363119,230,0,Yes,753,59,23,835,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Melekote,NA,Channapura,0000363128,101,0,Yes,312,27,35,374,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Melekote,NA,Beedikere,0000363129,270,0,Yes,729,295,45,1069,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Melinajoganahally,NA,"Pal Pal Dinne",0000363145,188,0,Yes,469,266,11,746,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Melinajoganahally,NA,Kelaginajooganahally,0000363148,151,0,Yes,394,155,51,600,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Melinajoganahally,NA,Melinanayakarandally,0000363152,212,8,Yes,180,426,236,842,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Melinajoganahally,NA,"Lambani Thanda",0000363153,35,0,Yes,62,60,15,137,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Rajaghatta,NA,Rajaghatta,0000363154,616,234,Yes,1695,487,278,2460,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Rajaghatta,NA,Dasagondahally,0000363155,188,0,Yes,434,185,137,756,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Rajaghatta,NA,Kanchiganala,0000363156,380,57,Yes,957,514,59,1530,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Rajaghatta,NA,Thimmasandra,0000363157,227,83,Yes,532,368,5,905,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Rajaghatta,NA,Muddanayakanapalya,0000363160,108,0,Yes,138,33,260,431,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,"Sakkare Gollahally",NA,Bheemarauthanahally,0000363168,38,0,Yes,116,31,0,147,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,"Sakkare Gollahally",NA,Kalenahally,0000363169,11,0,Yes,35,0,0,35,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,"Sakkare Gollahally",NA,Akkathammanahally,0000363172,142,0,Yes,337,233,0,570,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,"Sakkare Gollahally",NA,Karadipalya,0000363179,102,0,Yes,267,0,138,405,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Sasalu,NA,Gummanahally,0000363190,194,0,Yes,270,89,416,775,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Sasalu,NA,Thammaganahally,0000363191,104,0,Yes,268,145,0,413,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Sasalu,NA,Machenahally,0000363193,104,0,Yes,398,2,2,402,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Sasalu,NA,Sulikunte,0000363196,86,0,Yes,240,104,0,344,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Sasalu,NA,"Benakina Madagu",0000363197,96,0,Yes,253,129,0,382,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Sasalu,NA,"Kada Allappanahally",0000363198,176,0,Yes,512,187,0,699,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Thippuru,NA,Gundasandra,0000363203,114,0,Yes,364,100,0,464,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Thippuru,NA,Kadubyadarahally,0000363205,89,5,Yes,3,15,341,359,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Thippuru,NA,Karenahally,0000363206,65,0,Yes,120,62,63,245,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Thippuru,NA,Majarahosahally,0000363210,50,0,Yes,38,10,155,203,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Thippuru,NA,Jaligere,0000363214,87,0,Yes,186,164,0,350,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Tubugere,NA,Tubugere,0000363215,685,28,Yes,1298,1377,63,2738,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Tubugere,NA,Southenahally,0000363217,78,0,Yes,305,0,0,305,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Tubugere,NA,Kachahally,0000363220,75,0,Yes,299,0,0,299,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Tubugere,NA,Kavalahally,0000363223,12,0,Yes,38,1,2,41,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Tubugere,NA,Mukkadighatta,0000363234,85,0,Yes,176,0,163,339,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Bhaktharahally,NA,Dandithimmaihanapaly,0001623760,14,0,Yes,27,19,10,56,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Kanasavadi,NA,Kurithimmaihanapalya,0001623780,21,0,Yes,78,0,0,78,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Melinajoganahally,NA,Bandepalya,0001623800,24,0,Yes,52,40,4,96,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Sasalu,NA,Bovipalya,0001623804,27,0,Yes,59,43,4,106,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Sasalu,NA,Muthukattepalya,0001623805,17,0,Yes,62,2,0,64,NA,2024-06-07
+Karnataka,"Bangalore Rural",Dodballapur,Hanabe,NA,Rakkiramanahally,0001659175,32,0,Yes,130,0,0,130,NA,2024-06-07

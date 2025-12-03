@@ -1,0 +1,235 @@
+{
+  "index_name": "802bc38b-06b2-4e18-b866-b86ed0bc3f9d",
+  "title": "State-Wise Distribution Of  Enterprises By Type Of Enterprise  (Fourth All India Census of MSME: Unregistered Sector)",
+  "desc": "State-Wise Distribution Of  Enterprises By Type Of Enterprise  (Fourth All India Census of MSME: Unregistered Sector)",
+  "created": 1565004490,
+  "updated": 1565004490,
+  "created_date": "2019-08-05T16:58:10Z",
+  "updated_date": "2019-08-05T16:58:10Z",
+  "active": "1",
+  "visualizable": "1",
+  "catalog_uuid": "3fb4ce90-2f08-4a80-92a5-aaeec8082cd9",
+  "source": "data.gov.in",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Micro, Small and Medium Enterprises"
+  ],
+  "sector": [
+    "Industries",
+    "Micro",
+    "Small Scale"
+  ],
+  "field": [
+    {
+      "id": "__si_no",
+      "name": "SI. No",
+      "type": "keyword"
+    },
+    {
+      "id": "state_ut",
+      "name": "State/UT",
+      "type": "keyword"
+    },
+    {
+      "id": "micro_",
+      "name": "Micro",
+      "type": "double"
+    }
+  ],
+  "target_bucket": {
+    "index": "api",
+    "type": "3fb4ce90-2f08-4a80-92a5-aaeec8082cd9",
+    "field": "802bc38b-06b2-4e18-b866-b86ed0bc3f9d"
+  },
+  "external_ws_url": "",
+  "external_ws": "0",
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 36,
+  "count": 36,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "__si_no": "NA",
+      "state_ut": "1",
+      "micro_": "NA"
+    },
+    {
+      "__si_no": "NA",
+      "state_ut": "2",
+      "micro_": "NA"
+    },
+    {
+      "__si_no": "NA",
+      "state_ut": "3",
+      "micro_": "NA"
+    },
+    {
+      "__si_no": "NA",
+      "state_ut": "4",
+      "micro_": "NA"
+    },
+    {
+      "__si_no": "NA",
+      "state_ut": "5",
+      "micro_": "NA"
+    },
+    {
+      "__si_no": "NA",
+      "state_ut": "6",
+      "micro_": "NA"
+    },
+    {
+      "__si_no": "NA",
+      "state_ut": "7",
+      "micro_": "NA"
+    },
+    {
+      "__si_no": "NA",
+      "state_ut": "8",
+      "micro_": "NA"
+    },
+    {
+      "__si_no": "NA",
+      "state_ut": "9",
+      "micro_": "NA"
+    },
+    {
+      "__si_no": "NA",
+      "state_ut": "10",
+      "micro_": "NA"
+    },
+    {
+      "__si_no": "NA",
+      "state_ut": "11",
+      "micro_": "NA"
+    },
+    {
+      "__si_no": "NA",
+      "state_ut": "12",
+      "micro_": "NA"
+    },
+    {
+      "__si_no": "NA",
+      "state_ut": "13",
+      "micro_": "NA"
+    },
+    {
+      "__si_no": "NA",
+      "state_ut": "14",
+      "micro_": "NA"
+    },
+    {
+      "__si_no": "NA",
+      "state_ut": "15",
+      "micro_": "NA"
+    },
+    {
+      "__si_no": "NA",
+      "state_ut": "16",
+      "micro_": "NA"
+    },
+    {
+      "__si_no": "NA",
+      "state_ut": "17",
+      "micro_": "NA"
+    },
+    {
+      "__si_no": "NA",
+      "state_ut": "18",
+      "micro_": "NA"
+    },
+    {
+      "__si_no": "NA",
+      "state_ut": "19",
+      "micro_": "NA"
+    },
+    {
+      "__si_no": "NA",
+      "state_ut": "20",
+      "micro_": "NA"
+    },
+    {
+      "__si_no": "NA",
+      "state_ut": "21",
+      "micro_": "NA"
+    },
+    {
+      "__si_no": "NA",
+      "state_ut": "22",
+      "micro_": "NA"
+    },
+    {
+      "__si_no": "NA",
+      "state_ut": "23",
+      "micro_": "NA"
+    },
+    {
+      "__si_no": "NA",
+      "state_ut": "24",
+      "micro_": "NA"
+    },
+    {
+      "__si_no": "NA",
+      "state_ut": "25",
+      "micro_": "NA"
+    },
+    {
+      "__si_no": "NA",
+      "state_ut": "26",
+      "micro_": "NA"
+    },
+    {
+      "__si_no": "NA",
+      "state_ut": "27",
+      "micro_": "NA"
+    },
+    {
+      "__si_no": "NA",
+      "state_ut": "28",
+      "micro_": "NA"
+    },
+    {
+      "__si_no": "NA",
+      "state_ut": "29",
+      "micro_": "NA"
+    },
+    {
+      "__si_no": "NA",
+      "state_ut": "30",
+      "micro_": "NA"
+    },
+    {
+      "__si_no": "NA",
+      "state_ut": "31",
+      "micro_": "NA"
+    },
+    {
+      "__si_no": "NA",
+      "state_ut": "32",
+      "micro_": "NA"
+    },
+    {
+      "__si_no": "NA",
+      "state_ut": "33",
+      "micro_": "NA"
+    },
+    {
+      "__si_no": "NA",
+      "state_ut": "34",
+      "micro_": "NA"
+    },
+    {
+      "__si_no": "NA",
+      "state_ut": "35",
+      "micro_": "NA"
+    },
+    {
+      "__si_no": "NA",
+      "state_ut": "NA",
+      "micro_": "NA"
+    }
+  ]
+}

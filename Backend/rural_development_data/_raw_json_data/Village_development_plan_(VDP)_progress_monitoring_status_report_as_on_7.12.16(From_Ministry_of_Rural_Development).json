@@ -1,0 +1,490 @@
+{
+  "index_name": "ae1a1fa0-42af-4f0c-b667-ca91f7a93ca8",
+  "title": "Village development plan (VDP) progress monitoring status report as on 7.12.16(From:Ministry of Rural Development)",
+  "desc": "Village development plan (VDP) progress monitoring status report as on 7.12.16(From:Ministry of Rural Development)",
+  "org_type": "Central",
+  "org": [
+    "Rajya Sabha"
+  ],
+  "sector": [
+    "All"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "86086b4e-760e-4c56-a3c4-9aef5a38ab0a",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1697811419,
+  "updated": 1698056624,
+  "created_date": "2023-10-20T16:16:59Z",
+  "updated_date": "2023-10-23T15:53:44Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "86086b4e-760e-4c56-a3c4-9aef5a38ab0a",
+    "field": "ae1a1fa0-42af-4f0c-b667-ca91f7a93ca8"
+  },
+  "field": [
+    {
+      "id": "sr_no",
+      "name": "Sr.No",
+      "type": "keyword"
+    },
+    {
+      "id": "state___ut",
+      "name": "State / UT",
+      "type": "keyword"
+    },
+    {
+      "id": "identi_fied_gp_s",
+      "name": "Identi fied GP's",
+      "type": "double"
+    },
+    {
+      "id": "no__of_gps_uploa_ded_vdp",
+      "name": "No. of GPs Uploa ded VDP",
+      "type": "double"
+    },
+    {
+      "id": "total_number_of_projects",
+      "name": "Total Number of Projects",
+      "type": "double"
+    },
+    {
+      "id": "no__of_project_s_comple_ted",
+      "name": "No. of Project s Comple ted",
+      "type": "double"
+    },
+    {
+      "id": "no__of_project_s_in__progre_ss",
+      "name": "No. of Project s In- Progre ss",
+      "type": "double"
+    },
+    {
+      "id": "no__of_projects_yet_to_start",
+      "name": "No. of Projects yet to Start",
+      "type": "double"
+    },
+    {
+      "id": "no__of_gps_updated_vdp_progress",
+      "name": "No. of GPs updated VDP Progress",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 37,
+  "count": 37,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "sr_no": "1",
+      "state___ut": "ANDAMAN AND NICOBAR ISLANDS",
+      "identi_fied_gp_s": 1,
+      "no__of_gps_uploa_ded_vdp": 1,
+      "total_number_of_projects": 242,
+      "no__of_project_s_comple_ted": 11,
+      "no__of_project_s_in__progre_ss": 78,
+      "no__of_projects_yet_to_start": 153,
+      "no__of_gps_updated_vdp_progress": 1
+    },
+    {
+      "sr_no": "2",
+      "state___ut": "ANDHRA PRADESH",
+      "identi_fied_gp_s": 32,
+      "no__of_gps_uploa_ded_vdp": 15,
+      "total_number_of_projects": 415,
+      "no__of_project_s_comple_ted": 100,
+      "no__of_project_s_in__progre_ss": 61,
+      "no__of_projects_yet_to_start": 254,
+      "no__of_gps_updated_vdp_progress": 11
+    },
+    {
+      "sr_no": "3",
+      "state___ut": "ARUNACHAL PRADESH",
+      "identi_fied_gp_s": 3,
+      "no__of_gps_uploa_ded_vdp": 3,
+      "total_number_of_projects": 216,
+      "no__of_project_s_comple_ted": 28,
+      "no__of_project_s_in__progre_ss": 27,
+      "no__of_projects_yet_to_start": 161,
+      "no__of_gps_updated_vdp_progress": 3
+    },
+    {
+      "sr_no": "4",
+      "state___ut": "ASSAM",
+      "identi_fied_gp_s": 21,
+      "no__of_gps_uploa_ded_vdp": 21,
+      "total_number_of_projects": 2017,
+      "no__of_project_s_comple_ted": 162,
+      "no__of_project_s_in__progre_ss": 501,
+      "no__of_projects_yet_to_start": 1354,
+      "no__of_gps_updated_vdp_progress": 21
+    },
+    {
+      "sr_no": "5",
+      "state___ut": "BIHAR",
+      "identi_fied_gp_s": 53,
+      "no__of_gps_uploa_ded_vdp": 52,
+      "total_number_of_projects": 3780,
+      "no__of_project_s_comple_ted": 575,
+      "no__of_project_s_in__progre_ss": 411,
+      "no__of_projects_yet_to_start": 2794,
+      "no__of_gps_updated_vdp_progress": 27
+    },
+    {
+      "sr_no": "6",
+      "state___ut": "CHANDIGARH",
+      "identi_fied_gp_s": 1,
+      "no__of_gps_uploa_ded_vdp": 1,
+      "total_number_of_projects": 18,
+      "no__of_project_s_comple_ted": 12,
+      "no__of_project_s_in__progre_ss": 2,
+      "no__of_projects_yet_to_start": 4,
+      "no__of_gps_updated_vdp_progress": 1
+    },
+    {
+      "sr_no": "7",
+      "state___ut": "CHHATTISGARH",
+      "identi_fied_gp_s": 16,
+      "no__of_gps_uploa_ded_vdp": 16,
+      "total_number_of_projects": 1727,
+      "no__of_project_s_comple_ted": 1008,
+      "no__of_project_s_in__progre_ss": 333,
+      "no__of_projects_yet_to_start": 386,
+      "no__of_gps_updated_vdp_progress": 16
+    },
+    {
+      "sr_no": "8",
+      "state___ut": "DADRA AND NAGAR HAVELI",
+      "identi_fied_gp_s": 1,
+      "no__of_gps_uploa_ded_vdp": "0",
+      "total_number_of_projects": "0",
+      "no__of_project_s_comple_ted": "0",
+      "no__of_project_s_in__progre_ss": "0",
+      "no__of_projects_yet_to_start": "0",
+      "no__of_gps_updated_vdp_progress": "0"
+    },
+    {
+      "sr_no": "9",
+      "state___ut": "DAMAN AND DIU",
+      "identi_fied_gp_s": 1,
+      "no__of_gps_uploa_ded_vdp": 1,
+      "total_number_of_projects": 52,
+      "no__of_project_s_comple_ted": 24,
+      "no__of_project_s_in__progre_ss": 8,
+      "no__of_projects_yet_to_start": 20,
+      "no__of_gps_updated_vdp_progress": 1
+    },
+    {
+      "sr_no": "10",
+      "state___ut": "DELHI",
+      "identi_fied_gp_s": 8,
+      "no__of_gps_uploa_ded_vdp": "0",
+      "total_number_of_projects": "0",
+      "no__of_project_s_comple_ted": "0",
+      "no__of_project_s_in__progre_ss": "0",
+      "no__of_projects_yet_to_start": "0",
+      "no__of_gps_updated_vdp_progress": "0"
+    },
+    {
+      "sr_no": "11",
+      "state___ut": "GOA",
+      "identi_fied_gp_s": 3,
+      "no__of_gps_uploa_ded_vdp": 3,
+      "total_number_of_projects": 172,
+      "no__of_project_s_comple_ted": 27,
+      "no__of_project_s_in__progre_ss": 10,
+      "no__of_projects_yet_to_start": 135,
+      "no__of_gps_updated_vdp_progress": 1
+    },
+    {
+      "sr_no": "12",
+      "state___ut": "GUJARAT",
+      "identi_fied_gp_s": 37,
+      "no__of_gps_uploa_ded_vdp": 37,
+      "total_number_of_projects": 964,
+      "no__of_project_s_comple_ted": 429,
+      "no__of_project_s_in__progre_ss": 294,
+      "no__of_projects_yet_to_start": 241,
+      "no__of_gps_updated_vdp_progress": 37
+    },
+    {
+      "sr_no": "13",
+      "state___ut": "HARYANA",
+      "identi_fied_gp_s": 15,
+      "no__of_gps_uploa_ded_vdp": 15,
+      "total_number_of_projects": 861,
+      "no__of_project_s_comple_ted": 471,
+      "no__of_project_s_in__progre_ss": 257,
+      "no__of_projects_yet_to_start": 133,
+      "no__of_gps_updated_vdp_progress": 15
+    },
+    {
+      "sr_no": "14",
+      "state___ut": "HIMACHAL PRADESH",
+      "identi_fied_gp_s": 7,
+      "no__of_gps_uploa_ded_vdp": 7,
+      "total_number_of_projects": 595,
+      "no__of_project_s_comple_ted": 163,
+      "no__of_project_s_in__progre_ss": 94,
+      "no__of_projects_yet_to_start": 338,
+      "no__of_gps_updated_vdp_progress": 7
+    },
+    {
+      "sr_no": "15",
+      "state___ut": "JAMMU AND KASHMIR",
+      "identi_fied_gp_s": 10,
+      "no__of_gps_uploa_ded_vdp": 10,
+      "total_number_of_projects": 782,
+      "no__of_project_s_comple_ted": 278,
+      "no__of_project_s_in__progre_ss": 104,
+      "no__of_projects_yet_to_start": 400,
+      "no__of_gps_updated_vdp_progress": 9
+    },
+    {
+      "sr_no": "16",
+      "state___ut": "JHARKHAND",
+      "identi_fied_gp_s": 20,
+      "no__of_gps_uploa_ded_vdp": 20,
+      "total_number_of_projects": 2311,
+      "no__of_project_s_comple_ted": 535,
+      "no__of_project_s_in__progre_ss": 592,
+      "no__of_projects_yet_to_start": 1184,
+      "no__of_gps_updated_vdp_progress": 20
+    },
+    {
+      "sr_no": "17",
+      "state___ut": "KARNATAKA",
+      "identi_fied_gp_s": 39,
+      "no__of_gps_uploa_ded_vdp": 39,
+      "total_number_of_projects": 6906,
+      "no__of_project_s_comple_ted": 2371,
+      "no__of_project_s_in__progre_ss": 797,
+      "no__of_projects_yet_to_start": 3738,
+      "no__of_gps_updated_vdp_progress": 29
+    },
+    {
+      "sr_no": "18",
+      "state___ut": "KERALA",
+      "identi_fied_gp_s": 31,
+      "no__of_gps_uploa_ded_vdp": 30,
+      "total_number_of_projects": 1665,
+      "no__of_project_s_comple_ted": 388,
+      "no__of_project_s_in__progre_ss": 503,
+      "no__of_projects_yet_to_start": 774,
+      "no__of_gps_updated_vdp_progress": 30
+    },
+    {
+      "sr_no": "19",
+      "state___ut": "LAKSHADWEEP",
+      "identi_fied_gp_s": 1,
+      "no__of_gps_uploa_ded_vdp": 1,
+      "total_number_of_projects": 158,
+      "no__of_project_s_comple_ted": 8,
+      "no__of_project_s_in__progre_ss": 118,
+      "no__of_projects_yet_to_start": 32,
+      "no__of_gps_updated_vdp_progress": 1
+    },
+    {
+      "sr_no": "20",
+      "state___ut": "MADHYA PRADESH",
+      "identi_fied_gp_s": 37,
+      "no__of_gps_uploa_ded_vdp": 37,
+      "total_number_of_projects": 1989,
+      "no__of_project_s_comple_ted": 1139,
+      "no__of_project_s_in__progre_ss": 365,
+      "no__of_projects_yet_to_start": 485,
+      "no__of_gps_updated_vdp_progress": 37
+    },
+    {
+      "sr_no": "21",
+      "state___ut": "MAHARASHTRA",
+      "identi_fied_gp_s": 70,
+      "no__of_gps_uploa_ded_vdp": 70,
+      "total_number_of_projects": 5221,
+      "no__of_project_s_comple_ted": 2154,
+      "no__of_project_s_in__progre_ss": 870,
+      "no__of_projects_yet_to_start": 2197,
+      "no__of_gps_updated_vdp_progress": 70
+    },
+    {
+      "sr_no": "22",
+      "state___ut": "MANIPUR",
+      "identi_fied_gp_s": 3,
+      "no__of_gps_uploa_ded_vdp": 3,
+      "total_number_of_projects": 163,
+      "no__of_project_s_comple_ted": 28,
+      "no__of_project_s_in__progre_ss": 68,
+      "no__of_projects_yet_to_start": 67,
+      "no__of_gps_updated_vdp_progress": 3
+    },
+    {
+      "sr_no": "23",
+      "state___ut": "MEGHALAYA",
+      "identi_fied_gp_s": 4,
+      "no__of_gps_uploa_ded_vdp": 4,
+      "total_number_of_projects": 320,
+      "no__of_project_s_comple_ted": 86,
+      "no__of_project_s_in__progre_ss": 87,
+      "no__of_projects_yet_to_start": 147,
+      "no__of_gps_updated_vdp_progress": 4
+    },
+    {
+      "sr_no": "24",
+      "state___ut": "MIZORAM",
+      "identi_fied_gp_s": 2,
+      "no__of_gps_uploa_ded_vdp": 2,
+      "total_number_of_projects": 258,
+      "no__of_project_s_comple_ted": 144,
+      "no__of_project_s_in__progre_ss": 40,
+      "no__of_projects_yet_to_start": 74,
+      "no__of_gps_updated_vdp_progress": 2
+    },
+    {
+      "sr_no": "25",
+      "state___ut": "NAGALAND",
+      "identi_fied_gp_s": 2,
+      "no__of_gps_uploa_ded_vdp": 2,
+      "total_number_of_projects": 71,
+      "no__of_project_s_comple_ted": 16,
+      "no__of_project_s_in__progre_ss": 14,
+      "no__of_projects_yet_to_start": 41,
+      "no__of_gps_updated_vdp_progress": 2
+    },
+    {
+      "sr_no": "26",
+      "state___ut": "ODISHA",
+      "identi_fied_gp_s": 28,
+      "no__of_gps_uploa_ded_vdp": 24,
+      "total_number_of_projects": 372,
+      "no__of_project_s_comple_ted": 58,
+      "no__of_project_s_in__progre_ss": 13,
+      "no__of_projects_yet_to_start": 301,
+      "no__of_gps_updated_vdp_progress": 7
+    },
+    {
+      "sr_no": "27",
+      "state___ut": "PUDUCHERRY",
+      "identi_fied_gp_s": 2,
+      "no__of_gps_uploa_ded_vdp": 2,
+      "total_number_of_projects": 72,
+      "no__of_project_s_comple_ted": 17,
+      "no__of_project_s_in__progre_ss": 40,
+      "no__of_projects_yet_to_start": 15,
+      "no__of_gps_updated_vdp_progress": 2
+    },
+    {
+      "sr_no": "28",
+      "state___ut": "PUNJAB",
+      "identi_fied_gp_s": 20,
+      "no__of_gps_uploa_ded_vdp": 20,
+      "total_number_of_projects": 742,
+      "no__of_project_s_comple_ted": 172,
+      "no__of_project_s_in__progre_ss": 199,
+      "no__of_projects_yet_to_start": 371,
+      "no__of_gps_updated_vdp_progress": 19
+    },
+    {
+      "sr_no": "29",
+      "state___ut": "RAJASTHAN",
+      "identi_fied_gp_s": 34,
+      "no__of_gps_uploa_ded_vdp": 34,
+      "total_number_of_projects": 1611,
+      "no__of_project_s_comple_ted": 544,
+      "no__of_project_s_in__progre_ss": 317,
+      "no__of_projects_yet_to_start": 750,
+      "no__of_gps_updated_vdp_progress": 34
+    },
+    {
+      "sr_no": "30",
+      "state___ut": "SIKKIM",
+      "identi_fied_gp_s": 2,
+      "no__of_gps_uploa_ded_vdp": 2,
+      "total_number_of_projects": 42,
+      "no__of_project_s_comple_ted": 30,
+      "no__of_project_s_in__progre_ss": 12,
+      "no__of_projects_yet_to_start": "0",
+      "no__of_gps_updated_vdp_progress": 2
+    },
+    {
+      "sr_no": "31",
+      "state___ut": "TAMIL NADU",
+      "identi_fied_gp_s": 58,
+      "no__of_gps_uploa_ded_vdp": 58,
+      "total_number_of_projects": 2840,
+      "no__of_project_s_comple_ted": 1056,
+      "no__of_project_s_in__progre_ss": 701,
+      "no__of_projects_yet_to_start": 1083,
+      "no__of_gps_updated_vdp_progress": 58
+    },
+    {
+      "sr_no": "32",
+      "state___ut": "TELANGANA",
+      "identi_fied_gp_s": 22,
+      "no__of_gps_uploa_ded_vdp": 22,
+      "total_number_of_projects": 1099,
+      "no__of_project_s_comple_ted": 363,
+      "no__of_project_s_in__progre_ss": 245,
+      "no__of_projects_yet_to_start": 491,
+      "no__of_gps_updated_vdp_progress": 21
+    },
+    {
+      "sr_no": "33",
+      "state___ut": "TRIPURA",
+      "identi_fied_gp_s": 3,
+      "no__of_gps_uploa_ded_vdp": 3,
+      "total_number_of_projects": 159,
+      "no__of_project_s_comple_ted": 47,
+      "no__of_project_s_in__progre_ss": 42,
+      "no__of_projects_yet_to_start": 70,
+      "no__of_gps_updated_vdp_progress": 3
+    },
+    {
+      "sr_no": "34",
+      "state___ut": "UTTAR PRADESH",
+      "identi_fied_gp_s": 104,
+      "no__of_gps_uploa_ded_vdp": 104,
+      "total_number_of_projects": 2723,
+      "no__of_project_s_comple_ted": 1284,
+      "no__of_project_s_in__progre_ss": 472,
+      "no__of_projects_yet_to_start": 967,
+      "no__of_gps_updated_vdp_progress": 85
+    },
+    {
+      "sr_no": "35",
+      "state___ut": "UTTARAKHAND",
+      "identi_fied_gp_s": 7,
+      "no__of_gps_uploa_ded_vdp": 7,
+      "total_number_of_projects": 378,
+      "no__of_project_s_comple_ted": 265,
+      "no__of_project_s_in__progre_ss": 65,
+      "no__of_projects_yet_to_start": 48,
+      "no__of_gps_updated_vdp_progress": 7
+    },
+    {
+      "sr_no": "36",
+      "state___ut": "WEST BENGAL",
+      "identi_fied_gp_s": 5,
+      "no__of_gps_uploa_ded_vdp": 1,
+      "total_number_of_projects": 61,
+      "no__of_project_s_comple_ted": "0",
+      "no__of_project_s_in__progre_ss": "0",
+      "no__of_projects_yet_to_start": 61,
+      "no__of_gps_updated_vdp_progress": "0"
+    },
+    {
+      "sr_no": "Total",
+      "state___ut": "Total",
+      "identi_fied_gp_s": 703,
+      "no__of_gps_uploa_ded_vdp": 667,
+      "total_number_of_projects": 41002,
+      "no__of_project_s_comple_ted": 13993,
+      "no__of_project_s_in__progre_ss": 7740,
+      "no__of_projects_yet_to_start": 19269,
+      "no__of_gps_updated_vdp_progress": 586
+    }
+  ]
+}

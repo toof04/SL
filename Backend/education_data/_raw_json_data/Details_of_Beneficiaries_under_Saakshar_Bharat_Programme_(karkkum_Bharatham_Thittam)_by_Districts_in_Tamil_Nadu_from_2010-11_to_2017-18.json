@@ -1,0 +1,226 @@
+{
+  "index_name": "dfbc330a-213b-4d1e-8a33-423d85f65a00",
+  "title": "Details of Beneficiaries under Saakshar Bharat Programme (karkkum Bharatham Thittam) by Districts in Tamil Nadu from 2010-11 to 2017-18",
+  "desc": "Details of Beneficiaries under Saakshar Bharat Programme (karkkum Bharatham Thittam) by Districts in Tamil Nadu from 2010-11 to 2017-18",
+  "org_type": "State",
+  "org": [
+    "Tamil Nadu",
+    "School Education Department",
+    "Non-formal and Adult Education"
+  ],
+  "sector": [
+    "Education",
+    "Adult Education"
+  ],
+  "source": "tn.data.gov.in",
+  "catalog_uuid": "b1f29276-2187-49d2-b500-7fdf7004133e",
+  "visualizable": "0",
+  "active": "1",
+  "created": 1760079720,
+  "updated": 1760079720,
+  "created_date": "2025-10-10T09:02:00Z",
+  "updated_date": "2025-10-10T09:02:00Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "b1f29276-2187-49d2-b500-7fdf7004133e",
+    "field": "dfbc330a-213b-4d1e-8a33-423d85f65a00"
+  },
+  "field": [
+    {
+      "id": "sl_no_",
+      "name": "Sl.No",
+      "type": "keyword"
+    },
+    {
+      "id": "name_of_the_district",
+      "name": "Name of the District",
+      "type": "keyword"
+    },
+    {
+      "id": "beneficiaries_in_2010___11",
+      "name": "Beneficiaries in 2010 - 11",
+      "type": "double"
+    },
+    {
+      "id": "beneficiaries_in_2011___12",
+      "name": "Beneficiaries in 2011 - 12",
+      "type": "double"
+    },
+    {
+      "id": "beneficiaries_in_2012___13",
+      "name": "Beneficiaries in 2012 - 13",
+      "type": "double"
+    },
+    {
+      "id": "beneficiaries_in_2013___14",
+      "name": "Beneficiaries in 2013 - 14",
+      "type": "double"
+    },
+    {
+      "id": "beneficiaries_in_2014___15",
+      "name": "Beneficiaries in 2014 - 15",
+      "type": "double"
+    },
+    {
+      "id": "beneficiaries_in_2015___16",
+      "name": "Beneficiaries in 2015 - 16",
+      "type": "double"
+    },
+    {
+      "id": "beneficiaries_in_2016___17",
+      "name": "Beneficiaries in 2016 - 17",
+      "type": "double"
+    },
+    {
+      "id": "beneficiaries_in_2017___18",
+      "name": "Beneficiaries in 2017 - 18",
+      "type": "double"
+    },
+    {
+      "id": "grand_total",
+      "name": "Grand Total",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 10,
+  "count": 10,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "sl_no_": "1",
+      "name_of_the_district": "Ariyalur",
+      "beneficiaries_in_2010___11": 1024,
+      "beneficiaries_in_2011___12": 55459,
+      "beneficiaries_in_2012___13": 24368,
+      "beneficiaries_in_2013___14": 6863,
+      "beneficiaries_in_2014___15": 29116,
+      "beneficiaries_in_2015___16": 1520,
+      "beneficiaries_in_2016___17": 11352,
+      "beneficiaries_in_2017___18": 4366,
+      "grand_total": 134068
+    },
+    {
+      "sl_no_": "2",
+      "name_of_the_district": "Dharmapuri",
+      "beneficiaries_in_2010___11": 45260,
+      "beneficiaries_in_2011___12": 207363,
+      "beneficiaries_in_2012___13": 7103,
+      "beneficiaries_in_2013___14": 4661,
+      "beneficiaries_in_2014___15": 23723,
+      "beneficiaries_in_2015___16": 2668,
+      "beneficiaries_in_2016___17": 4982,
+      "beneficiaries_in_2017___18": 8034,
+      "grand_total": 303794
+    },
+    {
+      "sl_no_": "3",
+      "name_of_the_district": "Erode",
+      "beneficiaries_in_2010___11": 55342,
+      "beneficiaries_in_2011___12": 165853,
+      "beneficiaries_in_2012___13": 23487,
+      "beneficiaries_in_2013___14": 8786,
+      "beneficiaries_in_2014___15": 29607,
+      "beneficiaries_in_2015___16": 227,
+      "beneficiaries_in_2016___17": 1130,
+      "beneficiaries_in_2017___18": 5341,
+      "grand_total": 289773
+    },
+    {
+      "sl_no_": "4",
+      "name_of_the_district": "Perambalur",
+      "beneficiaries_in_2010___11": 12664,
+      "beneficiaries_in_2011___12": 40653,
+      "beneficiaries_in_2012___13": 19926,
+      "beneficiaries_in_2013___14": 4545,
+      "beneficiaries_in_2014___15": 7270,
+      "beneficiaries_in_2015___16": 438,
+      "beneficiaries_in_2016___17": 564,
+      "beneficiaries_in_2017___18": 1772,
+      "grand_total": 87832
+    },
+    {
+      "sl_no_": "5",
+      "name_of_the_district": "Salem",
+      "beneficiaries_in_2010___11": 29971,
+      "beneficiaries_in_2011___12": 191337,
+      "beneficiaries_in_2012___13": 39498,
+      "beneficiaries_in_2013___14": 13351,
+      "beneficiaries_in_2014___15": 79476,
+      "beneficiaries_in_2015___16": 2596,
+      "beneficiaries_in_2016___17": 10244,
+      "beneficiaries_in_2017___18": 12006,
+      "grand_total": 378479
+    },
+    {
+      "sl_no_": "6",
+      "name_of_the_district": "Villupuram",
+      "beneficiaries_in_2010___11": 101836,
+      "beneficiaries_in_2011___12": 327871,
+      "beneficiaries_in_2012___13": 69122,
+      "beneficiaries_in_2013___14": 19329,
+      "beneficiaries_in_2014___15": 44764,
+      "beneficiaries_in_2015___16": 3795,
+      "beneficiaries_in_2016___17": 22193,
+      "beneficiaries_in_2017___18": 16589,
+      "grand_total": 605499
+    },
+    {
+      "sl_no_": "7",
+      "name_of_the_district": "Tiruvannamalai",
+      "beneficiaries_in_2010___11": 21458,
+      "beneficiaries_in_2011___12": 256516,
+      "beneficiaries_in_2012___13": 29977,
+      "beneficiaries_in_2013___14": 9770,
+      "beneficiaries_in_2014___15": 10034,
+      "beneficiaries_in_2015___16": 671,
+      "beneficiaries_in_2016___17": 3562,
+      "beneficiaries_in_2017___18": 21117,
+      "grand_total": 353105
+    },
+    {
+      "sl_no_": "8",
+      "name_of_the_district": "Tiruppur",
+      "beneficiaries_in_2010___11": "NA",
+      "beneficiaries_in_2011___12": "NA",
+      "beneficiaries_in_2012___13": "NA",
+      "beneficiaries_in_2013___14": "NA",
+      "beneficiaries_in_2014___15": 37636,
+      "beneficiaries_in_2015___16": 20754,
+      "beneficiaries_in_2016___17": 3700,
+      "beneficiaries_in_2017___18": 52178,
+      "grand_total": 114268
+    },
+    {
+      "sl_no_": "9",
+      "name_of_the_district": "Krishnagiri",
+      "beneficiaries_in_2010___11": "NA",
+      "beneficiaries_in_2011___12": "NA",
+      "beneficiaries_in_2012___13": "NA",
+      "beneficiaries_in_2013___14": "NA",
+      "beneficiaries_in_2014___15": 81737,
+      "beneficiaries_in_2015___16": 102962,
+      "beneficiaries_in_2016___17": 58482,
+      "beneficiaries_in_2017___18": 29689,
+      "grand_total": 272870
+    },
+    {
+      "sl_no_": "Total",
+      "name_of_the_district": "Grand Total",
+      "beneficiaries_in_2010___11": 267555,
+      "beneficiaries_in_2011___12": 1245052,
+      "beneficiaries_in_2012___13": 213481,
+      "beneficiaries_in_2013___14": 67305,
+      "beneficiaries_in_2014___15": 343363,
+      "beneficiaries_in_2015___16": 135631,
+      "beneficiaries_in_2016___17": 116209,
+      "beneficiaries_in_2017___18": 151092,
+      "grand_total": 2539688
+    }
+  ]
+}

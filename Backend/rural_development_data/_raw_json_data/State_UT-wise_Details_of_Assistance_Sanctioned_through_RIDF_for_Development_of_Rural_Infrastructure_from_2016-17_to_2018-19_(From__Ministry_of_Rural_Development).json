@@ -1,0 +1,280 @@
+{
+  "index_name": "c71bd3d5-1986-49f9-89bf-b8b6147ce322",
+  "title": "State/UT-wise Details of Assistance Sanctioned through RIDF for Development of Rural Infrastructure from 2016-17 to 2018-19 (From: Ministry of Rural Development)",
+  "desc": "State/UT-wise Details of Assistance Sanctioned through RIDF for Development of Rural Infrastructure from 2016-17 to 2018-19 (From: Ministry of Rural Development)",
+  "org_type": "Central",
+  "org": [
+    "Rajya Sabha"
+  ],
+  "sector": [
+    "All"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "573512d4-36eb-4cba-b16a-36cdc7789a76",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1614671030,
+  "updated": 1614923655,
+  "created_date": "2021-03-02T07:43:50Z",
+  "updated_date": "2021-03-05T11:24:15Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "573512d4-36eb-4cba-b16a-36cdc7789a76",
+    "field": "c71bd3d5-1986-49f9-89bf-b8b6147ce322"
+  },
+  "field": [
+    {
+      "id": "_sr__no_",
+      "name": "Sr. No.",
+      "type": "keyword"
+    },
+    {
+      "id": "state_ut",
+      "name": "State/UT",
+      "type": "keyword"
+    },
+    {
+      "id": "_2016_17___sanctions",
+      "name": "2016-17 - Sanctions",
+      "type": "double"
+    },
+    {
+      "id": "_2017_18___sanctions",
+      "name": "2017-18 - Sanctions",
+      "type": "double"
+    },
+    {
+      "id": "_2018_19___sanctions",
+      "name": "2018-19 - Sanctions",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 31,
+  "count": 31,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "_sr__no_": "1",
+      "state_ut": "Andhra Pradesh",
+      "_2016_17___sanctions": 1054.28,
+      "_2017_18___sanctions": 1103.92,
+      "_2018_19___sanctions": 1309.62
+    },
+    {
+      "_sr__no_": "2",
+      "state_ut": "Arunachal Pradesh",
+      "_2016_17___sanctions": 255.47,
+      "_2017_18___sanctions": 336.2,
+      "_2018_19___sanctions": 341.97
+    },
+    {
+      "_sr__no_": "3",
+      "state_ut": "Assam",
+      "_2016_17___sanctions": 858.82,
+      "_2017_18___sanctions": 809.53,
+      "_2018_19___sanctions": 1397.73
+    },
+    {
+      "_sr__no_": "4",
+      "state_ut": "Bihar",
+      "_2016_17___sanctions": 1836.32,
+      "_2017_18___sanctions": 1604.25,
+      "_2018_19___sanctions": 1631.64
+    },
+    {
+      "_sr__no_": "5",
+      "state_ut": "Chattisgarh",
+      "_2016_17___sanctions": 841.89,
+      "_2017_18___sanctions": 1097.5,
+      "_2018_19___sanctions": 1144.28
+    },
+    {
+      "_sr__no_": "6",
+      "state_ut": "Goa",
+      "_2016_17___sanctions": "0",
+      "_2017_18___sanctions": 180.83,
+      "_2018_19___sanctions": 156.48
+    },
+    {
+      "_sr__no_": "7",
+      "state_ut": "Gujarat",
+      "_2016_17___sanctions": 2274.4,
+      "_2017_18___sanctions": 2242.14,
+      "_2018_19___sanctions": 2423.59
+    },
+    {
+      "_sr__no_": "8",
+      "state_ut": "Haryana",
+      "_2016_17___sanctions": 500.83,
+      "_2017_18___sanctions": 809.46,
+      "_2018_19___sanctions": 1299.29
+    },
+    {
+      "_sr__no_": "9",
+      "state_ut": "Himachal Pradesh",
+      "_2016_17___sanctions": 545.55,
+      "_2017_18___sanctions": 510.6,
+      "_2018_19___sanctions": 544.21
+    },
+    {
+      "_sr__no_": "10",
+      "state_ut": "Jammu & Kashmir",
+      "_2016_17___sanctions": 440.76,
+      "_2017_18___sanctions": 409.19,
+      "_2018_19___sanctions": 453.45
+    },
+    {
+      "_sr__no_": "11",
+      "state_ut": "Jharkhand",
+      "_2016_17___sanctions": 1452.92,
+      "_2017_18___sanctions": 1638.38,
+      "_2018_19___sanctions": 1509.49
+    },
+    {
+      "_sr__no_": "12",
+      "state_ut": "Karnataka",
+      "_2016_17___sanctions": 908.95,
+      "_2017_18___sanctions": 882.21,
+      "_2018_19___sanctions": 809.75
+    },
+    {
+      "_sr__no_": "13",
+      "state_ut": "Kerala",
+      "_2016_17___sanctions": 673.99,
+      "_2017_18___sanctions": 507.08,
+      "_2018_19___sanctions": 726.56
+    },
+    {
+      "_sr__no_": "14",
+      "state_ut": "Madhya Pradesh",
+      "_2016_17___sanctions": 1855.1,
+      "_2017_18___sanctions": 2019.46,
+      "_2018_19___sanctions": 2236.87
+    },
+    {
+      "_sr__no_": "15",
+      "state_ut": "Maharashtra",
+      "_2016_17___sanctions": 999.99,
+      "_2017_18___sanctions": 993.34,
+      "_2018_19___sanctions": 2202.62
+    },
+    {
+      "_sr__no_": "16",
+      "state_ut": "Manipur",
+      "_2016_17___sanctions": 41.72,
+      "_2017_18___sanctions": 100.29,
+      "_2018_19___sanctions": "0"
+    },
+    {
+      "_sr__no_": "17",
+      "state_ut": "Meghalaya",
+      "_2016_17___sanctions": 99.11,
+      "_2017_18___sanctions": 130.07,
+      "_2018_19___sanctions": 210.97
+    },
+    {
+      "_sr__no_": "18",
+      "state_ut": "Mizoram",
+      "_2016_17___sanctions": 153.11,
+      "_2017_18___sanctions": 245.43,
+      "_2018_19___sanctions": 165.48
+    },
+    {
+      "_sr__no_": "19",
+      "state_ut": "Nagaland",
+      "_2016_17___sanctions": 47.63,
+      "_2017_18___sanctions": 6.97,
+      "_2018_19___sanctions": 17.86
+    },
+    {
+      "_sr__no_": "20",
+      "state_ut": "Odisha",
+      "_2016_17___sanctions": 2515.33,
+      "_2017_18___sanctions": 2311.43,
+      "_2018_19___sanctions": 2474.27
+    },
+    {
+      "_sr__no_": "21",
+      "state_ut": "Puducherry",
+      "_2016_17___sanctions": 52.77,
+      "_2017_18___sanctions": 60.1,
+      "_2018_19___sanctions": 18.04
+    },
+    {
+      "_sr__no_": "22",
+      "state_ut": "Punjab",
+      "_2016_17___sanctions": 503.58,
+      "_2017_18___sanctions": 444.82,
+      "_2018_19___sanctions": 458.26
+    },
+    {
+      "_sr__no_": "23",
+      "state_ut": "Rajasthan",
+      "_2016_17___sanctions": 1913.33,
+      "_2017_18___sanctions": 1829.49,
+      "_2018_19___sanctions": 1713.71
+    },
+    {
+      "_sr__no_": "24",
+      "state_ut": "Sikkim",
+      "_2016_17___sanctions": 23.64,
+      "_2017_18___sanctions": 57.82,
+      "_2018_19___sanctions": 36.73
+    },
+    {
+      "_sr__no_": "25",
+      "state_ut": "Tamil Nadu",
+      "_2016_17___sanctions": 1923.27,
+      "_2017_18___sanctions": 1825.84,
+      "_2018_19___sanctions": 2185.21
+    },
+    {
+      "_sr__no_": "26",
+      "state_ut": "Telangana",
+      "_2016_17___sanctions": 962.72,
+      "_2017_18___sanctions": 1006.29,
+      "_2018_19___sanctions": 1325.03
+    },
+    {
+      "_sr__no_": "27",
+      "state_ut": "Tripura",
+      "_2016_17___sanctions": 270.91,
+      "_2017_18___sanctions": 264.26,
+      "_2018_19___sanctions": 152.22
+    },
+    {
+      "_sr__no_": "28",
+      "state_ut": "Uttar Pradesh",
+      "_2016_17___sanctions": 1799.82,
+      "_2017_18___sanctions": 1706.66,
+      "_2018_19___sanctions": 1606.95
+    },
+    {
+      "_sr__no_": "29",
+      "state_ut": "Uttarakhand",
+      "_2016_17___sanctions": 914.8,
+      "_2017_18___sanctions": 806.28,
+      "_2018_19___sanctions": 670.96
+    },
+    {
+      "_sr__no_": "30",
+      "state_ut": "West Bengal",
+      "_2016_17___sanctions": 1322.82,
+      "_2017_18___sanctions": 1231.27,
+      "_2018_19___sanctions": 1267.35
+    },
+    {
+      "_sr__no_": "Total",
+      "state_ut": "Total",
+      "_2016_17___sanctions": 27043.83,
+      "_2017_18___sanctions": 27171.11,
+      "_2018_19___sanctions": 30490.59
+    }
+  ]
+}

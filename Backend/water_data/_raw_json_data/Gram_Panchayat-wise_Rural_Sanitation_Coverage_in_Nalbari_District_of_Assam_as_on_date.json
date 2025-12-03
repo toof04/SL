@@ -1,0 +1,659 @@
+{
+  "index_name": "e4f9d022-2244-4525-b2c7-fdb4e2b11b48",
+  "title": "Gram Panchayat-wise Rural Sanitation Coverage in Nalbari District of Assam as on date",
+  "desc": "Gram Panchayat-wise Rural Sanitation Coverage in Nalbari District of Assam as on date",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Jal Shakti",
+    "Department of Drinking Water and Sanitation"
+  ],
+  "sector": [
+    "Water and Sanitation"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1688360231,
+  "updated": 1688364897,
+  "created_date": "2023-07-03T06:57:11Z",
+  "updated_date": "2023-07-03T11:44:57Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "sbm",
+    "type": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+    "field": "e4f9d022-2244-4525-b2c7-fdb4e2b11b48"
+  },
+  "field": [
+    {
+      "id": "statename",
+      "name": "StateName",
+      "type": "keyword"
+    },
+    {
+      "id": "districtname",
+      "name": "DistrictName",
+      "type": "keyword"
+    },
+    {
+      "id": "blockname",
+      "name": "BlockName",
+      "type": "keyword"
+    },
+    {
+      "id": "grampanchayatname",
+      "name": "GramPanchayatName",
+      "type": "keyword"
+    },
+    {
+      "id": "ihhltotalasperdetails",
+      "name": "IHHLTotalAsPerDetails",
+      "type": "double"
+    },
+    {
+      "id": "ihhltotalach",
+      "name": "IHHLTotalAch",
+      "type": "double"
+    },
+    {
+      "id": "date",
+      "name": "Date",
+      "type": "keyword"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 65,
+  "count": 65,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "BARBHAG",
+      "grampanchayatname": "47 (1) NO. UPPER BARBHAG",
+      "ihhltotalasperdetails": 1708,
+      "ihhltotalach": 1708,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "BARBHAG",
+      "grampanchayatname": "48 (2) NO. UPPER BARBHAG",
+      "ihhltotalasperdetails": 1154,
+      "ihhltotalach": 1154,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "BARBHAG",
+      "grampanchayatname": "49 (3) NO. UPPER BARBHAG",
+      "ihhltotalasperdetails": 2224,
+      "ihhltotalach": 2224,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "BARBHAG",
+      "grampanchayatname": "50 (4) NO. UPPER BARBHAG",
+      "ihhltotalasperdetails": 2499,
+      "ihhltotalach": 2499,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "BARBHAG",
+      "grampanchayatname": "51 (5) NO. UPPER BARBHAG",
+      "ihhltotalasperdetails": 1964,
+      "ihhltotalach": 1964,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "BARBHAG",
+      "grampanchayatname": "52 (6) NO. UPPER BARBHAG",
+      "ihhltotalasperdetails": 1505,
+      "ihhltotalach": 1505,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "BARBHAG",
+      "grampanchayatname": "53 NO. SANEKUCHI",
+      "ihhltotalasperdetails": 1293,
+      "ihhltotalach": 1293,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "BARIGOG-BANBHAG",
+      "grampanchayatname": "11 NO DEHARKUCHI",
+      "ihhltotalasperdetails": 2402,
+      "ihhltotalach": 2402,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "BARIGOG-BANBHAG",
+      "grampanchayatname": "12 NO DATARA",
+      "ihhltotalasperdetails": 2181,
+      "ihhltotalach": 2181,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "BARIGOG-BANBHAG",
+      "grampanchayatname": "13 NO GHAGRAPAR",
+      "ihhltotalasperdetails": 2857,
+      "ihhltotalach": 2857,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "BARIGOG-BANBHAG",
+      "grampanchayatname": "14 NO PUB BANBHAG",
+      "ihhltotalasperdetails": 2926,
+      "ihhltotalach": 2926,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "BARIGOG-BANBHAG",
+      "grampanchayatname": "15 NO DIHZARI",
+      "ihhltotalasperdetails": 2150,
+      "ihhltotalach": 2150,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "BARIGOG-BANBHAG",
+      "grampanchayatname": "16 NO KHATIKUCHI",
+      "ihhltotalasperdetails": 2377,
+      "ihhltotalach": 2377,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "BARIGOG-BANBHAG",
+      "grampanchayatname": "17 NO ALLIYA",
+      "ihhltotalasperdetails": 2650,
+      "ihhltotalach": 2650,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "BARIGOG-BANBHAG",
+      "grampanchayatname": "18 NO. BALITARA",
+      "ihhltotalasperdetails": 2109,
+      "ihhltotalach": 2109,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "BARIGOG-BANBHAG",
+      "grampanchayatname": "19 NO. CHATAIBARI",
+      "ihhltotalasperdetails": 2870,
+      "ihhltotalach": 2870,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "BARKHETRI",
+      "grampanchayatname": "54 NO. KEKANKUCHI KAPLABARI",
+      "ihhltotalasperdetails": 3617,
+      "ihhltotalach": 3617,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "BARKHETRI",
+      "grampanchayatname": "55 NO. BORNIBARI NAPTIPARA",
+      "ihhltotalasperdetails": 3084,
+      "ihhltotalach": 3084,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "BARKHETRI",
+      "grampanchayatname": "56 NO. MUGDI RAMPUR",
+      "ihhltotalasperdetails": 3401,
+      "ihhltotalach": 3401,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "BARKHETRI",
+      "grampanchayatname": "57 NO. DAULASAL LARKUCHI",
+      "ihhltotalasperdetails": 3693,
+      "ihhltotalach": 3693,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "BARKHETRI",
+      "grampanchayatname": "58 NO. JAYSAGAR BARTALA",
+      "ihhltotalasperdetails": 2688,
+      "ihhltotalach": 2688,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "BARKHETRI",
+      "grampanchayatname": "59 NO. MUKALMUA NARAYANPUR",
+      "ihhltotalasperdetails": 3491,
+      "ihhltotalach": 3491,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "BARKHETRI",
+      "grampanchayatname": "60 NO. KANDHBARI DAGAPARA",
+      "ihhltotalasperdetails": 2612,
+      "ihhltotalach": 2612,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "BARKHETRI",
+      "grampanchayatname": "61 NO. GHOGA",
+      "ihhltotalasperdetails": 2981,
+      "ihhltotalach": 2981,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "BARKHETRI",
+      "grampanchayatname": "62 NO. LOHARKATHA ADABARI",
+      "ihhltotalasperdetails": 3516,
+      "ihhltotalach": 3516,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "BARKHETRI",
+      "grampanchayatname": "63 NO. KALARCHAR",
+      "ihhltotalasperdetails": 3713,
+      "ihhltotalach": 3713,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "BARKHETRI",
+      "grampanchayatname": "64 NO. BHANGNAMARI",
+      "ihhltotalasperdetails": 7583,
+      "ihhltotalach": 7583,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "BARKHETRI",
+      "grampanchayatname": "65 NO. KURIHAMARI BARSULIA",
+      "ihhltotalasperdetails": 3328,
+      "ihhltotalach": 3328,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "MADHUPUR",
+      "grampanchayatname": "35 NO PASCHIM DHARMAPUR",
+      "ihhltotalasperdetails": 1510,
+      "ihhltotalach": 1510,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "MADHUPUR",
+      "grampanchayatname": "36 NO PUB DHARMAPUR",
+      "ihhltotalasperdetails": 1723,
+      "ihhltotalach": 1723,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "MADHUPUR",
+      "grampanchayatname": "37 NO UTTAR PUB DHARMAPUR",
+      "ihhltotalasperdetails": 1840,
+      "ihhltotalach": 1840,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "MADHUPUR",
+      "grampanchayatname": "38 NO PASCHIM NATUN DEHAR",
+      "ihhltotalasperdetails": 1742,
+      "ihhltotalach": 1742,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "MADHUPUR",
+      "grampanchayatname": "39 NO PUB NATUN DEHAR",
+      "ihhltotalasperdetails": 1728,
+      "ihhltotalach": 1728,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "MADHUPUR",
+      "grampanchayatname": "40 NO DAKHIN NATUN DEHAR",
+      "ihhltotalasperdetails": 2156,
+      "ihhltotalach": 2156,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "PACHIM NALBARI",
+      "grampanchayatname": "20 NO PUB KHETRI DHARMAPUR",
+      "ihhltotalasperdetails": 1144,
+      "ihhltotalach": 1144,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "PACHIM NALBARI",
+      "grampanchayatname": "21 NO UTTAR KHETRI DHARMAPUR",
+      "ihhltotalasperdetails": 1978,
+      "ihhltotalach": 1978,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "PACHIM NALBARI",
+      "grampanchayatname": "22 NO DAKHIN KHETRI DHARMAPUR",
+      "ihhltotalasperdetails": 1668,
+      "ihhltotalach": 1668,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "PACHIM NALBARI",
+      "grampanchayatname": "23 NO PASCHIM KHETRI DHARMAPUR",
+      "ihhltotalasperdetails": 2116,
+      "ihhltotalach": 2116,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "PACHIM NALBARI",
+      "grampanchayatname": "24 NO DAKHIN MADHYA DHARMAPUR",
+      "ihhltotalasperdetails": 2106,
+      "ihhltotalach": 2106,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "PACHIM NALBARI",
+      "grampanchayatname": "25 NO RUPIYABATHAN",
+      "ihhltotalasperdetails": 1442,
+      "ihhltotalach": 1442,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "PACHIM NALBARI",
+      "grampanchayatname": "26 NO BANGAON",
+      "ihhltotalasperdetails": 2077,
+      "ihhltotalach": 2077,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "PACHIM NALBARI",
+      "grampanchayatname": "27 NO PANIGAON",
+      "ihhltotalasperdetails": 1698,
+      "ihhltotalach": 1698,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "PACHIM NALBARI",
+      "grampanchayatname": "28 NO BARNADDI",
+      "ihhltotalasperdetails": 1421,
+      "ihhltotalach": 1421,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "PACHIM NALBARI",
+      "grampanchayatname": "29(1) NO DAKHIN PAKOWA",
+      "ihhltotalasperdetails": 1541,
+      "ihhltotalach": 1541,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "PACHIM NALBARI",
+      "grampanchayatname": "30(2) NO DAKHIN PAKOWA",
+      "ihhltotalasperdetails": 1464,
+      "ihhltotalach": 1464,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "PACHIM NALBARI",
+      "grampanchayatname": "31(3) NO DAKHIN PAKOWA",
+      "ihhltotalasperdetails": 1265,
+      "ihhltotalach": 1265,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "PACHIM NALBARI",
+      "grampanchayatname": "32(4) NO DAKHIN PAKOWA",
+      "ihhltotalasperdetails": 1730,
+      "ihhltotalach": 1730,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "PACHIM NALBARI",
+      "grampanchayatname": "33 NO BELSOR",
+      "ihhltotalasperdetails": 1974,
+      "ihhltotalach": 1974,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "PACHIM NALBARI",
+      "grampanchayatname": "34 NO KAKAYA",
+      "ihhltotalasperdetails": 1203,
+      "ihhltotalach": 1203,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "PUB-NALBARI",
+      "grampanchayatname": "1 NO. KHATA",
+      "ihhltotalasperdetails": 2015,
+      "ihhltotalach": 2015,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "PUB-NALBARI",
+      "grampanchayatname": "10 NO DAKHIN BAHJANI",
+      "ihhltotalasperdetails": 3160,
+      "ihhltotalach": 3160,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "PUB-NALBARI",
+      "grampanchayatname": "2 NO. KHATA",
+      "ihhltotalasperdetails": 2158,
+      "ihhltotalach": 2158,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "PUB-NALBARI",
+      "grampanchayatname": "3 NO. KHATA",
+      "ihhltotalasperdetails": 2881,
+      "ihhltotalach": 2881,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "PUB-NALBARI",
+      "grampanchayatname": "4 NO. KHATA",
+      "ihhltotalasperdetails": 4081,
+      "ihhltotalach": 4081,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "PUB-NALBARI",
+      "grampanchayatname": "5 NO. PUB BATAHGILA",
+      "ihhltotalasperdetails": 2637,
+      "ihhltotalach": 2637,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "PUB-NALBARI",
+      "grampanchayatname": "6 NO. PACHIM BATAHGILA",
+      "ihhltotalasperdetails": 3287,
+      "ihhltotalach": 3287,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "PUB-NALBARI",
+      "grampanchayatname": "7 NO PUB BAHJANI",
+      "ihhltotalasperdetails": 2582,
+      "ihhltotalach": 2582,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "PUB-NALBARI",
+      "grampanchayatname": "8 NO UTTAR BAHJANI",
+      "ihhltotalasperdetails": 2583,
+      "ihhltotalach": 2583,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "PUB-NALBARI",
+      "grampanchayatname": "9 NO MADHYA BAHJANI",
+      "ihhltotalasperdetails": 2806,
+      "ihhltotalach": 2806,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "TIHU",
+      "grampanchayatname": "41 NO MAKHIBAHA",
+      "ihhltotalasperdetails": 1769,
+      "ihhltotalach": 1769,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "TIHU",
+      "grampanchayatname": "42 NO JALKHANA BHATUAKHANA",
+      "ihhltotalasperdetails": 1978,
+      "ihhltotalach": 1978,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "TIHU",
+      "grampanchayatname": "43 NO. MATHURAPUR",
+      "ihhltotalasperdetails": 2801,
+      "ihhltotalach": 2801,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "TIHU",
+      "grampanchayatname": "44 NO NATHKUCHI",
+      "ihhltotalasperdetails": 3017,
+      "ihhltotalach": 3017,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "TIHU",
+      "grampanchayatname": "45 NO PACHIM NAM BARBHAG",
+      "ihhltotalasperdetails": 2462,
+      "ihhltotalach": 2462,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NALBARI",
+      "blockname": "TIHU",
+      "grampanchayatname": "46 NO PUB NAMBARBHAG",
+      "ihhltotalasperdetails": 4197,
+      "ihhltotalach": 4197,
+      "date": "5/19/2020 12:00:00 AM"
+    }
+  ]
+}

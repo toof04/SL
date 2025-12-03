@@ -1,0 +1,207 @@
+{
+  "index_name": "6e9fff80-5242-4672-94ee-b488bda00eb8",
+  "title": "District wise Number of Schools and Colleges during 2020-21",
+  "desc": "District wise Number of Schools and Colleges during 2020-21",
+  "created": "1657254250359",
+  "updated": 1657254281,
+  "created_date": "2022-07-08T09:54:27Z",
+  "updated_date": "2022-07-08T09:54:41Z",
+  "active": "1",
+  "visualizable": "1",
+  "catalog_uuid": "e4f76656-d070-4be1-9fed-bbd388855cb9",
+  "source": "data.gov.in",
+  "org_type": "Central",
+  "org": [
+    "Himachal Pradesh",
+    "Economics and Statistics Department, Himachal Pradesh"
+  ],
+  "sector": [
+    "Education"
+  ],
+  "field": [
+    {
+      "id": "state",
+      "name": "State",
+      "type": "keyword"
+    },
+    {
+      "id": "district",
+      "name": "District",
+      "type": "keyword"
+    },
+    {
+      "id": "primary_schools",
+      "name": "Primary Schools",
+      "type": "double"
+    },
+    {
+      "id": "middle_schools",
+      "name": "Middle Schools",
+      "type": "double"
+    },
+    {
+      "id": "high_senior_secondary_schools_",
+      "name": "High/Senior Secondary Schools ",
+      "type": "double"
+    },
+    {
+      "id": "government_degree_colleges",
+      "name": "Government Degree Colleges",
+      "type": "double"
+    },
+    {
+      "id": "private_degree_colleges",
+      "name": "Private Degree Colleges",
+      "type": "double"
+    },
+    {
+      "id": "total_in_number_",
+      "name": "Total (in Number)",
+      "type": "double"
+    }
+  ],
+  "target_bucket": {
+    "index": "api",
+    "type": "e4f76656-d070-4be1-9fed-bbd388855cb9",
+    "field": "6e9fff80-5242-4672-94ee-b488bda00eb8"
+  },
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 13,
+  "count": 13,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "state": "Himachal Pradesh",
+      "district": "Bilaspur",
+      "primary_schools": 587,
+      "middle_schools": 95,
+      "high_senior_secondary_schools_": 163,
+      "government_degree_colleges": 5,
+      "private_degree_colleges": 0,
+      "total_in_number_": 5
+    },
+    {
+      "state": "Himachal Pradesh",
+      "district": "Chamba",
+      "primary_schools": 1186,
+      "middle_schools": 242,
+      "high_senior_secondary_schools_": 237,
+      "government_degree_colleges": 10,
+      "private_degree_colleges": 1,
+      "total_in_number_": 11
+    },
+    {
+      "state": "Himachal Pradesh",
+      "district": "Hamirpur",
+      "primary_schools": 475,
+      "middle_schools": 114,
+      "high_senior_secondary_schools_": 161,
+      "government_degree_colleges": 7,
+      "private_degree_colleges": 3,
+      "total_in_number_": 10
+    },
+    {
+      "state": "Himachal Pradesh",
+      "district": "Kangra",
+      "primary_schools": 1662,
+      "middle_schools": 307,
+      "high_senior_secondary_schools_": 534,
+      "government_degree_colleges": 33,
+      "private_degree_colleges": 11,
+      "total_in_number_": 44
+    },
+    {
+      "state": "Himachal Pradesh",
+      "district": "Kinnaur",
+      "primary_schools": 172,
+      "middle_schools": 31,
+      "high_senior_secondary_schools_": 52,
+      "government_degree_colleges": 1,
+      "private_degree_colleges": 0,
+      "total_in_number_": 1
+    },
+    {
+      "state": "Himachal Pradesh",
+      "district": "Kullu",
+      "primary_schools": 753,
+      "middle_schools": 127,
+      "high_senior_secondary_schools_": 152,
+      "government_degree_colleges": 7,
+      "private_degree_colleges": 1,
+      "total_in_number_": 8
+    },
+    {
+      "state": "Himachal Pradesh",
+      "district": "Lahaul-spiti",
+      "primary_schools": 178,
+      "middle_schools": 32,
+      "high_senior_secondary_schools_": 38,
+      "government_degree_colleges": 1,
+      "private_degree_colleges": 0,
+      "total_in_number_": 1
+    },
+    {
+      "state": "Himachal Pradesh",
+      "district": "Mandi",
+      "primary_schools": 1693,
+      "middle_schools": 306,
+      "high_senior_secondary_schools_": 443,
+      "government_degree_colleges": 17,
+      "private_degree_colleges": 5,
+      "total_in_number_": 22
+    },
+    {
+      "state": "Himachal Pradesh",
+      "district": "Shimla",
+      "primary_schools": 1572,
+      "middle_schools": 283,
+      "high_senior_secondary_schools_": 405,
+      "government_degree_colleges": 20,
+      "private_degree_colleges": 5,
+      "total_in_number_": 25
+    },
+    {
+      "state": "Himachal Pradesh",
+      "district": "Sirmaur",
+      "primary_schools": 1032,
+      "middle_schools": 186,
+      "high_senior_secondary_schools_": 244,
+      "government_degree_colleges": 12,
+      "private_degree_colleges": 5,
+      "total_in_number_": 17
+    },
+    {
+      "state": "Himachal Pradesh",
+      "district": "Solan",
+      "primary_schools": 765,
+      "middle_schools": 139,
+      "high_senior_secondary_schools_": 189,
+      "government_degree_colleges": 10,
+      "private_degree_colleges": 7,
+      "total_in_number_": 17
+    },
+    {
+      "state": "Himachal Pradesh",
+      "district": "Una",
+      "primary_schools": 499,
+      "middle_schools": 86,
+      "high_senior_secondary_schools_": 183,
+      "government_degree_colleges": 10,
+      "private_degree_colleges": 3,
+      "total_in_number_": 13
+    },
+    {
+      "state": "Himachal Pradesh",
+      "district": "Total",
+      "primary_schools": 10574,
+      "middle_schools": 1948,
+      "high_senior_secondary_schools_": 2801,
+      "government_degree_colleges": 133,
+      "private_degree_colleges": 41,
+      "total_in_number_": 174
+    }
+  ]
+}

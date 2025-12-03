@@ -1,0 +1,40 @@
+"Sl. No.",State/UT,"Educational Standard - Illiterate","Educational Standard - Below Class X","Educational Standard - Class X & above but below Graduation","Educational Standard - Graduate","Educational Standard - Holding Tech. Degree/ Diploma","Educational Standard - Post Graduate",Total
+1,"Andhra Pradesh",1,0,0,0,0,0,1
+2,"Arunachal Pradesh",0,0,0,0,0,0,0
+3,Assam,0,0,0,0,0,0,0
+4,Bihar,0,0,1,1,0,0,2
+5,Chhattisgarh,0,2,0,0,0,0,2
+6,Goa,0,0,0,0,0,0,0
+7,Gujarat,0,0,0,0,0,0,0
+8,Haryana,0,0,0,0,0,0,0
+9,"Himachal Pradesh",0,0,0,0,0,0,0
+10,Jharkhand,0,0,0,0,0,0,0
+11,Karnataka,0,0,1,0,0,0,1
+12,Kerala,2,1,5,0,0,0,8
+13,"Madhya Pradesh",13,22,4,2,0,0,41
+14,Maharashtra,0,0,0,0,0,0,0
+15,Manipur,0,0,0,0,0,0,0
+16,Meghalaya,0,3,5,0,0,0,8
+17,Mizoram,3,0,0,0,0,0,3
+18,Nagaland,0,0,0,0,0,0,0
+19,Odisha,1,1,2,0,0,0,4
+20,Punjab,22,16,9,1,0,0,48
+21,Rajasthan,1,1,0,0,0,0,2
+22,Sikkim,0,0,0,0,0,0,0
+23,"Tamil Nadu",1,1,0,0,0,0,2
+24,Telangana,0,0,0,0,0,0,0
+25,Tripura,0,3,0,0,0,0,3
+26,"Uttar Pradesh",1,1,0,1,0,0,3
+27,Uttarakhand,0,0,0,0,0,0,0
+28,"West Bengal",247,71,28,4,1,1,352
+"Total (States)","Total (States)",292,122,55,9,1,1,480
+29,"A & N Islands",0,0,0,0,0,0,0
+30,Chandigarh,0,0,0,0,0,0,0
+31,"Dadra and Nagar Haveli and Daman and Diu",0,0,0,0,0,0,0
+32,Delhi,0,3,0,0,0,0,3
+33,"Jammu & Kashmir",1,0,0,0,0,0,1
+34,Ladakh,0,0,0,0,0,0,0
+35,Lakshadweep,0,0,0,0,0,0,0
+36,Puducherry,0,0,0,0,0,0,0
+"Total (UTs)","Total (UTs)",1,3,0,0,0,0,4
+"Total (All-India)","Total (All-India)",293,125,55,9,1,1,484

@@ -1,0 +1,2963 @@
+{
+  "index_name": "3566d6df-7b51-4347-b341-b178c81cd3c0",
+  "title": "Gram Panchayat-wise Rural Sanitation Coverage in Mahisagar District of Gujarat as on date",
+  "desc": "Gram Panchayat-wise Rural Sanitation Coverage in Mahisagar District of Gujarat as on date",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Jal Shakti",
+    "Department of Drinking Water and Sanitation"
+  ],
+  "sector": [
+    "Water and Sanitation"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1688360437,
+  "updated": 1688364947,
+  "created_date": "2023-07-03T07:00:37Z",
+  "updated_date": "2023-07-03T11:45:47Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "sbm",
+    "type": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+    "field": "3566d6df-7b51-4347-b341-b178c81cd3c0"
+  },
+  "field": [
+    {
+      "id": "statename",
+      "name": "StateName",
+      "type": "keyword"
+    },
+    {
+      "id": "districtname",
+      "name": "DistrictName",
+      "type": "keyword"
+    },
+    {
+      "id": "blockname",
+      "name": "BlockName",
+      "type": "keyword"
+    },
+    {
+      "id": "grampanchayatname",
+      "name": "GramPanchayatName",
+      "type": "keyword"
+    },
+    {
+      "id": "ihhltotalasperdetails",
+      "name": "IHHLTotalAsPerDetails",
+      "type": "double"
+    },
+    {
+      "id": "ihhltotalach",
+      "name": "IHHLTotalAch",
+      "type": "double"
+    },
+    {
+      "id": "date",
+      "name": "Date",
+      "type": "keyword"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 321,
+  "count": 321,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "BALASINOR",
+      "grampanchayatname": "ALELA",
+      "ihhltotalasperdetails": 139,
+      "ihhltotalach": 139,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "BALASINOR",
+      "grampanchayatname": "BALIYADEV",
+      "ihhltotalasperdetails": 325,
+      "ihhltotalach": 325,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "BALASINOR",
+      "grampanchayatname": "BHANTHALA",
+      "ihhltotalasperdetails": 594,
+      "ihhltotalach": 594,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "BALASINOR",
+      "grampanchayatname": "BODELI",
+      "ihhltotalasperdetails": 389,
+      "ihhltotalach": 389,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "BALASINOR",
+      "grampanchayatname": "DAKHARIYA",
+      "ihhltotalasperdetails": 155,
+      "ihhltotalach": 155,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "BALASINOR",
+      "grampanchayatname": "DEV",
+      "ihhltotalasperdetails": 609,
+      "ihhltotalach": 609,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "BALASINOR",
+      "grampanchayatname": "DODIA",
+      "ihhltotalasperdetails": 1,
+      "ihhltotalach": 1,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "BALASINOR",
+      "grampanchayatname": "DOLAT POYDA",
+      "ihhltotalasperdetails": 292,
+      "ihhltotalach": 292,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "BALASINOR",
+      "grampanchayatname": "FELSANI",
+      "ihhltotalasperdetails": 299,
+      "ihhltotalach": 299,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "BALASINOR",
+      "grampanchayatname": "GADHAVADA",
+      "ihhltotalasperdetails": 470,
+      "ihhltotalach": 470,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "BALASINOR",
+      "grampanchayatname": "GADHNA MUVADA",
+      "ihhltotalasperdetails": 140,
+      "ihhltotalach": 140,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "BALASINOR",
+      "grampanchayatname": "GAJA PAGINA MUVADA",
+      "ihhltotalasperdetails": 245,
+      "ihhltotalach": 245,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "BALASINOR",
+      "grampanchayatname": "GUNTHLI",
+      "ihhltotalasperdetails": 281,
+      "ihhltotalach": 281,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "BALASINOR",
+      "grampanchayatname": "HANDIYA (BALASINOR)",
+      "ihhltotalasperdetails": 252,
+      "ihhltotalach": 252,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "BALASINOR",
+      "grampanchayatname": "JAMIYATPURA",
+      "ihhltotalasperdetails": 1,
+      "ihhltotalach": 1,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "BALASINOR",
+      "grampanchayatname": "JANOD",
+      "ihhltotalasperdetails": 280,
+      "ihhltotalach": 280,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "BALASINOR",
+      "grampanchayatname": "JETHOLI",
+      "ihhltotalasperdetails": 715,
+      "ihhltotalach": 715,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "BALASINOR",
+      "grampanchayatname": "JORAPURA",
+      "ihhltotalasperdetails": 82,
+      "ihhltotalach": 82,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "BALASINOR",
+      "grampanchayatname": "KADAIA",
+      "ihhltotalasperdetails": 328,
+      "ihhltotalach": 328,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "BALASINOR",
+      "grampanchayatname": "KAMBOPA",
+      "ihhltotalasperdetails": 289,
+      "ihhltotalach": 289,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "BALASINOR",
+      "grampanchayatname": "KARANPUR",
+      "ihhltotalasperdetails": 264,
+      "ihhltotalach": 264,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "BALASINOR",
+      "grampanchayatname": "KHANDIVAV",
+      "ihhltotalasperdetails": 162,
+      "ihhltotalach": 162,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "BALASINOR",
+      "grampanchayatname": "KOTARBOR",
+      "ihhltotalasperdetails": 126,
+      "ihhltotalach": 126,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "BALASINOR",
+      "grampanchayatname": "LIMBDI",
+      "ihhltotalasperdetails": 1,
+      "ihhltotalach": 1,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "BALASINOR",
+      "grampanchayatname": "MANVARPURA",
+      "ihhltotalasperdetails": 11,
+      "ihhltotalach": 11,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "BALASINOR",
+      "grampanchayatname": "MEGHALIYA",
+      "ihhltotalasperdetails": 410,
+      "ihhltotalach": 410,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "BALASINOR",
+      "grampanchayatname": "NAVAGAMA",
+      "ihhltotalasperdetails": 900,
+      "ihhltotalach": 900,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "BALASINOR",
+      "grampanchayatname": "OTHVAD",
+      "ihhltotalasperdetails": 866,
+      "ihhltotalach": 866,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "BALASINOR",
+      "grampanchayatname": "PANDVA",
+      "ihhltotalasperdetails": 699,
+      "ihhltotalach": 699,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "BALASINOR",
+      "grampanchayatname": "PARABIYA",
+      "ihhltotalasperdetails": 301,
+      "ihhltotalach": 301,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "BALASINOR",
+      "grampanchayatname": "PILODRA",
+      "ihhltotalasperdetails": 272,
+      "ihhltotalach": 272,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "BALASINOR",
+      "grampanchayatname": "PRUTHVIRAJPURA",
+      "ihhltotalasperdetails": 1,
+      "ihhltotalach": 1,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "BALASINOR",
+      "grampanchayatname": "RAIYOLI",
+      "ihhltotalasperdetails": 490,
+      "ihhltotalach": 490,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "BALASINOR",
+      "grampanchayatname": "RAJPUR (BALASINOR)",
+      "ihhltotalasperdetails": 336,
+      "ihhltotalach": 336,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "BALASINOR",
+      "grampanchayatname": "RALIYATA (BALASINOR)",
+      "ihhltotalasperdetails": 79,
+      "ihhltotalach": 79,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "BALASINOR",
+      "grampanchayatname": "SAKARIYA",
+      "ihhltotalasperdetails": 614,
+      "ihhltotalach": 614,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "BALASINOR",
+      "grampanchayatname": "SALIYAVADI",
+      "ihhltotalasperdetails": 696,
+      "ihhltotalach": 696,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "BALASINOR",
+      "grampanchayatname": "SARODA",
+      "ihhltotalasperdetails": 414,
+      "ihhltotalach": 414,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "BALASINOR",
+      "grampanchayatname": "SUTARIYA",
+      "ihhltotalasperdetails": 531,
+      "ihhltotalach": 531,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "BALASINOR",
+      "grampanchayatname": "VADADALA",
+      "ihhltotalasperdetails": 965,
+      "ihhltotalach": 965,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "BALASINOR",
+      "grampanchayatname": "VANAKBORI",
+      "ihhltotalasperdetails": 274,
+      "ihhltotalach": 274,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "BALASINOR",
+      "grampanchayatname": "VASADRA",
+      "ihhltotalasperdetails": 215,
+      "ihhltotalach": 215,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KADANA",
+      "grampanchayatname": "AMTHANI",
+      "ihhltotalasperdetails": 584,
+      "ihhltotalach": 584,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KADANA",
+      "grampanchayatname": "ANKALIYA",
+      "ihhltotalasperdetails": 194,
+      "ihhltotalach": 194,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KADANA",
+      "grampanchayatname": "BACHKARIA (NORTH)",
+      "ihhltotalasperdetails": 892,
+      "ihhltotalach": 892,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KADANA",
+      "grampanchayatname": "BHAGALIYA",
+      "ihhltotalasperdetails": 963,
+      "ihhltotalach": 963,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KADANA",
+      "grampanchayatname": "BHEMANI VAV",
+      "ihhltotalasperdetails": 49,
+      "ihhltotalach": 49,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KADANA",
+      "grampanchayatname": "BHUL",
+      "ihhltotalasperdetails": 368,
+      "ihhltotalach": 368,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KADANA",
+      "grampanchayatname": "DADHALIYA",
+      "ihhltotalasperdetails": 283,
+      "ihhltotalach": 283,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KADANA",
+      "grampanchayatname": "DHINGALWADA",
+      "ihhltotalasperdetails": 582,
+      "ihhltotalach": 582,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KADANA",
+      "grampanchayatname": "DITVAS",
+      "ihhltotalasperdetails": 580,
+      "ihhltotalach": 580,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KADANA",
+      "grampanchayatname": "DIVADA",
+      "ihhltotalasperdetails": 22,
+      "ihhltotalach": 22,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KADANA",
+      "grampanchayatname": "GHASWADA",
+      "ihhltotalasperdetails": 206,
+      "ihhltotalach": 206,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KADANA",
+      "grampanchayatname": "GODHAR (NORTH)",
+      "ihhltotalasperdetails": 183,
+      "ihhltotalach": 183,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KADANA",
+      "grampanchayatname": "GOLANPUR",
+      "ihhltotalasperdetails": 48,
+      "ihhltotalach": 48,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KADANA",
+      "grampanchayatname": "KADANA",
+      "ihhltotalasperdetails": 581,
+      "ihhltotalach": 581,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KADANA",
+      "grampanchayatname": "KAJLI",
+      "ihhltotalasperdetails": 171,
+      "ihhltotalach": 171,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KADANA",
+      "grampanchayatname": "KALIYARI",
+      "ihhltotalasperdetails": 406,
+      "ihhltotalach": 406,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KADANA",
+      "grampanchayatname": "KELAMUL",
+      "ihhltotalasperdetails": 511,
+      "ihhltotalach": 511,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KADANA",
+      "grampanchayatname": "KHARAWADA",
+      "ihhltotalasperdetails": 260,
+      "ihhltotalach": 260,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KADANA",
+      "grampanchayatname": "KURETA",
+      "ihhltotalasperdetails": 1,
+      "ihhltotalach": 1,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KADANA",
+      "grampanchayatname": "LADPUR",
+      "ihhltotalasperdetails": 176,
+      "ihhltotalach": 176,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KADANA",
+      "grampanchayatname": "LIMBHOLA",
+      "ihhltotalasperdetails": 265,
+      "ihhltotalach": 265,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KADANA",
+      "grampanchayatname": "MALVAN",
+      "ihhltotalasperdetails": 477,
+      "ihhltotalach": 477,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KADANA",
+      "grampanchayatname": "MOTA DHAROLA",
+      "ihhltotalasperdetails": 100,
+      "ihhltotalach": 100,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KADANA",
+      "grampanchayatname": "MOTI RATH",
+      "ihhltotalasperdetails": 800,
+      "ihhltotalach": 800,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KADANA",
+      "grampanchayatname": "MUNPUR",
+      "ihhltotalasperdetails": 671,
+      "ihhltotalach": 671,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KADANA",
+      "grampanchayatname": "NANI KHARSOLI",
+      "ihhltotalasperdetails": 172,
+      "ihhltotalach": 172,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KADANA",
+      "grampanchayatname": "NANI RATH",
+      "ihhltotalasperdetails": 169,
+      "ihhltotalach": 169,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KADANA",
+      "grampanchayatname": "RANAKPUR",
+      "ihhltotalasperdetails": 478,
+      "ihhltotalach": 478,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KADANA",
+      "grampanchayatname": "RINGANIYA",
+      "ihhltotalasperdetails": 1,
+      "ihhltotalach": 1,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KADANA",
+      "grampanchayatname": "SANGHRI",
+      "ihhltotalasperdetails": 150,
+      "ihhltotalach": 150,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KADANA",
+      "grampanchayatname": "SARASVA (NORTH))",
+      "ihhltotalasperdetails": 491,
+      "ihhltotalach": 491,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KADANA",
+      "grampanchayatname": "SARSDI",
+      "ihhltotalasperdetails": 169,
+      "ihhltotalach": 169,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KADANA",
+      "grampanchayatname": "SARSVA NORTH (N.V.)",
+      "ihhltotalasperdetails": 379,
+      "ihhltotalach": 379,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KADANA",
+      "grampanchayatname": "SHIYAL",
+      "ihhltotalasperdetails": 376,
+      "ihhltotalach": 376,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KADANA",
+      "grampanchayatname": "TALWADA",
+      "ihhltotalasperdetails": 181,
+      "ihhltotalach": 181,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KADANA",
+      "grampanchayatname": "TARKONI NAL",
+      "ihhltotalasperdetails": 323,
+      "ihhltotalach": 323,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KADANA",
+      "grampanchayatname": "VADA ZAMPA",
+      "ihhltotalasperdetails": 455,
+      "ihhltotalach": 455,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KADANA",
+      "grampanchayatname": "VAGADIYANA PITHAPUR",
+      "ihhltotalasperdetails": 33,
+      "ihhltotalach": 33,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KADANA",
+      "grampanchayatname": "VELANWADA",
+      "ihhltotalasperdetails": 538,
+      "ihhltotalach": 538,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KADANA",
+      "grampanchayatname": "ZENZWA",
+      "ihhltotalasperdetails": 66,
+      "ihhltotalach": 66,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KHANPUR",
+      "grampanchayatname": "BABALIYA",
+      "ihhltotalasperdetails": 240,
+      "ihhltotalach": 240,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KHANPUR",
+      "grampanchayatname": "BAKOR",
+      "ihhltotalasperdetails": 309,
+      "ihhltotalach": 309,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KHANPUR",
+      "grampanchayatname": "BAMRODA",
+      "ihhltotalasperdetails": 81,
+      "ihhltotalach": 81,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KHANPUR",
+      "grampanchayatname": "BHADROD",
+      "ihhltotalasperdetails": 299,
+      "ihhltotalach": 299,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KHANPUR",
+      "grampanchayatname": "BORVAI",
+      "ihhltotalasperdetails": 118,
+      "ihhltotalach": 118,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KHANPUR",
+      "grampanchayatname": "DHOL KHAKHARA",
+      "ihhltotalasperdetails": 115,
+      "ihhltotalach": 115,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KHANPUR",
+      "grampanchayatname": "DHULETA",
+      "ihhltotalasperdetails": 82,
+      "ihhltotalach": 82,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KHANPUR",
+      "grampanchayatname": "DOLARIYA",
+      "ihhltotalasperdetails": 163,
+      "ihhltotalach": 163,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KHANPUR",
+      "grampanchayatname": "GANGATA",
+      "ihhltotalasperdetails": 431,
+      "ihhltotalach": 431,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KHANPUR",
+      "grampanchayatname": "GHOGHAWADA",
+      "ihhltotalasperdetails": 383,
+      "ihhltotalach": 383,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KHANPUR",
+      "grampanchayatname": "KANESAR",
+      "ihhltotalasperdetails": 125,
+      "ihhltotalach": 125,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KHANPUR",
+      "grampanchayatname": "KANOD",
+      "ihhltotalasperdetails": 213,
+      "ihhltotalach": 213,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KHANPUR",
+      "grampanchayatname": "KARANTA",
+      "ihhltotalasperdetails": 82,
+      "ihhltotalach": 82,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KHANPUR",
+      "grampanchayatname": "KHADODI",
+      "ihhltotalasperdetails": 60,
+      "ihhltotalach": 60,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KHANPUR",
+      "grampanchayatname": "KHUNTELAV",
+      "ihhltotalasperdetails": 4,
+      "ihhltotalach": 4,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KHANPUR",
+      "grampanchayatname": "LAVANA",
+      "ihhltotalasperdetails": 50,
+      "ihhltotalach": 50,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KHANPUR",
+      "grampanchayatname": "LIMADIYA",
+      "ihhltotalasperdetails": 358,
+      "ihhltotalach": 358,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KHANPUR",
+      "grampanchayatname": "LIMDI TIMBA",
+      "ihhltotalasperdetails": 32,
+      "ihhltotalach": 32,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KHANPUR",
+      "grampanchayatname": "MADAPUR",
+      "ihhltotalasperdetails": 443,
+      "ihhltotalach": 443,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KHANPUR",
+      "grampanchayatname": "MAHIYAPUR",
+      "ihhltotalasperdetails": 3,
+      "ihhltotalach": 3,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KHANPUR",
+      "grampanchayatname": "MOR KHAKHARA",
+      "ihhltotalasperdetails": 288,
+      "ihhltotalach": 288,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KHANPUR",
+      "grampanchayatname": "MOTA KHANPUR",
+      "ihhltotalasperdetails": 738,
+      "ihhltotalach": 738,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KHANPUR",
+      "grampanchayatname": "MUDA VADEKH",
+      "ihhltotalasperdetails": 52,
+      "ihhltotalach": 52,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KHANPUR",
+      "grampanchayatname": "NARODA",
+      "ihhltotalasperdetails": 442,
+      "ihhltotalach": 442,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KHANPUR",
+      "grampanchayatname": "NAVAGAM-1",
+      "ihhltotalasperdetails": 63,
+      "ihhltotalach": 63,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KHANPUR",
+      "grampanchayatname": "PANDARWADA",
+      "ihhltotalasperdetails": 182,
+      "ihhltotalach": 182,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KHANPUR",
+      "grampanchayatname": "SAMPADIYA",
+      "ihhltotalasperdetails": 56,
+      "ihhltotalach": 56,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KHANPUR",
+      "grampanchayatname": "VADAGAM",
+      "ihhltotalasperdetails": 205,
+      "ihhltotalach": 205,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "KHANPUR",
+      "grampanchayatname": "VADHELA",
+      "ihhltotalasperdetails": 18,
+      "ihhltotalach": 18,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "AGARWADA",
+      "ihhltotalasperdetails": 368,
+      "ihhltotalach": 368,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "ANKALWA",
+      "ihhltotalasperdetails": 91,
+      "ihhltotalach": 91,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "ARITHA",
+      "ihhltotalasperdetails": 39,
+      "ihhltotalach": 39,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "BAMANWAD",
+      "ihhltotalasperdetails": 384,
+      "ihhltotalach": 384,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "BHALADA",
+      "ihhltotalasperdetails": 495,
+      "ihhltotalach": 495,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "BHAMRA",
+      "ihhltotalasperdetails": 2,
+      "ihhltotalach": 2,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "BHANPUR",
+      "ihhltotalasperdetails": 36,
+      "ihhltotalach": 36,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "BHOJA",
+      "ihhltotalasperdetails": 312,
+      "ihhltotalach": 312,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "CHAMPELI",
+      "ihhltotalasperdetails": 417,
+      "ihhltotalach": 417,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "CHAPATIYA",
+      "ihhltotalasperdetails": 82,
+      "ihhltotalach": 82,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "CHARANGAM (NAMNAR)",
+      "ihhltotalasperdetails": 201,
+      "ihhltotalach": 201,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "CHARANGAM (SALAWADA)",
+      "ihhltotalasperdetails": 222,
+      "ihhltotalach": 222,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "CHATAKA BELI",
+      "ihhltotalasperdetails": 45,
+      "ihhltotalach": 45,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "CHAVADIYA",
+      "ihhltotalasperdetails": 253,
+      "ihhltotalach": 253,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "CHAVDIBAINA MUVADA",
+      "ihhltotalasperdetails": 57,
+      "ihhltotalach": 57,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "CHHAPRI-2 (VARDHARI)",
+      "ihhltotalasperdetails": 16,
+      "ihhltotalach": 16,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "CHORI",
+      "ihhltotalasperdetails": 130,
+      "ihhltotalach": 130,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "DALUKHADIYA",
+      "ihhltotalasperdetails": 139,
+      "ihhltotalach": 139,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "DALWAI SAVALI",
+      "ihhltotalasperdetails": 315,
+      "ihhltotalach": 315,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "DENTA",
+      "ihhltotalasperdetails": 19,
+      "ihhltotalach": 19,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "DHAMANIYA",
+      "ihhltotalasperdetails": 1,
+      "ihhltotalach": 1,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "DHAMOD",
+      "ihhltotalasperdetails": 219,
+      "ihhltotalach": 219,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "DHESIYA",
+      "ihhltotalasperdetails": 77,
+      "ihhltotalach": 77,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "DOKELAV",
+      "ihhltotalasperdetails": 4,
+      "ihhltotalach": 4,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "FATEPURA",
+      "ihhltotalasperdetails": 1,
+      "ihhltotalach": 1,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "GARIYA",
+      "ihhltotalasperdetails": 47,
+      "ihhltotalach": 47,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "GODNA MUVADA",
+      "ihhltotalasperdetails": 212,
+      "ihhltotalach": 212,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "GOLANA PALLA",
+      "ihhltotalasperdetails": 370,
+      "ihhltotalach": 370,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "HADMATIYA",
+      "ihhltotalasperdetails": 1,
+      "ihhltotalach": 1,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "HADOD",
+      "ihhltotalasperdetails": 489,
+      "ihhltotalach": 489,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "HARDASPUR",
+      "ihhltotalasperdetails": 85,
+      "ihhltotalach": 85,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "HATHIVAN",
+      "ihhltotalasperdetails": 1045,
+      "ihhltotalach": 1045,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "HINDOLIYA",
+      "ihhltotalasperdetails": 116,
+      "ihhltotalach": 116,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "JESOLA",
+      "ihhltotalasperdetails": 381,
+      "ihhltotalach": 381,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "KADACHHALA",
+      "ihhltotalasperdetails": 204,
+      "ihhltotalach": 204,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "KAKACHIYA",
+      "ihhltotalasperdetails": 326,
+      "ihhltotalach": 326,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "KAKANA BHENSAVADA",
+      "ihhltotalasperdetails": 20,
+      "ihhltotalach": 20,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "KANELA",
+      "ihhltotalasperdetails": 209,
+      "ihhltotalach": 209,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "KANJAV",
+      "ihhltotalasperdetails": 1,
+      "ihhltotalach": 1,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "KASLAL",
+      "ihhltotalasperdetails": 242,
+      "ihhltotalach": 242,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "KAUCHIA",
+      "ihhltotalasperdetails": 587,
+      "ihhltotalach": 587,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "KEL",
+      "ihhltotalasperdetails": 246,
+      "ihhltotalach": 246,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "KHALASPUR",
+      "ihhltotalasperdetails": 483,
+      "ihhltotalach": 483,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "KHANTANA MUVADA",
+      "ihhltotalasperdetails": 1,
+      "ihhltotalach": 1,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "KHAROL",
+      "ihhltotalasperdetails": 1366,
+      "ihhltotalach": 1366,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "KHEMPUR",
+      "ihhltotalasperdetails": 303,
+      "ihhltotalach": 303,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "KHODA AMBA",
+      "ihhltotalasperdetails": 47,
+      "ihhltotalach": 47,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "KIDIA",
+      "ihhltotalasperdetails": 11,
+      "ihhltotalach": 11,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "KOLWAN",
+      "ihhltotalasperdetails": 409,
+      "ihhltotalach": 409,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "KOTHA",
+      "ihhltotalasperdetails": 152,
+      "ihhltotalach": 152,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "KOTHAMBA",
+      "ihhltotalasperdetails": 450,
+      "ihhltotalach": 450,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "KOTHAMBA PALLA",
+      "ihhltotalasperdetails": 176,
+      "ihhltotalach": 176,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "KUNDA",
+      "ihhltotalasperdetails": 365,
+      "ihhltotalach": 365,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "LADVEL",
+      "ihhltotalasperdetails": 371,
+      "ihhltotalach": 371,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "LAKDI POYDA",
+      "ihhltotalasperdetails": 159,
+      "ihhltotalach": 159,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "LALSAR",
+      "ihhltotalasperdetails": 20,
+      "ihhltotalach": 20,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "LIMBODARA",
+      "ihhltotalasperdetails": 113,
+      "ihhltotalach": 113,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "MADHVAS",
+      "ihhltotalasperdetails": 405,
+      "ihhltotalach": 405,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "MAKHALIYA",
+      "ihhltotalasperdetails": 306,
+      "ihhltotalach": 306,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "MALEKPUR",
+      "ihhltotalasperdetails": 773,
+      "ihhltotalach": 773,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "MEHTANA CHAKALIYA",
+      "ihhltotalasperdetails": 24,
+      "ihhltotalach": 24,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "METHAJINA MUVADA",
+      "ihhltotalasperdetails": 197,
+      "ihhltotalach": 197,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "MOCHIVADIYA",
+      "ihhltotalasperdetails": 38,
+      "ihhltotalach": 38,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "MOTA SONELA",
+      "ihhltotalasperdetails": 109,
+      "ihhltotalach": 109,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "MOTA VADODAR",
+      "ihhltotalasperdetails": 119,
+      "ihhltotalach": 119,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "MOTI CHAREL",
+      "ihhltotalasperdetails": 139,
+      "ihhltotalach": 139,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "MOTI DENAVAD",
+      "ihhltotalasperdetails": 131,
+      "ihhltotalach": 131,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "MOTI GHODA",
+      "ihhltotalasperdetails": 11,
+      "ihhltotalach": 11,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "MOTI PALLI",
+      "ihhltotalasperdetails": 81,
+      "ihhltotalach": 81,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "NAMNAR",
+      "ihhltotalasperdetails": 144,
+      "ihhltotalach": 144,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "NANA VADADALA",
+      "ihhltotalasperdetails": 69,
+      "ihhltotalach": 69,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "NANI DENAVAD",
+      "ihhltotalasperdetails": 89,
+      "ihhltotalach": 89,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "NANI PALLI",
+      "ihhltotalasperdetails": 248,
+      "ihhltotalach": 248,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "NAVA MUVADA",
+      "ihhltotalasperdetails": 84,
+      "ihhltotalach": 84,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "NAVA RABADIYA",
+      "ihhltotalasperdetails": 7,
+      "ihhltotalach": 7,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "NAVI SINGANALI",
+      "ihhltotalasperdetails": 781,
+      "ihhltotalach": 781,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "PANAM PALLA",
+      "ihhltotalasperdetails": 1,
+      "ihhltotalach": 1,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "PANCH MAHUDI",
+      "ihhltotalasperdetails": 136,
+      "ihhltotalach": 136,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "PARAMPUR",
+      "ihhltotalasperdetails": 1,
+      "ihhltotalach": 1,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "PATTAN",
+      "ihhltotalasperdetails": 389,
+      "ihhltotalach": 389,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "RABADIYA",
+      "ihhltotalasperdetails": 914,
+      "ihhltotalach": 914,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "RAJGADH",
+      "ihhltotalasperdetails": 76,
+      "ihhltotalach": 76,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "RAMPATELNA MUVADA",
+      "ihhltotalasperdetails": 34,
+      "ihhltotalach": 34,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "RAMPUR",
+      "ihhltotalasperdetails": 40,
+      "ihhltotalach": 40,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "RANPUR",
+      "ihhltotalasperdetails": 147,
+      "ihhltotalach": 147,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "SADHAKPUR",
+      "ihhltotalasperdetails": 56,
+      "ihhltotalach": 56,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "SALAWADA",
+      "ihhltotalasperdetails": 49,
+      "ihhltotalach": 49,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "SARKARI CHAMARIYA",
+      "ihhltotalasperdetails": 54,
+      "ihhltotalach": 54,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "SENADARIA GORADA",
+      "ihhltotalasperdetails": 160,
+      "ihhltotalach": 160,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "SHAMANA",
+      "ihhltotalasperdetails": 56,
+      "ihhltotalach": 56,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "SIMALIA",
+      "ihhltotalasperdetails": 135,
+      "ihhltotalach": 135,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "TARNOCHA",
+      "ihhltotalasperdetails": 34,
+      "ihhltotalach": 34,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "THANA SAVALI",
+      "ihhltotalasperdetails": 852,
+      "ihhltotalach": 852,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "UCHARPI",
+      "ihhltotalasperdetails": 22,
+      "ihhltotalach": 22,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "UKEDI",
+      "ihhltotalasperdetails": 58,
+      "ihhltotalach": 58,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "UNDRA",
+      "ihhltotalasperdetails": 786,
+      "ihhltotalach": 786,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "UNTADI",
+      "ihhltotalasperdetails": 157,
+      "ihhltotalach": 157,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "VADINA GORADA",
+      "ihhltotalasperdetails": 6,
+      "ihhltotalach": 6,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "VAGHJI BARIYANA MUVADA",
+      "ihhltotalasperdetails": 70,
+      "ihhltotalach": 70,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "VAKHATPUR (KO-MAHAL)",
+      "ihhltotalasperdetails": 22,
+      "ihhltotalach": 22,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "VALINATH",
+      "ihhltotalasperdetails": 1,
+      "ihhltotalach": 1,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "VANIYAVALA GORADA",
+      "ihhltotalasperdetails": 394,
+      "ihhltotalach": 394,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "VARDHARI",
+      "ihhltotalasperdetails": 642,
+      "ihhltotalach": 642,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "VERAMA",
+      "ihhltotalasperdetails": 39,
+      "ihhltotalach": 39,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "VIRANIYA",
+      "ihhltotalasperdetails": 210,
+      "ihhltotalach": 210,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "LUNAWADA",
+      "grampanchayatname": "ZUFARALI",
+      "ihhltotalasperdetails": 140,
+      "ihhltotalach": 140,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "AMBA",
+      "ihhltotalasperdetails": 1,
+      "ihhltotalach": 1,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "AMBALIYAT",
+      "ihhltotalasperdetails": 302,
+      "ihhltotalach": 302,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "ANJANWA",
+      "ihhltotalasperdetails": 365,
+      "ihhltotalach": 365,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "BABRI",
+      "ihhltotalasperdetails": 1,
+      "ihhltotalach": 1,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "BABROL",
+      "ihhltotalasperdetails": 254,
+      "ihhltotalach": 254,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "BARELA",
+      "ihhltotalasperdetails": 317,
+      "ihhltotalach": 317,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "BATAKWADA",
+      "ihhltotalasperdetails": 780,
+      "ihhltotalach": 780,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "BAVANA SALIYA",
+      "ihhltotalasperdetails": 77,
+      "ihhltotalach": 77,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "BHAMARI",
+      "ihhltotalasperdetails": 348,
+      "ihhltotalach": 348,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "BHANA SIMAL",
+      "ihhltotalasperdetails": 391,
+      "ihhltotalach": 391,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "BHANDARA",
+      "ihhltotalasperdetails": 383,
+      "ihhltotalach": 383,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "BUGAD",
+      "ihhltotalasperdetails": 12,
+      "ihhltotalach": 12,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "CHHAYAN",
+      "ihhltotalasperdetails": 110,
+      "ihhltotalach": 110,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "CHITVA",
+      "ihhltotalasperdetails": 128,
+      "ihhltotalach": 128,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "CHUNTHANA MUVADA",
+      "ihhltotalasperdetails": 92,
+      "ihhltotalach": 92,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "DOLI",
+      "ihhltotalasperdetails": 291,
+      "ihhltotalach": 291,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "ENDRA",
+      "ihhltotalasperdetails": 90,
+      "ihhltotalach": 90,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "FALWA",
+      "ihhltotalasperdetails": 194,
+      "ihhltotalach": 194,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "GADA",
+      "ihhltotalasperdetails": 53,
+      "ihhltotalach": 53,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "GADIYA",
+      "ihhltotalasperdetails": 1,
+      "ihhltotalach": 1,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "GAMDI",
+      "ihhltotalasperdetails": 228,
+      "ihhltotalach": 228,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "GARADIYA",
+      "ihhltotalasperdetails": 13,
+      "ihhltotalach": 13,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "GODHAR (WEST)",
+      "ihhltotalasperdetails": 245,
+      "ihhltotalach": 245,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "GOTHIB",
+      "ihhltotalasperdetails": 904,
+      "ihhltotalach": 904,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "GOTHIBDA",
+      "ihhltotalasperdetails": 296,
+      "ihhltotalach": 296,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "GUVALIYA",
+      "ihhltotalasperdetails": 156,
+      "ihhltotalach": 156,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "HIRAPURA",
+      "ihhltotalasperdetails": 307,
+      "ihhltotalach": 307,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "JANVAD",
+      "ihhltotalasperdetails": 413,
+      "ihhltotalach": 413,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "KALIBEL",
+      "ihhltotalasperdetails": 228,
+      "ihhltotalach": 228,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "KANJARA (SANT)",
+      "ihhltotalasperdetails": 152,
+      "ihhltotalach": 152,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "KANZARA (SANT)",
+      "ihhltotalasperdetails": 125,
+      "ihhltotalach": 125,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "KENPUR",
+      "ihhltotalasperdetails": 173,
+      "ihhltotalach": 173,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "KHEDAYA ALIAS PRATAPGADH",
+      "ihhltotalasperdetails": 691,
+      "ihhltotalach": 691,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "KHODADRA",
+      "ihhltotalasperdetails": 178,
+      "ihhltotalach": 178,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "KOTRA",
+      "ihhltotalasperdetails": 123,
+      "ihhltotalach": 123,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "LIMDI",
+      "ihhltotalasperdetails": 841,
+      "ihhltotalach": 841,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "MALANPUR",
+      "ihhltotalasperdetails": 1,
+      "ihhltotalach": 1,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "MANCHOD",
+      "ihhltotalasperdetails": 211,
+      "ihhltotalach": 211,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "MOLARA",
+      "ihhltotalasperdetails": 302,
+      "ihhltotalach": 302,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "MOTA AMBELA",
+      "ihhltotalasperdetails": 1,
+      "ihhltotalach": 1,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "MOTA SARNAIYA",
+      "ihhltotalasperdetails": 260,
+      "ihhltotalach": 260,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "MOTI BHUGEDI",
+      "ihhltotalasperdetails": 258,
+      "ihhltotalach": 258,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "MOTI KYAR",
+      "ihhltotalasperdetails": 151,
+      "ihhltotalach": 151,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "MOTI REL",
+      "ihhltotalasperdetails": 171,
+      "ihhltotalach": 171,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "MOTI SARSAN",
+      "ihhltotalasperdetails": 205,
+      "ihhltotalach": 205,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "MOVASA",
+      "ihhltotalasperdetails": 332,
+      "ihhltotalach": 332,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "NANI BHUGEDI",
+      "ihhltotalasperdetails": 421,
+      "ihhltotalach": 421,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "NANI KYAR",
+      "ihhltotalasperdetails": 135,
+      "ihhltotalach": 135,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "NANI SARSAN",
+      "ihhltotalasperdetails": 135,
+      "ihhltotalach": 135,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "NANIREL (WEST)",
+      "ihhltotalasperdetails": 277,
+      "ihhltotalach": 277,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "NARSINGPUR",
+      "ihhltotalasperdetails": 1,
+      "ihhltotalach": 1,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "PADEDI ADOR",
+      "ihhltotalasperdetails": 135,
+      "ihhltotalach": 135,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "PAGINA MUVADA",
+      "ihhltotalasperdetails": 1,
+      "ihhltotalach": 1,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "PANCHMUVA",
+      "ihhltotalasperdetails": 100,
+      "ihhltotalach": 100,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "PARTHAMPUR",
+      "ihhltotalasperdetails": 1,
+      "ihhltotalach": 1,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "RAMBHEMNA MUVADA",
+      "ihhltotalasperdetails": 199,
+      "ihhltotalach": 199,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "RANELA",
+      "ihhltotalasperdetails": 1,
+      "ihhltotalach": 1,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "RANIJINI PADEDI",
+      "ihhltotalasperdetails": 158,
+      "ihhltotalach": 158,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "SANBAR",
+      "ihhltotalasperdetails": 148,
+      "ihhltotalach": 148,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "SANGAWADA",
+      "ihhltotalasperdetails": 241,
+      "ihhltotalach": 241,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "SARAD",
+      "ihhltotalasperdetails": 207,
+      "ihhltotalach": 207,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "SARASVA (WEST)",
+      "ihhltotalasperdetails": 240,
+      "ihhltotalach": 240,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "SATKUNDA",
+      "ihhltotalasperdetails": 301,
+      "ihhltotalach": 301,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "SHIR",
+      "ihhltotalasperdetails": 67,
+      "ihhltotalach": 67,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "SIMALIYA",
+      "ihhltotalasperdetails": 483,
+      "ihhltotalach": 483,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "SURPUR",
+      "ihhltotalasperdetails": 193,
+      "ihhltotalach": 193,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "TALADARA",
+      "ihhltotalasperdetails": 1,
+      "ihhltotalach": 1,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "UKHRELI",
+      "ihhltotalasperdetails": 297,
+      "ihhltotalach": 297,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "UMBER",
+      "ihhltotalasperdetails": 574,
+      "ihhltotalach": 574,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "VANJIYA KHUNT",
+      "ihhltotalasperdetails": 333,
+      "ihhltotalach": 333,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "VANKDI",
+      "ihhltotalasperdetails": 171,
+      "ihhltotalach": 171,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "VAVIA MUVADA",
+      "ihhltotalasperdetails": 206,
+      "ihhltotalach": 206,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "SANTRAMPUR",
+      "grampanchayatname": "VENA",
+      "ihhltotalasperdetails": 80,
+      "ihhltotalach": 80,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "VIRPUR",
+      "grampanchayatname": "ASPUR",
+      "ihhltotalasperdetails": 183,
+      "ihhltotalach": 183,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "VIRPUR",
+      "grampanchayatname": "BAR",
+      "ihhltotalasperdetails": 1135,
+      "ihhltotalach": 1135,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "VIRPUR",
+      "grampanchayatname": "BARODA",
+      "ihhltotalasperdetails": 226,
+      "ihhltotalach": 226,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "VIRPUR",
+      "grampanchayatname": "BHARODI",
+      "ihhltotalasperdetails": 387,
+      "ihhltotalach": 387,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "VIRPUR",
+      "grampanchayatname": "BHATPUR",
+      "ihhltotalasperdetails": 603,
+      "ihhltotalach": 603,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "VIRPUR",
+      "grampanchayatname": "CHORASA",
+      "ihhltotalasperdetails": 415,
+      "ihhltotalach": 415,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "VIRPUR",
+      "grampanchayatname": "DEBHARI",
+      "ihhltotalasperdetails": 904,
+      "ihhltotalach": 904,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "VIRPUR",
+      "grampanchayatname": "DHOLAVADA",
+      "ihhltotalasperdetails": 450,
+      "ihhltotalach": 450,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "VIRPUR",
+      "grampanchayatname": "GANDHARI",
+      "ihhltotalasperdetails": 605,
+      "ihhltotalach": 605,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "VIRPUR",
+      "grampanchayatname": "GHATDA",
+      "ihhltotalasperdetails": 409,
+      "ihhltotalach": 409,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "VIRPUR",
+      "grampanchayatname": "HANDIYA (VIRPUR)",
+      "ihhltotalasperdetails": 173,
+      "ihhltotalach": 173,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "VIRPUR",
+      "grampanchayatname": "JODHPUR",
+      "ihhltotalasperdetails": 654,
+      "ihhltotalach": 654,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "VIRPUR",
+      "grampanchayatname": "KASUDI",
+      "ihhltotalasperdetails": 289,
+      "ihhltotalach": 289,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "VIRPUR",
+      "grampanchayatname": "KHAROD",
+      "ihhltotalasperdetails": 1034,
+      "ihhltotalach": 1034,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "VIRPUR",
+      "grampanchayatname": "KHATA",
+      "ihhltotalasperdetails": 495,
+      "ihhltotalach": 495,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "VIRPUR",
+      "grampanchayatname": "KHEROLI",
+      "ihhltotalasperdetails": 350,
+      "ihhltotalach": 350,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "VIRPUR",
+      "grampanchayatname": "KOYDAM",
+      "ihhltotalasperdetails": 690,
+      "ihhltotalach": 690,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "VIRPUR",
+      "grampanchayatname": "KOYLA",
+      "ihhltotalasperdetails": 709,
+      "ihhltotalach": 709,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "VIRPUR",
+      "grampanchayatname": "KUMBHARVADI",
+      "ihhltotalasperdetails": 615,
+      "ihhltotalach": 615,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "VIRPUR",
+      "grampanchayatname": "LIMBARVADA",
+      "ihhltotalasperdetails": 768,
+      "ihhltotalach": 768,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "VIRPUR",
+      "grampanchayatname": "PANSRODA",
+      "ihhltotalasperdetails": 409,
+      "ihhltotalach": 409,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "VIRPUR",
+      "grampanchayatname": "PANTA",
+      "ihhltotalasperdetails": 658,
+      "ihhltotalach": 658,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "VIRPUR",
+      "grampanchayatname": "RAJPUR (VIRPUR)",
+      "ihhltotalasperdetails": 130,
+      "ihhltotalach": 130,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "VIRPUR",
+      "grampanchayatname": "RATANKUVA",
+      "ihhltotalasperdetails": 295,
+      "ihhltotalach": 295,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "VIRPUR",
+      "grampanchayatname": "SALAIYA",
+      "ihhltotalasperdetails": 370,
+      "ihhltotalach": 370,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "VIRPUR",
+      "grampanchayatname": "SARADIYA",
+      "ihhltotalasperdetails": 1034,
+      "ihhltotalach": 1034,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "VIRPUR",
+      "grampanchayatname": "SARIYA",
+      "ihhltotalasperdetails": 374,
+      "ihhltotalach": 374,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "VIRPUR",
+      "grampanchayatname": "TAJPUR",
+      "ihhltotalasperdetails": 1,
+      "ihhltotalach": 1,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "VIRPUR",
+      "grampanchayatname": "VAGHAS",
+      "ihhltotalasperdetails": 490,
+      "ihhltotalach": 490,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "VIRPUR",
+      "grampanchayatname": "VARADHARA",
+      "ihhltotalasperdetails": 144,
+      "ihhltotalach": 144,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MAHISAGAR",
+      "blockname": "VIRPUR",
+      "grampanchayatname": "VIRPUR",
+      "ihhltotalasperdetails": 1715,
+      "ihhltotalach": 1715,
+      "date": "5/19/2020 12:00:00 AM"
+    }
+  ]
+}

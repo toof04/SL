@@ -1,0 +1,1000 @@
+"Apex Ministry/Dept/State","Parent of Organisation",org_code,org_name,contact_address1,contact_address2,contact_address3,pincode,pg_officer_desig,"Organisation levels"
+"Department of Administrative Reforms and PG","Department of Administrative Reforms and PG",ARCDV,"DARPG ARC Division",DARPG,"SP Bhawan",NA,NA,"Deputy Secretary",2
+"Department of Administrative Reforms and PG","Department of Administrative Reforms and PG",ARDIV,"AR Division","AR Division  D/o ARPG  5th floor  S.P. Bhavan","Sansad Marg","New Delhi",110001,Director,2
+"Department of Administrative Reforms and PG","Department of Administrative Reforms and PG",ARDND,"D&D Division","D/of ARPG  DD Division","5th Floor  S.P. Bhavan  Sansad Marg  New Delhi",NA,110001,Director,2
+"Department of Administrative Reforms and PG","Department of Administrative Reforms and Public Grievances",ARNPG,"Department of Administrative Reforms and PG","5th Floor Sardar Patel Bhawan Sansad Marg  New Del",hi,NA,110001,"Deputy Secretary",1
+"Department of Administrative Reforms and PG","Department of Administrative Reforms and PG",ARPGA,"Admn . Div. ,Department of ARPG ,","5th floor sardar patel Bhavan","Parlaiment Street","New Delhi",110001,"DS Admn.",2
+"Department of Administrative Reforms and PG","Department of Administrative Reforms and PG",ARPGC,"E-governance Division, DARPG","5th floor  Sardar Patel Bhavan","Parlaiment Street","New Delhi",110001,"Deputy Secretary",2
+"Department of Administrative Reforms and PG","Department of Administrative Reforms and PG",ARPGI,"IE and C division, DARPG","Administrative Reforns Div.  DARPG","5th floor  Sardar Patel Bhavan  Parlaiment Street","New Delhi",110001,Director,2
+"Department of Administrative Reforms and PG","Department of Administrative Reforms and PG",ARPGN,NIC-DARPG,"Administrative Reforns Div.  DARPG","5th floor  Sardar Patel Bhavan  Parlaiment Street","New Delhi",110001,"Sr. Technical director",2
+"Department of Administrative Reforms and PG","Department of Administrative Reforms and PG",ARPGO,"OM Division of DARPG","5th floor","SP Bhawan","N Delhi",110001,"Under Secretary",2
+"Department of Administrative Reforms and PG","Department of Administrative Reforms and PG",ARPGP,"DARPG, PG Division","Administrative Reforns Div.  DARPG","5th floor  Sardar Patel Bhavan  Parlaiment Street","New Delhi",110001,"Joint Secretary",2
+"Department of Administrative Reforms and PG",NIC-DARPG,NICPG,"NIC-ARPG CPGRAMS Group","NIC PG Team 2nd Floor  SP Bhawan",NA,NA,110001,"Technical Director",3
+"Ministry of Ayush","Ministry of Ayush",NIAYU,"Director National Institutes","AYUSH BHAVAN","B BLOCK   GPO COMPLEX  INA","NEW DELHI",110023,DIRECTOR,2
+"Ministry of Ayush","Ministry of Ayush",NIAJA,"NATIONAL INSTITUTE OF AYURVEDA JAIPUR","NATIONAL INSTITUTE OF AYURVEDA","MADHAV VILAS PALACE  JORAWAR SINGH GATE","AMER ROAD  JAIPUR-302002 RAJ.",302002,Director,2
+"Ministry of Ayush","Ministry of Ayush",NIHOH,"National Institute of Homoeopathy","Block-GE  Sector-III","Salt Lake",Kolkatta,700106,Director,2
+"Ministry of Ayush","Ministry of Ayush",NEIAH,"NORTH EAST INSTITUTE of AYURVEDA n HOMOEOPATHY",Mawdiangdiang,SHILLONG,SHILLONG,793018,Director,2
+"Ministry of Ayush","Ministry of Ayush",NEIFM,"North Eastern Institute of Folk Medicine","NEIFM Pasighat  Opp. APST Bus Terminal  High Regio","n  Pasighat  Arunachal Pradesh",NA,791102,"ADMINISTRATIVE OFFICER",2
+"Ministry of Ayush","Ministry of Ayush",NMPB1,"National Medicinal Plants Board","NMPB  GPO Complex  B-Block","AYUSH Bhawan   Room No.309","3rd Floor  INA",110023,"Chief Executive Officer",2
+"Ministry of Ayush","Ministry of Ayush",PANDE,"Director Planning and Education AYUSH","AYUSH Bhavan  GPO Complex","B Block  INA","New Delhi",110023,Director,2
+"Ministry of Ayush","Ministry of Ayush",PATHY,"Central Council for Research in Homoeopathy","61-65 Institutional Area  Opp. D.Block",Janakpuri,NA,110058,"Director General",2
+"Ministry of Ayush","Ministry of Ayush",PHARM,"Pharmacopoeial Laboratory of Inidna Medicine","Kamla Nehru Nagar  Ghaziabad",NA,NA,201002,"Research Assistant",2
+"Ministry of Ayush","Ministry of Ayush",MDNIY,"Morarji Desai National Institute of Yoga","68  Ashok Road",NA,NA,110001,"Senior Medical Officer",2
+"Ministry of Ayush","Ministry of Ayush",NATUR,"National Institute of Naturopathy","BAPU BHAVAN",NA,NA,411001,"Administrative Officer",2
+"Ministry of Ayush","Ministry of Ayush",IMPCL,"INDIAN MEDICINE PHARMACEUTICAL CORPORATION LTD.","IMPCL  MOHAN  DISTT. ALMORA","(VIA RAMNAGAR)",UTTRAKHAND,244715,"Company Secretary",2
+"Ministry of Ayush","Ministry of Ayush",INDIA,"Central Council of Indian Medicine","61-65 Institutional Area  Opp. D. Block  Janakpuri","New Delhi",NA,110058,"Assistant Registrar",2
+"Ministry of Ayush","Ministry of Ayush",IPGTR,"Institute of Post Graduate Train and R.A","Gujarat Ayurved University  Jamnagar",GAU,NA,361008,"Professor and H.O.D",2
+"Ministry of Ayush","Ministry of Ayush",JTAD1,"Joint Advisor Ayurveda DR. KATOCH","AYUSH BHAVAN  GPO COMPLEX","B BLOCK  INA","NEW DELHI",110023,"JOINT ADVISOR AYURVEDA",2
+"Ministry of Ayush","Ministry of Ayush",JTAD2,"JOINT ADVISOR AYURVEDA","AYUSH BHAVAN  GPO COMPLEX","B BLOCK INA","NEW DELHI",110023,"JOINT ADVISOR AYURVEDA",2
+"Ministry of Ayush","Ministry of Ayush",AYURV,"National Institute of Ayurveda","Jorawar Singh Gate  Amer Road  Jaipur",NA,NA,302002,"Associate Professor",2
+"Ministry of Ayush","Department of Administrative Reforms and Public Grievances",AYUSH,"Ministry of Ayush","AYUSH BHAWAN  B Block  GPO Complex  INA  New Delhi","NEW DELHI",NA,110023,Director,1
+"Ministry of Ayush","Ministry of Ayush",ADVHO,"Adviser Homoeopathy","Ministry of AYUSH","AYUSH BHAWAN",NA,110023,"Adviser Homoeopathy",2
+"Ministry of Ayush","Ministry of Ayush",AIIAY,"ALL INDIA INSTITUTE OF AYURVEDA",Gautampuri,"Mathura Road","Sarita Vihar",110076,"Associate Professor",2
+"Ministry of Ayush","Ministry of Ayush",ADAY1,"Adviser Ayurveda 1","Ministry of Ayush",INA,NA,NA,"Adviser Ayurveda",2
+"Ministry of Ayush","Ministry of Ayush",ADAY2,"Adviser Ayurveda 2","ministry of ayush","ayush bhawan",NA,NA,"Adviser Ayurveda",2
+"Ministry of Ayush","DEPUTY ADVISOR HOMOEOPATH",CCRH1,"Central Council for Research in Homoeopathy","61-65  Institutional Area D Block",Janakpuri,NA,110058,"Director General",3
+"Ministry of Ayush","Ministry of Ayush",CCRH2,"Central Council for Research in Homoeopathy CCRH",janakpuri,"61-65  Sewa Marg  Opp D Block  Institutional Area",NA,110058,"Director General",2
+"Ministry of Ayush","Ministry of Ayush",CCRAS,"Central Council for Research in Ayurvedic Scicnces","61-65 Institutional Area  Opp. d.Block",Janakpuri,NA,110058,"Director General",2
+"Ministry of Ayush","Ministry of Ayush",CCRSS,"CENTRAL COUNCIL FOR RESEARCH IN SIDDHA","ANNA HOSPITAL CAMPUS",ARUMBAKKAM,CHENNAI,600106,"Director General",2
+"Ministry of Ayush","Ministry of Ayush",CCRUM,"CENTRAL COUNCIL RESEARCH IN UNANI MEDICINE","Central Council for Research in Unani Medicine","Jawahar Lal Nehru AYUSH Anusandhan Bhawan","61-65  Institutional Area  Janakpuri  New Delhi",110058,"Director General",2
+"Ministry of Ayush","Ministry of Ayush",CCRYN,"Central Council for Yoga and Naturopathy","61-65  Institutional Area  Opp. D Block  Janakpuri","New Delhi",NA,110058,"Asstt. Director Naturpoathy",2
+"Ministry of Ayush","Ministry of Ayush",CENTR,"Central Council of Homoeopathy","Central Council of Homoeopathy",NA,NA,110058,"Asstt. Secretary",2
+"Ministry of Ayush","Ministry of Ayush",DAADH,"DEPUTY ADVISOR HOMOEOPATH","AYUSH BHAVAN GPO COMPLEX B BLOCK",INA,"NEW DELHI",110023,"DEPUTY ADVISOR HOMOEOPATH",2
+"Ministry of Ayush","Ministry of Ayush",DAEP2,EP-2,"EP-2 Section","Ministry of AYUSH","AYUSH BHAWAN",110023,"Deputy Advisor Homoeopathy",2
+"Ministry of Ayush","Ministry of Ayush",DICOE,"Director COE","Ministry of AYUSH","Ayush Bhawan",NA,110023,Director,2
+"Ministry of Ayush","Ministry of Ayush",DIEP1,"EP 1","Ayush Bhawan  B-Block  GPO Complex INA New delhi",NA,NA,110023,Director,2
+"Ministry of Ayush","Ministry of Ayush",DIEP2,"Director DS EPIM 2","Ministry of AYUSH",INA,"AYUSH Bhawan",110023,"Under Secretary",2
+"Ministry of Ayush","Ministry of Ayush",DILHT,"Director LHT","ministry of ayush","ayush bhawan",NA,110023,Director,2
+"Ministry of Ayush","Ministry of Ayush",DINAM,"NATIONAL AYUSH MISSION","M/O AYUSH","AYUSH BHAWAN GPO COMPLEX","NEW DELHI",110023,"Dy DIRECTOR GENERAL",2
+"Ministry of Ayush","Ministry of Ayush",DIPHI,"Director PHI","Ministry of AYUSH","AYUSH bhawan B-Block  GPO Complex","INA  New D",110023,Director,2
+"Ministry of Ayush","Ministry of Ayush",DIREC,"Director DS E and C","Ministry of AYUSH","AYUSH Bhawan  CGP Complex  B Block",INA,110023,Director,2
+"Ministry of Ayush","Ministry of Ayush",DIRPE,DirectorPandE,"ministry of ayush","ayush bhawan",NA,110023,Director,2
+"Ministry of Ayush","Ministry of Ayush",DSAD1,"DEPUTY SECRETARY ADMIISTRATION","AYUSH BHAVAN  GPO COMPLEX B BLOCK INA NEW DELHI",NA,NA,110023,"Dy Secretary",2
+"Ministry of Ayush","Ministry of Ayush",DSIEC,"Deputy Secretary","Ministry of AYUSH","AYUSH BHAWAN  INA","B block  GPO Complex",110023,"Deputy Secretary",2
+"Ministry of Ayush","Ministry of Ayush",DSRCS,"DEPUTY SECRETARY RESEARCH COUNCILS","AYUSH BHAVAN  GPO COMPLEX","B BLOCK INA","NEW DELHI",110023,"DEPUTY SECRETARY",2
+"Ministry of Ayush","Ministry of Ayush",SCCHE,"SENIOR CHIEF CHEMIST","AYUSH BHAVAN  GPO COMPLEX","B BLOCK INA","NEW DELHI",110023,"SENIOR CHIEF CHEMIST",2
+"Ministry of Ayush","Ministry of Ayush",SIDDH,"National Institute of Siddha","Department of Kuzhandai Maruthuvam National Instit","ute of Siddha Tambaram Sanatorium  Chennai.",NA,600047,Director,2
+"Ministry of Ayush","Ministry of Ayush",UNANI,"National Institute of Unani Medicine","Department of Ilaj Bit Tadbeer",Kottigepalya,"Magadi Main Road  Bangalore",560091,Director,2
+"Ministry of Ayush","Ministry of Ayush",USICI,"INTERNATIONAL CORPORATION","AYUSH BHAWAN","B BLOCK GPO COMPLEX",INA,110023,Adviser,2
+"Ministry of Ayush","Ministry of Ayush",VIDYA,"Rashtriya Ayurved Vidyapeeth","Dhanwantari Bhawan  Road No.66  Punjabi Bagh West",NA,NA,110026,Director,2
+"Ministry of Ayush","Ministry of Ayush",VIGLA,"DIRECTOR VIGILANCE","M/O AYUSH","AYUSH BHAWAN  GPO COMPLEX","NEW DELHI.",110023,DIRECTOR,2
+DARPG,COMPLAINANT,BADRI,DARPG,"D/o ARPG  5th FLOOR","Sardar Patel Bhawan","New Delhi",110001,"Under Secretary",0
+"BSES Rajdhani / Yamuna Power Ltd","Department of Power",BSESP,"BSES Rajdhani / Yamuna Power Ltd","BSES Bhavan","Nehru Place","New Delhi",110019,"Chief Executive Officer.",4
+COMPLAINANT,COMPLAINANT,C1TZN,COMPLAINANT,DARPG,DARPG,DARPG,NA,NIL,0
+COMPLAINANT,"Prime Ministers Office",CICOM,"Central Information Commission","Bhikaji Cama Place","New Delhi",NA,110066,REGISTRAR,0
+COMPLAINANT,"Prime Ministers Office",ECOMM,"Election Commission","Ashok Road","New Delhi",NA,NA,SECRETARY,0
+COMPLAINANT,NA,DPG,"Directorate of Public Grievances (Cabinet Secretariat)","2nd Floor  Sardar Patel Bhawan","Parliament Street","New Delhi",110001,Director,0
+COMPLAINANT,"Prime Ministers Office",COSIR,"Council of Scientific and Industrial Research (CSIR)",.,.,NA,NA,SECRETARY,0
+COMPLAINANT,"Prime Ministers Office",ICOAR,"Indian Council of Agricultural Research (ICAR)",.,.,NA,NA,SECRETARY,0
+"Cabinet Secretariat(Rashtrapati Bhavan)","Department of Pension and Pensioners Welfare",CABRB,"Cabinet Secretariat(Rashtrapati Bhavan)","Rashtrapathi Bhawan",NA,"New Delhi",NA,"Director Admin",0
+"Cabinet Secretariat,Secretary(R)","Department of Pension and Pensioners Welfare",CABST,"Cabinet Secretariat,Secretary(R)","Bikaner House (Annexe)","Shahjahan Road","New Delhi",NA,"Director  & Grievance Officer",0
+"O/o the Comptroller & Auditor General of India","Department of Administrative Reforms and Public Grievances",CAGAO,"O/o the Comptroller & Auditor General of India","9  Deen Dayal Upadhayaya Marg","New Delhi",NA,110124,"Asstt. C. &amp; A. G. N",1
+"O/o the Comptroller & Auditor General of India","O/o the Comptroller & Auditor General of India",CAGAP,"AG  Andhra Pradesh","O/o the Accountnt Generel (A&E)","Andhra Pradesh Saifabad",Hyderabad,500004,"Accountant General",2
+"O/o the Comptroller & Auditor General of India","O/o the Comptroller & Auditor General of India",CAGAS,"Accountnt Generel Assam","O/o the Accountnt Generel (A&E)  Assam","Maidamgaon  Beltola",Guhahati,781029,"Accountant General",2
+"O/o the Comptroller & Auditor General of India","O/o the Comptroller & Auditor General of India",CAGMG,"AG Meghalaya","O/O Accountant General","Shillong Meghalaya",NA,NA,"Accountant General",2
+"O/o the Comptroller & Auditor General of India","O/o the Comptroller & Auditor General of India",CAGMH,"ACCOUNTANT GENERAL MAHARASWHTRA.II NAGPUR","O/O THE A.G.MAHARASTRA (A&E)-II NAGPUR-","Pin code 440001",NA,440001,"ACCOUNTANT GENERAL",2
+"O/o the Comptroller & Auditor General of India","O/o the Comptroller & Auditor General of India",CAGWB,"Accountant General,(A&E), West Bengal","O/o the Accountant General (A&E)  West Bengal","Treasury Building No. 2 Govt.Place (West)",Kolkata,700001,"Accountant General",2
+"O/o the Comptroller & Auditor General of India","O/o the Comptroller & Auditor General of India",BH001,"Indian audit and accounts department","Accountant General (AE)",Bihar,Patna,800001,"Sr AO",2
+"O/o the Comptroller & Auditor General of India","O/o the Comptroller & Auditor General of India",AOCAG,"INDIAN AUDIT AND ACCOUNTS DEPARTMENTS","POCKET 9","DEENDAYAL UPADHYAY MARG","NEW DELHI",110124,"Senior Administrative officer",2
+"O/o the Comptroller & Auditor General of India","O/o the Comptroller & Auditor General of India",AP100,"Indian Audit and Accounts Department","O/o PAG(AE)",Andhrapradesh,Hyderabad,500004,"Sr AO",2
+"O/o the Comptroller & Auditor General of India","O/o the Comptroller & Auditor General of India",AGUP2,"ACCOUNTANT GENERAL ( A&E)) II- UP","o/o THE A.G. (A&E).II-UP  Allahabad","20 S.N. Marg",U.P,211001,"ACCOUNTANT GENERAL",2
+"O/o the Comptroller & Auditor General of India","O/o the Comptroller & Auditor General of India",AGBIH,"Accountant General   A&E  BIHAR  PATNA","O/o THE ACCOUNTANT GENERAL (AE)","BIHAR   VIRCHAND PATEL MARG  PATNA",NA,800001,"ACCOUNTANAT GENERAL",2
+"O/o the Comptroller & Auditor General of India","O/o the Comptroller & Auditor General of India",AGGUJ,"ACCOUNTANT GENERAL  A&E GUJARAT, RAJKOT","O/O THE A.G.&#40A&E) GUJARAT  RACE COURSE ROAD","RAJKOT-360 001",NA,360001,"ACCOUNTANT GENERAL",2
+C.B.I.,NA,CBIHQ,C.B.I.,HQ.,"Block 3  CGO Complex","New Delhi",110003,"JD (Admn.)",0
+"Central Board of Direct Taxes (Income Tax)","Pr. Chief Commissioner of Income Tax (CCA) (Bihar & Jharkhan",CBHAG,"Pr. Commissioner of Income Tax Bhagalpur","Katchari Chowk Bhagalpur",NA,NA,812001,"Pr.CIT Bhagalpur",3
+"Central Board of Direct Taxes (Income Tax)","Central Board of Direct Taxes (Income Tax)",CBDLI,"Pr. Chief Commissioner of Income Tax Delhi-I","Pr.CCIT  Delhi. Central Revenue Building I.P. Esta","te  New Delhi-110002.",NA,110002,Pr.CCIT,2
+"Central Board of Direct Taxes (Income Tax)","Central Board of Direct Taxes (Income Tax)",CBDPA,"Pr. Chief Commissioner of Income Tax (CCA) (Bihar & Jharkhan","PRINCIPAL CHIEF COMMISSIONER OF INCOME TAX PATNA C","ENTRAL REVENUE BUILDING  BIRCHAND PATEL MARG PATNA","-800 001",800001,"Pr CCIT Bihar and Jharkhand",2
+"Central Board of Direct Taxes (Income Tax)","Central Board of Direct Taxes (Income Tax)",CBDSU,"CHIEF COMMISSIONER OF INCOME TAX SURAT","CHIEF COMMISSIONER OF INCOME TAX  SURAT","AAYAKAR BHAWAN   MAJURA GATE",SURAT,395001,CCIT,2
+"Central Board of Direct Taxes (Income Tax)","CIT EXEMPTIONS JAIPUR",CBDT1,"income tax E Range Jaipur","IIIrd Floor  Kailash Heights  Tonk Road  Lal Kothi",Jaipur,NA,302015,JCIT,4
+"Central Board of Direct Taxes (Income Tax)","Central Board of Direct Taxes (Income Tax)",CBDJO,"CHIEF COMMISSIONER OF INCOME TAX JODHPUR","CHIEF COMMISSIONER OF INCOME TAX JODHPUR","AAYAKAR BHAWAN  PAOTA  C ROAD",JODHPUR,342010,CCIT,2
+"Central Board of Direct Taxes (Income Tax)","Income Tax Deptt.",CBDTD,CIR61,"389-A  C.R. BUILDING  I.P. ESTATE",NA,NA,110002,"DCIT Cir 6 1",5
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX BANGALORE",CBEN1,"Commissioner of Income Tax, Bangalore-I","BMTC COMPLEX","80 FEET ROAD  6TH BLOCK","KORAMANGALA  BENGALURU",560095,"Pr.Commissioner of Income Tax1",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX BANGALORE",CBEN2,"Commissioner of Income Tax, Bangalore-II","BMTC COMPLEX","80 FEET ROAD  6TH BLOCK","KORAMANGALA  BENGALURU",560095,"Pr.Commissioner of Income Tax2",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX BANGALORE",CBEN3,"Commissioner of Income Tax, Bangalore-III","5th Floor  BMTC BUILDING","80 Feet Road  6th Block","Kormangala  Bengaluru",560095,"Pr.Commissioner of Income Tax",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX BANGALORE",CBEN4,"Commissioner of Income Tax, Bangalore-IV","5th Floor  BMTC Commercial Complex","80 Ft. Road  6th Block","Koramangala  Bengaluru",560095,"Pr. Commissioner of Income Tax",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX BANGALORE",CBEN5,"Commissioner of Income Tax, Bangalore-V","AAYKAR BHAVAN  BMTC BUILDING","80 FEET ROAD  KORAMANGALA",BANGALORE,560095,"Pr.Commissioner of Income Tax",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX INDORE",CAUJN,"COMMISSIONER OF INCOME TAX APPEAL UJJAIN","AAYKAR BHAWAN","BHARAT PURI",UJJAIN,456019,"COMMISSIONER OF INCOME TAX",3
+"Central Board of Direct Taxes (Income Tax)","Commissioner of Income Tax TDS Ahmedabad",CBOBT,"Addl Commissioner of Incometax TDS Ahmedabad","Room No. A/111  1st Floor","Navjivan Press Building Compound","Off Ashram Road",380014,"ADDITIONAL COMMISSIONER",4
+"Central Board of Direct Taxes (Income Tax)","Department of Administrative Reforms and Public Grievances",CBODT,"Central Board of Direct Taxes (Income Tax)","4th Floor  Mayur Bhawan  Connaught Circus  New Del",hi,NA,110001,"Addl. Director E-Services",1
+"Central Board of Direct Taxes (Income Tax)","Central Board of Direct Taxes (Income Tax)",CBPUN,"Principal Chief Commissioner of Income Tax, Pune","Pr. CHIEF COMMISSIONER OF INCOME TAX PUNE AAYAKAR","BHAWAN  12  SADHU VASWANI CHOWK PUNE-411 001",NA,411001,"Pr. CCIT",2
+"Central Board of Direct Taxes (Income Tax)","Central Board of Direct Taxes (Income Tax)",CBTHA,"CHIEF COMMISSIONER OF INCOME TAX THANE","ASHAR IT PARK  6TH FLOOR","ROAD NO.16Z  WAGLE INDUSTRIAL ESTATE","THANE WEST",400604,CCIT,2
+"Central Board of Direct Taxes (Income Tax)","Addl CIT R 11 Kol",CC111,CIRCLE-11.1,"AAYAKAR BHAWAN  6TH FLOOR","P-7  CHOWRINGHEE SQUARE",KOLKATA-700069,700069,"DCIT CIRCLE-11.1 KOL",6
+"Central Board of Direct Taxes (Income Tax)","Addl CIT R 11 Kol",CC112,"CIRCLE-11.2 KOLKATA","AAYAKAR BHAWAN  6TH FLOOR","P-7  CHOWRINGHEE SQUARE",KOLKATA-700069,700069,"DCIT CIRCLE-11.2 KOLKATA",6
+"Central Board of Direct Taxes (Income Tax)","RANGE 12 HYDERABAD",CC121,"Circle 12 1 Hyderabad","I Floor Aayakar Bhawan",Basheerbagh,Hyderabad,500004,"Circle 12 1 Hyderabad",5
+"Central Board of Direct Taxes (Income Tax)","CENTRAL RANGE CHANDIGARH",CC2CH,"DCIT. CC 2 CHANDIGARH","CR BUILDING  SECTOR-17E  CHANDIGARH","CR BUILDING  SECTOR-17E  CHANDIGARH",NA,160017,"Dy. Commissioner of Income Tax",6
+"Central Board of Direct Taxes (Income Tax)","CENTRAL RANGE GURGAON",CC2FB,"CENTRAL CIRCLE 2 FARIDABAD","NEW CGO COMPLEXNH - IVFARIDABAD",NA,NA,121001,ACIT,6
+"Central Board of Direct Taxes (Income Tax)","CENTRAL RANGE GURGAON",CC2GG,"CENTRAL CIRCLE 2 GURGAON","HSIIDC BUILDING  3RD FLOOR","UDYOG VIHAR PHASE-V",GURGAON,122016,DCIT,6
+"Central Board of Direct Taxes (Income Tax)","ADDL CIT CENTRAL RANGE JAIPUR",CC2JP,"CENTRAL CIRCLE2JAIPUR","NA105 NCR JAIPUR",jaipur,jaipur,302005,DCIT,6
+"Central Board of Direct Taxes (Income Tax)","Principal Chief Commissioner of Income Tax, Pune",CC2PN,"Chief Commissioner of Income Tax, PUNE-II","Aayakar Bhawan Ground Floor 12  Sadhu Vaswani Road",PUNE,NA,411001,"CCIT PUNE",3
+"Central Board of Direct Taxes (Income Tax)","Pr. Commissioner of Income Tax Delhi-V",CC152,"Circle 15 2","R. N. 321  C R Building",NA,NA,NA,ACIT,4
+"Central Board of Direct Taxes (Income Tax)","CENTRAL RANGE CHANDIGARH",CC1CH,"Central Circle 1 Chandigarh","CR Building  Ground Floor","Sector-17E  Chandigarh",NA,160017,DCIT,6
+"Central Board of Direct Taxes (Income Tax)","CENTRAL RANGE GURGAON",CC1FB,"CENTRAL CIRCLE 1 FARIDABAD","NEW CGO COMPLEX",NH-IV,FARIDABAD,121001,"Jt. CIT",6
+"Central Board of Direct Taxes (Income Tax)","CENTRAL RANGE GURGAON",CC1GG,"CENTRAL CIRCLE 1 GURGAON","HSIIDC BUILDING  3RD FLOOR","UDYOG VIHAR PHASE-V",GURGAON,122016,"JT. CIT",6
+"Central Board of Direct Taxes (Income Tax)","ADDL CIT CENTRAL RANGE JAIPUR",CC1JP,"INCOME TAX","INCOME TAX OFFICE","STATUE CIRCLE",JAIPUR,302005,DCIT,6
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax 4",CCA17,"Commissioner of Income Tax Appeal 17","Bandra Kurla Complex",Mumbai,NA,400051,"CIT APPEAL 17",4
+"Central Board of Direct Taxes (Income Tax)","CENTRAL RANGE KANPUR",CCAGR,"ACIT CENTRAL CIRCLE AGRA","AAYAKAR BHAWAN 1ST FLOOR SANJAY PLACE  AGRA",NA,NA,282002,"DY. COMMISSIONER INCOME TAX",6
+"Central Board of Direct Taxes (Income Tax)","CENTRAL RANGE KANPUR",CCALG,"DCIT CENTRAL CIRCLE ALIGARH","O/O DY.COMMISSIONER OF INCOME TAX CENTRAL CIRCLE","MERRIS ROAD",ALIGARH,202001,"DY.COMMISSIONER OF INCOME TAX",6
+"Central Board of Direct Taxes (Income Tax)","ADDL CIT CENTRAL RANGE JAIPUR",CCALW,"Central Circle Alwar","Moti Dungari Road  Alwar",alwar,alwar,301001,ACIT,NA
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX CHANDIGARH",CCASR,"CCIT AMRITSAR","AAYAKAR BHAWAN","MAKBOOL ROAD",AMRITSAR,143001,"CHEIF COMMISSIONER OF IT",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX BANGALORE",CCBN1,"CCIT  1","CR BUILDING QUEENS ROAD BANGALURU",NA,NA,560001,"CCIT  1",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX BANGALORE",CCBN2,"CCIT 2","C.R.BUILDING QUEENS ROAD BANGALORE",NA,NA,NA,"CCIT 2",3
+"Central Board of Direct Taxes (Income Tax)","CENTRAL RANGE 4",CCC13,"CENTRAL CIRCLE 13",DELHI,NA,NA,NA,ACIT,5
+"Central Board of Direct Taxes (Income Tax)","CENTRAL RANGE 4",CCC14,"CENTRAL CIRCLE 14",DEHLI,NA,NA,110001,DCIT,5
+"Central Board of Direct Taxes (Income Tax)","CENTRAL RANGE 4",CCC15,"CENTRAL CIRCLE 15",DELHI,NA,NA,NA,ACIT,5
+"Central Board of Direct Taxes (Income Tax)","CENTRAL RANGE 4",CCC16,"CENTRAL CIRCLE 16",DELHI,NA,NA,NA,ACIT,5
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX AHMEDABAD",CAMD1,"Commissioner of Income Tax Ahmedabad I","Pratyaksh Kar Bhawan  Panjrapola  Ambawadi  Ahmeda",bad,NA,380009,"Pr. CIT1",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX AHMEDABAD",CAMD2,"Commissioner of Income Tax Ahmedabad 2","409   AAYAKAR BHAVAN VEJALPUR  Ahmedabad",NA,NA,380014,"PR CIT-2",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX AHMEDABAD",CAMD3,"Commissioner of Income Tax Ahmedabad 3","C-411  4th floor Pratyaksh Kar Bhawan","Panjrapola  Ambawadi",Ahmedabad,380009,"Pr.Commissioner of Income Tax3",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX AHMEDABAD",CAMD4,"Commissioner of Income Tax Ahmedabad IV","Room No. C-311  PratyakshKar Bhawan  Panjrapol  Am","bawadi  Ahmedabad",NA,380009,"PR. CIT 4 AHMEDABAD",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX AHMEDABAD",CAMD5,"Commissioner of Income Tax Ahmedabad V","Narayan Chambers","Ashram Road",Ahmedabad,380009,"Principal CIT Ahmedabad 5",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX AHMEDABAD",CAMD6,"Commissioner of Income Tax Ahmedabad VI","Narayan Chambers","Ashram Road",Ahmedabad,380009,Pr.CIT6,3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX AHMEDABAD",CAMD7,"Commissioner of Income Tax Ahmedabad VII","Nature View Building  Ashram Road Ahmedabad",NA,NA,380014,Pr.CIT7,3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",CAL01,"Commissioner of Income Tax, Kolkata-01","7TH FLOOR  AAYKAR BHAWAN","P-7  CHOWRINGHEE SQUARE",KOLKATA,700069,"PCIT1 Additional Charge",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",CAL02,"Commissioner of Income Tax, Kolkata-02","Aayakar Bhawan  P-7  Chowringhee Square  Kolkata",NA,NA,700069,"PCIT 2 KOLKATA",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",CAL03,"Commissioner of Income Tax, Kolkata-03","Aayakar Bhawan","P-7  Chowringhee Square",Kolkata,700069,"Pr.CIT 3",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",CAL04,"Commissioner of Income Tax, Kolkata-04","Aayakar Bhawan  6th Floor","P-7  Chowringhee Square",Kolkata,700069,"PR.COMMISSIONER OF INCOME TAX",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",CAL05,"Commissioner of Income Tax, Kolkata-05","AAYAKAR BHAWAN POORVA","110 SHANTIPALLY",Kolkata,700107,"PR.CIT 5 KOLKATA",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",CAL07,"Commissioner of Income Tax, Kolkata-07","Bamboo Villa  Central Revenue Building","169  A J C Bose Road",Kolkata,700014,"ITO TECH VII",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",CAL08,"Commissioner of Income Tax, Kolkata-08","54/1 RAFI AHMED ROAD",NA,Kolkata-700016,700014,PCIT,3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",CAL09,"Commissioner of Income Tax, Kolkata-09","AAYAKAR BHAWAN DAKSHIN","2 GARIAHAT ROAD",Kolkata,700069,PCIT,3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",CAL10,"Commissioner of Income Tax, Kolkata-10","Aayakar Bhawan","Dakshin 2  Gariahat Road",Kolkata,700068,PR.CIT,3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",CAL11,"Commissioner of Income Tax, Kolkata-11","108  Middleton Row",Kolkata,NA,700071,"PR. CIT",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",CAL12,"Commissioner of Income Tax, Kolkata-12","Aayakar Bhawan Poorva","110  Shanti Pally",Kolkata,700107,"PCIT12 KOLKATA",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",CAL13,"Commissioner of Income Tax, Kolkata-13","03  GOVT PLACE  WEST",NA,Kolkata,700001,"PCIT 13",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",CAL14,"Commissioner of Income Tax, Kolkata-14","3  Govt.Place (West)",NA,Kolkata,700001,"PCIT 14",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",CAL15,"Commissioner of Income Tax, Kolkata-15","3  Govt. Place West",Kolkata,NA,700001,"PCIT 15 KOLKATA",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",CAL16,"Commissioner of Income Tax, Kolkata-16","3  Govt. Place #40West)",NA,Kolkata,700001,CIT16,3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",CAL17,"Commissioner of Income Tax, Kolkata-17","Uttarapan Building  Uttarapan Complex","Manicktata Civil Centre","Ultadanga  Kolkata",700054,"Pr. CIT",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",CAL18,"Commissioner of Income Tax, Kolkata-18","BAMBOO VILLA(1ST FLOOR)","169  AJC BOSE ROAD",Kolkata,700014,"PR. CIT 18",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",CAL19,"Commissioner of Income Tax, Kolkata-19","BAMBOO VILLA CENTRAL REVENUE BUILDING A J C BOSE R","AOD  KOLKATA",NA,700014,"PR.CIT 19",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",CAL21,"Commissioner of Income Tax, Kolkata-21","169  A.J.C. Bose Road  C.R.Building Bamboo Villa",Kolkata,NA,700014,"Pr.CIT 21",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",CALC1,"Commissioner of Income Tax (Central)-I, Kolkata","3RD FLOOR  AAYAKAR BHAWAN POORVA","110  SHANTIPALLY","E M BYPASS  KOLKATA",700107,"PCIT CENTRAL 1",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",CALC2,"CIT CENTRAL 2","AAYAKAR BHAWAN","110 SHANTI PALLY",KOLKATA,700107,"CIT CENTRAL 2",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",CALCO,"Commissioner of Income Tax (CO), Kolkata","Aayakar Bhawan","P-7  Chowringhee Square",Kolkata,700069,CIT,3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",CALTD,"Commissioner of Income Tax (TDS), Kolkata","10B  Middleton Row","7th FLOOR",Kolkata,700071,"CIT TDS KOLKATA",3
+"Central Board of Direct Taxes (Income Tax)","Income Tax Deptt.",C5551,"Income Tax Department","Room No. G-15B","Ground Floor","C.R. Building  I.P. Estate",110002,ACIT,5
+"Central Board of Direct Taxes (Income Tax)","Addl CIT R 7 Kol",C1071,"Office of the DCIT_CIR_7_1","Aayakar Bhawan  5th Floor P-7  Chowringhee Square",Kolkata,NA,700069,DCIT,6
+"Central Board of Direct Taxes (Income Tax)","Addl CIT R 7 Kol",C1072,"Office of the DCIT_CIR_7_2","Aayakar Bhawan  5th Floor","P-7  Chowringhee Square",Kolkata,700069,ACIT,6
+"Central Board of Direct Taxes (Income Tax)","Addl CIT R 8 Kol",C1081,"INCOME TAX DEPARTMENT","5TH FLOOR AAYKAR BHAWAN",KOLKATA,NA,700069,"DY. COMMISSIONER OF INCOME TAX",6
+"Central Board of Direct Taxes (Income Tax)","Addl CIT R 8 Kol",C1082,"INCOME TAX DEPARTMENT","5TH FLOOR AYKAR BHAWAN",KOLKATA,NA,700069,"DY COMMISSIONER OF INCOME TAX",6
+"Central Board of Direct Taxes (Income Tax)","Addl CIT R 9 Kol",C1091,"Office of the DCIT_Circle-9_1_Kolkata","Aayakar Bhawan  5th Floor P-7  Chowringhee Square",Kolkata,NA,700069,DCIT_Circle-9_1_Kolkata,6
+"Central Board of Direct Taxes (Income Tax)","Addl CIT R 9 Kol",C1092,"Office of the DCIT_Circle-9_2_Kolkata","Aayakar Bhawan  5th Floor p-7  Chowringhee Square",Kolkata,NA,700069,ACIT_Circle-9_2_Kolkata,6
+"Central Board of Direct Taxes (Income Tax)","CCIT 2 KOLKATA",CA007,CITAPPEAL7,"AAYAKAR BHAWAN DAKSHIN","2  GARIAHAT ROAD",KOLKATA,700068,"CIT APPEAL 7",NA
+"Central Board of Direct Taxes (Income Tax)","CCIT 2 KOLKATA",CA011,CITAppeal11,"54/1  Rafi Ahmed Kidwai Road",Kolkata,NA,700016,"CIT Appeal11",NA
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX INDORE",CA2IN,"Commissioner of Income Tax Appeal 2 INDORE","Annex Building","Aayakar Bhawan",Indore,452001,"CIT Appeal",3
+"Central Board of Direct Taxes (Income Tax)","Addl. Commissioner of Income tax Range 2 Alwar",BWADI,"INCOME TAX OFFICER WARD BHIWADI","PRESENT STATION - 22 MOTI DUNGRI",ALWAR,NA,301001,"Income tax officer",5
+"Central Board of Direct Taxes (Income Tax)","Joint Commissioner of Income Tax Range Bhiwani",BWN01,"CENTRAL BOARD OF DIRECT TAXES","SCO-222  HUDA CITY CENTRE  BHIWANI",NA,BHIWANI,127021,I.T.O,5
+"Central Board of Direct Taxes (Income Tax)","Joint Commissioner of Income Tax Range Bhiwani",BWN02,"CENTRAL BOARD OF DIRECT TAXES","SCO-222  HUDA CITY CENTRE  BHIWANI",NA,BHIWANI,127021,I.T.O,5
+"Central Board of Direct Taxes (Income Tax)","Commissioner of Income Tax Bilaspur",BSP01,"JCIT Range 1 Bilaspur","Mahima Complex  Bilaspur",NA,NA,495001,"Addl. Commissioner of Income Tax",4
+"Central Board of Direct Taxes (Income Tax)","Commissioner of Income Tax Bilaspur",BSP02,"JCIT Range 2 Bilaspur","Mahima Complex",Bilaspur,NA,495001,"Jt. Commissioner of Income Tax",4
+"Central Board of Direct Taxes (Income Tax)","Commissioner of Income Tax Bilaspur",BSP03,"JCIT Range Korba","Mahanadi Complex Korba",NA,NA,NA,"Addl. Commissioner of Income Tax",4
+"Central Board of Direct Taxes (Income Tax)","PR.COMMISSIONER OF INCOME TAX VADODARA 2 VADODARA",BRR21,"Addl. CIT Range21 Vadodara","4th Floor  Aayakar Bhavan","Race Course Circle",Vadodara,390007,"Ad. Commissioner of Income Tax",4
+"Central Board of Direct Taxes (Income Tax)","JCIT Range 1 Bilaspur",BS101,"DCIT CIRCLE1 BILASPUR","Mahima Complex  Bilaspur",NA,NA,495001,"DY.COMMISSIONER OF INCOME TAX",5
+"Central Board of Direct Taxes (Income Tax)","JCIT Range 1 Bilaspur",BS102,"ITO 1.1 Bilaspur","Mahima Complex",Bilaspur,NA,495001,"Income Tax Officer",5
+"Central Board of Direct Taxes (Income Tax)","JCIT Range 1 Bilaspur",BS103,"ITO 1.2 Bilaspur","Mahima Complex",Bilaspur,NA,495001,"Income Tax Offficer",5
+"Central Board of Direct Taxes (Income Tax)","JCIT Range 1 Bilaspur",BS104,"ITO 1 Raigarh",Raigarh,NA,NA,NA,"Income Tax Officer",5
+"Central Board of Direct Taxes (Income Tax)","JCIT Range 1 Bilaspur",BS105,"ITO 2Raigarh",Raigarh,NA,NA,NA,"Income Tax Officer",5
+"Central Board of Direct Taxes (Income Tax)","JCIT Range 1 Bilaspur",BS106,"ITO 3 Raigarh",Raigarh,NA,NA,NA,"Income Tax Officer",5
+"Central Board of Direct Taxes (Income Tax)","Commissioner of Income Tax, BHATINDA",BRNG1,"RANGE 1","AAYAKAR BHAWAN","C.R. BUILDING",BATHINDA,151001,"JOINT COMMISSIONER OF I. TAX",4
+"Central Board of Direct Taxes (Income Tax)","Commissioner of Income Tax, BHATINDA",BRNG2,"RANGE 2","AAYAKAR BHAWAN","C.R. BUILDING",BATHINDA,151001,"JOINT COMMISSIONER OF I. TAX",4
+"Central Board of Direct Taxes (Income Tax)","RANGE BULANDSHAHAR",BSRW1,"ADDL.COMMISSIONER OF INCOME TAX","INCOME TAX OFFICE","OPP- TEACHERS COLONY",BULANDSHAHR,203001,"ADDL. COMMISSIONER OFINCOME TA",5
+"Central Board of Direct Taxes (Income Tax)","JCIT SWM",BUNDI,"WARD BUNDI","INCOME TAX OFFICE",BUNDI,BUNDI,NA,"INCOME TAX OFFICER",5
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",BURDW,"cit burdwan","Sharma Mansion","74/5  G T Road  Tinkonia",Burdwan,713101,"DCIT HQRS. Burdwan",3
+"Central Board of Direct Taxes (Income Tax)",RANGE1,BPL11,"WARD 1.1","AAYAKAR BHAWAN","ANNEX BUILDING",INDORE,452001,"ITO ACIT.OSD",5
+"Central Board of Direct Taxes (Income Tax)","Commissioner of Income Tax INDORE I",BPL51,RANGE1,"AAYAKAR BHAWAN ANNEX BUILDING INDORE",NA,NA,452001,ADDL.CIT,4
+"Central Board of Direct Taxes (Income Tax)","Commissioner of Income Tax INDORE I",BPL52,"RANGE 2 INDORE","AAYAKAR BHAWAN ANNEX BUILDING INDORE",NA,NA,452001,"Addl. CIT",4
+"Central Board of Direct Taxes (Income Tax)","Commissioner of Income Tax INDORE I",BPL53,"RANGE 3 INDORE","AAYAKAR BHAWAN ANNEX BUILDING INDORE",NA,NA,452001,"JOINT CIT",4
+"Central Board of Direct Taxes (Income Tax)","PR COMMISSIONER OF INCOME TAX 2 BHOPAL",BPLR3,"Range 3 Bhopal","metro walk building","bittan market","e-5 arera colony bhopal",462016,JCIT,4
+"Central Board of Direct Taxes (Income Tax)","PR COMMISSIONER OF INCOME TAX 2 BHOPAL",BPLR4,"RANGE 4 BHOPAL","METRO WALK BUILDING","BITTAN MARKET","E-5 ARERA COLONY  BHOPAL",462016,JCIT,4
+"Central Board of Direct Taxes (Income Tax)","PR COMMISSIONER OF INCOME TAX 2 BHOPAL",BPLR5,"RANGE 5 BHOPAL","METRO WALK BUILDING BITTAN MARKET E-5  ARERA COLON","Y  BHOPAL",NA,462016,JCIT,4
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX BHOPAL",BPLP2,"PR COMMISSIONER OF INCOME TAX 2 BHOPAL","METROWALK BITTAN MARKET BHOPAL","METROWALK BITTAN MARKET BHOPAL","METROWALK BITTAN MARKET BHOPAL",462011,"PR COMMISSIONER OF IT 2 BHOPA",3
+"Central Board of Direct Taxes (Income Tax)","Commissioner of Income Tax ALWAR",BPRAW,"Addl. CIT Range Bharatpur","Aayakar Bhawan","Near Goverdhan Gate",Bharatpur,321001,"Jt.CIT OSD",4
+"Central Board of Direct Taxes (Income Tax)","Addl. CIT Range Bharatpur",BPRCB,"DCIT CIRCLE BHARATPUR","Aayaker Bhawan","Near Goverdhan Gate",Bharatpur,321001,JCIT,5
+"Central Board of Direct Taxes (Income Tax)","Addl. CIT Range Bharatpur",BPRW1,"INCOME TAX OFFICER WARD 1 BHARATPUR","Aayaker Bhawan Near Goverdhan Gate Bharatpur",NA,NA,321001,"Income tax Officer",5
+"Central Board of Direct Taxes (Income Tax)","Addl. CIT Range Bharatpur",BPRW2,"INCOME TAX OFFICER WARD 2 BHARATPUR","Aayaker Bhawan","Near Goverdhan Gate",Bharatpur,321001,"Income tax Officer",5
+"Central Board of Direct Taxes (Income Tax)","Addl. CIT Range Bharatpur",BPRW3,"INCOME TAX OFFICER WARD 3 BHARATPUR","Aayaker Bhawan","Near Goverdhan Gate",Bharatpur,321001,"Income tax Officer",5
+"Central Board of Direct Taxes (Income Tax)","Addl. CIT Range Bharatpur",BPRW4,"INCOME TAX OFFICER WARD 4 BHARATPUR","Aayaker Bhawan","Near Goverdhan Gate",Bharatpur,321001,"Income tax Officer",5
+"Central Board of Direct Taxes (Income Tax)","JCIT ONGOLE RANGE ONGOLE",BPTW1,"INCOME TAX OFFICER BAPATLA","IT OFFICE BAPATLA","15-8-204  Kotravari Street  Kotravari Street","Darsi Pedamasthan Nagar  Jagannadhapuram  Bapatla",522101,"INCOME TAX OFFICER",6
+"Central Board of Direct Taxes (Income Tax)","DIRECTOR OF INCOME TAX INV.",BPUHY,"INCOME TAX","3RD FLOOR  AAYAKAR BHAVAN  BASHEERBAGH  HYDERABAD",hyderabad,NA,500004,"ADDL COMMISSIONER OF INCOMETAX",5
+"Central Board of Direct Taxes (Income Tax)","JOINT COMMISSIONER OF INCOME TAX RANGE-2 BHOPAL",BPW24,ITOW24,"48  arera hills  aaykar bhawan  bhopal","opposite maida mill",NA,462011,"Income Tax officer",NA
+"Central Board of Direct Taxes (Income Tax)","JOINT COMMISSIONER OF INCOME TAX RANGE-2 BHOPAL",BPW25,Ward2-5Bpl,"Income tax office  Area hills hoshangabad road","Near maida mill  Bhopal","Pin 462011",462003,"Income tax officer",NA
+"Central Board of Direct Taxes (Income Tax)","JCIT Range 2 Bilaspur",BR201,"Assistant Commissioner of Income Tax","Mahima Complex  Bilaspur",NA,NA,495001,"ACIT Circle 2 Bilaspur",5
+"Central Board of Direct Taxes (Income Tax)","JCIT Range 2 Bilaspur",BR202,"ITO.2.1 Bilaspur","Mahima Complex  Bilaspur",NA,NA,495001,"Income Tax Officer",5
+"Central Board of Direct Taxes (Income Tax)","JCIT Range 2 Bilaspur",BR203,"ITO 2 2 Bilaspur","Mahima Complex  Bilaspur",NA,NA,495001,"Income Tax Officer",5
+"Central Board of Direct Taxes (Income Tax)","JCIT Range 2 Bilaspur",BR204,"ITO 23 Bilaspur","Mahima Complex  Bilaspur",NA,NA,495001,"Income Tax Officer",5
+"Central Board of Direct Taxes (Income Tax)","JCIT Range 2 Bilaspur",BR205,"ITO Janjgir Champa","Janjgir Champa",NA,NA,495001,"Income Tax Officer",5
+"Central Board of Direct Taxes (Income Tax)","JCIT Range 2 Bilaspur",BR206,"ITO Manendragarh",Manendragarh,NA,NA,NA,"Income Tax Officer",5
+"Central Board of Direct Taxes (Income Tax)","JCIT Range Korba",BR301,"ACIT Korba","mahanadi Complex","Niharika Talkies Road Korba",NA,NA,ACIT,5
+"Central Board of Direct Taxes (Income Tax)","JCIT Range Korba",BR302,"ITO 1 Korba","Mahanadi Complex","Niharika Talkies Road",Korba,495678,"Income Tax Officer",5
+"Central Board of Direct Taxes (Income Tax)","JCIT Range Korba",BR303,"ITO 2 Korba","Mahanadi Complex","Niharika Talkies Road  Korba",NA,495678,"Income Tax Officer",5
+"Central Board of Direct Taxes (Income Tax)","JCIT Range Korba",BR304,"ITO 3 Korba","Mahanadi Complex","Niharika Talkies Road  Korba",NA,495678,"Income Tax Officer",5
+"Central Board of Direct Taxes (Income Tax)","JCIT Range Korba",BR305,"ITO 1 Ambikapur",Ambikapur,NA,NA,NA,"Income Tax Officer",5
+"Central Board of Direct Taxes (Income Tax)","JCIT Range Korba",BR306,"ITO 2 Ambikapur",Ambikapur,NA,NA,NA,"Income Tax Officer",5
+"Central Board of Direct Taxes (Income Tax)","PR. DIT INV SURAT",BRDIN,"INCOME TAX DEPARTTMENT","3RD FLOOR","AAYAKAR BHAVAN  RACE COURCE CIRCLE",VADODARA,390007,"JOINT DIRECTOR OF INCOME TAX",5
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX PANAJI",BGM12,"Pr. Commissioner of Income Tax Belagavi","FEROZ KHIMJIBHAI COMMERCIAL COMPLEX","OPP CIVIL HOSPITAL  DR.AMBEDKAR RD",BELAGAVI,590001,"PR. COMMISSIONER OF INCOME TAX",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX BARODA",BDTHR,"PR.COMMISSIONER OF INCOME TAX VADODARA 3 VADODARA","2ND FLOOR  ANNEXE BUILDING","AAYAKAR BHAVAN  RACE COURSE",VADODARA,390007,"PR.CIT VADODARA 3 VADODARA",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX BARODA",BDTWO,"PR.COMMISSIONER OF INCOME TAX VADODARA 2 VADODARA","2nd  Floor  Annexe Building Aayakar Bhavan  Race C","ourse Vadodara",NA,390007,"Pr.CIT VADODARA 2 VADODARA",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX BARODA",BDONE,"PR. COMMISSIONER OF INCOME TAX VADODARA 1 VADODARA","2nd  Floor  Annexe Building","Aayakar Bhavan  Race Course",Vadodara.,390007,"PR. CIT VADODARA 1 VADODARA",3
+"Central Board of Direct Taxes (Income Tax)","INCOME TAX DEPARTMENT",BHC11,"DCIT 1.1 BHILAI","32/32. BUNGALOWS AMDI NAGAR NEAR HUDCO BHILAI",NA,NA,490006,"ASSISTANT COMMISSIONER OF IT",5
+"Central Board of Direct Taxes (Income Tax)","Addl. Commissioner of Income tax",BHCIR,ACIT,"ABOVE BANK OF BARODA","STATION ROAD",BHARUCH,392001,DCIT,5
+"Central Board of Direct Taxes (Income Tax)","Pr Commissioner of Income Tax  2",BHIR1,"INCOME TAX DEPARTMENT","RANGE-1 AAYAKAR BHAWAN  NEW CIVIC CENTRE BHILAI",NA,NA,490006,"JOINT COMMISSIONER",4
+"Central Board of Direct Taxes (Income Tax)","Pr Commissioner of Income Tax  2",BHIR2,"INCOME TAX DEPARTMENT","RANGE-2 AAYAKAR BHAWAN  NEW CIVIC CENTRE BHILAI",NA,NA,490006,"JOINT COMMISSIONER",4
+"Central Board of Direct Taxes (Income Tax)","Addl. CIT RangeBhilwara",BHLAC,"ACIT CIRCLE BHILWARA","Income Tax Office","Shastri Nagar",Bhilwara,311001,"Asstt. CIT Circle",5
+"Central Board of Direct Taxes (Income Tax)","Commissioner of Income Tax AJMER",BHLW1,"ITO WARD 1 BHL","INCOME TAX OFFICE","SHASTRI NAGAR",BHILWARA,311001,ITO,4
+"Central Board of Direct Taxes (Income Tax)","Addl. CIT RangeBhilwara",BHLW2,"ITO Ward2 BHL","Income Tax Office","Shastri Nagar",Bhilwara,311001,"Income Tax Officer",5
+"Central Board of Direct Taxes (Income Tax)","Addl. CIT RangeBhilwara",BHLW3,"ITO Ward 3 Bhilwara","Income Tax Office","Shastri Nagar",Bhilwara,311001,"Income Tax Officer",5
+"Central Board of Direct Taxes (Income Tax)","Addl. CIT RangeBhilwara",BHLW4,"ITO WARD 4 BHILWARA","Income Tax Office","Shastri Nagar",Bhilwara,311001,"Income Tax Officer",5
+"Central Board of Direct Taxes (Income Tax)","Addl. CIT RangeBhilwara",BHLW5,"ITO WARD 5 BHILWARA","Income Tax Office","Shastri Nagar",Bhilwara,311001,"Income Tax Officer",5
+"Central Board of Direct Taxes (Income Tax)","Income Tax Department",BHMPR,"Berhampur Range Incometax Department","AAYAKAR BHAWAN  Berhampur",Ambapua,NA,760010,"Addl Commissioer of Incometax",4
+"Central Board of Direct Taxes (Income Tax)","PR.COMMISSIONER OF INCOME TAX VADODARA 3 VADODARA",BHONE,"Addl. Commissioner of Income tax","Income-tax Office  Harikunj Building  Station Road",Bharuch.,NA,392001,"JOINT CIT Range 1 Bharuch",4
+"Central Board of Direct Taxes (Income Tax)","Central Board of Direct Taxes (Income Tax)",BHOPA,"CHIEF COMMISSIONER OF INCOME TAX BHOPAL","PRINCIPAL CHIEF COMMISSIONER OF INCOME TAX  BHOPAL","AAYAKAR BHAWAN  HOSHANGABAD ROAD BHOPAL-462 011",NA,462011,"Pr. CCIT",2
+"Central Board of Direct Taxes (Income Tax)","PR.COMMISSIONER OF INCOME TAX VADODARA 3 VADODARA",BHTWO,"Addl. Commissioner of Income tax","Income tax Office Harikunj Building  Station Road",Bharuch.,NA,392001,"Joint CIT Range 2 Bharuch",4
+"Central Board of Direct Taxes (Income Tax)","Central Board of Direct Taxes (Income Tax)",BHUBA,"Pr. Chief Commissioner of Income Tax, Bhubaneswar","AAYKAR BHAWAN","RAJASW VIHAR",BHUBANESWAR,751007,"Pr. CCIT",2
+"Central Board of Direct Taxes (Income Tax)","Addl. Commissioner of Income tax",BHWR1,ITO,"ABOVE BANK OF BARODA","STATION ROAD",BHARUCH,NA,"INCOME TAX OFFICER",5
+"Central Board of Direct Taxes (Income Tax)","Addl. Commissioner of Income tax",BHWR2,ITO,"ABOVE BANK OF BARODA","STATION ROAD",BHARUCH,392001,"INCOME TAX OFFICER",5
+"Central Board of Direct Taxes (Income Tax)","Addl. Commissioner of Income tax",BHWR3,ITO,"ABOVE BANK OF BARODA","STATION ROAD",BHARUCH,392001,"INCOME TAX OFFICER",5
+"Central Board of Direct Taxes (Income Tax)","Addl. Commissioner of Income tax",BHWR4,ITO,"ABOVE BANK OF BAORDA","STATION ROAD",BHARUCH,392001,"INCOME TAX OFFICER",5
+"Central Board of Direct Taxes (Income Tax)","Addl. Commissioner of Income tax",BHWR5,ITO,"ABOVE BANK OF BARODA","STATION ROAD",BHARUCH,392001,"INCOME TAX OFFICER",5
+"Central Board of Direct Taxes (Income Tax)","INCOME TAX DEPARTMENT",BIC21,"DCIT 2.1 BHILAI","INCOME TAX OFFICE  32/32 BUNGALOW","Amdi nagar  Hudco",Bhilai,490006,"ASTT. COMMISSIONER INCOME TAX",5
+"Central Board of Direct Taxes (Income Tax)","INCOME TAX DEPARTMENT",BIW11,"ITO 1.1 BHILAI","AAYAKAR BHAWAN","CIVIC CENTRE",BHILAI,490006,"INCOME TAX OFFICER",5
+"Central Board of Direct Taxes (Income Tax)","INCOME TAX DEPARTMENT",BIW12,"ITO 1.2 BHILAI","AAYAKAR BHAWAN CIVIC CENTRE BHILAI",NA,NA,490006,"INCOME TAX OFFICER",5
+"Central Board of Direct Taxes (Income Tax)","INCOME TAX DEPARTMENT",BIW13,"ITO 1.3 BHILAI","AAYAKAR BHAWAN","CIVIC CENTRE",BHILAI,490006,"INCOME TAX OFFICER",5
+"Central Board of Direct Taxes (Income Tax)","INCOME TAX DEPARTMENT",BIW14,"ITO 1.4 BHILAI","AAYAKAR BHAWAN","CIVIC CENTRE",BHILAI,490006,"INCOME TAX OFFICER",5
+"Central Board of Direct Taxes (Income Tax)","INCOME TAX DEPARTMENT",BIW15,"ITO 1.5","AAYAKAR BHAWAN","CIVIC CENTRE",BHILAI,490006,"INCOME TAX OFFICER",5
+"Central Board of Direct Taxes (Income Tax)","INCOME TAX DEPARTMENT",BIW21,"INCOME TAX OFFICER WARD 2.1","AAYKAR BHAWAN  NEW CIVIC CENTRE BHILAI RANGE 2  BH","ILAI  DURG Chhatishgarh",NA,490006,"INCOME TAX OFFICER",5
+"Central Board of Direct Taxes (Income Tax)","INCOME TAX DEPARTMENT",BIW22,"INCOME TAX OFFICER","AAYKAR BHAWAN NEW CIVIC CENTRE","BHILAI RANGE-2  BHILAI",NA,490006,"INCOME TAX OFFICER",5
+"Central Board of Direct Taxes (Income Tax)","Investigation wing Bhopal",BJDIT,"Joint Director of Income tax - Investigation","Joint Director of Income tax- Inv Bhopal","Aayakar Bhawan  near maida mill","arera hills Hoshangabad Road Bhopal",462011,"Joint Director of Income tax",5
+"Central Board of Direct Taxes (Income Tax)","Commissioner of Income Tax Ahmedabad IV",BKRNG,"INCOME TAX OFFICE","1st FLOOR","SHRI. HARI COMPLEX  ABU HIGHWAY",PALANPUR.,385001,"JOINT CIT",4
+"Central Board of Direct Taxes (Income Tax)","Range 3 Srinagar",BLA35,"Income Tax Office 35","Income Tax Office  Ward Baramulla",Baramulla,NA,193101,"Income Tax Officer",5
+"Central Board of Direct Taxes (Income Tax)","INCOME TAX DEPARTMENT",BLSRN,"Balasore Range Income Tax Department","Station Square  IB road",NA,Balasore,756003,"Jt. Commissioner of Income Tax",4
+"Central Board of Direct Taxes (Income Tax)","COMMISSIONER OF INCOME TAX IT BANGALORE",BNGR1,"RANGE 1 INTL. TAXN. BLR","BMTC BLDG KORAMANGALA 4TH FLOOR BANGALORE",NA,NA,560095,JCIT,5
+"Central Board of Direct Taxes (Income Tax)","COMMISSIONER OF INCOME TAX IT BANGALORE",BNGR2,"RANGE 2 INTL. TAXN. BLR","BMTC BLDG KORAMANGALA 4TH FLOOR BANGALORE",NA,NA,560095,JCIT,5
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX MUMBAI",CIEXM,"Commissioner of Income Tax Exemption","Room No.617  6thn Floor","Piramal Chambers  Lalbaug",Mumbai,400012,"CIT Exemption",3
+"Central Board of Direct Taxes (Income Tax)","Chandigarh Range TDS",CHWD1,"Income Tax Officer TDS1","O/o ITOTDS-1 2nd Floor  C.R. Building  Sector-17E",NA,NA,160017,"Income Tax Officer",5
+"Central Board of Direct Taxes (Income Tax)","Chandigarh Range TDS",CHWD2,"Income Tax Officer TDS2","O/o ITO(TDS)-2","2nd Floor  C.R. Building","Sector 17E",160017,"Income Tax Officer",5
+"Central Board of Direct Taxes (Income Tax)","Chandigarh Range TDS",CHWDP,"Income Tax Officer TDS Pta","O/o ITO (TDS)-Pta","Aaykar Bhawan","Leela Bhawan  Patiala",147001,"Income Tax Officer",5
+"Central Board of Direct Taxes (Income Tax)","Addl CIT RANGE 11",CI112,CIRCLE112,"ROOM No 114 AAYKAR bHAWAN","MAJURA GATE",SURAT,395001,ACIT,NA
+"Central Board of Direct Taxes (Income Tax)","ADDL.CIT RANGE15 HYDERABAD",CI151,Circle151,"INCOME TAX TOWERS","MASAB ATNK","AC GUARDS HYDERABAD",500004,ACIT,NA
+"Central Board of Direct Taxes (Income Tax)","ADDITIONAL COMMISSIONER OF INCOME TAX C 2.1",CI211,"DEPUTY COMMISSIONER OF INCOME TAX C 2.1.1","BMTC COMPLEX  80 FEET ROAD","6TH BLOCK  KORAMANGALA",BENGALURU,560095,"DCIT C 2.1.1",6
+"Central Board of Direct Taxes (Income Tax)","ADDITIONAL COMMISSIONER OF INCOME TAX C 2.1",CI212,"DEPUTY COMMISSIONER OF INCOME TAX C 2.1.2","BMTC COMPLEX  80 FEET ROAD","6TH BLOCK  KORAMANGALA",BENGALURU,560095,"DCIT C 2.1.2",6
+"Central Board of Direct Taxes (Income Tax)","ADDITIONAL COMMISSIONER OF INCOME TAX R 2.2",CI221,"DEPUTY COMMISSIONER OF INCOME TAX C 2.2.1","BMTC COMPLEX  80 FEET ROAD","6TH BLOCK  KORAMANGALA",BENGALURU,560095,"DCIT C 2.2.1",6
+"Central Board of Direct Taxes (Income Tax)","ADDITIONAL COMMISSIONER OF INCOME TAX R 2.2",CI231,"DEPUTY COMMISSIONER OF INCOME TAX C 2.3.1","BMTC COMPLEX  80 FEET ROAD 6TH BLOCK  KORAMANGALA",BENGALURU,NA,560095,"DCIT C 2.3.1",6
+"Central Board of Direct Taxes (Income Tax)","Range 23 Delhi",CI232,CIRCLE,"CR BUILDING","I P ESTATE NEW DELHI",NA,110002,DCIT,5
+"Central Board of Direct Taxes (Income Tax)","RANGE 40 NEW DELHI",CI401,"CIRCLE 401","Room No 1715","Civic Center","New Delhi",110002,ACIT,5
+"Central Board of Direct Taxes (Income Tax)","RANGE 41 NEW DELHI",CI411,"CIRCLE 41 1","Room No 1704","Civic Center","New Delhi",110002,ACIT,5
+"Central Board of Direct Taxes (Income Tax)","RANGE 42",CI421,"CIRCLE 421","Room No 1711","Civic Center","New Delhi",110002,ACIT,5
+"Central Board of Direct Taxes (Income Tax)","Addl CIT R 57 Kol",CI571,"CIRCLE 57 KOLKATA","169 AJC BOSE ROAD",BAMBOOVILLA,"KOLKATA 700014",700014,"ACIT CIRCLE 57 KOLKATA",NA
+"Central Board of Direct Taxes (Income Tax)","JCIT RANGE74 DELHI",CI741,"CIRCLE 74 1","ROOM NO. 413  AAYAKAR BHAWAN","DISTT. CENTRE","LAXMI NAGAR",110092,ACIT,5
+"Central Board of Direct Taxes (Income Tax)","Addl. CIT Range 5",CIR05,"Circle 5 ludhiana","Aaykar Bhawan Rishi Nagar Ludhiana",NA,NA,141001,ACIT,5
+"Central Board of Direct Taxes (Income Tax)","Pr. CIT5 Pune",CIR10,"CIRCLE 10 PUNE","PRATYAKSHA KAR BHAWAN",AKURDI,PUNE,411044,ACIT,5
+"Central Board of Direct Taxes (Income Tax)","Range 01 Pune",CIR11,"Circle 1 Range 1 pune","2nd Floor  PMT Building",Swargate,Pune,411037,DCIT,5
+"Central Board of Direct Taxes (Income Tax)","Range 01 Pune",CIR12,"CIRCLE 12","2ND FLOOR  PMT BUILDING",SWARGATE,PUNE,411037,DCIT,5
+"Central Board of Direct Taxes (Income Tax)","ADDL CIT RANGE 13",CIR13,"DCIT ACIT CIR 13","ROOM NO     ANAVIL BUSINESS CENTER",ADAJAN,SURAT,395001,"DCIT ACIT CIR 13",NA
+"Central Board of Direct Taxes (Income Tax)","Central Range 4",CIR14,"CENTRAL CIRCLE 14",JHANDEWALLAN,DELHI,DELHI,110055,ACIT,5
+"Central Board of Direct Taxes (Income Tax)","Central Range 4",CIR15,"CENTRAL CIRCLE 15","ARA CENTRE","INCOME TAX",NA,110055,ACIT,5
+"Central Board of Direct Taxes (Income Tax)","Range 1 Agra",CIR1A,"Circle 1 Agra","Aaykar Bhawan","Sanjay Place",Agra,282002,ACIT,5
+"Central Board of Direct Taxes (Income Tax)","ADDL CIT 21",CIR21,"DCIT 21","ROOM NO. 561  5TH FLOOR","AAYAKAR BHAVAN  M K ROAD",MUMBAI,400020,"DY. COMMISSIONER OF INCOME TAX",6
+"Central Board of Direct Taxes (Income Tax)","Range 23 Delhi",CIR23,"CIRCLE 23-1","CR BUILDING NEW DELHI I P ESTATE",NA,NA,110002,ACIT,5
+"Central Board of Direct Taxes (Income Tax)","Addl CIT R 28 Kol",CIR28,"ACIT Circle 28 Kolkata","2 Gariahat Road South Kolkata",NA,NA,700068,"ACIT Circle 28 Kolkata",6
+"Central Board of Direct Taxes (Income Tax)","Addl CIT R 29 Kol",CIR29,"ACIT Circle-29 Kolkata","2 Gariahat Road South",Kolkata,NA,700068,"ACIT Circle-29 Kolkata",6
+"Central Board of Direct Taxes (Income Tax)","Range 2 Agra",CIR2A,"Circle 2 Agra","Aaykar Bhawan Sanjay Place Agra",NA,NA,282002,DCIT,5
+"Central Board of Direct Taxes (Income Tax)","Joint Commissioner of Income Tax Range 2 Kota",CIR2K,"INCOME TAX DEPARTMENT","ROOM NO. 207","DENAK NAVJOTI BULDING RAWATBHATA ROAD",KOTA,324009,"ASSISTANT COMMISSIONER",5
+"Central Board of Direct Taxes (Income Tax)","Addl CIT R 30 Kol",CIR30,"ACIT Cir 30 Kolkata","2  Gariahat Road South Kolkata",NA,NA,700068,"ACIT Cir 30 Kolkata",6
+"Central Board of Direct Taxes (Income Tax)","Addl CIT R 3 Kol",CIR31,"DCIT Circle 3_1 Kolkata","Aayakar Bhawan","4th Floor",kolkata,700069,"DCIT CIRCLE 3_1 KOLKATA",NA
+"Central Board of Direct Taxes (Income Tax)","Range 3 Mathura",CIR3M,"Circle 3 Mathura","Income Tax Office Radhika Vihar   Phase-II Mathura",NA,NA,282002,ACIT,5
+"Central Board of Direct Taxes (Income Tax)","Income Tax Deptt.",CIR41,"CIRCLE 4 1",G-15B,"C R BUILDING","I P ESTATE",110002,DCIT,5
+"Central Board of Direct Taxes (Income Tax)","Income Tax Deptt.",CIR42,"CIRCLE 4 2",398D,"C R BUILDING","I P ESTATE",110002,ACIT,5
+"Central Board of Direct Taxes (Income Tax)","Addl CIT R 47 Kol",CIR47,"CIRCLE 47","INCOME TAX OFFICE  3.NO.GOVT.PLACE  WEST","1 ST FLOOR",KOLKATA,700001,"ACIT 47 KOLKATA",NA
+"Central Board of Direct Taxes (Income Tax)","Range 4 agra",CIR4A,"Circle 4 Agra","Aaykar Bhawan","Sanjay Place",Agra,282002,DCIT,5
+"Central Board of Direct Taxes (Income Tax)","INCOME TAX DEPARTMENT",CIR51,"INCOME TAX DEPARTMENT","G15B  Ground Floor","C.R. Building  ITO  I.P.Estate",NA,110002,Circle51,6
+"Central Board of Direct Taxes (Income Tax)","Income Tax Deptt.",CIR52,"INCOME TAX DEPARTMENT","G-22CC R BUILDINGI. P. ESTATE",NA,NA,110002,ACIT,5
+"Central Board of Direct Taxes (Income Tax)","Range 5 Firozabad",CIR5F,"Circle 5 Firozabad","Aaykar Bhawan",Dabarai,Firozabad,283203,DCIT,5
+"Central Board of Direct Taxes (Income Tax)","Addl. CIT Range 61 New Delhi",CIR61,"ACTI Circle 61","ACTI Circle 61 New Delhi","Room No.2005 Civic Centre","New Delhi",110002,"ACIT Circle 61 New Delhi",5
+"Central Board of Direct Taxes (Income Tax)","Addl. CIT Range 62 New Delhi",CIR62,"ACIT Circle 62 1 New Delhi","ACIT Circle 62 1 New Delhi","Room No.2202 Civic Centre","New Delhi",110002,"ACIT Circle 62 1 New Delhi",5
+"Central Board of Direct Taxes (Income Tax)","Addl. CIT Range 63 New Delhi",CIR63,"ACIT Circle 63 1 New Delhi","ACIT Circle 63 1 New Delhi","Room No.2205 Civic Centre","New Delhi",110002,"ACIT Circle 63 1 New Delhi",5
+"Central Board of Direct Taxes (Income Tax)","Range 6 Jhansi",CIR6J,"Circle 6 Jhansi","Aaykar Bhawan","Civil Lines",Jhansi,284001,DCIT,5
+"Central Board of Direct Taxes (Income Tax)","JCIT Range 73 New Delhi",CIR73,"Circle 73 1","Aaykar Bhawan","Laxmi Nagar",NA,110093,ACIT,NA
+"Central Board of Direct Taxes (Income Tax)","JCIT RANGE 75 DELHI",CIR75,"Income Tax Office","Room No. 413A","District Centre","Laxmi Nagar",110092,"Asst. CIT",5
+"Central Board of Direct Taxes (Income Tax)","Addl. CIT  Range-76 Delhi",CIR76,"Circle 76-1","DCIT CIRCLE 76-1","LAXMI NAGAR",NA,110092,DCIT,5
+"Central Board of Direct Taxes (Income Tax)","JCIT Moga Range",CIR78,"ACIT CircleMoga","ACIT  Circle  Moga  near SBI  Moga  G.T road","Frz Road  Moga",NA,142001,"ACIT Cir. Moga",5
+"Central Board of Direct Taxes (Income Tax)","Addl. Range 7 Pune",CIR7P,"ACIT CIRCLE7","Bodhi Tower  548/28  Salisbury Park","Gultekdi  Pune",Pune,411037,"DY. COMMISSIONER OF IT",6
+"Central Board of Direct Taxes (Income Tax)","OFFICE OF THE ADDL. CIT RANGE8",CIR81,"CIRCLE 8.1","ROOM NO. G18B","C. R. BUILDING","NEW DELHI",110002,DCIT,5
+"Central Board of Direct Taxes (Income Tax)","OFFICE OF THE ADDL. CIT RANGE8",CIR82,"CIRCLE 8.2","ROOM NO. 194","C. R. BUILDING","NEW DELHI",110002,ACIT,5
+"Central Board of Direct Taxes (Income Tax)","Range 8 Pune",CIR8P,Circle-8-pune,"pratyaksh kar bhawan",akurdi,pune,411044,DCIT,6
+"Central Board of Direct Taxes (Income Tax)","INTERNATIONAL TAXATION RANGE1",CIIT1,CIRCLE-1,"2ND FLOOR  BO BHAVAN","PUNE SATARA ROAD",PUNE,411009,ACIT,6
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX MUMBAI",CILTU,"Commissioner of Income Tax LTU","29th floor  WTC  Centre 1  Mumbai",NA,NA,400005,"CIT LTU",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX INDORE",CIND1,"Commissioner of Income Tax INDORE I","Aayakar Bhawan","White Church Road",Indore,452001,Pr.CIT,3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX INDORE",CIND2,"Commissioner of Income Tax INDORE II","Aayakar Bhawan White Church Road Indore",NA,NA,452001,"Principal Commissioner of Income Tax",3
+"Central Board of Direct Taxes (Income Tax)","Pr. Chief Commissioner of Income Tax (Intl. Tax)",CINT1,"CIT INTERNATIONAL 1 DELHI","PRATYAKSH KAR BHAWAN SPM CIVIC CENTRE NEW DELHI",NA,NA,110002,"CIT IT 1 DELHI",3
+"Central Board of Direct Taxes (Income Tax)","Pr. Chief Commissioner of Income Tax (Intl. Tax)",CINT2,"CIT INTERNATIONAL 2 DELHI","E-2  BLOCK PRATYAKSH KAR BHAWAN SPM CIVIC CENTRE N","EW DELHI",NA,110002,"CIT IT 2  DELHI",3
+"Central Board of Direct Taxes (Income Tax)","Pr. Chief Commissioner of Income Tax (Intl. Tax)",CINT3,"CIT INTERNATIONAL 3 DELHI","PRATYAKSH KAR BHAWAN","SPM CIVIC CENTRE","NEW DELHI",110002,"CIT IT 3 DELHI",3
+"Central Board of Direct Taxes (Income Tax)","DIRECTOR GENERAL OF INCOME TAX (SYSTEM)",CIOSD,"Commissioner of Income Tax OSD","O/o CIT-ITBA E-2 ARA Centre  Jhandewalan Extn.","New Delhi",NA,110055,"Assistant Director",3
+"Central Board of Direct Taxes (Income Tax)","Joint Commissioner of Income Tax Range Bhiwani",CIRBW,"CENTRAL BOARD OF DIRECT TAXES","SCO-222  HUDA CITY CENTRE  BHIWANI",NA,BHIWANI,127021,ACIT,5
+"Central Board of Direct Taxes (Income Tax)","RANGE1 GZB",CIRC1,"CIRCLE 1 GZB","ROOM NO 201","CGO COMPLEX 1 HAPUR CHUNGI",GHAZIABAD,201001,"Dy. Commissioner of Income Tax",5
+"Central Board of Direct Taxes (Income Tax)","JCIT Range 2 Patna",CIRC2,"Ciicle 2 Patna","4th Floor Lok Nayak jai Prakash bhawan","Frazer road",Patna,800001,"ACIT Circle 2 Patna",5
+"Central Board of Direct Taxes (Income Tax)","JCIT Range 3 Gaya",CIRC3,"Circle 3 Gaya","Income Tax office  R.K Place Kashi Nath moar Gaya",NA,NA,823001,"ACIT Circle 3 Gaya",5
+"Central Board of Direct Taxes (Income Tax)","JCIT Range6",CIRC6,"ACIT Circle6","ACIT  Circe-6  rishi Nagar","Ayakar Bhawan  ludhiana",NA,141001,"ACIT Circle6 Ldh",5
+"Central Board of Direct Taxes (Income Tax)","JCIT Range7 Ldh",CIRC7,Circle7,"ACIT  Circle-7  Ludhiana",NA,NA,141001,ACIT,5
+"Central Board of Direct Taxes (Income Tax)","Range 1 Chandigarh",CIRCL,"CIRCLE1 1 CHANDIGARH","AAYAKAR BHAWAN","SECTOR 17 CHANDIGARH",NA,160017,DCIT,5
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX CHANDIGARH",CHONE,"Commissioner of Income Tax CHANDIGARH I","Aayakar Bhawan","SECTOR 17 E",CHANDIGARH,160017,"Pr.Commissioner of Income Tax1",3
+"Central Board of Direct Taxes (Income Tax)","Addl. Commissioner of Income Tax RChittor",CHR11,"Income Tax Department","Aayakar Bhawan","Kila Road",Chittorgarh,312001,"ITO Ward1 COR",5
+"Central Board of Direct Taxes (Income Tax)","Addl. Commissioner of Income Tax RChittor",CHR22,"Income Tax Department","Aayakar Bhawan","Kila Road",Chittorgarh,312001,"ITO W2 Chittorgarh",5
+"Central Board of Direct Taxes (Income Tax)","Addl. Commissioner of Income Tax RChittor",CHR33,"Income Tax Department","Aayakar Bhawan","Kila Road",Chittorgarh,312001,"ITO W3 Chittorgarh",5
+"Central Board of Direct Taxes (Income Tax)","Commissioner of Income Tax (TDS), Chandigarh",CHRG1,"Chandigarh Range TDS","O/o Commissioner of Income Tax  C.R. Building Sect","or-17E  Chandigarh",NA,160017,"Joint Commissioner of IT TDS",4
+"Central Board of Direct Taxes (Income Tax)","RANGE JHUNJHUNU",CHRU1,"ITO Ward 1 Churu","Income Tax Office",Churu,NA,NA,"Income Tax Officer",5
+"Central Board of Direct Taxes (Income Tax)","RANGE JHUNJHUNU",CHRU2,"ITO Ward 2 Churu","Income Tax Office",Churu,NA,NA,"Income Tax Officer",5
+"Central Board of Direct Taxes (Income Tax)","RANGE JHUNJHUNU",CHRU3,"ITO Ward 3 Churu","Income Tax Office",Churu,NA,NA,"Income Tax Officer",5
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX  CHENNAI",CHTD1,"CIT TDS COIMBATORE","63 RACE COURSE ROAD",COIMBATORE,NA,641018,"CIT TDS COIMBATORE",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX CHANDIGARH",CHTDS,"Commissioner of Income Tax (TDS), Chandigarh","Central Revenue Building Sector-17E  Chandigarh",NA,NA,160017,CIT,3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX CHANDIGARH",CHTWO,"Commissioner of Income Tax CHANDIGARH II","502  AAYAKAR BHAWAN 5th FLOOR","SECTOR 17E",CHANDIGARH,160017,"PR.COMMISSIONER OF INCOME TAX2",3
+"Central Board of Direct Taxes (Income Tax)",range4,CHW41,"WARD 41","ROOM NO. 522 AAYAKAR BHAWAN  SECTOR - 17E  CHANDIG",ARH,NA,160017,"Income Tax Officer",5
+"Central Board of Direct Taxes (Income Tax)",range4,CHW42,"WARD 42","Room No 524  5th Floor  Aayakar Bhawan  Sector 17-","E  Chandigarh",NA,160017,"Income Tax Officer",5
+"Central Board of Direct Taxes (Income Tax)",range4,CHW43,"WARD 43","ROOM  NO. 525","AAYAKAR BHAWAN  SECTOR - 17E",CHANDIGARH,160017,"Income Tax Officer",5
+"Central Board of Direct Taxes (Income Tax)",range4,CHW44,"WARD 44","ROOM NO. 528","AAYAKAR BHAWAN  SECTOR - 17E",CHANDIGARH,160017,"Income Tax Officer",5
+"Central Board of Direct Taxes (Income Tax)",range4,CHW45,"WARD 45","ROOM NO. 519 AAYAKAR BHAWAN  SECTOR - 17E  CHANDIG",ARH,NA,160017,"Income Tax Officer",5
+"Central Board of Direct Taxes (Income Tax)",range5,CHW51,"WARD 51","ROOM NO. 619","AAYAKAR BHAWAN  SECTOR - 17E",CHANDIGARH,160017,"Income Tax Officer",5
+"Central Board of Direct Taxes (Income Tax)",range5,CHW52,"WARD 52","ROOM NO. 624","AAYAKAR BHAWAN  SECTOR - 17E",CHANDIGARH,160017,"Income Tax Officer",5
+"Central Board of Direct Taxes (Income Tax)",range5,CHW53,"WARD 53","ROOM NO. 625","AAYAKAR BHAWAN  SECTOR - 17E",CHANDIGARH,160017,"Income Tax Officer",5
+"Central Board of Direct Taxes (Income Tax)",range5,CHW54,"WARD 54","ROOM NO. 628","AAYAKAR BHAWAN  SECTOR - 17E",CHANDIGARH,160017,"Income Tax Officer",5
+"Central Board of Direct Taxes (Income Tax)",range5,CHW55,"WARD 55","ROOM NO. 627  AAYAKAR BHAWAN  SECTOR - 17E  CHANDI",GARH,NA,160017,"Income Tax Officer",5
+"Central Board of Direct Taxes (Income Tax)","Pr. Commissioner of Income Tax Delhi-VI",CGSR6,"SPECIAL RANGE-06 NEW DELHI","ROOM NO. 352  C.R. BUILDING","NEW DELHI",NA,110002,"ADDITIONAL CIT",4
+"Central Board of Direct Taxes (Income Tax)","Pr. Chief Commissioner of Income Tax, Kerala",CH123,"Commissioner of Income Tax, KOCHI-I","CR Building  IS Press Road Kochi",NA,NA,682018,"PCIT KOCHI I",3
+"Central Board of Direct Taxes (Income Tax)","Commissioner of Income Tax CHANDIGARH I",CH1HQ,"CIT 1 HEADQUARTERS","202  AAYAKAR BHAWAN","SECTOR 17 E",CHANDIGARH,160017,"ASSTT. COMMISSIONER",4
+"Central Board of Direct Taxes (Income Tax)","Central Board of Direct Taxes (Income Tax)",CHAND,"CHIEF COMMISSIONER OF INCOME TAX CHANDIGARH","O/o the PR. CHIEF COMMISSIONER OF INCOME TAX","Aayakar Bhawan  HIMALAYA MARG","SECTOR-17-E  CHANDIGARH",160017,"ITO HQ TPS 1 Chandigarh",2
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX  CHENNAI",CHCC1,"CHIEF COMMISSIONER OF INCOME TAX I","121  MAHATMA GANDHI ROAD",NUNGAMBAKKAM,CHENNAI,600034,"CCIT 1 CHENNAI IN CHARGE",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX  CHENNAI",CHCC2,"CHIEF COMMISSIONER OF INCOME TAX II","121 MAHATMA GANDHI ROAD",NUNGAMBAKKAM,CHENNAI,600034,"CCIT 2 CHENNAI",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX  CHENNAI",CHCC3,"CHIEF COMMISSIONER OF INCOME TAX III","121 MAHATMA GANDHI ROAD",NUNGAMBAKKAM,CHENNAI,600034,"CCIT 3 CHENNAI",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX  CHENNAI",CHCC4,"CHIEF COMMISSIONER OF INCOME TAX IV","121 MAHATMA GANDHI ROAD",NUNGAMBAKKAM,CHENNAI,600034,"CCIT 4 CHENNAI IN CHARGE",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX  CHENNAI",CHCC5,"CHIEF COMMISSIONER OF INCOME TAX TDS CHENNAI","121 MAHATMA GANDHI ROAD",NUNGAMBAKKAM,CHENNAI,600034,"CCIT TDS CHENNAI INCHARGE",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX  CHENNAI",CHCC6,"DIRECTOR GENERAL OF INCOME TAX INV. CHENNAI","46 OLD NO.108  MAHATMA GANDHI ROAD",NUNGAMBAKKAM,CHENNAI,600034,"DGIT INVESTIGATION CHENNAI",3
+"Central Board of Direct Taxes (Income Tax)",range4,CHC41,"CIRCLE 41","Room No. 514","Aayakar Bhawan  Sector - 17E",Chandigarh,160017,"AsttCommissioner of Income Tax",5
+"Central Board of Direct Taxes (Income Tax)",range5,CHC51,"CIRCLE 51","ROOM NO. 614","AAYAKAR BHAWAN SECTOR - 17E",CHANDIGRH,160017,"Asstt. Commissioner of Income",5
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX  CHENNAI",CHCI1,"COMMISSIONER OF INCOME TAX 1 CHENNAI","121 M G ROAD",NUNGAMBAKKAM,CHENNAI,600034,"PCIT 1 CHENNAI",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX  CHENNAI",CHCI2,"COMMISSIONER OF INCOME TAX II CHENNAI","121 M G ROAD",NUNGAMBAKKAM,CHENNAI,600034,"PCIT 2 CHENNAI",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX  CHENNAI",CHCI3,"COMMISSIONER OF INCOME TAX III CHENNAI","121 M G ROAD",NUNGAMBAKKAM,CHENNAI,600034,"PCIT 3 CHENNAI INCHARGE",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX  CHENNAI",CHCI4,"COMMISSIONER OF INCOME TAX IV CHENNAI","121 M G ROAD",NUNGAMBAKKAM,CHENNAI,600034,"PCIT 4 CHENNAI",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX  CHENNAI",CHCI5,"COMMISSIONER OF INCOME TAX V CHENNAI","121 M G ROAD",NUNGAMBAKKAM,CHENNAI,600034,"PCIT 5 CHENNAI",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX  CHENNAI",CHCI6,"COMMISSIONER OF INCOME TAX VI CHENNAI","121 M G ROAD",NUUNGAMBAKKAM,CHENNAI,600034,"PCIT 6 CHENNAI INCHARGE",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX  CHENNAI",CHCI7,"COMMISSIONER OF INCOME TAX VII CHENNAI","121 M G ROAD",NUNGAMBAKKAM,CHENNAI,600034,"PCIT 7 CHENNAI",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX  CHENNAI",CHCI8,"COMMISSIONER OF INCOME TAX VIII CHENNAI","121 M G ROAD",NUNGAMBAKKAM,CHENNAI,600034,"PCIT 8 CHENNAI",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX  CHENNAI",CHCI9,"COMMISSIONER OF INCOME TAX IX CHENNAI","121 M G ROAD",NUNGAMBAKKAM,CHENNAI,600034,"PCIT 9 CHENNAI incharge",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX  CHENNAI",CHCIX,"COMMISSIONER OF INCOME TAX X CHENNAI","121 M G ROAD",NUNGAMBAKKAM,CHENNAI,600034,"PCIT 10 CHENNAI",3
+"Central Board of Direct Taxes (Income Tax)","Chandigarh Range TDS",CHCR1,"Dy. Commissioner of Income Tax TDS","O/o ACIT TDS","2nd Floor  C.R. Building","Sector 17E",160017,"Assistant CIT TDS Chandigarh",5
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX CHANDIGARH",CHDAP,"CIT APPEALS CHANDIGARH","CENTRAL REVENUE BUILDING","HIMALAYA MARG  SECTOR 17-E",CHANDIGARH,160017,"COMMISSIONER OF INCOME TAX",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX  CHENNAI",CHDI1,"PR. DIRECTOR OF INCOME TAX INV. CHENNAI","46 OLD NO.108  MAHATMA GANDHI ROAD",NUNGAMBAKKAM,CHENNAI,600034,"PR. DIT INVESTIGATION CHENNAI",3
+"Central Board of Direct Taxes (Income Tax)","DGIT PANCHKULA",CHDPD,"PR. DIT INVESTIGATION CHANDIGARH","Aayakar Bhawan",Sector-2,Panchkula,134112,"Pr. Director of Income Tax",4
+"Central Board of Direct Taxes (Income Tax)","Central Board of Direct Taxes (Income Tax)",CHENN,"CHIEF COMMISSIONER OF INCOME TAX  CHENNAI","121  MAHATMA GANDHI ROAD  NUNGAMBAKKAM CHENNAI",NA,NA,600034,"PR. CHIEF COMMISSIONER OF INCOME TAX",2
+"Central Board of Direct Taxes (Income Tax)","Pr. CCIT (CCA) Hyderabad",CIT01,"Pr. Chief Commissioner of Income Tax Hyderbad  I","7TH FLOOR  A BLOCK   I.T.TOWERS","MASAB TANK  A.C.GUARDS",HYDERABAD,500004,"Pr. CIT 1 HYDERABAD I.C",3
+"Central Board of Direct Taxes (Income Tax)","Pr. Chief Commissioner of Income Tax Delhi-I",CIT02,"Pr. Commissioner of Income Tax Delhi-II","Room No.394","C.R. Building  I.P.Estate","New Delhi",110002,"Pr. CIT DELHI 2",3
+"Central Board of Direct Taxes (Income Tax)","Pr. Chief Commissioner of Income Tax Delhi-I",CIT03,"Pr. Commissioner of Income Tax Delhi-III","Room No. 394A","C.R.BLDG. I.P.Estate","NEW DELHI",110002,"Pr.CIT 03 New Delhi",3
+"Central Board of Direct Taxes (Income Tax)","Pr. CCIT (CCA) Hyderabad",CIT04,NA,"2nd FLOOR   I.T.Towers  A Blcok OPP Mahavir Hospit","al  A.C.Guards HYDERABAD",NA,500004,"Pr.Commissioner of Income Tax",3
+"Central Board of Direct Taxes (Income Tax)","Pr. CCIT (CCA) Hyderabad",CIT05,"Commissioner of Income Tax, HYDERABAD-V","Room No-611  6-A  6th Floor  IT Towers","10-2-3  A C GUARDS  MASAB TANK",HYDERABAD,500004,"CIT V HYD",3
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax, Mumbai-IV",CIT06,"Commissioner of Income Tax","Room no. 501  Aayakar Bhavan",M.K.Road,Mumbai,400020,"CIT. 6 Mumbai",4
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax, Mumbai-IV",CIT07,CIT07,"Room No.611  Aayakar Bhavan",M.K.Road,Mumbai,400020,"CIT. 7 Mumbai",4
+"Central Board of Direct Taxes (Income Tax)","Pr. Chief Commissioner of Income Tax Delhi-I",CIT08,"Pr. Commissioner of Income Tax Delhi-VIII","397  C.R. Building  I.P. Estate ITO  New Delhi",NA,NA,110002,"Pr. CIT Delhi VIII",3
+"Central Board of Direct Taxes (Income Tax)","Pr. Chief Commissioner of Income Tax Delhi-I",CIT0I,"Commissioner of Income Tax DELHI-I","Room No. 363A  Aayakar Bhawan C R Building  I P Es","tate New Delhi",NA,110002,"Pr. CIT Delhi I",3
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax, Mumbai-IV",CIT0T,"Commisssioner of Income Tax TDS","900B  Smt. K.G. Mittal Ayurvedic Hospital Bldg.","Charni Road(W)",Mumbai.,400002,"CIT. TDS 1 Mumbai",4
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax, Mumbai-VI",CIT10,"Commissioner of Income Tax  10","Room No.574  5th floor","Aayakar Bhavan",Mumbai,400020,"Commissioner of Income Tax",4
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax, Mumbai-VII",CIT12,"Commissioner of Income tax 12","Room No 122  Aaykar Bhavan",Mumbai,NA,400020,"Commissioner of Income Tax",4
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax, Mumbai-VII",CIT13,"Commissioner of Income Tax","Room No 416  Aaykar Bhavan",Mumbai,NA,400020,"Commissioner of Income Tax",4
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax, Mumbai-IX",CIT14,CIT14,"Earnest House",Mumbai,NA,NA,"Commissioner of Income Tax14",4
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax, Mumbai-IX",CIT15,CIT15,"Matru Mandir Building",Mumbai,NA,NA,"Commissioner of Income Tax 15",4
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax, Mumbai-IX",CIT16,CIT16,"Matru Mandir Building",Mumbai,NA,NA,"Commissioner of Income Tax 16",4
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax, Mumbai-X",CIT17,"COMMISIONER OF INCOME TAX 17 MUMBAI","4TH FLOOR  ROOM NO 414","PIRAMAL CHAMBERS LALBAUG",MUMBAI,400012,"COMMISSIONER OF INCOME TAX 17",4
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax, Mumbai-X",CIT18,"Commisioner of Incometax 18 Mumbai","5 th floor Room No 517","Piramal chambers Lalbaug",mumbai,400012,"COMMISSIONER OF INCOME TAX 18",4
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax, Mumbai-X",CIT19,"COMMISSIONER OF INCOME TAX 19 MUMBAI","4TH FLOOR  ROOM NO 402","PIRAMAL CHAMBERS LALBAUG",MUMBAI,400012,"COMMISSIONER OF INCOME TAX 19",4
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KANPUR",CIT1A,"Commissioner of Income Tax, AGRA-I","Aayakar Bhawan","Sanjay Place","M. G. Road  Agra",NA,"Pr CIT 1 Agra",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KANPUR",CIT1K,"Commissioner of Income Tax, KANPUR-I","16/69  Aayakar Bhawan","Civil Lines",Kanpur,208001,ITO,3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX LUCKNOW",CIT1L,"Commissioner of Income Tax, LUCKNOW-I","5 Aaykar Bhawan","Ashok Marg",Lucknow,226001,Pr.CIT,3
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax Inter West",CIT1M,"COMMISSIONER OF INCOME TAX IT MUMBAI I","ROOM NO. 107  SCINDIA HOUSE","BALLARD PIER  BALLARD ESTATE",MUMBAI,400038,"CIT IT 1 MUMBAI",4
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX RAJKOT",CIT1R,"commissioner of Income tax 1","Room No 201 2nd floor aaykar bhavan Race Course Ri","ng Road  Rajkot",NA,360001,"Pr.CIT I Rajkot",3
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax, Mumbai-XI",CIT20,"COMMISSIONER OF INCOMETAX","ROOM NO 404 4TH FLOOR","PIRAMAL CHAMBERS","LALBAUG MUMBAI",400012,"COMMISSIONER OF INCOMETAX 20",4
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax, Mumbai-XI",CIT21,"COMMISSIONER OF INCOMETAX 21 MUMBAI","ROOM NO 612 6TH FLOOR","C11 BANDRA KURLA COMPLEX",MUMBAI,400051,"COMMISSIONER OF INCOMETAX",4
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax-10",CIT22,"COMMISSIONER OF INCOME TAX 22 MUMBAI","ROOM NO-3RD FLOOR","VASHI RAILWAY STN COMPLEX  TOWER NO-6","VASHI  NAVI MUMBAI",NA,"COMMISSIONER OF INCOME TAX 22",4
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax-10",CIT23,"COMMISSIONER OF INCOME TAX 23 MUMBAI","ROOM NO-302  3RD FLOOR","C-10  BANDRA KURLA COMPLEX","BANDRA(EAST)  MUMBAI",400051,"COMMISSIONER OF INCOME TAX 23",4
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax -11",CIT24,"CIT 24 Mumbai","Room No 507  5th Floor  C-13","Bandra Kurla Complex",NA,400051,"CIT 24",4
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax -11",CIT25,"CIT 25 Mumbai","Room No 209  2nd floor  C-11","Bandra kurla Complex",NA,400051,"CIT 25",4
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax, Mumbai-IX",CIT26,"Commissioner of Income Tax  26","Room No. 100A","K.G. Mittal Ayurved Prachar Sansthan","Bldg.  Charni Road  Mumbai",400002,"Commissioner of Income Tax",4
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax, Mumbai-VI",CIT27,"Commissioner of Income Tax 27",VASHI,MUMBAI,NA,400709,"Pr.Commissioner of Income Tax",4
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax, Mumbai-IX",CIT28,"Commissioner of Income Tax  28","Room No.301  3rd Floor","C-12  Bandra Kurla Complex",Mumbai,400051,"Commissioner of Income Tax",4
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax, Mumbai-IX",CIT29,"Commissioner of Income Tax29","c-12  pratyakshakar bhawan  BKC  Bandra East  Mumb",NA,NA,NA,"Commissioner of Income Tax29 M",4
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KANPUR",CIT2A,"Commissioner of Income Tax, AGRA-II","Aayakar Bhawan Sanjay Place M. G. Road  Agra",NA,NA,NA,"ITO Technical",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KANPUR",CIT2K,"Commissioner of Income Tax, KANPUR-II","15/295-A  Vaibhav Building  Civil Lines  Kanpur",NA,NA,208001,"Principal CIT 2 KANPUR",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX LUCKNOW",CIT2L,"Commissioner of Income Tax, LUCKNOW-II","5 Aaykar Bhawan","Ashok Marg",Lucknow,226001,CIT,3
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax Inter West",CIT2M,"COMMISSIONER OF INCOME TAX IT MUMBAI II","17th floor  r No 1706","Air India Building nariman point",MUMBAI,400021,"CIT IT 2 MUMBAI",4
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX RAJKOT",CIT2R,"Commissioner of Income tax II Rajkot","Aaykar Bhavan Room No 316  3rd Floor Race Course R","ing Road  Rajkot",NA,360001,"Pr.CIT 2 Rajkot",3
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax 10",CIT32,"COMMISSIONER OF INCOME TAX 32","KAUTILYA BHAVAN",BANDRA,MUMBAI,400051,"PR.COMMISSIONER OF IT 32",NA
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax 10",CIT33,"COMMISSIONER OF INCOME TAX 33","Kautilya Bhavan",Bandra,Mumbai,400051,"Pr CIT 33",NA
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax 7",CIT34,"COMMISSIONER OF INCOMETAX 34","808  8TH FLOOR  KAUTILYA BHAVAN","BANDRA KURLA COMPLEX","BANDRA  EAST  MUMBAI",400051,"COMMISSIONER OF INCOME TAX",NA
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax, HYDERABAD-III",CIT3H,"CIT 3 HYDERABAD","7th floor  A-Block","IT Towers 10-2-3","A C Guards  Hyderabad",500004,"ITO Headquarters",4
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax Inter West",CIT3M,"COMMISSIONER OF INCOME TAX IT MUMBAI III","16TH FLOOR  AIR INDIA BLDG.","NARIMAN POINT",CHURCHGATE,400021,"CIT IT 3 MUMBAI",4
+"Central Board of Direct Taxes (Income Tax)","Principal Chief Commissioner of Income Tax, Pune",CIT3P,"Pr. CIT3 Pune","Income Tax Office  PMT Building",Swargate,Pune,411037,"Pr. CIT",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX RAJKOT",CIT3R,"Commissioner of Income tax III Rajkot","Room No 101 1st Floor Aayakar Bhavan Race Course R","ing Road Rakot",NA,360001,Pr.CIT3Rajkot,3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX RAJKOT",CIT4J,"Commissioner Of Income tax Jamnagar","4th Floor Manek Center","Pandit Nehru Marg Hospital Road",Jamnagar,NA,"Pr.CIT Jamnagar",3
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax Inter West",CIT4M,"COMMISSIONER OF INCOME TAX IT MUMBAI IV","Air India Building","Room No. 1704  Nariman Point Churchgate",MUMBAI,400021,"CIT IT 4 MUMBAI",4
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax, PUNE-II",CIT5P,"Pr. CIT5 Pune","Pratyaksh Kar Bhawan","Near Akurdi Railway Station","Akurdi  Pune",411044,"Pr. CIT5 Pune",4
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax, PUNE-II",CIT6P,"Commissioner of Income Tax VI Pune","AAYAKAR SADAN 4TH FLOOR BODHI TOWER","SALISBURY PARK",PUNE,411037,"Pr.Commissioner of Income Tax6",4
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX JODHPUR",CITA1,"COMMISSIONER OF INCOMETAX APPEAL 1 JODHPUR",CIT(A)-1,"AAYAKAR BHAWAN",JODHPUR,342010,"CIT A 1",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX NASHIK",CITA2,"PR COMMISSIONER OF INCOME TAX 2 AURANGABAD","AAYAKAR BHAVAN","NEAR HOLY CROSS ENGLISH MEDIUM SCHOOL","CANTONMENT  AURANAGABD 430002",431002,"PCIT2 AURANGABAD",3
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax 1",CITA7,"CIT Appeal 7","B/3103 3RD FLOOR MITTAL COURT NARIMAN POINT  MUMBA",NA,NA,400021,"CIT APPEAL",4
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX AMRITSAR",CITAA,"Commissioner of Income Tax Appeal","Commissioner of Income Tax Appeal-2","Central Revenue Building  Maqbool Road",Amritsar,143001,"Commissioner of Income Tax A-2",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX AMRITSAR",CITAB,"Commissioner of Income Tax Appeal Bhatinda","Commissioner of Income Tax Appeal",Bhatinda,NA,NA,"Commissioner of Income Tax A",3
+"Central Board of Direct Taxes (Income Tax)","Pr. Chief Commissioner of Income Tax, Kerala",CITAC,"COMMISSIONER OF INCOME TAX ADMN AND COORD","1ST FLOOR  C. R. BUILDING","I. S. PRESS ROAD",KOCHI,682018,"CIT ADMN. &amp; TPS",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX MUMBAI",CITAD,"COMMISSIONER OF INCOME TAX ADMIN AND C.O.","ROOM NO.324  AAYAKAR BHAVAN","M. K. ROAD",MUMBAI,400020,"CIT ADMIN AND C.O.",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX GHAZIABAD",CITAE,"COMMISSIONER OF INCOME TAX APPEALS MEERUT","AAYAKAR BHAWAN","BHAINSALI GROUND",MEERUT,250002,"CIT APPEALS MEERUT",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX GHAZIABAD",CITAG,"Commissioner of Income Tax  Appeals Gaziabad","CGO-1  Kamla Nehru Nagar","Hapur Road",Ghaziabad.,201002,"CIT Appeals Ghaziabad",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX ALLAHABAD",CITAH,"Commissioner of Income Tax ALLAHABAD","Aayakar Bhawan","38  M.G. Road","Civil Lines  Allahabad",211001,Pr.CIT,3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX GHAZIABAD",CITAI,"COMMISSIONER OF INCOME TAX APPEALS ALIGARH","AAYKAR BHAWAN","MARRIS ROAD",ALIGARH,202001,"CIT APPEALS ALIGARH",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX AMRITSAR",CITAJ,"Commissioner of Income Tax Appeal Jammu","Commissioner of Income Tax Appeal",Jammu,NA,NA,"Commissioner of Income Tax A",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX GHAZIABAD",CITAL,"Commissioner of Income Tax ALIGARH","AAYKAR BHAWAN  MARRIS ROAD",ALIGARH,ALIGARH,202001,"Pr. CIT",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX UDAIPUR",CITAM,"Commissioner of Income Tax AJMER","C.R. Building","Jaipur Road",Ajmer,305001,Pr.CIT,3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX GHAZIABAD",CITAN,"COMMISSIONER OF INCOME TAX APPEALS 1 NOIDA","AAYAKAR BHAWAN A-2D  SECTOR 24 NOIDA",NA,NA,201301,"CIT APPEALS 1 NOIDA",3
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax, Mumbai-VII",CITAP,"Commissioner of Income Tax Appeals23","Earnest House Room No. 509  Nariman Point",Mumbai,NA,400021,"Commissioner of Income Tax",4
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX NASHIK",CITAR,"Commissioner of Income Tax AURANGABAD","Aayakar Bhawan","Near Holy Cross English High School",Aurangabad,NA,"PCIT 1 AURANGABAD",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX DURGAPUR",CITAS,"Commissioner of Income Tax ASANSOL","Income Tax Office","Parmar Building  54  G.T. Road (West)",Asansol,713304,CIT,3
+"Central Board of Direct Taxes (Income Tax)","Pr. CCIT (CCA) Hyderabad",CITAT,"Commissioner of Income tax DR ITAT","C G G TOWERS",KAVADIGUDA,HYDERABAD,500002,"CIT DR ITAT1",3
+"Central Board of Direct Taxes (Income Tax)","Pr. Chief Commissioner of Income Tax (CCA) (Bihar & Jharkhan",CITAU,"CIT AUDIT PATNA","3rd Floor  Alankar Place","Boring Road",Patna,800001,"CIT AUDIT PATNA",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX JAIPUR",CITAW,"Commissioner of Income Tax ALWAR","C.R. Building","Moti Doongri Road",Alwar,301001,"PR. CIT",3
+"Central Board of Direct Taxes (Income Tax)","Pr. Chief Commissioner of Income Tax (CCA) (Bihar & Jharkhan",CIPT1,"Commissioner of Income Tax Patna1","Central Revenue Building","Birchand Patel Marg",Patna-1,800001,"Pr. CIT 1 Patna",3
+"Central Board of Direct Taxes (Income Tax)","RANGE 2 EXEMPTIONS CHANDIGARH",CIRE2,CIRCLE2,"5TH FLOOR  C.R. BUILDING  SEC. 17-E  CHANDIGARH",NA,NA,NA,ACIT,5
+"Central Board of Direct Taxes (Income Tax)","Addl CIT Exemption Ghaziabad",CIREG,"CIRCLE EXEMPTION GHAZIABAD","ROOM NO.105 CGO-II HAPUR CHUNGI GHAZIABAD",NA,NA,201002,DCIT,5
+"Central Board of Direct Taxes (Income Tax)","RANGE JHUNJHUNU",CIRJU,"ACIT CIRCLE JHUNJHUNU","Income Tax Office Mandawa Mod Jhunjhunu",NA,NA,NA,"Deputy CIT",5
+"Central Board of Direct Taxes (Income Tax)","Joint Commissioner of Incometax Range4Patna",CIRL4,"AC DC Circle  4 Patna","4th floor Lok Nayak Jai Prakash Narain  Bhawan","Dakbunglow Chauraha",Patna,800001,ACIT,5
+"Central Board of Direct Taxes (Income Tax)","Joint Commissioner of IncometaxRange5Patna",CIRL5,"AC DC CIRCLE 5 PATNA","3rd floor Lok Nayak Jai Prakash Narain  Bhawan","Dakbunglow Chauraha",Patna,800001,"ACIT CIRLE 5 PATNA",5
+"Central Board of Direct Taxes (Income Tax)","JCIT Range6 Patna",CIRL6,"AC DC CIRLE 6 PATNA","3rd floor Lok Nayak Jai Prakash Narain  BhawanDakb","unglow ChaurahaPatna",NA,800001,"ACIT CIRCLE 6 PATNA",5
+"Central Board of Direct Taxes (Income Tax)","Addl.CIT Range 7 Jaipur",CIRL7,"DCIT Cir7 Jaipur","C-95 Janpath Lalkothi Scheme Jaipur",NA,NA,NA,"Dy.CIT Circle 7",5
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX SHIMLA",CIRMA,"DC CIR MANDI","DCIT  CIR MANDI","INCOME TAX DEPTT. BIHULI MANDI",MANDI,175001,"DCIT Cir Mandi",3
+"Central Board of Direct Taxes (Income Tax)","MANDI GOBINDGARH RANGE SIRHIND",CIRMG,"DCIT Circle MGG","Hq. Sirhind Railway Road",Sirhind,"Distt. Fatehgarh Sahib",140406,DCIT,5
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX GHAZIABAD",CITAZ,"COMMISSIONER OF INCOME TAX APPEALS MUZAFFARNAGAR","AAYAKAR BHAWAN","MEERUT ROAD",MUZAFFARNAGAR,251002,"CIT APPEALS MUZAFFARNAGAR",3
+"Central Board of Direct Taxes (Income Tax)","Pr. Chief Commissioner of Income Tax, Bhubaneswar",CITB1,"Income Tax Department","Aayakar Bhawan",Bhubaneswar,NA,751007,"Pr. CIT",3
+"Central Board of Direct Taxes (Income Tax)","Pr. Chief Commissioner of Income Tax, Bhubaneswar",CITB2,"INCOME TAX DEPARTMENT","AAYAKAR BHAWAN","3RD FLOOR",BHUBANESWAR,751007,"Pr CIT",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX AMRITSAR",CITB3,"Commissioner of Income Tax, BHATINDA","Pr. Commissioner of Income Tax Bathinda",NA,NA,151001,"Income Tax Officer Technical",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",CITBD,"PCIT BURDWAN","INCOME TAX DEPARTMENT","AAYAKAR BHAWAN","COURT COMPOUND BURDWAN",713101,"PCIT BURDWAN",3
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax Int. South",CITBG,"COMMISSIONER OF INCOME TAX IT BANGALORE","BMTC BUILDING KORAMANGALA 6TH BLOCK BANGALORE",NA,NA,560095,"CIT IT BANGALORE",4
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX BHOPAL",CITBH,"Commissioner of Income Tax BHOPAL","Aayakar BhawanHoshangabad RoadBhopal",NA,NA,462011,"Pr CIT 1",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX JODHPUR",CITBK,"Commissioner of Income Tax BIKANER","Aayakar Bhawan Rani Bazar Bikaner",NA,NA,334001,"Pr.Commissioner of Income Tax",3
+"Central Board of Direct Taxes (Income Tax)","CCIT 5 KOLKATA",CITBN,Pr.CIT-Burdwan,"Aayakar Bhawan  Court Compound  Burdwan",PIN-713101,NA,713101,Pr.CIT-Burdwan,NA
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX RAIPUR",CITBP,"Commissioner of Income Tax Bilaspur","Aayakar Bhawan","Bhartiya Nagar","Bilaspur (CG)",495001,"Pr.CIT Bilaspur",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX BAREILLY",CITBR,"Commissioner of Income Tax BAREILLY","C.R. Building","Kamla Nehru Marg","Civil Lines  Bareilly",243001,"Pr. Commissioner of Income Tax",3
+"Central Board of Direct Taxes (Income Tax)","Pr. Chief Commissioner of Income Tax, Bhubaneswar",CITBT,"INCOME TAX DEPARTMENT","Aayakar Bhawan Annex","3rd Floor",Bhubaneswar,751007,CIT,3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX DURGAPUR",CITBW,"Commissioner of Income Tax BURDWAN","Aayakar Bhawan","Court Compound",Burdwan,NA,CIT,3
+"Central Board of Direct Taxes (Income Tax)","Pr. Chief Commissioner of Income Tax Delhi-I",CITC1,"Pr. Commissioner of Income Tax Central-I","E-2  ARA Centre","Jhandewalan Extn","New Delhi",110055,"Pr. CIT Central I",3
+"Central Board of Direct Taxes (Income Tax)","Pr. Chief Commissioner of Income Tax Delhi-I",CITC2,"PR. COMMISSIONER OF INCOME TAX CENTRAL II","E-2  ARA Centre Jhandewalan Extension New Delhi",NA,NA,110055,"PR. CIT CENTRAL 2",3
+"Central Board of Direct Taxes (Income Tax)","Pr. Chief Commissioner of Income Tax Delhi-I",CITC3,"PR. COMMISSIONER OF INCOME TAX CENTRAL III","E-2  ARA CENTRE JHANDEWALAN EXTENSION NEW DELHI",NA,NA,110055,"PR.CIT CENTRAL 3",3
+"Central Board of Direct Taxes (Income Tax)","DIRECTOR GENERAL OF IT INV",CITCB,"Pr Commissioner of Income tax Bhopal","Pr Commissioner of Income Tax Central charge Bhopa","Aayakar Bhawan near maida mill","arera hills hoshangabad road Bhopal",462011,"Pr Commissioner of Income tax",4
+"Central Board of Direct Taxes (Income Tax)","DIRECTOR GENERAL OF INCOME TAX (EXEMPTION)",CITCH,"CIT EXEMPTIONS CHENNAI","STREET NO 15",NA,NA,NA,.,3
+"Central Board of Direct Taxes (Income Tax)","DGIT Investigation Jaipur",CITCJ,"PR COMMISSIONER OF INCOME TAX CENTRAL JAIPUR","IInd Floor  NCR Building  Statue Circle  Jaipur",NA,NA,302005,"PCIT CENTRAL  RAJASTHAN JAIPUR",4
+"Central Board of Direct Taxes (Income Tax)","Pr. Chief Commissioner of Income Tax, Kerala",CITCL,"Commissioner of Income Tax CALICUT","North Block",Mananchira,Calicut,673001,Pr.CIT,3
+"Central Board of Direct Taxes (Income Tax)","DGIT INVESTIGATION PUNE",CITCN,"PCIT Central Nagpur","Aaykar Bhavan  Civil Line","Telangkhindi Road  Nagpur",Nagpur,440001,"Pr.CIT Central Nagpur",4
+"Central Board of Direct Taxes (Income Tax)","Pr. CCIT (CCA) Hyderabad",CITCO,"Commissioner of Income Tax, HYDERABAD (CO)","ROOM NO.312 3-A 4TH FLOOR IT TOWERS 10-2-3  A C GU","ARDS  MASAB TANK HYDERABAD",NA,500004,"CIT COMPUTERS",3
+"Central Board of Direct Taxes (Income Tax)","DGIT INVESTIGATION PUNE",CITCP,"PCIT CENTRAL PUNE","INCOME TAX OFFICE PMT BUILDING","C-WING THIRD FLOOR  SWARGATE",PUNE,411037,"CIT Central Pune",4
+"Central Board of Direct Taxes (Income Tax)","Pr. Chief Commissioner of Income Tax, Bhubaneswar",CITCT,"INCOME TAX DEPARTMENT","Aayakar Bhawan","shelter Square Tulasipur",Cuttack,753008,"Pr. CIT",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX DEHRADUN",CITDD,"Commissioner of Income Tax DEHRADUN","13A  Subhash Road  Dehradun",NA,NA,NA,"Income Tax Officer Tech",3
+"Central Board of Direct Taxes (Income Tax)","DIRECTOR GENERAL OF INCOME TAX (EXEMPTION)",CITDL,"CIT EXEMPTIONS DELHI","DELHI 26TH FLOOR  E-2 BLOCK  CIVIC MINTO ROAD  NEW",DELHI,NA,110002,"CIT EXEMPTIONS",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX RANCHI",CITDN,"COMMISSIONER OF INCOME TAX DHANBAD","AAYAKAR BHAWAN","LUBY CIRCULAR ROAD",DHANBAD,NA,"PR. COMMISSIONER OF INCOME TAX",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX DURGAPUR",CITDP,"Commissioner of Income Tax DURGAPUR","Aayakar Bhawan Annexe","City Centre",Durgapur,713216,CIT,3
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax 5",CITDR,"CIT DR ITAT G BENCH","Room No.402  Old CGO Building","Annexe  M.K. Road",MUMBAI,400020,"CIT DR ITAT",4
+"Central Board of Direct Taxes (Income Tax)","Pr. CCIT (CCA) Hyderabad",CITDS,"Pr. Commissioner of Income Tax Hyderabad (TDS)","ROOM NO.413 4-A 4TH FLOOR IT TOWERS","10-2-3  A C GUARDS  MASAB TANK",HYDERABAD,500004,"ITO HQRS  I",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",CITDU,"PCIT DURGAPUR","INCOME TAX DEPARTMENT AAYAKAR BHAWAN ANNEXE CITY C","ENTRE DURGAPUR",NA,713216,"PCIT DURGAPUR",3
+"Central Board of Direct Taxes (Income Tax)","DIRECTOR GENERAL OF INCOME TAX (EXEMPTION)",CITEA,"CIT EXEMPTIONS AHMEDABAD",AHMEDABAD,NA,NA,NA,"CIT EXEMPTIONS AHMEDABAD",3
+"Central Board of Direct Taxes (Income Tax)","DIRECTOR GENERAL OF INCOME TAX (EXEMPTION)",CITEB,"CIT EXEMPTIONS BANGLORE",BANGLORE,NA,NA,NA,.,3
+"Central Board of Direct Taxes (Income Tax)","DIRECTOR GENERAL OF INCOME TAX (EXEMPTION)",CITEC,"CIT EXEMPTIONS CHANDIGARH","5th Floor  C.R.Building  Sector 17E  Chandigarh",NA,NA,160017,"CIT EXEMPTIONS",3
+"Central Board of Direct Taxes (Income Tax)","DIRECTOR GENERAL OF INCOME TAX (EXEMPTION)",CITED,"CIT EXEMPTIONS",.,NA,NA,NA,.,3
+"Central Board of Direct Taxes (Income Tax)","DIRECTOR GENERAL OF INCOME TAX (EXEMPTION)",CITEH,"CIT EXEMPTIONS HYDERABAD","Aaykar Bhavan  Bashir Baug",Hyderabad,NA,NA,"Commissioner of Income Tax",3
+"Central Board of Direct Taxes (Income Tax)","DIRECTOR GENERAL OF INCOME TAX (EXEMPTION)",CITEJ,"CIT EXEMPTIONS JAIPUR",JAIPUR,NA,NA,NA,CIT,3
+"Central Board of Direct Taxes (Income Tax)","DIRECTOR GENERAL OF INCOME TAX (EXEMPTION)",CITEK,"CIT EXEMPTIONS KOCHI","San Juan Tower","Old Railway Station Road",Kochi-18,682018,"Commissioner of Income tax",3
+"Central Board of Direct Taxes (Income Tax)","DIRECTOR GENERAL OF INCOME TAX (EXEMPTION)",CITEL,"CIT EXEMPTIONS LUCKNOW",LUCKNOW,NA,NA,NA,"CIT Exemptions Lucknow",3
+"Central Board of Direct Taxes (Income Tax)","DIRECTOR GENERAL OF INCOME TAX (EXEMPTION)",CITEM,"CIT EXEMPTIONS MUMBAI","Commissioner of Income Tax (Exemptions)  Mumbai","Piramal Chambers  Lal Bagh","Parel  Mumbai - 400012",400012,"CIT EXEMPTIONS MUMBAI",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",CITEP,"CIT EXEMPTION","10B  MIDDLETON ROW","6th Floor",KOLKATA,700071,CIT,3
+"Central Board of Direct Taxes (Income Tax)","DIRECTOR GENERAL OF INCOME TAX (EXEMPTION)",CITEV,"CIT EXEMPTIONS BHOPAL",BHOPAL,NA,NA,NA,.,3
+"Central Board of Direct Taxes (Income Tax)","Principal Chief Commissioner of Income Tax, Pune",CITEX,"Commissioner of Income Tax Exemption Pune","B.O. Bhavan Survey No. 47 Plot No. 1","Parvati Pune Satara Road  Pune",NA,411009,"Commissioner of Income Tax",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX PANCHKULA",CITFB,"Commissioner of Income Tax FARIDABAD",Faridabad,NA,NA,NA,"Pr. Commissioner of Income Tax",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX LUCKNOW",CITFZ,"Commissioner of Income Tax, FAIZABAD","Office of Pr. Commissioner of Income Tax  Hotel Kr","ishna Palace Annexe  Civil Lines Faizabad",NA,224001,"Pr. Commissioner of Income Tax",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX PANCHKULA",CITGG,"Pr.Commissioner of Income tax Gurgaon","HSIIDC BUILDING  4TH FLOOR","UDHYOG VIHAR  PHASE-V",GURGAON,122001,"PR. COMMISSIONER OF INCOME TAX",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX AHMEDABAD",CITGN,"Commissioner of Income Tax Gandhinagar","3rd Floor  Vasant Nature View Bldg.  Ashram Road",Ahmedabad,NA,380009,"CIT GANDHINAGAR",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX ALLAHABAD",CITGP,"Commissioner of Income Tax GORAKHPUR","Aayakar Bhawan","Civil Lines",Gorakhpur,NA,"Pr. CIT",3
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax, HYDERABAD-III",CITGT,"CIT GUNTUR","Ist floor  Raj Kamal complex","Laxmipuram Main Road",Guntur,522007,"ITO headquarters",4
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX BHOPAL",CITGW,"Commissioner of Income Tax GWALIOR","Aayakar Bhawan City Centre Gwalior",NA,NA,474001,"Pr. Commissioner of Income Tax",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX GHAZIABAD",CITGZ,"Commissioner of Income Tax GHAZIABAD","CGO- 1  Kamla Nehru Nagar","Hapur Road",Ghaziabad,201002,"Pr. CIT Ghaziabad",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX SHIMLA",CIRPA,"DCIT CIR PALAMPUR","INCOME TAX DEPARTMENT PALAMPUR","NEAR OLD BUS STAND",PALAMPUR,176061,"DCIT Cir Palampur",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX SHIMLA",CIRPW,"DC Cir Parwanoo","DCIT CIR PARWANOO","INCOME TAX OFFICE PARWANOO",PARWANOO,177220,"DCIT Cir Parwanoo",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX SHIMLA",CIRSM,"DC CIR SHIMLA","DCIT CIR SHIMLA","RAILWAY BOARD BUILDING THE MALL SHIMLA",SHIMLA,171003,"DCIT Cir Shimla",3
+"Central Board of Direct Taxes (Income Tax)","JCIT SWM",CIRSW,"CIRCLE SWAIMADHOPUR","INCOME TAX OFFICE","KUMAWAT BHAWAN",SAWAIMADHOPUR,322001,"ASSTT. COMMISSIONER",5
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax, Hyderabad",CITH2,"COMMISSIONER OF INCOMETAX II","6TH FLOOR","SIGNATURE TOWERS","KONDAPUR  HYDERABAD",500008,"ITO HQRS",4
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax, Hyderabad",CITH6,"Commissioner of Income Tax6","Block A  2nd Floor  Income Tax Towers","A.C. Guards  Masab Tank",Hyderabad,500004,"PRINCIPAL CIT6 HYDERABAD",4
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX DEHRADUN",CITHD,"Commissioner of Income Tax, HALDWANI","Income Tax Office","Khurana Compound","Nainital Road  Haldwani",263139,"Pr. CIT",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX SHIMLA",CITHP,"Pr. Commissioner of Income Tax Shimla","RAILWAY BOARD BUILDING  THE MALL",SHIMLA,"HIMACHAL PRADESH",171003,"PR. COMMISSIONER OF INCOME TAX",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX PANCHKULA",CITHR,"Commissioner of Income Tax HISSAR","Aayakar Bhawan",Sector-14,Hissar,125001,"Pr. CIT",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX RANCHI",CITHZ,"COMMISSIONER OF INCOME TAX  HAZARIBAGH","AAYAKAR BHAWAN RAVINDRA PATH HAZARIBAGH-825301",NA,NA,825301,"PR. COMMISSIONER OF INCOME TAX",3
+"Central Board of Direct Taxes (Income Tax)","DIRECTOR GENERAL OF INCOME TAX (EXEMPTION)",CITPT,"CIT EXEMPTIONS PATNA",PATNA,NA,NA,NA,.,3
+"Central Board of Direct Taxes (Income Tax)","DIRECTOR GENERAL OF INCOME TAX (EXEMPTION)",CITPU,"CIT EXEMPTIONS PUNE",PUNE,NA,NA,NA,.,3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX PANCHKULA",CITRH,"Commissioner of Income Tax ROHTAK","Aayakar Bhawan","Opp. Mansarovar Park",Rohtak,124001,"Pr. CIT",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX RANCHI",CITRN,"Commissioner of Income tax Ranchi","Office of the Commissioner of Income tax Ranchi Ce","ntral Revenue Building  5A Main Road Ranchi",NA,834001,"Pr. Commissioner of Income Tax",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX RAIPUR",CITRP,"Commissioner of Income Tax Raipur","New C.R. Building","Civil Lines",Raipur,492001,"Pr. CIT Raipur 1",3
+"Central Board of Direct Taxes (Income Tax)","Pr. Chief Commissioner of Income Tax, Bhubaneswar",CITSB,"INCOME TAX DEPARTMENT","AAYAKAR BHAWAN",AINTHAPALLI,SAMBALPUR,768004,"Pr. CIT",3
+"Central Board of Direct Taxes (Income Tax)","CCIT 5 KOLKATA",CITSL,Pr.CIT-Siliguri,"Aayakar Bhawan  Matigara  Paribahan Nagar",Siliguri-734101,NA,734101,Pr.CIT-Siliguri,NA
+"Central Board of Direct Taxes (Income Tax)","Central Board of Direct Taxes (Income Tax)",CITTA,"Commissioner of Income Tax- ITA CBDT","Room No. 157A","North Block","New Delhi",110001,"Commissioner of Income Tax",2
+"Central Board of Direct Taxes (Income Tax)","Central Board of Direct Taxes (Income Tax)",CITTD,"COMMISSIONER OF INCOME TAX TDS","CIT TDS DELHI","INCOME TAX OFFICE  DISTRICT","CENTRE  LAXMI NAGAR",110092,CIT,2
+"Central Board of Direct Taxes (Income Tax)","Pr. Chief Commissioner of Income Tax, Kerala",CITTH,"COMMISSIONER OF INCOME TAX THRISSURE","AAYAKAR BHAWAN","SHAKTAN THAMPURAN NAGAR",THRISSUR,680001,"PRINCIPAL CIT THRISSUR",3
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax Int. South",CITTP,"COMMISSIONER OF INCOME TAX ITTP HYDERABAD","5TH FLOOR  AAYAKAR BHAVAN","BASHEERBAGH  OPP LB STADIUM",HYDERABAD,500004,"CIT IT AND TP HYDERABAD",4
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax, HYDERABAD-III",CITTT,"CIT TIRUPATI","Aayakar Bhawan","K T Road",Tirupati,517501,"ITO Headquarters",4
+"Central Board of Direct Taxes (Income Tax)","Pr. Chief Commissioner of Income Tax Delhi-I",CITTV,"Pr. Commissioner of Income Tax Delhi-V","Aayakar Bhawan","Room No. 309  3rd Floor  C R Building  I P Estate","New Delhi.",110002,"Pr. CIT DELHI 05 NEW DELHI.",3
+"Central Board of Direct Taxes (Income Tax)","Pr. Chief Commissioner of Income Tax Delhi-I",CITTX,"Pr. Commissioner of Income Tax Delhi-X","Aayakar Bhawan E-2  Civic Centre New Delhi",NA,NA,110002,"Pr. CIT Delhi 10",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX INDORE",CITU1,"Commissioner of Income Tax UJJAIN","Aayakar Bhawan","Near LIC Office","Bharatpuri  Ujjain",456010,CIT,3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX UDAIPUR",CITUD,"Commissioner of Income Tax UDAIPUR","Room No. 301  Aayakar Bhawan","Sub-city Centre  Saveena",Udaipur,313001,"Pr. CIT",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX VISHAKHAPATNAM",CITV1,"Commissioner of Income Tax Vishakhapatnam I","Aayakar Bhawan Dabagardens Vishakhapatnam",NA,NA,530020,PR.CIT,3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX VISHAKHAPATNAM",CITV2,"Commissioner of Income Tax Vishakhapatnam II","Aayakar Bhawan DabagardensVisakhapatnam",NA,NA,530020,"Pr. CIT2",3
+"Central Board of Direct Taxes (Income Tax)","Pr. Chief Commissioner of Income Tax Delhi-I",CITVI,"Pr. Commissioner of Income Tax Delhi-VI","Room No. 418  Aayakar Bhawan C R Building  I P Est","ate New Delhi",NA,110002,"Pr. CIT 06",3
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax, Hyderabad",CITVJ,"Commissioner of Income Tax VJA","Aayakar Bhavan",NA,Vijayawada,NA,CIT,4
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX ALLAHABAD",CITVN,"Commissioner of Income Tax VARANASI","Aayakar Bhawan","Maqbool Alam Road",Varanasi,221002,PCIT,3
+"Central Board of Direct Taxes (Income Tax)","Principal Chief Commissioner of Income Tax, Pune",CITVP,"Commissioner of Income Tax, PUNE-V","PRATYAKSHAKAR BHAVAN",AKURDI,NA,411044,"PCIT 5 PUNE",3
+"Central Board of Direct Taxes (Income Tax)","INTERNATIONAL TAXATION RANGE1",CITW2,IT-2,"BO BHAVAN  2ND FLOOR  PUNE","Pune Satara Road Parvati","Sector No 47 Plot No 1",411009,"ITO IT 2  Pune",6
+"Central Board of Direct Taxes (Income Tax)","INTERNATIONAL TAXATION RANGE1",CITW4,IT3,"BO BHAVAN","Room No. 218  2nd floor",NA,411037,ITO,6
+"Central Board of Direct Taxes (Income Tax)","Pr. Chief Commissioner of Income Tax Delhi-I",CITXI,"Pr. Commissioner of Income Tax Delhi-XI","Aayakar Bhawan E-2 tower  civic center New Delhi",NA,NA,110002,"Pr. CIT Delhi 11",3
+"Central Board of Direct Taxes (Income Tax)","CCIT INTERNATIONAL TAXATION",CITXN,"CIT INTERNATIONAL TAXATION BANGALORE","BMTC COMPLEX","80 FEET ROAD  6TH BLOCK  KORAMANGALA",BENGALURU,560095,"CIT INTERNATIONAL TAXATION BAN",4
+"Central Board of Direct Taxes (Income Tax)","Pr. Chief Commissioner of Income Tax Delhi-I",CITXV,"Pr. Commissioner of Income Tax Delhi-XV","Pratyakshakar Bhawan Civic Center  E-2 Block New D",elhi,NA,110002,"Pr. CIT Delhi XV",3
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax Int. South",CITIC,"COMMISSIONER OF INCOME TAX IT CHENNAI","401  IV FLOOR  TOWER-1","BSNL BUILDING  NO.16 GREEMS ROAD",CHENNAI,600006,"CIT IT CHENNAI",4
+"Central Board of Direct Taxes (Income Tax)","Principal Chief Commissioner of Income Tax, Pune",CITII,"Commissioner of Income Tax, PUNE-II","PMT BUILDING SWARGATE PUNE",NA,NA,411037,"Principal CIT 2 PUNE",3
+"Central Board of Direct Taxes (Income Tax)","Central Board of Direct Taxes (Income Tax)",CITIN,"COMMISSIONER OF INCOME TAX-INVESTIGATION","ROOM NO.- 155A  NORTH BLOCK","NORTH BLOCK",CBDT,110001,CIT-INV,2
+"Central Board of Direct Taxes (Income Tax)","Principal Chief Commissioner of Income Tax, Pune",CITIP,"Commissioner of Income Tax, PUNE-I","PMT BUILDING  SWARGATE PUNE",NA,NA,411037,Pr.CIT1,3
+"Central Board of Direct Taxes (Income Tax)","Pr. Chief Commissioner of Income Tax (Intl. Tax)",CITIT,"CIT IT AND TP","AAYAKAR BHAWAN","110 SHANTI PALLY",KOLKATA,700107,CIT,3
+"Central Board of Direct Taxes (Income Tax)","Pr. Chief Commissioner of Income Tax Delhi-I",CITIV,"Pr. Commissioner of Income Tax Delhi-IV","Room No. 238 A C.R.BLDG. I P Estate NEW DELHI",NA,NA,110002,"ACIT Nodal Officer Grievance",3
+"Central Board of Direct Taxes (Income Tax)","Pr. Chief Commissioner of Income Tax Delhi-I",CITIX,"Pr. Commissioner of Income Tax Delhi-IX","Room No-243 C. R. Building  I. P. Estate New Delhi",NA,NA,110002,"Pr. CIT Delhi IX",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX AMRITSAR",CITJ4,"Commissioner of Income Tax, JAMMU","O/o Principal Commissioner of Income Tax","Aayakar Bhawan  Railhead Complex",Jammu,180001,"Pr. Commissioner of Income Tax",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX PANCHKULA",CITJK,JcIt,"bcv cv",cv,xcv,NA,vdvv,3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX LUDHIANA",CITJL,"Commissioner of Income Tax JALANDHAR I","C.R. Building Model Town Road New Wing  Jalandhar",NA,NA,144001,"PRINCIPAL CIT 1",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",CITJP,"CIT JALPAIGURI","CENTRAL REVENUE BUILDING","NAYABASTI  RACE COURCE ROAD",JALPAIGURI,735101,"Pr. CIT",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX RANCHI",CITJR,"COMMISSIONER OF INCOMETAX  JAMSHEDPUR","47  C.H.AREA",JAMSHEDPUR-831001,JHARKHAND,831001,"PR. COMMISSIONER OF INCOME TAX",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX MUMBAI",CITJU,"Commissioner of Income Tax Judicial","Room No. 314  Aayakar Bhawan","M.K. Road  New Marine Lines",Mumbai,400020,"CIT Judicial",3
+"Central Board of Direct Taxes (Income Tax)","Pr. Chief Commissioner of Income Tax, Kerala",CITK2,"Commissioner of Income Tax, KOCHI-II","C.R. Building","I.S. Press Road",Kochi,682018,"CIT KOCHI II",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX PANCHKULA",CITKL,"Commissioner of Income Tax KARNAL","Aayakar Bhawan Sector-12 Karnal",NA,NA,132001,"ITO HQ Tech",3
+"Central Board of Direct Taxes (Income Tax)","DIRECTOR GENERAL OF INCOME TAX (EXEMPTION)",CITKO,"CIT EXEMPTIONS KOLKATA","Commissioner of Income Tax (Exemptions)  Kolkata","10B  Middilton Road","6th Floor  Kolkata - 700071",700071,"CIT Exemptions Kolkata",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX UDAIPUR",CITKT,"Commissioner of Income Tax KOTA","C.R. Building","Rawat Bhata Road",Kota,324009,"Pr. CIT",3
+"Central Board of Direct Taxes (Income Tax)","Pr. Chief Commissioner of Income Tax, Kerala",CITKZ,"COMMISSIONER OF INCOME TAX KOZHIKODE","AAYAKAR BHAWAN","NEW ANNEXE BLDG. NORTH BLOCK","MANANCHIRA KOZHIKODE",673001,"CIT KOZHIKODE",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",CITLT,"CIT LTU KOLKATA","9TH FLOOR  AAYAKAR BHAWAN POORVA","110 SHANTI PALLY  EM BYPASS",KOLKATA,700107,"CIT LTU",3
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax, Mumbai-V",CITM8,"COMMISSIONER OF INCOME TAX 8 MUMBAI","ROOM NO.214 2ND FLOOR","AAYAKAR BHAVAN",MUMBAI,400020,"COMMISSIONER OF INCOME TAX 8 M",4
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax, Mumbai-V",CITM9,"COMMISSIONER OF INCOME TAX 9 MUMBAI","ROOM NO.315 3RD FLOOR","AAYAKAR BHAVAN",MUMBAI,400020,"COMMISSIONER OF INCOME TAX 9 M",4
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX BAREILLY",CITMD,"Commissioner of Income Tax MORADABAD","Principal Commissioner of Income Tax","Income Tax Office Near Pili Kothi",Moradabad,244001,PCIT,3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX GHAZIABAD",CITMR,"Commissioner of Income Tax MEERUT","AAYKAR BHAWAN  BHAINSALI GROUND  MEERUT",NA,NA,250001,"Pr. CIT",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX BANGALORE",CITMY,"Commissioner of Income Tax MYSORE","No.55/1  Shilpashree","Vidhyaranya Complex","Vishweshwar Nagar  Mysore",570008,"Pr. Commissioner of Income Tax",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX GHAZIABAD",CITMZ,"Commissioner of Income Tax MUZZAFFARNAGAR","AAYKAR BHWAN","MEERUT ROAD",MUZZAFFARNAGAR,251002,PCIT,3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX NASHIK",CITN1,"Commissioner of Income Tax NASHIK I","Kendriya Rajaswa Bhawan","Gadkari Chowk  Old Agra Road",Nashik,422002,"PCIT 1 NASHIK",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX NASHIK",CITN2,"Commissioner of Income Tax NASHIK II","2nd Floor  Kendriya Rajaswa Bhawan Gadkari Chowk","Old Agra Road  Nashik",NA,422002,"PCIT 2 NASHIK",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX GHAZIABAD",CITNA,"COMMISSIONER OF INCOME TAX APPEALS 2 NOIDA","AAYAKAR BHAWAN","A-2D  SECTOR-24",NOIDA,201301,"CIT APPEALS 2 NOIDA",3
+"Central Board of Direct Taxes (Income Tax)","Pr. Chief Commissioner of Income Tax Delhi-I",CITOP,"Pr. Commissioner of Income Tax Delhi (CO)","Aayakar Bhawan","C R Building  I P Estate","New Delhi",110002,"The CIT Admin &amp; TPS",3
+"Central Board of Direct Taxes (Income Tax)","Pr. Chief Commissioner of Income Tax (CCA) (Bihar & Jharkhan",CITP1,"Pr. Commissioner of Income Tax, Patna I","Central Revenue Building","Birchand Patel Marg",Patna-1,800001,"CIT Patna1",3
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax, Hyderabad",CITP2,"PR. COMMISSIONER OF INCOME TAX 2","6TH FLOOR","SIGNATURE TOWERS","KONDAPUR  HYDERABAD",500008,"ITO HQRS",4
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax, Hyderabad",CITP3,"PR COMMISSIONER OF INCOME 3","8TH FLOOR SIGNATURE TOWERS KONDAPUR  HYDERABAD",NA,NA,500084,"ITO HQRS",4
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax, Hyderabad",CITP5,"PR COMMISSIONER OF INCOME TAX 5","10TH FLOOR SIGNATURE TOWERS  KONDAPUR  HYDERABAD",NA,NA,500008,"ITO HQRS",4
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax, Hyderabad",CITP7,"PR COMMISSIONER OF INCOME TAX 7","3RD FLOOR A BLOCK  IT TOWERS  AC GUARDS  MASAB TAN","K  HYDERABAD",NA,500008,"ITO HQRS",4
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax Inter West",CITPA,"COMMISSIONER OF INCOME TAX ITTP AHEMDABAD","2ND FLOOR NAVJEEVAN TRUST BUILDING","ASHRAM ROAD",AHMEDABAD,380014,"CIT IT TP AHEMDABAD",4
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX PANCHKULA",CITPK,"Commissioner of Income Tax PANCHKULA","Aayakar Bhawan Bay No.43 to 48 Sector-2  Panchkula",NA,NA,NA,Pr.CIT,3
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax Inter West",CITPP,"COMMISSIONER OF INCOME TAX ITTP PUNE","B O BHAWAN SECTOR 47 PLOT NO 1 PARVATI  PUNE",NA,NA,411009,"CIT IT TP PUNE",4
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX GHAZIABAD",CITNO,"Commissioner of Income Tax NOIDA","Aaykar Bhawan","A-2D  Sector-24",NOIDA,201301,"Pr. Commissioner of Income Tax",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX LUDHIANA",CJAL2,"Commissioner of Income Tax JALANDHAR II","C.R. Building Model Town Road old wing Wing  Jalan",dhar,NA,144001,"PR. CIT 2",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX JODHPUR",CJDH1,"Commissioner of Income Tax JODHPUR I","Aayakar Bhawan Paota C Road Jodhpur",NA,NA,342010,"Pr. Commissioner of Income Tax I",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX JODHPUR",CJDH2,"Commissioner of Income Tax JODHPUR II","Aayakar Bhawan Paota C Road Jodhpur",NA,NA,342010,"Pr.Comm. of Income Tax II",3
+"Central Board of Direct Taxes (Income Tax)","Joint Commissioner of Income Tax Range Bhiwani",CKD01,"CENTRAL BOARD OF DIRECT TAXES","Opposite Jai Hind Hospital","Loharu Road","Charkhi Dadri",127306,I.T.O,5
+"Central Board of Direct Taxes (Income Tax)","INTERNATIONAL TAXATION RANGE-KOCHI",CKOIT,"INTERNATIONAL TAXATION CIRCLE-KOCHI","Central Revenue Building  I.S. Press Road",Kochi,NA,682018,DCIT,6
+"Central Board of Direct Taxes (Income Tax)","Range 30 New Delhi",CL030,"Circle 30.1","Civic centre New Delhi",NA,NA,NA,"ACIT Cir 30 New Delhi",5
+"Central Board of Direct Taxes (Income Tax)","Range 31 New Delhi",CL031,"Circle 31","13th Floor Pratyakshkar Bhavan","Civic Centre",Delhi,NA,"ACIT Circle 31",5
+"Central Board of Direct Taxes (Income Tax)","Range 32 New Delhi",CL032,"Circle 32.1","13th Floor","Civic Centre","New Delhi",110002,"ACIT Circle 32.1",5
+"Central Board of Direct Taxes (Income Tax)","Range 33 New Delhi",CL033,"CIRCLE 33.1","1305  13th Floor","Civic Centre",Delhi,NA,"ACIT Circle 33.1",5
+"Central Board of Direct Taxes (Income Tax)","ADDITIONAL COMMISSIONER OF INCOME TAX R 1.1",CL111,"DEPUTY COMMISSIONER OF INCOME TAX C 1.1.1","BMTC COMPLEX  80 FEET ROAD 6TH BLOCK  KORAMANGALA",BENGALURU,NA,560095,"DCIT C 1.1.1",6
+"Central Board of Direct Taxes (Income Tax)","ADDITIONAL COMMISSIONER OF INCOME TAX R 1.1",CL112,"DEPUTY COMMISSIONER OF INCOME TAX C 1.1.2","BMTC COMPLEX  80 FEET ROAD","6TH BLOCK  KORAMANGALA",BENGALURU,560095,"DCIT C 1.1.2",6
+"Central Board of Direct Taxes (Income Tax)","ADDITIONAL COMMISSIONER OF INCOME TAX R 1 MYSORE",CL11M,"DEPUTY COMMISSIONER OF INCOME TAX C 1 1 MYSURU",MYSURU,NA,NA,NA,"DCIT C 1 1 MYSURU",6
+"Central Board of Direct Taxes (Income Tax)","ADDITIONAL COMMISSIONER OF INCOME TAX R 1.2",CL121,"DEPUTY COMMISSIONER OF INCOME TAX C 1.2.1","BMTC COMPLEX  80 FEET ROAD 6TH BLOCK  KORAMANGALA",BENGALURU,NA,560095,"DCIT C 1.2.1",6
+"Central Board of Direct Taxes (Income Tax)","ADDITIONAL COMMISSIONER OF INCOME TAX R 1.2",CL122,"DEPUTY COMMISSIONER OF iNCOME TAX C 1.2.2","BMTC COMPLEX  80 FEETB ROAD","6TH BLOCK  KORAMANGALA",BENGALURU,560095,"DCIT C 1.2.2",6
+"Central Board of Direct Taxes (Income Tax)","Pr. Commissioner of Income Tax Delhi-V",CL131,"Assistant Commissioner C13 1","316A  CR Building",NA,NA,NA,DCIT,4
+"Central Board of Direct Taxes (Income Tax)","Pr. Commissioner of Income Tax Delhi-V",CL132,"Deputy Commissioner C13 2","316A  CR Building",NA,NA,NA,DCIT,4
+"Central Board of Direct Taxes (Income Tax)","Pr. Commissioner of Income Tax Delhi-V",CL141,"Assistant Commissioner C14 1","323. CR Building",NA,NA,NA,ACIT,4
+"Central Board of Direct Taxes (Income Tax)","Pr. Commissioner of Income Tax Delhi-V",CL142,"Assistant Commissioner C14 2","R. No. 323  C R Building",NA,NA,NA,ACIT,4
+"Central Board of Direct Taxes (Income Tax)","Pr. Commissioner of Income Tax Delhi-V",CL151,"Assistant Commissioner Circle 15 1","R. No. 321  C R Building",NA,NA,NA,ACIT,4
+"Central Board of Direct Taxes (Income Tax)","Pr. Commissioner of Income Tax Delhi-V",CL152,"Assistant Commissioner Circle15 1","R. N. 321  C R Building",NA,NA,NA,ACIT,4
+"Central Board of Direct Taxes (Income Tax)","ADDL.CIT BALLARI RANGE",CL1BL,"DCIT C 1 BALLARI",BALLARI,NA,NA,NA,"DCIT C 1 BALLARI",6
+"Central Board of Direct Taxes (Income Tax)","ADDL CIT R 1 DAVANGERE",CL1DV,"DCIT C 1 DAVANGERE",DAVANGERE,NA,NA,NA,"DCIT C 1 DAVANGERE",6
+"Central Board of Direct Taxes (Income Tax)","ADDL.CIT GULBARGA RANGE",CL1GL,"DCIT C 1 GULBARGA",GULBARGA,NA,NA,NA,"DCIT C 1 GULBARGA",6
+"Central Board of Direct Taxes (Income Tax)","ADDITIONAL COMMISSIONER OF INCOME R 2.3",CL231,"DEPUTY COMMISSIONER OF INCOME TAX C 2.3.1","Room No 612","6TH Floor  aaykar Bhawan",Surat,395001,"DCIT C 2.3.1",5
+"Central Board of Direct Taxes (Income Tax)","ADDL.CIT R 2 DAVANGERE",CL2DV,"DCIT C 2 DAVANGERE",DAVANGERE,NA,NA,NA,"DCIT C 2 DAVANGERE",6
+"Central Board of Direct Taxes (Income Tax)","ADDITIONAL COMMISSIONER OF INCOME TAX R 3 1",CL311,"DEPUTY COMMISSIONER OF INCOME TAX C 3 1 1","BMTC COMPLEX  80 FEET ROAD","6TH BLOCK  KORAMANGALA",BENGALURU,560095,"DCIT C 3 1 1",6
+"Central Board of Direct Taxes (Income Tax)","ADDITIONAL COMMISSIONER OF INCOME TAX R 3 1",CL312,"DEPUTY COMMISSIONER OF INCOME TAX C 3 1 2","BMTC COMPLEX  80 FEET ROAD","6TH BLOCK  KORAMANGALA",BENGALURU,560095,"DCIT C 3 1 2",6
+"Central Board of Direct Taxes (Income Tax)","ADDITIONAL COMMISSIONER OF INCOME TAX R 3 2",CL321,"DEPUTY COMMISSIONER OF INCOME TAX C 3 2 1","BMTC COMPLEX  80 FEET ROAD","6TH BLOCK  KORAMANGALA",BENGALURU,560095,"DCIT C 3 2 1",6
+"Central Board of Direct Taxes (Income Tax)","ADDITIONAL COMMISSIONER OF INCOME TAX R 3 3",CL331,"DEPUTY COMMISSIONER OF INCOME TAX C 3 3 1","HMT BHAVAN","BELLARY ROAD",GANGANAGAR,560032,"ACIT C 3 3 1",6
+"Central Board of Direct Taxes (Income Tax)","ADDITIONAL COMMISSIONER OF INCOME TAX R 4 1",CL411,"DEPUTY COMMISSIONER OF INCOME TAX C 4 1 1","BMTC COMPLEX  80 FET ROAD","6TH BLOCK  KORAMANGALA",BENGALURU,560095,"DCIT C 4 1 1",6
+"Central Board of Direct Taxes (Income Tax)","ADDITIONAL COMMISSIONER OF INCOME TAX R 4 1",CL412,"DEPUTY COMMISSIONER OF INCOME TAX C 4 1 2","BMTC COMPLEX  80 FEET ROAD","6TH BLOCK  KORAMANGALA",BENGALURU,560095,"DCIT C 4 1 2",6
+"Central Board of Direct Taxes (Income Tax)","ADDITIONAL COMMISSIONER OF INCOME TAX R 4 2",CL421,"DEPUTY COMMISSIONER OF INCOME TAX C 4 2 1","BMTC COMPLEX  80 FEET ROAD 6TH BLOCK  KORAMANGALA",BENGALURU,NA,560095,"ACIT C 4 2 1",6
+"Central Board of Direct Taxes (Income Tax)","ADDITIONAL COMMISSIONER OF INCOME TAX R 4 3",CL431,"DEPUTY COMMISSIONER OF INCOME TAX C 4 3 1","BMTC COMPLEX  80 FEET ROAD","6TH BLOCK  KORAMANGALA",BENGALURU,560095,"DCIT C 4 3 1",6
+"Central Board of Direct Taxes (Income Tax)","ADDITIONAL COMMISSIONER OF INCOME TAX R 5 1",CL511,"DEPUTY COMMISSIONER OF INCOME TAX C 5 1 1","BMTC COMPLEX  80 FEET ROAD","6TH BLOCK  KORAMANGALA",BENGALURU,560095,"ACIT C 5 1 1",6
+"Central Board of Direct Taxes (Income Tax)","ADDITIONAL COMMISSIONER OF INCOME TAX R 5 1",CL512,"DEPUTY COMMISSIONER OF INCOME TAX C 5 1 2","BMTC COMPLEX  80 FEET ROAD","6TH BLOCK  KORAMANGALA",BENGALURU,560095,"DCIT C 5 1 2",6
+"Central Board of Direct Taxes (Income Tax)","ADDITIONAL COMMISSIONER OF INCOME TAX R 5 2",CL521,"DEPUTY COMMISSIONER OF INCOME TAX C 5 2 1","BMTC COMPLEX  80 FEET ROAD 6TH BLOCK  KORAMANGALA",BENGALURU,NA,560095,"ACIT C 5 2 1",6
+"Central Board of Direct Taxes (Income Tax)","ADDITIONAL COMMISSIONER OF INCOME TAX R 5 3",CL531,"DEPUTY COMMISSIONER OF INCOME TAX C 5 3 1","BMTC COMPLEX  80 FEET ROAD","6TH BLOCK  KORAMANGALA",BENGALURU,560095,"DCIT C 5 3 1",6
+"Central Board of Direct Taxes (Income Tax)","ADDITIONAL COMMISSIONER OF INCOME TAX R 5 3",CL532,"DEPUTY COMMISSIONER OF INCOME TAX C 5 3 2","BMTC COMPLEX  80 FEET ROAD","6TH BLOCK  KORAMANGALA",BENGALURU,560095,"DCIT C 5 3 2",6
+"Central Board of Direct Taxes (Income Tax)","ADDITIONAL COMMISSIONER OF INCOME TAX R 6 1",CL611,"DEPUTY COMMISSIONER OF INCOME TAX C 6 1 1","BMTC COMPLEX  80 FEET ROAD","6TH BLOCK  KORAMANGALA",BENGALURU,560095,"DCIT C 6 1 1",6
+"Central Board of Direct Taxes (Income Tax)","ADDITIONAL COMMISSIONER OF INCOME TAX R 6 1",CL612,"DEPUTY COMMISSIONER OF INCOME TAX C 6 1 2","BMTC COMPLEX  80  FEET ROAD","6TH BLOCK  KORAMANGALA",BENGALURU,560095,"DCIT C 6 1 2",6
+"Central Board of Direct Taxes (Income Tax)","ADDITIONAL COMMISSIONER OF INCOME TAX R 6 2",CL621,"DEPUTY COMMISSIONER OF INCOME TAX C 6 2 1","BMTC COMPLEX  80 FEET ROAD","6TH BLOCK  KORAMANGALA",BENGALURU,560095,"DCIT C 6 2 1",6
+"Central Board of Direct Taxes (Income Tax)","ADDITIONAL COMMISSIONER OF INCOME TAX R 6 3",CL631,"DEPUTY COMISSIONER OF INCOME TAX C 6 3 1","BMTC COMPLEX  80 FEET ROAD","6TH BLOCK  KORAMANGALA",BENGALURU,560095,"DCIT C 6 3 1",6
+"Central Board of Direct Taxes (Income Tax)","PR. COMMISSIONER OF INCOME TAX XXII",CL641,"ASST COMMISSIONER OF INCOME TAX CIRCLE 64 1","ROOM NO. 106 B BLOCK CIVIC CENTER NEW DELHI",NA,NA,110002,"ASST COMMISSIONER CIRCLE 64 1",4
+"Central Board of Direct Taxes (Income Tax)","PR. COMMISSIONER OF INCOME TAX XXII",CL651,"ASST COMMISSIONER OF INCOME TAX CIRCLE 65 1","ROOM NO 207   2nd floor  B BLOCKCIVIC CENTER NEW D",ELHI-110002,NA,110002,"ASST COMMISSIONER CIRCLE 65 1",4
+"Central Board of Direct Taxes (Income Tax)","PR. COMMISSIONER OF INCOME TAX XXII",CL661,"ASST COMMISSIONER OF INCOME TAX CIRCLE 66 1","ROOM NO 208 B BLOCK CIVIC CENTER NEW DELHI",NA,NA,110002,"ASST COMMISSIONER CIRCLE 66 1",4
+"Central Board of Direct Taxes (Income Tax)","ADDITIONAL COMMISSIONER OF INCOME TAX R 7 1",CL711,"DEPUTY COMMISSIONER OF INCOME TAX C 7 1 1","BMTC COMPLEX  80 FEET ROAD","6TH BLOCK  KORAMANGALA",BENGALURU,560095,"DCIT C 7 1 1",6
+"Central Board of Direct Taxes (Income Tax)","ADDITIONAL COMMISSIONER OF INCOME TAX R 7 1",CL712,"DEPUTY COMMISSIONER OF INCOME TAX C 7 1 2","BMTC COMPLEX  80 FEET ROAD","6TH BLOCK  KORAMANGALA",BENGALURU,560095,"DCIT C 7 1 2",6
+"Central Board of Direct Taxes (Income Tax)","ADDITIONAL COMMISSIONER OF INCOME TAX R 7 2",CL721,"DEPUTY COMMISSIONER OF INCOME TAX C 7 2 1","Room 318  BMTC COMPLEX  80 FEET ROAD 6TH BLOCK  KO","RAMANGALA BENGALURU",NA,560095,"DCIT C 7 2 1",6
+"Central Board of Direct Taxes (Income Tax)","Addl CIT R 2 Kol",CL021,"DCIT CIRCLE 2-1","AAYAKAR BAHWAN",KOLKATA,NA,700069,ACIT,6
+"Central Board of Direct Taxes (Income Tax)","Addl CIT R 2 Kol",CL022,"DCIT CIRCLE 2-2","AAYAKAR BHAWAN",KOLKATA,NA,700069,DCIT,6
+"Central Board of Direct Taxes (Income Tax)","Range 28 New Delhi",CL028,"Circle 28.1","Room No. 1001  E2 Block",NA,NA,110002,"ACIT Circle 28.1",5
+"Central Board of Direct Taxes (Income Tax)","Range 29 New Delhi",CL029,"Circle 29.1","civic centre New Delhi",NA,NA,110002,"ACIT Circle 29.1",5
+"Central Board of Direct Taxes (Income Tax)","INTERNATIONAL TAXATION RANGE-KOCHI",CKTIT,"INTERNATIONAL TAXATION WARD-KOZHIKODE","Aayakar Bhawan",Kozhikode,NA,673001,ACIT-OSD,6
+"Central Board of Direct Taxes (Income Tax)","ADDITIONAL COMMISSIONER OF INCOME TAX HASSAN RANGE",CL1HN,"DEPUTY COMMISSIONER OF INCOME TAX HASSAN",HASSAN,NA,NA,NA,"DCIT HASSAN",6
+"Central Board of Direct Taxes (Income Tax)","ADDL.CIT R 1 SHIMOGA",CL1SH,"DCIT C 1 SHIMOGA",SHIMOGA,NA,NA,NA,"ACIT C 1 SHIMOGA",6
+"Central Board of Direct Taxes (Income Tax)","ADDITIONAL COMMISSIONER OF INCOME TAX TUMKUR RANGE",CL1TK,"DEPUTY COMMISSIONER OF INCOME TAX TUMKUR",TUMKUR,NA,NA,NA,"DCIT TUMKUR",6
+"Central Board of Direct Taxes (Income Tax)","ADDITIONAL COMMISSIONER O INCOME TAX R 2 1",CL211,"DEPUTY COMMISSIONER OF INCOME TAX C 2.1.1","BMTC COMPLEX  80 FEET ROAD","6TH BLOCK  KORAMANGALA",BENGALURU,560098,"DCIT C 2.1.1",5
+"Central Board of Direct Taxes (Income Tax)","ADDITIONAL COMMISSIONER O INCOME TAX R 2 1",CL212,"DEPUTY COMMISSIONER OF INCOME TAX C 2.1.2","BMTC COMPLEX  80 FEET ROAD","6TH BLOCK  KORAMANGALA",BENGALURU,NA,"DCIT C 2.1.2",5
+"Central Board of Direct Taxes (Income Tax)","ADDITIONAL COMMISSIONER OF INCOME TAX R 2 MYSURU",CL21M,"DEPUTY COMMISSIONER OF INCOME TAX C 2 1 MYSURU",MYSURU,NA,NA,NA,"DCIT C 2 1 MYSURU",6
+"Central Board of Direct Taxes (Income Tax)","ADDITIONAL COMMISSIONER OF INCOME TAX R 2.2",CL221,"DEPUTY COMMISSIONER OF INCOME TAX C 2.2.1","AAYAKAR BHAVAN","MAJURA GATE",SURAT,395001,"ACIT C 2.2.1",5
+"Central Board of Direct Taxes (Income Tax)","ADDL.CIT RAICHUR RANGE",CL1RH,"DCIT C 1 RAICHUR",RAICHUR,NA,NA,NA,"DCIT C 1 RAICHUR",6
+"Central Board of Direct Taxes (Income Tax)","ADDL.CIT CENTRAL R 1 BENGALURU",CLC11,"DCIT CENTRAL CIRCLE 1 1 BANGALORE",C.R.BUILDING,"QUEENS ROAD",BENGALURU,560001,"DCIT CENTRAL CIRCLE 1 1 BLR",6
+"Central Board of Direct Taxes (Income Tax)","ADDL.CIT CENTRAL R 1 BENGALURU",CLC12,"DCIT CENTRAL CIRCLE 1 2 BENGALURU","C.R.BUILDING QUEENS ROAD BENGALURU",NA,NA,560001,"DCIT CENTRAL CIRCLE 1 2 BLR",6
+"Central Board of Direct Taxes (Income Tax)","ADDL.CIT CENTRAL R 1 BENGALURU",CLC13,"DCIT CENTRAL CIRCLE 1 3 BENGALURU","C.R. BUILDING","QUEENS ROAD",BENGALURU,560001,"DCIT CENTRAL CIRCLE 1 3 BLR",6
+"Central Board of Direct Taxes (Income Tax)","ADDL.CIT CENTRAL R 1 BENGALURU",CLC14,"DCIT CENTRAL CIRCLE 1 4 BENGALURU",C.R.BUILDING,"QUEENS ROAD",BENGALURU,560001,"DCIT CENTRAL CIRCLE 1 4 BLR",6
+"Central Board of Direct Taxes (Income Tax)","ADDL.CIT CENTRAL RANGE MANGALURU",CLC1M,"DCIT CENTRAL CIRCLE 1 MANGALURU","C.R.BUILDING ANNEXE","GROUND FLOOR","NG ROAD  ATTAVAR  MANGALURU",575001,"DCIT CENTRAL CIR 1 MANGALURU",6
+"Central Board of Direct Taxes (Income Tax)","ADDL.CIT CENTRAL R 2 BENGALURU",CLC21,"DCIT CENTRAL CIRCLE 2 1 BENGALURU",C.R.BUILDING,"QUEENS ROAD",BENGALURU,560001,"DCIT CENTRAL CIRCLE 2 1 BLR",6
+"Central Board of Direct Taxes (Income Tax)","ADDL.CIT CENTRAL R 2 BENGALURU",CLC22,"DCIT CENTRAL CIRCLE 2 2 BENGALURU",C.R.BUILDINGS,"QUEENS ROAD",BENGALURU,560001,"DCIT CENTRAL CIRCLE 2 2 BLR",6
+"Central Board of Direct Taxes (Income Tax)","ADDL.CIT CENTRAL R 2 BENGALURU",CLC23,"DCIT CENTRAL CIRCLE 2 3 BENGALURU",C.R.BUILDINGS,"QUEENS ROAD",BENGALURU,560001,"DCIT CENTRAL CIRCLE 2 3 BLR",6
+"Central Board of Direct Taxes (Income Tax)","ADDL.CIT CENTRAL R 2 BENGALURU",CLC24,"DCIT CENTRAL CIRCLE 2 4 BENGALURU",C.R.BUILDING,"QUEENS ROAD",BENGALURU,560001,"DCIT CENTRAL CIRCLE 2 4 BLR",6
+"Central Board of Direct Taxes (Income Tax)","ADDL.CIT CENTRAL RANGE MANGALURU",CLC2M,"DCIT CENTRAL CIRCLE 2 MANGALURU","C.R.BUILDING ANNEXE","NG ROAD  ATTAVAR",MANGALURU,575001,"DCIT CENTRAL CIR 2 MANGALURU",6
+"Central Board of Direct Taxes (Income Tax)","ADDL.CIT CENTRAL RANGE PANAJI",CLCBG,"DCIT CENTRAL CIRCLE BELAGAVI",BELAGAVI,NA,NA,NA,"DCIT CENTRAL CIRCLE BELAGAVI",6
+"Central Board of Direct Taxes (Income Tax)","ADDL.CIT CENTRAL RANGE PANAJI",CLCBL,"DCIT CENTRAL CIRCLE BALLARI",BALLARI,NA,NA,NA,"DCIT CENTRAL CIRCLE BALLARI",6
+"Central Board of Direct Taxes (Income Tax)","ADDL.CIT CENTRAL RANGE PANAJI",CLCHB,"DCIT CENRAL CIRCLE HUBBALLI",HUBBALLI,NA,NA,NA,"DCIT CENTRAL CIRCLE HUBBALLI",6
+"Central Board of Direct Taxes (Income Tax)","ADDL.CIT CENTRAL RANGE MANGALURU",CLCHS,"DCIT CENTRAL CIRCLE HASSAN",HASSAN,NA,NA,NA,"DCIT CENTRAL CIRCLE HASSAN",6
+"Central Board of Direct Taxes (Income Tax)","ADDL.CIT CENTRAL RANGE MANGALURU",CLCMY,"DCIT CENTRAL CIRCLE MYSURU",MYSURU,NA,NA,NA,"DCIT CENTRAL CIRCLE MYSURU",6
+"Central Board of Direct Taxes (Income Tax)","ADDL.CIT CENTRAL RANGE PANAJI",CLCPJ,"DCIT CENTRAL CIRCLE PANAJI",PANAJI,NA,NA,NA,"DCIT CENTRAL CIRCLE PANAJI",6
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX LUDHIANA",CLDH1,"Commissioner of Income Tax LUDHIANA I","Aayakar Bhawan","Rishi Nagar",Ludhiana,141001,"Pr. CIT",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX LUDHIANA",CLDH2,"Commissioner of Income Tax LUDHIANA II","Aayakar Bhawan","Rishi Nagar",Ludhiana,141001,"Pr.CIT 2 Ludhiana",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX LUDHIANA",CLDH3,"Commissioner of Income Tax LUDHIANA III","Aayakar BhawanRishi NagarLudhiana",NA,NA,141001,"Pr. CIT3",3
+"Central Board of Direct Taxes (Income Tax)","Jt. Commissioner of Income tax",CLONE,Circle3.1,"Room No 503  Aayakar Bhawan","Race Course  Vadodara",Vadodara,390007,"DCIT Cirlcle 3.1",5
+"Central Board of Direct Taxes (Income Tax)","CCIT 1 KOLKATA",CLTUK,"CIT LTU KOLKATA","Aayakar Bhawan Poorva","110  Shantipally  Kolkata",NA,700107,"CIT LTU KOLKATA",4
+"Central Board of Direct Taxes (Income Tax)","JCIT ONGOLE RANGE ONGOLE",CLXW1,"INCOME TAX OFFICE CHIRALA","9-1-69  CHURCH ROAD",CHIRALA,"PRAKASAM DISTRICT",523155,"INCOME TAX OFFICER",6
+"Central Board of Direct Taxes (Income Tax)","Commissioner of Income Tax Ahmedabad 3",CMD31,"Addl. CIT Range 3.1","B-410  Pratyaksh Kar Bhawan",Ambawadi,Ahmedabad,380015,"Addl. CIT Range 3.1 Ahmedabad",4
+"Central Board of Direct Taxes (Income Tax)","Commissioner of Income Tax Ahmedabad 3",CMD32,"Joint CIT Range 3.2","A-510  Pratyaksh Kar Bhawan",Ambawadi,Ahmedabad,380015,"Joint CIT Range 3.2 Ahmedabad",4
+"Central Board of Direct Taxes (Income Tax)","Commissioner of Income Tax Ahmedabad 3",CMD33,"Jt. CIT Range 3.3","Room 510 Fith FloorPratyaksh Kar BhawanAmbawadi",NA,NA,380015,"Joint CIT 3.3 Ahmedabad",4
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOMETAX INTERNATIONAL TAX",CMIT1,"CIT International Taxation 1","Room No. 107  1st Floor  Scindia House","Ballard Pier  Ballard Estate",Mumbai,400038,"CIT IT 1",4
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOMETAX INTERNATIONAL TAX",CMIT2,"CIT International taxation 2","1706  AIR INDIA BUILDING","NARIMAN POINT  MUMBAI",NA,400021,"CIT IT 2",4
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOMETAX INTERNATIONAL TAX",CMIT3,"CIT International Taxation 3","AIR INDIA BLDG. 16TH FLOOR","NARIMAN POINT CHURCHGATE",MUMBAI,400021,"CIT IT 3",4
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOMETAX INTERNATIONAL TAX",CMIT4,"CIT IT 4","Air India Building  Nariman Point","Churchgate Mumbai",NA,400021,"CIT IT 4",4
+"Central Board of Direct Taxes (Income Tax)","Pr. CIT Central Kanpur",CENMT,"CENTRAL RANGE MEERUT","AAYAKAR BHAWAN","BHAISALI GROUND MEERUT",NA,NA,"Addl. CIT",5
+"Central Board of Direct Taxes (Income Tax)","CIT CENTRAL I",CENR1,"CENTRAL RANGE 1 MUMBAI","ROOM NO.901 9TH FLOOR CGO BUILDING PRATISHTHA BHAW","AN M K ROAD MUMBAI",NA,400020,"ADDL CIT CENTRAL RANGE 1",5
+"Central Board of Direct Taxes (Income Tax)","CIT CENTRAL I",CENR2,"CENTRAL RANGE 2","ROOM NO.801 8TH FLOOR","PRATISHTHA BHAWAN OLD CGO BUILDING ANNEXE","M K ROAD MUMBAI",400020,"ADDL CIT CEN. RG. 2 MUMBAI",5
+"Central Board of Direct Taxes (Income Tax)","Pr. CIT Cen 3",CENR5,"Addl CIT CR 5 Mumbai","19th Floor  Room No.1910 Air India Building","Nariman Point",Mumbai,400021,"Addl.C.I.T. C.R 5 Mumbai",5
+"Central Board of Direct Taxes (Income Tax)","Pr. CIT Cen 3",CENR6,"Addl CIT CR 6 Mumbai","19th Floor  Room No.1909","Air India Building  Nariman Point",Mumbai,400021,"Addl. C.I.T. C.R 6 Mumbai",5
+"Central Board of Direct Taxes (Income Tax)","CIT CENTRAL IV",CENR8,"JCIT CR 8 Mumbai","Room No 657","Aayakar Bhawan  M K Road",Mumbai,NA,"Addl. CIT CR 8 Mumbai",5
+"Central Board of Direct Taxes (Income Tax)","Pr. CIT(Central),  Lucknow",CENRL,"Income Tax Department","27/2 PeeKay Complex","Raja Ram Mohan Rai Marg",Lucknow,226001,"JCIT Central Range Lucknow",5
+"Central Board of Direct Taxes (Income Tax)","Pr. CIT(Central),  Lucknow",CENRV,"Income Tax Department","Aayakar Bhawan","Maqbool Alam Road",Varanasi,221002,"Addl.CIT CentralRange Varanasi",5
+"Central Board of Direct Taxes (Income Tax)","Pr. Commissioner of Income Tax Central-I",CENT1,"CENTRAL RANGE 1","Room No. 335 E-2 ARA Centre Jhandewalan",NA,NA,110002,"JT. CIT CR 1",4
+"Central Board of Direct Taxes (Income Tax)","Pr. Commissioner of Income Tax Central-I",CENT2,"CENTRAL RANGE 2","ARA CENTRE JHANDEWALAN EXTN.",NA,NA,110055,"ADDL. CIT CR 2",4
+"Central Board of Direct Taxes (Income Tax)","Pr. Commissioner of Income Tax Central-I",CENT3,"CENTRAL RANGE 3","ARA CENTER JHANDEWALAN",NA,NA,110055,"ADDL. CIT CR 3",4
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax (Central)-I, Mumbai",CENTI,"CIT CENTRAL I","ROOM NO1001  CGO BLDG  NEW MARINE LINES CHURCHGATE",NA,NA,400020,"PCIT CENTRAL I",4
+"Central Board of Direct Taxes (Income Tax)","CENTRAL RANGE 1",CEN01,"DCIT CENTRAL CIRCLE 1","ARA CENTRAL",JHANDEWALAN,DELHI,110055,DCIT,5
+"Central Board of Direct Taxes (Income Tax)","CENTRAL RANGE 1",CEN02,"ACIT CENTRAL CIRCLE 2","ARA CENTRE",JHANDEWALAN,DELHI,110055,ACIT,5
+"Central Board of Direct Taxes (Income Tax)","CENTRAL RANGE 1",CEN03,"DCIT CC 3","ARA CENTRE",JHANDWEWALAN,DELHI,110055,DCIT,5
+"Central Board of Direct Taxes (Income Tax)","CENTRAL RANGE 1",CEN04,"ACIT CC 4","ARA CENTRE",JHANDEWALAN,DELHI,110055,ACIT,5
+"Central Board of Direct Taxes (Income Tax)","CENTRAL RANGE 2",CEN05,"ACIT CC 5","ARA CENTRE",JHANDEWALAN,DELHI,110055,ACIT,5
+"Central Board of Direct Taxes (Income Tax)","CENTRAL RANGE 2",CEN06,"ACIT CENTRAL CIRCLE 06","ARA CENTRE",JHANDEWALAN,DELHI,110055,ACIT,5
+"Central Board of Direct Taxes (Income Tax)","CENTRAL RANGE 2",CEN07,"DCIT CENTRAL CIRCLE 07","ARA CENTER",JHANDEWALAN,DELHI,110055,DCIT,5
+"Central Board of Direct Taxes (Income Tax)","CENTRAL RANGE 2",CEN08,"ACIT CENTRAL CIRCLE 08","ARA CENTER JHANDEWALAN DELHI",NA,NA,110055,DCIT,5
+"Central Board of Direct Taxes (Income Tax)","Addl. Commissioner of Income Tax Central Bhopal",CEN2B,"Dy. Commissioner of Income Tax - Central - 2 - Bhopal","Aayakar Bhawan","Arera Hills  Hoshangabad Road",Bhopal,462011,DCIT,NA
+"Central Board of Direct Taxes (Income Tax)","PR. COMMISSIONER OF INCOME TAX CENTRAL II",CEN2C,"CENTRAL RANGE 4","ARA CENRTRE  JHANDENWALA",NA,NA,NA,"ADDL CIT CR 4",4
+"Central Board of Direct Taxes (Income Tax)","PR. COMMISSIONER OF INCOME TAX CENTRAL II",CEN3C,"CENTRAL RANGE 5","ARA JHANDEWALAN",NA,NA,NA,"ADDL.CIT CR5",4
+"Central Board of Direct Taxes (Income Tax)","PR. COMMISSIONER OF INCOME TAX CENTRAL II",CEN4C,"CENTRAL RANGE 6","ARA JHANDEWALAN",delhi,delhi,110001,"ADDL. CIT CR6",4
+"Central Board of Direct Taxes (Income Tax)","PR. COMMISSIONER OF INCOME TAX CENTRAL II",CEN6C,"Central Range 4","Ara Centre Jhandewalan","New Delhi",NA,110055,"Addl. CIT Central Range 4",4
+"Central Board of Direct Taxes (Income Tax)","JCIT CR 8 Mumbai",CEN81,DCC81,"656  Ayakar Bhawan",M.K.Road,Mumbai,400020,DCC81,6
+"Central Board of Direct Taxes (Income Tax)","JCIT CR 8 Mumbai",CEN82,DCC82,"Ayakan Bhawan",M.K.Road,Mumbai,400020,DCC82,6
+"Central Board of Direct Taxes (Income Tax)","JCIT CR 8 Mumbai",CEN83,DCC83,"Ayakar Bhawan","M.K. ROAD",MUMBAI,400020,DCC83,6
+"Central Board of Direct Taxes (Income Tax)","JCIT CR 8 Mumbai",CEN84,DCC84,"Ayakar Bhawan","M.K. ROAD",Mumbai,400020,DCC84,6
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax (Central)-II, Mumbai",CENC2,"PR. CIT CEN 2","19th flr AIr India Bldg Nariman Point Mumbai",NA,NA,400021,"Pr. CIT C 2",4
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax (Central)-II, Mumbai",CENC3,"Pr. CIT Cen 3","19th  Air India Bldg Nariman Point MumbaI",NA,NA,400021,"Pr CIT Central3",4
+"Central Board of Direct Taxes (Income Tax)","Income Tax Department",CENCA,"DCIT Central Circle Allahabad","Income Tax Office","CIVIL LINES",ALLAHABAD,211001,"DCIT Central Circle Allahabad",6
+"Central Board of Direct Taxes (Income Tax)","Income Tax Department",CENCG,"DCIT Central Circle Gorakhpur","Income Tax Office Gorakhpur",NA,NA,NA,"DCIT Central Circle Gorakhpur",6
+"Central Board of Direct Taxes (Income Tax)","Income Tax Department",CENCV,"DCIT Central Circle Varanasi","Income Tax Office",M.A.ROAD,VARANASI,221002,"DCIT Central Circle Varanasi",6
+"Central Board of Direct Taxes (Income Tax)","Addl. Commissioner of Income Tax Central Bhopal",CEN1B,"Dy. Commissioner of Income Tax - Central - 1 - Bhopal","Aayakar  Bhawan","Hoshangabad Road",Bhopal,462011,DCIT,NA
+"Central Board of Direct Taxes (Income Tax)","Chief Commissioner of Income Tax (Central)-I, Mumbai",CENIV,"CIT CENTRAL IV","ROOM NO 663  AAYAKAR BHAVAN  NEW MARINE LINES CHUR",NA,NA,400020,"PR. CIT CENTRAL 4",4
+"Central Board of Direct Taxes (Income Tax)","Addl. Commissioner of Income Tax Central Bhopal",CENJB,"Dy. Commissioner of Income Tax - Central - JBP","Central Revenue Building","Napier Town",Jabalpur,482001,DCIT,6
+"Central Board of Direct Taxes (Income Tax)","DGIT(Inv),  Lucknow",CENKN,"Pr. CIT Central Kanpur","7/81-B  Tilak Nagar  Kanpur",Kanpur,NA,208002,"Dy. Commissioner of Income Tax",4
+"Central Board of Direct Taxes (Income Tax)","Pr. CIT Central Kanpur",CENKP,"CENTRAL RANGE KANPUR","7/81 B","TILAK NAGAR",KANPUR,208001,"Addl. CIT",5
+"Central Board of Direct Taxes (Income Tax)","DGIT(Inv),  Lucknow",CENLK,"Pr. CIT(Central),  Lucknow","Peekay Complex Raja Ram Mohan Rai Marg Lucknow",NA,NA,226001,"Principal Commissioner of Income Tax - Central",4
+"Central Board of Direct Taxes (Income Tax)","DGIT INVESTIGATION",CESRT,"PR. CIT CENTRAL SURAT","AAYAKAR BHAWAN","MAJURA GATE",SURAT,395001,"PR. CIT CENTRAL SURAT",4
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX MUMBAI",CCT01,"Chief Commissioner of Income Tax 1","Room No.318  3rd Floor  Aayakar Bhawan  Mumbai",NA,NA,400020,CCIT1,3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX MUMBAI",CCT02,"Chief Commissioner of Income Tax 2","339  3rd Floor  Aayakar Bhavan Mumbai",NA,NA,400020,"CCIT 2",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX MUMBAI",CCT03,"Chief Commissioner of Income Tax 3","R.No.351  Aayakar Bhavan Mumbai",NA,NA,400020,"CCIT 3",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX MUMBAI",CCT04,"Chief Commissioner of Income Tax 4","305  3rd Floor  Aayakar Bhavan Mumbai",NA,NA,400020,"CCIT 4",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX MUMBAI",CCT05,"Chief Commissioner of Income Tax 5","323  3rd Floor  Aayakar BhavanMumbai",NA,NA,400020,"CCIT 5",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX MUMBAI",CCT06,"Chief Commissioner of Income Tax 6","Room No.339  Aayakar Bhavan Mumbai",NA,NA,400020,"CCIT 6",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX MUMBAI",CCT07,"Chief Commissioner of Income Tax 7","Room No.422  Aayakar Bhavan",Mumbai,NA,400020,"CCIT 7",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX MUMBAI",CCT08,"Chief Commissioner of Income Tax 8","351  3rd Floor  Aayakar Bhavan  Mumbai",NA,NA,400020,"CCIT 8",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX MUMBAI",CCT09,"Chief Commissioner of Income Tax 9","Room No. 306  Aayakar Bhavan Mumbai",NA,NA,400020,"CCIT 9",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX MUMBAI",CCT10,"Chief Commissioner of Income Tax 10","Room No. 339  Aayakar Bhavan M K Marg Mumbai",NA,NA,400020,"CCIT 10",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX MUMBAI",CCT11,"Chief Commissioner of Income Tax 11","Room No. 103  Aayakar Bhavan Mumbai",NA,NA,NA,"CCIT 11",3
+"Central Board of Direct Taxes (Income Tax)","CENTRAL RANGE 8 NEW DELHI",CCR29,"CENTRAL CIRCLE 29 NEW DELHI","ROOM NO.318","ARA CENTRE  JHANDEWALAN EXTN","NEW DELHI",110055,ACIT,5
+"Central Board of Direct Taxes (Income Tax)","CENTRAL RANGE 8 NEW DELHI",CCR30,"Central Circle 30 New Delhi","Room No 320","ARA CENTRE   JHANDEWALAN","New Delhi",110055,ACIT,5
+"Central Board of Direct Taxes (Income Tax)","CENTRAL RANGE 8 NEW DELHI",CCR31,"CENTRAL CIRCLE 31 NEW DELHI","Room No 343","ARA CENTRE JHANDEWALAN","NEW DELHI",110055,DCIT,5
+"Central Board of Direct Taxes (Income Tax)","CENTRAL RANGE 8 NEW DELHI",CCR32,"CENTRAL CIRCLE 32 NEW DELHI","Room No 359","ARA CENTRE JHANDEWALAN","NEW DELHI",110055,DCIT,5
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX CHANDIGARH",CCSML,"CCIT SHIMLA","RAILWAY ROAD BUILDING","THE MALL",SHIMLA,NA,"CHEIF COMMISSIONER OF IT",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX BANGALORE",CCTDB,"CHIEF COMMISSIONER OF INCOME TAX TDS BANGALORE","C R BUILDING","QUEENS ROAD",BANGALORE,560001,"CCIT TDS BANGALORE",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX MUMBAI",CCTDS,"Chief Commissioner of Income Tax Mumbai TDS","Room No 1000-A  10th Floor KG Mittal Building Mumb",ai,NA,400002,"CCIT TDS",3
+"Central Board of Direct Taxes (Income Tax)","Principal CIT Central Visakhapatnam",CCTPT,ACITCENTRALCIRCLETIRUPATI,"3RD FLOOR  AAYAKAR BHAVAN","K T ROAD",TIRUPATI,517501,"ASST COMMISSIONER OF INCOMETAX",5
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX MUMBAI",CCLTU,"Chief Commissioner of Income Tax, Mumbai (LTU)","29th Floor World Trade Centre","Cuffe Parade  Mumbai",NA,400005,"CCIT LTU",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX MUMBAI",CCM01,"Chief Commissioner of Income Tax, Mumbai-I","322 3rd floor  Aayakar Bhavan","M K Road MUMBAI",NA,400020,"CCIT 1 Mumbai",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX MUMBAI",CCM02,"Chief Commissioner of Income Tax, Mumbai-II","318  3rd Floor  Aayakar Bhavan","M K Road  MUMBAI",NA,400020,"CCIT 2",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX MUMBAI",CCM03,"Chief Commissioner of Income Tax, Mumbai-III","306  3rd floor  Aayakar Bhavan","M K Road",Mumbai,400020,"CCIT 3",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX MUMBAI",CCM04,"Chief Commissioner of Income Tax, Mumbai-IV","339  3rd floor  Aayakar Bhavan","M K Road  MUMBAI",NA,400020,"CCIT 4",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX MUMBAI",CCM05,"Chief Commissioner of Income Tax, Mumbai-V","305  3rd floor  Aayakar Bhavan","M K Road  MUMBAI",NA,400020,"CCIT 5",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX MUMBAI",CCM06,"Chief Commissioner of Income Tax, Mumbai-VI","323  3rd floor  Aayakar Bhavan","M K Road  MUMBAI",NA,400020,"CCIT 6",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX MUMBAI",CCM07,"Chief Commissioner of Income Tax, Mumbai-VII","422  4th floor  Aayakar Bhavan","M K Road  Mumbai",NA,400020,"CCIT 7",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX MUMBAI",CCM08,"Chief Commissioner of Income Tax, Mumbai-VIII","422  4th floor  Aayakar Bhavan","M K Road  MUMBAI",NA,400020,"CCIT 8",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX MUMBAI",CCM09,"Chief Commissioner of Income Tax, Mumbai-IX","422  4th floor  Aayakar Bhavan","M K Road  MUMBAI",NA,400020,"CCIT 9",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX MUMBAI",CCM10,"Chief Commissioner of Income Tax, Mumbai-X","103  first floor  Aayakar Bhavan","M K Road  MUMBAI",NA,400020,"CCIT 10",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX MUMBAI",CCM11,"Chief Commissioner of Income Tax, Mumbai-XI","532  5th Floor  Aayakar Bhavan","M K Road  MUMBAI",NA,400020,"CCIT 09",3
+"Central Board of Direct Taxes (Income Tax)","CENTRAL RANGE CHANDIGARH",CCKNL,"DCIT CC KARNAL","Office of Dy. Commissioner of Income Tax","Central Circle  Karnal","Aayakar Bhawan  Sector-12  Karnal",132008,DCIT,6
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX CHANDIGARH",CCLDH,"CCIT LUDHIANA","AAYAKAR BHAWAN","RISHI NAGAR",LUDHIANA,NA,"CHEIF COMMISSIONER OF IT",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX MUMBAI",CCM13,"Chief Commissioner of Income Tax -11","3rd Floor  Aayakar Bhavan","M K Road  MUMBAI",NA,400020,"CCIT 11",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX MUMBAI",CCMIT,"CHIEF COMMISSIONER OF INCOMETAX INTERNATIONAL TAX","ROOM NO.1703  AIR INDIA BUILDING","NARIMAN POINT",MUMBAI,400021,"CCIT IT",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX MUMBAI",CCMTP,"CCIT Transfer and Pricing","1703  AIR INDIA BLDG",Mumbai,NA,400021,"CCIT TP",3
+"Central Board of Direct Taxes (Income Tax)","PR. COMMISSIONER OF INCOME TAX CENTRAL III",CCN29,"CENTRAL CIRCLE 29 NEW DELHI","ROOM 318","ARA CENTRE  JHANDEWALAN EXTN.","NEW DELHI",110055,ACIT,NA
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX BHOPAL",CCOBH,"Commissioner of Income Tax BHOPAL (CO)","48 Arera Hills  Aayakar Bhawan  Opp. Maida Mill  H","oshangabad Road  Bhopal",NA,462001,"CIT Admn and  TPS",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX CHANDIGARH",CCOCH,"Commissioner of Income Tax (CO), Chandigarh","Aayakar Bhawan",Sector-17E,Chandigarh,160017,CIT,3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX JAIPUR",CCOJP,"Commissioner of Income Tax JAIPUR (CO)","N C R Building","Statue Circle",Jaipur,302005,"CIT C.O. Jaipur",3
+"Central Board of Direct Taxes (Income Tax)","Pr. Chief Commissioner of Income Tax (CCA) (Bihar & Jharkhan",CCOPT,"Commissioner of Income Tax PATNA (CO)","Central Revenue Building 2nd Floor Birchand Patel","Marg Patna",NA,800001,"CIT CO Patna",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX CHANDIGARH",CCPKL,"CCIT PANCHKULA","AAYAKAR BHAWAN","B-43 TO 48  SECTOR 2",PANCHKULA,NA,"CHEIF COMMISSIONER OF IT",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX BANGALORE",CCPNJ,"CCIT PANAJI","AAYAKAR BHAVAN 2ND FLOOR  PLOT NO.5  EDC COMPLEX","PATTO  PANAJI  GOA",NA,403001,"CCIT PANAJI",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX BANGALORE",CCBEN,"CHIEF COMMISSIONER OF INCOME TAX BANGALORE II","C R BUILDING","QUEENS ROAD",BANGALORE,560001,"CCIT BANGALORE II",3
+"Central Board of Direct Taxes (Income Tax)","Addl. Commissioner of Income Tax Central Bhopal",CCGWL,"Asstt. Commissioner of Income Tax - Central - Gwalior","Aayakar Bhawan","Hoshangabad Road",Bhopal,462011,ACIT,6
+"Central Board of Direct Taxes (Income Tax)","Pr. Chief Commissioner of Income Tax Delhi-I",CCIT1,"Chief Commissioner of Income Tax, DELHI-I","Aayaka Bhawan","C.R.Building I P Estate","New Delhi",110002,"CIT Admn. &amp; TPS",3
+"Central Board of Direct Taxes (Income Tax)","Pr. CCIT (CCA) Hyderabad",CCIT2,"Chief Commissioner of Income Tax, Hyderabad","9th Floor  I.T. Towers","Masab Tank",Hyderabad,500004,"ITO H.Qrs. CCIT Hyd.",3
+"Central Board of Direct Taxes (Income Tax)","Pr. CCIT (CCA) Hyderabad",CCIT3,"Chief Commissioner of Income Tax, HYDERABAD-III","Room No-921  9-B  9th Floor  IT Towers","10-2-3  A.C Guards  Masab Tank",Hyderabad,500004,"CCIT III HYDERABAD",3
+"Central Board of Direct Taxes (Income Tax)","Pr. CCIT (CCA) Hyderabad",CCIT4,"Chief Commissioner of Income Tax, VISHAKHAPATNAM","Room No-202  II Floor  Aayakar Bhavan","Daba Gardens",Visakhapatnam,530020,"CCIT VISAKHAPATNAM",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX BANGALORE",CCITB,"CHIEF COMMISSIONER OF INCOME TAX BANGALORE I","C R BUILDING","QUEENS ROAD",BANGALORE,560001,"CCIT BANGALROE I",3
+"Central Board of Direct Taxes (Income Tax)","COMMISSIONER OF INCOME TAX ITTP PUNE",CCITP,"INTERNATIONAL TAXATION RANGE1","2ND FLOOR B O BHAVAN","PUNE SATARA ROAD PARVATI",PUNE,411009,JT.CIT,5
+"Central Board of Direct Taxes (Income Tax)","Pr. Chief Commissioner of Income Tax (Intl. Tax)",CCITS,"Chief Commissioner of Income Tax Int. South","1st Floor C.R. Building Queens Road Bangalore",NA,NA,560001,"CCIT IT South Zone Bengaluru",3
+"Central Board of Direct Taxes (Income Tax)","Pr. CCIT (CCA) Hyderabad",CCITV,"CHIEF COMMISSIONER OF INCOME TAX VIJAYAWADA","3RD FLOOR SVR PLAZA",MOGALRAJAPURAM,VIJAYAWADA,520010,CCIT,3
+"Central Board of Direct Taxes (Income Tax)","Pr. Chief Commissioner of Income Tax (Intl. Tax)",CCITW,"Chief Commissioner of Income Tax Inter West","ROOM NO. 1701  AIR INDIA BUILDING NARIMAN POINT MU",MBAI,NA,400021,"CCIT IT West Zone Mumbai",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX BANGALORE",CCITX,"CCIT INTERNATIONAL TAXATION","5th Floor  BMTC BUILDING","80 Feet Road  6th Block","Kormangala  Bengaluru",560095,"CCIT INTERNATIONAL TAXATION",3
+"Central Board of Direct Taxes (Income Tax)","CENTRAL RANGE KANPUR",CCKP1,"DCIT CENTRAL CIRCLE1 KANPUR","10/503 LAXMI NIWAS",ALENGANJ,KANPUR,208002,"DY.COMMISSIONER OF INCOME TAX",6
+"Central Board of Direct Taxes (Income Tax)","CENTRAL RANGE KANPUR",CCKP2,"DCIT CENTRAL CIRCLE II KANPUR","10/503  LAXMI NIWAS",ALENGANJ,KANPUR,208002,"DY.COMMISSIONER OF INCOME TAX",6
+"Central Board of Direct Taxes (Income Tax)","Pr. CCIT (CCA) Hyderabad",CCVIJ,"CHIEF COMMISSIONER OF INCOME TAX VIJAYAWADA","3RD FLOOR SVR PLAZA",MOGALRAJAPURAM,VIJAYAWADA,520010,CCIT,3
+"Central Board of Direct Taxes (Income Tax)","Pr. CCIT (CCA) Hyderabad",CCVJA,"CHIEF COMMISSIONER OF INCOME TAX VIJAYAWADA","3RD FLOOR SVR PLAZA MOGALRAJAPURAM VIJAYAWADA",vijayawada,"krishna district",520010,"ITO Hqrs. PR",3
+"Central Board of Direct Taxes (Income Tax)","Income Tax Department",CCVNS,"DCIT CENTRAL CIRCLE VARANASI","Income Tax Office",M.A.ROAD,VARANASI,221002,"DCIT CENTRAL CIRCLE VARANASI",6
+"Central Board of Direct Taxes (Income Tax)","ADDL CIT 13 3",CD131,"Income tax","229  AAYAKAR BHAWAN","M K Road",Mumbai,400020,ACIT13.3.1,6
+"Central Board of Direct Taxes (Income Tax)","ADDL CIT 13 3",CD132,"INCOME TAX","ROOM NO. 229","AAYKAR BHAWAN",MUMBAI,400020,"ACIT 13.3.2",6
+"Central Board of Direct Taxes (Income Tax)","Pr. Chief Commissioner of Income Tax (CCA) (Bihar & Jharkhan",CDHAN,"Commissioner of Income Tax DHANBAD",Dhanbad,NA,NA,NA,CIT,3
+"Central Board of Direct Taxes (Income Tax)","Central Board of Direct Taxes (Income Tax)",CDURG,"CHIEF COMMISSIONER OF INCOME TAX DURGAPUR","Aayakar Bhawan Annex","CITY CENTRE",DURGAPUR,713216,"ITO Hq",2
+"Central Board of Direct Taxes (Income Tax)","DGIT INVESTIGATION",CEAMD,"PR. CIT CENTRAL AHMEDABAD","THIRD FLOOR  AAYAKAR BHAWAN","ASHRAM ROAD",AHMEDABAD,380009,"PR. CIT CENTRAL AHMEDABAD",4
+"Central Board of Direct Taxes (Income Tax)","CENTRAL RANGE 2",CEC21,"CENTRAL CIRCLE21","8TH FLOOR PRTAISTA BHAVAN","MK ROAD","CHURCHGATE  MUMBAI",400020,"DEPUTY COMMISSIONER CENTRAL21",6
+"Central Board of Direct Taxes (Income Tax)","CENTRAL RANGE 2",CEC22,"CENTRAL CIRCLE22","8TH FLOOR PRATISHTA BHAVAN","MK ROAD CHURCHGATE",MUMBAI,400020,"DY COMMISSIONER CENTRAL 22",6
+"Central Board of Direct Taxes (Income Tax)","CENTRAL RANGE 2",CEC23,"CENTRAL CIRCLE 23","8TH FLOOR PRATISHTA BHAVAN","MK ROAD CHURCHGATE",MUMBAI,400020,"DY COMMISSIONER CENTRAL 23",6
+"Central Board of Direct Taxes (Income Tax)","CENTRAL RANGE 2",CEC24,"CENTRAL CIRCLE 24","8TH FLOOR PRATISHTA BHAVAN","MK ROAD CHURCHGATE",MUMBAI,400020,"DY COMMISSIONER CENTRAL 24",6
+"Central Board of Direct Taxes (Income Tax)","AddlCITTDS Range 2 Mumbai",AGD25,ITOTDS25,"706  7TH FLOOR  K G MITTAL HOSPITAL","CHARNI ROAD  MUMBAI",NA,400002,"ITO TDS 2 5",6
+"Central Board of Direct Taxes (Income Tax)","ADDL CIT 9 2",AG092,ITO9.2.4,"623 AAYAKAR BHAVAN",CHURCHGATE,MUMBAI,400020,"INCOME TAX OFFICER",6
+"Central Board of Direct Taxes (Income Tax)","ADDL CIT 9 2",AF092,ITO9.2.3,"601A  AAYAKAR BHAVAN CHURCHGATE MUMBAI",NA,NA,400020,"INCOME TAX OFFICER",6
+"Central Board of Direct Taxes (Income Tax)","ADDL CIT 9 3",AH093,DCIT.9.3.1.MUMBAI,"R.NO.215  2ND FLR  AAYAKAR BHAVAN","CHURCHGATE  MUMBAI.400020",NA,400020,"DY.COMMISSIONER OF INCOME TAX",6
+"Central Board of Direct Taxes (Income Tax)","CIT EXEMPTIONS AHMEDABAD",AHDR1,"ADDL CIT RANGE 1 EXEMPTIONS","Aaykar Bhavan  Vejalpur",NA,NA,NA,"ADDL. CIT  EXE RANGE 1 AHD",4
+"Central Board of Direct Taxes (Income Tax)","CIT EXEMPTIONS AHMEDABAD",AHDR2,"ADDL CIT RANGE 2 EXEMPTIONS","NATURE VIEW",NA,NA,NA,"ADDL. CIT EXE RANGE 2 AHD",4
+"Central Board of Direct Taxes (Income Tax)","ADDL CIT RANGE 1 EXEMPTIONS",AHEBH,"ITO EXE WARD BHAVNAGAR",BHAVNAGAR,NA,NA,NA,"ITO EXE WARD BHAVNAGAR",5
+"Central Board of Direct Taxes (Income Tax)","ADDL CIT RANGE 1 EXEMPTIONS",AHEC1,"DCIT EXE CIRCLE 1 AHMEDABAD","Aayakar Bhavan",Vejalpur,Ahmedabad,NA,"ACIT EXE CIRCLE 1 AHMEDABAD",5
+"Central Board of Direct Taxes (Income Tax)","ADDL CIT RANGE 2 EXEMPTIONS",AHEC2,"DCIT CIRCLE 2 EXE AHMEDABAD","ROOM NO. 607  6TH FLOOR  AAYAKAR BHAVAN  VEJALPUR","NR. SACHIN TOWER",NA,NA,"ACIT CIRCLE 2 EXE AHMEDABAD",5
+"Central Board of Direct Taxes (Income Tax)","ADDL CIT RANGE 1 EXEMPTIONS",AHEPL,"ITO EXE WARD PALANPUR",PALANPUR,NA,NA,NA,"ITO EXE WARD PALANPUR",5
+"Central Board of Direct Taxes (Income Tax)","ADDL CIT RANGE 2 EXEMPTIONS",AHER1,"ITO WARD 1 EXE RAJKOT",RAJKOT,NA,NA,NA,"ITO WARD 1 EXE RAJKOT",5
+"Central Board of Direct Taxes (Income Tax)","ADDL CIT RANGE 2 EXEMPTIONS",AHER2,"ITO WARD 2 EXE RAJKOT","ROOM NO.617  6TH FLOOR","AMRUTA ESTATE","NEAR GIRNAR CINEMA  RAJKOT",NA,"ITO WARD 2 EXE RAJKOT",5
+"Central Board of Direct Taxes (Income Tax)","ADDL CIT RANGE 2 EXEMPTIONS",AHESU,"ITO EXE WARD SURAT",SURAT,NA,NA,NA,"MAHESH K CHAVADA",5
+"Central Board of Direct Taxes (Income Tax)","ADDL CIT RANGE 2 EXEMPTIONS",AHEVA,"ITO EXE WARD VADODARA",VADODARA,NA,NA,NA,"ITO EXE WARD VADODARA",5
+"Central Board of Direct Taxes (Income Tax)","ADDL CIT RANGE 1 EXEMPTIONS",AHEW1,"ITO EXE WARD 1 AHMEDABAD","Aayakar Bhavan",vejalpur,ahmedabad,NA,"ITO EXE WARD 1 AHMEDABAD",5
+"Central Board of Direct Taxes (Income Tax)","ADDL CIT RANGE 1 EXEMPTIONS",AHEW2,"ITO EXE WARD 2 AHMEDABAD",AHMEDABAD,NA,NA,NA,"ITO EXE WARD 2 AHMEDABAD",5
+"Central Board of Direct Taxes (Income Tax)","Central Board of Direct Taxes (Income Tax)",AHMED,"CHIEF COMMISSIONER OF INCOME TAX AHMEDABAD","Pr.CCIT-Gujarat  Ahmedabad Room No.222  Aayakar Bh","avan  Ashram Road  Ahemadabad-380 009",NA,380009,Pr.CCIT,2
+"Central Board of Direct Taxes (Income Tax)","ADDL CIT 9 3",AI093,"A.C.I.T. OSD. 9.3.1. MUMBAI","R NO 419  4TH FLR  AAYKAR BHAVAN","CHURCHGATE  MUMBAI-400020",NA,400020,"ACIT. OSD.9.3.1",6
+"Central Board of Direct Taxes (Income Tax)","ADDL CIT 13 1",AI131,ITO13.1.1,"225  AAYAKAR BHAVAN","M.K. ROAD  CHURCHGATE",MUMBAI,400020,ITO13.1.1,6
+"Central Board of Direct Taxes (Income Tax)","ADDL CIT 13 1",AI132,WARD13.1.2,"225  AAYAKAR BHAVAN","M.K. ROAD  CHURCHGATE",MUMBAI,400020,ITO13.1.2,6
+"Central Board of Direct Taxes (Income Tax)","ADDL CIT 13 1",AI133,WARD13.1.3,"225  AAYAKAR BHAVAN","M.K. ROAD  CHURCHGATE",MUMBAI,400020,ITO13.1.3,6
+"Central Board of Direct Taxes (Income Tax)","ADDL CIT 13 1",AI134,WARD13.1.4,"216B  AAYAKAR BHAVAN","M. K. ROAD  CHURCHGATE",MUMBAI,400020,ITO13.1.4,6
+"Central Board of Direct Taxes (Income Tax)","ADDL CIT 31 1",AI311,ITO31.1.1,"Room No.603  Kautilya BhawanBKCMumbai",NA,NA,400051,"Income tax officer",6
+"Central Board of Direct Taxes (Income Tax)","ADDL CIT 31 1",AI312,"ITO 31.1.2","Room No.604  Kautilya Bhawan",BKC,Mumbai,400051,ITO,6
+"Central Board of Direct Taxes (Income Tax)","ADDL CIT 31 1",AI313,"ITO 31.1.3","Room No.605  Kautilya Bhawan",BKC,Mumbai,400051,ITO,6
+"Central Board of Direct Taxes (Income Tax)","ADDL CIT 31 1",AI314,"ITO 31.1.4","606  Kautilya Bhawan",BKC,Mumbai,400051,ITO,6
+"Central Board of Direct Taxes (Income Tax)","ADDL CIT 31 1",AI315,"ITO 31.1.5","Room No. 607  Kautilya Bhawan",BKC,Mumbai,400051,ITO,6
+"Central Board of Direct Taxes (Income Tax)","CCIT PANAJI",ADVJR,"ADDL COMMISSIONER OF INCOME TAX VIJAYAPURA RANGE","Devoor Building  Behind Godavari Hotel","Athani Road  Vijayapura",Vijayapura,586101,ADDL.CIT,4
+"Central Board of Direct Taxes (Income Tax)","ADDL. DIRECTOR OF INCOME TAX INVESTIGATION",ADVN1,"Asstt. Director of Income Tax Inv.1 Varanasi","Aayakar Bhawan  Maqbool Alam Road  Varanasi",NA,NA,221002,"ADIT Inv.1 Varanasi",6
+"Central Board of Direct Taxes (Income Tax)","ADDL. DIRECTOR OF INCOME TAX INVESTIGATION",ADVN2,"Asstt. Director of Income Tax Inv.2 Varanasi","Aayakar Bhawan  Maqbool Alam Road  Varanasi",NA,NA,221002,"ADIT Inv.2 Varanasi",6
+"Central Board of Direct Taxes (Income Tax)","Pr.DIT Investigation Lucknow",ADVNS,"ADDL. DIRECTOR OF INCOME TAX INVESTIGATION","Room-302 Maqbool Alam Road Aaykar Bhawan Varanasi",NA,NA,221010,"Joint DIRECTOR OF INCOME TAX",5
+"Central Board of Direct Taxes (Income Tax)","CCIT PANAJI",ADUDR,"ADDL COMMISSIONER OF INCOME TAX UDUPI RANGE","AAYAKAR BHAVAN  MALPE ROAD","AADIUDUPI  AMBALAPADI PO",UDUPI,576103,ADDL.CIT,4
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX MUMBAI",ADTEP,"Addl. CIT (Hq.)(Tech), Mumbai","R.No.329  3rd floor","Aayakar Bhavan",Mumbai,400020,"Addl.CIT HQ  Tech.",3
+"Central Board of Direct Taxes (Income Tax)","ADDL CIT 9 2",AE092,ITO9.2.2,"601A AAYAKAR BHAVAN",CHURCHGATE,MUMBAI,400020,"INCOME TAX OFFICER",6
+"Central Board of Direct Taxes (Income Tax)","CCIT PANAJI",ADMR1,"ADDL COMMISSIONER OF INCOME TAX RANGE 1 MANGALURU","C R BUILDING NANDIGUDDA ROAD",ATTAVARA,MANGALURU,575001,"ADDL. CIT",4
+"Central Board of Direct Taxes (Income Tax)","CCIT PANAJI",ADMR2,"ADDL COMMISSIONER OF INCOME TAX RANGE 2 MANGALURU","C R BUILDING NANDIGUDDA ROAD",ATTAVARA,MANGALURU,575001,ADDL.CIT,4
+"Central Board of Direct Taxes (Income Tax)","CCIT PANAJI",ADMGR,"ADDL COMMISSIONER OF INCOME TAX MARGAO","BLESSINGS PIONEER COMMERCIAL COMPLEX","OPP DISTRICT SESSIONS COURT OLD","MARKET MARGAO",403601,ADDL.CIT,4
+"Central Board of Direct Taxes (Income Tax)","Additional CIT Kurnool",ADNW1,"ITO Ward 1 Adoni","Income Tax Office","Near New RTC Bus Stand",Adoni,518301,K.P.Venkateswarlu,6
+"Central Board of Direct Taxes (Income Tax)","DIRECTOR GENERAL OF INCOME TAX (ADMN.)",ADOMS,"Organisation and Management Services","Level -5  East Block-II","R.K. Puram","New Delhi",110066,"Additional Director General",3
+"Central Board of Direct Taxes (Income Tax)","PCIT BANGALORE 2",ADR21,"ADDITIONAL COMMISSIONER OF INCOME TAX C 2.1","BMTC COMPLEX  80 FEET ROAD 6TH BLOCK  KORAMANGALA",BENGALURU,NA,560095,"ADDL.CIT R 2.1",5
+"Central Board of Direct Taxes (Income Tax)","PCIT BANGALORE 2",ADR22,"ADDITIONAL COMMISSIONER OF INCOME TAX R 2.2","BMTC COMPLEX  80 FEET ROAD","6TH BLOCK  KORAMANGALA",BENGALURU,560095,"ADDL.CIT R 2.2",5
+"Central Board of Direct Taxes (Income Tax)","PCIT BANGALORE 2",ADR23,"ADDITIONAL COMMISSIONER OF INCOME TAX R 2.2","BMTC COMPLEX  80 FEET ROAD6TH BLOCK  KORAMANGALABE",NGALURU,NA,560095,"ADDL.CIT R 2.3",5
+"Central Board of Direct Taxes (Income Tax)","PCIT BANGALORE 3",ADR33,"ADDITIONAL COMMISSIONER OF INCOME TAX R 3 3","NO.59  HMT BHAVAN BALLARY ROAD GANGANAGAR  BENGALU",RU,NA,560032,"ADDL.CIT R 3 3",5
+"Central Board of Direct Taxes (Income Tax)","PCIT BANGALORE 5",ADR51,"ADDITIONAL COMMISSIONER OF INCOME TAX R 5 1","BMTC COMPLEX  80 FEET ROAD6TH BLOCK  KORAMANGALABE",NGALURU,NA,560095,"ADDL.CIT R 5 1",5
+"Central Board of Direct Taxes (Income Tax)","PCIT BANGALORE 5",ADR52,"ADDITIONAL COMMISSIONER OF INCOME TAX R 5 2","BMTC COMPLEX  80 FEET ROAD","6TH BLOCK  KORAMANGALA",BENGALURU,560095,"ADDL.CIT R 5 2",5
+"Central Board of Direct Taxes (Income Tax)","PCIT BANGALORE 5",ADR53,"ADDITIONAL COMMISSIONER OF INCOME TAX R 5 3","6th Floor   HMT Bhawan  59  Ganganagar  Bengaluru",NA,NA,560095,"ADDL.CIT R 5 3",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT-18 Kolkata",ADR54,"ADDL CIT RANGE-54 KOLKATA",BAMBOOVILLA,"169 A J C Bose Road",Kolkata,700014,"ADDL CIT R-54 KOL",NA
+"Central Board of Direct Taxes (Income Tax)","CCIT PANAJI",ADRP1,"ADDLCIT RANGE1 PANAJI","AAYAKAR BHAVAN EDC COMPLEX PATTO PLAZA","PATTO PANAJI",NA,403001,JCIT,4
+"Central Board of Direct Taxes (Income Tax)","CCIT PANAJI",ADRP2,"ADDL COMMISSIONER OF INCOME TAX RANGE2","AAYAKAR BHAVAN EDC COMPLEX  PATTO PLAZA","PATTO PANAJI",NA,403001,"ADDL CIT",4
+"Central Board of Direct Taxes (Income Tax)","DIRECTOR GENERAL OF INCOME TAX (HRD)",ADGHR,DIT3,"Jawaharlal Nehru Stadium","2nd Floor  Delhi",NA,110003,ADG,3
+"Central Board of Direct Taxes (Income Tax)","DIRECTOR GENERAL OF INCOME TAX (ADMN.)",ADGIT,"ADG EXAM","5TH FLOOR","MAYUR BHAWAN","NEW DELHI",110001,"Addl. Director General Exam",3
+"Central Board of Direct Taxes (Income Tax)","ADDL. DIRECTOR OF INCOME TAX INVESTIGATION",ADGKP,"Asstt. Director of Income Tax Inv. Varanasi","Aayakar Bhawan  Civil Lines  Gorakhpur",NA,NA,273001,"ADIT Inv. Gorakhpur",6
+"Central Board of Direct Taxes (Income Tax)","DIRECTOR GENERAL OF INCOME TAX (ADMN.)",ADGRE,"ADG R TDS","Room No. 602  6th Floor","Mayur Bhawan","New Delhi",110001,"Additional Director General",3
+"Central Board of Direct Taxes (Income Tax)","DIRECTOR GENERAL OF INCOME TAX (ADMN.)",ADGPR,"ADG PR PP OL","6th Floor","Mayur Bhawan","New Delhi",110001,"Additional Director General",3
+"Central Board of Direct Taxes (Income Tax)","DIRECTOR GENERAL OF INCOME TAX (ADMN.)",ADGTP,"ADG TPS","5th Floor","Mayur Bhawan","New Delhi",110001,"Additional Director General",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX MUMBAI",ADHQP,"Addl. CIT (Hq.)(Personnel), Mumbai","R.No.340  3rd floor  Aayakar Bhavan  Mumbai",NA,NA,400020,"ADDL..CIT HQ Personnel Mumbai",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX MUMBAI",ADHQV,"Addl. CIT HQ Vig. and Tech.","R. No. 329  3rd Floor","Aayakar Bhavan",Mumbai,400020,"Addl. CIT HQ Vig. and Tech.",3
+"Central Board of Direct Taxes (Income Tax)","CCIT PANAJI",ADHR1,"ADDL COMMISSIONER OF INCOME TAX RANGE 1 HUBBALLI","C R BUILDING PUNE BENGALURU ROAD",NAVANAGAR,HUBBALLI,580025,ADDLCIT,4
+"Central Board of Direct Taxes (Income Tax)","CCIT PANAJI",ADHR2,"ADDL COMMISSIONER OF INCOME TAX RANGE 2 HUBBALLI","HDUDA Building  Navanagar",Hubballi,NA,580025,ADDL.CIT,4
+"Central Board of Direct Taxes (Income Tax)","CCIT PANAJI",ADHR3,"ADDL COMMISSIONER OF INCOME TAX RANGE 3 HUBBALLI","C R BUILDING PUNE BENGALURU ROAD",NAVANAGAR,HUBBALLI,580025,ADDL.CIT,4
+"Central Board of Direct Taxes (Income Tax)","ADDL. DIRECTOR OF INCOME TAX INV",ADHLK,"Assistant Director of Income tax Inv. Haldwani","Income tax Office","Civil Lines",Moradabad,NA,"Deputy Director of Income Tax",6
+"Central Board of Direct Taxes (Income Tax)","ADDL. DIRECTOR OF INCOMETAX VISAKHAPATNAM",ADI34,"ADIT UNIT III 4","5TH FLOOR  SHIVA TOWERS",DANAVAIPETA,RAJAMAHENDRAVARAM,533103,"ASST DIRECTOR OF INCOME TAX",NA
+"Central Board of Direct Taxes (Income Tax)","ADDL CIT IT 4 2",ADI42,"ITO IT 4 2 1","Room No. 1728  17th Floor","Air India Building  Nariman Point",Mumbai-400021,400021,"ITO IT 4 2 1",6
+"Central Board of Direct Taxes (Income Tax)","COMMISSIONER OF INCOME TAX IT MUMBAI III",ADIT1,"ADLL.CIT IT 31 MUMBAI","ADLL.CIT (IT) 3(1)  MUMBAI","16TH FLOOR  AIR INDIA BUILDING  NARIMAN POINT",MUMBAI,400021,"ADLL.CIT IT 31 MUMBAI",5
+"Central Board of Direct Taxes (Income Tax)","COMMISSIONER OF INCOME TAX IT MUMBAI III",ADIT2,"ADDL.CIT IT 3 2","16TH FLOOR  AIR INDIA BUILDING  NARIMAN POINT MUMB",AI,NA,400021,"ADDL. CIT IT 3 2 MUMBAI",5
+"Central Board of Direct Taxes (Income Tax)","Director of Income Tax (Intl. Tax)-II, Mumbai",ADIT3,"Addl.DITInternational Taxation 3","Room No. 103  1st Floor","Scindia House  Ballard Estate",Mumbai-,400038,"ADDL.DIT INT.TAXATION RANGE 3",4
+"Central Board of Direct Taxes (Income Tax)","Director of Income Tax (Intl. Tax)-II, Mumbai",ADIT4,"Addl.DIT International Taxaton Range 4","Room No.106  1st Floor","Scindia House  Ballard Estate",Mumbai,400038,"JCIT Int.Taxn Range 3 Mumbai",4
+"Central Board of Direct Taxes (Income Tax)","Commissioner of Income Tax OSD",ADIT5,"office of CIT-OSD- ITBA",ADIT5,"AAYAKAR BHAVA 2ndFloor Vaishali",NA,201010,ADIT-S,4
+"Central Board of Direct Taxes (Income Tax)","Commissioner of Income Tax OSD",ADIT6,"office of the CIT OSD ITBA","Aayakar bhavan",vaishali,NA,201010,ADIT-S,4
+"Central Board of Direct Taxes (Income Tax)",JDIT.INV,ADITD,"Asst. Director of Income Tax Inv. Dhanbad","3rd Floor  Aayakar Bhawan","Luby Circular Road",Dhanbad,826001,"ADIT Inv. Dhanbad",6
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 8 Kolkata",ADJ22,"Addl CIT R 22 Kol","Rafi Ahmed Kidwai Road",NA,NA,700016,"Addl CIT R 22 Kol",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 8 Kolkata",ADJ23,"Addl CIT R 23 Hooghly","Aayakar Bhawan",NA,NA,712101,"Addl CIT R 23 Hooghly",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 8 Kolkata",ADJ24,"Addl CIT R 24 Hooghly","Aayakar bhawan",NA,NA,712101,"Addl CIT R 24 Hooghly",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 11 Kolkata",ADJ31,"Addl CIT R 31 Kol","Middleton Row",NA,NA,700071,"Addl CIT R 31 Kol",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 11 Kolkata",ADJ32,"Addl CIT R 32 Kol","Middleton Row",NA,NA,700071,"Addl CIT R 32 Kol",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 11 Kolkata",ADJ33,"Addl CIT R 33 Kol","Middleton Row",NA,NA,700071,"Raman Garg",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 14 Kolkata",ADJ41,"Addl CIT R 41 Nad","Nadier Para",NA,NA,741101,"Addl CIT R 41 Nad",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 14 Kolkata",ADJ42,"Addl CIT R 42 Msd",Berhampore,NA,NA,742101,"Addl CIT R 42 Msd",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 15 Kolkata",ADJ43,"Addl CIT R 43 Kol","Govt Pl West",NA,NA,700001,"Addl CIT R 43 Kol",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT-18 Kolkata",ADJ52,"Addl CIT R-52 Kolkata","Banboo Villa","169  AJC Bose Road",Kolkata,700014,"Addl CIT Range-52 Kolkata",NA
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 18 Kolkata",ADJ54,"Addl CIT R 54 Kol",Bamboovilla,NA,NA,700014,"Addl CIT R 54 Kol",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT Burdwan",ADJB1,"Addl CIT R 1 Bdn","Aayakar Bhawan",NA,NA,713101,"Addl CIT R 1 Bdn",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT Burdwan",ADJB2,"Addl CIT R 2 Burdwan","Aayakar bhawan",NA,NA,713101,"Addl CIT R 2 Burdwan",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT Burdwan",ADJB3,"Addl CIT R 3 Suri","Aayakar Bhawan",NA,NA,731101,"Addl CIT R 3 Suri",5
+"Central Board of Direct Taxes (Income Tax)","Pr CIT Central 1 Kol",ADJC1,"Addl CIT Central 1 Kol","Aayakar Bhawan Poorva",NA,NA,700107,"Addl CIT Central R 1 Kol",5
+"Central Board of Direct Taxes (Income Tax)","Pr CIT Central 1 Kol",ADJC2,"Addl CIT Central 2 Kol","121 THAHEKHU VILLAGE DIMAPUR NAGALAND",NA,NA,700107,"Addl CIT Central R 2 Kol",5
+"Central Board of Direct Taxes (Income Tax)","Pr CIT Central 2 Kol",ADJC3,"Addl CIT Central R 3 Kol","Aayakar Bhawan Poorva",NA,NA,700107,"Addl CIT Central R 3 Kol",5
+"Central Board of Direct Taxes (Income Tax)","Pr CIT Central 2 Kol",ADJC4,"Addl CIT Central R 4 Kol","Aayakar bhawan Poorva",NA,NA,700107,"Addl CIT Central R 4 Kol",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT Durgapur",ADJD1,"Addl CIT R 1 Dur","Aayakar Bhawan Annexe",NA,NA,713216,"Addl CIT R 1 Dur",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT Durgapur",ADJD2,"Addl CIT R 2 Dur","Aayakar Bhawan Annexe",NA,NA,713216,"Addl CIT R 2 Dur",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT Durgapur",ADJD3,"Addl CIT R 3 Ban","Aayakar Bhawan",NA,NA,722102,"Addl CIT R 3 Ban",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT Jalpaiguri",ADJJ1,"Addl CIT R 1 Jalpaiguri","Central Revenue Building",NA,NA,735101,"JCIT RANGE 1 Jalpaiguri",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT Jalpaiguri",ADJJ2,"Addl CIT R 2 Jalpaiguri","Central Revenue Building",NA,NA,735101,"JCIT RANGE  2 Jalpaiguri",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT Jalpaiguri",ADJJ3,"Addl CIT R 3 Malda","Income Tax Office",NA,NA,732101,"JCIT RANGE- 3 Malda",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 1 Kolkata",ADL01,"Addl.CIT R1 Kol","Aayakar Bhawan  Kolkata",NA,NA,700069,"Addl.CIT R1 Kol",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 1 Kolkata",ADL02,"Addl CIT R 2 Kol","Aayakar Bhawan",NA,NA,700069,"Addl CIT R 2 Kol",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 1 Kolkata",ADL03,"Addl CIT R 3 Kol","Aayakar Bhawan",NA,NA,700069,"Addl CIT R 3 Kol",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 2 Kolkata",ADL04,"Addl CIT R 4 Kol","Aayakar Bhawan","P-7  CHOWRINGHEE SQUARE","8TH FLOOR  KOLKATA-700069",700069,"Addl CIT R 4 Kol",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 2 Kolkata",ADL05,"Addl CIT R 5 Kol","Aayakar Bhawan","P-7  CHOWRINGHEE SQUARE  ROOM-8/18","8TH FLOOR  KOLKATA-700069",700069,"Addl CIT R 5 Kol",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 2 Kolkata",ADL06,"Addl CIT R 6 Kol","Aayakar Bhawan","P-7  CHOWRINGHEE SQUARE","6TH FLOOR  KOLKATA - 700069",700069,"Addl CIT R 6 Kol",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 3 Kolkata",ADL07,"Addl CIT R 7 Kol","Aayakar Bhawan",NA,NA,700069,"Addl CIT R 7 Kol",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 3 Kolkata",ADL08,"Addl CIT R 8 Kol","5th Floor Aayakar Bhawan",NA,NA,700069,"JCIT Range 8 Kolkata",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 3 Kolkata",ADL09,"Addl CIT R 9 Kol","Aayakar Bhawan",NA,NA,700069,"Addl CIT R 9 Kol",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 4 Kolkata",ADL10,"Addl CIT R 10 Kol","Aayakar Bhawan",NA,NA,700069,"Addl CIT R 10 Kol",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 4 Kolkata",ADL11,"Addl CIT R 11 Kol","Aayakar Bhawan",NA,NA,700069,"JOINT CIT R 11 Kol",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 4 Kolkata",ADL12,"Addl CIT R 12 Kol","Aayakar Bhawan  P-7  CHOWRINGHEE SQUARE",NA,NA,700069,"JCIT RANGE 12 Kolkata",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 5 Kolkata",ADL13,"Addl CIT R 13 Kol","Aayakar Bhawan Poorva",NA,NA,700107,"Addl CIT R 13 Kol",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 5 Kolkata",ADL14,"Addl CIT R 14 Kol","Aayar Bhawan Poorva",NA,NA,700107,"Addl CIT R 14 Kol",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 5 Kolkata",ADL15,"Addl CIT R 15 Kol","Aayakar Bhawan Poorva",NA,NA,700107,"Addl CIT R 15 Kol",5
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",ADL22,"Addl.CIT Range 22 Kolkata","54/1 Rafi Ahmed Kidwai Road","4th Floor  R No 3",Kolkata,700016,"Addl.CIT Range 22 Kolkata",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",ADL23,"Addl.CIT Range 23 Kolkata","Aayakar bhawan  G.T.Road  Khadina More","2nd Floor  R No 203","Chimsura  Hooghly",712101,"Addl.CIT Range 23 Kolkata",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",ADL24,"Addl.CIT Range 24 Kolkata","Aayakar bhawan  G.T.Road  Khadina More","2nd Floor  R No 203","Chinsurah  Hooghly",712101,"Addl.CIT Range 24 Kolkata",3
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 9 Kolkata",ADL25,"Addl CIT R 25 Kol","Aayakar Bhawan Dakshin",NA,NA,700068,"Addl CIT R 25 Kol",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 9 Kolkata",ADL26,"Addl CIT R 26 Kol","Aayakar bhawan Dakshin",NA,NA,700068,"Addl CIT R 26 Kol",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 9 Kolkata",ADL27,"Addl CIT R 27 Hal","AAYKAR BHAWAN HALDIA",NA,NA,700068,"LAL MOHAN MAJHI",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 10 Kolkata",ADL28,"Addl CIT R 28 Kol","Aayakar Bhawan Dakshin",NA,NA,700068,"Addl CIT Range 28 Kolkata",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 10 Kolkata",ADL29,"Addl CIT R 29 Kol","Aayakar Bhawan Dakshin",NA,NA,700068,"Addl CIT R 29 Kol",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 10 Kolkata",ADL30,"Addl CIT R 30 Kol","Aayakar Bhawan Dakshin",NA,NA,700068,"Addl CIT R 30 Kol",5
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",ADL31,"Addl.CIT Range 31 Kolkata",I.T.Office,"10B Middleton Row Kolkata",NA,700071,"Addl.CIT Range 31 Kolkata",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",ADL32,"Addl.CIT Range 32 Kolkata",I.T.Office,"10B Middleton Row Kolkata",NA,700071,"Addl.CIT Range 32 Kolkata",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",ADL33,"Addl.CIT Range 33 Kolkata",I.T.Office,"10B Middleton Row Kolkata",NA,700071,"Addl.CIT Range 33 Kolkata",3
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 12 Kolkata",ADL34,"Addl CIT R 34 Kol","Aayakar Bhawan Poorva",NA,NA,700107,"Addl CIT R 34 Kol",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 12 Kolkata",ADL35,"Addl CIT R 35 Kol","Aayakar Bhawan Poorva",NA,NA,700107,"Addl CIT R 35 Kol",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 12 Kolkata",ADL36,"Addl CIT R 36 Kol","Aayakar Bhawan Poorva",NA,NA,700107,"Addl CIT R 36 Kol",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 13 Kolkata",ADL37,"Addl CIT R 37 Kol","Govt Pl West",NA,NA,700001,"Addl CIT R 37 Kol",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 13 Kolkata",ADL38,"Addl CIT R 38 Mid","Amaravati Lodge",NA,NA,721101,"Addl CIT R 38 Mid",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 13 Kolkata",ADL39,"Addl CIT R 39 Mid","Sahoo Bhawan",NA,NA,732101,"Addl CIT R 39 Mid",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 14 Kolkata",ADL40,"Addl CIT R 40 Kol","3 Govt Pl West",NA,NA,700001,"Addl CIT R 40 Kol",5
+"Central Board of Direct Taxes (Income Tax)","Commissioner of Income Tax 4 Mumbai.",ADL41,"Addl CIT 4.1 Mumbai","Room no 641  Aayakar Bhavan  M.K. Road  Mumbai",NA,NA,400020,"Addl. CIT Range 4.1",5
+"Central Board of Direct Taxes (Income Tax)","Commissioner of Income Tax 4 Mumbai.",ADL42,"Addl CIT 4.2 Mumbai","Room no. 639  Aayakar Bhawan  M. K. Road  Mumbai",NA,NA,400020,"Addl. CIT 4.2 Mumbai",5
+"Central Board of Direct Taxes (Income Tax)","Commissioner of Income Tax 4 Mumbai.",ADL43,"Addl. CIT 4.3 Mumbai","Room No. 635  Aayakar Bhawan  M.K. Road  Mumbai",NA,NA,400020,"Addl. CIT 4.3",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 15 Kolkata",ADL44,"Addl CIT R 44 Kol","3 Govt Place West",NA,NA,700001,"JOINT  CIT R -44 Kol",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 15 Kolkata",ADL45,"Addl CIT R 45 Kol","Govt Pl West",NA,NA,700001,"Addl CIT R 45 Kol",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 16 Kolkata",ADL46,"Addl CIT R 46 Kol","Govt Pl West",NA,NA,700001,"Addl CIT R 46 Kol",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 16 Kolkata",ADL47,"Addl CIT R 47 Kol","Govt Pl West",NA,NA,700001,"Addl CIT R 47 Kol",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 16 Kolkata",ADL48,"Addl CIT R 48 Kol","Govt Pl West",NA,NA,700001,"Addl CIT R 48 Kol",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 17 Kolkata",ADL49,"Addl CIT R 49 Kol","Uttarapan Complex",NA,NA,700054,"Addl CIT R 49 Kol",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 17 Kolkata",ADL50,"Addl CIT R 50 Kol","Uttarapan Complex",NA,NA,700054,"Addl CIT R 50 Kol",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 17 Kolkata",ADL51,"Addl CIT R 51 Kol","Uttarapan Complex",NA,NA,700054,"Addl CIT R 51 Kol",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 18 Kolkata",ADL52,"Addl CIT R 52 Kol",Bamboovilla,NA,NA,700014,"Addl CIT R 52 Kol",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 18 Kolkata",ADL53,"Addl CIT R 53 Kol",Bamboovilla,NA,NA,700014,"Addl CIT R 53 Kol",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 18 Kolkata",ADL54,"Addl CIT R 55 Kol",Bamboovilla,NA,NA,700014,"Addl CIT R 54 Kol",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 19 Kolkata",ADL55,"Addl CIT R 55 Kol",Bamboovilla,NA,NA,700014,"Addl CIT R 55 Kol",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 19 Kolkata",ADL56,"Addl CIT R 56 Kol",Bamboovilla,NA,NA,700014,"Addl CIT R 56 Kol",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 19 Kolkata",ADL57,"Addl CIT R 57 Kol",Bamboovilla,NA,NA,700014,"Addl CIT R 57 Kol",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 20 Kolkata",ADL58,"Addl CIT R 58 Kol",Bamboovilla,NA,NA,700014,"Addl CIT R 58 Kol",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 20 Kolkata",ADL59,"Addl CIT R 59 Kol",Bamboovilla,NA,NA,700014,"Addl CIT R 59 Kol",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 20 Kolkata",ADL60,"Addl CIT R 60 Kol",Bamboovilla,NA,NA,700014,"Addl CIT R 60 Kol",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 21 Kolkata",ADL61,"Addl CIT R 61 Kol",Bamboovilla,NA,NA,700014,"Addl CIT R 61 Kol",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 21 Kolkata",ADL62,"Addl CIT R 62 Kol",Bamboovilla,NA,NA,700014,"Addl CIT R 62 Kol",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT 21 Kolkata",ADL63,"Addl CIT R 63",Bamboovilla,NA,NA,700014,"Addl CIT R 63 Kol",5
+"Central Board of Direct Taxes (Income Tax)","PR. COMMISSIONER OF INCOME TAX XXIV",ADL70,"Addl CIT","civic center",delhi,NA,110002,ADDL.CIT,4
+"Central Board of Direct Taxes (Income Tax)","PR. COMMISSIONER OF INCOME TAX XXIV",ADL71,ADDL.CIT71,"CIVIC CENTER",NA,NA,110002,ADDL.CIT,4
+"Central Board of Direct Taxes (Income Tax)","PR. COMMISSIONER OF INCOME TAX XXIV",ADL72,ADDL.CIT,"CIVIC CENTER",NA,NA,110002,ADDL.CIT,4
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT Asansol",ADLA1,"Addl CIT R 1 Asl","Parmar Building",NA,NA,713304,"Addl CIT R 1 Asl",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT Asansol",ADLA2,"Addl CIT R 2 Asl","Parmar Building",NA,NA,713304,"Addl CIT R 2 Asl",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT Asansol",ADLA3,"Addl CIT R 3 Asl","Parmar Building",NA,NA,713304,"Addl CIT R 3 Asl",5
+"Central Board of Direct Taxes (Income Tax)","Pr. CIT Kurnool",ADKDP,"Additional CIT","Kadapa Range  2-430/8 Nagarajupet Kadapa",NA,NA,516001,"Addl CIT Kadapa",5
+"Central Board of Direct Taxes (Income Tax)","Pr. CIT Kurnool",ADKNL,"Additional CIT Kurnool","Aayakar Bhavan","Opp Childrens Park NR Pet",Kurnool,518001,"JCIT Kurnool",5
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",ADLB1,"Addl.CIT Range 1 Burdwan","Court Compound",Burdwan,NA,713101,"Addl.CIT Range 1 Burdwan",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",ADLB2,"Addl.CIT Range 2 Burdwan","Court Compound",Burdwan,NA,713101,"Addl.CIT Range 2 Burdwan",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",ADLB3,"Addl.CIT Range 3 Suri","Aayakar Bhawan",Suri,NA,731101,"Addl.CIT Range 3 Suri",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",ADLC1,"Addl.CIT Range 1 Central Kolkata","Aayakar Bhawan Poorva",Kolkata,NA,700107,"Addl.CIT Range 1 Central Kolka",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",ADLC2,"Addl.CIT Range 2 Central Kolkata","Aayakar Bhawan Poorva",Kolkata,NA,700107,"Addl.CIT Range 2 Central Kol",3
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT Siliguri",ADJS3,"Addl CIT R 3 Slg","Aayakar Bhawan",NA,NA,734101,"Addl CIT R 3 Slg",5
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",ADLD1,"Addl.CIT Range 1 DURGAPUR","Aayakar Bhawan Annexe",Durgapur,NA,713216,"Addl.CIT Range 1 DURGAPUR",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",ADLD2,"Addl.CIT Range 2 Durgapur","Aayakar Bhawan Annexe",Durgapur,NA,713216,"Addl.CIT Range 2 Durgapur",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",ADLD3,"Addl.CIT Range 3 Bankura","Income Tax Office",Bankura,NA,722101,"Addl.CIT Range 3 Bankura",3
+"Central Board of Direct Taxes (Income Tax)","Commissioner of Income Tax, JAMMU",ADLJ1,"Range 1 Jammu","Aayakar Bhawan  Rail Head Complex","Dr. Ambedkar Chowk  Jammu",NA,180012,"Addl. CIT",4
+"Central Board of Direct Taxes (Income Tax)","Commissioner of Income Tax, JAMMU",ADLJ2,"Range 2 Jammu","Aayakar Bhawan  Rail Head Complex Dr. Ambedkar Cho","wk  Jammu",NA,180012,"ADDL. CIT",4
+"Central Board of Direct Taxes (Income Tax)","Pr.DIT Investigation Lucknow",ADLKO,"ADDL. DIRECTOR OF INCOME TAX INV","5  Ashok Marg  Aayakar Bhawan Lucknow",NA,NA,226001,"Joint Director of Income Tax",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT Siliguri",ADLS1,"Addl CIT R 1 Slg","Aayakar bhawan",NA,NA,734101,"Joint CIT R 1 Slg",5
+"Central Board of Direct Taxes (Income Tax)","Pr.CIT Siliguri",ADLS2,"Addl CIT R 2 Slg","Aayakar bhawan",NA,NA,734101,"Joint CIT R 2 Slg",5
+"Central Board of Direct Taxes (Income Tax)","Commissioner of Income Tax, JAMMU",ADLS3,"Range 3 Srinagar","Income Tax Office Shah House  Post office Lane Raj","Bagh  Srinagar",NA,190008,"ADDL. CIT",4
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX AHMEDABAD",ADMAM,"CIT ADMN TPS","2ND FLOOR  AAYKAR BHAVAN","ASHRAM ROAD",AHMEDABAD,380009,"CIT ADMN TPS",3
+"Central Board of Direct Taxes (Income Tax)","ADDL. DIRECTOR OF INCOME TAX INV",ADBLK,"Assistant Director of Income tax Inv. Bareilly","Aayakar Bhawan","Civil Lines",Bareilly,243001,"Deputy Director of Income Tax",6
+"Central Board of Direct Taxes (Income Tax)","Commissioner of Income Tax BHOPAL (TDS)",ADBPL,"ADDL. CITTDS Bhopal","48  Aayakar Bhawan Hoshangabad RoadBhopal",NA,NA,462011,"Joint CIT TDS",4
+"Central Board of Direct Taxes (Income Tax)","CCIT PANAJI",ADBR1,"ADDL COMMISSIONER OF INCOME TAX RANGE1 BELAGAVI","BLESSINGS PIONEER COMPLEX  OPP DISTRICT CIVIL","HOSPITAL DR.B R AMBEDKAR HOSPITAL",BELAGAVI,590001,"ADDL CIT",4
+"Central Board of Direct Taxes (Income Tax)","CCIT PANAJI",ADBR2,"ADDL COMMISSIONER OF INCOME TAX R 2 BELAGAVI","FerozKhimjibhai Commercial Complex  Opp. Civil","Hospital  Dr. Ambedkar Road  Belagavi",Belagavi,590001,ADDL.CIT,4
+"Central Board of Direct Taxes (Income Tax)","TDS RANGE JAIPUR",ADC29,"Addl.CIT TDS Jaipur","Room No. 312  NCR Building","Statue Circle",Jaipur,302005,DCIT,5
+"Central Board of Direct Taxes (Income Tax)","Pr. CIT Kurnool",ADATP,"Additional CIT Anantapur","Aayakar Bhavan 3 rd Road  New town Anantapur",NA,NA,515001,"Additional CIT Anantapur",5
+"Central Board of Direct Taxes (Income Tax)","Pr. CCIT (CCA) Hyderabad",ADCHQ,"Admn. & Vigilance","10-C  I.T. TOWERS  A.C. GUARDS","MASAB TANK",HYDERABAD,500004,"ADDL. CIT H.QRS. ADMN. VIG.",3
+"Central Board of Direct Taxes (Income Tax)","Commissioner of Income Tax LTU",ADCIT,"Additional Commissioner of Income Tax LTU","29th Floor World Trade Centre  Cuffe Parade MUMBAI",NA,NA,400005,"JT. CIT LTU",4
+"Central Board of Direct Taxes (Income Tax)","PR. COMMISSIONER OF INCOME TAX 2",ADCKN,"Addl.Commissioner of Incometax Karimnagar","Aayakar Bhavan Near Bus Stand Karimnagar",NA,NA,NA,"Addl.  Commissioner of Incometax",5
+"Central Board of Direct Taxes (Income Tax)","Commissioner of Income tax 12",AD121,"Addl. CIT Rg 121","Rg 12 1 1st flr","AAykar Bhavan New Marine Lines",Mumbai,400020,"Addl CIT",5
+"Central Board of Direct Taxes (Income Tax)","Commissioner of Income tax 12",AD122,"Addl.CIT Rg 122","1st flr Aaykar Bhavan","New Marine Lines","Mumbai 400020",400020,"Addl.CIT Rg 122",5
+"Central Board of Direct Taxes (Income Tax)","Commissioner of Income tax 12",AD123,"Addl.CIT Rg 123","1st flr Aaykar Bhavan","New Marine Lines",Mumbai,400020,"Addl CIT Rg 123",5
+"Central Board of Direct Taxes (Income Tax)","Commissioner of Income Tax",AD131,"Addl. CIT 13.1","Room No. 419B  4th Floor","Aayakar Bhavan  M. K. Road",Mumbai,400020,"Jt. CIT",5
+"Central Board of Direct Taxes (Income Tax)","Commissioner of Income Tax",AD132,"Addl. CIT 13.2","Room No. 419A  4th Floor","M.K. Road  Aayakar Bhavan",Mumbai,400020,"Jt. CIT",5
+"Central Board of Direct Taxes (Income Tax)","Commissioner of Income Tax",AD133,"Addl. CIT 13.3","Room No. 419B  4th Floor","M.K. Road  Aayakar Bhavan",Mumbai,400020,"Jt. CIT",5
+"Central Board of Direct Taxes (Income Tax)","ADDL CIT 9 2",AD092,ITO9.2.1,"601A AAYAKAR BHAVAN",CHURCHGATE,MUMBAI,400020,"INCOME TAX OFFICER",6
+"Central Board of Direct Taxes (Income Tax)","COMMISSIONER OF INCOME TAX 22 MUMBAI",AD223,"ADDITIONAL COMMISSIONER OF INCOME TAX 22 3","Room No. 301  3rd. Floor  Piramal Chambers","Lalbaugh  Parel","Mumbai - 400 012",400012,"ADDL.CIT RANGE 22 3",5
+"Central Board of Direct Taxes (Income Tax)","ADDL. DIRECTOR OF INCOME TAX INV",AD2LK,"Assistant Director of Income tax Inv. 2 Lucknow","Aayakar Bhawan  Annexe  5  Ashok Marg  Lucknow Luc",know,NA,226001,"Deputy Director of Income Tax",6
+"Central Board of Direct Taxes (Income Tax)","ADDL CIT 35 3",AD353,"CIRCLE 353","402 C-12",BKC,MUMBAI,400051,"DCIT 353 MUMBAI",6
+"Central Board of Direct Taxes (Income Tax)","COMMISSIONER OF INCOME TAX IT MUMBAI IV",AD41I,"ADDL. CIT 4 1","1709  17TH FLOOR  AIR INDIA BUILDING  NARIMAN POIN","T MUMBAI",NA,400021,"Joint CIT",5
+"Central Board of Direct Taxes (Income Tax)","CIT IT 4",AD41M,"ADDL. CIT IT41","ROOM NO. 1709  17TH FLOOR AIR INDIA BUILDING  NARI","MAN POINT  MUMBAI",NA,400021,"Joint CIT",5
+"Central Board of Direct Taxes (Income Tax)","COMMISSIONER OF INCOME TAX IT MUMBAI IV",AD42I,"ADDL CIT IT 4 2","1705  17TH FLOOR","AIR INDIA BUILDING  NARIMAN POINT",MUMBAI,400021,"ADDL CIT",5
+"Central Board of Direct Taxes (Income Tax)","CIT IT 4",AD42M,"ADDL. CIT IT 42","1705  17 TH FLOOR","AIR INDIA BUILDING","NARIMAN POINT MUMBAI",400021,"ADDL CIT",5
+"Central Board of Direct Taxes (Income Tax)","COMMISSIONER OF INCOME TAX IT MUMBAI IV",AD43I,"ADDL. CIT. 4 3 MUMBAI","1709  17 TH FLOOR  AIR INDIA BUILDING  NARIMAN POI","NT MUMBAI",NA,400021,"Joint CIT",5
+"Central Board of Direct Taxes (Income Tax)","CIT IT 4",AD43M,"ADDL CIT 4 3 MUMBAI","1709  17TH FLOOR","AIR INDIA BUILDING  NARIMAN POINT",MUMBAI,400021,"JOINT CIT",5
+"Central Board of Direct Taxes (Income Tax)","ADDL. DIRECTOR OF INCOME TAX INVESTIGATION",ADALD,"ADIT Inv. Allahabad","Aayakar Bhawan  Civil Lines",Allahabad,NA,211001,"Asstt. Director of Income Tax",6
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",ADD01,"Addl.CIT Range1 Kolkata","Aayakar Bhawan","7th Floor  R no 16","P7  Chowringhee Square  Kol",700069,"Addl.CIT Range1 Kolkata",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",ADD02,"Addl.CIT Range2 KOLKATA","Aayakar Bhawan","7th Floor  R No 19","P7  Chowringhee Square  Kolkata",700069,"Addl.CIT Range2 KOLKATA",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",ADD03,"Addl.CIT Range3 Kolkata","Aayakar Bhawan","4th Floor  R No 15","P7  Chowringhee Square  Kolkata",700069,"Addl.CIT Range3 Kolkata",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",ADD04,"Addl.CIT Range4 Kolkata","Aayakar Bhawan","8th Floor  R No 8","P7  Chowringhee Square  Kolkata",700069,"Addl.CIT Range4 Kolkata",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",ADD05,"Addl.CIT Range 5 Kolkata","Aayakar Bhawan","Floor No 8  R No 18","P7  Chowringhee Square  Kolkata",700069,"Addl.CIT Range 5 Kolkata",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",ADD06,"Addl.CIT Range 6 Kolkata","Aayakar Bhawan","8th Floor  R No 18","P7  Chowringhee Square  Kolkata",700069,"Addl.CIT Range 6 Kolkata",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",ADD08,"Addl.CIT Range 8 Kolkata","Aayakar Bhawan","5th Floor  R No 20","P7  Chowringhee Square",700069,"Addl.CIT Range 8 Kolkata",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",ADD09,"Addl.CIT Range 9 Kolkata","Aayakar Bhawan","5th Floor  R No 24","P7  Chowringhee Square",700069,"Addl.CIT Range 9 Kolkata",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",ADD10,"Addl.CIT Range 10 Kolkata","Aayakar Bhawan","3rd Floor  R No 63","P7  Chowringhee Square",700069,"Addl.CIT Range 10 Kolkata",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",ADD11,"Addl.CIT Range 11 Kolkata","Aayakar Bhawan","6th Floor  R No 16","P7  Chowringhee Square",700069,"Addl.CIT Range 11 Kolkata",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",ADD12,"Addl.CIT Range 12 Kolkata","Aayakar Bhawan","7th Floor  R No 28","P7  Chowringhee Square",700069,"Addl.CIT Range 12 Kolkata",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",ADD13,"Addl.CIT Range 13 Kolkata","Aayakar Bhawan Poorva","6th Floor  R No 605","P7  Chowringhee Square",700069,"Addl.CIT Range 13 Kolkata",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",ADD14,"Addl.CIT Range 14 Kolkata","Aayakar Bhawan Poorva","6th Floor  R No 604","P7  Chowringhee Square",700069,"Addl.CIT Range 14 Kolkata",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",ADD15,"Addl.CIT Range 15 Kolkata","Aayakar Bhawan Poorva","4th Floor  R No 405","P7  Chowringhee Square",700069,"Addl.CIT Range 15 Kolkata",3
+"Central Board of Direct Taxes (Income Tax)","COMMISSIONER OF INCOME TAX 2 MUMBAI",ADD21,"ADDL CIT 21","ROOM NO 551 AAYAKAR BHAVAN",M.K.ROAD,MUMBAI,400020,"ADDL.C.I.T RANGE 2 1",5
+"Central Board of Direct Taxes (Income Tax)","COMMISSIONER OF INCOME TAX 2 MUMBAI",ADD22,"ADDL CIT 22","ROOM NO 548 AAYAKAR BHAVAN",M.K.ROAD,MUMBAI,400020,"ADDL.C.I.T RANGE 2 2",5
+"Central Board of Direct Taxes (Income Tax)","COMMISSIONER OF INCOME TAX 2 MUMBAI",ADD23,"ADDL C I T RG.  2 3","ROOM NO 546  AAYKAR BHAVAN",MUMBAI,NA,400020,"ADDL CIT RANGE 2 3",5
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",ADD25,"Addl. CIT Range 25 Kolkata","Aayakar bhawan Dakshin","2 Gariahat Road South",Kolkata,700068,"Addl. CIT Range 25 Kolkata",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",ADD26,"Addl.CIT Range 26 Kolkata","Aayakar Bhawan Dakshin","2 Gariahat Road South",Kolkata,700068,"Addl.CIT Range 26 Kolkata",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",ADD27,"Addl. Range 27 Kolkata","Aayakar Bhawan Dakshin","2 Gariahat Road South",Kolkata,700068,"Addl. Range 27 Kolkata",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",ADD28,"Addl. Range 28 Kolkata","Aayakar Bhawan Dakshin","2 Gariahat Road South",Kolkata,700068,"Addl. Range 28 Kolkata",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",ADD29,"Addl. CIT Range 29 Kolkata","Aayakar Bhawan Dakshin","2 Gariahat Road South",Kolkata,700068,"Addl. CIT Range 29 Kolkata",3
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",ADD30,"Addl. CIT Range 30 Kolkata","Aayakar Bhawan Dakshin","2 Gariahat Road South",Kolkata,700068,"Addl. CIT Range 30 Kolkata",3
+"Central Board of Direct Taxes (Income Tax)","COMMISSIONER OF INCOME TAX 3 MUMBAI",ADD31,"Addl.CIT Rg31","R.No.604  6th Flr  Aayakar Bhavan",mumbai,NA,400020,Addl.CIT,5
+"Central Board of Direct Taxes (Income Tax)","COMMISSIONER OF INCOME TAX 3 MUMBAI",ADD32,AddlCIT32,"R.No.605  6th Floor Aayakar Bhavan",NA,NA,400020,Addl.CIT32,5
+"Central Board of Direct Taxes (Income Tax)","CHIEF COMMISSIONER OF INCOME TAX KOLKATA",ADD34,"Addl. CIT Range 34 Kolkata","Aayakar Bhawan Poorva","110 Santipally",Kolkata,700107,"Addl. CIT Range 34 Kolkata",3

@@ -1,0 +1,2666 @@
+{
+  "index_name": "ed0e9b19-982d-4465-a502-468f92ced65a",
+  "title": "Gram Panchayat-wise Rural Sanitation Coverage in Vaishali District of Bihar as on date",
+  "desc": "Gram Panchayat-wise Rural Sanitation Coverage in Vaishali District of Bihar as on date",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Jal Shakti",
+    "Department of Drinking Water and Sanitation"
+  ],
+  "sector": [
+    "Water and Sanitation"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1688360303,
+  "updated": 1688364919,
+  "created_date": "2023-07-03T06:58:23Z",
+  "updated_date": "2023-07-03T11:45:19Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "sbm",
+    "type": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+    "field": "ed0e9b19-982d-4465-a502-468f92ced65a"
+  },
+  "field": [
+    {
+      "id": "statename",
+      "name": "StateName",
+      "type": "keyword"
+    },
+    {
+      "id": "districtname",
+      "name": "DistrictName",
+      "type": "keyword"
+    },
+    {
+      "id": "blockname",
+      "name": "BlockName",
+      "type": "keyword"
+    },
+    {
+      "id": "grampanchayatname",
+      "name": "GramPanchayatName",
+      "type": "keyword"
+    },
+    {
+      "id": "ihhltotalasperdetails",
+      "name": "IHHLTotalAsPerDetails",
+      "type": "double"
+    },
+    {
+      "id": "ihhltotalach",
+      "name": "IHHLTotalAch",
+      "type": "double"
+    },
+    {
+      "id": "date",
+      "name": "Date",
+      "type": "keyword"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 288,
+  "count": 288,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "BHAGWANPUR",
+      "grampanchayatname": "AKBAR MALAHI",
+      "ihhltotalasperdetails": 2035,
+      "ihhltotalach": 2035,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "BHAGWANPUR",
+      "grampanchayatname": "ASOEE LACHHIRAM",
+      "ihhltotalasperdetails": 1182,
+      "ihhltotalach": 1182,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "BHAGWANPUR",
+      "grampanchayatname": "BAFAPUR BANTHU",
+      "ihhltotalasperdetails": 1695,
+      "ihhltotalach": 1695,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "BHAGWANPUR",
+      "grampanchayatname": "HARWANSHPUR BANTHU",
+      "ihhltotalasperdetails": 2226,
+      "ihhltotalach": 2226,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "BHAGWANPUR",
+      "grampanchayatname": "HUSAINA KHURD",
+      "ihhltotalasperdetails": 1198,
+      "ihhltotalach": 1198,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "BHAGWANPUR",
+      "grampanchayatname": "JAHANGIRPUR PATEDHA",
+      "ihhltotalasperdetails": 1578,
+      "ihhltotalach": 1578,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "BHAGWANPUR",
+      "grampanchayatname": "KARHARI",
+      "ihhltotalasperdetails": 1437,
+      "ihhltotalach": 1437,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "BHAGWANPUR",
+      "grampanchayatname": "KIRATPUR RAJA RAM",
+      "ihhltotalasperdetails": 1096,
+      "ihhltotalach": 1096,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "BHAGWANPUR",
+      "grampanchayatname": "MADHOPUR MAHODAT",
+      "ihhltotalasperdetails": 1059,
+      "ihhltotalach": 1059,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "BHAGWANPUR",
+      "grampanchayatname": "MADHOPUR RAM",
+      "ihhltotalasperdetails": 1194,
+      "ihhltotalach": 1194,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "BHAGWANPUR",
+      "grampanchayatname": "MAHAMDABAD",
+      "ihhltotalasperdetails": 2716,
+      "ihhltotalach": 2716,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "BHAGWANPUR",
+      "grampanchayatname": "MAJHAULI MAHMADPUR BUZURG",
+      "ihhltotalasperdetails": 1413,
+      "ihhltotalach": 1413,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "BHAGWANPUR",
+      "grampanchayatname": "MANGANPUR",
+      "ihhltotalasperdetails": 1111,
+      "ihhltotalach": 1111,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "BHAGWANPUR",
+      "grampanchayatname": "MIYA BAIRO",
+      "ihhltotalasperdetails": 1885,
+      "ihhltotalach": 1885,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "BHAGWANPUR",
+      "grampanchayatname": "PRATAPTAND  EAST",
+      "ihhltotalasperdetails": 2677,
+      "ihhltotalach": 2677,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "BHAGWANPUR",
+      "grampanchayatname": "PRATAPTAND  WEST",
+      "ihhltotalasperdetails": 981,
+      "ihhltotalach": 981,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "BHAGWANPUR",
+      "grampanchayatname": "RAGHUNATHPUR IMADPUR",
+      "ihhltotalasperdetails": 1232,
+      "ihhltotalach": 1232,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "BHAGWANPUR",
+      "grampanchayatname": "RATANPURA",
+      "ihhltotalasperdetails": 1725,
+      "ihhltotalach": 1725,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "BHAGWANPUR",
+      "grampanchayatname": "SAHATHA",
+      "ihhltotalasperdetails": 2366,
+      "ihhltotalach": 2366,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "BHAGWANPUR",
+      "grampanchayatname": "SHAHMIYA ROHUA",
+      "ihhltotalasperdetails": 1261,
+      "ihhltotalach": 1261,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "BHAGWANPUR",
+      "grampanchayatname": "SHAMBHOPUR KOWARI",
+      "ihhltotalasperdetails": 1222,
+      "ihhltotalach": 1222,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "BIDUPUR",
+      "grampanchayatname": "AMER",
+      "ihhltotalasperdetails": 2884,
+      "ihhltotalach": 2884,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "BIDUPUR",
+      "grampanchayatname": "BAJITPUR SAIDAT",
+      "ihhltotalasperdetails": 3067,
+      "ihhltotalach": 3067,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "BIDUPUR",
+      "grampanchayatname": "BIDUPUR",
+      "ihhltotalasperdetails": 984,
+      "ihhltotalach": 984,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "BIDUPUR",
+      "grampanchayatname": "CHAKATH  KURSI KUSHIYARI",
+      "ihhltotalasperdetails": 1263,
+      "ihhltotalach": 1263,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "BIDUPUR",
+      "grampanchayatname": "CHAKSIKANDAR   (KALYANPUR)",
+      "ihhltotalasperdetails": 1634,
+      "ihhltotalach": 1634,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "BIDUPUR",
+      "grampanchayatname": "CHECHAR",
+      "ihhltotalasperdetails": 1577,
+      "ihhltotalach": 1577,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "BIDUPUR",
+      "grampanchayatname": "DAUD NAGAR",
+      "ihhltotalasperdetails": 585,
+      "ihhltotalach": 585,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "BIDUPUR",
+      "grampanchayatname": "DILAWARPUR GOBARDHAN",
+      "ihhltotalasperdetails": 1559,
+      "ihhltotalach": 1559,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "BIDUPUR",
+      "grampanchayatname": "JURAWANPUR",
+      "ihhltotalasperdetails": 1336,
+      "ihhltotalach": 1336,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "BIDUPUR",
+      "grampanchayatname": "KANCHANPUR",
+      "ihhltotalasperdetails": 2276,
+      "ihhltotalach": 2276,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "BIDUPUR",
+      "grampanchayatname": "KATHAULIA",
+      "ihhltotalasperdetails": "0",
+      "ihhltotalach": "0",
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "BIDUPUR",
+      "grampanchayatname": "KHANPUR PAKRI",
+      "ihhltotalasperdetails": 579,
+      "ihhltotalach": 579,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "BIDUPUR",
+      "grampanchayatname": "KHILWAT",
+      "ihhltotalasperdetails": 997,
+      "ihhltotalach": 997,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "BIDUPUR",
+      "grampanchayatname": "KUTUBPUR",
+      "ihhltotalasperdetails": 4224,
+      "ihhltotalach": 4224,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "BIDUPUR",
+      "grampanchayatname": "MAILE",
+      "ihhltotalasperdetails": 3142,
+      "ihhltotalach": 3142,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "BIDUPUR",
+      "grampanchayatname": "MAJHAULI",
+      "ihhltotalasperdetails": 1774,
+      "ihhltotalach": 1774,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "BIDUPUR",
+      "grampanchayatname": "MAJLISPUR",
+      "ihhltotalasperdetails": 943,
+      "ihhltotalach": 943,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "BIDUPUR",
+      "grampanchayatname": "MATHURA",
+      "ihhltotalasperdetails": 3033,
+      "ihhltotalach": 3033,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "BIDUPUR",
+      "grampanchayatname": "NAWANAGAR",
+      "ihhltotalasperdetails": 2280,
+      "ihhltotalach": 2280,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "BIDUPUR",
+      "grampanchayatname": "RAHIMAPUR",
+      "ihhltotalasperdetails": 1242,
+      "ihhltotalach": 1242,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "BIDUPUR",
+      "grampanchayatname": "RAJASAN",
+      "ihhltotalasperdetails": 2809,
+      "ihhltotalach": 2809,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "BIDUPUR",
+      "grampanchayatname": "SAIDPUR GANESH",
+      "ihhltotalasperdetails": 968,
+      "ihhltotalach": 968,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "BIDUPUR",
+      "grampanchayatname": "SHAHDULLAHPUR",
+      "ihhltotalasperdetails": 1678,
+      "ihhltotalach": 1678,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "BIDUPUR",
+      "grampanchayatname": "SITALPUR KAMALPUR",
+      "ihhltotalasperdetails": 2476,
+      "ihhltotalach": 2476,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "CHEHRAKALA",
+      "grampanchayatname": "ABAVAKARPUR",
+      "ihhltotalasperdetails": 1200,
+      "ihhltotalach": 1200,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "CHEHRAKALA",
+      "grampanchayatname": "AKHTIYARPUR SEHAN",
+      "ihhltotalasperdetails": 1591,
+      "ihhltotalach": 1591,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "CHEHRAKALA",
+      "grampanchayatname": "BASTI SARSIKAN",
+      "ihhltotalasperdetails": 1884,
+      "ihhltotalach": 1884,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "CHEHRAKALA",
+      "grampanchayatname": "CHEHRA KALAN",
+      "ihhltotalasperdetails": 2495,
+      "ihhltotalach": 2495,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "CHEHRAKALA",
+      "grampanchayatname": "CHHAURAHI",
+      "ihhltotalasperdetails": 1805,
+      "ihhltotalach": 1805,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "CHEHRAKALA",
+      "grampanchayatname": "KARHATIYA BUZURG",
+      "ihhltotalasperdetails": 2327,
+      "ihhltotalach": 2327,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "CHEHRAKALA",
+      "grampanchayatname": "KHAJE CHAND CHHAPRA",
+      "ihhltotalasperdetails": 1918,
+      "ihhltotalach": 1918,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "CHEHRAKALA",
+      "grampanchayatname": "MANSURPUR HALAIYA",
+      "ihhltotalasperdetails": 1188,
+      "ihhltotalach": 1188,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "CHEHRAKALA",
+      "grampanchayatname": "MATHNA MILIK",
+      "ihhltotalasperdetails": 1467,
+      "ihhltotalach": 1467,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "CHEHRAKALA",
+      "grampanchayatname": "RASULPUR FATAH",
+      "ihhltotalasperdetails": 1857,
+      "ihhltotalach": 1857,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "CHEHRAKALA",
+      "grampanchayatname": "SHAHPUR KHURD",
+      "ihhltotalasperdetails": 1356,
+      "ihhltotalach": 1356,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "CHEHRAKALA",
+      "grampanchayatname": "VISHUNPUR  ARRA",
+      "ihhltotalasperdetails": 2211,
+      "ihhltotalach": 2211,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "DESRI",
+      "grampanchayatname": "AZAMPUR",
+      "ihhltotalasperdetails": 3231,
+      "ihhltotalach": 3231,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "DESRI",
+      "grampanchayatname": "BHIKHANPURA",
+      "ihhltotalasperdetails": 2780,
+      "ihhltotalach": 2780,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "DESRI",
+      "grampanchayatname": "DESRI",
+      "ihhltotalasperdetails": 3308,
+      "ihhltotalach": 3308,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "DESRI",
+      "grampanchayatname": "DHARAMPUR RAMRAI",
+      "ihhltotalasperdetails": 3080,
+      "ihhltotalach": 3080,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "DESRI",
+      "grampanchayatname": "JAFRABAD",
+      "ihhltotalasperdetails": 1588,
+      "ihhltotalach": 1588,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "DESRI",
+      "grampanchayatname": "JAHANGIRPUR SHAM",
+      "ihhltotalasperdetails": 3930,
+      "ihhltotalach": 3930,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "DESRI",
+      "grampanchayatname": "RASULPUR HABIB",
+      "ihhltotalasperdetails": 3335,
+      "ihhltotalach": 3335,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "DESRI",
+      "grampanchayatname": "UPHRAUL",
+      "ihhltotalasperdetails": 3674,
+      "ihhltotalach": 3674,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "GARAUL",
+      "grampanchayatname": "BAKSAMA",
+      "ihhltotalasperdetails": 1402,
+      "ihhltotalach": 1402,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "GARAUL",
+      "grampanchayatname": "BHANPUR BAREWA",
+      "ihhltotalasperdetails": 1125,
+      "ihhltotalach": 1125,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "GARAUL",
+      "grampanchayatname": "BHUALPUR URF BAHADURPUR",
+      "ihhltotalasperdetails": 825,
+      "ihhltotalach": 825,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "GARAUL",
+      "grampanchayatname": "ENAYAT NAGAR",
+      "ihhltotalasperdetails": 2564,
+      "ihhltotalach": 2564,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "GARAUL",
+      "grampanchayatname": "GORAUL BHAGWANPUR",
+      "ihhltotalasperdetails": 959,
+      "ihhltotalach": 959,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "GARAUL",
+      "grampanchayatname": "ISMAILPUR",
+      "ihhltotalasperdetails": 2940,
+      "ihhltotalach": 2940,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "GARAUL",
+      "grampanchayatname": "KATAR MALA",
+      "ihhltotalasperdetails": 4012,
+      "ihhltotalach": 4012,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "GARAUL",
+      "grampanchayatname": "LODI PUR",
+      "ihhltotalasperdetails": 968,
+      "ihhltotalach": 968,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "GARAUL",
+      "grampanchayatname": "MOHAMADPUR POJHA",
+      "ihhltotalasperdetails": 1179,
+      "ihhltotalach": 1179,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "GARAUL",
+      "grampanchayatname": "PIRAPUR MATHURA",
+      "ihhltotalasperdetails": 1386,
+      "ihhltotalach": 1386,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "GARAUL",
+      "grampanchayatname": "PIROI SHAMSUDDIN",
+      "ihhltotalasperdetails": 1083,
+      "ihhltotalach": 1083,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "GARAUL",
+      "grampanchayatname": "RASULPUR KORIGAWAN",
+      "ihhltotalasperdetails": 1547,
+      "ihhltotalach": 1547,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "GARAUL",
+      "grampanchayatname": "RASULPUR TURKI",
+      "ihhltotalasperdetails": 1487,
+      "ihhltotalach": 1487,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "GARAUL",
+      "grampanchayatname": "SONDHO DULLAH",
+      "ihhltotalasperdetails": 1518,
+      "ihhltotalach": 1518,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "HAJIPUR",
+      "grampanchayatname": "AFAJALPUR DHOBGHATTI",
+      "ihhltotalasperdetails": 1145,
+      "ihhltotalach": 1145,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "HAJIPUR",
+      "grampanchayatname": "ANDHARWARA",
+      "ihhltotalasperdetails": 1758,
+      "ihhltotalach": 1758,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "HAJIPUR",
+      "grampanchayatname": "ARARAH",
+      "ihhltotalasperdetails": 836,
+      "ihhltotalach": 836,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "HAJIPUR",
+      "grampanchayatname": "BAHUARA",
+      "ihhltotalasperdetails": 869,
+      "ihhltotalach": 869,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "HAJIPUR",
+      "grampanchayatname": "BISHUNPUR BALADHARI",
+      "ihhltotalasperdetails": 1498,
+      "ihhltotalach": 1498,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "HAJIPUR",
+      "grampanchayatname": "BISHUNPUR BASANT",
+      "ihhltotalasperdetails": 455,
+      "ihhltotalach": 455,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "HAJIPUR",
+      "grampanchayatname": "CHAKUNDA URF MILKI",
+      "ihhltotalasperdetails": 1143,
+      "ihhltotalach": 1143,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "HAJIPUR",
+      "grampanchayatname": "DAULAT PUR DEWARIA",
+      "ihhltotalasperdetails": 711,
+      "ihhltotalach": 711,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "HAJIPUR",
+      "grampanchayatname": "DAULATPUR CHANDI",
+      "ihhltotalasperdetails": 852,
+      "ihhltotalach": 852,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "HAJIPUR",
+      "grampanchayatname": "DAYALPUR",
+      "ihhltotalasperdetails": 978,
+      "ihhltotalach": 978,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "HAJIPUR",
+      "grampanchayatname": "DIGHIKALA  EAST",
+      "ihhltotalasperdetails": 995,
+      "ihhltotalach": 995,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "HAJIPUR",
+      "grampanchayatname": "DIGHIKALA  WEST",
+      "ihhltotalasperdetails": 1418,
+      "ihhltotalach": 1418,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "HAJIPUR",
+      "grampanchayatname": "GADAI SARAI",
+      "ihhltotalasperdetails": 801,
+      "ihhltotalach": 801,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "HAJIPUR",
+      "grampanchayatname": "GOSHPUR EZRA",
+      "ihhltotalasperdetails": 957,
+      "ihhltotalach": 957,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "HAJIPUR",
+      "grampanchayatname": "HILALPUR",
+      "ihhltotalasperdetails": 682,
+      "ihhltotalach": 682,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "HAJIPUR",
+      "grampanchayatname": "ISHMAILPUR",
+      "ihhltotalasperdetails": 1105,
+      "ihhltotalach": 1105,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "HAJIPUR",
+      "grampanchayatname": "KASHIPUR CHAKBIBI",
+      "ihhltotalasperdetails": 2456,
+      "ihhltotalach": 2456,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "HAJIPUR",
+      "grampanchayatname": "KERNPURA",
+      "ihhltotalasperdetails": 2012,
+      "ihhltotalach": 2012,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "HAJIPUR",
+      "grampanchayatname": "MANUA",
+      "ihhltotalasperdetails": 1668,
+      "ihhltotalach": 1668,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "HAJIPUR",
+      "grampanchayatname": "PAHETIYA",
+      "ihhltotalasperdetails": 1045,
+      "ihhltotalach": 1045,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "HAJIPUR",
+      "grampanchayatname": "PANAPUR LANGA",
+      "ihhltotalasperdetails": 947,
+      "ihhltotalach": 947,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "HAJIPUR",
+      "grampanchayatname": "SENDUARY",
+      "ihhltotalasperdetails": 844,
+      "ihhltotalach": 844,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "HAJIPUR",
+      "grampanchayatname": "SUHDULAH PUR SATAN",
+      "ihhltotalasperdetails": 794,
+      "ihhltotalach": 794,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "HAJIPUR",
+      "grampanchayatname": "SULTANPUR",
+      "ihhltotalasperdetails": 716,
+      "ihhltotalach": 716,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "HAJIPUR",
+      "grampanchayatname": "THATHAN BUZURG",
+      "ihhltotalasperdetails": 607,
+      "ihhltotalach": 607,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "HAJIPUR",
+      "grampanchayatname": "VISHUNPUR VASANT URF SHUBHAI",
+      "ihhltotalasperdetails": 1492,
+      "ihhltotalach": 1492,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "JANDAHA",
+      "grampanchayatname": "ADALPUR",
+      "ihhltotalasperdetails": 1876,
+      "ihhltotalach": 1876,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "JANDAHA",
+      "grampanchayatname": "ARNIYA",
+      "ihhltotalasperdetails": 3253,
+      "ihhltotalach": 3253,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "JANDAHA",
+      "grampanchayatname": "BAHSI SAIDPUR",
+      "ihhltotalasperdetails": 1623,
+      "ihhltotalach": 1623,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "JANDAHA",
+      "grampanchayatname": "BASANTPUR",
+      "ihhltotalasperdetails": 1825,
+      "ihhltotalach": 1825,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "JANDAHA",
+      "grampanchayatname": "BORHAN URF RASULPUR GAUS",
+      "ihhltotalasperdetails": 3165,
+      "ihhltotalach": 3165,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "JANDAHA",
+      "grampanchayatname": "CHAND SARAI",
+      "ihhltotalasperdetails": 2832,
+      "ihhltotalach": 2832,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "JANDAHA",
+      "grampanchayatname": "DIH BUCHAULI",
+      "ihhltotalasperdetails": 2197,
+      "ihhltotalach": 2197,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "JANDAHA",
+      "grampanchayatname": "HARPRASAD",
+      "ihhltotalasperdetails": 1570,
+      "ihhltotalach": 1570,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "JANDAHA",
+      "grampanchayatname": "HAZRAT JANDAHA",
+      "ihhltotalasperdetails": 1789,
+      "ihhltotalach": 1789,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "JANDAHA",
+      "grampanchayatname": "KHOPI",
+      "ihhltotalasperdetails": 3371,
+      "ihhltotalach": 3371,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "JANDAHA",
+      "grampanchayatname": "LAXMIPUR BARHBATTA",
+      "ihhltotalasperdetails": 2765,
+      "ihhltotalach": 2765,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "JANDAHA",
+      "grampanchayatname": "LOMA",
+      "ihhltotalasperdetails": 2304,
+      "ihhltotalach": 2304,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "JANDAHA",
+      "grampanchayatname": "MAHIPURA",
+      "ihhltotalasperdetails": 2644,
+      "ihhltotalach": 2644,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "JANDAHA",
+      "grampanchayatname": "MAHISAUR",
+      "ihhltotalasperdetails": 2232,
+      "ihhltotalach": 2232,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "JANDAHA",
+      "grampanchayatname": "MANSINGHPUR BIJHRAULI",
+      "ihhltotalasperdetails": 2021,
+      "ihhltotalach": 2021,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "JANDAHA",
+      "grampanchayatname": "MOHIUDDINPUR GARAHI",
+      "ihhltotalasperdetails": 1506,
+      "ihhltotalach": 1506,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "JANDAHA",
+      "grampanchayatname": "MUKUNDPUR BHATH",
+      "ihhltotalasperdetails": 936,
+      "ihhltotalach": 936,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "JANDAHA",
+      "grampanchayatname": "NARI KHURD",
+      "ihhltotalasperdetails": 1311,
+      "ihhltotalach": 1311,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "JANDAHA",
+      "grampanchayatname": "PEERAPUR",
+      "ihhltotalasperdetails": 3161,
+      "ihhltotalach": 3161,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "JANDAHA",
+      "grampanchayatname": "RASULPUR PURSHOTTAM",
+      "ihhltotalasperdetails": 2652,
+      "ihhltotalach": 2652,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "JANDAHA",
+      "grampanchayatname": "SAID MOHAMMAD URF SALHA",
+      "ihhltotalasperdetails": 2683,
+      "ihhltotalach": 2683,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "JANDAHA",
+      "grampanchayatname": "SOHRATHI",
+      "ihhltotalasperdetails": 1907,
+      "ihhltotalach": 1907,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "JANDAHA",
+      "grampanchayatname": "VISHUNPUR BEDAULIYA",
+      "ihhltotalasperdetails": 2522,
+      "ihhltotalach": 2522,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "LALGANJ",
+      "grampanchayatname": "ANAWARPUR",
+      "ihhltotalasperdetails": 1646,
+      "ihhltotalach": 1646,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "LALGANJ",
+      "grampanchayatname": "ATWARPUR SISAULA",
+      "ihhltotalasperdetails": 1790,
+      "ihhltotalach": 1790,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "LALGANJ",
+      "grampanchayatname": "BASANTA JAHANABAD",
+      "ihhltotalasperdetails": 2307,
+      "ihhltotalach": 2307,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "LALGANJ",
+      "grampanchayatname": "BHAUTAULI BHAGWAN",
+      "ihhltotalasperdetails": 1191,
+      "ihhltotalach": 1191,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "LALGANJ",
+      "grampanchayatname": "GHATARO CHATURBHUJ  MIDDLE",
+      "ihhltotalasperdetails": 2402,
+      "ihhltotalach": 2402,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "LALGANJ",
+      "grampanchayatname": "GHATARO CHATURBHUJ SOUTH",
+      "ihhltotalasperdetails": 2326,
+      "ihhltotalach": 2326,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "LALGANJ",
+      "grampanchayatname": "GURMIYA",
+      "ihhltotalasperdetails": 1378,
+      "ihhltotalach": 1378,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "LALGANJ",
+      "grampanchayatname": "JALALPUR",
+      "ihhltotalasperdetails": 2276,
+      "ihhltotalach": 2276,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "LALGANJ",
+      "grampanchayatname": "KARATAHA BUZURG",
+      "ihhltotalasperdetails": 2318,
+      "ihhltotalach": 2318,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "LALGANJ",
+      "grampanchayatname": "KHARAUNA",
+      "ihhltotalasperdetails": 1651,
+      "ihhltotalach": 1651,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "LALGANJ",
+      "grampanchayatname": "LAXMI NARAYANPUR",
+      "ihhltotalasperdetails": 974,
+      "ihhltotalach": 974,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "LALGANJ",
+      "grampanchayatname": "PAURA MADAN SINGH",
+      "ihhltotalasperdetails": 1319,
+      "ihhltotalach": 1319,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "LALGANJ",
+      "grampanchayatname": "PURAINIA",
+      "ihhltotalasperdetails": 2141,
+      "ihhltotalach": 2141,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "LALGANJ",
+      "grampanchayatname": "PURAN TAND",
+      "ihhltotalasperdetails": 2122,
+      "ihhltotalach": 2122,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "LALGANJ",
+      "grampanchayatname": "PURKHAULI",
+      "ihhltotalasperdetails": 1615,
+      "ihhltotalach": 1615,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "LALGANJ",
+      "grampanchayatname": "RIKHAR",
+      "ihhltotalasperdetails": 1532,
+      "ihhltotalach": 1532,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "LALGANJ",
+      "grampanchayatname": "SARARIA",
+      "ihhltotalasperdetails": 1733,
+      "ihhltotalach": 1733,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "LALGANJ",
+      "grampanchayatname": "SHAHDULLAHPUR",
+      "ihhltotalasperdetails": 2060,
+      "ihhltotalach": 2060,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "LALGANJ",
+      "grampanchayatname": "SHITAL BHAKURAHAR",
+      "ihhltotalasperdetails": 941,
+      "ihhltotalach": 941,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "LALGANJ",
+      "grampanchayatname": "SIRSA BIRAN",
+      "ihhltotalasperdetails": 1798,
+      "ihhltotalach": 1798,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "LALGANJ",
+      "grampanchayatname": "YUSUFPUR",
+      "ihhltotalasperdetails": 1346,
+      "ihhltotalach": 1346,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "MAHNAR",
+      "grampanchayatname": "ALIPUR HATTA",
+      "ihhltotalasperdetails": 1506,
+      "ihhltotalach": 1506,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "MAHNAR",
+      "grampanchayatname": "BASUDEVPUR CHANDEL",
+      "ihhltotalasperdetails": 1305,
+      "ihhltotalach": 1305,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "MAHNAR",
+      "grampanchayatname": "CHAMARHARA",
+      "ihhltotalasperdetails": 1954,
+      "ihhltotalach": 1954,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "MAHNAR",
+      "grampanchayatname": "DEDHPURA",
+      "ihhltotalasperdetails": 2671,
+      "ihhltotalach": 2671,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "MAHNAR",
+      "grampanchayatname": "GORIGAMA",
+      "ihhltotalasperdetails": 1901,
+      "ihhltotalach": 1901,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "MAHNAR",
+      "grampanchayatname": "HASANPUR NORTH",
+      "ihhltotalasperdetails": 484,
+      "ihhltotalach": 484,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "MAHNAR",
+      "grampanchayatname": "HASANPUR SOUTH",
+      "ihhltotalasperdetails": 1006,
+      "ihhltotalach": 1006,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "MAHNAR",
+      "grampanchayatname": "KARNAUTI",
+      "ihhltotalasperdetails": 1180,
+      "ihhltotalach": 1180,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "MAHNAR",
+      "grampanchayatname": "LAVAPUR MAHNAR",
+      "ihhltotalasperdetails": 2278,
+      "ihhltotalach": 2278,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "MAHNAR",
+      "grampanchayatname": "LAVAPUR NARAYAN",
+      "ihhltotalasperdetails": 1440,
+      "ihhltotalach": 1440,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "MAHNAR",
+      "grampanchayatname": "MAHINDWARA",
+      "ihhltotalasperdetails": 2688,
+      "ihhltotalach": 2688,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "MAHNAR",
+      "grampanchayatname": "MOHMADPUR",
+      "ihhltotalasperdetails": 1277,
+      "ihhltotalach": 1277,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "MAHNAR",
+      "grampanchayatname": "PAHARPUR VISHUNPUR",
+      "ihhltotalasperdetails": 1043,
+      "ihhltotalach": 1043,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "MAHNAR",
+      "grampanchayatname": "SARMASTPUR",
+      "ihhltotalasperdetails": 2449,
+      "ihhltotalach": 2449,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "MAHUA",
+      "grampanchayatname": "BHADWAS",
+      "ihhltotalasperdetails": 598,
+      "ihhltotalach": 598,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "MAHUA",
+      "grampanchayatname": "FATAHPUR PAKRI",
+      "ihhltotalasperdetails": 2022,
+      "ihhltotalach": 2022,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "MAHUA",
+      "grampanchayatname": "FULWARIA",
+      "ihhltotalasperdetails": 2099,
+      "ihhltotalach": 2099,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "MAHUA",
+      "grampanchayatname": "GAUSPUR CHAKMAZAHID",
+      "ihhltotalasperdetails": 1096,
+      "ihhltotalach": 1096,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "MAHUA",
+      "grampanchayatname": "GOVINDPUR",
+      "ihhltotalasperdetails": 971,
+      "ihhltotalach": 971,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "MAHUA",
+      "grampanchayatname": "HASANPUR OSTI",
+      "ihhltotalasperdetails": 2060,
+      "ihhltotalach": 2060,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "MAHUA",
+      "grampanchayatname": "JAHANGIRPUR SALKHANNI",
+      "ihhltotalasperdetails": 1885,
+      "ihhltotalach": 1885,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "MAHUA",
+      "grampanchayatname": "JALALPUR GANGTI",
+      "ihhltotalasperdetails": 733,
+      "ihhltotalach": 733,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "MAHUA",
+      "grampanchayatname": "KANHAULI DHANRAJ",
+      "ihhltotalasperdetails": 716,
+      "ihhltotalach": 716,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "MAHUA",
+      "grampanchayatname": "KANHAULI VISHANPARSI",
+      "ihhltotalasperdetails": 2620,
+      "ihhltotalach": 2620,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "MAHUA",
+      "grampanchayatname": "LAXMI NARAYANPUR",
+      "ihhltotalasperdetails": 1540,
+      "ihhltotalach": 1540,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "MAHUA",
+      "grampanchayatname": "MANGURAHI",
+      "ihhltotalasperdetails": 1563,
+      "ihhltotalach": 1563,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "MAHUA",
+      "grampanchayatname": "MIRZA NAGAR",
+      "ihhltotalasperdetails": 1456,
+      "ihhltotalach": 1456,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "MAHUA",
+      "grampanchayatname": "RAMPUR CHANDRABHAN URF DAGRU",
+      "ihhltotalasperdetails": 2069,
+      "ihhltotalach": 2069,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "MAHUA",
+      "grampanchayatname": "RASALPUR URF MADHAUL",
+      "ihhltotalasperdetails": 1328,
+      "ihhltotalach": 1328,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "MAHUA",
+      "grampanchayatname": "RASULPUR MOBARAK",
+      "ihhltotalasperdetails": 1712,
+      "ihhltotalach": 1712,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "MAHUA",
+      "grampanchayatname": "SAMASPURA",
+      "ihhltotalasperdetails": 1319,
+      "ihhltotalach": 1319,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "MAHUA",
+      "grampanchayatname": "SHERPUR CHATWARA",
+      "ihhltotalasperdetails": 2579,
+      "ihhltotalach": 2579,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "MAHUA",
+      "grampanchayatname": "SHERPUR MANIKPUR",
+      "ihhltotalasperdetails": 1463,
+      "ihhltotalach": 1463,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "MAHUA",
+      "grampanchayatname": "SINGHARA NORTH",
+      "ihhltotalasperdetails": 1685,
+      "ihhltotalach": 1685,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "MAHUA",
+      "grampanchayatname": "SINGHARA SOUTH",
+      "ihhltotalasperdetails": 2129,
+      "ihhltotalach": 2129,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "MAHUA",
+      "grampanchayatname": "SUPAUL TARIA",
+      "ihhltotalasperdetails": 1546,
+      "ihhltotalach": 1546,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "MAHUA",
+      "grampanchayatname": "TAJPUR BUZURG",
+      "ihhltotalasperdetails": 1498,
+      "ihhltotalach": 1498,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "MAHUA",
+      "grampanchayatname": "VISHUNPUR HIRARAM URF PAHARPUR",
+      "ihhltotalasperdetails": 1264,
+      "ihhltotalach": 1264,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "PATEDHI BELSAR",
+      "grampanchayatname": "BELSAR",
+      "ihhltotalasperdetails": 1552,
+      "ihhltotalach": 1552,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "PATEDHI BELSAR",
+      "grampanchayatname": "CHAK GULAMUDDIN",
+      "ihhltotalasperdetails": 1081,
+      "ihhltotalach": 1081,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "PATEDHI BELSAR",
+      "grampanchayatname": "JARANG  RAMPUR",
+      "ihhltotalasperdetails": 1376,
+      "ihhltotalach": 1376,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "PATEDHI BELSAR",
+      "grampanchayatname": "KARNEZI",
+      "ihhltotalasperdetails": 1423,
+      "ihhltotalach": 1423,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "PATEDHI BELSAR",
+      "grampanchayatname": "MANORA",
+      "ihhltotalasperdetails": 1752,
+      "ihhltotalach": 1752,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "PATEDHI BELSAR",
+      "grampanchayatname": "MISHRAULIA AFZALPUR",
+      "ihhltotalasperdetails": 1119,
+      "ihhltotalach": 1119,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "PATEDHI BELSAR",
+      "grampanchayatname": "NAGWA",
+      "ihhltotalasperdetails": 1334,
+      "ihhltotalach": 1334,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "PATEDHI BELSAR",
+      "grampanchayatname": "SAINE",
+      "ihhltotalasperdetails": 1855,
+      "ihhltotalach": 1855,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "PATEDHI BELSAR",
+      "grampanchayatname": "SORHATTHA",
+      "ihhltotalasperdetails": 1694,
+      "ihhltotalach": 1694,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "PATEPUR",
+      "grampanchayatname": "AGRAIL KHURDH",
+      "ihhltotalasperdetails": 487,
+      "ihhltotalach": 487,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "PATEPUR",
+      "grampanchayatname": "ALINAGAR LEVDHAN",
+      "ihhltotalasperdetails": 1127,
+      "ihhltotalach": 1127,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "PATEPUR",
+      "grampanchayatname": "AWABAKARPUR KOAHI",
+      "ihhltotalasperdetails": 903,
+      "ihhltotalach": 903,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "PATEPUR",
+      "grampanchayatname": "AZIZPUR CHANDE",
+      "ihhltotalasperdetails": 540,
+      "ihhltotalach": 540,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "PATEPUR",
+      "grampanchayatname": "BAHUARA",
+      "ihhltotalasperdetails": 1254,
+      "ihhltotalach": 1254,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "PATEPUR",
+      "grampanchayatname": "BAKADH",
+      "ihhltotalasperdetails": 796,
+      "ihhltotalach": 796,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "PATEPUR",
+      "grampanchayatname": "BALIGAON",
+      "ihhltotalasperdetails": 1154,
+      "ihhltotalach": 1154,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "PATEPUR",
+      "grampanchayatname": "BARDIHA TURKI",
+      "ihhltotalasperdetails": 618,
+      "ihhltotalach": 618,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "PATEPUR",
+      "grampanchayatname": "BELA DARGAH",
+      "ihhltotalasperdetails": 1022,
+      "ihhltotalach": 1022,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "PATEPUR",
+      "grampanchayatname": "BHAIROKHARA",
+      "ihhltotalasperdetails": 1077,
+      "ihhltotalach": 1077,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "PATEPUR",
+      "grampanchayatname": "CHAKJADO",
+      "ihhltotalasperdetails": 1383,
+      "ihhltotalach": 1383,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "PATEPUR",
+      "grampanchayatname": "CHANDPUR FATAH",
+      "ihhltotalasperdetails": 1589,
+      "ihhltotalach": 1589,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "PATEPUR",
+      "grampanchayatname": "DABHAICH",
+      "ihhltotalasperdetails": 1039,
+      "ihhltotalach": 1039,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "PATEPUR",
+      "grampanchayatname": "DADHUA",
+      "ihhltotalasperdetails": 1340,
+      "ihhltotalach": 1340,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "PATEPUR",
+      "grampanchayatname": "GOVINDPUR BELA",
+      "ihhltotalasperdetails": 1393,
+      "ihhltotalach": 1393,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "PATEPUR",
+      "grampanchayatname": "HARLOCHANPUR SUKKI",
+      "ihhltotalasperdetails": 897,
+      "ihhltotalach": 897,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "PATEPUR",
+      "grampanchayatname": "KHESRAHI",
+      "ihhltotalasperdetails": 1791,
+      "ihhltotalach": 1791,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "PATEPUR",
+      "grampanchayatname": "KHOYAJPUR BASTI",
+      "ihhltotalasperdetails": 1676,
+      "ihhltotalach": 1676,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "PATEPUR",
+      "grampanchayatname": "LADHO",
+      "ihhltotalasperdetails": 1203,
+      "ihhltotalach": 1203,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "PATEPUR",
+      "grampanchayatname": "MAHTHI DHRAMCHAND",
+      "ihhltotalasperdetails": 2086,
+      "ihhltotalach": 2086,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "PATEPUR",
+      "grampanchayatname": "MALPUR",
+      "ihhltotalasperdetails": 1317,
+      "ihhltotalach": 1317,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "PATEPUR",
+      "grampanchayatname": "MANDAI DIH",
+      "ihhltotalasperdetails": 1543,
+      "ihhltotalach": 1543,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "PATEPUR",
+      "grampanchayatname": "MARUI",
+      "ihhltotalasperdetails": 1123,
+      "ihhltotalach": 1123,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "PATEPUR",
+      "grampanchayatname": "MAUDAH BUZURG",
+      "ihhltotalasperdetails": 1749,
+      "ihhltotalach": 1749,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "PATEPUR",
+      "grampanchayatname": "MAUDAH CHATUR",
+      "ihhltotalasperdetails": 1486,
+      "ihhltotalach": 1486,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "PATEPUR",
+      "grampanchayatname": "NILO RUKUNDPUR",
+      "ihhltotalasperdetails": 1471,
+      "ihhltotalach": 1471,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "PATEPUR",
+      "grampanchayatname": "NIRPUR",
+      "ihhltotalasperdetails": 1252,
+      "ihhltotalach": 1252,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "PATEPUR",
+      "grampanchayatname": "RAGHOPUR NARSANDA",
+      "ihhltotalasperdetails": 673,
+      "ihhltotalach": 673,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "PATEPUR",
+      "grampanchayatname": "SAIDPUR DUMRA",
+      "ihhltotalasperdetails": 782,
+      "ihhltotalach": 782,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "PATEPUR",
+      "grampanchayatname": "SIMARWARA",
+      "ihhltotalasperdetails": 1274,
+      "ihhltotalach": 1274,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "PATEPUR",
+      "grampanchayatname": "TEKNARI",
+      "ihhltotalasperdetails": 1783,
+      "ihhltotalach": 1783,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "PATEPUR",
+      "grampanchayatname": "TISIOUTA DHARAMPUR",
+      "ihhltotalasperdetails": 1577,
+      "ihhltotalach": 1577,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "RAGHOPUR",
+      "grampanchayatname": "BAHRAMPUR",
+      "ihhltotalasperdetails": 592,
+      "ihhltotalach": 592,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "RAGHOPUR",
+      "grampanchayatname": "CHAKSINGAR",
+      "ihhltotalasperdetails": 1248,
+      "ihhltotalach": 1248,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "RAGHOPUR",
+      "grampanchayatname": "CHANDPURA",
+      "ihhltotalasperdetails": 665,
+      "ihhltotalach": 665,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "RAGHOPUR",
+      "grampanchayatname": "FATEHPUR",
+      "ihhltotalasperdetails": 1063,
+      "ihhltotalach": 1063,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "RAGHOPUR",
+      "grampanchayatname": "JAFRABAD TOK",
+      "ihhltotalasperdetails": 607,
+      "ihhltotalach": 607,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "RAGHOPUR",
+      "grampanchayatname": "JAHANGIRPUR",
+      "ihhltotalasperdetails": 1193,
+      "ihhltotalach": 1193,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "RAGHOPUR",
+      "grampanchayatname": "JURAWANPUR BARARI",
+      "ihhltotalasperdetails": 1152,
+      "ihhltotalach": 1152,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "RAGHOPUR",
+      "grampanchayatname": "JURAWANPUR KARARI",
+      "ihhltotalasperdetails": 1883,
+      "ihhltotalach": 1883,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "RAGHOPUR",
+      "grampanchayatname": "MALLIKPUR",
+      "ihhltotalasperdetails": 847,
+      "ihhltotalach": 847,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "RAGHOPUR",
+      "grampanchayatname": "MOHANPUR",
+      "ihhltotalasperdetails": 576,
+      "ihhltotalach": 576,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "RAGHOPUR",
+      "grampanchayatname": "PAHARPUR  WEST",
+      "ihhltotalasperdetails": 733,
+      "ihhltotalach": 733,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "RAGHOPUR",
+      "grampanchayatname": "PAHARPUR EAST",
+      "ihhltotalasperdetails": 905,
+      "ihhltotalach": 905,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "RAGHOPUR",
+      "grampanchayatname": "RAGHOPUR  WEST",
+      "ihhltotalasperdetails": 2421,
+      "ihhltotalach": 2421,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "RAGHOPUR",
+      "grampanchayatname": "RAGHOPUR EAST",
+      "ihhltotalasperdetails": 1581,
+      "ihhltotalach": 1581,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "RAGHOPUR",
+      "grampanchayatname": "RAMPUR SHYAMCHAND",
+      "ihhltotalasperdetails": 2366,
+      "ihhltotalach": 2366,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "RAGHOPUR",
+      "grampanchayatname": "RUSTAMPUR",
+      "ihhltotalasperdetails": 1675,
+      "ihhltotalach": 1675,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "RAGHOPUR",
+      "grampanchayatname": "SAIDABAD",
+      "ihhltotalasperdetails": 1011,
+      "ihhltotalach": 1011,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "RAGHOPUR",
+      "grampanchayatname": "SARAIPUR",
+      "ihhltotalasperdetails": 829,
+      "ihhltotalach": 829,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "RAGHOPUR",
+      "grampanchayatname": "TERASIYA",
+      "ihhltotalasperdetails": 1909,
+      "ihhltotalach": 1909,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "RAGHOPUR",
+      "grampanchayatname": "VIRPUR    (EAST)",
+      "ihhltotalasperdetails": 1214,
+      "ihhltotalach": 1214,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "RAJAPAKAR",
+      "grampanchayatname": "BAIKUNTH PUR",
+      "ihhltotalasperdetails": 1859,
+      "ihhltotalach": 1859,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "RAJAPAKAR",
+      "grampanchayatname": "BAKARPUR",
+      "ihhltotalasperdetails": 2728,
+      "ihhltotalach": 2728,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "RAJAPAKAR",
+      "grampanchayatname": "BAKHRI BARAI",
+      "ihhltotalasperdetails": 2216,
+      "ihhltotalach": 2216,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "RAJAPAKAR",
+      "grampanchayatname": "BERAI",
+      "ihhltotalasperdetails": 1484,
+      "ihhltotalach": 1484,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "RAJAPAKAR",
+      "grampanchayatname": "BHALUI",
+      "ihhltotalasperdetails": 3113,
+      "ihhltotalach": 3113,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "RAJAPAKAR",
+      "grampanchayatname": "JAFARPATTI",
+      "ihhltotalasperdetails": 2185,
+      "ihhltotalach": 2185,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "RAJAPAKAR",
+      "grampanchayatname": "LAGURAO  VILNUPUR",
+      "ihhltotalasperdetails": 2363,
+      "ihhltotalach": 2363,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "RAJAPAKAR",
+      "grampanchayatname": "MIRPUR PATADH",
+      "ihhltotalasperdetails": 2145,
+      "ihhltotalach": 2145,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "RAJAPAKAR",
+      "grampanchayatname": "NARAYANPUR BUZURG",
+      "ihhltotalasperdetails": 2657,
+      "ihhltotalach": 2657,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "RAJAPAKAR",
+      "grampanchayatname": "RAJAPAKAR NORTH",
+      "ihhltotalasperdetails": 1854,
+      "ihhltotalach": 1854,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "RAJAPAKAR",
+      "grampanchayatname": "RAJAPAKAR SOUTH",
+      "ihhltotalasperdetails": 2089,
+      "ihhltotalach": 2089,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "RAJAPAKAR",
+      "grampanchayatname": "RAMPUR RATNAKAR",
+      "ihhltotalasperdetails": 3915,
+      "ihhltotalach": 3915,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "RAJAPAKAR",
+      "grampanchayatname": "VISHUNPUR BALBHDRA  URF GAUSPUR",
+      "ihhltotalasperdetails": 1399,
+      "ihhltotalach": 1399,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "SAHDEI BUZURG",
+      "grampanchayatname": "BAJITPUR CHAK  KASTURI",
+      "ihhltotalasperdetails": 3615,
+      "ihhltotalach": 3615,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "SAHDEI BUZURG",
+      "grampanchayatname": "CHAK JAMAL",
+      "ihhltotalasperdetails": 2960,
+      "ihhltotalach": 2960,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "SAHDEI BUZURG",
+      "grampanchayatname": "CHAKFAIZ",
+      "ihhltotalasperdetails": 4358,
+      "ihhltotalach": 4358,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "SAHDEI BUZURG",
+      "grampanchayatname": "MAZROHI URF SAHARIA",
+      "ihhltotalasperdetails": 4164,
+      "ihhltotalach": 4164,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "SAHDEI BUZURG",
+      "grampanchayatname": "MURAUATPUR",
+      "ihhltotalasperdetails": 3184,
+      "ihhltotalach": 3184,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "SAHDEI BUZURG",
+      "grampanchayatname": "NAYA GAON WEST",
+      "ihhltotalasperdetails": 3202,
+      "ihhltotalach": 3202,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "SAHDEI BUZURG",
+      "grampanchayatname": "NAYAGAON EAST",
+      "ihhltotalasperdetails": 2504,
+      "ihhltotalach": 2504,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "SAHDEI BUZURG",
+      "grampanchayatname": "POHIYAR BUZURG",
+      "ihhltotalasperdetails": 3363,
+      "ihhltotalach": 3363,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "SAHDEI BUZURG",
+      "grampanchayatname": "SAHDEI BUZURG",
+      "ihhltotalasperdetails": 3753,
+      "ihhltotalach": 3753,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "SAHDEI BUZURG",
+      "grampanchayatname": "SALHA",
+      "ihhltotalasperdetails": 4214,
+      "ihhltotalach": 4214,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "SAHDEI BUZURG",
+      "grampanchayatname": "SULTANPUR",
+      "ihhltotalasperdetails": 489,
+      "ihhltotalach": 489,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "VAISHALI",
+      "grampanchayatname": "ABULHASANPUR",
+      "ihhltotalasperdetails": 2105,
+      "ihhltotalach": 2105,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "VAISHALI",
+      "grampanchayatname": "AMRITPUR",
+      "ihhltotalasperdetails": 1779,
+      "ihhltotalach": 1779,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "VAISHALI",
+      "grampanchayatname": "BHAGWANPUR RATTI",
+      "ihhltotalasperdetails": 1450,
+      "ihhltotalach": 1450,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "VAISHALI",
+      "grampanchayatname": "BHAGWATPUR",
+      "ihhltotalasperdetails": 2381,
+      "ihhltotalach": 2381,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "VAISHALI",
+      "grampanchayatname": "CHAK ALAHDAD",
+      "ihhltotalasperdetails": 1543,
+      "ihhltotalach": 1543,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "VAISHALI",
+      "grampanchayatname": "CHINTAMANIPUR",
+      "ihhltotalasperdetails": 1934,
+      "ihhltotalach": 1934,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "VAISHALI",
+      "grampanchayatname": "DAUDNAGAR",
+      "ihhltotalasperdetails": 3943,
+      "ihhltotalach": 3943,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "VAISHALI",
+      "grampanchayatname": "JATKAULI",
+      "ihhltotalasperdetails": 2214,
+      "ihhltotalach": 2214,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "VAISHALI",
+      "grampanchayatname": "MADARNA",
+      "ihhltotalasperdetails": 2503,
+      "ihhltotalach": 2503,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "VAISHALI",
+      "grampanchayatname": "MAJHAULI",
+      "ihhltotalasperdetails": 2155,
+      "ihhltotalach": 2155,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "VAISHALI",
+      "grampanchayatname": "MATAIYA",
+      "ihhltotalasperdetails": 954,
+      "ihhltotalach": 954,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "VAISHALI",
+      "grampanchayatname": "MOHAMMADPUR",
+      "ihhltotalasperdetails": 1640,
+      "ihhltotalach": 1640,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "VAISHALI",
+      "grampanchayatname": "PHULAD",
+      "ihhltotalasperdetails": 3371,
+      "ihhltotalach": 3371,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "VAISHALI",
+      "grampanchayatname": "RAHIMPUR",
+      "ihhltotalasperdetails": 1578,
+      "ihhltotalach": 1578,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "VAISHALI",
+      "grampanchayatname": "SALEMPUR",
+      "ihhltotalasperdetails": 1713,
+      "ihhltotalach": 1713,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "VAISHALI",
+      "blockname": "VAISHALI",
+      "grampanchayatname": "VAISHALI",
+      "ihhltotalasperdetails": 2327,
+      "ihhltotalach": 2327,
+      "date": "5/19/2020 12:00:00 AM"
+    }
+  ]
+}

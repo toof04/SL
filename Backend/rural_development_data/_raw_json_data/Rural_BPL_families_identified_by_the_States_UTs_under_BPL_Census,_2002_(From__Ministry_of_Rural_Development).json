@@ -1,0 +1,274 @@
+{
+  "index_name": "15816b34-4988-42aa-bbde-a6b8fcf9dd26",
+  "title": "Rural BPL families identified by the States/UTs under BPL Census, 2002 (From :Ministry of Rural Development)",
+  "desc": "Rural BPL families identified by the States/UTs under BPL Census, 2002 (From :Ministry of Rural Development)",
+  "org_type": "Central",
+  "org": [
+    "Rajya Sabha"
+  ],
+  "sector": [
+    "All"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "5ba37af5-11d9-4b25-826d-a7a51b2395cd",
+  "visualizable": "0",
+  "active": "1",
+  "created": 1759231551,
+  "updated": 1759231551,
+  "created_date": "2025-09-30T13:25:51Z",
+  "updated_date": "2025-09-30T13:25:51Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "5ba37af5-11d9-4b25-826d-a7a51b2395cd",
+    "field": "15816b34-4988-42aa-bbde-a6b8fcf9dd26"
+  },
+  "field": [
+    {
+      "id": "sl__no_",
+      "name": "Sl. No.",
+      "type": "keyword"
+    },
+    {
+      "id": "states_uts",
+      "name": "States/UTs",
+      "type": "keyword"
+    },
+    {
+      "id": "no__of_bpl_families_identified__in_lakhs_",
+      "name": "No. of BPL families identified (in lakhs)",
+      "type": "double"
+    },
+    {
+      "id": "note_of_no__of_bpl_families_identified__in_lakhs_",
+      "name": "Note of No. of BPL families identified (in lakhs)",
+      "type": "keyword"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 36,
+  "count": 36,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "sl__no_": "1",
+      "states_uts": "Andhra Pradesh",
+      "no__of_bpl_families_identified__in_lakhs_": 29.893,
+      "note_of_no__of_bpl_families_identified__in_lakhs_": "NA"
+    },
+    {
+      "sl__no_": "2",
+      "states_uts": "Arunachal Pradesh",
+      "no__of_bpl_families_identified__in_lakhs_": 0.83,
+      "note_of_no__of_bpl_families_identified__in_lakhs_": "NA"
+    },
+    {
+      "sl__no_": "3",
+      "states_uts": "Assam",
+      "no__of_bpl_families_identified__in_lakhs_": 18.728,
+      "note_of_no__of_bpl_families_identified__in_lakhs_": "NA"
+    },
+    {
+      "sl__no_": "4",
+      "states_uts": "Bihar",
+      "no__of_bpl_families_identified__in_lakhs_": 113.41,
+      "note_of_no__of_bpl_families_identified__in_lakhs_": "NA"
+    },
+    {
+      "sl__no_": "5",
+      "states_uts": "Chhattisgarh",
+      "no__of_bpl_families_identified__in_lakhs_": 17.892,
+      "note_of_no__of_bpl_families_identified__in_lakhs_": "NA"
+    },
+    {
+      "sl__no_": "6",
+      "states_uts": "Delhi",
+      "no__of_bpl_families_identified__in_lakhs_": "NA",
+      "note_of_no__of_bpl_families_identified__in_lakhs_": "NA"
+    },
+    {
+      "sl__no_": "7",
+      "states_uts": "Goa",
+      "no__of_bpl_families_identified__in_lakhs_": 0.071,
+      "note_of_no__of_bpl_families_identified__in_lakhs_": "NA"
+    },
+    {
+      "sl__no_": "8",
+      "states_uts": "Gujarat",
+      "no__of_bpl_families_identified__in_lakhs_": 14.512,
+      "note_of_no__of_bpl_families_identified__in_lakhs_": "NA"
+    },
+    {
+      "sl__no_": "9",
+      "states_uts": "Haryana",
+      "no__of_bpl_families_identified__in_lakhs_": 8.583,
+      "note_of_no__of_bpl_families_identified__in_lakhs_": "NA"
+    },
+    {
+      "sl__no_": "10",
+      "states_uts": "H.P.",
+      "no__of_bpl_families_identified__in_lakhs_": 2.823,
+      "note_of_no__of_bpl_families_identified__in_lakhs_": "NA"
+    },
+    {
+      "sl__no_": "11",
+      "states_uts": "J & K",
+      "no__of_bpl_families_identified__in_lakhs_": 6.179,
+      "note_of_no__of_bpl_families_identified__in_lakhs_": "NA"
+    },
+    {
+      "sl__no_": "12",
+      "states_uts": "Jharkhand",
+      "no__of_bpl_families_identified__in_lakhs_": 25.48,
+      "note_of_no__of_bpl_families_identified__in_lakhs_": "NA"
+    },
+    {
+      "sl__no_": "13",
+      "states_uts": "Karnataka",
+      "no__of_bpl_families_identified__in_lakhs_": 18.306,
+      "note_of_no__of_bpl_families_identified__in_lakhs_": "**"
+    },
+    {
+      "sl__no_": "14",
+      "states_uts": "Kerala",
+      "no__of_bpl_families_identified__in_lakhs_": "NA",
+      "note_of_no__of_bpl_families_identified__in_lakhs_": "NA"
+    },
+    {
+      "sl__no_": "15",
+      "states_uts": "Madhya Pradesh",
+      "no__of_bpl_families_identified__in_lakhs_": 54.684,
+      "note_of_no__of_bpl_families_identified__in_lakhs_": "**"
+    },
+    {
+      "sl__no_": "16",
+      "states_uts": "Maharashtra",
+      "no__of_bpl_families_identified__in_lakhs_": 45.023,
+      "note_of_no__of_bpl_families_identified__in_lakhs_": "**"
+    },
+    {
+      "sl__no_": "17",
+      "states_uts": "Manipur",
+      "no__of_bpl_families_identified__in_lakhs_": 1.693,
+      "note_of_no__of_bpl_families_identified__in_lakhs_": "NA"
+    },
+    {
+      "sl__no_": "18",
+      "states_uts": "Meghalaya",
+      "no__of_bpl_families_identified__in_lakhs_": 2.052,
+      "note_of_no__of_bpl_families_identified__in_lakhs_": "NA"
+    },
+    {
+      "sl__no_": "19",
+      "states_uts": "Mizoram",
+      "no__of_bpl_families_identified__in_lakhs_": 0.395,
+      "note_of_no__of_bpl_families_identified__in_lakhs_": "**"
+    },
+    {
+      "sl__no_": "20",
+      "states_uts": "Nagaland",
+      "no__of_bpl_families_identified__in_lakhs_": 1.558,
+      "note_of_no__of_bpl_families_identified__in_lakhs_": "NA"
+    },
+    {
+      "sl__no_": "21",
+      "states_uts": "Orissa",
+      "no__of_bpl_families_identified__in_lakhs_": "NA",
+      "note_of_no__of_bpl_families_identified__in_lakhs_": "NA"
+    },
+    {
+      "sl__no_": "22",
+      "states_uts": "Punjab",
+      "no__of_bpl_families_identified__in_lakhs_": 3.445,
+      "note_of_no__of_bpl_families_identified__in_lakhs_": "NA"
+    },
+    {
+      "sl__no_": "23",
+      "states_uts": "Rajasthan",
+      "no__of_bpl_families_identified__in_lakhs_": 17.362,
+      "note_of_no__of_bpl_families_identified__in_lakhs_": "NA"
+    },
+    {
+      "sl__no_": "24",
+      "states_uts": "Sikkim",
+      "no__of_bpl_families_identified__in_lakhs_": "NA",
+      "note_of_no__of_bpl_families_identified__in_lakhs_": "NA"
+    },
+    {
+      "sl__no_": "25",
+      "states_uts": "Tamil Nadu",
+      "no__of_bpl_families_identified__in_lakhs_": 34.848,
+      "note_of_no__of_bpl_families_identified__in_lakhs_": "NA"
+    },
+    {
+      "sl__no_": "26",
+      "states_uts": "Tripura",
+      "no__of_bpl_families_identified__in_lakhs_": "NA",
+      "note_of_no__of_bpl_families_identified__in_lakhs_": "NA"
+    },
+    {
+      "sl__no_": "27",
+      "states_uts": "Uttar Pradesh",
+      "no__of_bpl_families_identified__in_lakhs_": 100.271,
+      "note_of_no__of_bpl_families_identified__in_lakhs_": "NA"
+    },
+    {
+      "sl__no_": "28",
+      "states_uts": "Uttarakhand",
+      "no__of_bpl_families_identified__in_lakhs_": 6.211,
+      "note_of_no__of_bpl_families_identified__in_lakhs_": "**"
+    },
+    {
+      "sl__no_": "29",
+      "states_uts": "West Bengal",
+      "no__of_bpl_families_identified__in_lakhs_": 68.005,
+      "note_of_no__of_bpl_families_identified__in_lakhs_": "**"
+    },
+    {
+      "sl__no_": "30",
+      "states_uts": "A & N Island*",
+      "no__of_bpl_families_identified__in_lakhs_": 0.107,
+      "note_of_no__of_bpl_families_identified__in_lakhs_": "NA"
+    },
+    {
+      "sl__no_": "31",
+      "states_uts": "Chandigarh",
+      "no__of_bpl_families_identified__in_lakhs_": "NA",
+      "note_of_no__of_bpl_families_identified__in_lakhs_": "NA"
+    },
+    {
+      "sl__no_": "32",
+      "states_uts": "D&N Haveli",
+      "no__of_bpl_families_identified__in_lakhs_": 0.16,
+      "note_of_no__of_bpl_families_identified__in_lakhs_": "NA"
+    },
+    {
+      "sl__no_": "33",
+      "states_uts": "Daman & Diu",
+      "no__of_bpl_families_identified__in_lakhs_": 0.005,
+      "note_of_no__of_bpl_families_identified__in_lakhs_": "NA"
+    },
+    {
+      "sl__no_": "34",
+      "states_uts": "Lakshadweep",
+      "no__of_bpl_families_identified__in_lakhs_": "NA",
+      "note_of_no__of_bpl_families_identified__in_lakhs_": "NA"
+    },
+    {
+      "sl__no_": "35",
+      "states_uts": "Puducherry",
+      "no__of_bpl_families_identified__in_lakhs_": "NA",
+      "note_of_no__of_bpl_families_identified__in_lakhs_": "NA"
+    },
+    {
+      "sl__no_": "Total",
+      "states_uts": "Total",
+      "no__of_bpl_families_identified__in_lakhs_": 592.526,
+      "note_of_no__of_bpl_families_identified__in_lakhs_": "NA"
+    }
+  ]
+}

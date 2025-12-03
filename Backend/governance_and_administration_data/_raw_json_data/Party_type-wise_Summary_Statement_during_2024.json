@@ -1,0 +1,69 @@
+{
+  "index_name": "82be928f-4679-47f5-9512-2d06cf503212",
+  "title": "Party type-wise Summary Statement during 2024",
+  "desc": "Party type-wise Summary Statement during 2024",
+  "org_type": "Central",
+  "org": [
+    "Election Commission of India"
+  ],
+  "sector": [
+    "Governance and Administration",
+    "Parliament Of india"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "560e038e-ce8e-42d5-aab9-e53e1417bd55",
+  "visualizable": "0",
+  "active": "1",
+  "created": 1757779511,
+  "updated": 1757779511,
+  "created_date": "2025-09-13T18:05:11Z",
+  "updated_date": "2025-09-13T18:05:11Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "560e038e-ce8e-42d5-aab9-e53e1417bd55",
+    "field": "82be928f-4679-47f5-9512-2d06cf503212"
+  },
+  "field": [
+    {
+      "id": "_sl__no_",
+      "name": "Sl. No.",
+      "type": "double"
+    },
+    {
+      "id": "party_type",
+      "name": "Party Type",
+      "type": "keyword"
+    },
+    {
+      "id": "no_of_parties_participated",
+      "name": "No of Parties Participated",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 3,
+  "count": 3,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "_sl__no_": 1,
+      "party_type": "NATIONAL PARTIES",
+      "no_of_parties_participated": 6
+    },
+    {
+      "_sl__no_": 2,
+      "party_type": "STATE PARTIES",
+      "no_of_parties_participated": 47
+    },
+    {
+      "_sl__no_": 3,
+      "party_type": "REGISTERED(UNRECOGNISED) PARTIES",
+      "no_of_parties_participated": 690
+    }
+  ]
+}

@@ -1,0 +1,803 @@
+{
+  "index_name": "ad057e7e-6595-46b8-8404-4dee0bcdcad6",
+  "title": "Gram Panchayat-wise Rural Sanitation Coverage in Lakhimpur District of Assam as on date",
+  "desc": "Gram Panchayat-wise Rural Sanitation Coverage in Lakhimpur District of Assam as on date",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Jal Shakti",
+    "Department of Drinking Water and Sanitation"
+  ],
+  "sector": [
+    "Water and Sanitation"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1688360227,
+  "updated": 1688364895,
+  "created_date": "2023-07-03T06:57:07Z",
+  "updated_date": "2023-07-03T11:44:55Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "sbm",
+    "type": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+    "field": "ad057e7e-6595-46b8-8404-4dee0bcdcad6"
+  },
+  "field": [
+    {
+      "id": "statename",
+      "name": "StateName",
+      "type": "keyword"
+    },
+    {
+      "id": "districtname",
+      "name": "DistrictName",
+      "type": "keyword"
+    },
+    {
+      "id": "blockname",
+      "name": "BlockName",
+      "type": "keyword"
+    },
+    {
+      "id": "grampanchayatname",
+      "name": "GramPanchayatName",
+      "type": "keyword"
+    },
+    {
+      "id": "ihhltotalasperdetails",
+      "name": "IHHLTotalAsPerDetails",
+      "type": "double"
+    },
+    {
+      "id": "ihhltotalach",
+      "name": "IHHLTotalAch",
+      "type": "double"
+    },
+    {
+      "id": "date",
+      "name": "Date",
+      "type": "keyword"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 81,
+  "count": 81,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "BIHPURIA",
+      "grampanchayatname": "BADATI JAMUGURI",
+      "ihhltotalasperdetails": 1497,
+      "ihhltotalach": 1497,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "BIHPURIA",
+      "grampanchayatname": "BAHGORAH DHUNAGURI",
+      "ihhltotalasperdetails": 3972,
+      "ihhltotalach": 3972,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "BIHPURIA",
+      "grampanchayatname": "BIHPURIA",
+      "ihhltotalasperdetails": 2074,
+      "ihhltotalach": 2074,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "BIHPURIA",
+      "grampanchayatname": "PUB DIKRONG",
+      "ihhltotalasperdetails": 3358,
+      "ihhltotalach": 3358,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "BOGINODI",
+      "grampanchayatname": "BHIMPARA",
+      "ihhltotalasperdetails": 3252,
+      "ihhltotalach": 3252,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "BOGINODI",
+      "grampanchayatname": "BOGINODI",
+      "ihhltotalasperdetails": 2477,
+      "ihhltotalach": 2477,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "BOGINODI",
+      "grampanchayatname": "CHAULDHOWA",
+      "ihhltotalasperdetails": 3910,
+      "ihhltotalach": 3910,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "BOGINODI",
+      "grampanchayatname": "KADAM",
+      "ihhltotalasperdetails": 1968,
+      "ihhltotalach": 1968,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "BOGINODI",
+      "grampanchayatname": "NA KADAM",
+      "ihhltotalasperdetails": 1872,
+      "ihhltotalach": 1872,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "BOGINODI",
+      "grampanchayatname": "SEAJULI",
+      "ihhltotalasperdetails": 1861,
+      "ihhltotalach": 1861,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "BOGINODI",
+      "grampanchayatname": "THOWTHOWNI",
+      "ihhltotalasperdetails": 1472,
+      "ihhltotalach": 1472,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "BOGINODI",
+      "grampanchayatname": "UKHAMATI",
+      "ihhltotalasperdetails": 1822,
+      "ihhltotalach": 1822,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "DHAKUAKHANA",
+      "grampanchayatname": "DANGDHARA",
+      "ihhltotalasperdetails": 1811,
+      "ihhltotalach": 1811,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "DHAKUAKHANA",
+      "grampanchayatname": "DHENUKHANA BATOMARI",
+      "ihhltotalasperdetails": 1844,
+      "ihhltotalach": 1844,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "DHAKUAKHANA",
+      "grampanchayatname": "DIMARUGURI",
+      "ihhltotalasperdetails": 1094,
+      "ihhltotalach": 1094,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "DHAKUAKHANA",
+      "grampanchayatname": "GANDHIA",
+      "ihhltotalasperdetails": 1119,
+      "ihhltotalach": 1119,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "DHAKUAKHANA",
+      "grampanchayatname": "HARHI",
+      "ihhltotalasperdetails": 1501,
+      "ihhltotalach": 1501,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "DHAKUAKHANA",
+      "grampanchayatname": "KHERKATA",
+      "ihhltotalasperdetails": 1728,
+      "ihhltotalach": 1728,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "DHAKUAKHANA",
+      "grampanchayatname": "MADHYA DHAKUAKHANA",
+      "ihhltotalasperdetails": 2009,
+      "ihhltotalach": 2009,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "DHAKUAKHANA",
+      "grampanchayatname": "MATMARA",
+      "ihhltotalasperdetails": 1677,
+      "ihhltotalach": 1677,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "DHAKUAKHANA",
+      "grampanchayatname": "PACHIM DHAKUAKHANA",
+      "ihhltotalasperdetails": 2151,
+      "ihhltotalach": 2151,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "DHAKUAKHANA",
+      "grampanchayatname": "PUB DHAKUAKHANA",
+      "ihhltotalasperdetails": 2643,
+      "ihhltotalach": 2643,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "DHAKUAKHANA",
+      "grampanchayatname": "SINGIA",
+      "ihhltotalasperdetails": 1903,
+      "ihhltotalach": 1903,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "DHAKUAKHANA",
+      "grampanchayatname": "UTTAR DHAKUAKHANA",
+      "ihhltotalasperdetails": 2005,
+      "ihhltotalach": 2005,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "GHILAMORA",
+      "grampanchayatname": "BARKHAMUKH",
+      "ihhltotalasperdetails": 1808,
+      "ihhltotalach": 1808,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "GHILAMORA",
+      "grampanchayatname": "BILMUKH",
+      "ihhltotalasperdetails": 1378,
+      "ihhltotalach": 1378,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "GHILAMORA",
+      "grampanchayatname": "BORDOIBAM",
+      "ihhltotalasperdetails": 2288,
+      "ihhltotalach": 2288,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "GHILAMORA",
+      "grampanchayatname": "DEOLIA",
+      "ihhltotalasperdetails": 1692,
+      "ihhltotalach": 1692,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "GHILAMORA",
+      "grampanchayatname": "GHILAMARA",
+      "ihhltotalasperdetails": 1802,
+      "ihhltotalach": 1802,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "GHILAMORA",
+      "grampanchayatname": "KEKURI",
+      "ihhltotalasperdetails": 946,
+      "ihhltotalach": 946,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "GHILAMORA",
+      "grampanchayatname": "MORNOI",
+      "ihhltotalasperdetails": 1285,
+      "ihhltotalach": 1285,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "GHILAMORA",
+      "grampanchayatname": "SONARI CHAPORI",
+      "ihhltotalasperdetails": 1381,
+      "ihhltotalach": 1381,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "GHILAMORA",
+      "grampanchayatname": "SUBANSIRI",
+      "ihhltotalasperdetails": 3865,
+      "ihhltotalach": 3865,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "KARUNABARI",
+      "grampanchayatname": "BONGALMORA",
+      "ihhltotalasperdetails": 3502,
+      "ihhltotalach": 3502,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "KARUNABARI",
+      "grampanchayatname": "BORCHALA MOHGHULI PANDHOWA",
+      "ihhltotalasperdetails": 4219,
+      "ihhltotalach": 4219,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "KARUNABARI",
+      "grampanchayatname": "DAKHIN LALUK",
+      "ihhltotalasperdetails": 3652,
+      "ihhltotalach": 3652,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "KARUNABARI",
+      "grampanchayatname": "DIKRONG",
+      "ihhltotalasperdetails": 2906,
+      "ihhltotalach": 2906,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "KARUNABARI",
+      "grampanchayatname": "HURMUTTY",
+      "ihhltotalasperdetails": 4130,
+      "ihhltotalach": 4130,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "KARUNABARI",
+      "grampanchayatname": "JUBANAGAR",
+      "ihhltotalasperdetails": 3738,
+      "ihhltotalach": 3738,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "KARUNABARI",
+      "grampanchayatname": "NIZ LAKUK",
+      "ihhltotalasperdetails": 2941,
+      "ihhltotalach": 2941,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "KARUNABARI",
+      "grampanchayatname": "PABHA",
+      "ihhltotalasperdetails": 1894,
+      "ihhltotalach": 1894,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "KARUNABARI",
+      "grampanchayatname": "TINTHENGIA",
+      "ihhltotalasperdetails": 4198,
+      "ihhltotalach": 4198,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "KARUNABARI",
+      "grampanchayatname": "UTTAR LALUK",
+      "ihhltotalasperdetails": 3292,
+      "ihhltotalach": 3292,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "LAKHIMPUR",
+      "grampanchayatname": "AZAD",
+      "ihhltotalasperdetails": 1362,
+      "ihhltotalach": 1362,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "LAKHIMPUR",
+      "grampanchayatname": "BOGOLIJAN",
+      "ihhltotalasperdetails": 3573,
+      "ihhltotalach": 3573,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "LAKHIMPUR",
+      "grampanchayatname": "CHABOTI",
+      "ihhltotalasperdetails": 3571,
+      "ihhltotalach": 3571,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "LAKHIMPUR",
+      "grampanchayatname": "GHUNASUTI",
+      "ihhltotalasperdetails": 2242,
+      "ihhltotalach": 2242,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "LAKHIMPUR",
+      "grampanchayatname": "JOHING",
+      "ihhltotalasperdetails": 1826,
+      "ihhltotalach": 1826,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "LAKHIMPUR",
+      "grampanchayatname": "KAMALABORIA",
+      "ihhltotalasperdetails": 3659,
+      "ihhltotalach": 3659,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "LAKHIMPUR",
+      "grampanchayatname": "LAKHIMPUR",
+      "ihhltotalasperdetails": 3029,
+      "ihhltotalach": 3030,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "LAKHIMPUR",
+      "grampanchayatname": "UJJALPUR",
+      "ihhltotalasperdetails": 2638,
+      "ihhltotalach": 2638,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "NARAYANPUR",
+      "grampanchayatname": "BHOLABARI",
+      "ihhltotalasperdetails": 1710,
+      "ihhltotalach": 1710,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "NARAYANPUR",
+      "grampanchayatname": "BORBALI",
+      "ihhltotalasperdetails": 1937,
+      "ihhltotalach": 1937,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "NARAYANPUR",
+      "grampanchayatname": "DAKHIN NARAYANPUR",
+      "ihhltotalasperdetails": 2023,
+      "ihhltotalach": 2023,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "NARAYANPUR",
+      "grampanchayatname": "DHALPUR",
+      "ihhltotalasperdetails": 2271,
+      "ihhltotalach": 2271,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "NARAYANPUR",
+      "grampanchayatname": "GONOK DOLONI",
+      "ihhltotalasperdetails": 2273,
+      "ihhltotalach": 2273,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "NARAYANPUR",
+      "grampanchayatname": "JAMUGURI",
+      "ihhltotalasperdetails": 1852,
+      "ihhltotalach": 1852,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "NARAYANPUR",
+      "grampanchayatname": "NARAYANPUR",
+      "ihhltotalasperdetails": 1406,
+      "ihhltotalach": 1406,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "NARAYANPUR",
+      "grampanchayatname": "PANBARI",
+      "ihhltotalasperdetails": 2056,
+      "ihhltotalach": 2056,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "NARAYANPUR",
+      "grampanchayatname": "PATHALIPAHAR",
+      "ihhltotalasperdetails": 1583,
+      "ihhltotalach": 1583,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "NARAYANPUR",
+      "grampanchayatname": "PICHALA",
+      "ihhltotalasperdetails": 2268,
+      "ihhltotalach": 2268,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "NARAYANPUR",
+      "grampanchayatname": "PUB NARAYANPUR",
+      "ihhltotalasperdetails": 2154,
+      "ihhltotalach": 2154,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "NARAYANPUR",
+      "grampanchayatname": "RAJGARH",
+      "ihhltotalasperdetails": 2333,
+      "ihhltotalach": 2333,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "NARAYANPUR",
+      "grampanchayatname": "RANGOTI",
+      "ihhltotalasperdetails": 2282,
+      "ihhltotalach": 2282,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "NARAYANPUR",
+      "grampanchayatname": "SIMALUGURI",
+      "ihhltotalasperdetails": 2072,
+      "ihhltotalach": 2072,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "NOWBOICHA",
+      "grampanchayatname": "DIJOO",
+      "ihhltotalasperdetails": 1671,
+      "ihhltotalach": 1671,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "NOWBOICHA",
+      "grampanchayatname": "DOLOHAT SONAPUR",
+      "ihhltotalasperdetails": 3594,
+      "ihhltotalach": 3594,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "NOWBOICHA",
+      "grampanchayatname": "MADHYA NOWBOICHA",
+      "ihhltotalasperdetails": 1805,
+      "ihhltotalach": 1805,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "NOWBOICHA",
+      "grampanchayatname": "NOWBOICHA",
+      "ihhltotalasperdetails": 2323,
+      "ihhltotalach": 2323,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "NOWBOICHA",
+      "grampanchayatname": "PACHIM NOWBOICHA",
+      "ihhltotalasperdetails": 2901,
+      "ihhltotalach": 2901,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "NOWBOICHA",
+      "grampanchayatname": "PAHUMORA",
+      "ihhltotalasperdetails": 2875,
+      "ihhltotalach": 2875,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "NOWBOICHA",
+      "grampanchayatname": "PHULBARI",
+      "ihhltotalasperdetails": 2257,
+      "ihhltotalach": 2257,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "NOWBOICHA",
+      "grampanchayatname": "RAMPUR BOGIBIL",
+      "ihhltotalasperdetails": 2410,
+      "ihhltotalach": 2410,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "NOWBOICHA",
+      "grampanchayatname": "RANGANADI",
+      "ihhltotalasperdetails": 2526,
+      "ihhltotalach": 2526,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "NOWBOICHA",
+      "grampanchayatname": "SINGRA",
+      "ihhltotalasperdetails": 2514,
+      "ihhltotalach": 2514,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "TELAHI",
+      "grampanchayatname": "LOHIT KHABOLU",
+      "ihhltotalasperdetails": 2519,
+      "ihhltotalach": 2519,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "TELAHI",
+      "grampanchayatname": "MADHYA TELAHI",
+      "ihhltotalasperdetails": 1926,
+      "ihhltotalach": 1926,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "TELAHI",
+      "grampanchayatname": "PACHIM TELAHI",
+      "ihhltotalasperdetails": 2404,
+      "ihhltotalach": 2404,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "TELAHI",
+      "grampanchayatname": "PANIGAON",
+      "ihhltotalasperdetails": 2451,
+      "ihhltotalach": 2451,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "TELAHI",
+      "grampanchayatname": "PUB TELAHI",
+      "ihhltotalasperdetails": 2065,
+      "ihhltotalach": 2065,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "LAKHIMPUR",
+      "blockname": "TELAHI",
+      "grampanchayatname": "UTTAR TELAHI",
+      "ihhltotalasperdetails": 2005,
+      "ihhltotalach": 2005,
+      "date": "5/19/2020 12:00:00 AM"
+    }
+  ]
+}

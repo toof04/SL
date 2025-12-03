@@ -1,0 +1,250 @@
+{
+  "index_name": "0c8c14dd-94ee-4632-b60d-374d56514c09",
+  "title": "Number of Teachers in Various Schools during 2020-21",
+  "desc": "Number of Teachers in Various Schools during 2020-21",
+  "org_type": "State",
+  "org": [
+    "Himachal Pradesh",
+    "Economics and Statistics Department, Himachal Pradesh"
+  ],
+  "sector": [
+    "Education"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "e4f76656-d070-4be1-9fed-bbd388855cb9",
+  "visualizable": "0",
+  "active": "1",
+  "created": 1759232131,
+  "updated": 1759232131,
+  "created_date": "2025-09-30T13:35:31Z",
+  "updated_date": "2025-09-30T13:35:31Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "e4f76656-d070-4be1-9fed-bbd388855cb9",
+    "field": "0c8c14dd-94ee-4632-b60d-374d56514c09"
+  },
+  "field": [
+    {
+      "id": "state",
+      "name": "State",
+      "type": "keyword"
+    },
+    {
+      "id": "district",
+      "name": "District",
+      "type": "keyword"
+    },
+    {
+      "id": "primary_schools_____male_",
+      "name": "Primary Schools    (Male)",
+      "type": "double"
+    },
+    {
+      "id": "primary_schools__female_",
+      "name": "Primary Schools (Female)",
+      "type": "double"
+    },
+    {
+      "id": "total__in_number__",
+      "name": "Total (in Number )",
+      "type": "double"
+    },
+    {
+      "id": "middle_schools__male_",
+      "name": "Middle Schools (Male)",
+      "type": "double"
+    },
+    {
+      "id": "_middle_schools__female_",
+      "name": " Middle Schools (Female)",
+      "type": "double"
+    },
+    {
+      "id": "total__in_number_",
+      "name": "Total (in Number)",
+      "type": "keyword"
+    },
+    {
+      "id": "high_senior_secondary_schools___male_",
+      "name": "High/Senior Secondary Schools  (Male)",
+      "type": "double"
+    },
+    {
+      "id": "high_senior_secondary_schools___female_",
+      "name": "High/Senior Secondary Schools  (Female)",
+      "type": "double"
+    },
+    {
+      "id": "total__in_number_",
+      "name": "Total (in Number)",
+      "type": "keyword"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 13,
+  "count": 13,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "state": "Himachal Pradesh",
+      "district": "Bilaspur",
+      "primary_schools_____male_": 598,
+      "primary_schools__female_": 565,
+      "total__in_number__": 1163,
+      "middle_schools__male_": 239,
+      "_middle_schools__female_": 85,
+      "total__in_number_": "2514",
+      "high_senior_secondary_schools___male_": 1657,
+      "high_senior_secondary_schools___female_": 857
+    },
+    {
+      "state": "Himachal Pradesh",
+      "district": "Chamba",
+      "primary_schools_____male_": 1803,
+      "primary_schools__female_": 703,
+      "total__in_number__": 2506,
+      "middle_schools__male_": 659,
+      "_middle_schools__female_": 199,
+      "total__in_number_": "2822",
+      "high_senior_secondary_schools___male_": 1890,
+      "high_senior_secondary_schools___female_": 932
+    },
+    {
+      "state": "Himachal Pradesh",
+      "district": "Hamirpur",
+      "primary_schools_____male_": 440,
+      "primary_schools__female_": 536,
+      "total__in_number__": 976,
+      "middle_schools__male_": 269,
+      "_middle_schools__female_": 115,
+      "total__in_number_": "2601",
+      "high_senior_secondary_schools___male_": 1603,
+      "high_senior_secondary_schools___female_": 998
+    },
+    {
+      "state": "Himachal Pradesh",
+      "district": "Kangra",
+      "primary_schools_____male_": 1676,
+      "primary_schools__female_": 1606,
+      "total__in_number__": 3282,
+      "middle_schools__male_": 587,
+      "_middle_schools__female_": 307,
+      "total__in_number_": "7629",
+      "high_senior_secondary_schools___male_": 4457,
+      "high_senior_secondary_schools___female_": 3172
+    },
+    {
+      "state": "Himachal Pradesh",
+      "district": "Kinnaur",
+      "primary_schools_____male_": 224,
+      "primary_schools__female_": 176,
+      "total__in_number__": 400,
+      "middle_schools__male_": 65,
+      "_middle_schools__female_": 50,
+      "total__in_number_": "620",
+      "high_senior_secondary_schools___male_": 353,
+      "high_senior_secondary_schools___female_": 267
+    },
+    {
+      "state": "Himachal Pradesh",
+      "district": "Kullu",
+      "primary_schools_____male_": 1064,
+      "primary_schools__female_": 535,
+      "total__in_number__": 1599,
+      "middle_schools__male_": 293,
+      "_middle_schools__female_": 118,
+      "total__in_number_": "2067",
+      "high_senior_secondary_schools___male_": 1302,
+      "high_senior_secondary_schools___female_": 765
+    },
+    {
+      "state": "Himachal Pradesh",
+      "district": "Lahaul-spiti",
+      "primary_schools_____male_": 226,
+      "primary_schools__female_": 149,
+      "total__in_number__": 375,
+      "middle_schools__male_": 67,
+      "_middle_schools__female_": 35,
+      "total__in_number_": "463",
+      "high_senior_secondary_schools___male_": 278,
+      "high_senior_secondary_schools___female_": 185
+    },
+    {
+      "state": "Himachal Pradesh",
+      "district": "Mandi",
+      "primary_schools_____male_": 1968,
+      "primary_schools__female_": 1435,
+      "total__in_number__": 3403,
+      "middle_schools__male_": 742,
+      "_middle_schools__female_": 280,
+      "total__in_number_": "6290",
+      "high_senior_secondary_schools___male_": 4079,
+      "high_senior_secondary_schools___female_": 2211
+    },
+    {
+      "state": "Himachal Pradesh",
+      "district": "Shimla",
+      "primary_schools_____male_": 1918,
+      "primary_schools__female_": 1385,
+      "total__in_number__": 3303,
+      "middle_schools__male_": 670,
+      "_middle_schools__female_": 248,
+      "total__in_number_": "5246",
+      "high_senior_secondary_schools___male_": 3270,
+      "high_senior_secondary_schools___female_": 1976
+    },
+    {
+      "state": "Himachal Pradesh",
+      "district": "Sirmaur",
+      "primary_schools_____male_": 1428,
+      "primary_schools__female_": 777,
+      "total__in_number__": 2205,
+      "middle_schools__male_": 409,
+      "_middle_schools__female_": 172,
+      "total__in_number_": "2933",
+      "high_senior_secondary_schools___male_": 1699,
+      "high_senior_secondary_schools___female_": 1234
+    },
+    {
+      "state": "Himachal Pradesh",
+      "district": "Solan",
+      "primary_schools_____male_": 884,
+      "primary_schools__female_": 828,
+      "total__in_number__": 1712,
+      "middle_schools__male_": 334,
+      "_middle_schools__female_": 159,
+      "total__in_number_": "2781",
+      "high_senior_secondary_schools___male_": 1412,
+      "high_senior_secondary_schools___female_": 1369
+    },
+    {
+      "state": "Himachal Pradesh",
+      "district": "Una",
+      "primary_schools_____male_": 479,
+      "primary_schools__female_": 689,
+      "total__in_number__": 1168,
+      "middle_schools__male_": 183,
+      "_middle_schools__female_": 100,
+      "total__in_number_": "2806",
+      "high_senior_secondary_schools___male_": 1533,
+      "high_senior_secondary_schools___female_": 1273
+    },
+    {
+      "state": "Himachal Pradesh",
+      "district": "Total",
+      "primary_schools_____male_": 12708,
+      "primary_schools__female_": 9384,
+      "total__in_number__": 22092,
+      "middle_schools__male_": 4517,
+      "_middle_schools__female_": 1868,
+      "total__in_number_": "38772**",
+      "high_senior_secondary_schools___male_": 23533,
+      "high_senior_secondary_schools___female_": 15239
+    }
+  ]
+}

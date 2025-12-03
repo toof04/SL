@@ -1,0 +1,42 @@
+state_name,district_name,block_name,panchayat_name,villagen_name,habitation_name,habitation_id,households,house_connection_by_pws,ispws,gen_current_pop,sc_current_pop,st_current_pop,total_current_pop,water_quality_contamination,update_date
+"Jammu & Kashmir",Kathua,Billawar,Dewal,NA,Bhajwal,0000361604,112,25,Yes,480,86,10,576,NA,2024-06-07
+"Jammu & Kashmir",Kathua,Billawar,Dharamkot,NA,Dharamkot,0000361606,482,115,Yes,755,1639,22,2416,NA,2024-06-07
+"Jammu & Kashmir",Kathua,Billawar,Komala,NA,"Sanan Chora",0000361641,38,37,Yes,164,20,2,186,NA,2024-06-07
+"Jammu & Kashmir",Kathua,Billawar,Bathari,NA,Lakhari,0001734732,101,1,Yes,362,146,0,508,NA,2024-06-07
+"Jammu & Kashmir",Kathua,Billawar,Kunu,NA,Derlli,0000361591,185,120,Yes,979,29,0,1008,NA,2024-06-07
+"Jammu & Kashmir",Kathua,Billawar,Kunu,NA,Kunu,0000361592,64,40,Yes,309,13,0,322,NA,2024-06-07
+"Jammu & Kashmir",Kathua,Billawar,Sukral,NA,Manol,0000361600,50,49,Yes,208,48,0,256,NA,2024-06-07
+"Jammu & Kashmir",Kathua,Billawar,Dewal,NA,Taddi,0000361602,97,31,Yes,318,158,18,494,NA,2024-06-07
+"Jammu & Kashmir",Kathua,Billawar,Kishanpur,NA,Lorono,0000361627,128,94,Yes,571,107,13,691,NA,2024-06-07
+"Jammu & Kashmir",Kathua,Billawar,Pallan,NA,Beral,0000361666,259,136,Yes,1120,180,0,1300,NA,2024-06-07
+"Jammu & Kashmir",Kathua,Billawar,Tehr,NA,Khanuee,0000361680,136,30,Yes,571,105,10,686,NA,2024-06-07
+"Jammu & Kashmir",Kathua,Billawar,Bhaddu,NA,Didwara,0000361681,149,121,Yes,589,93,70,752,NA,2024-06-07
+"Jammu & Kashmir",Kathua,Billawar,Huttar,NA,Gaili,0001748929,35,2,Yes,116,5,55,176,NA,2024-06-07
+"Jammu & Kashmir",Kathua,Billawar,Kunu,NA,Genera,0000361593,31,4,Yes,150,7,0,157,NA,2024-06-07
+"Jammu & Kashmir",Kathua,Billawar,Kunu,NA,"Ganera Upper",0000361594,80,27,Yes,385,17,0,402,NA,2024-06-07
+"Jammu & Kashmir",Kathua,Billawar,Sukral,NA,Sukral,0000361599,124,123,Yes,510,111,0,621,NA,2024-06-07
+"Jammu & Kashmir",Kathua,Billawar,Dewal,NA,Dewal,0000361601,395,381,Yes,1279,639,71,1989,NA,2024-06-07
+"Jammu & Kashmir",Kathua,Billawar,Dewal,NA,Tilla,0000361603,165,104,Yes,688,123,14,825,NA,2024-06-07
+"Jammu & Kashmir",Kathua,Billawar,Malti,NA,Malti,0000361610,689,212,Yes,2550,855,46,3451,NA,2024-06-07
+"Jammu & Kashmir",Kathua,Billawar,Bhaddu,NA,Bhaddu,0000361679,946,536,Yes,3719,575,445,4739,NA,2024-06-07
+"Jammu & Kashmir",Kathua,Billawar,Bathari,NA,"New Settlement Tilla",0001721494,15,5,Yes,53,22,0,75,NA,2024-06-07
+"Jammu & Kashmir",Kathua,Billawar,Huttar,NA,"Lower Srangala",0001748928,60,12,Yes,199,12,91,302,NA,2024-06-07
+"Jammu & Kashmir",Kathua,Billawar,Bathari,NA,Bathari,0000361611,146,25,Yes,518,210,0,728,NA,2024-06-07
+"Jammu & Kashmir",Kathua,Billawar,Parnalla,NA,Parnalla,0000361614,528,370,Yes,2033,701,0,2734,NA,2024-06-07
+"Jammu & Kashmir",Kathua,Billawar,Dharalta,NA,Dharalta,0000361618,557,191,Yes,2239,138,418,2795,NA,2024-06-07
+"Jammu & Kashmir",Kathua,Billawar,Billawar,NA,Barketpur,0000361830,72,22,Yes,231,78,118,427,NA,2024-06-07
+"Jammu & Kashmir",Kathua,Billawar,Billawar,NA,Billawar,0000361598,523,514,Yes,1380,999,253,2632,NA,2024-06-07
+"Jammu & Kashmir",Kathua,Billawar,Tehr,NA,Tehr,0000361605,569,402,Yes,2379,430,40,2849,NA,2024-06-07
+"Jammu & Kashmir",Kathua,Billawar,Dharamkot,NA,"Patri Padder",0000361607,212,22,Yes,336,720,11,1067,NA,2024-06-07
+"Jammu & Kashmir",Kathua,Billawar,Mooni,NA,Mooni,0000361608,313,260,Yes,1160,665,20,1845,NA,2024-06-07
+"Jammu & Kashmir",Kathua,Billawar,Mooni,NA,Seri,0000361609,322,261,Yes,1288,605,9,1902,NA,2024-06-07
+"Jammu & Kashmir",Kathua,Billawar,Bathari,NA,Tuthka,0000361612,60,19,Yes,216,88,0,304,NA,2024-06-07
+"Jammu & Kashmir",Kathua,Billawar,Huttar,NA,Huttar,0000361617,272,31,Yes,906,45,420,1371,NA,2024-06-07
+"Jammu & Kashmir",Kathua,Billawar,Kishanpur,NA,Kishanpur,0000361626,302,200,Yes,1299,240,30,1569,NA,2024-06-07
+"Jammu & Kashmir",Kathua,Billawar,Komala,NA,Komala,0000361640,58,57,Yes,260,35,5,300,NA,2024-06-07
+"Jammu & Kashmir",Kathua,Billawar,Komala,NA,"Tallin Da Dabber",0000361642,24,23,Yes,100,13,6,119,NA,2024-06-07
+"Jammu & Kashmir",Kathua,Billawar,Pallan,NA,Pallan,0000361665,356,16,Yes,1116,179,0,1295,NA,2024-06-07
+"Jammu & Kashmir",Kathua,Billawar,Bathari,NA,"Gurah Malti",0001721493,23,12,Yes,85,36,0,121,NA,2024-06-07
+"Jammu & Kashmir",Kathua,Billawar,Huttar,NA,Charnond,0001748924,18,5,Yes,60,5,30,95,NA,2024-06-07
+"Jammu & Kashmir",Kathua,Billawar,Huttar,NA,"Trimbli - Ii",0001748926,77,12,Yes,280,15,129,424,NA,2024-06-07
+"Jammu & Kashmir",Kathua,Billawar,Huttar,NA,"Upper Srangala",0001748927,43,10,Yes,171,8,81,260,NA,2024-06-07

@@ -1,0 +1,1013 @@
+{
+  "index_name": "b77144e1-e8cd-4f9a-8c25-6af49f549782",
+  "title": "Gram Panchayat-wise Rural Sanitation Coverage in Sibsagar District of Assam as on date",
+  "desc": "Gram Panchayat-wise Rural Sanitation Coverage in Sibsagar District of Assam as on date",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Jal Shakti",
+    "Department of Drinking Water and Sanitation"
+  ],
+  "sector": [
+    "Water and Sanitation"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1688360233,
+  "updated": 1688364899,
+  "created_date": "2023-07-03T06:57:13Z",
+  "updated_date": "2023-07-03T11:44:59Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "sbm",
+    "type": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+    "field": "b77144e1-e8cd-4f9a-8c25-6af49f549782"
+  },
+  "field": [
+    {
+      "id": "statename",
+      "name": "StateName",
+      "type": "keyword"
+    },
+    {
+      "id": "districtname",
+      "name": "DistrictName",
+      "type": "keyword"
+    },
+    {
+      "id": "blockname",
+      "name": "blockName",
+      "type": "keyword"
+    },
+    {
+      "id": "grampanchayatname",
+      "name": "GramPanchayatName",
+      "type": "keyword"
+    },
+    {
+      "id": "ihhltotalasperdetails",
+      "name": "IHHLTotalAsPerDetails",
+      "type": "double"
+    },
+    {
+      "id": "ihhltotalach",
+      "name": "IHHLTotalAch",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 118,
+  "count": 118,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "AMGURI",
+      "grampanchayatname": "AMGURI",
+      "ihhltotalasperdetails": 2916,
+      "ihhltotalach": 2916
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "AMGURI",
+      "grampanchayatname": "BHUYANHAT",
+      "ihhltotalasperdetails": 2259,
+      "ihhltotalach": 2259
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "AMGURI",
+      "grampanchayatname": "BORAHIBARI",
+      "ihhltotalasperdetails": 1516,
+      "ihhltotalach": 1516
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "AMGURI",
+      "grampanchayatname": "BORBAM",
+      "ihhltotalasperdetails": 1006,
+      "ihhltotalach": 1006
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "AMGURI",
+      "grampanchayatname": "BORCHILLA",
+      "ihhltotalasperdetails": 1067,
+      "ihhltotalach": 1067
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "AMGURI",
+      "grampanchayatname": "BORUAALI",
+      "ihhltotalasperdetails": 2328,
+      "ihhltotalach": 2328
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "AMGURI",
+      "grampanchayatname": "LALIMCHIGA",
+      "ihhltotalasperdetails": 1283,
+      "ihhltotalach": 1283
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "AMGURI",
+      "grampanchayatname": "NAMTIALI",
+      "ihhltotalasperdetails": 2132,
+      "ihhltotalach": 2132
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "AMGURI",
+      "grampanchayatname": "NAMTIDOLE",
+      "ihhltotalasperdetails": 1461,
+      "ihhltotalach": 1461
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "AMGURI",
+      "grampanchayatname": "PENGERA",
+      "ihhltotalasperdetails": 1260,
+      "ihhltotalach": 1260
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "DEMOW",
+      "grampanchayatname": "ATHABARI",
+      "ihhltotalasperdetails": 2525,
+      "ihhltotalach": 2525
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "DEMOW",
+      "grampanchayatname": "BAKHAR BENGENA",
+      "ihhltotalasperdetails": 1550,
+      "ihhltotalach": 1550
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "DEMOW",
+      "grampanchayatname": "BORBAM",
+      "ihhltotalasperdetails": 1547,
+      "ihhltotalach": 1550
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "DEMOW",
+      "grampanchayatname": "DEMOW",
+      "ihhltotalasperdetails": 2312,
+      "ihhltotalach": 2312
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "DEMOW",
+      "grampanchayatname": "GOHAIN PUKHURI",
+      "ihhltotalasperdetails": 1778,
+      "ihhltotalach": 1778
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "DEMOW",
+      "grampanchayatname": "KHORAHAT",
+      "ihhltotalasperdetails": 1729,
+      "ihhltotalach": 1729
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "DEMOW",
+      "grampanchayatname": "MAHARANI",
+      "ihhltotalasperdetails": 1151,
+      "ihhltotalach": 1151
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "DEMOW",
+      "grampanchayatname": "NAHAT",
+      "ihhltotalasperdetails": 1588,
+      "ihhltotalach": 1588
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "DEMOW",
+      "grampanchayatname": "NANGOLAMORA",
+      "ihhltotalasperdetails": 1385,
+      "ihhltotalach": 1385
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "DEMOW",
+      "grampanchayatname": "NEMUGURI",
+      "ihhltotalasperdetails": 1930,
+      "ihhltotalach": 1930
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "DEMOW",
+      "grampanchayatname": "NETAIPUKHURI",
+      "ihhltotalasperdetails": 1629,
+      "ihhltotalach": 1629
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "DEMOW",
+      "grampanchayatname": "PACHIM PANIDEHING",
+      "ihhltotalasperdetails": 823,
+      "ihhltotalach": 823
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "DEMOW",
+      "grampanchayatname": "PALENGI",
+      "ihhltotalasperdetails": 1749,
+      "ihhltotalach": 1749
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "DEMOW",
+      "grampanchayatname": "PANIDEHING",
+      "ihhltotalasperdetails": 1985,
+      "ihhltotalach": 1985
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "DEMOW",
+      "grampanchayatname": "PARIJAT",
+      "ihhltotalasperdetails": 1740,
+      "ihhltotalach": 1740
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "DEMOW",
+      "grampanchayatname": "RAJABARI",
+      "ihhltotalasperdetails": 1288,
+      "ihhltotalach": 1288
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "DEMOW",
+      "grampanchayatname": "RUPJYOTI",
+      "ihhltotalasperdetails": 1935,
+      "ihhltotalach": 1935
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "DEMOW",
+      "grampanchayatname": "SARAGUA",
+      "ihhltotalasperdetails": 1235,
+      "ihhltotalach": 1235
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "DEMOW",
+      "grampanchayatname": "SUKANPUKHURI",
+      "ihhltotalasperdetails": 1331,
+      "ihhltotalach": 1331
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "DEMOW",
+      "grampanchayatname": "THOWRADOLE",
+      "ihhltotalasperdetails": 1545,
+      "ihhltotalach": 1545
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "GAURISAGAR",
+      "grampanchayatname": "BORUAPUKHURI",
+      "ihhltotalasperdetails": 1968,
+      "ihhltotalach": 1968
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "GAURISAGAR",
+      "grampanchayatname": "CHARING",
+      "ihhltotalasperdetails": 2217,
+      "ihhltotalach": 2217
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "GAURISAGAR",
+      "grampanchayatname": "DEWRAJA",
+      "ihhltotalasperdetails": 1198,
+      "ihhltotalach": 1198
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "GAURISAGAR",
+      "grampanchayatname": "DIKHOWMUKH",
+      "ihhltotalasperdetails": 1107,
+      "ihhltotalach": 1107
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "GAURISAGAR",
+      "grampanchayatname": "DIKSU",
+      "ihhltotalasperdetails": 2286,
+      "ihhltotalach": 2286
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "GAURISAGAR",
+      "grampanchayatname": "HAFALUTING",
+      "ihhltotalasperdetails": 1040,
+      "ihhltotalach": 1040
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "GAURISAGAR",
+      "grampanchayatname": "HATIGHULI",
+      "ihhltotalasperdetails": 1363,
+      "ihhltotalach": 1363
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "GAURISAGAR",
+      "grampanchayatname": "KAWAIMARI",
+      "ihhltotalasperdetails": 1866,
+      "ihhltotalach": 1866
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "GAURISAGAR",
+      "grampanchayatname": "KHONAMUKH",
+      "ihhltotalasperdetails": 2812,
+      "ihhltotalach": 2812
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "GAURISAGAR",
+      "grampanchayatname": "MOGORAHAT",
+      "ihhltotalasperdetails": 1521,
+      "ihhltotalach": 1521
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "GAURISAGAR",
+      "grampanchayatname": "MOMAI TAMULI",
+      "ihhltotalasperdetails": 2369,
+      "ihhltotalach": 2369
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "GAURISAGAR",
+      "grampanchayatname": "MORABAJAR",
+      "ihhltotalasperdetails": 1393,
+      "ihhltotalach": 1393
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "GAURISAGAR",
+      "grampanchayatname": "RONGPUR",
+      "ihhltotalasperdetails": 3048,
+      "ihhltotalach": 3048
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "GAURISAGAR",
+      "grampanchayatname": "RUDRASAGAR",
+      "ihhltotalasperdetails": 1857,
+      "ihhltotalach": 1857
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "GAURISAGAR",
+      "grampanchayatname": "SOLOGURI",
+      "ihhltotalasperdetails": 699,
+      "ihhltotalach": 699
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "LAKWA",
+      "grampanchayatname": "CHALAPATHER",
+      "ihhltotalasperdetails": 1639,
+      "ihhltotalach": 1639
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "LAKWA",
+      "grampanchayatname": "CHARAIDEW",
+      "ihhltotalasperdetails": 2585,
+      "ihhltotalach": 2585
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "LAKWA",
+      "grampanchayatname": "HOLLOW PHUKON",
+      "ihhltotalasperdetails": 2260,
+      "ihhltotalach": 2260
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "LAKWA",
+      "grampanchayatname": "NIMONAGORH",
+      "ihhltotalasperdetails": 1986,
+      "ihhltotalach": 1986
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "NAZIRA",
+      "grampanchayatname": "BANTUNG",
+      "ihhltotalasperdetails": 1526,
+      "ihhltotalach": 1526
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "NAZIRA",
+      "grampanchayatname": "BIHUBOR",
+      "ihhltotalasperdetails": 2531,
+      "ihhltotalach": 2531
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "NAZIRA",
+      "grampanchayatname": "BORBARUA",
+      "ihhltotalasperdetails": 1419,
+      "ihhltotalach": 1419
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "NAZIRA",
+      "grampanchayatname": "BORPHUKAN",
+      "ihhltotalasperdetails": 2180,
+      "ihhltotalach": 2180
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "NAZIRA",
+      "grampanchayatname": "DOLAKASHARIA",
+      "ihhltotalasperdetails": 1464,
+      "ihhltotalach": 1464
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "NAZIRA",
+      "grampanchayatname": "GALEKY",
+      "ihhltotalasperdetails": 1582,
+      "ihhltotalach": 1582
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "NAZIRA",
+      "grampanchayatname": "JOYMOTI",
+      "ihhltotalasperdetails": 1277,
+      "ihhltotalach": 1277
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "NAZIRA",
+      "grampanchayatname": "KHOTKHOTI",
+      "ihhltotalasperdetails": 1912,
+      "ihhltotalach": 1912
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "NAZIRA",
+      "grampanchayatname": "LENGIBOR",
+      "ihhltotalasperdetails": 1862,
+      "ihhltotalach": 1862
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "NAZIRA",
+      "grampanchayatname": "MAKEYPUR",
+      "ihhltotalasperdetails": 1863,
+      "ihhltotalach": 1863
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "NAZIRA",
+      "grampanchayatname": "NA-PUKHURI",
+      "ihhltotalasperdetails": 1550,
+      "ihhltotalach": 1550
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "NAZIRA",
+      "grampanchayatname": "NAPAM BARUWATI",
+      "ihhltotalasperdetails": 1718,
+      "ihhltotalach": 1718
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "NAZIRA",
+      "grampanchayatname": "NAZIRA",
+      "ihhltotalasperdetails": 1253,
+      "ihhltotalach": 1253
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "NAZIRA",
+      "grampanchayatname": "PEOLI PHUKON",
+      "ihhltotalasperdetails": 1451,
+      "ihhltotalach": 1451
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "NAZIRA",
+      "grampanchayatname": "PHULPANI BORUA",
+      "ihhltotalasperdetails": 1635,
+      "ihhltotalach": 1635
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "NAZIRA",
+      "grampanchayatname": "RAHDOI",
+      "ihhltotalasperdetails": 1217,
+      "ihhltotalach": 1217
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "NAZIRA",
+      "grampanchayatname": "RAJABHETA",
+      "ihhltotalasperdetails": 1972,
+      "ihhltotalach": 1972
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "NAZIRA",
+      "grampanchayatname": "ROMONI",
+      "ihhltotalasperdetails": 1372,
+      "ihhltotalach": 1372
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "NAZIRA",
+      "grampanchayatname": "SIMALUGURI",
+      "ihhltotalasperdetails": 962,
+      "ihhltotalach": 962
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "NAZIRA",
+      "grampanchayatname": "SUKAFA",
+      "ihhltotalasperdetails": 3033,
+      "ihhltotalach": 3033
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "SAPEKHATI",
+      "grampanchayatname": "AHUKHAT",
+      "ihhltotalasperdetails": 1727,
+      "ihhltotalach": 1727
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "SAPEKHATI",
+      "grampanchayatname": "BENGENABARI",
+      "ihhltotalasperdetails": 2112,
+      "ihhltotalach": 2112
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "SAPEKHATI",
+      "grampanchayatname": "BHUYANKHAT",
+      "ihhltotalasperdetails": 1371,
+      "ihhltotalach": 1371
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "SAPEKHATI",
+      "grampanchayatname": "BORHAT",
+      "ihhltotalasperdetails": 1687,
+      "ihhltotalach": 1687
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "SAPEKHATI",
+      "grampanchayatname": "BOROGURI",
+      "ihhltotalasperdetails": 1711,
+      "ihhltotalach": 1711
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "SAPEKHATI",
+      "grampanchayatname": "HARIDEV",
+      "ihhltotalasperdetails": 1561,
+      "ihhltotalach": 1561
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "SAPEKHATI",
+      "grampanchayatname": "LONGPATIA",
+      "ihhltotalasperdetails": 1477,
+      "ihhltotalach": 1477
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "SAPEKHATI",
+      "grampanchayatname": "MILONJYOTI",
+      "ihhltotalasperdetails": 1582,
+      "ihhltotalach": 1582
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "SAPEKHATI",
+      "grampanchayatname": "NAHAR PUKHURI",
+      "ihhltotalasperdetails": 1827,
+      "ihhltotalach": 1827
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "SAPEKHATI",
+      "grampanchayatname": "PURBANCHAL",
+      "ihhltotalasperdetails": 1762,
+      "ihhltotalach": 1762
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "SAPEKHATI",
+      "grampanchayatname": "RAHAN",
+      "ihhltotalasperdetails": 1042,
+      "ihhltotalach": 1042
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "SAPEKHATI",
+      "grampanchayatname": "SAPEKHATI",
+      "ihhltotalasperdetails": 2293,
+      "ihhltotalach": 2293
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "SAPEKHATI",
+      "grampanchayatname": "SARUPATHER",
+      "ihhltotalasperdetails": 1579,
+      "ihhltotalach": 1579
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "SAPEKHATI",
+      "grampanchayatname": "SONALI",
+      "ihhltotalasperdetails": 1196,
+      "ihhltotalach": 1196
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "SAPEKHATI",
+      "grampanchayatname": "UDOYSHREE",
+      "ihhltotalasperdetails": 1236,
+      "ihhltotalach": 1236
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "SIVASAGAR",
+      "grampanchayatname": "BANMUKH",
+      "ihhltotalasperdetails": 1297,
+      "ihhltotalach": 1297
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "SIVASAGAR",
+      "grampanchayatname": "BETBARI",
+      "ihhltotalasperdetails": 928,
+      "ihhltotalach": 928
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "SIVASAGAR",
+      "grampanchayatname": "CHAULKARA",
+      "ihhltotalasperdetails": 833,
+      "ihhltotalach": 833
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "SIVASAGAR",
+      "grampanchayatname": "CHEREKAPAR",
+      "ihhltotalasperdetails": 1891,
+      "ihhltotalach": 1891
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "SIVASAGAR",
+      "grampanchayatname": "DESANG DHAI ALI",
+      "ihhltotalasperdetails": 1696,
+      "ihhltotalach": 1696
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "SIVASAGAR",
+      "grampanchayatname": "DESANGMUKH",
+      "ihhltotalasperdetails": 1913,
+      "ihhltotalach": 1913
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "SIVASAGAR",
+      "grampanchayatname": "DESANGPATHAR",
+      "ihhltotalasperdetails": 1696,
+      "ihhltotalach": 1696
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "SIVASAGAR",
+      "grampanchayatname": "GARGAON",
+      "ihhltotalasperdetails": 1488,
+      "ihhltotalach": 1488
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "SIVASAGAR",
+      "grampanchayatname": "HAHCHORA",
+      "ihhltotalasperdetails": 1184,
+      "ihhltotalach": 1184
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "SIVASAGAR",
+      "grampanchayatname": "KHELUA",
+      "ihhltotalasperdetails": 1156,
+      "ihhltotalach": 1156
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "SIVASAGAR",
+      "grampanchayatname": "KONWARPUR",
+      "ihhltotalasperdetails": 1128,
+      "ihhltotalach": 1128
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "SIVASAGAR",
+      "grampanchayatname": "LACHIT",
+      "ihhltotalasperdetails": 1799,
+      "ihhltotalach": 1799
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "SIVASAGAR",
+      "grampanchayatname": "LAKUWA",
+      "ihhltotalasperdetails": 1449,
+      "ihhltotalach": 1449
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "SIVASAGAR",
+      "grampanchayatname": "NAGAR MAHAL",
+      "ihhltotalasperdetails": 1435,
+      "ihhltotalach": 1435
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "SIVASAGAR",
+      "grampanchayatname": "PANBECHA",
+      "ihhltotalasperdetails": 1348,
+      "ihhltotalach": 1348
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "SIVASAGAR",
+      "grampanchayatname": "SANTIPUR",
+      "ihhltotalasperdetails": 910,
+      "ihhltotalach": 910
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "SIVASAGAR",
+      "grampanchayatname": "SILAKUTI",
+      "ihhltotalasperdetails": 2000,
+      "ihhltotalach": 2000
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "SONARI",
+      "grampanchayatname": "BHORALI PUKHURI",
+      "ihhltotalasperdetails": 2003,
+      "ihhltotalach": 2003
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "SONARI",
+      "grampanchayatname": "DEROI",
+      "ihhltotalasperdetails": 2030,
+      "ihhltotalach": 2030
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "SONARI",
+      "grampanchayatname": "DESANGPANI",
+      "ihhltotalasperdetails": 1643,
+      "ihhltotalach": 1643
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "SONARI",
+      "grampanchayatname": "DOBA",
+      "ihhltotalasperdetails": 1569,
+      "ihhltotalach": 1569
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "SONARI",
+      "grampanchayatname": "KAKOTIBARI",
+      "ihhltotalasperdetails": 1942,
+      "ihhltotalach": 1942
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "SONARI",
+      "grampanchayatname": "KHUMTAI",
+      "ihhltotalasperdetails": 1936,
+      "ihhltotalach": 1936
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "SONARI",
+      "grampanchayatname": "MILAN",
+      "ihhltotalasperdetails": 2688,
+      "ihhltotalach": 2688
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "SONARI",
+      "grampanchayatname": "NIZ-KHALOIGHUGRA",
+      "ihhltotalasperdetails": 1294,
+      "ihhltotalach": 1294
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "SONARI",
+      "grampanchayatname": "SARBODOY",
+      "ihhltotalasperdetails": 2567,
+      "ihhltotalach": 2567
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "SONARI",
+      "grampanchayatname": "SEPON",
+      "ihhltotalasperdetails": 2621,
+      "ihhltotalach": 2621
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "SONARI",
+      "grampanchayatname": "UDOIPUR",
+      "ihhltotalasperdetails": 2228,
+      "ihhltotalach": 2228
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "WEST ABHAYAPURI",
+      "grampanchayatname": "ABHOYPUR",
+      "ihhltotalasperdetails": 2555,
+      "ihhltotalach": 2555
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "WEST ABHAYAPURI",
+      "grampanchayatname": "BHOJU",
+      "ihhltotalasperdetails": 1687,
+      "ihhltotalach": 1707
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "WEST ABHAYAPURI",
+      "grampanchayatname": "RAJAPUKHURI",
+      "ihhltotalasperdetails": 1895,
+      "ihhltotalach": 1895
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "WEST ABHAYAPURI",
+      "grampanchayatname": "SONARI",
+      "ihhltotalasperdetails": 2120,
+      "ihhltotalach": 2120
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "WEST ABHAYAPURI",
+      "grampanchayatname": "SUFFRY",
+      "ihhltotalasperdetails": 1755,
+      "ihhltotalach": 1755
+    },
+    {
+      "statename": "Assam",
+      "districtname": "SIBSAGAR",
+      "blockname": "WEST ABHAYAPURI",
+      "grampanchayatname": "TOWKAK",
+      "ihhltotalasperdetails": 3988,
+      "ihhltotalach": 3988
+    }
+  ]
+}

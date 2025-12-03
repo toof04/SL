@@ -1,0 +1,55 @@
+"S. No (Col.1)","Crime Head (Col.2)","Cases Pending Trial from the Previous Year (Col.3)","Cases Sent for Trial during the year (Col.4)","Total Cases for Trial (Col.5=Col.3+ Col.4)","Cases Abated by Court (Col.6)","Cases Withdrawn from Prosecution (Col.7)","Cases Compounded or Compromised (Col.8)","Cases Disposed off by Plea Bargaining (Col.9)","Cases Quashed (Col.10)","Cases Disposed off Without Trial (Col.11=Col.6+Col.7+Col.8+Col.9+Col.10)","Cases Stayed or Sent to Record Room (Col.12)","Cases Convicted Out of Cases from Previous Year (Col.13)","Cases Convicted Out of Cases during the Year (Col.14)","Cases Convicted (Col.15=Col.13+ Col.14)","Cases Discharged (Col.16)","Cases Acquitted (Col.17)","Cases in which Trials were Completed (Col.18=Col.15+ Col.16+ Col.17)","Cases Disposed off by Courts (Col.19=Col.11+ Col.18)","Cases Pending Trial at end of the Year (Col.20=Col.5 - Col.19)","Conviction Rate (Col.21=Col.15/ Col.18) *100","Pendency Percentage (Col.22=Col.20/ Col.5) *100"
+1,"Murder with Rape/Gang Rape",86,24,110,0,0,0,0,0,0,0,2,2,4,0,10,14,14,96,28.6,87.3
+2,"Dowry Deaths",2524,393,2917,0,0,0,0,0,0,2,84,3,87,0,121,208,208,2709,41.8,92.9
+3,"Abetment to Suicide of Women",754,340,1094,0,20,0,0,1,21,0,14,0,14,1,94,109,130,964,12.8,88.1
+4,Miscarriage,47,25,72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,72,NA,100
+5,"Acid Attack",30,13,43,0,0,0,0,0,0,0,1,0,1,0,2,3,3,40,33.3,93
+6,"Attempt to Acid Attack",17,10,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,NA,100
+7,"Cruelty by Husband or His Relatives",45552,10074,55626,22,86,718,2,515,1343,84,271,3,274,132,1939,2345,3688,51938,11.7,93.4
+8,"Kidnapping and Abduction of Women",10668,1445,12113,1,1,5,1,11,19,5,114,7,121,23,276,420,439,11674,28.8,96.4
+8.1,"Kidnapping and Abduction",4567,705,5272,0,0,5,0,9,14,3,40,4,44,12,172,228,242,5030,19.3,95.4
+8.2,"Kidnapping and Abduction in order to Murder",66,1,67,0,0,0,0,0,0,0,1,0,1,0,8,9,9,58,11.1,86.6
+8.3,"Kidnapping for Ransom",121,7,128,0,0,0,0,0,0,0,0,0,0,0,0,0,0,128,NA,100
+8.4,"Kidnapping and Abduction of Women to Compel Her for Marriage",4322,634,4956,0,1,0,1,1,3,1,68,2,70,11,87,168,171,4785,41.7,96.5
+8.4.1,"Kidnapping and Abduction of Women to Compel Her for Marriage - Women",2569,367,2936,0,1,0,1,0,2,1,66,0,66,11,64,141,143,2793,46.8,95.1
+8.4.2,"Kidnapping and Abduction of Women to Compel Her for Marriage - Girls",1753,267,2020,0,0,0,0,1,1,0,2,2,4,0,23,27,28,1992,14.8,98.6
+8.5,"Procuration of Minor Girls",130,28,158,1,0,0,0,0,1,0,1,0,1,0,3,4,5,153,25,96.8
+8.6,"Importation of Girls from Foreign Country",63,1,64,0,0,0,0,0,0,0,1,0,1,0,0,1,1,63,100,98.4
+8.7,"Kidnapping and Abduction of Women - Others",1399,69,1468,0,0,0,0,1,1,1,3,1,4,0,6,10,11,1457,40,99.3
+9,"Human Trafficking",147,79,226,0,0,0,0,0,0,0,1,1,2,0,21,23,23,203,8.7,89.8
+10,"Selling of Minor Girls",71,5,76,0,0,0,0,0,0,0,0,0,0,0,0,0,0,76,NA,100
+11,"Buying of Minor Girls",10,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,NA,100
+12,Rape,11603,2767,14370,7,0,5,1,15,28,23,281,16,297,29,764,1090,1118,13252,27.2,92.2
+12.1,"Rape - Women",11214,2527,13741,7,0,5,1,15,28,20,219,16,235,28,727,990,1018,12723,23.7,92.6
+12.2,"Rape - Girls",389,240,629,0,0,0,0,0,0,3,62,0,62,1,37,100,100,529,62,84.1
+13,"Attempt to Commit Rape",164,71,235,0,0,0,0,0,0,0,4,0,4,1,11,16,16,219,25,93.2
+13.1,"Attempt to Commit Rape - Women",148,51,199,0,0,0,0,0,0,0,4,0,4,1,11,16,16,183,25,92
+13.2,"Attempt to Commit Rape - Girls",16,20,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,NA,100
+14,"Assault on Women with Intent to Outrage her Modesty",31151,8860,40011,22,18,466,56,96,658,35,664,60,724,86,1546,2356,3014,36997,30.7,92.5
+14.1,"Assault on Women with Intent to Outrage her Modesty - Women",30844,8595,39439,22,18,466,54,96,656,32,617,60,677,86,1534,2297,2953,36486,29.5,92.5
+14.2,"Assault on Women with Intent to Outrage her Modesty - Girls",307,265,572,0,0,0,2,0,2,3,47,0,47,0,12,59,61,511,79.7,89.3
+15,"Insult to the Modesty of Women",7826,1588,9414,2,3,187,9,9,210,7,79,26,105,18,240,363,573,8841,28.9,93.9
+15.1,"Insult to the Modesty of Women - Women",7754,1575,9329,2,3,187,9,9,210,5,79,26,105,18,240,363,573,8756,28.9,93.9
+15.2,"Insult to the Modesty of Women - Girls",72,13,85,0,0,0,0,0,0,2,0,0,0,0,0,0,0,85,NA,100
+"Total IPC Crimes against Women","Total IPC Crimes against Women",110650,25694,136344,54,128,1381,69,647,2279,156,1515,118,1633,290,5024,6947,9226,127118,23.5,93.2
+16,"Dowry Prohibition Act",3186,898,4084,0,1,131,0,14,146,4,14,0,14,1,343,358,504,3580,3.9,87.7
+17,"Immoral Traffic (Prevention) Act",3092,417,3509,1,0,7,0,0,8,10,36,55,91,0,417,508,516,2993,17.9,85.3
+17.1,"Procuring, inducing Children for the sake of prostitution",973,168,1141,1,0,0,0,0,1,0,1,29,30,0,193,223,224,917,13.5,80.4
+17.2,"Detaining a person in premises where prostitution is carried on",21,35,56,0,0,0,0,0,0,0,4,0,4,0,0,4,4,52,100,92.9
+17.3,"Prostitution in or in the vicinity of public places",428,47,475,0,0,0,0,0,0,0,3,5,8,0,56,64,64,411,12.5,86.5
+17.4,"Seducing or soliciting for purpose of prostitution",553,122,675,0,0,7,0,0,7,0,14,15,29,0,6,35,42,633,82.9,93.8
+17.5,"Other Sections under ITP Act",1117,45,1162,0,0,0,0,0,0,10,14,6,20,0,162,182,182,980,11,84.3
+18,"Protection of Women from Domestic Violence Act",12,8,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,NA,100
+19,"Cyber Crimes/Information Technology Act",50,22,72,0,0,3,0,0,3,0,1,0,1,0,3,4,7,65,25,90.3
+19.1,"Publishing or Transmitting of Sexually Explicit Material",33,17,50,0,0,3,0,0,3,0,1,0,1,0,3,4,7,43,25,86
+19.2,"Other Women Centric Cyber Crimes",17,5,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,NA,100
+20,"Protection of Children from Sexual Violence Act",11640,4606,16246,5,0,22,0,16,43,6,253,40,293,82,532,907,950,15296,32.3,94.2
+20.1,"POCSO Act Section 4 & 6",7376,2474,9850,4,0,10,0,9,23,3,138,20,158,41,337,536,559,9291,29.5,94.3
+20.2,"POCSO Act Section 8 & 10",3630,1911,5541,1,0,12,0,7,20,2,102,18,120,41,165,326,346,5195,36.8,93.8
+20.3,"POCSO Act Section 12",283,147,430,0,0,0,0,0,0,1,9,1,10,0,9,19,19,411,52.6,95.6
+20.4,"POCSO Act Section 14 & 15",48,13,61,0,0,0,0,0,0,0,1,0,1,0,2,3,3,58,33.3,95.1
+20.5,"POCSO Act Section 17,18,19",265,50,315,0,0,0,0,0,0,0,2,0,2,0,18,20,20,295,10,93.7
+20.6,"POCSO Act r/w Section 377 IPC",38,11,49,0,0,0,0,0,0,0,1,1,2,0,1,3,3,46,66.7,93.9
+21,"Indecent Representation of Women (Prohibition) Act",224,0,224,0,0,0,0,0,0,0,0,0,0,0,1,1,1,223,0,99.6
+"Total SLL Crimes against Women","Total SLL Crimes against Women",18204,5951,24155,6,1,163,0,30,200,20,304,95,399,83,1296,1778,1978,22177,22.4,91.8
+"Total Crime against Women","Total Crime against Women",128854,31645,160499,60,129,1544,69,677,2479,176,1819,213,2032,373,6320,8725,11204,149295,23.3,93

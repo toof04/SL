@@ -1,0 +1,229 @@
+{
+  "index_name": "46f587a9-7476-443e-915f-fc756a6b4e2c",
+  "title": "List of certified varieties of horticultural crops",
+  "desc": "List of certified varieties of horticultural crops",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Agriculture and Farmers Welfare",
+    "Department of Agricultural Research and Education (DARE)",
+    "Indian Council of Agricultural Research (ICAR)"
+  ],
+  "sector": [
+    "Agriculture",
+    "Horticulture"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "d4fe695c-84e1-40ea-b0d5-ca23b9127ef4",
+  "visualizable": "0",
+  "active": "1",
+  "created": 1760075825,
+  "updated": 1760075825,
+  "created_date": "2025-10-10T07:57:05Z",
+  "updated_date": "2025-10-10T07:57:05Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "d4fe695c-84e1-40ea-b0d5-ca23b9127ef4",
+    "field": "46f587a9-7476-443e-915f-fc756a6b4e2c"
+  },
+  "field": [
+    {
+      "id": "name_of_crop",
+      "name": "Name of crop",
+      "type": "keyword"
+    },
+    {
+      "id": "_2002",
+      "name": "2002",
+      "type": "double"
+    },
+    {
+      "id": "_2003",
+      "name": "2003",
+      "type": "double"
+    },
+    {
+      "id": "_2004",
+      "name": "2004",
+      "type": "double"
+    },
+    {
+      "id": "_2005",
+      "name": "2005",
+      "type": "double"
+    },
+    {
+      "id": "_2006",
+      "name": "2006",
+      "type": "double"
+    },
+    {
+      "id": "_2007",
+      "name": "2007",
+      "type": "double"
+    },
+    {
+      "id": "_2008",
+      "name": "2008",
+      "type": "double"
+    },
+    {
+      "id": "_2009",
+      "name": "2009",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 13,
+  "count": 13,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "name_of_crop": "Potato",
+      "_2002": "NA",
+      "_2003": "NA",
+      "_2004": "NA",
+      "_2005": 0,
+      "_2006": "NA",
+      "_2007": "NA",
+      "_2008": 0,
+      "_2009": 0
+    },
+    {
+      "name_of_crop": "Vegetable crops",
+      "_2002": "NA",
+      "_2003": 0,
+      "_2004": 0,
+      "_2005": 0,
+      "_2006": "NA",
+      "_2007": 0,
+      "_2008": 0,
+      "_2009": 0
+    },
+    {
+      "name_of_crop": "Cashew-nut",
+      "_2002": "NA",
+      "_2003": "NA",
+      "_2004": "NA",
+      "_2005": 0,
+      "_2006": "NA",
+      "_2007": 0,
+      "_2008": "NA",
+      "_2009": "NA"
+    },
+    {
+      "name_of_crop": "Coconut (palms)",
+      "_2002": 0,
+      "_2003": "NA",
+      "_2004": "NA",
+      "_2005": "NA",
+      "_2006": "NA",
+      "_2007": "NA",
+      "_2008": 0,
+      "_2009": "NA"
+    },
+    {
+      "name_of_crop": "Turmeric/ spice crops",
+      "_2002": 0,
+      "_2003": "NA",
+      "_2004": 0,
+      "_2005": 0,
+      "_2006": 0,
+      "_2007": 0,
+      "_2008": 0,
+      "_2009": "NA"
+    },
+    {
+      "name_of_crop": "Fruits",
+      "_2002": 0,
+      "_2003": "NA",
+      "_2004": "NA",
+      "_2005": 0,
+      "_2006": 0,
+      "_2007": 0,
+      "_2008": 0,
+      "_2009": "NA"
+    },
+    {
+      "name_of_crop": "Betel -Vine",
+      "_2002": 0,
+      "_2003": "NA",
+      "_2004": "NA",
+      "_2005": "NA",
+      "_2006": "NA",
+      "_2007": "NA",
+      "_2008": "NA",
+      "_2009": "NA"
+    },
+    {
+      "name_of_crop": "Medicinal & Aromatic Plant",
+      "_2002": 0,
+      "_2003": "NA",
+      "_2004": 0,
+      "_2005": 0,
+      "_2006": 0,
+      "_2007": "NA",
+      "_2008": "NA",
+      "_2009": "NA"
+    },
+    {
+      "name_of_crop": "NA",
+      "_2002": "NA",
+      "_2003": "NA",
+      "_2004": "NA",
+      "_2005": "NA",
+      "_2006": "NA",
+      "_2007": "NA",
+      "_2008": "NA",
+      "_2009": "NA"
+    },
+    {
+      "name_of_crop": "Tuber Crops",
+      "_2002": "NA",
+      "_2003": "NA",
+      "_2004": "NA",
+      "_2005": 0,
+      "_2006": 0,
+      "_2007": "NA",
+      "_2008": "NA",
+      "_2009": "NA"
+    },
+    {
+      "name_of_crop": "Crops",
+      "_2002": "NA",
+      "_2003": "NA",
+      "_2004": "NA",
+      "_2005": 0,
+      "_2006": 0,
+      "_2007": "NA",
+      "_2008": "NA",
+      "_2009": "NA"
+    },
+    {
+      "name_of_crop": "Floricultural Crops",
+      "_2002": "NA",
+      "_2003": "NA",
+      "_2004": "NA",
+      "_2005": 0,
+      "_2006": 0,
+      "_2007": "NA",
+      "_2008": 0,
+      "_2009": "NA"
+    },
+    {
+      "name_of_crop": "Plantation Crops",
+      "_2002": "NA",
+      "_2003": "NA",
+      "_2004": "NA",
+      "_2005": "NA",
+      "_2006": 0,
+      "_2007": "NA",
+      "_2008": "NA",
+      "_2009": "NA"
+    }
+  ]
+}

@@ -1,0 +1,614 @@
+{
+  "index_name": "4fcae84f-5b07-4148-9c6b-814cbdf11f4b",
+  "title": "Gram Panchayat-wise Rural Sanitation Coverage in Lower Dibang Valley District of Arunachal Pradesh as on date",
+  "desc": "Gram Panchayat-wise Rural Sanitation Coverage in Lower Dibang Valley District of Arunachal Pradesh as on date",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Jal Shakti",
+    "Department of Drinking Water and Sanitation"
+  ],
+  "sector": [
+    "Water and Sanitation"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1688360219,
+  "updated": 1688364891,
+  "created_date": "2023-07-03T06:56:59Z",
+  "updated_date": "2023-07-03T11:44:51Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "sbm",
+    "type": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+    "field": "4fcae84f-5b07-4148-9c6b-814cbdf11f4b"
+  },
+  "field": [
+    {
+      "id": "statename",
+      "name": "StateName",
+      "type": "keyword"
+    },
+    {
+      "id": "districtname",
+      "name": "DistrictName",
+      "type": "keyword"
+    },
+    {
+      "id": "blockname",
+      "name": "BlockName",
+      "type": "keyword"
+    },
+    {
+      "id": "grampanchayatname",
+      "name": "GramPanchayatName",
+      "type": "keyword"
+    },
+    {
+      "id": "ihhltotalasperdetails",
+      "name": "IHHLTotalAsPerDetails",
+      "type": "double"
+    },
+    {
+      "id": "ihhltotalach",
+      "name": "IHHLTotalAch",
+      "type": "double"
+    },
+    {
+      "id": "date",
+      "name": "Date",
+      "type": "keyword"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 60,
+  "count": 60,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "DUMBUK-PAGLAM",
+      "grampanchayatname": "ANPUM-A",
+      "ihhltotalasperdetails": 140,
+      "ihhltotalach": 140,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "DUMBUK-PAGLAM",
+      "grampanchayatname": "ANPUM-B",
+      "ihhltotalasperdetails": 162,
+      "ihhltotalach": 162,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "DUMBUK-PAGLAM",
+      "grampanchayatname": "BANGO",
+      "ihhltotalasperdetails": 156,
+      "ihhltotalach": 156,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "DUMBUK-PAGLAM",
+      "grampanchayatname": "BIZARI-A",
+      "ihhltotalasperdetails": 106,
+      "ihhltotalach": 106,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "DUMBUK-PAGLAM",
+      "grampanchayatname": "BIZARI-B",
+      "ihhltotalasperdetails": 68,
+      "ihhltotalach": 68,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "DUMBUK-PAGLAM",
+      "grampanchayatname": "BIZARI-C",
+      "ihhltotalasperdetails": 137,
+      "ihhltotalach": 137,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "DUMBUK-PAGLAM",
+      "grampanchayatname": "BOMJIR",
+      "ihhltotalasperdetails": 89,
+      "ihhltotalach": 89,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "DUMBUK-PAGLAM",
+      "grampanchayatname": "LOKLUNG-KALING",
+      "ihhltotalasperdetails": 185,
+      "ihhltotalach": 185,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "DUMBUK-PAGLAM",
+      "grampanchayatname": "PAGLAM- B",
+      "ihhltotalasperdetails": 126,
+      "ihhltotalach": 126,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "DUMBUK-PAGLAM",
+      "grampanchayatname": "PAGLAM-A",
+      "ihhltotalasperdetails": 107,
+      "ihhltotalach": 107,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "DUMBUK-PAGLAM",
+      "grampanchayatname": "POBLUNG-A",
+      "ihhltotalasperdetails": 77,
+      "ihhltotalach": 77,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "DUMBUK-PAGLAM",
+      "grampanchayatname": "POBLUNG-B",
+      "ihhltotalasperdetails": 76,
+      "ihhltotalach": 76,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "DUMBUK-PAGLAM",
+      "grampanchayatname": "POBLUNG-C",
+      "ihhltotalasperdetails": 72,
+      "ihhltotalach": 72,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "DUMBUK-PAGLAM",
+      "grampanchayatname": "REMI",
+      "ihhltotalasperdetails": 123,
+      "ihhltotalach": 123,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "DUMBUK-PAGLAM",
+      "grampanchayatname": "SIRANG",
+      "ihhltotalasperdetails": 72,
+      "ihhltotalach": 72,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "DUMBUK-PAGLAM",
+      "grampanchayatname": "TAPAT-KAPANG",
+      "ihhltotalasperdetails": 53,
+      "ihhltotalach": 53,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "DUMBUK-PAGLAM",
+      "grampanchayatname": "TINALI KEBA",
+      "ihhltotalasperdetails": 210,
+      "ihhltotalach": 210,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "DUMBUK-PAGLAM",
+      "grampanchayatname": "YAPGO",
+      "ihhltotalasperdetails": 44,
+      "ihhltotalach": 44,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "HUNLI-DESALI",
+      "grampanchayatname": "ALONI",
+      "ihhltotalasperdetails": 72,
+      "ihhltotalach": 72,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "HUNLI-DESALI",
+      "grampanchayatname": "BRINLI",
+      "ihhltotalasperdetails": 87,
+      "ihhltotalach": 87,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "HUNLI-DESALI",
+      "grampanchayatname": "DESALI",
+      "ihhltotalasperdetails": 59,
+      "ihhltotalach": 59,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "HUNLI-DESALI",
+      "grampanchayatname": "DONLI",
+      "ihhltotalasperdetails": 23,
+      "ihhltotalach": 23,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "HUNLI-DESALI",
+      "grampanchayatname": "ELOPE",
+      "ihhltotalasperdetails": 80,
+      "ihhltotalach": 80,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "HUNLI-DESALI",
+      "grampanchayatname": "HUNLI",
+      "ihhltotalasperdetails": 57,
+      "ihhltotalach": 57,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "HUNLI-DESALI",
+      "grampanchayatname": "JAMUPANI",
+      "ihhltotalasperdetails": 32,
+      "ihhltotalach": 32,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "HUNLI-DESALI",
+      "grampanchayatname": "MITAKA",
+      "ihhltotalasperdetails": 63,
+      "ihhltotalach": 63,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "ROING-KORONU",
+      "grampanchayatname": "ABALI-I  AND  II",
+      "ihhltotalasperdetails": 87,
+      "ihhltotalach": 87,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "ROING-KORONU",
+      "grampanchayatname": "ABANGO",
+      "ihhltotalasperdetails": 55,
+      "ihhltotalach": 55,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "ROING-KORONU",
+      "grampanchayatname": "BALEK",
+      "ihhltotalasperdetails": 70,
+      "ihhltotalach": 70,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "ROING-KORONU",
+      "grampanchayatname": "BHISMAKNAGAR",
+      "ihhltotalasperdetails": 45,
+      "ihhltotalach": 45,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "ROING-KORONU",
+      "grampanchayatname": "BOLUNG-I",
+      "ihhltotalasperdetails": 147,
+      "ihhltotalach": 147,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "ROING-KORONU",
+      "grampanchayatname": "BOLUNG-II",
+      "ihhltotalasperdetails": 95,
+      "ihhltotalach": 95,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "ROING-KORONU",
+      "grampanchayatname": "BOLUNG-III",
+      "ihhltotalasperdetails": 85,
+      "ihhltotalach": 85,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "ROING-KORONU",
+      "grampanchayatname": "CHETA I  AND  II",
+      "ihhltotalasperdetails": 185,
+      "ihhltotalach": 185,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "ROING-KORONU",
+      "grampanchayatname": "CHIDU",
+      "ihhltotalasperdetails": 54,
+      "ihhltotalach": 54,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "ROING-KORONU",
+      "grampanchayatname": "DENLO",
+      "ihhltotalasperdetails": 102,
+      "ihhltotalach": 102,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "ROING-KORONU",
+      "grampanchayatname": "IDULI",
+      "ihhltotalasperdetails": 72,
+      "ihhltotalach": 72,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "ROING-KORONU",
+      "grampanchayatname": "IMULI",
+      "ihhltotalasperdetails": 46,
+      "ihhltotalach": 46,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "ROING-KORONU",
+      "grampanchayatname": "INJONU",
+      "ihhltotalasperdetails": 47,
+      "ihhltotalach": 47,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "ROING-KORONU",
+      "grampanchayatname": "INTAYA",
+      "ihhltotalasperdetails": 138,
+      "ihhltotalach": 138,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "ROING-KORONU",
+      "grampanchayatname": "ITHILI-IDLI",
+      "ihhltotalasperdetails": 56,
+      "ihhltotalach": 56,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "ROING-KORONU",
+      "grampanchayatname": "JIA-I",
+      "ihhltotalasperdetails": 167,
+      "ihhltotalach": 167,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "ROING-KORONU",
+      "grampanchayatname": "JIA-II",
+      "ihhltotalasperdetails": 148,
+      "ihhltotalach": 148,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "ROING-KORONU",
+      "grampanchayatname": "JIA-III",
+      "ihhltotalasperdetails": 119,
+      "ihhltotalach": 119,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "ROING-KORONU",
+      "grampanchayatname": "KANGKONG",
+      "ihhltotalasperdetails": 115,
+      "ihhltotalach": 115,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "ROING-KORONU",
+      "grampanchayatname": "KEBALI",
+      "ihhltotalasperdetails": 53,
+      "ihhltotalach": 53,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "ROING-KORONU",
+      "grampanchayatname": "KORONU",
+      "ihhltotalasperdetails": 89,
+      "ihhltotalach": 89,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "ROING-KORONU",
+      "grampanchayatname": "MAYU-I",
+      "ihhltotalasperdetails": 192,
+      "ihhltotalach": 192,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "ROING-KORONU",
+      "grampanchayatname": "MAYU-II",
+      "ihhltotalasperdetails": 228,
+      "ihhltotalach": 228,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "ROING-KORONU",
+      "grampanchayatname": "MEKA-I",
+      "ihhltotalasperdetails": 168,
+      "ihhltotalach": 168,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "ROING-KORONU",
+      "grampanchayatname": "MEKA-II",
+      "ihhltotalasperdetails": 124,
+      "ihhltotalach": 124,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "ROING-KORONU",
+      "grampanchayatname": "MOBANG-I",
+      "ihhltotalasperdetails": 108,
+      "ihhltotalach": 108,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "ROING-KORONU",
+      "grampanchayatname": "MOBANG-II",
+      "ihhltotalasperdetails": 107,
+      "ihhltotalach": 107,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "ROING-KORONU",
+      "grampanchayatname": "OLD ABALI",
+      "ihhltotalasperdetails": 40,
+      "ihhltotalach": 40,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "ROING-KORONU",
+      "grampanchayatname": "PARBUK",
+      "ihhltotalasperdetails": 140,
+      "ihhltotalach": 140,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "ROING-KORONU",
+      "grampanchayatname": "RAYANG-II MIDLAND",
+      "ihhltotalasperdetails": 126,
+      "ihhltotalach": 126,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "ROING-KORONU",
+      "grampanchayatname": "RUKMO",
+      "ihhltotalasperdetails": 44,
+      "ihhltotalach": 44,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "ROING-KORONU",
+      "grampanchayatname": "SANTIPUR-KALEK",
+      "ihhltotalasperdetails": 92,
+      "ihhltotalach": 92,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "ROING-KORONU",
+      "grampanchayatname": "SIMARI-I  AND II",
+      "ihhltotalasperdetails": 45,
+      "ihhltotalach": 45,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "LOWER DIBANG VALLEY",
+      "blockname": "ROING-KORONU",
+      "grampanchayatname": "YIBUK-RAYANG",
+      "ihhltotalasperdetails": 118,
+      "ihhltotalach": 118,
+      "date": "5/19/2020 12:00:00 AM"
+    }
+  ]
+}

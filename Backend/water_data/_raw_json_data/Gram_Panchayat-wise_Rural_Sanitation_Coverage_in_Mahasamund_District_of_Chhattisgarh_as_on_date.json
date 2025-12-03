@@ -1,0 +1,4979 @@
+{
+  "index_name": "bcb328c7-e888-4a7c-92c0-fbc99ff32394",
+  "title": "Gram Panchayat-wise Rural Sanitation Coverage in Mahasamund District of Chhattisgarh as on date",
+  "desc": "Gram Panchayat-wise Rural Sanitation Coverage in Mahasamund District of Chhattisgarh as on date",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Jal Shakti",
+    "Department of Drinking Water and Sanitation"
+  ],
+  "sector": [
+    "Water and Sanitation"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1688360354,
+  "updated": 1688364930,
+  "created_date": "2023-07-03T06:59:14Z",
+  "updated_date": "2023-07-03T11:45:30Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "sbm",
+    "type": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+    "field": "bcb328c7-e888-4a7c-92c0-fbc99ff32394"
+  },
+  "field": [
+    {
+      "id": "statename",
+      "name": "StateName",
+      "type": "keyword"
+    },
+    {
+      "id": "districtname",
+      "name": "DistrictName",
+      "type": "keyword"
+    },
+    {
+      "id": "blockname",
+      "name": "BlockName",
+      "type": "keyword"
+    },
+    {
+      "id": "grampanchayatname",
+      "name": "GramPanchayatName",
+      "type": "keyword"
+    },
+    {
+      "id": "ihhltotalasperdetails",
+      "name": "IHHLTotalAsPerDetails",
+      "type": "double"
+    },
+    {
+      "id": "ihhltotalach",
+      "name": "IHHLTotalAch",
+      "type": "double"
+    },
+    {
+      "id": "date",
+      "name": "Date",
+      "type": "keyword"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 545,
+  "count": 545,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "AAMAKONI",
+      "ihhltotalasperdetails": 573,
+      "ihhltotalach": 573,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "ANWARPUR",
+      "ihhltotalasperdetails": 210,
+      "ihhltotalach": 210,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "ARAND",
+      "ihhltotalasperdetails": 533,
+      "ihhltotalach": 533,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "AVARADABARI",
+      "ihhltotalasperdetails": 562,
+      "ihhltotalach": 562,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "B.K.BAHARA",
+      "ihhltotalasperdetails": 393,
+      "ihhltotalach": 393,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "BAGBAHRAKALA",
+      "ihhltotalasperdetails": 483,
+      "ihhltotalach": 483,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "BAGHMUDA",
+      "ihhltotalasperdetails": 437,
+      "ihhltotalach": 437,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "BAKMA",
+      "ihhltotalasperdetails": 1059,
+      "ihhltotalach": 1059,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "BARBASPUR",
+      "ihhltotalasperdetails": 505,
+      "ihhltotalach": 505,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "BASULADABARI",
+      "ihhltotalasperdetails": 964,
+      "ihhltotalach": 964,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "BHADRASI",
+      "ihhltotalasperdetails": 475,
+      "ihhltotalach": 475,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "BHALESHAR",
+      "ihhltotalasperdetails": 428,
+      "ihhltotalach": 428,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "BHALUCHUWA",
+      "ihhltotalasperdetails": 336,
+      "ihhltotalach": 336,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "BHIMKHOJ",
+      "ihhltotalasperdetails": 691,
+      "ihhltotalach": 691,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "BIHAJHAR",
+      "ihhltotalasperdetails": 549,
+      "ihhltotalach": 549,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "BINDRAWAN",
+      "ihhltotalasperdetails": 595,
+      "ihhltotalach": 595,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "BIRAJPALI",
+      "ihhltotalasperdetails": 309,
+      "ihhltotalach": 309,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "BODARABANDHA",
+      "ihhltotalasperdetails": 586,
+      "ihhltotalach": 586,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "BODARIDADAR",
+      "ihhltotalasperdetails": 846,
+      "ihhltotalach": 846,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "BOHTA",
+      "ihhltotalasperdetails": 558,
+      "ihhltotalach": 558,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "BOIRGAON",
+      "ihhltotalasperdetails": 476,
+      "ihhltotalach": 476,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "BOKARAMUDAKALA",
+      "ihhltotalasperdetails": 328,
+      "ihhltotalach": 328,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "BOKRAMUDAKHURD",
+      "ihhltotalasperdetails": 206,
+      "ihhltotalach": 206,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "CHAROUDA",
+      "ihhltotalasperdetails": 294,
+      "ihhltotalach": 294,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "CHINGARIYA",
+      "ihhltotalasperdetails": 492,
+      "ihhltotalach": 492,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "CHUIHA",
+      "ihhltotalasperdetails": 419,
+      "ihhltotalach": 419,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "CHURKI",
+      "ihhltotalasperdetails": 350,
+      "ihhltotalach": 350,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "DABPALI",
+      "ihhltotalasperdetails": 432,
+      "ihhltotalach": 432,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "DARGAON",
+      "ihhltotalasperdetails": 294,
+      "ihhltotalach": 294,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "DEORI",
+      "ihhltotalasperdetails": 409,
+      "ihhltotalach": 409,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "DHARAMPUR",
+      "ihhltotalasperdetails": 496,
+      "ihhltotalach": 496,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "DHOD",
+      "ihhltotalasperdetails": 685,
+      "ihhltotalach": 685,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "DHUCHAPALIKALA",
+      "ihhltotalasperdetails": 359,
+      "ihhltotalach": 359,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "DOKARPALI",
+      "ihhltotalasperdetails": 558,
+      "ihhltotalach": 558,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "DONGARGAON",
+      "ihhltotalasperdetails": 723,
+      "ihhltotalach": 723,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "DUMARPALI",
+      "ihhltotalasperdetails": 725,
+      "ihhltotalach": 725,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "DWARTALAKALA",
+      "ihhltotalasperdetails": 650,
+      "ihhltotalach": 650,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "GABAOUDE",
+      "ihhltotalasperdetails": 927,
+      "ihhltotalach": 927,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "GANJAR",
+      "ihhltotalasperdetails": 533,
+      "ihhltotalach": 533,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "GHOYNABAHARAKALA",
+      "ihhltotalasperdetails": 429,
+      "ihhltotalach": 429,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "HADABANDH",
+      "ihhltotalasperdetails": 236,
+      "ihhltotalach": 236,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "HARNADADAR",
+      "ihhltotalasperdetails": 368,
+      "ihhltotalach": 368,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "HATHIBAHARA",
+      "ihhltotalasperdetails": 464,
+      "ihhltotalach": 464,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "JAMLI",
+      "ihhltotalasperdetails": 404,
+      "ihhltotalach": 404,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "JITKI",
+      "ihhltotalasperdetails": 628,
+      "ihhltotalach": 628,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "JUNWANIKALA",
+      "ihhltotalasperdetails": 600,
+      "ihhltotalach": 600,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "JUNWANIKURUD",
+      "ihhltotalasperdetails": 566,
+      "ihhltotalach": 566,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "KALMIDADAR",
+      "ihhltotalasperdetails": 551,
+      "ihhltotalach": 551,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "KAMROUDE",
+      "ihhltotalasperdetails": 483,
+      "ihhltotalach": 483,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "KANHARPURI",
+      "ihhltotalasperdetails": 588,
+      "ihhltotalach": 588,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "KARHIDIH",
+      "ihhltotalasperdetails": 489,
+      "ihhltotalach": 489,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "KASIBAHARA",
+      "ihhltotalasperdetails": 616,
+      "ihhltotalach": 616,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "KASSEKERA",
+      "ihhltotalasperdetails": 688,
+      "ihhltotalach": 688,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "KHADADARHA",
+      "ihhltotalasperdetails": 414,
+      "ihhltotalach": 414,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "KHAIRATKALA",
+      "ihhltotalasperdetails": 521,
+      "ihhltotalach": 521,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "KHAIRATKHURUDE",
+      "ihhltotalasperdetails": 544,
+      "ihhltotalach": 544,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "KHALLARI",
+      "ihhltotalasperdetails": 561,
+      "ihhltotalach": 561,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "KHAMARIA",
+      "ihhltotalasperdetails": 631,
+      "ihhltotalach": 631,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "KHATTI",
+      "ihhltotalasperdetails": 761,
+      "ihhltotalach": 761,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "KHEMDA",
+      "ihhltotalasperdetails": 672,
+      "ihhltotalach": 672,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "KHOPALI",
+      "ihhltotalasperdetails": 565,
+      "ihhltotalach": 565,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "KHURSIPAR",
+      "ihhltotalasperdetails": 501,
+      "ihhltotalach": 501,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "KHUSRUPALI",
+      "ihhltotalasperdetails": 540,
+      "ihhltotalach": 540,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "KHUTERI",
+      "ihhltotalasperdetails": 380,
+      "ihhltotalach": 380,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "KOMA",
+      "ihhltotalasperdetails": 614,
+      "ihhltotalach": 614,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "KOMAKHAN",
+      "ihhltotalasperdetails": 658,
+      "ihhltotalach": 658,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "KOSARA",
+      "ihhltotalasperdetails": 332,
+      "ihhltotalach": 332,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "KOSMARRA",
+      "ihhltotalasperdetails": 493,
+      "ihhltotalach": 493,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "KULIYA",
+      "ihhltotalasperdetails": 779,
+      "ihhltotalach": 779,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "KURRUBHATTA",
+      "ihhltotalasperdetails": 623,
+      "ihhltotalach": 623,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "KUSMI",
+      "ihhltotalasperdetails": 325,
+      "ihhltotalach": 325,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "LAMKENI",
+      "ihhltotalasperdetails": 347,
+      "ihhltotalach": 347,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "M.K.BAHARA",
+      "ihhltotalasperdetails": 682,
+      "ihhltotalach": 682,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "MAMABHANCHA",
+      "ihhltotalasperdetails": 858,
+      "ihhltotalach": 858,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "MOHANDI",
+      "ihhltotalasperdetails": 523,
+      "ihhltotalach": 523,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "MONGARAPALI(RE)",
+      "ihhltotalasperdetails": 627,
+      "ihhltotalach": 627,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "MONGARAPALI(S)",
+      "ihhltotalasperdetails": 584,
+      "ihhltotalach": 584,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "MUNGASER",
+      "ihhltotalasperdetails": 676,
+      "ihhltotalach": 676,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "NARRA",
+      "ihhltotalasperdetails": 700,
+      "ihhltotalach": 700,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "NARTORI",
+      "ihhltotalasperdetails": 213,
+      "ihhltotalach": 213,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "ONKARBANDH",
+      "ihhltotalasperdetails": 235,
+      "ihhltotalach": 235,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "PACHEDA",
+      "ihhltotalasperdetails": 485,
+      "ihhltotalach": 485,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "PANDARIPANI",
+      "ihhltotalasperdetails": 629,
+      "ihhltotalach": 629,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "PARKOM",
+      "ihhltotalasperdetails": 734,
+      "ihhltotalach": 734,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "PARSULI",
+      "ihhltotalasperdetails": 736,
+      "ihhltotalach": 736,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "PATHERAPALI",
+      "ihhltotalasperdetails": 790,
+      "ihhltotalach": 790,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "PATHERAPALI(S)",
+      "ihhltotalasperdetails": 509,
+      "ihhltotalach": 509,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "PATPARPALI",
+      "ihhltotalasperdetails": 339,
+      "ihhltotalach": 339,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "POTTIYA",
+      "ihhltotalasperdetails": 654,
+      "ihhltotalach": 654,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "RATAPALI",
+      "ihhltotalasperdetails": 654,
+      "ihhltotalach": 654,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "SALHEBHATTA",
+      "ihhltotalasperdetails": 592,
+      "ihhltotalach": 592,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "SAMHAR",
+      "ihhltotalasperdetails": 685,
+      "ihhltotalach": 685,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "SHIKARIPALI",
+      "ihhltotalasperdetails": 587,
+      "ihhltotalach": 587,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "SIMGAON",
+      "ihhltotalasperdetails": 473,
+      "ihhltotalach": 473,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "SIONIKALA",
+      "ihhltotalasperdetails": 932,
+      "ihhltotalach": 932,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "SIRRIPATTARIMUDA",
+      "ihhltotalasperdetails": 555,
+      "ihhltotalach": 555,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "SONAPUTI",
+      "ihhltotalasperdetails": 550,
+      "ihhltotalach": 550,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "SUKHARIDABARI",
+      "ihhltotalasperdetails": 362,
+      "ihhltotalach": 362,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "SUNSUNIAY",
+      "ihhltotalasperdetails": 461,
+      "ihhltotalach": 461,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "SUWARMAAR",
+      "ihhltotalasperdetails": 694,
+      "ihhltotalach": 694,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "TAMORA",
+      "ihhltotalasperdetails": 550,
+      "ihhltotalach": 550,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "TEDHINARRA",
+      "ihhltotalasperdetails": 679,
+      "ihhltotalach": 679,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "TEKKA",
+      "ihhltotalasperdetails": 346,
+      "ihhltotalach": 346,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "TEMARI",
+      "ihhltotalasperdetails": 497,
+      "ihhltotalach": 497,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "TENDHUKONA",
+      "ihhltotalasperdetails": 603,
+      "ihhltotalach": 603,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "TONGOPANIKALA",
+      "ihhltotalasperdetails": 733,
+      "ihhltotalach": 733,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "TUBKABORA",
+      "ihhltotalasperdetails": 399,
+      "ihhltotalach": 399,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "TUDA",
+      "ihhltotalasperdetails": 386,
+      "ihhltotalach": 386,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "TUHLU",
+      "ihhltotalasperdetails": 283,
+      "ihhltotalach": 283,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BAGBAHARA",
+      "grampanchayatname": "UKHARA",
+      "ihhltotalasperdetails": 1153,
+      "ihhltotalach": 1153,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "AMAPALI",
+      "ihhltotalasperdetails": 767,
+      "ihhltotalach": 767,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "ANKORI",
+      "ihhltotalasperdetails": 593,
+      "ihhltotalach": 593,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "AREKEL",
+      "ihhltotalasperdetails": 739,
+      "ihhltotalach": 739,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "AZAGARKHAR",
+      "ihhltotalasperdetails": 656,
+      "ihhltotalach": 656,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "BADEDHABA",
+      "ihhltotalasperdetails": 445,
+      "ihhltotalach": 445,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "BADESAJAPALI",
+      "ihhltotalasperdetails": 838,
+      "ihhltotalach": 838,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "BADETEMARI",
+      "ihhltotalasperdetails": 521,
+      "ihhltotalach": 521,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "BANDABRI",
+      "ihhltotalasperdetails": 521,
+      "ihhltotalach": 521,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "BANSULA",
+      "ihhltotalasperdetails": 504,
+      "ihhltotalach": 504,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "BARADHOLI",
+      "ihhltotalasperdetails": 399,
+      "ihhltotalach": 399,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "BARBASPUR",
+      "ihhltotalasperdetails": 409,
+      "ihhltotalach": 409,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "BARDIH",
+      "ihhltotalasperdetails": 275,
+      "ihhltotalach": 275,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "BARGEON",
+      "ihhltotalasperdetails": 683,
+      "ihhltotalach": 683,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "BAROLI",
+      "ihhltotalasperdetails": 244,
+      "ihhltotalach": 244,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "BARPELADIH",
+      "ihhltotalasperdetails": 278,
+      "ihhltotalach": 278,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "BARTIYABHANTA",
+      "ihhltotalasperdetails": 329,
+      "ihhltotalach": 329,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "BELTIKARI",
+      "ihhltotalasperdetails": 411,
+      "ihhltotalach": 411,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "BHAISAKHURI",
+      "ihhltotalasperdetails": 378,
+      "ihhltotalach": 378,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "BHATHORI",
+      "ihhltotalasperdetails": 433,
+      "ihhltotalach": 433,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "BHUKEL",
+      "ihhltotalasperdetails": 484,
+      "ihhltotalach": 484,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "BHWARCHUWA",
+      "ihhltotalasperdetails": 501,
+      "ihhltotalach": 501,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "BHWARPUR",
+      "ihhltotalasperdetails": 1019,
+      "ihhltotalach": 1019,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "BICHIYA P",
+      "ihhltotalasperdetails": 678,
+      "ihhltotalach": 678,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "BICHIYA S",
+      "ihhltotalasperdetails": 486,
+      "ihhltotalach": 486,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "BIJARABHANTA",
+      "ihhltotalasperdetails": 354,
+      "ihhltotalach": 354,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "BIRSINGHPALI",
+      "ihhltotalasperdetails": 436,
+      "ihhltotalach": 436,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "BITANGIPALI",
+      "ihhltotalasperdetails": 378,
+      "ihhltotalach": 378,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "BUNDELABHANTA",
+      "ihhltotalasperdetails": 556,
+      "ihhltotalach": 556,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "BUTIPALI",
+      "ihhltotalasperdetails": 643,
+      "ihhltotalach": 643,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "CHANAT",
+      "ihhltotalasperdetails": 459,
+      "ihhltotalach": 459,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "CHANDKHURI",
+      "ihhltotalasperdetails": 439,
+      "ihhltotalach": 439,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "CHHADANPUR",
+      "ihhltotalasperdetails": 701,
+      "ihhltotalach": 701,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "CHHOTEPATNI",
+      "ihhltotalasperdetails": 632,
+      "ihhltotalach": 632,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "CHHUPALI",
+      "ihhltotalasperdetails": 679,
+      "ihhltotalach": 679,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "CHIMARKEL",
+      "ihhltotalasperdetails": 376,
+      "ihhltotalach": 376,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "CHIPRIKONA",
+      "ihhltotalasperdetails": 434,
+      "ihhltotalach": 434,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "DALDALI",
+      "ihhltotalasperdetails": 1114,
+      "ihhltotalach": 1114,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "DEORI",
+      "ihhltotalasperdetails": 863,
+      "ihhltotalach": 863,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "DHALAM",
+      "ihhltotalasperdetails": 616,
+      "ihhltotalach": 616,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "DHANAPALI",
+      "ihhltotalasperdetails": 544,
+      "ihhltotalach": 544,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "DUDHIPALI",
+      "ihhltotalasperdetails": 465,
+      "ihhltotalach": 465,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "DULARPALI",
+      "ihhltotalasperdetails": 605,
+      "ihhltotalach": 605,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "DURGAPALI",
+      "ihhltotalasperdetails": 749,
+      "ihhltotalach": 749,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "DURUGPALI",
+      "ihhltotalasperdetails": 665,
+      "ihhltotalach": 665,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "GANEKERA",
+      "ihhltotalasperdetails": 560,
+      "ihhltotalach": 560,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "GANESHPUR",
+      "ihhltotalasperdetails": 728,
+      "ihhltotalach": 728,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "GARHPATNI",
+      "ihhltotalasperdetails": 575,
+      "ihhltotalach": 575,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "GARHPHULGHAR",
+      "ihhltotalasperdetails": 730,
+      "ihhltotalach": 730,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "GIDHALI",
+      "ihhltotalasperdetails": 578,
+      "ihhltotalach": 578,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "GOURTAK",
+      "ihhltotalasperdetails": 271,
+      "ihhltotalach": 271,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "GUDHIYARI",
+      "ihhltotalasperdetails": 334,
+      "ihhltotalach": 334,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "HARDA",
+      "ihhltotalasperdetails": 381,
+      "ihhltotalach": 381,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "JAGAT",
+      "ihhltotalasperdetails": 449,
+      "ihhltotalach": 449,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "JAMDARHA",
+      "ihhltotalasperdetails": 692,
+      "ihhltotalach": 692,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "JOGIPALI",
+      "ihhltotalasperdetails": 469,
+      "ihhltotalach": 469,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "KARNAPALI",
+      "ihhltotalasperdetails": 370,
+      "ihhltotalach": 370,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "KAYATPALI",
+      "ihhltotalasperdetails": 533,
+      "ihhltotalach": 533,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "KEWATAPALI",
+      "ihhltotalasperdetails": 357,
+      "ihhltotalach": 357,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "KHATKHATI",
+      "ihhltotalasperdetails": 376,
+      "ihhltotalach": 376,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "KHEMADA",
+      "ihhltotalasperdetails": 666,
+      "ihhltotalach": 666,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "KHOGSA",
+      "ihhltotalasperdetails": 593,
+      "ihhltotalach": 593,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "KHORARA",
+      "ihhltotalasperdetails": 556,
+      "ihhltotalach": 556,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "KOLIHADEORI",
+      "ihhltotalasperdetails": 306,
+      "ihhltotalach": 306,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "KOTENDARHA",
+      "ihhltotalasperdetails": 241,
+      "ihhltotalach": 241,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "KUARMADIH",
+      "ihhltotalasperdetails": 377,
+      "ihhltotalach": 377,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "KUDARIBAHRA",
+      "ihhltotalasperdetails": 530,
+      "ihhltotalach": 530,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "KUDEKEL",
+      "ihhltotalasperdetails": 358,
+      "ihhltotalach": 358,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "KUMHARI",
+      "ihhltotalasperdetails": 681,
+      "ihhltotalach": 681,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "KURCHUNDI",
+      "ihhltotalasperdetails": 638,
+      "ihhltotalach": 638,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "KUSMUR",
+      "ihhltotalasperdetails": 473,
+      "ihhltotalach": 473,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "LAMBAR",
+      "ihhltotalasperdetails": 373,
+      "ihhltotalach": 373,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "LOHADIPUR",
+      "ihhltotalasperdetails": 476,
+      "ihhltotalach": 476,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "LOHARINDIPA",
+      "ihhltotalasperdetails": 729,
+      "ihhltotalach": 729,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "MADHOPALI",
+      "ihhltotalasperdetails": 640,
+      "ihhltotalach": 640,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "MADNIPUR",
+      "ihhltotalasperdetails": 406,
+      "ihhltotalach": 406,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "MEDHAPALI",
+      "ihhltotalasperdetails": 434,
+      "ihhltotalach": 434,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "MOHKA",
+      "ihhltotalasperdetails": 503,
+      "ihhltotalach": 503,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "MUNGADIH",
+      "ihhltotalasperdetails": 368,
+      "ihhltotalach": 368,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "NANAKSAGAR",
+      "ihhltotalasperdetails": 289,
+      "ihhltotalach": 289,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "NOUGADI",
+      "ihhltotalasperdetails": 442,
+      "ihhltotalach": 442,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "PALSAPALI A",
+      "ihhltotalasperdetails": 592,
+      "ihhltotalach": 592,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "PALSAPALI B",
+      "ihhltotalasperdetails": 557,
+      "ihhltotalach": 557,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "PARSKOL",
+      "ihhltotalasperdetails": 290,
+      "ihhltotalach": 290,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "PATHIYAPALI",
+      "ihhltotalasperdetails": 448,
+      "ihhltotalach": 448,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "POUSARA",
+      "ihhltotalasperdetails": 652,
+      "ihhltotalach": 652,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "PURUSHOTTAMPUR",
+      "ihhltotalasperdetails": 490,
+      "ihhltotalach": 490,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "RANGMATIYA",
+      "ihhltotalasperdetails": 725,
+      "ihhltotalach": 725,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "RASODA",
+      "ihhltotalasperdetails": 463,
+      "ihhltotalach": 463,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "ROHINA",
+      "ihhltotalasperdetails": 350,
+      "ihhltotalach": 350,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "RUPAPALI",
+      "ihhltotalasperdetails": 623,
+      "ihhltotalach": 623,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "SAGARPALI",
+      "ihhltotalasperdetails": 786,
+      "ihhltotalach": 786,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "SALEGHARIYA",
+      "ihhltotalasperdetails": 464,
+      "ihhltotalach": 464,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "SALKHAND",
+      "ihhltotalasperdetails": 470,
+      "ihhltotalach": 470,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "SANTPALI",
+      "ihhltotalasperdetails": 508,
+      "ihhltotalach": 508,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "SARAIPALI",
+      "ihhltotalasperdetails": 340,
+      "ihhltotalach": 340,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "SARKANDA",
+      "ihhltotalasperdetails": 516,
+      "ihhltotalach": 516,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "SINGHNPUR",
+      "ihhltotalasperdetails": 595,
+      "ihhltotalach": 595,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "SUKHAPALI",
+      "ihhltotalasperdetails": 554,
+      "ihhltotalach": 554,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "THAKURPALI",
+      "ihhltotalasperdetails": 510,
+      "ihhltotalach": 510,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "UDHELA",
+      "ihhltotalasperdetails": 470,
+      "ihhltotalach": 470,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "BASNA",
+      "grampanchayatname": "UMARIYA",
+      "ihhltotalasperdetails": 602,
+      "ihhltotalach": 602,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "ACHANAKPUR",
+      "ihhltotalasperdetails": 496,
+      "ihhltotalach": 496,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "ACHHARIDIH",
+      "ihhltotalasperdetails": 441,
+      "ihhltotalach": 441,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "ACHHOLA",
+      "ihhltotalasperdetails": 745,
+      "ihhltotalach": 745,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "ACHHOLI",
+      "ihhltotalasperdetails": 215,
+      "ihhltotalach": 215,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "AMLOR",
+      "ihhltotalasperdetails": 242,
+      "ihhltotalach": 242,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "BADGAON",
+      "ihhltotalasperdetails": 617,
+      "ihhltotalach": 617,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "BAKMA",
+      "ihhltotalasperdetails": 769,
+      "ihhltotalach": 769,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "BAMBURDIH",
+      "ihhltotalasperdetails": 221,
+      "ihhltotalach": 221,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "BAMHANI",
+      "ihhltotalasperdetails": 466,
+      "ihhltotalach": 466,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "BANDORA",
+      "ihhltotalasperdetails": 357,
+      "ihhltotalach": 357,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "BANPACHARI",
+      "ihhltotalasperdetails": 468,
+      "ihhltotalach": 468,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "BANSKUDA",
+      "ihhltotalasperdetails": 432,
+      "ihhltotalach": 432,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "BARBASPUR",
+      "ihhltotalasperdetails": 466,
+      "ihhltotalach": 466,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "BAREKELKALA",
+      "ihhltotalasperdetails": 368,
+      "ihhltotalach": 368,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "BARONDABAZAR",
+      "ihhltotalasperdetails": 434,
+      "ihhltotalach": 434,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "BAVANKERA",
+      "ihhltotalasperdetails": 502,
+      "ihhltotalach": 502,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "BELPUKARI",
+      "ihhltotalasperdetails": 523,
+      "ihhltotalach": 523,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "BELSONDA",
+      "ihhltotalasperdetails": 758,
+      "ihhltotalach": 758,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "BEMCHA",
+      "ihhltotalasperdetails": 1080,
+      "ihhltotalach": 1080,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "BHALESAR",
+      "ihhltotalasperdetails": 372,
+      "ihhltotalach": 372,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "BHATGAON",
+      "ihhltotalasperdetails": 428,
+      "ihhltotalach": 428,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "BHORING",
+      "ihhltotalasperdetails": 1062,
+      "ihhltotalach": 1062,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "BIRKONI",
+      "ihhltotalasperdetails": 1033,
+      "ihhltotalach": 1033,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "BODRA",
+      "ihhltotalasperdetails": 348,
+      "ihhltotalach": 348,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "BORIYAJHAR",
+      "ihhltotalasperdetails": 370,
+      "ihhltotalach": 370,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "CHAPORADIH",
+      "ihhltotalasperdetails": 204,
+      "ihhltotalach": 204,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "CHHILPAWAN",
+      "ihhltotalasperdetails": 398,
+      "ihhltotalach": 398,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "CHHINDOLI",
+      "ihhltotalasperdetails": 529,
+      "ihhltotalach": 529,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "CHINGROD",
+      "ihhltotalasperdetails": 282,
+      "ihhltotalach": 282,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "CHIRKO",
+      "ihhltotalasperdetails": 563,
+      "ihhltotalach": 563,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "CHOWKBEDA",
+      "ihhltotalasperdetails": 263,
+      "ihhltotalach": 263,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "CHUHARI",
+      "ihhltotalasperdetails": 297,
+      "ihhltotalach": 297,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "DHANK",
+      "ihhltotalasperdetails": 705,
+      "ihhltotalach": 705,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "DHANSULI",
+      "ihhltotalasperdetails": 375,
+      "ihhltotalach": 375,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "DUMARPALI",
+      "ihhltotalasperdetails": 564,
+      "ihhltotalach": 564,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "GARHSIVNI",
+      "ihhltotalasperdetails": 548,
+      "ihhltotalach": 548,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "GHODARI",
+      "ihhltotalasperdetails": 556,
+      "ihhltotalach": 556,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "GOPALPUR",
+      "ihhltotalasperdetails": 298,
+      "ihhltotalach": 298,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "JALKI",
+      "ihhltotalasperdetails": 141,
+      "ihhltotalach": 141,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "JAMPALI",
+      "ihhltotalasperdetails": 270,
+      "ihhltotalach": 270,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "JHALAP",
+      "ihhltotalasperdetails": 586,
+      "ihhltotalach": 586,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "JHALKHAMARIYA",
+      "ihhltotalasperdetails": 417,
+      "ihhltotalach": 417,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "JHARA",
+      "ihhltotalasperdetails": 439,
+      "ihhltotalach": 439,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "JOBA",
+      "ihhltotalasperdetails": 322,
+      "ihhltotalach": 322,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "JOBAKALA",
+      "ihhltotalasperdetails": 415,
+      "ihhltotalach": 415,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "JOGIDIPA",
+      "ihhltotalasperdetails": 364,
+      "ihhltotalach": 364,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "KACHHARDIH",
+      "ihhltotalasperdetails": 603,
+      "ihhltotalach": 603,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "KANEKERA",
+      "ihhltotalasperdetails": 296,
+      "ihhltotalach": 296,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "KANPA",
+      "ihhltotalasperdetails": 643,
+      "ihhltotalach": 643,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "KHAIRA",
+      "ihhltotalasperdetails": 468,
+      "ihhltotalach": 468,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "KHAIRJHITHI",
+      "ihhltotalasperdetails": 501,
+      "ihhltotalach": 501,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "KHARORA",
+      "ihhltotalasperdetails": 296,
+      "ihhltotalach": 296,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "KHATTA",
+      "ihhltotalasperdetails": 421,
+      "ihhltotalach": 421,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "KHATTI",
+      "ihhltotalasperdetails": 462,
+      "ihhltotalach": 462,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "KOLPADAR",
+      "ihhltotalasperdetails": 317,
+      "ihhltotalach": 317,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "KONDKERA",
+      "ihhltotalasperdetails": 426,
+      "ihhltotalach": 426,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "KOSRANGI",
+      "ihhltotalasperdetails": 364,
+      "ihhltotalach": 364,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "KOWAJHAR",
+      "ihhltotalasperdetails": 230,
+      "ihhltotalach": 230,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "KUKRADIH",
+      "ihhltotalasperdetails": 272,
+      "ihhltotalach": 272,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "KURRUBHATHA",
+      "ihhltotalasperdetails": 343,
+      "ihhltotalach": 343,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "LABHARAKALA",
+      "ihhltotalasperdetails": 321,
+      "ihhltotalach": 321,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "LABHRAKHURD",
+      "ihhltotalasperdetails": 285,
+      "ihhltotalach": 285,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "LAHANGAR",
+      "ihhltotalasperdetails": 484,
+      "ihhltotalach": 484,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "LAKHANPUR",
+      "ihhltotalasperdetails": 509,
+      "ihhltotalach": 509,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "LAPHINKALA",
+      "ihhltotalasperdetails": 355,
+      "ihhltotalach": 355,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "LAPHINKHURD",
+      "ihhltotalasperdetails": 701,
+      "ihhltotalach": 701,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "LOHARDIH",
+      "ihhltotalasperdetails": 502,
+      "ihhltotalach": 502,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "MALIDIH",
+      "ihhltotalasperdetails": 412,
+      "ihhltotalach": 412,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "MANPUR",
+      "ihhltotalasperdetails": 247,
+      "ihhltotalach": 247,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "MARAUD",
+      "ihhltotalasperdetails": 220,
+      "ihhltotalach": 220,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "MECHEWA",
+      "ihhltotalasperdetails": 337,
+      "ihhltotalach": 337,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "MONGARA",
+      "ihhltotalasperdetails": 457,
+      "ihhltotalach": 457,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "MORGHA",
+      "ihhltotalasperdetails": 309,
+      "ihhltotalach": 309,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "MUDHENA",
+      "ihhltotalasperdetails": 338,
+      "ihhltotalach": 338,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "MUNGASHER",
+      "ihhltotalasperdetails": 573,
+      "ihhltotalach": 573,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "NADGAON",
+      "ihhltotalasperdetails": 688,
+      "ihhltotalach": 688,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "NARTORA",
+      "ihhltotalasperdetails": 389,
+      "ihhltotalach": 389,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "NAVAGAON",
+      "ihhltotalasperdetails": 472,
+      "ihhltotalach": 472,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "PACHRI",
+      "ihhltotalasperdetails": 517,
+      "ihhltotalach": 517,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "PALI",
+      "ihhltotalasperdetails": 903,
+      "ihhltotalach": 903,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "PARSADA",
+      "ihhltotalasperdetails": 396,
+      "ihhltotalach": 396,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "PARSADA (B)",
+      "ihhltotalasperdetails": 438,
+      "ihhltotalach": 438,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "PARSHDIH",
+      "ihhltotalasperdetails": 494,
+      "ihhltotalach": 494,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "PASID",
+      "ihhltotalasperdetails": 267,
+      "ihhltotalach": 267,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "PATEWA",
+      "ihhltotalasperdetails": 490,
+      "ihhltotalach": 490,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "PATHARRI",
+      "ihhltotalasperdetails": 376,
+      "ihhltotalach": 376,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "PIDHI",
+      "ihhltotalasperdetails": 376,
+      "ihhltotalach": 376,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "RAITUM",
+      "ihhltotalasperdetails": 1056,
+      "ihhltotalach": 1056,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "RAMKHEDA",
+      "ihhltotalasperdetails": 222,
+      "ihhltotalach": 222,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "RUMEKEL",
+      "ihhltotalasperdetails": 505,
+      "ihhltotalach": 505,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "SARADIH",
+      "ihhltotalasperdetails": 407,
+      "ihhltotalach": 407,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "SAREKEL",
+      "ihhltotalasperdetails": 566,
+      "ihhltotalach": 566,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "SHER",
+      "ihhltotalasperdetails": 327,
+      "ihhltotalach": 327,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "SINDHORI",
+      "ihhltotalasperdetails": 274,
+      "ihhltotalach": 274,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "SINGHANPUR",
+      "ihhltotalasperdetails": 348,
+      "ihhltotalach": 348,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "SINGHI",
+      "ihhltotalasperdetails": 293,
+      "ihhltotalach": 293,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "SINODHA",
+      "ihhltotalasperdetails": 728,
+      "ihhltotalach": 728,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "SIRPUR",
+      "ihhltotalasperdetails": 529,
+      "ihhltotalach": 529,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "SORAM",
+      "ihhltotalasperdetails": 597,
+      "ihhltotalach": 597,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "SORID",
+      "ihhltotalasperdetails": 314,
+      "ihhltotalach": 314,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "SUKULWAY",
+      "ihhltotalasperdetails": 328,
+      "ihhltotalach": 328,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "TORENGA",
+      "ihhltotalasperdetails": 481,
+      "ihhltotalach": 481,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "TORLA",
+      "ihhltotalasperdetails": 287,
+      "ihhltotalach": 287,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "MAHASAMUND",
+      "grampanchayatname": "UMARDA",
+      "ihhltotalasperdetails": 364,
+      "ihhltotalach": 364,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "AMLIDIH",
+      "ihhltotalasperdetails": 503,
+      "ihhltotalach": 503,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "ANSULA",
+      "ihhltotalasperdetails": 336,
+      "ihhltotalach": 336,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "ARAND",
+      "ihhltotalasperdetails": 483,
+      "ihhltotalach": 483,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "ARANGI",
+      "ihhltotalasperdetails": 307,
+      "ihhltotalach": 307,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "ATHARAHGUDI",
+      "ihhltotalasperdetails": 564,
+      "ihhltotalach": 564,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "BADAIPALI",
+      "ihhltotalasperdetails": 382,
+      "ihhltotalach": 382,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "BADE LORAM",
+      "ihhltotalasperdetails": 586,
+      "ihhltotalach": 586,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "BADETEMARI",
+      "ihhltotalasperdetails": 470,
+      "ihhltotalach": 470,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "BAGARDARHA",
+      "ihhltotalasperdetails": 575,
+      "ihhltotalach": 575,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "BAITARI",
+      "ihhltotalasperdetails": 390,
+      "ihhltotalach": 390,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "BALDIDIH",
+      "ihhltotalasperdetails": 237,
+      "ihhltotalach": 237,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "BAMDADIH",
+      "ihhltotalasperdetails": 350,
+      "ihhltotalach": 350,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "BAMHANI",
+      "ihhltotalasperdetails": 691,
+      "ihhltotalach": 691,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "BAREKEL",
+      "ihhltotalasperdetails": 542,
+      "ihhltotalach": 542,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "BAREKELKHURD",
+      "ihhltotalasperdetails": 858,
+      "ihhltotalach": 858,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "BARNAIDADAR",
+      "ihhltotalasperdetails": 486,
+      "ihhltotalach": 486,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "BARTUNGA",
+      "ihhltotalasperdetails": 254,
+      "ihhltotalach": 254,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "BELDIH",
+      "ihhltotalasperdetails": 364,
+      "ihhltotalach": 364,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "BGARPALI",
+      "ihhltotalasperdetails": 200,
+      "ihhltotalach": 200,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "BHASKARPALI",
+      "ihhltotalasperdetails": 148,
+      "ihhltotalach": 148,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "BHATKUNDA",
+      "ihhltotalasperdetails": 302,
+      "ihhltotalach": 302,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "BHEEKHAPALI",
+      "ihhltotalasperdetails": 571,
+      "ihhltotalach": 571,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "BHITHIDIH",
+      "ihhltotalasperdetails": 631,
+      "ihhltotalach": 631,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "BHOKLUDIH",
+      "ihhltotalasperdetails": 273,
+      "ihhltotalach": 273,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "BHURKONI",
+      "ihhltotalasperdetails": 381,
+      "ihhltotalach": 381,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "BIJEMAL",
+      "ihhltotalasperdetails": 240,
+      "ihhltotalach": 240,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "BIRAJPALI",
+      "ihhltotalasperdetails": 318,
+      "ihhltotalach": 318,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "BOIRDIH",
+      "ihhltotalasperdetails": 174,
+      "ihhltotalach": 174,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "BOIRLAMI",
+      "ihhltotalasperdetails": 380,
+      "ihhltotalach": 380,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "BUNDELI",
+      "ihhltotalasperdetails": 704,
+      "ihhltotalach": 704,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "CHARBHANTHA",
+      "ihhltotalasperdetails": 691,
+      "ihhltotalach": 691,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "CHARODA",
+      "ihhltotalasperdetails": 202,
+      "ihhltotalach": 202,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "CHHIBARRA",
+      "ihhltotalasperdetails": 631,
+      "ihhltotalach": 631,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "CHHINDOLI",
+      "ihhltotalasperdetails": 459,
+      "ihhltotalach": 459,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "CHHOTELORAM",
+      "ihhltotalasperdetails": 428,
+      "ihhltotalach": 428,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "CHHUWALIPATERA",
+      "ihhltotalasperdetails": 371,
+      "ihhltotalach": 371,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "CHIKHLI",
+      "ihhltotalasperdetails": 714,
+      "ihhltotalach": 714,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "CHNAUARDIH",
+      "ihhltotalasperdetails": 495,
+      "ihhltotalach": 495,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "DEORI",
+      "ihhltotalasperdetails": 744,
+      "ihhltotalach": 744,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "DEVSARAL",
+      "ihhltotalasperdetails": 753,
+      "ihhltotalach": 753,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "DHABAKHAR",
+      "ihhltotalasperdetails": 711,
+      "ihhltotalach": 711,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "DHANORA",
+      "ihhltotalasperdetails": 311,
+      "ihhltotalach": 311,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "DHODHARKASA",
+      "ihhltotalasperdetails": 284,
+      "ihhltotalach": 284,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "DONGRIPALI",
+      "ihhltotalasperdetails": 205,
+      "ihhltotalach": 205,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "DUMARPALI",
+      "ihhltotalasperdetails": 323,
+      "ihhltotalach": 323,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "DURUGPALI",
+      "ihhltotalasperdetails": 291,
+      "ihhltotalach": 291,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "GADBEDHA",
+      "ihhltotalasperdetails": 301,
+      "ihhltotalach": 301,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "GHONCH",
+      "ihhltotalasperdetails": 135,
+      "ihhltotalach": 135,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "GIRNA",
+      "ihhltotalasperdetails": 322,
+      "ihhltotalach": 322,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "GODBAHAL",
+      "ihhltotalasperdetails": 611,
+      "ihhltotalach": 611,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "GODMARRA",
+      "ihhltotalasperdetails": 323,
+      "ihhltotalach": 323,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "GOGHRA",
+      "ihhltotalasperdetails": 323,
+      "ihhltotalach": 323,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "GOPALPUR",
+      "ihhltotalasperdetails": 839,
+      "ihhltotalach": 839,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "JABALPUR",
+      "ihhltotalasperdetails": 269,
+      "ihhltotalach": 269,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "JAGDISHPUR",
+      "ihhltotalasperdetails": 358,
+      "ihhltotalach": 358,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "JAMJUDA",
+      "ihhltotalasperdetails": 392,
+      "ihhltotalach": 392,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "JAMMHAR",
+      "ihhltotalasperdetails": 714,
+      "ihhltotalach": 714,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "JANDHORA",
+      "ihhltotalasperdetails": 396,
+      "ihhltotalach": 396,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "JARABHARAN",
+      "ihhltotalasperdetails": 577,
+      "ihhltotalach": 577,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "JHAGRENDIH",
+      "ihhltotalasperdetails": 453,
+      "ihhltotalach": 453,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "K0TGARH",
+      "ihhltotalasperdetails": 361,
+      "ihhltotalach": 361,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "KANCHANPUR",
+      "ihhltotalasperdetails": 326,
+      "ihhltotalach": 326,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "KARANTARAI",
+      "ihhltotalasperdetails": 515,
+      "ihhltotalach": 515,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "KASHIBAHARA",
+      "ihhltotalasperdetails": 360,
+      "ihhltotalach": 360,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "KAUHAKUDA",
+      "ihhltotalasperdetails": 44,
+      "ihhltotalach": 44,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "KHAIRKHUTA",
+      "ihhltotalasperdetails": 597,
+      "ihhltotalach": 597,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "KHEDIGAON",
+      "ihhltotalasperdetails": 253,
+      "ihhltotalach": 253,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "KHURSIPAR",
+      "ihhltotalasperdetails": 434,
+      "ihhltotalach": 434,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "KHUTERI",
+      "ihhltotalasperdetails": 432,
+      "ihhltotalach": 432,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "KISHANPUR",
+      "ihhltotalasperdetails": 679,
+      "ihhltotalach": 679,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "KODOPALI",
+      "ihhltotalasperdetails": 330,
+      "ihhltotalach": 330,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "KOKOBHATA",
+      "ihhltotalasperdetails": 362,
+      "ihhltotalach": 362,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "KOLDA",
+      "ihhltotalasperdetails": 204,
+      "ihhltotalach": 204,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "KUMHARIMUDA",
+      "ihhltotalasperdetails": 450,
+      "ihhltotalach": 450,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "LAHROUD",
+      "ihhltotalasperdetails": 904,
+      "ihhltotalach": 904,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "LAKHAGARH",
+      "ihhltotalasperdetails": 528,
+      "ihhltotalach": 528,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "LAMIDIH",
+      "ihhltotalasperdetails": 305,
+      "ihhltotalach": 305,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "LARI PUR",
+      "ihhltotalasperdetails": 362,
+      "ihhltotalach": 362,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "LAXMIPUR",
+      "ihhltotalasperdetails": 554,
+      "ihhltotalach": 554,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "LILASAR",
+      "ihhltotalasperdetails": 405,
+      "ihhltotalach": 405,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "LIMDARHA",
+      "ihhltotalasperdetails": 576,
+      "ihhltotalach": 576,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "MATIDARHA",
+      "ihhltotalasperdetails": 316,
+      "ihhltotalach": 316,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "MEMRA",
+      "ihhltotalasperdetails": 720,
+      "ihhltotalach": 720,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "MOHGAON",
+      "ihhltotalasperdetails": 488,
+      "ihhltotalach": 488,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "MONHADA",
+      "ihhltotalasperdetails": 328,
+      "ihhltotalach": 328,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "MUDA GAON",
+      "ihhltotalasperdetails": 355,
+      "ihhltotalach": 355,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "MUDHIPAR",
+      "ihhltotalasperdetails": 700,
+      "ihhltotalach": 700,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "NARSINGHPUR",
+      "ihhltotalasperdetails": 376,
+      "ihhltotalach": 376,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "NAVAGAON KALA",
+      "ihhltotalasperdetails": 332,
+      "ihhltotalach": 332,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "NAWAGAO",
+      "ihhltotalasperdetails": 364,
+      "ihhltotalach": 364,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "NAWAGAONKHURD",
+      "ihhltotalasperdetails": 271,
+      "ihhltotalach": 271,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "NAYAPARAKALA",
+      "ihhltotalasperdetails": 158,
+      "ihhltotalach": 158,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "PARASDA",
+      "ihhltotalasperdetails": 279,
+      "ihhltotalach": 279,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "PARASVANI",
+      "ihhltotalasperdetails": 316,
+      "ihhltotalach": 316,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "PARGHANIA SARAIPALI",
+      "ihhltotalasperdetails": 173,
+      "ihhltotalach": 173,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "PARSAPALI",
+      "ihhltotalasperdetails": 329,
+      "ihhltotalach": 329,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "PATANDADER",
+      "ihhltotalasperdetails": 756,
+      "ihhltotalach": 756,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "PATHRALA",
+      "ihhltotalasperdetails": 645,
+      "ihhltotalach": 645,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "PENDRAVAN",
+      "ihhltotalasperdetails": 446,
+      "ihhltotalach": 446,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "PILVAPALI",
+      "ihhltotalasperdetails": 582,
+      "ihhltotalach": 582,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "PIPRAUD",
+      "ihhltotalasperdetails": 310,
+      "ihhltotalach": 310,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "PIRADA",
+      "ihhltotalasperdetails": 655,
+      "ihhltotalach": 655,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "RAJASEVYAKHURD",
+      "ihhltotalasperdetails": 555,
+      "ihhltotalach": 555,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "RAJPALPUR",
+      "ihhltotalasperdetails": 490,
+      "ihhltotalach": 490,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "REMDA",
+      "ihhltotalasperdetails": 505,
+      "ihhltotalach": 505,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "RIKHADADAR",
+      "ihhltotalasperdetails": 505,
+      "ihhltotalach": 505,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "SAGONDHAP",
+      "ihhltotalasperdetails": 342,
+      "ihhltotalach": 342,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "SAISRAIPALI",
+      "ihhltotalasperdetails": 396,
+      "ihhltotalach": 396,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "SALDIH",
+      "ihhltotalasperdetails": 228,
+      "ihhltotalach": 228,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "SANKARA (JONK)",
+      "ihhltotalasperdetails": 632,
+      "ihhltotalach": 632,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "SAPOS",
+      "ihhltotalasperdetails": 546,
+      "ihhltotalach": 546,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "SARKADA",
+      "ihhltotalasperdetails": 484,
+      "ihhltotalach": 484,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "SAVITRIPUR",
+      "ihhltotalasperdetails": 891,
+      "ihhltotalach": 891,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "SINHARPUR",
+      "ihhltotalasperdetails": 49,
+      "ihhltotalach": 49,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "SIRKO",
+      "ihhltotalasperdetails": 433,
+      "ihhltotalach": 433,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "SOHAGPUR",
+      "ihhltotalasperdetails": 255,
+      "ihhltotalach": 255,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "SONASILLI",
+      "ihhltotalasperdetails": 584,
+      "ihhltotalach": 584,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "SUKHI PALI",
+      "ihhltotalasperdetails": 430,
+      "ihhltotalach": 430,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "TAREKELA",
+      "ihhltotalasperdetails": 607,
+      "ihhltotalach": 607,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "TEKA",
+      "ihhltotalasperdetails": 586,
+      "ihhltotalach": 586,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "THAKURDIYA KALA",
+      "ihhltotalasperdetails": 342,
+      "ihhltotalach": 342,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "THAKURDIYAKHURD",
+      "ihhltotalasperdetails": 341,
+      "ihhltotalach": 341,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "PITHORA",
+      "grampanchayatname": "UTEKEL",
+      "ihhltotalasperdetails": 315,
+      "ihhltotalach": 315,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "AMARKOT",
+      "ihhltotalasperdetails": 710,
+      "ihhltotalach": 710,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "ANTERGGHLA",
+      "ihhltotalasperdetails": 318,
+      "ihhltotalach": 318,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "ANTRALA",
+      "ihhltotalasperdetails": 340,
+      "ihhltotalach": 340,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "ANVALACHAKKA",
+      "ihhltotalasperdetails": 532,
+      "ihhltotalach": 532,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "ARJUNDA",
+      "ihhltotalasperdetails": 680,
+      "ihhltotalach": 680,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "BAHERAPALI",
+      "ihhltotalasperdetails": 526,
+      "ihhltotalach": 526,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "BAIDPALI",
+      "ihhltotalasperdetails": 360,
+      "ihhltotalach": 360,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "BAITARI",
+      "ihhltotalasperdetails": 318,
+      "ihhltotalach": 318,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "BALODA",
+      "ihhltotalasperdetails": 1386,
+      "ihhltotalach": 1386,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "BALSI",
+      "ihhltotalasperdetails": 401,
+      "ihhltotalach": 401,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "BANDALIMAL",
+      "ihhltotalasperdetails": 475,
+      "ihhltotalach": 475,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "BANIGIROLA",
+      "ihhltotalasperdetails": 509,
+      "ihhltotalach": 509,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "BANOBHATA",
+      "ihhltotalasperdetails": 376,
+      "ihhltotalach": 376,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "BARADOLI",
+      "ihhltotalasperdetails": 850,
+      "ihhltotalach": 850,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "BARIHAPALI",
+      "ihhltotalasperdetails": 325,
+      "ihhltotalach": 325,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "BATKI",
+      "ihhltotalasperdetails": 680,
+      "ihhltotalach": 680,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "BELMUNDI",
+      "ihhltotalasperdetails": 466,
+      "ihhltotalach": 466,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "BHAGATSARAIPALI",
+      "ihhltotalasperdetails": 529,
+      "ihhltotalach": 529,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "BHANJHAPALI",
+      "ihhltotalasperdetails": 372,
+      "ihhltotalach": 372,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "BHIKHAPALI",
+      "ihhltotalasperdetails": 439,
+      "ihhltotalach": 439,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "BHOTHALDIH",
+      "ihhltotalasperdetails": 792,
+      "ihhltotalach": 792,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "BHUTHIYA",
+      "ihhltotalasperdetails": 927,
+      "ihhltotalach": 927,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "BIJATIPALI",
+      "ihhltotalasperdetails": 658,
+      "ihhltotalach": 658,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "BIRKOL",
+      "ihhltotalasperdetails": 407,
+      "ihhltotalach": 407,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "BODESARA",
+      "ihhltotalasperdetails": 538,
+      "ihhltotalach": 538,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "BONDANAVAPALI",
+      "ihhltotalasperdetails": 880,
+      "ihhltotalach": 880,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "CHAKARDA",
+      "ihhltotalasperdetails": 915,
+      "ihhltotalach": 915,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "CHARBHATA",
+      "ihhltotalasperdetails": 797,
+      "ihhltotalach": 797,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "CHATTIGIROLA",
+      "ihhltotalasperdetails": 545,
+      "ihhltotalach": 545,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "CHHIBARRA",
+      "ihhltotalasperdetails": 349,
+      "ihhltotalach": 349,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "CHHIBRRA",
+      "ihhltotalasperdetails": 319,
+      "ihhltotalach": 319,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "CHHINDPALI",
+      "ihhltotalasperdetails": 420,
+      "ihhltotalach": 420,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "CHHUIPALI",
+      "ihhltotalasperdetails": 633,
+      "ihhltotalach": 633,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "CHIWRAKUTA",
+      "ihhltotalasperdetails": 904,
+      "ihhltotalach": 904,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "DAMOHDARHA",
+      "ihhltotalasperdetails": 419,
+      "ihhltotalach": 419,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "DARRABHANTA",
+      "ihhltotalasperdetails": 253,
+      "ihhltotalach": 253,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "DARRABHATA",
+      "ihhltotalasperdetails": 387,
+      "ihhltotalach": 387,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "DEVALBHATA",
+      "ihhltotalasperdetails": 537,
+      "ihhltotalach": 537,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "DUDUMCHUWA",
+      "ihhltotalasperdetails": 354,
+      "ihhltotalach": 354,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "DUMARPALI",
+      "ihhltotalasperdetails": 436,
+      "ihhltotalach": 436,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "GERRA",
+      "ihhltotalasperdetails": 437,
+      "ihhltotalach": 437,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "GHHATKACHHAR",
+      "ihhltotalasperdetails": 310,
+      "ihhltotalach": 310,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "GHHUNCHAPALI",
+      "ihhltotalasperdetails": 666,
+      "ihhltotalach": 666,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "GIRSA",
+      "ihhltotalasperdetails": 443,
+      "ihhltotalach": 443,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "GOHERAPALI",
+      "ihhltotalasperdetails": 251,
+      "ihhltotalach": 251,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "ICHHAPUR",
+      "ihhltotalasperdetails": 797,
+      "ihhltotalach": 797,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "JALGARH",
+      "ihhltotalasperdetails": 453,
+      "ihhltotalach": 453,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "JALPUR",
+      "ihhltotalasperdetails": 575,
+      "ihhltotalach": 575,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "JAMHARI",
+      "ihhltotalasperdetails": 459,
+      "ihhltotalach": 459,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "JANGALBEDA",
+      "ihhltotalasperdetails": 289,
+      "ihhltotalach": 289,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "JOGANIPALI",
+      "ihhltotalasperdetails": 655,
+      "ihhltotalach": 655,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "KALENDA (CHHIBRRA)",
+      "ihhltotalasperdetails": 461,
+      "ihhltotalach": 461,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "KALENDA (SINGHODA)",
+      "ihhltotalasperdetails": 595,
+      "ihhltotalach": 595,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "KANKEVA",
+      "ihhltotalasperdetails": 529,
+      "ihhltotalach": 529,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "KANWARPALI",
+      "ihhltotalasperdetails": 368,
+      "ihhltotalach": 368,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "KASALBA",
+      "ihhltotalasperdetails": 599,
+      "ihhltotalach": 599,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "KASDOL",
+      "ihhltotalasperdetails": 419,
+      "ihhltotalach": 419,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "KEDUWA",
+      "ihhltotalasperdetails": 627,
+      "ihhltotalach": 627,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "KEJUWAN",
+      "ihhltotalasperdetails": 780,
+      "ihhltotalach": 780,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "KENA",
+      "ihhltotalasperdetails": 366,
+      "ihhltotalach": 366,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "KENDUDHAR",
+      "ihhltotalasperdetails": 568,
+      "ihhltotalach": 568,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "KHAIRJHITKI",
+      "ihhltotalasperdetails": 427,
+      "ihhltotalach": 427,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "KHARKHARI",
+      "ihhltotalasperdetails": 387,
+      "ihhltotalach": 387,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "KHOKHEPUR",
+      "ihhltotalasperdetails": 494,
+      "ihhltotalach": 494,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "KISDI",
+      "ihhltotalasperdetails": 387,
+      "ihhltotalach": 387,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "KODOGUDA",
+      "ihhltotalasperdetails": 924,
+      "ihhltotalach": 924,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "KOSAMPALI",
+      "ihhltotalasperdetails": 737,
+      "ihhltotalach": 737,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "KOTDWARI",
+      "ihhltotalasperdetails": 414,
+      "ihhltotalach": 414,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "KUSMISARAR",
+      "ihhltotalasperdetails": 414,
+      "ihhltotalach": 414,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "KUTELA",
+      "ihhltotalasperdetails": 609,
+      "ihhltotalach": 609,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "LAMKENI",
+      "ihhltotalasperdetails": 622,
+      "ihhltotalach": 622,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "LANTI",
+      "ihhltotalasperdetails": 336,
+      "ihhltotalach": 336,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "LIMGAON",
+      "ihhltotalasperdetails": 418,
+      "ihhltotalach": 418,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "MADHOPALI",
+      "ihhltotalasperdetails": 396,
+      "ihhltotalach": 396,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "MALDAMAL",
+      "ihhltotalasperdetails": 586,
+      "ihhltotalach": 586,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "MOHANMUNDA",
+      "ihhltotalasperdetails": 664,
+      "ihhltotalach": 664,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "MOHDA",
+      "ihhltotalasperdetails": 964,
+      "ihhltotalach": 964,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "MOKHAPUTKA",
+      "ihhltotalasperdetails": 383,
+      "ihhltotalach": 383,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "MUNDHA",
+      "ihhltotalasperdetails": 674,
+      "ihhltotalach": 674,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "NAVAGARH",
+      "ihhltotalasperdetails": 356,
+      "ihhltotalach": 356,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "NAVRANGPUR",
+      "ihhltotalasperdetails": 555,
+      "ihhltotalach": 555,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "NOONPANI",
+      "ihhltotalasperdetails": 430,
+      "ihhltotalach": 430,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "PAIKIN",
+      "ihhltotalasperdetails": 561,
+      "ihhltotalach": 561,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "PAJHARAPALI",
+      "ihhltotalasperdetails": 447,
+      "ihhltotalach": 447,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "PANDRIPALNI",
+      "ihhltotalasperdetails": 1032,
+      "ihhltotalach": 1032,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "PARASKOL",
+      "ihhltotalasperdetails": 652,
+      "ihhltotalach": 652,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "PARSADA",
+      "ihhltotalasperdetails": 511,
+      "ihhltotalach": 511,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "PATERAPALI",
+      "ihhltotalasperdetails": 727,
+      "ihhltotalach": 727,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "PATSENDRI",
+      "ihhltotalasperdetails": 485,
+      "ihhltotalach": 485,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "PRETENDIH",
+      "ihhltotalasperdetails": 336,
+      "ihhltotalach": 336,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "PUTKA",
+      "ihhltotalasperdetails": 990,
+      "ihhltotalach": 990,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "RAJADIH",
+      "ihhltotalasperdetails": 254,
+      "ihhltotalach": 254,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "RAKSHA",
+      "ihhltotalasperdetails": 343,
+      "ihhltotalach": 343,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "RAPHEL",
+      "ihhltotalasperdetails": 405,
+      "ihhltotalach": 405,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "RIMJI",
+      "ihhltotalasperdetails": 531,
+      "ihhltotalach": 531,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "RISEKELA",
+      "ihhltotalasperdetails": 913,
+      "ihhltotalach": 913,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "RUDA",
+      "ihhltotalasperdetails": 570,
+      "ihhltotalach": 570,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "SALDIH",
+      "ihhltotalasperdetails": 311,
+      "ihhltotalach": 311,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "SANPANDHI",
+      "ihhltotalasperdetails": 513,
+      "ihhltotalach": 513,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "SARAIPALI",
+      "ihhltotalasperdetails": 411,
+      "ihhltotalach": 411,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "SEMLIA",
+      "ihhltotalasperdetails": 1202,
+      "ihhltotalach": 1202,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "SINGHODA",
+      "ihhltotalasperdetails": 739,
+      "ihhltotalach": 739,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "SIRBODA",
+      "ihhltotalasperdetails": 342,
+      "ihhltotalach": 342,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "SIRPUR",
+      "ihhltotalasperdetails": 451,
+      "ihhltotalach": 451,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "TEMRI",
+      "ihhltotalasperdetails": 439,
+      "ihhltotalach": 439,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "TORESINGHA",
+      "ihhltotalasperdetails": 409,
+      "ihhltotalach": 409,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MAHASAMUND",
+      "blockname": "SARAIPALI",
+      "grampanchayatname": "TOSHGAON",
+      "ihhltotalasperdetails": 913,
+      "ihhltotalach": 913,
+      "date": "5/19/2020 12:00:00 AM"
+    }
+  ]
+}

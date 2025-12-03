@@ -1,0 +1,382 @@
+{
+  "index_name": "1c64a0a2-4d9c-4bb9-8824-3b88dd9a3782",
+  "title": "State/UT-wise Domicile of Convicts as on 31st December, 2020",
+  "desc": "State/UT-wise Domicile of Convicts as on 31st December, 2020",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Home Affairs",
+    "Department of States",
+    "National Crime Records Bureau (NCRB)"
+  ],
+  "sector": [
+    ""
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "227785a5-3f02-4ed0-9422-f12b2951a5cf",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1651039252,
+  "updated": 1651120320,
+  "created_date": "2022-04-27T06:00:52Z",
+  "updated_date": "2022-04-28T10:02:00Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "ncrb",
+    "type": "227785a5-3f02-4ed0-9422-f12b2951a5cf",
+    "field": "1c64a0a2-4d9c-4bb9-8824-3b88dd9a3782"
+  },
+  "field": [
+    {
+      "id": "sl__no_",
+      "name": "Sl. No.",
+      "type": "keyword"
+    },
+    {
+      "id": "state_ut",
+      "name": "State/UT",
+      "type": "keyword"
+    },
+    {
+      "id": "domicile___belongs_to_state",
+      "name": "Domicile - Belongs to State",
+      "type": "double"
+    },
+    {
+      "id": "domicile___belongs_to_other_state",
+      "name": "Domicile - Belongs to other State",
+      "type": "double"
+    },
+    {
+      "id": "domicile___belongs_to_other_country",
+      "name": "Domicile - Belongs to other Country",
+      "type": "double"
+    },
+    {
+      "id": "domicile___total",
+      "name": "Domicile - Total",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 39,
+  "count": 39,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "sl__no_": "1",
+      "state_ut": "Andhra Pradesh",
+      "domicile___belongs_to_state": 2243,
+      "domicile___belongs_to_other_state": 114,
+      "domicile___belongs_to_other_country": 3,
+      "domicile___total": 2360
+    },
+    {
+      "sl__no_": "2",
+      "state_ut": "Arunachal Pradesh",
+      "domicile___belongs_to_state": 92,
+      "domicile___belongs_to_other_state": 34,
+      "domicile___belongs_to_other_country": "0",
+      "domicile___total": 126
+    },
+    {
+      "sl__no_": "3",
+      "state_ut": "Assam",
+      "domicile___belongs_to_state": 2687,
+      "domicile___belongs_to_other_state": 87,
+      "domicile___belongs_to_other_country": 5,
+      "domicile___total": 2779
+    },
+    {
+      "sl__no_": "4",
+      "state_ut": "Bihar",
+      "domicile___belongs_to_state": 7605,
+      "domicile___belongs_to_other_state": 125,
+      "domicile___belongs_to_other_country": 11,
+      "domicile___total": 7741
+    },
+    {
+      "sl__no_": "5",
+      "state_ut": "Chhattisgarh",
+      "domicile___belongs_to_state": 5785,
+      "domicile___belongs_to_other_state": 311,
+      "domicile___belongs_to_other_country": 6,
+      "domicile___total": 6102
+    },
+    {
+      "sl__no_": "6",
+      "state_ut": "Goa",
+      "domicile___belongs_to_state": 70,
+      "domicile___belongs_to_other_state": 34,
+      "domicile___belongs_to_other_country": 1,
+      "domicile___total": 105
+    },
+    {
+      "sl__no_": "7",
+      "state_ut": "Gujarat",
+      "domicile___belongs_to_state": 3666,
+      "domicile___belongs_to_other_state": 159,
+      "domicile___belongs_to_other_country": 28,
+      "domicile___total": 3853
+    },
+    {
+      "sl__no_": "8",
+      "state_ut": "Haryana",
+      "domicile___belongs_to_state": 2556,
+      "domicile___belongs_to_other_state": 777,
+      "domicile___belongs_to_other_country": 5,
+      "domicile___total": 3338
+    },
+    {
+      "sl__no_": "9",
+      "state_ut": "Himachal Pradesh",
+      "domicile___belongs_to_state": 631,
+      "domicile___belongs_to_other_state": 159,
+      "domicile___belongs_to_other_country": 63,
+      "domicile___total": 853
+    },
+    {
+      "sl__no_": "10",
+      "state_ut": "Jharkhand",
+      "domicile___belongs_to_state": 4861,
+      "domicile___belongs_to_other_state": 223,
+      "domicile___belongs_to_other_country": "0",
+      "domicile___total": 5084
+    },
+    {
+      "sl__no_": "11",
+      "state_ut": "Karnataka",
+      "domicile___belongs_to_state": 3467,
+      "domicile___belongs_to_other_state": 210,
+      "domicile___belongs_to_other_country": 11,
+      "domicile___total": 3688
+    },
+    {
+      "sl__no_": "12",
+      "state_ut": "Kerala",
+      "domicile___belongs_to_state": 2165,
+      "domicile___belongs_to_other_state": 253,
+      "domicile___belongs_to_other_country": 8,
+      "domicile___total": 2426
+    },
+    {
+      "sl__no_": "13",
+      "state_ut": "Madhya Pradesh",
+      "domicile___belongs_to_state": 12764,
+      "domicile___belongs_to_other_state": 877,
+      "domicile___belongs_to_other_country": 11,
+      "domicile___total": 13652
+    },
+    {
+      "sl__no_": "14",
+      "state_ut": "Maharashtra",
+      "domicile___belongs_to_state": 4868,
+      "domicile___belongs_to_other_state": 614,
+      "domicile___belongs_to_other_country": 68,
+      "domicile___total": 5550
+    },
+    {
+      "sl__no_": "15",
+      "state_ut": "Manipur",
+      "domicile___belongs_to_state": 97,
+      "domicile___belongs_to_other_state": 1,
+      "domicile___belongs_to_other_country": 7,
+      "domicile___total": 105
+    },
+    {
+      "sl__no_": "16",
+      "state_ut": "Meghalaya",
+      "domicile___belongs_to_state": 155,
+      "domicile___belongs_to_other_state": 13,
+      "domicile___belongs_to_other_country": 10,
+      "domicile___total": 178
+    },
+    {
+      "sl__no_": "17",
+      "state_ut": "Mizoram",
+      "domicile___belongs_to_state": 418,
+      "domicile___belongs_to_other_state": 11,
+      "domicile___belongs_to_other_country": 8,
+      "domicile___total": 437
+    },
+    {
+      "sl__no_": "18",
+      "state_ut": "Nagaland",
+      "domicile___belongs_to_state": 82,
+      "domicile___belongs_to_other_state": 13,
+      "domicile___belongs_to_other_country": "0",
+      "domicile___total": 95
+    },
+    {
+      "sl__no_": "19",
+      "state_ut": "Odisha",
+      "domicile___belongs_to_state": 3041,
+      "domicile___belongs_to_other_state": 203,
+      "domicile___belongs_to_other_country": 1,
+      "domicile___total": 3245
+    },
+    {
+      "sl__no_": "20",
+      "state_ut": "Punjab",
+      "domicile___belongs_to_state": 2445,
+      "domicile___belongs_to_other_state": 296,
+      "domicile___belongs_to_other_country": 38,
+      "domicile___total": 2779
+    },
+    {
+      "sl__no_": "21",
+      "state_ut": "Rajasthan",
+      "domicile___belongs_to_state": 4666,
+      "domicile___belongs_to_other_state": 444,
+      "domicile___belongs_to_other_country": 21,
+      "domicile___total": 5131
+    },
+    {
+      "sl__no_": "22",
+      "state_ut": "Sikkim",
+      "domicile___belongs_to_state": 101,
+      "domicile___belongs_to_other_state": 23,
+      "domicile___belongs_to_other_country": "0",
+      "domicile___total": 124
+    },
+    {
+      "sl__no_": "23",
+      "state_ut": "Tamil Nadu",
+      "domicile___belongs_to_state": 4104,
+      "domicile___belongs_to_other_state": 12,
+      "domicile___belongs_to_other_country": 45,
+      "domicile___total": 4161
+    },
+    {
+      "sl__no_": "24",
+      "state_ut": "Telangana",
+      "domicile___belongs_to_state": 1698,
+      "domicile___belongs_to_other_state": 207,
+      "domicile___belongs_to_other_country": 5,
+      "domicile___total": 1910
+    },
+    {
+      "sl__no_": "25",
+      "state_ut": "Tripura",
+      "domicile___belongs_to_state": 384,
+      "domicile___belongs_to_other_state": 3,
+      "domicile___belongs_to_other_country": 8,
+      "domicile___total": 395
+    },
+    {
+      "sl__no_": "26",
+      "state_ut": "Uttar Pradesh",
+      "domicile___belongs_to_state": 26122,
+      "domicile___belongs_to_other_state": 485,
+      "domicile___belongs_to_other_country": 127,
+      "domicile___total": 26734
+    },
+    {
+      "sl__no_": "27",
+      "state_ut": "Uttarakhand",
+      "domicile___belongs_to_state": 1694,
+      "domicile___belongs_to_other_state": 346,
+      "domicile___belongs_to_other_country": 23,
+      "domicile___total": 2063
+    },
+    {
+      "sl__no_": "28",
+      "state_ut": "West Bengal",
+      "domicile___belongs_to_state": 4782,
+      "domicile___belongs_to_other_state": 119,
+      "domicile___belongs_to_other_country": 466,
+      "domicile___total": 5367
+    },
+    {
+      "sl__no_": "Total (States)",
+      "state_ut": "Total (States)",
+      "domicile___belongs_to_state": 103249,
+      "domicile___belongs_to_other_state": 6153,
+      "domicile___belongs_to_other_country": 979,
+      "domicile___total": 110381
+    },
+    {
+      "sl__no_": "29",
+      "state_ut": "A & N Islands",
+      "domicile___belongs_to_state": 65,
+      "domicile___belongs_to_other_state": "0",
+      "domicile___belongs_to_other_country": 72,
+      "domicile___total": 137
+    },
+    {
+      "sl__no_": "30",
+      "state_ut": "Chandigarh",
+      "domicile___belongs_to_state": 200,
+      "domicile___belongs_to_other_state": 145,
+      "domicile___belongs_to_other_country": 4,
+      "domicile___total": 349
+    },
+    {
+      "sl__no_": "31",
+      "state_ut": "Dadra and Nagar Haveli and Daman and Diu",
+      "domicile___belongs_to_state": 6,
+      "domicile___belongs_to_other_state": 9,
+      "domicile___belongs_to_other_country": "0",
+      "domicile___total": 15
+    },
+    {
+      "sl__no_": "32",
+      "state_ut": "Delhi",
+      "domicile___belongs_to_state": 939,
+      "domicile___belongs_to_other_state": 458,
+      "domicile___belongs_to_other_country": 73,
+      "domicile___total": 1470
+    },
+    {
+      "sl__no_": "33",
+      "state_ut": "Jammu & Kashmir",
+      "domicile___belongs_to_state": 127,
+      "domicile___belongs_to_other_state": 22,
+      "domicile___belongs_to_other_country": 10,
+      "domicile___total": 159
+    },
+    {
+      "sl__no_": "34",
+      "state_ut": "Ladakh",
+      "domicile___belongs_to_state": 1,
+      "domicile___belongs_to_other_state": 2,
+      "domicile___belongs_to_other_country": 2,
+      "domicile___total": 5
+    },
+    {
+      "sl__no_": "35",
+      "state_ut": "Lakshadweep",
+      "domicile___belongs_to_state": 1,
+      "domicile___belongs_to_other_state": "0",
+      "domicile___belongs_to_other_country": "0",
+      "domicile___total": 1
+    },
+    {
+      "sl__no_": "36",
+      "state_ut": "Puducherry",
+      "domicile___belongs_to_state": 58,
+      "domicile___belongs_to_other_state": 14,
+      "domicile___belongs_to_other_country": "0",
+      "domicile___total": 72
+    },
+    {
+      "sl__no_": "Total (UTs)",
+      "state_ut": "Total (UTs)",
+      "domicile___belongs_to_state": 1397,
+      "domicile___belongs_to_other_state": 650,
+      "domicile___belongs_to_other_country": 161,
+      "domicile___total": 2208
+    },
+    {
+      "sl__no_": "Total (All-India)",
+      "state_ut": "Total (All-India)",
+      "domicile___belongs_to_state": 104646,
+      "domicile___belongs_to_other_state": 6803,
+      "domicile___belongs_to_other_country": 1140,
+      "domicile___total": 112589
+    }
+  ]
+}

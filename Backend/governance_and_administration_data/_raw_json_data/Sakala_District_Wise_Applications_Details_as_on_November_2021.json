@@ -1,0 +1,280 @@
+{
+  "index_name": "fcf2aaf1-4ece-4727-9199-f81e6b4d18e6",
+  "title": "Sakala District Wise Applications Details as on November 2021",
+  "desc": "Sakala District Wise Applications Details as on November 2021",
+  "created": 1647851090,
+  "updated": 1658806919,
+  "created_date": "2022-03-21T13:54:50Z",
+  "updated_date": "2022-07-26T09:11:59Z",
+  "active": "1",
+  "visualizable": "1",
+  "catalog_uuid": "45b4d9b1-f22c-43da-9977-e0c3cdd61b41",
+  "source": "karnataka.data.gov.in",
+  "org_type": "State",
+  "org": [
+    "Karnataka",
+    "Department of Personnel and Administrative Reforms, Karnataka",
+    "Karnataka Sakala Services"
+  ],
+  "sector": [
+    "Governance and Administration"
+  ],
+  "field": [
+    {
+      "id": "_distname",
+      "name": "﻿Distname",
+      "type": "keyword"
+    },
+    {
+      "id": "totalreceipts",
+      "name": "totalreceipts",
+      "type": "keyword"
+    },
+    {
+      "id": "totaldisposal",
+      "name": "totaldisposal",
+      "type": "keyword"
+    },
+    {
+      "id": "totalapproved",
+      "name": "totalapproved",
+      "type": "keyword"
+    },
+    {
+      "id": "totalrejected",
+      "name": "totalrejected",
+      "type": "keyword"
+    }
+  ],
+  "target_bucket": {
+    "index": "ka_api",
+    "type": "45b4d9b1-f22c-43da-9977-e0c3cdd61b41",
+    "field": "fcf2aaf1-4ece-4727-9199-f81e6b4d18e6"
+  },
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 31,
+  "count": 31,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "_distname": "Bagalkot",
+      "totalreceipts": "72734",
+      "totaldisposal": "73222",
+      "totalapproved": "69247",
+      "totalrejected": "3817"
+    },
+    {
+      "_distname": "Ballari",
+      "totalreceipts": "42795",
+      "totaldisposal": "55196",
+      "totalapproved": "48099",
+      "totalrejected": "6811"
+    },
+    {
+      "_distname": "Belagavi",
+      "totalreceipts": "185424",
+      "totaldisposal": "188303",
+      "totalapproved": "173532",
+      "totalrejected": "14490"
+    },
+    {
+      "_distname": "Bengaluru",
+      "totalreceipts": "270100",
+      "totaldisposal": "273631",
+      "totalapproved": "250961",
+      "totalrejected": "21577"
+    },
+    {
+      "_distname": "Bengaluru Rural",
+      "totalreceipts": "38123",
+      "totaldisposal": "38194",
+      "totalapproved": "35471",
+      "totalrejected": "2337"
+    },
+    {
+      "_distname": "Bidar",
+      "totalreceipts": "61137",
+      "totaldisposal": "61882",
+      "totalapproved": "52664",
+      "totalrejected": "9091"
+    },
+    {
+      "_distname": "Chamarajanagar",
+      "totalreceipts": "32698",
+      "totaldisposal": "37168",
+      "totalapproved": "34256",
+      "totalrejected": "2882"
+    },
+    {
+      "_distname": "Chikkaballapura",
+      "totalreceipts": "62904",
+      "totaldisposal": "64873",
+      "totalapproved": "60977",
+      "totalrejected": "3829"
+    },
+    {
+      "_distname": "Chikkamagaluru",
+      "totalreceipts": "53587",
+      "totaldisposal": "54058",
+      "totalapproved": "50451",
+      "totalrejected": "3533"
+    },
+    {
+      "_distname": "Chitradurga",
+      "totalreceipts": "66724",
+      "totaldisposal": "64050",
+      "totalapproved": "57945",
+      "totalrejected": "6039"
+    },
+    {
+      "_distname": "Dakshina Kannada",
+      "totalreceipts": "80737",
+      "totaldisposal": "82595",
+      "totalapproved": "78627",
+      "totalrejected": "3761"
+    },
+    {
+      "_distname": "Davanagere",
+      "totalreceipts": "56997",
+      "totaldisposal": "61192",
+      "totalapproved": "55464",
+      "totalrejected": "5596"
+    },
+    {
+      "_distname": "Dharwad",
+      "totalreceipts": "73828",
+      "totaldisposal": "78470",
+      "totalapproved": "70800",
+      "totalrejected": "7174"
+    },
+    {
+      "_distname": "Gadag",
+      "totalreceipts": "44351",
+      "totaldisposal": "45425",
+      "totalapproved": "41420",
+      "totalrejected": "3873"
+    },
+    {
+      "_distname": "Hassan",
+      "totalreceipts": "82724",
+      "totaldisposal": "84994",
+      "totalapproved": "80071",
+      "totalrejected": "4835"
+    },
+    {
+      "_distname": "Haveri",
+      "totalreceipts": "58466",
+      "totaldisposal": "61503",
+      "totalapproved": "55296",
+      "totalrejected": "5990"
+    },
+    {
+      "_distname": "Kalaburagi",
+      "totalreceipts": "92837",
+      "totaldisposal": "94266",
+      "totalapproved": "82794",
+      "totalrejected": "11419"
+    },
+    {
+      "_distname": "Kodagu",
+      "totalreceipts": "16587",
+      "totaldisposal": "17608",
+      "totalapproved": "16532",
+      "totalrejected": "1061"
+    },
+    {
+      "_distname": "Kolar",
+      "totalreceipts": "47568",
+      "totaldisposal": "47586",
+      "totalapproved": "43206",
+      "totalrejected": "4331"
+    },
+    {
+      "_distname": "Koppal",
+      "totalreceipts": "60568",
+      "totaldisposal": "61767",
+      "totalapproved": "56499",
+      "totalrejected": "4945"
+    },
+    {
+      "_distname": "Mandya",
+      "totalreceipts": "95470",
+      "totaldisposal": "95412",
+      "totalapproved": "90428",
+      "totalrejected": "4906"
+    },
+    {
+      "_distname": "Mysuru",
+      "totalreceipts": "110008",
+      "totaldisposal": "120582",
+      "totalapproved": "109142",
+      "totalrejected": "11134"
+    },
+    {
+      "_distname": "Raichur",
+      "totalreceipts": "71514",
+      "totaldisposal": "76520",
+      "totalapproved": "66439",
+      "totalrejected": "7765"
+    },
+    {
+      "_distname": "Ramanagara",
+      "totalreceipts": "39042",
+      "totaldisposal": "40054",
+      "totalapproved": "37745",
+      "totalrejected": "2173"
+    },
+    {
+      "_distname": "Shivamogga",
+      "totalreceipts": "81065",
+      "totaldisposal": "79054",
+      "totalapproved": "72719",
+      "totalrejected": "6149"
+    },
+    {
+      "_distname": "Tumakuru",
+      "totalreceipts": "111541",
+      "totaldisposal": "114531",
+      "totalapproved": "106319",
+      "totalrejected": "8010"
+    },
+    {
+      "_distname": "Udupi",
+      "totalreceipts": "45703",
+      "totaldisposal": "45549",
+      "totalapproved": "44286",
+      "totalrejected": "1226"
+    },
+    {
+      "_distname": "Uttara Kannada",
+      "totalreceipts": "54780",
+      "totaldisposal": "56368",
+      "totalapproved": "53199",
+      "totalrejected": "3138"
+    },
+    {
+      "_distname": "Vijayanagara",
+      "totalreceipts": "43899",
+      "totaldisposal": "49076",
+      "totalapproved": "42628",
+      "totalrejected": "6417"
+    },
+    {
+      "_distname": "Vijayapura",
+      "totalreceipts": "84847",
+      "totaldisposal": "91025",
+      "totalapproved": "81611",
+      "totalrejected": "9300"
+    },
+    {
+      "_distname": "Yadgir",
+      "totalreceipts": "47217",
+      "totaldisposal": "51064",
+      "totalapproved": "46523",
+      "totalrejected": "4471"
+    }
+  ]
+}

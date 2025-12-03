@@ -1,0 +1,207 @@
+"Sl No",District,Taluk,"Pesticides Dealers (Numbers)"
+1,Belgaum,Chikkodi,139
+2,Belgaum,Athani,182
+3,Belgaum,Raibag,132
+4,Belgaum,Gokak,170
+5,Belgaum,Hukkeri,107
+6,Belgaum,Belgaum,117
+7,Belgaum,Khanapur,26
+8,Belgaum,Savadatti,80
+9,Belgaum,Bailhongal,51
+10,Belgaum,Ramadurg,36
+11,Belgaum,Kittur,23
+12,Belgaum,Nippani,42
+13,Bagalkot,Jamakhandi,118
+14,Bagalkot,Bilagi,40
+15,Bagalkot,Mudhol,98
+16,Bagalkot,Badami,26
+17,Bagalkot,Bagalkot,65
+18,Bagalkot,Hungund,29
+19,Bagalkot,Guledagudda,11
+20,Bagalkot,Illkal,9
+21,Vijayapura,Bijapur,107
+22,Vijayapura,Indi,85
+23,Vijayapura,Sindagi,164
+24,Vijayapura,"Basvana Bagewadi",46
+25,Vijayapura,Muddebihal,48
+26,Vijayapura,Nidagundi,51
+27,Vijayapura,Babaleshwar,57
+28,Vijayapura,Chadachan,44
+29,Vijayapura,Talikote,22
+30,Vijayapura,Thikota,62
+31,Vijayapura,Devarahipparagi,0
+32,Vijayapura,Kholar,0
+33,Kalaburgi,Aland,66
+34,Kalaburgi,Afzalpur,51
+35,Kalaburgi,Gulbarga,117
+36,Kalaburgi,Chincholi,54
+37,Kalaburgi,Sedam,36
+38,Kalaburgi,Chittapur,44
+39,Kalaburgi,Jevargi,94
+40,Kalaburgi,Kalagi,13
+41,Kalaburgi,"Gulbarga North",10
+42,Kalaburgi,Yedrami,51
+43,Bidar,Basavakalyan,66
+44,Bidar,Bhalki,84
+45,Bidar,Aurad,67
+46,Bidar,Bidar,58
+47,Bidar,Humnabad,41
+48,Bidar,Chitaguppa,11
+49,Raichur,Lingasugur,95
+50,Raichur,Devdurga,157
+51,Raichur,Raichur,270
+52,Raichur,Manvi,231
+53,Raichur,Sindhanur,287
+54,Raichur,Maski,35
+55,Koppal,Yelburga,37
+56,Koppal,Kushtagi,50
+57,Koppal,Gangavathi,208
+58,Koppal,Koppal,74
+59,Koppal,Karatagi,57
+60,Gadag,Naragund,48
+61,Gadag,Ron,28
+62,Gadag,Gadag,55
+63,Gadag,Shirahatti,16
+64,Gadag,Mundargi,23
+65,Gadag,Gajendragad,28
+66,Gadag,Lakshmeshwar,21
+67,Dharwad,Dharwad,77
+68,Dharwad,Navalgund,59
+69,Dharwad,Hubli,156
+70,Dharwad,Kalgatigi,41
+71,Dharwad,Kundgol,56
+72,"Uttar Kannada",Karwar,1
+73,"Uttar Kannada",Joida,0
+74,"Uttar Kannada",haliyal,13
+75,"Uttar Kannada",Yellapur,6
+76,"Uttar Kannada",Mundgod,24
+77,"Uttar Kannada",Sirsi,21
+78,"Uttar Kannada",Ankola,2
+79,"Uttar Kannada",Kumta,4
+80,"Uttar Kannada",Siddapur,16
+81,"Uttar Kannada",Honnavar,0
+82,"Uttar Kannada",Bhatkal,9
+83,Haveri,Shiggaon,58
+84,Haveri,Savanur,68
+85,Haveri,Hangal,119
+86,Haveri,Haveri,148
+87,Haveri,Byadagi,86
+88,Haveri,Hirekerur,124
+89,Haveri,Ranebennur,141
+90,Bellary,hadagli,44
+91,Bellary,HagariBommannaHalli,42
+92,Bellary,Hospet,88
+93,Bellary,Sirguppa,155
+94,Bellary,Bellary,324
+95,Bellary,Sandur,16
+96,Bellary,Kudligi,45
+97,Bellary,Kurugodu,91
+98,Bellary,Harapanahalli,68
+99,Chitradurga,Molakalmur,24
+100,Chitradurga,Challakere,62
+101,Chitradurga,Chitradurga,93
+102,Chitradurga,Holalkere,43
+103,Chitradurga,Hosdurga,29
+104,Chitradurga,Hiiriyur,37
+105,Davangere,Harihar,122
+106,Davangere,Jagalur,38
+107,Davangere,Davanagere,318
+108,Davangere,Honnali,120
+109,Davangere,Channagiri,137
+110,Shimoga,Sagar,48
+111,Shimoga,Sorab,74
+112,Shimoga,Shikaripura,125
+113,Shimoga,Hosanagar,32
+114,Shimoga,Thirthalli,26
+115,Shimoga,Shimoga,114
+116,Shimoga,Bhadravathi,71
+117,Udupi,Kundapura,14
+118,Udupi,Udupi,18
+119,Udupi,Karkala,11
+120,Udupi,Byandur,3
+121,Udupi,Brahmavara,10
+122,Chikmagalur,Sringeri,10
+123,Chikmagalur,Koppa,14
+124,Chikmagalur,Narasimharajapura,16
+125,Chikmagalur,Tarikere,69
+126,Chikmagalur,Kadur,70
+127,Chikmagalur,Chikmagalur,100
+128,Chikmagalur,Mudigere,23
+129,Tumkur,Chiknayakanahalli,15
+130,Tumkur,Sira,39
+131,Tumkur,Pavagada,28
+132,Tumkur,Madhugiri,13
+133,Tumkur,Koratagere,19
+134,Tumkur,Tumkur,65
+135,Tumkur,Gubbi,29
+136,Tumkur,Tiptur,22
+137,Tumkur,Turuvekere,10
+138,Tumkur,Kunigal,21
+139,Kolar,Srinivaspura,75
+140,Kolar,Kolar,65
+141,Kolar,Mallur,68
+142,Kolar,Bangarpet,48
+143,Kolar,Mulbagal,60
+144,Kolar,K.G.F,3
+145,"Bangalore Urban","Bangalore North",212
+146,"Bangalore Urban","Bangalore South",173
+147,"Bangalore Urban",Anekal,58
+148,"Bangalore Urban",Bangalore-East,80
+149,"Bangalore Urban",Yalahanka,50
+150,"Bangalore Rural",Nelamangala,31
+151,"Bangalore Rural",Doddaballapura,48
+152,"Bangalore Rural",Devanahalli,37
+153,"Bangalore Rural",Hoskote,68
+154,Mandya,K.R.Pet,40
+155,Mandya,Nagmangala,29
+156,Mandya,Pandavapura,56
+157,Mandya,Srirangapatna,34
+158,Mandya,Mandya,63
+159,Mandya,Maddur,31
+160,Mandya,Malavalli,42
+161,Hassan,Sakleshpura,36
+162,Hassan,Belur,73
+163,Hassan,Arsikere,67
+164,Hassan,Hassan,140
+165,Hassan,Alur,33
+166,Hassan,Arkalgud,77
+167,Hassan,Holenarasipura,33
+168,Hassan,Chanrayapatna,33
+169,"Dakshina Kannada",Mangalore,33
+170,"Dakshina Kannada",Bantwal,15
+171,"Dakshina Kannada",Belthangady,28
+172,"Dakshina Kannada",Puttur,19
+173,"Dakshina Kannada",Sullia,14
+174,"Dakshina Kannada",Mudabidre,6
+175,"Dakshina Kannada",Kadaba,7
+176,Kodagu,Madikeri,19
+177,Kodagu,Somawarpet,58
+178,Kodagu,Virajpet,32
+179,Mysore,Periyapatana,67
+180,Mysore,Hunsur,82
+181,Mysore,K.R.Nagar,54
+182,Mysore,Mysore,112
+183,Mysore,Heggadadevankote,61
+184,Mysore,Nanjangud,65
+185,Mysore,T-Narsipur,46
+186,Chamrajnagar,Gundlupet,44
+187,Chamrajnagar,ChamarajaNagara,72
+188,Chamrajnagar,Yalandur,10
+189,Chamrajnagar,Kollegala,41
+190,Chamrajnagar,Hanur,68
+191,Chikkaballapur,Gauribidanur,35
+192,Chikkaballapur,Chikballapur,80
+193,Chikkaballapur,Gudibande,13
+194,Chikkaballapur,Bagepalli,48
+195,Chikkaballapur,Sidlaghatta,51
+196,Chikkaballapur,Chinthamani,101
+197,Ramnagar,Magadi,18
+198,Ramnagar,Ramanagar,12
+199,Ramnagar,Channapatna,15
+200,Ramnagar,Kanakpura,16
+201,Yadgir,Yadgir,96
+202,Yadgir,Shahapur,204
+203,Yadgir,Shorapur,125
+204,Yadgir,Gurmitkal,31
+205,Yadgir,Vadagera,39
+206,Yadgir,Hunisigi,99

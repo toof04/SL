@@ -1,0 +1,154 @@
+{
+  "index_name": "ae05fc22-6e96-477d-b31c-db5b181fa88a",
+  "title": "Zonal Railway-wise Details of the Survey for New Railway Lines in areas which are not connected by Railway Network (in Reply to Unstarred Question on 22 July, 2022)",
+  "desc": "Zonal Railway-wise Details of the Survey for New Railway Lines in areas which are not connected by Railway Network (in Reply to Unstarred Question on 22 July, 2022)",
+  "org_type": "Central",
+  "org": [
+    "Rajya Sabha"
+  ],
+  "sector": [
+    "All"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "65b21f96-6c7a-4410-9f5f-d8f10a79d842",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1700296744,
+  "updated": 1700399332,
+  "created_date": "2023-11-18T09:39:04Z",
+  "updated_date": "2023-11-19T18:38:52Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "65b21f96-6c7a-4410-9f5f-d8f10a79d842",
+    "field": "ae05fc22-6e96-477d-b31c-db5b181fa88a"
+  },
+  "field": [
+    {
+      "id": "s_no_",
+      "name": "S.No.",
+      "type": "double"
+    },
+    {
+      "id": "railway",
+      "name": "Railway",
+      "type": "keyword"
+    },
+    {
+      "id": "no__of_new_line_surveys_in_progress",
+      "name": "No. of New Line Surveys in Progress",
+      "type": "double"
+    },
+    {
+      "id": "length__in_kms_",
+      "name": "Length (in Kms)",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 16,
+  "count": 16,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "s_no_": 1,
+      "railway": "Central Railway",
+      "no__of_new_line_surveys_in_progress": 23,
+      "length__in_kms_": 2407
+    },
+    {
+      "s_no_": 2,
+      "railway": "Eastern Railway",
+      "no__of_new_line_surveys_in_progress": 6,
+      "length__in_kms_": 357
+    },
+    {
+      "s_no_": 3,
+      "railway": "East Central Railway",
+      "no__of_new_line_surveys_in_progress": 37,
+      "length__in_kms_": 2109
+    },
+    {
+      "s_no_": 4,
+      "railway": "East Coast Railway",
+      "no__of_new_line_surveys_in_progress": 14,
+      "length__in_kms_": 985
+    },
+    {
+      "s_no_": 5,
+      "railway": "Northern Railway",
+      "no__of_new_line_surveys_in_progress": 13,
+      "length__in_kms_": 678
+    },
+    {
+      "s_no_": 6,
+      "railway": "North Central Railway",
+      "no__of_new_line_surveys_in_progress": 4,
+      "length__in_kms_": 500
+    },
+    {
+      "s_no_": 7,
+      "railway": "North Eastern Railway",
+      "no__of_new_line_surveys_in_progress": 7,
+      "length__in_kms_": 486
+    },
+    {
+      "s_no_": 8,
+      "railway": "Northeast Frontier Railway",
+      "no__of_new_line_surveys_in_progress": 10,
+      "length__in_kms_": 1388
+    },
+    {
+      "s_no_": 9,
+      "railway": "North Western Railway",
+      "no__of_new_line_surveys_in_progress": 11,
+      "length__in_kms_": 1845
+    },
+    {
+      "s_no_": 10,
+      "railway": "Southern Railway",
+      "no__of_new_line_surveys_in_progress": 8,
+      "length__in_kms_": 1201
+    },
+    {
+      "s_no_": 11,
+      "railway": "South Central Railway",
+      "no__of_new_line_surveys_in_progress": 9,
+      "length__in_kms_": 1229
+    },
+    {
+      "s_no_": 12,
+      "railway": "South Eastern Railway",
+      "no__of_new_line_surveys_in_progress": 6,
+      "length__in_kms_": 383
+    },
+    {
+      "s_no_": 13,
+      "railway": "South East Central Railway",
+      "no__of_new_line_surveys_in_progress": 13,
+      "length__in_kms_": 1754
+    },
+    {
+      "s_no_": 14,
+      "railway": "South Western Railway",
+      "no__of_new_line_surveys_in_progress": 18,
+      "length__in_kms_": 2211
+    },
+    {
+      "s_no_": 15,
+      "railway": "Western Railway",
+      "no__of_new_line_surveys_in_progress": 18,
+      "length__in_kms_": 1891
+    },
+    {
+      "s_no_": 16,
+      "railway": "West Central Railway",
+      "no__of_new_line_surveys_in_progress": 8,
+      "length__in_kms_": 602
+    }
+  ]
+}

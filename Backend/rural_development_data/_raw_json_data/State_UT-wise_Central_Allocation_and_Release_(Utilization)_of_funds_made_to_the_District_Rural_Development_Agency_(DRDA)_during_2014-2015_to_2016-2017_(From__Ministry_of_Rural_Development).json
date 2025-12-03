@@ -1,0 +1,448 @@
+{
+  "index_name": "f596173e-1980-42a0-8fa6-f13c7df0cd7a",
+  "title": "State/UT-wise Central Allocation and Release (Utilization) of funds made to the District Rural Development Agency (DRDA) during 2014-2015 to 2016-2017 (From: Ministry of Rural Development)",
+  "desc": "State/UT-wise Central Allocation and Release (Utilization) of funds made to the District Rural Development Agency (DRDA) during 2014-2015 to 2016-2017 (From: Ministry of Rural Development)",
+  "org_type": "Central",
+  "org": [
+    "Rajya Sabha"
+  ],
+  "sector": [
+    "All"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "534fd34f-30ed-4973-aaaa-b652e49b0d3b",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1701616856,
+  "updated": 1701752750,
+  "created_date": "2023-12-03T16:20:56Z",
+  "updated_date": "2023-12-05T10:35:50Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "534fd34f-30ed-4973-aaaa-b652e49b0d3b",
+    "field": "f596173e-1980-42a0-8fa6-f13c7df0cd7a"
+  },
+  "field": [
+    {
+      "id": "_sl_no",
+      "name": "Sl.No",
+      "type": "keyword"
+    },
+    {
+      "id": "state_ut",
+      "name": "State/UT",
+      "type": "keyword"
+    },
+    {
+      "id": "_2014_2015___central_allocation",
+      "name": "2014-2015 - Central Allocation",
+      "type": "double"
+    },
+    {
+      "id": "_2014_2015___central_release__utilization_",
+      "name": "2014-2015 - Central Release (utilization)",
+      "type": "double"
+    },
+    {
+      "id": "_2015_16___central_allocation",
+      "name": "2015-16 - Central Allocation",
+      "type": "double"
+    },
+    {
+      "id": "_2015_16___central_release__utilization_",
+      "name": "2015-16 - Central Release (utilization)",
+      "type": "double"
+    },
+    {
+      "id": "_2016_2017___central_allocation",
+      "name": "2016-2017 - Central Allocation",
+      "type": "double"
+    },
+    {
+      "id": "_2016_2017___central_release__utilization_",
+      "name": "2016-2017 - Central Release (utilization)",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 37,
+  "count": 37,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "_sl_no": "1",
+      "state_ut": "Andhra Pradesh",
+      "_2014_2015___central_allocation": 922.84,
+      "_2014_2015___central_release__utilization_": 887.85,
+      "_2015_16___central_allocation": 581.9,
+      "_2015_16___central_release__utilization_": 747.32,
+      "_2016_2017___central_allocation": 538.6,
+      "_2016_2017___central_release__utilization_": 779.29
+    },
+    {
+      "_sl_no": "2",
+      "state_ut": "Telangana",
+      "_2014_2015___central_allocation": 610.68,
+      "_2014_2015___central_release__utilization_": 573.11,
+      "_2015_16___central_allocation": 384.98,
+      "_2015_16___central_release__utilization_": 362.39,
+      "_2016_2017___central_allocation": 356.35,
+      "_2016_2017___central_release__utilization_": 248.81
+    },
+    {
+      "_sl_no": "3",
+      "state_ut": "Bihar",
+      "_2014_2015___central_allocation": 2560.12,
+      "_2014_2015___central_release__utilization_": 1322.71,
+      "_2015_16___central_allocation": 1614.26,
+      "_2015_16___central_release__utilization_": 1219.16,
+      "_2016_2017___central_allocation": 1494.1,
+      "_2016_2017___central_release__utilization_": 1177.68
+    },
+    {
+      "_sl_no": "4",
+      "state_ut": "Chhatisgarh",
+      "_2014_2015___central_allocation": 1457.76,
+      "_2014_2015___central_release__utilization_": 1097.85,
+      "_2015_16___central_allocation": 919.16,
+      "_2015_16___central_release__utilization_": 913.38,
+      "_2016_2017___central_allocation": 850.63,
+      "_2016_2017___central_release__utilization_": 577.55
+    },
+    {
+      "_sl_no": "5",
+      "state_ut": "Goa",
+      "_2014_2015___central_allocation": 121.92,
+      "_2014_2015___central_release__utilization_": 114.71,
+      "_2015_16___central_allocation": 76.88,
+      "_2015_16___central_release__utilization_": 76.88,
+      "_2016_2017___central_allocation": 71.15,
+      "_2016_2017___central_release__utilization_": 71.12
+    },
+    {
+      "_sl_no": "6",
+      "state_ut": "Gujarat",
+      "_2014_2015___central_allocation": 1588.24,
+      "_2014_2015___central_release__utilization_": 1071.88,
+      "_2015_16___central_allocation": 1210.46,
+      "_2015_16___central_release__utilization_": 1143.79,
+      "_2016_2017___central_allocation": 1120.25,
+      "_2016_2017___central_release__utilization_": 901.27
+    },
+    {
+      "_sl_no": "7",
+      "state_ut": "Haryana",
+      "_2014_2015___central_allocation": 1162.56,
+      "_2014_2015___central_release__utilization_": 1029.59,
+      "_2015_16___central_allocation": 733.04,
+      "_2015_16___central_release__utilization_": 830.18,
+      "_2016_2017___central_allocation": 678.39,
+      "_2016_2017___central_release__utilization_": 567.46
+    },
+    {
+      "_sl_no": "8",
+      "state_ut": "Himachal Pradesh",
+      "_2014_2015___central_allocation": 669.52,
+      "_2014_2015___central_release__utilization_": 621.89,
+      "_2015_16___central_allocation": 422.14,
+      "_2015_16___central_release__utilization_": 447.8,
+      "_2016_2017___central_allocation": 586.02,
+      "_2016_2017___central_release__utilization_": 628.91
+    },
+    {
+      "_sl_no": "9",
+      "state_ut": "Jammu & Kashmir",
+      "_2014_2015___central_allocation": 1252.4,
+      "_2014_2015___central_release__utilization_": 794.04,
+      "_2015_16___central_allocation": 789.66,
+      "_2015_16___central_release__utilization_": 905.33,
+      "_2016_2017___central_allocation": 1096.21,
+      "_2016_2017___central_release__utilization_": 652.5
+    },
+    {
+      "_sl_no": "10",
+      "state_ut": "Jharkhand",
+      "_2014_2015___central_allocation": 1499.44,
+      "_2014_2015___central_release__utilization_": 929.43,
+      "_2015_16___central_allocation": 983.16,
+      "_2015_16___central_release__utilization_": 872.41,
+      "_2016_2017___central_allocation": 909.94,
+      "_2016_2017___central_release__utilization_": 1140.13
+    },
+    {
+      "_sl_no": "11",
+      "state_ut": "Karnataka",
+      "_2014_2015___central_allocation": 1660.96,
+      "_2014_2015___central_release__utilization_": 1296.69,
+      "_2015_16___central_allocation": 1047.28,
+      "_2015_16___central_release__utilization_": 1206.94,
+      "_2016_2017___central_allocation": 969.21,
+      "_2016_2017___central_release__utilization_": 925.89
+    },
+    {
+      "_sl_no": "12",
+      "state_ut": "Kerala",
+      "_2014_2015___central_allocation": 909.08,
+      "_2014_2015___central_release__utilization_": 596.57,
+      "_2015_16___central_allocation": 573.1,
+      "_2015_16___central_release__utilization_": 744.47,
+      "_2016_2017___central_allocation": 530.47,
+      "_2016_2017___central_release__utilization_": 778.57
+    },
+    {
+      "_sl_no": "13",
+      "state_ut": "Madhya Pradesh",
+      "_2014_2015___central_allocation": 2850.24,
+      "_2014_2015___central_release__utilization_": 2485.64,
+      "_2015_16___central_allocation": 1797.16,
+      "_2015_16___central_release__utilization_": 1687.48,
+      "_2016_2017___central_allocation": 1663.21,
+      "_2016_2017___central_release__utilization_": 1839.93
+    },
+    {
+      "_sl_no": "14",
+      "state_ut": "Maharashtra",
+      "_2014_2015___central_allocation": 2137.92,
+      "_2014_2015___central_release__utilization_": 1700.8,
+      "_2015_16___central_allocation": 1347.86,
+      "_2015_16___central_release__utilization_": 1802.4,
+      "_2016_2017___central_allocation": 1271.28,
+      "_2016_2017___central_release__utilization_": 1675.93
+    },
+    {
+      "_sl_no": "15",
+      "state_ut": "Orissa",
+      "_2014_2015___central_allocation": 1899.4,
+      "_2014_2015___central_release__utilization_": 1714.41,
+      "_2015_16___central_allocation": 1197.54,
+      "_2015_16___central_release__utilization_": 1419.89,
+      "_2016_2017___central_allocation": 1108.39,
+      "_2016_2017___central_release__utilization_": 1626.95
+    },
+    {
+      "_sl_no": "16",
+      "state_ut": "Punjab",
+      "_2014_2015___central_allocation": 1228.88,
+      "_2014_2015___central_release__utilization_": 955.21,
+      "_2015_16___central_allocation": 774.82,
+      "_2015_16___central_release__utilization_": 803.07,
+      "_2016_2017___central_allocation": 717.07,
+      "_2016_2017___central_release__utilization_": 883.44
+    },
+    {
+      "_sl_no": "17",
+      "state_ut": "Rajasthan",
+      "_2014_2015___central_allocation": 1945.44,
+      "_2014_2015___central_release__utilization_": 1808.84,
+      "_2015_16___central_allocation": 1226.6,
+      "_2015_16___central_release__utilization_": 1435.05,
+      "_2016_2017___central_allocation": 1135.22,
+      "_2016_2017___central_release__utilization_": 967.91
+    },
+    {
+      "_sl_no": "18",
+      "state_ut": "Tamil Nadu",
+      "_2014_2015___central_allocation": 2065.16,
+      "_2014_2015___central_release__utilization_": 2017.03,
+      "_2015_16___central_allocation": 1301.96,
+      "_2015_16___central_release__utilization_": 1606.39,
+      "_2016_2017___central_allocation": 1205.12,
+      "_2016_2017___central_release__utilization_": 1760.19
+    },
+    {
+      "_sl_no": "19",
+      "state_ut": "Uttar Pradesh",
+      "_2014_2015___central_allocation": 4810.4,
+      "_2014_2015___central_release__utilization_": 3127.84,
+      "_2015_16___central_allocation": 3033.02,
+      "_2015_16___central_release__utilization_": 2549.36,
+      "_2016_2017___central_allocation": 2807.2,
+      "_2016_2017___central_release__utilization_": 2886.97
+    },
+    {
+      "_sl_no": "20",
+      "state_ut": "Uttaranchal",
+      "_2014_2015___central_allocation": 774.32,
+      "_2014_2015___central_release__utilization_": 660.8,
+      "_2015_16___central_allocation": 488.22,
+      "_2015_16___central_release__utilization_": 397.68,
+      "_2016_2017___central_allocation": 677.77,
+      "_2016_2017___central_release__utilization_": 215.53
+    },
+    {
+      "_sl_no": "21",
+      "state_ut": "West Bengal",
+      "_2014_2015___central_allocation": 1298.2,
+      "_2014_2015___central_release__utilization_": 785.79,
+      "_2015_16___central_allocation": 851.66,
+      "_2015_16___central_release__utilization_": 454.09,
+      "_2016_2017___central_allocation": 788.25,
+      "_2016_2017___central_release__utilization_": 536.19
+    },
+    {
+      "_sl_no": "22",
+      "state_ut": "A & N Isaland",
+      "_2014_2015___central_allocation": 196.68,
+      "_2014_2015___central_release__utilization_": 8,
+      "_2015_16___central_allocation": 124.02,
+      "_2015_16___central_release__utilization_": 9,
+      "_2016_2017___central_allocation": 143.53,
+      "_2016_2017___central_release__utilization_": 101.97
+    },
+    {
+      "_sl_no": "23",
+      "state_ut": "D&N Haveli",
+      "_2014_2015___central_allocation": 65.56,
+      "_2014_2015___central_release__utilization_": 8,
+      "_2015_16___central_allocation": 41.34,
+      "_2015_16___central_release__utilization_": 8,
+      "_2016_2017___central_allocation": 47.84,
+      "_2016_2017___central_release__utilization_": 47.8
+    },
+    {
+      "_sl_no": "24",
+      "state_ut": "Daman & Diu",
+      "_2014_2015___central_allocation": 65.56,
+      "_2014_2015___central_release__utilization_": "0",
+      "_2015_16___central_allocation": 41.34,
+      "_2015_16___central_release__utilization_": "0",
+      "_2016_2017___central_allocation": 47.84,
+      "_2016_2017___central_release__utilization_": "0"
+    },
+    {
+      "_sl_no": "25",
+      "state_ut": "Lakshadweep",
+      "_2014_2015___central_allocation": 81.26,
+      "_2014_2015___central_release__utilization_": 9,
+      "_2015_16___central_allocation": 51.22,
+      "_2015_16___central_release__utilization_": 8,
+      "_2016_2017___central_allocation": 59.29,
+      "_2016_2017___central_release__utilization_": "0"
+    },
+    {
+      "_sl_no": "26",
+      "state_ut": "Pondicherry",
+      "_2014_2015___central_allocation": 81.26,
+      "_2014_2015___central_release__utilization_": 25,
+      "_2015_16___central_allocation": 51.22,
+      "_2015_16___central_release__utilization_": 25,
+      "_2016_2017___central_allocation": 59.29,
+      "_2016_2017___central_release__utilization_": 40
+    },
+    {
+      "_sl_no": "Sub Total",
+      "state_ut": "Sub Total",
+      "_2014_2015___central_allocation": 33915.8,
+      "_2014_2015___central_release__utilization_": 25642.68,
+      "_2015_16___central_allocation": 21664,
+      "_2015_16___central_release__utilization_": 21675.46,
+      "_2016_2017___central_allocation": 20932.64,
+      "_2016_2017___central_release__utilization_": 21031.99
+    },
+    {
+      "_sl_no": "27",
+      "state_ut": "Arunachal Pradesh",
+      "_2014_2015___central_allocation": 1126.74,
+      "_2014_2015___central_release__utilization_": 1031.72,
+      "_2015_16___central_allocation": 710.4,
+      "_2015_16___central_release__utilization_": 631.51,
+      "_2016_2017___central_allocation": 951.1,
+      "_2016_2017___central_release__utilization_": 896.76
+    },
+    {
+      "_sl_no": "28",
+      "state_ut": "Assam",
+      "_2014_2015___central_allocation": 1912.04,
+      "_2014_2015___central_release__utilization_": 1726.88,
+      "_2015_16___central_allocation": 1205.54,
+      "_2015_16___central_release__utilization_": 1598.01,
+      "_2016_2017___central_allocation": 1394.84,
+      "_2016_2017___central_release__utilization_": 1832.49
+    },
+    {
+      "_sl_no": "29",
+      "state_ut": "Meghalaya",
+      "_2014_2015___central_allocation": 677.64,
+      "_2014_2015___central_release__utilization_": 506.58,
+      "_2015_16___central_allocation": 427.22,
+      "_2015_16___central_release__utilization_": 213.61,
+      "_2016_2017___central_allocation": 494.27,
+      "_2016_2017___central_release__utilization_": 251.95
+    },
+    {
+      "_sl_no": "30",
+      "state_ut": "Manipur",
+      "_2014_2015___central_allocation": 573.66,
+      "_2014_2015___central_release__utilization_": 429.82,
+      "_2015_16___central_allocation": 361.68,
+      "_2015_16___central_release__utilization_": 358.96,
+      "_2016_2017___central_allocation": 418.45,
+      "_2016_2017___central_release__utilization_": 326.02
+    },
+    {
+      "_sl_no": "31",
+      "state_ut": "Nagaland",
+      "_2014_2015___central_allocation": 705.84,
+      "_2014_2015___central_release__utilization_": 352.92,
+      "_2015_16___central_allocation": 445.02,
+      "_2015_16___central_release__utilization_": 203.9,
+      "_2016_2017___central_allocation": 514.87,
+      "_2016_2017___central_release__utilization_": 444.55
+    },
+    {
+      "_sl_no": "32",
+      "state_ut": "Mizoram",
+      "_2014_2015___central_allocation": 472.32,
+      "_2014_2015___central_release__utilization_": 413.45,
+      "_2015_16___central_allocation": 297.76,
+      "_2015_16___central_release__utilization_": 423.28,
+      "_2016_2017___central_allocation": 344.48,
+      "_2016_2017___central_release__utilization_": 522
+    },
+    {
+      "_sl_no": "33",
+      "state_ut": "Sikkim",
+      "_2014_2015___central_allocation": 73.14,
+      "_2014_2015___central_release__utilization_": 64.74,
+      "_2015_16___central_allocation": 46.12,
+      "_2015_16___central_release__utilization_": 65.57,
+      "_2016_2017___central_allocation": 53.36,
+      "_2016_2017___central_release__utilization_": 26.65
+    },
+    {
+      "_sl_no": "34",
+      "state_ut": "Tripura",
+      "_2014_2015___central_allocation": 542.82,
+      "_2014_2015___central_release__utilization_": 331.21,
+      "_2015_16___central_allocation": 342.26,
+      "_2015_16___central_release__utilization_": 237.03,
+      "_2016_2017___central_allocation": 395.99,
+      "_2016_2017___central_release__utilization_": 159
+    },
+    {
+      "_sl_no": "Sub Total",
+      "state_ut": "Sub Total",
+      "_2014_2015___central_allocation": 6084.2,
+      "_2014_2015___central_release__utilization_": 4857.32,
+      "_2015_16___central_allocation": 3836,
+      "_2015_16___central_release__utilization_": 3731.87,
+      "_2016_2017___central_allocation": 4567.36,
+      "_2016_2017___central_release__utilization_": 4459.42
+    },
+    {
+      "_sl_no": "Grand Total",
+      "state_ut": "Grand Total",
+      "_2014_2015___central_allocation": 40000,
+      "_2014_2015___central_release__utilization_": 30500,
+      "_2015_16___central_allocation": 25500,
+      "_2015_16___central_release__utilization_": 25407.33,
+      "_2016_2017___central_allocation": 25500,
+      "_2016_2017___central_release__utilization_": 25491.41
+    }
+  ]
+}

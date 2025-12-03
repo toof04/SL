@@ -1,0 +1,2990 @@
+{
+  "index_name": "d3790b66-53c0-4583-bdf9-4425782fea53",
+  "title": "Gram Panchayat-wise Rural Sanitation Coverage in Darbhanga District of Bihar as on date",
+  "desc": "Gram Panchayat-wise Rural Sanitation Coverage in Darbhanga District of Bihar as on date",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Jal Shakti",
+    "Department of Drinking Water and Sanitation"
+  ],
+  "sector": [
+    "Water and Sanitation"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1688360250,
+  "updated": 1688364905,
+  "created_date": "2023-07-03T06:57:30Z",
+  "updated_date": "2023-07-03T11:45:05Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "sbm",
+    "type": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+    "field": "d3790b66-53c0-4583-bdf9-4425782fea53"
+  },
+  "field": [
+    {
+      "id": "statename",
+      "name": "StateName",
+      "type": "keyword"
+    },
+    {
+      "id": "districtname",
+      "name": "DistrictName",
+      "type": "keyword"
+    },
+    {
+      "id": "blockname",
+      "name": "BlockName",
+      "type": "keyword"
+    },
+    {
+      "id": "grampanchayatname",
+      "name": "GramPanchayatName",
+      "type": "keyword"
+    },
+    {
+      "id": "ihhltotalasperdetails",
+      "name": "IHHLTotalAsPerDetails",
+      "type": "double"
+    },
+    {
+      "id": "ihhltotalach",
+      "name": "IHHLTotalAch",
+      "type": "double"
+    },
+    {
+      "id": "date",
+      "name": "Date",
+      "type": "keyword"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 324,
+  "count": 324,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "ALINAGAR",
+      "grampanchayatname": "ADHLOAM",
+      "ihhltotalasperdetails": 2820,
+      "ihhltotalach": 2820,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "ALINAGAR",
+      "grampanchayatname": "ALINAGAR",
+      "ihhltotalasperdetails": 2039,
+      "ihhltotalach": 2039,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "ALINAGAR",
+      "grampanchayatname": "DHAMURA DHAMSAIN",
+      "ihhltotalasperdetails": 2487,
+      "ihhltotalach": 2487,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "ALINAGAR",
+      "grampanchayatname": "GAROUL",
+      "ihhltotalasperdetails": 2952,
+      "ihhltotalach": 2952,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "ALINAGAR",
+      "grampanchayatname": "HANUMAN NAGAR",
+      "ihhltotalasperdetails": 2183,
+      "ihhltotalach": 2183,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "ALINAGAR",
+      "grampanchayatname": "HARIYATH",
+      "ihhltotalasperdetails": 1910,
+      "ihhltotalach": 1910,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "ALINAGAR",
+      "grampanchayatname": "HARSING PUR",
+      "ihhltotalasperdetails": 3711,
+      "ihhltotalach": 3711,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "ALINAGAR",
+      "grampanchayatname": "MOHIUDINPUR PAKRI",
+      "ihhltotalasperdetails": 1797,
+      "ihhltotalach": 1797,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "ALINAGAR",
+      "grampanchayatname": "MOTI PUR",
+      "ihhltotalasperdetails": 1937,
+      "ihhltotalach": 1937,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "ALINAGAR",
+      "grampanchayatname": "NARMA  NAVNAGAR",
+      "ihhltotalasperdetails": 3163,
+      "ihhltotalach": 3163,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "ALINAGAR",
+      "grampanchayatname": "TUMAUL SUHATH LAHTA",
+      "ihhltotalasperdetails": 1669,
+      "ihhltotalach": 1669,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BAHADURPUR",
+      "grampanchayatname": "BAHADURPUR DEKULI",
+      "ihhltotalasperdetails": 2326,
+      "ihhltotalach": 2326,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BAHADURPUR",
+      "grampanchayatname": "BAJID PUR",
+      "ihhltotalasperdetails": 1733,
+      "ihhltotalach": 1733,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BAHADURPUR",
+      "grampanchayatname": "BARUARA",
+      "ihhltotalasperdetails": 3116,
+      "ihhltotalach": 3116,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BAHADURPUR",
+      "grampanchayatname": "BASAT PUR",
+      "ihhltotalasperdetails": 2082,
+      "ihhltotalach": 2082,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BAHADURPUR",
+      "grampanchayatname": "BIUNI ANDAMA",
+      "ihhltotalasperdetails": 2425,
+      "ihhltotalach": 2425,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BAHADURPUR",
+      "grampanchayatname": "DARHAR",
+      "ihhltotalasperdetails": 2761,
+      "ihhltotalach": 2761,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BAHADURPUR",
+      "grampanchayatname": "DILABAR PUR",
+      "ihhltotalasperdetails": 2712,
+      "ihhltotalach": 2712,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BAHADURPUR",
+      "grampanchayatname": "HARI PATTI",
+      "ihhltotalasperdetails": 3101,
+      "ihhltotalach": 3101,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BAHADURPUR",
+      "grampanchayatname": "JALWARA",
+      "ihhltotalasperdetails": 2966,
+      "ihhltotalach": 2966,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BAHADURPUR",
+      "grampanchayatname": "KHAIRA",
+      "ihhltotalasperdetails": 2431,
+      "ihhltotalach": 2431,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BAHADURPUR",
+      "grampanchayatname": "KHARAJ PUR",
+      "ihhltotalasperdetails": 2741,
+      "ihhltotalach": 2741,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BAHADURPUR",
+      "grampanchayatname": "KUSOTHAR",
+      "ihhltotalasperdetails": 2624,
+      "ihhltotalach": 2624,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BAHADURPUR",
+      "grampanchayatname": "MANIYARI",
+      "ihhltotalasperdetails": 1658,
+      "ihhltotalach": 1658,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BAHADURPUR",
+      "grampanchayatname": "MEKNABEDA",
+      "ihhltotalasperdetails": 1820,
+      "ihhltotalach": 1820,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BAHADURPUR",
+      "grampanchayatname": "OJHOUL",
+      "ihhltotalasperdetails": 3627,
+      "ihhltotalach": 3627,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BAHADURPUR",
+      "grampanchayatname": "PIRRI",
+      "ihhltotalasperdetails": 1756,
+      "ihhltotalach": 1756,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BAHADURPUR",
+      "grampanchayatname": "PREMJIWAR",
+      "ihhltotalasperdetails": 1794,
+      "ihhltotalach": 1794,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BAHADURPUR",
+      "grampanchayatname": "RAMBHADRA PUR",
+      "ihhltotalasperdetails": 2071,
+      "ihhltotalach": 2071,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BAHADURPUR",
+      "grampanchayatname": "SIMRA NEHAL PUR",
+      "ihhltotalasperdetails": 2426,
+      "ihhltotalach": 2426,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BAHADURPUR",
+      "grampanchayatname": "TARALAHI",
+      "ihhltotalasperdetails": 2788,
+      "ihhltotalach": 2788,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BAHADURPUR",
+      "grampanchayatname": "TIKAPATTI",
+      "ihhltotalasperdetails": 1986,
+      "ihhltotalach": 1986,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BAHADURPUR",
+      "grampanchayatname": "UGHARA",
+      "ihhltotalasperdetails": 2165,
+      "ihhltotalach": 2165,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BAHADURPUR",
+      "grampanchayatname": "UGHRA MAHAPARA",
+      "ihhltotalasperdetails": 2444,
+      "ihhltotalach": 2444,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BAHERI",
+      "grampanchayatname": "ATAHAR NORTH",
+      "ihhltotalasperdetails": 1491,
+      "ihhltotalach": 1491,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BAHERI",
+      "grampanchayatname": "ATAHAR SOUTH",
+      "ihhltotalasperdetails": 2370,
+      "ihhltotalach": 2370,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BAHERI",
+      "grampanchayatname": "BAGHOUNI",
+      "ihhltotalasperdetails": 2016,
+      "ihhltotalach": 2016,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BAHERI",
+      "grampanchayatname": "BAHERI EAST",
+      "ihhltotalasperdetails": 2232,
+      "ihhltotalach": 2232,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BAHERI",
+      "grampanchayatname": "BAHERI WEST",
+      "ihhltotalasperdetails": 2080,
+      "ihhltotalach": 2080,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BAHERI",
+      "grampanchayatname": "BALIGAON",
+      "ihhltotalasperdetails": 1679,
+      "ihhltotalach": 1679,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BAHERI",
+      "grampanchayatname": "BHACHHI",
+      "ihhltotalasperdetails": 2362,
+      "ihhltotalach": 2362,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BAHERI",
+      "grampanchayatname": "BITHOULI",
+      "ihhltotalasperdetails": 1572,
+      "ihhltotalach": 1572,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BAHERI",
+      "grampanchayatname": "CHAKWA BHARWARI",
+      "ihhltotalasperdetails": 2506,
+      "ihhltotalach": 2506,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BAHERI",
+      "grampanchayatname": "DHANOULI",
+      "ihhltotalasperdetails": 2394,
+      "ihhltotalach": 2394,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BAHERI",
+      "grampanchayatname": "DOHAT NARAIN",
+      "ihhltotalasperdetails": 2247,
+      "ihhltotalach": 2247,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BAHERI",
+      "grampanchayatname": "ENAI",
+      "ihhltotalasperdetails": 2388,
+      "ihhltotalach": 2388,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BAHERI",
+      "grampanchayatname": "GANGDAH SHEORAM",
+      "ihhltotalasperdetails": 788,
+      "ihhltotalach": 788,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BAHERI",
+      "grampanchayatname": "GUJROULI RAMOULI",
+      "ihhltotalasperdetails": 1195,
+      "ihhltotalach": 1195,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BAHERI",
+      "grampanchayatname": "HARHACHA",
+      "ihhltotalasperdetails": 2499,
+      "ihhltotalach": 2499,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BAHERI",
+      "grampanchayatname": "HATHOURI NORTH",
+      "ihhltotalasperdetails": 1155,
+      "ihhltotalach": 1155,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BAHERI",
+      "grampanchayatname": "HATHOURI SOUTH",
+      "ihhltotalasperdetails": 1198,
+      "ihhltotalach": 1198,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BAHERI",
+      "grampanchayatname": "HAVIDIH NORTH",
+      "ihhltotalasperdetails": 1590,
+      "ihhltotalach": 1590,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BAHERI",
+      "grampanchayatname": "HAWIDIH MIDDLE",
+      "ihhltotalasperdetails": 1961,
+      "ihhltotalach": 1961,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BAHERI",
+      "grampanchayatname": "HAWIDIH SOUTH",
+      "ihhltotalasperdetails": 1560,
+      "ihhltotalach": 1560,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BAHERI",
+      "grampanchayatname": "JORJA",
+      "ihhltotalasperdetails": 1497,
+      "ihhltotalach": 1497,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BAHERI",
+      "grampanchayatname": "MITHUNIA",
+      "ihhltotalasperdetails": 1149,
+      "ihhltotalach": 1149,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BAHERI",
+      "grampanchayatname": "NIMAITHI",
+      "ihhltotalasperdetails": 2777,
+      "ihhltotalach": 2777,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BAHERI",
+      "grampanchayatname": "PAGHARI",
+      "ihhltotalasperdetails": 1945,
+      "ihhltotalach": 1945,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BAHERI",
+      "grampanchayatname": "SAMADHPURA",
+      "ihhltotalasperdetails": 1870,
+      "ihhltotalach": 1870,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BAHERI",
+      "grampanchayatname": "SUSARI  TURKI",
+      "ihhltotalasperdetails": 2258,
+      "ihhltotalach": 2258,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BAHERI",
+      "grampanchayatname": "THATHOPUR",
+      "ihhltotalasperdetails": 1813,
+      "ihhltotalach": 1813,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BENIPUR",
+      "grampanchayatname": "BATHO RADHIYAM",
+      "ihhltotalasperdetails": 2219,
+      "ihhltotalach": 2219,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BENIPUR",
+      "grampanchayatname": "DEVRAM AMETHI",
+      "ihhltotalasperdetails": 2070,
+      "ihhltotalach": 2070,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BENIPUR",
+      "grampanchayatname": "GANESH BANAUL BALNI",
+      "ihhltotalasperdetails": 2021,
+      "ihhltotalach": 2021,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BENIPUR",
+      "grampanchayatname": "HARIPUR",
+      "ihhltotalasperdetails": 2504,
+      "ihhltotalach": 2504,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BENIPUR",
+      "grampanchayatname": "HAVI BHOUAR",
+      "ihhltotalasperdetails": 1944,
+      "ihhltotalach": 1944,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BENIPUR",
+      "grampanchayatname": "JARISON",
+      "ihhltotalasperdetails": 2272,
+      "ihhltotalach": 2272,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BENIPUR",
+      "grampanchayatname": "MADHOPUR    MAHAMDPUR",
+      "ihhltotalasperdetails": 1692,
+      "ihhltotalach": 1692,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BENIPUR",
+      "grampanchayatname": "MAHINAM",
+      "ihhltotalasperdetails": 2225,
+      "ihhltotalach": 2225,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BENIPUR",
+      "grampanchayatname": "MAKRAM PUR",
+      "ihhltotalasperdetails": 1965,
+      "ihhltotalach": 1965,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BENIPUR",
+      "grampanchayatname": "NAWADA",
+      "ihhltotalasperdetails": 1802,
+      "ihhltotalach": 1802,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BENIPUR",
+      "grampanchayatname": "POHADI   WEST",
+      "ihhltotalasperdetails": 2293,
+      "ihhltotalach": 2293,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BENIPUR",
+      "grampanchayatname": "RAMOULI",
+      "ihhltotalasperdetails": 1885,
+      "ihhltotalach": 1885,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BENIPUR",
+      "grampanchayatname": "SAJAUPURA",
+      "ihhltotalasperdetails": 1765,
+      "ihhltotalach": 1765,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BENIPUR",
+      "grampanchayatname": "SAJHUAR",
+      "ihhltotalasperdetails": 2207,
+      "ihhltotalach": 2207,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BENIPUR",
+      "grampanchayatname": "SHIVRAM",
+      "ihhltotalasperdetails": 1935,
+      "ihhltotalach": 1935,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BENIPUR",
+      "grampanchayatname": "TAROUNI",
+      "ihhltotalasperdetails": 1441,
+      "ihhltotalach": 1441,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BIRAUL",
+      "grampanchayatname": "AFZALA",
+      "ihhltotalasperdetails": 2956,
+      "ihhltotalach": 2956,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BIRAUL",
+      "grampanchayatname": "AKBARPUR BENK",
+      "ihhltotalasperdetails": 2508,
+      "ihhltotalach": 2508,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BIRAUL",
+      "grampanchayatname": "ARGA USARI",
+      "ihhltotalasperdetails": 2138,
+      "ihhltotalach": 2138,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BIRAUL",
+      "grampanchayatname": "BAIRAMPUR",
+      "ihhltotalasperdetails": 2102,
+      "ihhltotalach": 2102,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BIRAUL",
+      "grampanchayatname": "BHAWANIPUR",
+      "ihhltotalasperdetails": 3028,
+      "ihhltotalach": 3028,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BIRAUL",
+      "grampanchayatname": "BIRAUL",
+      "ihhltotalasperdetails": 2709,
+      "ihhltotalach": 2709,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BIRAUL",
+      "grampanchayatname": "DEKULI JAGNATHPUR",
+      "ihhltotalasperdetails": 2610,
+      "ihhltotalach": 2610,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BIRAUL",
+      "grampanchayatname": "DUMARI",
+      "ihhltotalasperdetails": 2778,
+      "ihhltotalach": 2778,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BIRAUL",
+      "grampanchayatname": "GANAURA TARWARA",
+      "ihhltotalasperdetails": 2201,
+      "ihhltotalach": 2201,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BIRAUL",
+      "grampanchayatname": "ITWA SHIV NAGAR",
+      "ihhltotalasperdetails": 1981,
+      "ihhltotalach": 1981,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BIRAUL",
+      "grampanchayatname": "KAHUA",
+      "ihhltotalasperdetails": 2455,
+      "ihhltotalach": 2455,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BIRAUL",
+      "grampanchayatname": "KAMARKALA",
+      "ihhltotalasperdetails": 1940,
+      "ihhltotalach": 1940,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BIRAUL",
+      "grampanchayatname": "LADAHO",
+      "ihhltotalasperdetails": 2343,
+      "ihhltotalach": 2343,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BIRAUL",
+      "grampanchayatname": "MANOR BHAURAM",
+      "ihhltotalasperdetails": 1840,
+      "ihhltotalach": 1840,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BIRAUL",
+      "grampanchayatname": "NEURI",
+      "ihhltotalasperdetails": 3001,
+      "ihhltotalach": 3001,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BIRAUL",
+      "grampanchayatname": "PARRI",
+      "ihhltotalasperdetails": 1804,
+      "ihhltotalach": 1804,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BIRAUL",
+      "grampanchayatname": "PATANIYA",
+      "ihhltotalasperdetails": 2594,
+      "ihhltotalach": 2594,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BIRAUL",
+      "grampanchayatname": "POKHRAM NORTH",
+      "ihhltotalasperdetails": 2716,
+      "ihhltotalach": 2716,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BIRAUL",
+      "grampanchayatname": "POKHRAM SOUTH",
+      "ihhltotalasperdetails": 3066,
+      "ihhltotalach": 3066,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BIRAUL",
+      "grampanchayatname": "RAMNAGAR",
+      "ihhltotalasperdetails": 2269,
+      "ihhltotalach": 2269,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BIRAUL",
+      "grampanchayatname": "ROHAR MAHMUDA",
+      "ihhltotalasperdetails": 2759,
+      "ihhltotalach": 2759,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BIRAUL",
+      "grampanchayatname": "SAHASRAM",
+      "ihhltotalasperdetails": 1645,
+      "ihhltotalach": 1645,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BIRAUL",
+      "grampanchayatname": "SAHO",
+      "ihhltotalasperdetails": 2291,
+      "ihhltotalach": 2291,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BIRAUL",
+      "grampanchayatname": "SONPUR PAGHARI",
+      "ihhltotalasperdetails": 1601,
+      "ihhltotalach": 1601,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BIRAUL",
+      "grampanchayatname": "SUPAUL",
+      "ihhltotalasperdetails": 1938,
+      "ihhltotalach": 1938,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "BIRAUL",
+      "grampanchayatname": "UCHATI",
+      "ihhltotalasperdetails": 2181,
+      "ihhltotalach": 2181,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "DARBHANGA",
+      "grampanchayatname": "ADALPUR",
+      "ihhltotalasperdetails": 1791,
+      "ihhltotalach": 1791,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "DARBHANGA",
+      "grampanchayatname": "ATIHAR",
+      "ihhltotalasperdetails": 2149,
+      "ihhltotalach": 2149,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "DARBHANGA",
+      "grampanchayatname": "BALHA",
+      "ihhltotalasperdetails": 1821,
+      "ihhltotalach": 1821,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "DARBHANGA",
+      "grampanchayatname": "BASUDEOPUR",
+      "ihhltotalasperdetails": 2228,
+      "ihhltotalach": 2228,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "DARBHANGA",
+      "grampanchayatname": "BHAL PATTI",
+      "ihhltotalasperdetails": 2091,
+      "ihhltotalach": 2091,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "DARBHANGA",
+      "grampanchayatname": "BIJULI",
+      "ihhltotalasperdetails": 2184,
+      "ihhltotalach": 2184,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "DARBHANGA",
+      "grampanchayatname": "CHHOTAIPATTI",
+      "ihhltotalasperdetails": 2312,
+      "ihhltotalach": 2312,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "DARBHANGA",
+      "grampanchayatname": "DHOI",
+      "ihhltotalasperdetails": 1813,
+      "ihhltotalach": 1813,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "DARBHANGA",
+      "grampanchayatname": "DULARPUR",
+      "ihhltotalasperdetails": 2116,
+      "ihhltotalach": 2116,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "DARBHANGA",
+      "grampanchayatname": "GHORGHATTA",
+      "ihhltotalasperdetails": 2136,
+      "ihhltotalach": 2136,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "DARBHANGA",
+      "grampanchayatname": "KABIRCHAK",
+      "ihhltotalasperdetails": 2067,
+      "ihhltotalach": 2067,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "DARBHANGA",
+      "grampanchayatname": "KANSI",
+      "ihhltotalasperdetails": 2526,
+      "ihhltotalach": 2526,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "DARBHANGA",
+      "grampanchayatname": "KHARUA",
+      "ihhltotalasperdetails": 2409,
+      "ihhltotalach": 2409,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "DARBHANGA",
+      "grampanchayatname": "KHUTWARA",
+      "ihhltotalasperdetails": 2222,
+      "ihhltotalach": 2222,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "DARBHANGA",
+      "grampanchayatname": "LOAM",
+      "ihhltotalasperdetails": 1855,
+      "ihhltotalach": 1855,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "DARBHANGA",
+      "grampanchayatname": "MURIA",
+      "ihhltotalasperdetails": 2162,
+      "ihhltotalach": 2162,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "DARBHANGA",
+      "grampanchayatname": "NAINAGHAT",
+      "ihhltotalasperdetails": 2003,
+      "ihhltotalach": 2003,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "DARBHANGA",
+      "grampanchayatname": "RANIPUR",
+      "ihhltotalasperdetails": 2355,
+      "ihhltotalach": 2355,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "DARBHANGA",
+      "grampanchayatname": "SAHBAJPUR",
+      "ihhltotalasperdetails": 2243,
+      "ihhltotalach": 2243,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "DARBHANGA",
+      "grampanchayatname": "SARAMAHMAD",
+      "ihhltotalasperdetails": 1923,
+      "ihhltotalach": 1923,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "DARBHANGA",
+      "grampanchayatname": "SISO EAST",
+      "ihhltotalasperdetails": 2140,
+      "ihhltotalach": 2140,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "DARBHANGA",
+      "grampanchayatname": "SISO WEST",
+      "ihhltotalasperdetails": 2713,
+      "ihhltotalach": 2713,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "DARBHANGA",
+      "grampanchayatname": "SONKI",
+      "ihhltotalasperdetails": 2326,
+      "ihhltotalach": 2326,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "GAURABAURAM",
+      "grampanchayatname": "AASI",
+      "ihhltotalasperdetails": 2143,
+      "ihhltotalach": 2143,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "GAURABAURAM",
+      "grampanchayatname": "ADHAR PUR",
+      "ihhltotalasperdetails": 2685,
+      "ihhltotalach": 2685,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "GAURABAURAM",
+      "grampanchayatname": "BANGRASI",
+      "ihhltotalasperdetails": 2242,
+      "ihhltotalach": 2242,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "GAURABAURAM",
+      "grampanchayatname": "BOURAM",
+      "ihhltotalasperdetails": 2298,
+      "ihhltotalach": 2298,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "GAURABAURAM",
+      "grampanchayatname": "GOURA MANSINGH",
+      "ihhltotalasperdetails": 2117,
+      "ihhltotalach": 2117,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "GAURABAURAM",
+      "grampanchayatname": "KANHAI",
+      "ihhltotalasperdetails": 3704,
+      "ihhltotalach": 3704,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "GAURABAURAM",
+      "grampanchayatname": "KASROUR BASOULI",
+      "ihhltotalasperdetails": 2815,
+      "ihhltotalach": 2815,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "GAURABAURAM",
+      "grampanchayatname": "KASROUR BELWARA",
+      "ihhltotalasperdetails": 1976,
+      "ihhltotalach": 1976,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "GAURABAURAM",
+      "grampanchayatname": "KUMAI BHADON",
+      "ihhltotalasperdetails": 2513,
+      "ihhltotalach": 2513,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "GAURABAURAM",
+      "grampanchayatname": "MANSARA",
+      "ihhltotalasperdetails": 2479,
+      "ihhltotalach": 2479,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "GAURABAURAM",
+      "grampanchayatname": "NADAI",
+      "ihhltotalasperdetails": 2066,
+      "ihhltotalach": 2066,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "GAURABAURAM",
+      "grampanchayatname": "NARI",
+      "ihhltotalasperdetails": 2772,
+      "ihhltotalach": 2772,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "GAURABAURAM",
+      "grampanchayatname": "SOUTH KASROUND KARKOULI",
+      "ihhltotalasperdetails": 2820,
+      "ihhltotalach": 2820,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "GHANSHYAMPUR",
+      "grampanchayatname": "BORHIAB INYATPUR",
+      "ihhltotalasperdetails": 1217,
+      "ihhltotalach": 1217,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "GHANSHYAMPUR",
+      "grampanchayatname": "BRAHMPUR MASWASI",
+      "ihhltotalasperdetails": 1686,
+      "ihhltotalach": 1686,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "GHANSHYAMPUR",
+      "grampanchayatname": "GANOUN",
+      "ihhltotalasperdetails": 1689,
+      "ihhltotalach": 1689,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "GHANSHYAMPUR",
+      "grampanchayatname": "GHANSHYAMPUR",
+      "ihhltotalasperdetails": 2022,
+      "ihhltotalach": 2022,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "GHANSHYAMPUR",
+      "grampanchayatname": "JAIDEOPATTI",
+      "ihhltotalasperdetails": 1927,
+      "ihhltotalach": 1927,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "GHANSHYAMPUR",
+      "grampanchayatname": "KORTHO EAST",
+      "ihhltotalasperdetails": 2013,
+      "ihhltotalach": 2013,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "GHANSHYAMPUR",
+      "grampanchayatname": "KORTHO WEST",
+      "ihhltotalasperdetails": 2764,
+      "ihhltotalach": 2764,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "GHANSHYAMPUR",
+      "grampanchayatname": "PALI",
+      "ihhltotalasperdetails": 1595,
+      "ihhltotalach": 1595,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "GHANSHYAMPUR",
+      "grampanchayatname": "POHADI BELA",
+      "ihhltotalasperdetails": 1245,
+      "ihhltotalach": 1245,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "GHANSHYAMPUR",
+      "grampanchayatname": "PUNHAD",
+      "ihhltotalasperdetails": 1639,
+      "ihhltotalach": 1639,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "GHANSHYAMPUR",
+      "grampanchayatname": "SALAHPUR LAGMA",
+      "ihhltotalasperdetails": 1104,
+      "ihhltotalach": 1104,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "GHANSHYAMPUR",
+      "grampanchayatname": "TUMOUL",
+      "ihhltotalasperdetails": 1920,
+      "ihhltotalach": 1920,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "HANUMAN NAGAR",
+      "grampanchayatname": "ARAILA",
+      "ihhltotalasperdetails": 2689,
+      "ihhltotalach": 2689,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "HANUMAN NAGAR",
+      "grampanchayatname": "DIHLAHI",
+      "ihhltotalasperdetails": 2508,
+      "ihhltotalach": 2508,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "HANUMAN NAGAR",
+      "grampanchayatname": "GODAI PATTI",
+      "ihhltotalasperdetails": 2430,
+      "ihhltotalach": 2430,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "HANUMAN NAGAR",
+      "grampanchayatname": "GORHALLA",
+      "ihhltotalasperdetails": 1970,
+      "ihhltotalach": 1970,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "HANUMAN NAGAR",
+      "grampanchayatname": "GORHIYARI",
+      "ihhltotalasperdetails": 3105,
+      "ihhltotalach": 3105,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "HANUMAN NAGAR",
+      "grampanchayatname": "MORO",
+      "ihhltotalasperdetails": 3029,
+      "ihhltotalach": 3029,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "HANUMAN NAGAR",
+      "grampanchayatname": "NARSARA",
+      "ihhltotalasperdetails": 1829,
+      "ihhltotalach": 1829,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "HANUMAN NAGAR",
+      "grampanchayatname": "NEYAM CHHATOUNA",
+      "ihhltotalasperdetails": 2506,
+      "ihhltotalach": 2506,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "HANUMAN NAGAR",
+      "grampanchayatname": "PANCHOBH",
+      "ihhltotalasperdetails": 2170,
+      "ihhltotalach": 2170,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "HANUMAN NAGAR",
+      "grampanchayatname": "PATORI",
+      "ihhltotalasperdetails": 1716,
+      "ihhltotalach": 1716,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "HANUMAN NAGAR",
+      "grampanchayatname": "RAMPUR DIH",
+      "ihhltotalasperdetails": 1715,
+      "ihhltotalach": 1715,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "HANUMAN NAGAR",
+      "grampanchayatname": "RUPOULI",
+      "ihhltotalasperdetails": 1973,
+      "ihhltotalach": 1973,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "HANUMAN NAGAR",
+      "grampanchayatname": "SINUARA",
+      "ihhltotalasperdetails": 2388,
+      "ihhltotalach": 2388,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "HANUMAN NAGAR",
+      "grampanchayatname": "THALWARA",
+      "ihhltotalasperdetails": 2115,
+      "ihhltotalach": 2115,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "HAYAGHAT",
+      "grampanchayatname": "ANAND PUR    SAHORA",
+      "ihhltotalasperdetails": 1477,
+      "ihhltotalach": 1477,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "HAYAGHAT",
+      "grampanchayatname": "CHANDAN PATTI",
+      "ihhltotalasperdetails": 1864,
+      "ihhltotalach": 1864,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "HAYAGHAT",
+      "grampanchayatname": "GHOSRAMA",
+      "ihhltotalasperdetails": 1390,
+      "ihhltotalach": 1390,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "HAYAGHAT",
+      "grampanchayatname": "MAJHOULIA",
+      "ihhltotalasperdetails": 2237,
+      "ihhltotalach": 2237,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "HAYAGHAT",
+      "grampanchayatname": "MALHI PATTI NORTH",
+      "ihhltotalasperdetails": 2362,
+      "ihhltotalach": 2362,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "HAYAGHAT",
+      "grampanchayatname": "MALHI PATTI SOUTH",
+      "ihhltotalasperdetails": 1154,
+      "ihhltotalach": 1154,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "HAYAGHAT",
+      "grampanchayatname": "MIRJA PUR",
+      "ihhltotalasperdetails": 2060,
+      "ihhltotalach": 2060,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "HAYAGHAT",
+      "grampanchayatname": "PATOR",
+      "ihhltotalasperdetails": 2245,
+      "ihhltotalach": 2245,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "HAYAGHAT",
+      "grampanchayatname": "POURAM",
+      "ihhltotalasperdetails": 2412,
+      "ihhltotalach": 2412,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "HAYAGHAT",
+      "grampanchayatname": "RASALPUR",
+      "ihhltotalasperdetails": 2062,
+      "ihhltotalach": 2062,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "HAYAGHAT",
+      "grampanchayatname": "SHRI RAMPUR",
+      "ihhltotalasperdetails": 1711,
+      "ihhltotalach": 1711,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "HAYAGHAT",
+      "grampanchayatname": "SIDHOULI",
+      "ihhltotalasperdetails": 1529,
+      "ihhltotalach": 1529,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "HAYAGHAT",
+      "grampanchayatname": "SIRNIYA BILASHPUR WEST",
+      "ihhltotalasperdetails": 1053,
+      "ihhltotalach": 1053,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "HAYAGHAT",
+      "grampanchayatname": "SIRNIYA EAST RUSHAM PUR",
+      "ihhltotalasperdetails": 1703,
+      "ihhltotalach": 1703,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "JALE",
+      "grampanchayatname": "AHIYARI SOUTH",
+      "ihhltotalasperdetails": 1025,
+      "ihhltotalach": 1025,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "JALE",
+      "grampanchayatname": "AIHYARI NORTH",
+      "ihhltotalasperdetails": 1514,
+      "ihhltotalach": 1514,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "JALE",
+      "grampanchayatname": "BANDHOULI",
+      "ihhltotalasperdetails": 838,
+      "ihhltotalach": 838,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "JALE",
+      "grampanchayatname": "BARAMPUR (E)",
+      "ihhltotalasperdetails": 1452,
+      "ihhltotalach": 1452,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "JALE",
+      "grampanchayatname": "BRAHMAPUR WEST",
+      "ihhltotalasperdetails": 1020,
+      "ihhltotalach": 1020,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "JALE",
+      "grampanchayatname": "DHADHIYA",
+      "ihhltotalasperdetails": 976,
+      "ihhltotalach": 976,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "JALE",
+      "grampanchayatname": "DOGHRA",
+      "ihhltotalasperdetails": 1942,
+      "ihhltotalach": 1942,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "JALE",
+      "grampanchayatname": "JALE SOUTH",
+      "ihhltotalasperdetails": 1385,
+      "ihhltotalach": 1385,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "JALE",
+      "grampanchayatname": "JALE WEST",
+      "ihhltotalasperdetails": 1734,
+      "ihhltotalach": 1734,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "JALE",
+      "grampanchayatname": "JALLEY EAST",
+      "ihhltotalasperdetails": 1214,
+      "ihhltotalach": 1214,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "JALE",
+      "grampanchayatname": "JALLEY NORTH",
+      "ihhltotalasperdetails": 1361,
+      "ihhltotalach": 1361,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "JALE",
+      "grampanchayatname": "KACHHUA",
+      "ihhltotalasperdetails": 1141,
+      "ihhltotalach": 1141,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "JALE",
+      "grampanchayatname": "KAMTOUL",
+      "ihhltotalasperdetails": 1305,
+      "ihhltotalach": 1305,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "JALE",
+      "grampanchayatname": "KARWA TARIYANI",
+      "ihhltotalasperdetails": 905,
+      "ihhltotalach": 905,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "JALE",
+      "grampanchayatname": "KATRAUL BASANT",
+      "ihhltotalasperdetails": 1000,
+      "ihhltotalach": 1000,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "JALE",
+      "grampanchayatname": "KAZI BAHERA",
+      "ihhltotalasperdetails": 1245,
+      "ihhltotalach": 1245,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "JALE",
+      "grampanchayatname": "MASSA",
+      "ihhltotalasperdetails": 1615,
+      "ihhltotalach": 1615,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "JALE",
+      "grampanchayatname": "MURAITHA",
+      "ihhltotalasperdetails": 1958,
+      "ihhltotalach": 1959,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "JALE",
+      "grampanchayatname": "RADAI (N)",
+      "ihhltotalasperdetails": 1370,
+      "ihhltotalach": 1370,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "JALE",
+      "grampanchayatname": "RADHI EAST",
+      "ihhltotalasperdetails": 1634,
+      "ihhltotalach": 1634,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "JALE",
+      "grampanchayatname": "RADHI SOUTH",
+      "ihhltotalasperdetails": 1866,
+      "ihhltotalach": 1866,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "JALE",
+      "grampanchayatname": "RARHI WEST",
+      "ihhltotalasperdetails": 1228,
+      "ihhltotalach": 1228,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "JALE",
+      "grampanchayatname": "RATANPUR",
+      "ihhltotalasperdetails": 1808,
+      "ihhltotalach": 1808,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "JALE",
+      "grampanchayatname": "REORHA",
+      "ihhltotalasperdetails": 1723,
+      "ihhltotalach": 1723,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "JALE",
+      "grampanchayatname": "SAHASPUR",
+      "ihhltotalasperdetails": 1463,
+      "ihhltotalach": 1463,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "JALE",
+      "grampanchayatname": "YOGIARA",
+      "ihhltotalasperdetails": 1075,
+      "ihhltotalach": 1075,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KEOTIRUNWAY",
+      "grampanchayatname": "ASRAHA",
+      "ihhltotalasperdetails": 2359,
+      "ihhltotalach": 2359,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KEOTIRUNWAY",
+      "grampanchayatname": "BANSARA",
+      "ihhltotalasperdetails": 1455,
+      "ihhltotalach": 1455,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KEOTIRUNWAY",
+      "grampanchayatname": "BARAHI",
+      "ihhltotalasperdetails": 2764,
+      "ihhltotalach": 2764,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KEOTIRUNWAY",
+      "grampanchayatname": "BARIAUL",
+      "ihhltotalasperdetails": 1872,
+      "ihhltotalach": 1872,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KEOTIRUNWAY",
+      "grampanchayatname": "CHHACHHA PACHADHI",
+      "ihhltotalasperdetails": 1464,
+      "ihhltotalach": 1464,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KEOTIRUNWAY",
+      "grampanchayatname": "CHHATWAN",
+      "ihhltotalasperdetails": 2296,
+      "ihhltotalach": 2296,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KEOTIRUNWAY",
+      "grampanchayatname": "DIGHIYAR",
+      "ihhltotalasperdetails": 1008,
+      "ihhltotalach": 1008,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KEOTIRUNWAY",
+      "grampanchayatname": "JALWARA",
+      "ihhltotalasperdetails": 1246,
+      "ihhltotalach": 1246,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KEOTIRUNWAY",
+      "grampanchayatname": "KARJAPATTI",
+      "ihhltotalasperdetails": 2204,
+      "ihhltotalach": 2204,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KEOTIRUNWAY",
+      "grampanchayatname": "KEOTI",
+      "ihhltotalasperdetails": 2392,
+      "ihhltotalach": 2392,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KEOTIRUNWAY",
+      "grampanchayatname": "KHIRMA",
+      "ihhltotalasperdetails": 2299,
+      "ihhltotalach": 2299,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KEOTIRUNWAY",
+      "grampanchayatname": "KOILA ASTHAN",
+      "ihhltotalasperdetails": 1677,
+      "ihhltotalach": 1677,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KEOTIRUNWAY",
+      "grampanchayatname": "KOTHIA",
+      "ihhltotalasperdetails": 2388,
+      "ihhltotalach": 2388,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KEOTIRUNWAY",
+      "grampanchayatname": "LADARI",
+      "ihhltotalasperdetails": 2213,
+      "ihhltotalach": 2213,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KEOTIRUNWAY",
+      "grampanchayatname": "LAHWAR",
+      "ihhltotalasperdetails": 2386,
+      "ihhltotalach": 2386,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KEOTIRUNWAY",
+      "grampanchayatname": "LALGANJ",
+      "ihhltotalasperdetails": 2237,
+      "ihhltotalach": 2237,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KEOTIRUNWAY",
+      "grampanchayatname": "MADHO PATTI",
+      "ihhltotalasperdetails": 1733,
+      "ihhltotalach": 1733,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KEOTIRUNWAY",
+      "grampanchayatname": "MAJHIGAMA",
+      "ihhltotalasperdetails": 2345,
+      "ihhltotalach": 2345,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KEOTIRUNWAY",
+      "grampanchayatname": "NANAURA",
+      "ihhltotalasperdetails": 1662,
+      "ihhltotalach": 1662,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KEOTIRUNWAY",
+      "grampanchayatname": "NAYA GAON EAST",
+      "ihhltotalasperdetails": 1367,
+      "ihhltotalach": 1367,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KEOTIRUNWAY",
+      "grampanchayatname": "NAYA GAON WEST",
+      "ihhltotalasperdetails": 1086,
+      "ihhltotalach": 1086,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KEOTIRUNWAY",
+      "grampanchayatname": "PAIGAMBARPUR",
+      "ihhltotalasperdetails": 2093,
+      "ihhltotalach": 2093,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KEOTIRUNWAY",
+      "grampanchayatname": "PINDARUCH",
+      "ihhltotalasperdetails": 2113,
+      "ihhltotalach": 2113,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KEOTIRUNWAY",
+      "grampanchayatname": "RAJAURA",
+      "ihhltotalasperdetails": 1451,
+      "ihhltotalach": 1451,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KEOTIRUNWAY",
+      "grampanchayatname": "SARJAPUR",
+      "ihhltotalasperdetails": 1793,
+      "ihhltotalach": 1793,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KEOTIRUNWAY",
+      "grampanchayatname": "SHEKHPUR DANI",
+      "ihhltotalasperdetails": 1830,
+      "ihhltotalach": 1830,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KIRATPUR",
+      "grampanchayatname": "JAMALPUR",
+      "ihhltotalasperdetails": 2276,
+      "ihhltotalach": 2276,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KIRATPUR",
+      "grampanchayatname": "JHAGARUA TARWARA",
+      "ihhltotalasperdetails": 1384,
+      "ihhltotalach": 1384,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KIRATPUR",
+      "grampanchayatname": "JHAGRUA",
+      "ihhltotalasperdetails": 1860,
+      "ihhltotalach": 1860,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KIRATPUR",
+      "grampanchayatname": "KHAISA JAMALPUR",
+      "ihhltotalasperdetails": 2038,
+      "ihhltotalach": 2038,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KIRATPUR",
+      "grampanchayatname": "KIRATPUR",
+      "ihhltotalasperdetails": 1771,
+      "ihhltotalach": 1771,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KIRATPUR",
+      "grampanchayatname": "KUBOUL DHAGHA",
+      "ihhltotalasperdetails": 1372,
+      "ihhltotalach": 1372,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KIRATPUR",
+      "grampanchayatname": "NARKATIA BHANDARA",
+      "ihhltotalasperdetails": 2035,
+      "ihhltotalach": 2035,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KIRATPUR",
+      "grampanchayatname": "RASIARI  PAUNI",
+      "ihhltotalasperdetails": 2422,
+      "ihhltotalach": 2422,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KUSHESHWAR ASTHAN",
+      "grampanchayatname": "AURAHI",
+      "ihhltotalasperdetails": 2204,
+      "ihhltotalach": 2204,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KUSHESHWAR ASTHAN",
+      "grampanchayatname": "BARGAWN",
+      "ihhltotalasperdetails": 1496,
+      "ihhltotalach": 1496,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KUSHESHWAR ASTHAN",
+      "grampanchayatname": "BARNA",
+      "ihhltotalasperdetails": 1871,
+      "ihhltotalach": 1871,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KUSHESHWAR ASTHAN",
+      "grampanchayatname": "BERI",
+      "ihhltotalasperdetails": 1900,
+      "ihhltotalach": 1900,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KUSHESHWAR ASTHAN",
+      "grampanchayatname": "BHADAHAR",
+      "ihhltotalasperdetails": 1875,
+      "ihhltotalach": 1875,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KUSHESHWAR ASTHAN",
+      "grampanchayatname": "BISAHARIA MOHIM BUJURG",
+      "ihhltotalasperdetails": 1168,
+      "ihhltotalach": 1168,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KUSHESHWAR ASTHAN",
+      "grampanchayatname": "CHIGRI SIMRAHA",
+      "ihhltotalasperdetails": 1487,
+      "ihhltotalach": 1487,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KUSHESHWAR ASTHAN",
+      "grampanchayatname": "DINMO",
+      "ihhltotalasperdetails": 1767,
+      "ihhltotalach": 1767,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KUSHESHWAR ASTHAN",
+      "grampanchayatname": "GOTHANI",
+      "ihhltotalasperdetails": 1457,
+      "ihhltotalach": 1459,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KUSHESHWAR ASTHAN",
+      "grampanchayatname": "HARAULI",
+      "ihhltotalasperdetails": 1197,
+      "ihhltotalach": 1197,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KUSHESHWAR ASTHAN",
+      "grampanchayatname": "HARINAGAR",
+      "ihhltotalasperdetails": 1610,
+      "ihhltotalach": 1610,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KUSHESHWAR ASTHAN",
+      "grampanchayatname": "HIRNI",
+      "ihhltotalasperdetails": 2476,
+      "ihhltotalach": 2476,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KUSHESHWAR ASTHAN",
+      "grampanchayatname": "MASANKHON",
+      "ihhltotalasperdetails": 2162,
+      "ihhltotalach": 2162,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KUSHESHWAR ASTHAN",
+      "grampanchayatname": "PAKAHI JHAJHRA",
+      "ihhltotalasperdetails": 1332,
+      "ihhltotalach": 1332,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KUSHESWAR ASTHAN EAST",
+      "grampanchayatname": "BHINDUA",
+      "ihhltotalasperdetails": 1720,
+      "ihhltotalach": 1720,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KUSHESWAR ASTHAN EAST",
+      "grampanchayatname": "ITAHAR",
+      "ihhltotalasperdetails": 2145,
+      "ihhltotalach": 2145,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KUSHESWAR ASTHAN EAST",
+      "grampanchayatname": "K. STHAN (S)",
+      "ihhltotalasperdetails": 1636,
+      "ihhltotalach": 1636,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KUSHESWAR ASTHAN EAST",
+      "grampanchayatname": "K.STHAN(N)",
+      "ihhltotalasperdetails": 1803,
+      "ihhltotalach": 1803,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KUSHESWAR ASTHAN EAST",
+      "grampanchayatname": "KEWATGAMA",
+      "ihhltotalasperdetails": 1702,
+      "ihhltotalach": 1702,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KUSHESWAR ASTHAN EAST",
+      "grampanchayatname": "MAHISAUTH",
+      "ihhltotalasperdetails": 1434,
+      "ihhltotalach": 1434,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KUSHESWAR ASTHAN EAST",
+      "grampanchayatname": "SUGHRAIN",
+      "ihhltotalasperdetails": 2078,
+      "ihhltotalach": 2078,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KUSHESWAR ASTHAN EAST",
+      "grampanchayatname": "TILKESHWAR",
+      "ihhltotalasperdetails": 2245,
+      "ihhltotalach": 2245,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KUSHESWAR ASTHAN EAST",
+      "grampanchayatname": "UIJUWA SIMARTOKA",
+      "ihhltotalasperdetails": 2069,
+      "ihhltotalach": 2069,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "KUSHESWAR ASTHAN EAST",
+      "grampanchayatname": "USARI",
+      "ihhltotalasperdetails": 2248,
+      "ihhltotalach": 2248,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "MANIGACHHI",
+      "grampanchayatname": "BAGHANT",
+      "ihhltotalasperdetails": 966,
+      "ihhltotalach": 966,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "MANIGACHHI",
+      "grampanchayatname": "BALAUR",
+      "ihhltotalasperdetails": 1583,
+      "ihhltotalach": 1583,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "MANIGACHHI",
+      "grampanchayatname": "BAZID PUR",
+      "ihhltotalasperdetails": 2603,
+      "ihhltotalach": 2603,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "MANIGACHHI",
+      "grampanchayatname": "BHANDARISON",
+      "ihhltotalasperdetails": 2495,
+      "ihhltotalach": 2495,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "MANIGACHHI",
+      "grampanchayatname": "BRAMHPUR",
+      "ihhltotalasperdetails": 1508,
+      "ihhltotalach": 1508,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "MANIGACHHI",
+      "grampanchayatname": "BRAMHPURA BHATPURA",
+      "ihhltotalasperdetails": 2269,
+      "ihhltotalach": 2269,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "MANIGACHHI",
+      "grampanchayatname": "CHANAUR",
+      "ihhltotalasperdetails": 2299,
+      "ihhltotalach": 2299,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "MANIGACHHI",
+      "grampanchayatname": "GANGAULI KANAKPUR",
+      "ihhltotalasperdetails": 1796,
+      "ihhltotalach": 1796,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "MANIGACHHI",
+      "grampanchayatname": "JAGDISHPUR",
+      "ihhltotalasperdetails": 1588,
+      "ihhltotalach": 1588,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "MANIGACHHI",
+      "grampanchayatname": "KATMA BAHAURAWA",
+      "ihhltotalasperdetails": 1798,
+      "ihhltotalach": 1798,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "MANIGACHHI",
+      "grampanchayatname": "MAUBEHAT",
+      "ihhltotalasperdetails": 1566,
+      "ihhltotalach": 1566,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "MANIGACHHI",
+      "grampanchayatname": "NEHARA WEST",
+      "ihhltotalasperdetails": 1218,
+      "ihhltotalach": 1218,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "MANIGACHHI",
+      "grampanchayatname": "NEHRA EAST",
+      "ihhltotalasperdetails": 1190,
+      "ihhltotalach": 1190,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "MANIGACHHI",
+      "grampanchayatname": "PAIKTOL JATUKA",
+      "ihhltotalasperdetails": 1367,
+      "ihhltotalach": 1367,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "MANIGACHHI",
+      "grampanchayatname": "PAITHAN KABAI",
+      "ihhltotalasperdetails": 1267,
+      "ihhltotalach": 1267,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "MANIGACHHI",
+      "grampanchayatname": "RAGHOPUR  NORTH",
+      "ihhltotalasperdetails": 1809,
+      "ihhltotalach": 1809,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "MANIGACHHI",
+      "grampanchayatname": "RAGHOPUR EAST",
+      "ihhltotalasperdetails": 1402,
+      "ihhltotalach": 1403,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "MANIGACHHI",
+      "grampanchayatname": "RAGHOPUR SOUTH",
+      "ihhltotalasperdetails": 1067,
+      "ihhltotalach": 1067,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "MANIGACHHI",
+      "grampanchayatname": "RAGHOPUR WEST",
+      "ihhltotalasperdetails": 1533,
+      "ihhltotalach": 1533,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "MANIGACHHI",
+      "grampanchayatname": "RAJE",
+      "ihhltotalasperdetails": 2516,
+      "ihhltotalach": 2516,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "MANIGACHHI",
+      "grampanchayatname": "TATUAR",
+      "ihhltotalasperdetails": 1524,
+      "ihhltotalach": 1524,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "MANIGACHHI",
+      "grampanchayatname": "UJAN",
+      "ihhltotalasperdetails": 2388,
+      "ihhltotalach": 2388,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "SINGHWARA",
+      "grampanchayatname": "ARAI BIRDIPUR",
+      "ihhltotalasperdetails": 1773,
+      "ihhltotalach": 1773,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "SINGHWARA",
+      "grampanchayatname": "ASTHUA",
+      "ihhltotalasperdetails": 1931,
+      "ihhltotalach": 1931,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "SINGHWARA",
+      "grampanchayatname": "BANAULI",
+      "ihhltotalasperdetails": 1910,
+      "ihhltotalach": 1910,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "SINGHWARA",
+      "grampanchayatname": "BHARATHI",
+      "ihhltotalasperdetails": 2229,
+      "ihhltotalach": 2229,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "SINGHWARA",
+      "grampanchayatname": "BHARHULLI",
+      "ihhltotalasperdetails": 2461,
+      "ihhltotalach": 2461,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "SINGHWARA",
+      "grampanchayatname": "BHARWARA",
+      "ihhltotalasperdetails": 2313,
+      "ihhltotalach": 2313,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "SINGHWARA",
+      "grampanchayatname": "BHAWANIPUR",
+      "ihhltotalasperdetails": 2081,
+      "ihhltotalach": 2081,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "SINGHWARA",
+      "grampanchayatname": "HARIHAR PUR (E)",
+      "ihhltotalasperdetails": 1997,
+      "ihhltotalach": 1997,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "SINGHWARA",
+      "grampanchayatname": "HARIHARPUR (WEST)",
+      "ihhltotalasperdetails": 1658,
+      "ihhltotalach": 1658,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "SINGHWARA",
+      "grampanchayatname": "HARPUR",
+      "ihhltotalasperdetails": 1922,
+      "ihhltotalach": 1922,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "SINGHWARA",
+      "grampanchayatname": "KALIGAWN",
+      "ihhltotalasperdetails": 1772,
+      "ihhltotalach": 1772,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "SINGHWARA",
+      "grampanchayatname": "KATASSA",
+      "ihhltotalasperdetails": 1782,
+      "ihhltotalach": 1782,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "SINGHWARA",
+      "grampanchayatname": "KATKA",
+      "ihhltotalasperdetails": 2694,
+      "ihhltotalach": 2694,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "SINGHWARA",
+      "grampanchayatname": "MADHOPUR BASTWARA",
+      "ihhltotalasperdetails": 2991,
+      "ihhltotalach": 2991,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "SINGHWARA",
+      "grampanchayatname": "MANKAULI",
+      "ihhltotalasperdetails": 2783,
+      "ihhltotalach": 2783,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "SINGHWARA",
+      "grampanchayatname": "NISTA",
+      "ihhltotalasperdetails": 1355,
+      "ihhltotalach": 1355,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "SINGHWARA",
+      "grampanchayatname": "RAJO",
+      "ihhltotalasperdetails": 1761,
+      "ihhltotalach": 1761,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "SINGHWARA",
+      "grampanchayatname": "RAMPURA",
+      "ihhltotalasperdetails": 2408,
+      "ihhltotalach": 2408,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "SINGHWARA",
+      "grampanchayatname": "SADHWARA",
+      "ihhltotalasperdetails": 2034,
+      "ihhltotalach": 2034,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "SINGHWARA",
+      "grampanchayatname": "SANAHPUR",
+      "ihhltotalasperdetails": 2158,
+      "ihhltotalach": 2158,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "SINGHWARA",
+      "grampanchayatname": "SHANKAR PUR",
+      "ihhltotalasperdetails": 1939,
+      "ihhltotalach": 1939,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "SINGHWARA",
+      "grampanchayatname": "SIMRI",
+      "ihhltotalasperdetails": 2222,
+      "ihhltotalach": 2222,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "SINGHWARA",
+      "grampanchayatname": "SINGHWARA NORTH",
+      "ihhltotalasperdetails": 1819,
+      "ihhltotalach": 1819,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "SINGHWARA",
+      "grampanchayatname": "SINGHWARA SOUTH",
+      "ihhltotalasperdetails": 1600,
+      "ihhltotalach": 1602,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "SINGHWARA",
+      "grampanchayatname": "TEKTAR",
+      "ihhltotalasperdetails": 2754,
+      "ihhltotalach": 2754,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "TARDIH",
+      "grampanchayatname": "BAIKA",
+      "ihhltotalasperdetails": 2344,
+      "ihhltotalach": 2344,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "TARDIH",
+      "grampanchayatname": "BISAHATH BATHIA",
+      "ihhltotalasperdetails": 1942,
+      "ihhltotalach": 1942,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "TARDIH",
+      "grampanchayatname": "IJARAHTA",
+      "ihhltotalasperdetails": 1607,
+      "ihhltotalach": 1607,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "TARDIH",
+      "grampanchayatname": "KAITHWAR",
+      "ihhltotalasperdetails": 1923,
+      "ihhltotalach": 1923,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "TARDIH",
+      "grampanchayatname": "KAKODHA",
+      "ihhltotalasperdetails": 2342,
+      "ihhltotalach": 2342,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "TARDIH",
+      "grampanchayatname": "KATHARA",
+      "ihhltotalasperdetails": 2505,
+      "ihhltotalach": 2505,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "TARDIH",
+      "grampanchayatname": "KURSOMACHOTA",
+      "ihhltotalasperdetails": 1431,
+      "ihhltotalach": 1431,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "TARDIH",
+      "grampanchayatname": "LAGMA",
+      "ihhltotalasperdetails": 2262,
+      "ihhltotalach": 2262,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "TARDIH",
+      "grampanchayatname": "MAHTHAUR",
+      "ihhltotalasperdetails": 1663,
+      "ihhltotalach": 1663,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "TARDIH",
+      "grampanchayatname": "NADIAMI KURSON",
+      "ihhltotalasperdetails": 1487,
+      "ihhltotalach": 1487,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "TARDIH",
+      "grampanchayatname": "POKHAR BHINDA",
+      "ihhltotalasperdetails": 1523,
+      "ihhltotalach": 1523,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "TARDIH",
+      "grampanchayatname": "RAJAKHAR WAR",
+      "ihhltotalasperdetails": 1322,
+      "ihhltotalach": 1322,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "TARDIH",
+      "grampanchayatname": "SHERPUR NARAYANPUR",
+      "ihhltotalasperdetails": 1889,
+      "ihhltotalach": 1889,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "DARBHANGA",
+      "blockname": "TARDIH",
+      "grampanchayatname": "THENGAHA",
+      "ihhltotalasperdetails": 2714,
+      "ihhltotalach": 2714,
+      "date": "5/19/2020 12:00:00 AM"
+    }
+  ]
+}

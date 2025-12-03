@@ -1,0 +1,297 @@
+{
+  "index_name": "1cb5d0c1-171a-45ec-ab6c-c02adf39982d",
+  "title": "Area under Different Crops (Provisional) during 2019-20",
+  "desc": "Area under Different Crops (Provisional) during 2019-20",
+  "created": "1657252802625",
+  "updated": 1657252841,
+  "created_date": "2022-07-08T09:30:21Z",
+  "updated_date": "2022-07-08T09:30:41Z",
+  "active": "1",
+  "visualizable": "1",
+  "catalog_uuid": "9493de35-55bd-477f-97e8-71d6b543041f",
+  "source": "data.gov.in",
+  "org_type": "Central",
+  "org": [
+    "Himachal Pradesh",
+    "Economics and Statistics Department, Himachal Pradesh"
+  ],
+  "sector": [
+    "Agriculture"
+  ],
+  "field": [
+    {
+      "id": "state",
+      "name": "State",
+      "type": "keyword"
+    },
+    {
+      "id": "district",
+      "name": "District",
+      "type": "keyword"
+    },
+    {
+      "id": "wheat_in_hectare_",
+      "name": "Wheat (in Hectare)",
+      "type": "double"
+    },
+    {
+      "id": "maize_in_hectare_",
+      "name": "Maize(in Hectare)",
+      "type": "double"
+    },
+    {
+      "id": "rice_in_hectare_",
+      "name": "Rice (in Hectare)",
+      "type": "double"
+    },
+    {
+      "id": "barley_in_hectare_",
+      "name": "Barley (in Hectare)",
+      "type": "double"
+    },
+    {
+      "id": "ragi_in_hectare_",
+      "name": "Ragi  (in Hectare)",
+      "type": "double"
+    },
+    {
+      "id": "pulses_in_hectare_",
+      "name": "Pulses (in Hectare)",
+      "type": "double"
+    },
+    {
+      "id": "common_millets_in_hectare_",
+      "name": "Common millets (in Hectare)",
+      "type": "double"
+    },
+    {
+      "id": "total_food_grains_in_hectare_",
+      "name": "Total Food grains (in Hectare)",
+      "type": "double"
+    },
+    {
+      "id": "chillies_in_hectare_",
+      "name": "Chillies (in Hectare)",
+      "type": "double"
+    },
+    {
+      "id": "ginger_in_hectare_",
+      "name": "Ginger (in Hectare)",
+      "type": "double"
+    },
+    {
+      "id": "oil_seeds_in_hectare_",
+      "name": "Oil seeds (in Hectare)",
+      "type": "double"
+    }
+  ],
+  "target_bucket": {
+    "index": "api",
+    "type": "9493de35-55bd-477f-97e8-71d6b543041f",
+    "field": "1cb5d0c1-171a-45ec-ab6c-c02adf39982d"
+  },
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 13,
+  "count": 13,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "state": "Himachal Pradesh",
+      "district": "Bilaspur",
+      "wheat_in_hectare_": 23810,
+      "maize_in_hectare_": 24610,
+      "rice_in_hectare_": 1440,
+      "barley_in_hectare_": 140,
+      "ragi_in_hectare_": 6,
+      "pulses_in_hectare_": 151,
+      "common_millets_in_hectare_": 38,
+      "total_food_grains_in_hectare_": 50195,
+      "chillies_in_hectare_": 5,
+      "ginger_in_hectare_": 90,
+      "oil_seeds_in_hectare_": 321
+    },
+    {
+      "state": "Himachal Pradesh",
+      "district": "Chamba",
+      "wheat_in_hectare_": 18142,
+      "maize_in_hectare_": 26758,
+      "rice_in_hectare_": 2990,
+      "barley_in_hectare_": 4740,
+      "ragi_in_hectare_": 22,
+      "pulses_in_hectare_": 3939,
+      "common_millets_in_hectare_": 1050,
+      "total_food_grains_in_hectare_": 57641,
+      "chillies_in_hectare_": 48,
+      "ginger_in_hectare_": 4,
+      "oil_seeds_in_hectare_": 2397
+    },
+    {
+      "state": "Himachal Pradesh",
+      "district": "Hamirpur",
+      "wheat_in_hectare_": 30198,
+      "maize_in_hectare_": 33223,
+      "rice_in_hectare_": 1840,
+      "barley_in_hectare_": 95,
+      "ragi_in_hectare_": 0,
+      "pulses_in_hectare_": 42,
+      "common_millets_in_hectare_": 25,
+      "total_food_grains_in_hectare_": 65423,
+      "chillies_in_hectare_": 10,
+      "ginger_in_hectare_": 8,
+      "oil_seeds_in_hectare_": 78
+    },
+    {
+      "state": "Himachal Pradesh",
+      "district": "Kangra",
+      "wheat_in_hectare_": 84675,
+      "maize_in_hectare_": 56445,
+      "rice_in_hectare_": 34080,
+      "barley_in_hectare_": 2298,
+      "ragi_in_hectare_": 4,
+      "pulses_in_hectare_": 4203,
+      "common_millets_in_hectare_": 102,
+      "total_food_grains_in_hectare_": 181807,
+      "chillies_in_hectare_": 6,
+      "ginger_in_hectare_": 21,
+      "oil_seeds_in_hectare_": 3070
+    },
+    {
+      "state": "Himachal Pradesh",
+      "district": "Kinnaur",
+      "wheat_in_hectare_": 180,
+      "maize_in_hectare_": 85,
+      "rice_in_hectare_": 10,
+      "barley_in_hectare_": 705,
+      "ragi_in_hectare_": 10,
+      "pulses_in_hectare_": 363,
+      "common_millets_in_hectare_": 1345,
+      "total_food_grains_in_hectare_": 2698,
+      "chillies_in_hectare_": 0,
+      "ginger_in_hectare_": 0,
+      "oil_seeds_in_hectare_": 0
+    },
+    {
+      "state": "Himachal Pradesh",
+      "district": "Kullu",
+      "wheat_in_hectare_": 13575,
+      "maize_in_hectare_": 16100,
+      "rice_in_hectare_": 1328,
+      "barley_in_hectare_": 1965,
+      "ragi_in_hectare_": 220,
+      "pulses_in_hectare_": 3558,
+      "common_millets_in_hectare_": 133,
+      "total_food_grains_in_hectare_": 36879,
+      "chillies_in_hectare_": 65,
+      "ginger_in_hectare_": 84,
+      "oil_seeds_in_hectare_": 262
+    },
+    {
+      "state": "Himachal Pradesh",
+      "district": "Lahaul-spiti",
+      "wheat_in_hectare_": 88,
+      "maize_in_hectare_": 25,
+      "rice_in_hectare_": 0,
+      "barley_in_hectare_": 555,
+      "ragi_in_hectare_": 0,
+      "pulses_in_hectare_": 398,
+      "common_millets_in_hectare_": 45,
+      "total_food_grains_in_hectare_": 1111,
+      "chillies_in_hectare_": 8,
+      "ginger_in_hectare_": 0,
+      "oil_seeds_in_hectare_": 15
+    },
+    {
+      "state": "Himachal Pradesh",
+      "district": "Mandi",
+      "wheat_in_hectare_": 58540,
+      "maize_in_hectare_": 50290,
+      "rice_in_hectare_": 17924,
+      "barley_in_hectare_": 3401,
+      "ragi_in_hectare_": 615,
+      "pulses_in_hectare_": 4529,
+      "common_millets_in_hectare_": 652,
+      "total_food_grains_in_hectare_": 135951,
+      "chillies_in_hectare_": 0,
+      "ginger_in_hectare_": 0,
+      "oil_seeds_in_hectare_": 974
+    },
+    {
+      "state": "Himachal Pradesh",
+      "district": "Shimla",
+      "wheat_in_hectare_": 7635,
+      "maize_in_hectare_": 8701,
+      "rice_in_hectare_": 765,
+      "barley_in_hectare_": 2590,
+      "ragi_in_hectare_": 460,
+      "pulses_in_hectare_": 4935,
+      "common_millets_in_hectare_": 1595,
+      "total_food_grains_in_hectare_": 26681,
+      "chillies_in_hectare_": 90,
+      "ginger_in_hectare_": 65,
+      "oil_seeds_in_hectare_": 322
+    },
+    {
+      "state": "Himachal Pradesh",
+      "district": "Sirmaur",
+      "wheat_in_hectare_": 25675,
+      "maize_in_hectare_": 18890,
+      "rice_in_hectare_": 6555,
+      "barley_in_hectare_": 2275,
+      "ragi_in_hectare_": 420,
+      "pulses_in_hectare_": 4346,
+      "common_millets_in_hectare_": 119,
+      "total_food_grains_in_hectare_": 58280,
+      "chillies_in_hectare_": 45,
+      "ginger_in_hectare_": 1782,
+      "oil_seeds_in_hectare_": 1088
+    },
+    {
+      "state": "Himachal Pradesh",
+      "district": "Solan",
+      "wheat_in_hectare_": 28075,
+      "maize_in_hectare_": 21008,
+      "rice_in_hectare_": 3978,
+      "barley_in_hectare_": 1640,
+      "ragi_in_hectare_": 0,
+      "pulses_in_hectare_": 1772,
+      "common_millets_in_hectare_": 45,
+      "total_food_grains_in_hectare_": 56518,
+      "chillies_in_hectare_": 289,
+      "ginger_in_hectare_": 206,
+      "oil_seeds_in_hectare_": 621
+    },
+    {
+      "state": "Himachal Pradesh",
+      "district": "Una",
+      "wheat_in_hectare_": 28505,
+      "maize_in_hectare_": 31309,
+      "rice_in_hectare_": 1710,
+      "barley_in_hectare_": 0,
+      "ragi_in_hectare_": 0,
+      "pulses_in_hectare_": 161,
+      "common_millets_in_hectare_": 65,
+      "total_food_grains_in_hectare_": 61750,
+      "chillies_in_hectare_": 17,
+      "ginger_in_hectare_": 4,
+      "oil_seeds_in_hectare_": 1256
+    },
+    {
+      "state": "Himachal Pradesh",
+      "district": "Total",
+      "wheat_in_hectare_": 319098,
+      "maize_in_hectare_": 287444,
+      "rice_in_hectare_": 72620,
+      "barley_in_hectare_": 20404,
+      "ragi_in_hectare_": 1757,
+      "pulses_in_hectare_": 28397,
+      "common_millets_in_hectare_": 5214,
+      "total_food_grains_in_hectare_": 734934,
+      "chillies_in_hectare_": 583,
+      "ginger_in_hectare_": 2264,
+      "oil_seeds_in_hectare_": 10404
+    }
+  ]
+}

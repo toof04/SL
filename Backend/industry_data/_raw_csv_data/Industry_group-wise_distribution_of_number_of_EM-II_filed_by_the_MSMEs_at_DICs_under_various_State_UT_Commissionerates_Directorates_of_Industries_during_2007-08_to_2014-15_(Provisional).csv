@@ -1,0 +1,65 @@
+"Sl. No.","NIC 2004",Description,2007-08,2008-09,2009-10,2010-11,2011-12,2012-13,2013-14,2014-15,"2007-08 to 2014-15"
+1,1,"Agriculture, Hunting and Related Service Activities",1937,1744,1582,2049,2997,3478,3875,12722,30383
+2,2,"Forestry, Logging and Related Service Activities",739,749,1316,1539,1327,2038,1442,1108,10258
+3,5,"Fishing, Aquaculture and Service Activities Incidental to Fishing",31,14,39,18,29,90,108,343,672
+4,10,"Mining of Coal and Lignite; Extraction of Peat",54,54,63,84,59,51,72,199,634
+5,11,"Extraction of Crude Petroleum and Natural Gas; Service Activities incidental to Oil and Gas Extraction, excluding Surveying",60,226,41,37,53,65,112,227,821
+6,12,"Mining of Uranium and Thorium Ores",131,1003,88,94,66,60,100,82,1624
+7,13,"Mining of Metal Ores",151,216,185,170,277,303,280,310,1891
+8,14,"Other Mining and Quarrying",1500,2099,2516,2001,2193,2171,2354,3966,18799
+9,15,"Mfg of Food Products and Beverages",20401,20236,23284,23682,23324,25992,31075,31242,199235
+10,16,"Mfg of Tobacco Products",497,480,439,892,360,267,286,615,3836
+11,17,"Mfg of Textiles",16429,21156,22405,26311,31555,31465,36663,45494,231479
+12,18,"Mfg of Wearing Apparel; Dressing and Dyeing of Fur",16092,16768,19669,23560,25646,30897,32776,29914,195320
+13,19,"Mfg of Leather & Leather Product",3795,3874,3622,4194,3745,4828,5076,6868,36003
+14,20,"Mfg of Wood And Wood Products",7405,8706,7787,7807,8778,8411,9236,12079,70208
+15,21,"Mfg of Paper And Paper Products",3429,3562,4485,6120,3049,4781,4967,5839,36232
+16,22,"Publishing, Printing & Reproduction of Recorded Media",2611,3723,2567,2646,6177,8121,9320,9534,44700
+17,23,"Mfg of Coke & Refined Petroleum Products and Nuclear Fuel",568,505,564,626,476,554,635,526,4454
+18,24,"Mfg of Chemicals and Chemical Products",6692,7045,6926,6508,6169,6696,8158,9451,57644
+19,25,"Mfg of Rubber and Plastics Products",6327,6306,5989,6812,7124,8070,7987,9062,57676
+20,26,"Mfg of Other Non-Metallic Mineral Products",9525,10005,11472,10221,12391,12734,12821,11342,90510
+21,27,"Mfg of Basic Metals",4353,4965,3879,4467,4722,5734,5802,7978,41901
+22,28,"Mfg of Fabricated Metal Products",17625,18437,20001,19188,23805,21739,25739,23821,170356
+23,29,"Mfg of Machinery and Equipment n.e.c.",8055,8053,10169,9982,12069,13475,15536,16189,93529
+24,30,"Mfg of Office, Accounting & Computing Machinery",253,259,436,551,640,897,1424,1444,5904
+25,31,"Mfg of Electrical Machinery and Apparatus n.e.c.",3539,3728,3911,4310,4064,4764,5605,7005,36926
+26,32,"Mfg. of Radio, Television and Communication Equipment and Apparatus",1026,1296,1061,1166,1747,1505,1988,2103,11892
+27,33,"Mfg of Medical, Precision and Optical Instruments, Watches and Clocks",900,1042,1092,1000,1512,1407,1605,3694,12253
+28,34,"Mfg of Motor Vehicles, Trailers and Semi-Trailers",598,685,911,826,1589,1619,2190,2251,10668
+29,35,"Mfg of Other Transport Equipment",782,986,1255,1360,1362,1526,1531,1657,10459
+30,36,"Mfg of Furniture; Manufacturing n.e.c.",7747,9149,8550,8339,12362,12990,15253,18731,93121
+31,37,Recycling,75,150,99,66,286,338,514,943,2470
+32,40,"Electricity, Gas, Steam and Hot Water Supply",128,134,131,158,717,770,590,1485,4112
+33,41,"Collection, Purification and Distribution of Water",68,103,60,137,615,735,1343,1347,4409
+34,45,Construction,318,399,553,613,1193,2238,2613,3476,11403
+35,50,"Repair & Maintenance of Motor Vehicle, Retail Sale of Automotive Fuel",3597,3763,3690,3456,5530,8778,10314,6716,45844
+36,51,"Wholesale of Trade and Commission Trade",289,459,328,3042,11186,18232,16735,24589,74861
+37,52,"Repair & Maintenance of Personal & Household Goods; Retail Trade",6679,6738,6431,8878,11505,12901,13550,25588,92271
+38,55,"Hotels and Restaurants",188,295,297,459,1092,2620,3495,4009,12454
+39,60,"Land Transport; Transport via Pipelines",31,93,197,343,2660,2931,3255,5902,15412
+40,61,"Water Transport",6,22,2,11,75,216,46,90,469
+41,62,"Air Transport",36,32,34,57,18,32,58,75,341
+42,63,"Supporting & Auxiliary Transport & Travel Agents Activities",292,242,339,882,711,1207,1420,1725,6819
+43,64,"Post and Telecommunications",676,621,571,759,684,784,958,918,5971
+44,65,"Financial Intermediation, Except Insurance & Pension Funding",9,14,19,55,204,402,848,1434,2987
+45,66,"Insurance and Pension Funding, Except Compulsory Social Security",3,3,5,66,11,16,23,59,187
+46,67,"Activities Auxiliary to Financial Intermediation",82,39,30,66,198,203,160,281,1060
+47,70,"Real Estate Activities",29,13,6,26,55,271,799,1946,3145
+48,71,"Renting of Machinery & Equipment Without Operator & of Personal & Household Goods",224,214,274,262,579,720,805,691,3770
+49,72,"Computer and Related Activities",2715,2907,3056,3226,9620,11021,13162,13998,59704
+50,73,"Research and Development",112,164,162,163,158,475,411,250,1895
+51,74,"Other Business Activities",2685,3390,3953,4965,12439,16729,24332,29261,97754
+52,75,"Public Administration and Defence; Compulsory Social Security",44,57,25,48,65,174,142,334,889
+53,80,Education,65,100,214,261,376,565,969,1573,4122
+54,85,"Health and Social Work",94,158,134,135,393,558,1105,1997,4573
+55,90,"Sewage and Refuse Disposal, Sanitation and Similar Activities",3,8,27,19,53,91,110,303,615
+56,91,"Activities of Membership Organization n.e.c.",22,19,34,12,67,77,87,250,569
+57,92,"Recreational, Cultural and Sporting Activities",645,228,276,260,679,2197,2287,2090,8662
+58,93,"Other Service Activities",8931,14120,24367,31857,18765,17755,15704,16104,147603
+59,95,"Activities of Private Households as Employers of Domestic Staff",110,151,151,171,171,214,313,131,1413
+60,96,"Undifferentiated Goods - Producing Activities of Private Households for Own Use",218,164,156,235,358,670,404,271,2475
+61,97,"Undifferentiated Service - Producing Activities of Private Households for Own Use",371,434,251,158,1202,1603,1910,1138,7067
+62,99,"Extra Territorial Organization and Bodies",461,508,377,637,647,441,487,110,3668
+63,NA,"NIC Description Not Reported",243,215,654,383,449,125,29,478,2576
+TOTAL:,TOTAL:,TOTAL:,172703,193026,213206,238429,282428,322818,362991,425358,2210959

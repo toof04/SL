@@ -1,0 +1,184 @@
+{
+  "index_name": "75f413ea-9ccc-42ea-a2ff-f9ea7541f2b6",
+  "title": "Crime Head-wise Preventive Detentions during 2021",
+  "desc": "Crime Head-wise Preventive Detentions during 2021",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Home Affairs",
+    "Department of States",
+    "National Crime Records Bureau (NCRB)"
+  ],
+  "sector": [
+    "Police"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "83a258f3-6fd1-4a9a-911b-5207a0cfa136",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1679236299,
+  "updated": 1679286927,
+  "created_date": "2023-03-19T15:31:39Z",
+  "updated_date": "2023-03-20T10:05:27Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "83a258f3-6fd1-4a9a-911b-5207a0cfa136",
+    "field": "75f413ea-9ccc-42ea-a2ff-f9ea7541f2b6"
+  },
+  "field": [
+    {
+      "id": "sl__no_",
+      "name": "Sl. No.",
+      "type": "keyword"
+    },
+    {
+      "id": "crime_head",
+      "name": "Crime Head",
+      "type": "keyword"
+    },
+    {
+      "id": "number_of_gd_entries_made",
+      "name": "Number of GD Entries made",
+      "type": "double"
+    },
+    {
+      "id": "persons_detained",
+      "name": "Persons Detained",
+      "type": "double"
+    },
+    {
+      "id": "persons_released_by_board___in_1_month",
+      "name": "Persons Released by Board - in 1 Month",
+      "type": "double"
+    },
+    {
+      "id": "persons_released_by_board___in_1_to_3_months",
+      "name": "Persons Released by Board - in 1 to 3 Months",
+      "type": "double"
+    },
+    {
+      "id": "persons_released_by_board___in_3_to_6_months",
+      "name": "Persons Released by Board - in 3 to 6 Months",
+      "type": "double"
+    },
+    {
+      "id": "persons_released_by_board___total",
+      "name": "Persons Released by Board - Total",
+      "type": "double"
+    },
+    {
+      "id": "persons_in_custody_or_in_detention_at_the_end_of_the_year",
+      "name": "Persons in Custody or in Detention at the end of the year",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 9,
+  "count": 9,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "sl__no_": "1",
+      "crime_head": "National Security Act",
+      "number_of_gd_entries_made": 480,
+      "persons_detained": 483,
+      "persons_released_by_board___in_1_month": 62,
+      "persons_released_by_board___in_1_to_3_months": 132,
+      "persons_released_by_board___in_3_to_6_months": 48,
+      "persons_released_by_board___total": 242,
+      "persons_in_custody_or_in_detention_at_the_end_of_the_year": 241
+    },
+    {
+      "sl__no_": "2",
+      "crime_head": "COFEPOSA",
+      "number_of_gd_entries_made": 1,
+      "persons_detained": 1,
+      "persons_released_by_board___in_1_month": "0",
+      "persons_released_by_board___in_1_to_3_months": "0",
+      "persons_released_by_board___in_3_to_6_months": "0",
+      "persons_released_by_board___total": "0",
+      "persons_in_custody_or_in_detention_at_the_end_of_the_year": 1
+    },
+    {
+      "sl__no_": "3",
+      "crime_head": "ESMA",
+      "number_of_gd_entries_made": 7,
+      "persons_detained": 10,
+      "persons_released_by_board___in_1_month": 10,
+      "persons_released_by_board___in_1_to_3_months": "0",
+      "persons_released_by_board___in_3_to_6_months": "0",
+      "persons_released_by_board___total": 10,
+      "persons_in_custody_or_in_detention_at_the_end_of_the_year": "0"
+    },
+    {
+      "sl__no_": "4",
+      "crime_head": "Prevention of Black Marketing",
+      "number_of_gd_entries_made": 27,
+      "persons_detained": 38,
+      "persons_released_by_board___in_1_month": 9,
+      "persons_released_by_board___in_1_to_3_months": 5,
+      "persons_released_by_board___in_3_to_6_months": 18,
+      "persons_released_by_board___total": 32,
+      "persons_in_custody_or_in_detention_at_the_end_of_the_year": 6
+    },
+    {
+      "sl__no_": "5",
+      "crime_head": "FEMA",
+      "number_of_gd_entries_made": "0",
+      "persons_detained": "0",
+      "persons_released_by_board___in_1_month": "0",
+      "persons_released_by_board___in_1_to_3_months": "0",
+      "persons_released_by_board___in_3_to_6_months": "0",
+      "persons_released_by_board___total": "0",
+      "persons_in_custody_or_in_detention_at_the_end_of_the_year": "0"
+    },
+    {
+      "sl__no_": "6",
+      "crime_head": "Goonda Act (State & Central)",
+      "number_of_gd_entries_made": 28922,
+      "persons_detained": 29306,
+      "persons_released_by_board___in_1_month": 11992,
+      "persons_released_by_board___in_1_to_3_months": 1936,
+      "persons_released_by_board___in_3_to_6_months": 2312,
+      "persons_released_by_board___total": 16240,
+      "persons_in_custody_or_in_detention_at_the_end_of_the_year": 13066
+    },
+    {
+      "sl__no_": "7",
+      "crime_head": "Other Detention Acts",
+      "number_of_gd_entries_made": 21316,
+      "persons_detained": 79514,
+      "persons_released_by_board___in_1_month": 67598,
+      "persons_released_by_board___in_1_to_3_months": 938,
+      "persons_released_by_board___in_3_to_6_months": 508,
+      "persons_released_by_board___total": 69044,
+      "persons_in_custody_or_in_detention_at_the_end_of_the_year": 10470
+    },
+    {
+      "sl__no_": "8",
+      "crime_head": "PIT NDPS Act",
+      "number_of_gd_entries_made": 1193,
+      "persons_detained": 1331,
+      "persons_released_by_board___in_1_month": 343,
+      "persons_released_by_board___in_1_to_3_months": 19,
+      "persons_released_by_board___in_3_to_6_months": 228,
+      "persons_released_by_board___total": 590,
+      "persons_in_custody_or_in_detention_at_the_end_of_the_year": 741
+    },
+    {
+      "sl__no_": "Total",
+      "crime_head": "Total",
+      "number_of_gd_entries_made": 51946,
+      "persons_detained": 110683,
+      "persons_released_by_board___in_1_month": 80014,
+      "persons_released_by_board___in_1_to_3_months": 3030,
+      "persons_released_by_board___in_3_to_6_months": 3114,
+      "persons_released_by_board___total": 86158,
+      "persons_in_custody_or_in_detention_at_the_end_of_the_year": 24525
+    }
+  ]
+}

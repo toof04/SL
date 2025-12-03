@@ -1,0 +1,355 @@
+{
+  "index_name": "3f09b8c8-7fe1-4170-8961-e270dfe95642",
+  "title": "List of Assembly Constituencies in Meghalaya",
+  "desc": "List of Assembly Constituencies in Meghalaya",
+  "org_type": "State",
+  "org": [
+    "Meghalaya",
+    "Election Department, Meghalaya"
+  ],
+  "sector": [
+    "Governance and Administration",
+    "State Legislative"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "80d60b24-44ad-4b31-ac6e-fe3be53be6bf",
+  "visualizable": "0",
+  "active": "1",
+  "created": 1757779413,
+  "updated": 1757779413,
+  "created_date": "2025-09-13T18:03:33Z",
+  "updated_date": "2025-09-13T18:03:33Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "80d60b24-44ad-4b31-ac6e-fe3be53be6bf",
+    "field": "3f09b8c8-7fe1-4170-8961-e270dfe95642"
+  },
+  "field": [
+    {
+      "id": "district_name",
+      "name": "District Name",
+      "type": "keyword"
+    },
+    {
+      "id": "election_office_name",
+      "name": "Election Office Name",
+      "type": "keyword"
+    },
+    {
+      "id": "no___name_of_assembly_constituency",
+      "name": "No & Name of Assembly Constituency",
+      "type": "keyword"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 60,
+  "count": 60,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "district_name": "West Jaintia Hills District",
+      "election_office_name": "Office of the Deputy Commissioner West Jaintia Hills District, Jowai",
+      "no___name_of_assembly_constituency": "1-Nartiang (ST)"
+    },
+    {
+      "district_name": "West Jaintia Hills District",
+      "election_office_name": "Office of the Deputy Commissioner West Jaintia Hills District, Jowai",
+      "no___name_of_assembly_constituency": "2-Jowai (ST)"
+    },
+    {
+      "district_name": "West Jaintia Hills District",
+      "election_office_name": "Office of the Deputy Commissioner West Jaintia Hills District, Jowai",
+      "no___name_of_assembly_constituency": "3-Raliang (ST)"
+    },
+    {
+      "district_name": "West Jaintia Hills District",
+      "election_office_name": "Office of the Deputy Commissioner West Jaintia Hills District, Jowai",
+      "no___name_of_assembly_constituency": "4-Mowkaiaw (ST)"
+    },
+    {
+      "district_name": "West Jaintia Hills District",
+      "election_office_name": "Office of the Sub - Divisional Officer Amlarem",
+      "no___name_of_assembly_constituency": "7-Amlarem (ST)"
+    },
+    {
+      "district_name": "East Jaintia Hills District",
+      "election_office_name": "Office of the Deputy Commissioner East Jaintia Hills District, Khliehriat",
+      "no___name_of_assembly_constituency": "5-Sutnga Saipung (ST)"
+    },
+    {
+      "district_name": "East Jaintia Hills District",
+      "election_office_name": "Office of the Deputy Commissioner East Jaintia Hills District, Khliehriat",
+      "no___name_of_assembly_constituency": "6-Khliehriat (ST)"
+    },
+    {
+      "district_name": "Ri Bhoi District",
+      "election_office_name": "Office of the Deputy Commissioner Ri Bhoi District, Nongpoh",
+      "no___name_of_assembly_constituency": "8-Mawhati (ST)"
+    },
+    {
+      "district_name": "Ri Bhoi District",
+      "election_office_name": "Office of the Deputy Commissioner Ri Bhoi District, Nongpoh",
+      "no___name_of_assembly_constituency": "9-Nongpoh (ST)"
+    },
+    {
+      "district_name": "Ri Bhoi District",
+      "election_office_name": "Office of the Deputy Commissioner Ri Bhoi District, Nongpoh",
+      "no___name_of_assembly_constituency": "10-Jirang (ST)"
+    },
+    {
+      "district_name": "Ri Bhoi District",
+      "election_office_name": "Office of the Deputy Commissioner Ri Bhoi District, Nongpoh",
+      "no___name_of_assembly_constituency": "11-Umsning (ST)"
+    },
+    {
+      "district_name": "Ri Bhoi District",
+      "election_office_name": "Office of the Deputy Commissioner Ri Bhoi District, Nongpoh",
+      "no___name_of_assembly_constituency": "12-Umroi (ST)"
+    },
+    {
+      "district_name": "East Khasi Hills District",
+      "election_office_name": "Office of the Deputy Commissioner East Khasi Hills District, Shillong",
+      "no___name_of_assembly_constituency": "13-Mawryngkneng (ST)"
+    },
+    {
+      "district_name": "East Khasi Hills District",
+      "election_office_name": "Office of the Deputy Commissioner East Khasi Hills District, Shillong",
+      "no___name_of_assembly_constituency": "14-Pynthorumkhrah (GEN)"
+    },
+    {
+      "district_name": "East Khasi Hills District",
+      "election_office_name": "Office of the Deputy Commissioner East Khasi Hills District, Shillong",
+      "no___name_of_assembly_constituency": "15-Mawlai (ST)"
+    },
+    {
+      "district_name": "East Khasi Hills District",
+      "election_office_name": "Office of the Deputy Commissioner East Khasi Hills District, Shillong",
+      "no___name_of_assembly_constituency": "16-East Shillong (ST)"
+    },
+    {
+      "district_name": "East Khasi Hills District",
+      "election_office_name": "Office of the Deputy Commissioner East Khasi Hills District, Shillong",
+      "no___name_of_assembly_constituency": "17-North Shillong (ST)"
+    },
+    {
+      "district_name": "East Khasi Hills District",
+      "election_office_name": "Office of the Deputy Commissioner East Khasi Hills District, Shillong",
+      "no___name_of_assembly_constituency": "18-West Shillong (GEN)"
+    },
+    {
+      "district_name": "East Khasi Hills District",
+      "election_office_name": "Office of the Deputy Commissioner East Khasi Hills District, Shillong",
+      "no___name_of_assembly_constituency": "19-South Shillong (GEN)"
+    },
+    {
+      "district_name": "East Khasi Hills District",
+      "election_office_name": "Office of the Deputy Commissioner East Khasi Hills District, Shillong",
+      "no___name_of_assembly_constituency": "20-Mylliem (ST)"
+    },
+    {
+      "district_name": "East Khasi Hills District",
+      "election_office_name": "Office of the Deputy Commissioner East Khasi Hills District, Shillong",
+      "no___name_of_assembly_constituency": "21-Nongthymmai (ST)"
+    },
+    {
+      "district_name": "East Khasi Hills District",
+      "election_office_name": "Office of the Deputy Commissioner East Khasi Hills District, Shillong",
+      "no___name_of_assembly_constituency": "22-Nongkrem (ST)"
+    },
+    {
+      "district_name": "East Khasi Hills District",
+      "election_office_name": "Office of the Deputy Commissioner East Khasi Hills District, Shillong",
+      "no___name_of_assembly_constituency": "23-Sohiong (ST)"
+    },
+    {
+      "district_name": "East Khasi Hills District",
+      "election_office_name": "Office of the Deputy Commissioner East Khasi Hills District, Shillong",
+      "no___name_of_assembly_constituency": "24-Mawphlang (ST)"
+    },
+    {
+      "district_name": "East Khasi Hills District",
+      "election_office_name": "Office of the Deputy Commissioner East Khasi Hills District, Shillong",
+      "no___name_of_assembly_constituency": "25-Mawsynram (ST)"
+    },
+    {
+      "district_name": "East Khasi Hills District",
+      "election_office_name": "Office of the Deputy Commissioner East Khasi Hills District, Shillong",
+      "no___name_of_assembly_constituency": "27-Pynursla (ST)"
+    },
+    {
+      "district_name": "East Khasi Hills District",
+      "election_office_name": "Office of the Deputy Commissioner East Khasi Hills District, Shillong",
+      "no___name_of_assembly_constituency": "29-Mawkynrew (ST)"
+    },
+    {
+      "district_name": "East Khasi Hills District",
+      "election_office_name": "Office of the Sub - Divisional Officer Sohra",
+      "no___name_of_assembly_constituency": "26-Shella (ST)"
+    },
+    {
+      "district_name": "East Khasi Hills District",
+      "election_office_name": "Office of the Sub - Divisional Officer Sohra",
+      "no___name_of_assembly_constituency": "28-Sohra (ST)"
+    },
+    {
+      "district_name": "West Khasi Hills District",
+      "election_office_name": "Office of the Sub - Divisional Officer Mairang",
+      "no___name_of_assembly_constituency": "30-Mairang (ST)"
+    },
+    {
+      "district_name": "West Khasi Hills District",
+      "election_office_name": "Office of the Sub - Divisional Officer Mairang",
+      "no___name_of_assembly_constituency": "31-Mawthadraishan (ST)"
+    },
+    {
+      "district_name": "West Khasi Hills District",
+      "election_office_name": "Office of the Deputy Commissioner West Khasi Hills District, Nongstoin",
+      "no___name_of_assembly_constituency": "32-Nongstoin (ST)"
+    },
+    {
+      "district_name": "West Khasi Hills District",
+      "election_office_name": "Office of the Deputy Commissioner West Khasi Hills District, Nongstoin",
+      "no___name_of_assembly_constituency": "33-Rambrai-Jyrngam (ST)"
+    },
+    {
+      "district_name": "West Khasi Hills District",
+      "election_office_name": "Office of the Deputy Commissioner West Khasi Hills District, Nongstoin",
+      "no___name_of_assembly_constituency": "34-Mawshynrut (ST)"
+    },
+    {
+      "district_name": "South West Khasi Hills District",
+      "election_office_name": "Office of the Deputy Commissioner South West Khasi Hills District, Mawkyrwat",
+      "no___name_of_assembly_constituency": "35-Ranikor (ST)"
+    },
+    {
+      "district_name": "South West Khasi Hills District",
+      "election_office_name": "Office of the Deputy Commissioner South West Khasi Hills District, Mawkyrwat",
+      "no___name_of_assembly_constituency": "36-Mawkyrwat (ST)"
+    },
+    {
+      "district_name": "East Garo Hills District",
+      "election_office_name": "Office of the Deputy Commissioner East Garo Hills District, Williamnagar",
+      "no___name_of_assembly_constituency": "37-Kharkutta (ST)"
+    },
+    {
+      "district_name": "East Garo Hills District",
+      "election_office_name": "Office of the Deputy Commissioner East Garo Hills District, Williamnagar",
+      "no___name_of_assembly_constituency": "41-Songsak (ST)"
+    },
+    {
+      "district_name": "East Garo Hills District",
+      "election_office_name": "Office of the Deputy Commissioner East Garo Hills District, Williamnagar",
+      "no___name_of_assembly_constituency": "42-Rongjeng (ST)"
+    },
+    {
+      "district_name": "East Garo Hills District",
+      "election_office_name": "Office of the Deputy Commissioner East Garo Hills District, Williamnagar",
+      "no___name_of_assembly_constituency": "43-William Nagar (ST)"
+    },
+    {
+      "district_name": "North Garo Hills District",
+      "election_office_name": "Office of the Deputy Commissioner North Garo Hills District, Resubelpara",
+      "no___name_of_assembly_constituency": "38-Mendipathar (ST)"
+    },
+    {
+      "district_name": "North Garo Hills District",
+      "election_office_name": "Office of the Deputy Commissioner North Garo Hills District, Resubelpara",
+      "no___name_of_assembly_constituency": "39-Resubelpara (ST)"
+    },
+    {
+      "district_name": "North Garo Hills District",
+      "election_office_name": "Office of the Deputy Commissioner North Garo Hills District, Resubelpara",
+      "no___name_of_assembly_constituency": "40-Bajengdoba (ST)"
+    },
+    {
+      "district_name": "West Garo Hills District",
+      "election_office_name": "Office of the Sub - Divisional Officer Dadenggiri",
+      "no___name_of_assembly_constituency": "44-Raksamgre (ST)"
+    },
+    {
+      "district_name": "West Garo Hills District",
+      "election_office_name": "Office of the Sub - Divisional Officer Dadenggiri",
+      "no___name_of_assembly_constituency": "45-Tikrikilla (ST)"
+    },
+    {
+      "district_name": "West Garo Hills District",
+      "election_office_name": "Office of the Sub - Divisional Officer Dadenggiri",
+      "no___name_of_assembly_constituency": "49-Dadenggre (ST)"
+    },
+    {
+      "district_name": "West Garo Hills District",
+      "election_office_name": "Office of the Deputy Commissioner West Garo Hills District, Tura",
+      "no___name_of_assembly_constituency": "46-Phulbari (GEN)"
+    },
+    {
+      "district_name": "West Garo Hills District",
+      "election_office_name": "Office of the Deputy Commissioner West Garo Hills District, Tura",
+      "no___name_of_assembly_constituency": "47-Rajabala (GEN)"
+    },
+    {
+      "district_name": "West Garo Hills District",
+      "election_office_name": "Office of the Deputy Commissioner West Garo Hills District, Tura",
+      "no___name_of_assembly_constituency": "48-Selsella (ST)"
+    },
+    {
+      "district_name": "West Garo Hills District",
+      "election_office_name": "Office of the Deputy Commissioner West Garo Hills District, Tura",
+      "no___name_of_assembly_constituency": "50-North Tura (ST)"
+    },
+    {
+      "district_name": "West Garo Hills District",
+      "election_office_name": "Office of the Deputy Commissioner West Garo Hills District, Tura",
+      "no___name_of_assembly_constituency": "51-South Tura (ST)"
+    },
+    {
+      "district_name": "West Garo Hills District",
+      "election_office_name": "Office of the Deputy Commissioner West Garo Hills District, Tura",
+      "no___name_of_assembly_constituency": "52-Rangsakona (ST)"
+    },
+    {
+      "district_name": "West Garo Hills District",
+      "election_office_name": "Office of the Deputy Commissioner West Garo Hills District, Tura",
+      "no___name_of_assembly_constituency": "56-Gambegre (ST)"
+    },
+    {
+      "district_name": "West Garo Hills District",
+      "election_office_name": "Office of the Deputy Commissioner West Garo Hills District, Tura",
+      "no___name_of_assembly_constituency": "57-Dalu (ST)"
+    },
+    {
+      "district_name": "South West Garo Hills District",
+      "election_office_name": "Office of the Deputy Commissioner South West Garo Hills District, Ampati",
+      "no___name_of_assembly_constituency": "53-Ampati (ST)"
+    },
+    {
+      "district_name": "South West Garo Hills District",
+      "election_office_name": "Office of the Deputy Commissioner South West Garo Hills District, Ampati",
+      "no___name_of_assembly_constituency": "54-Mahendraganj (ST)"
+    },
+    {
+      "district_name": "South West Garo Hills District",
+      "election_office_name": "Office of the Deputy Commissioner South West Garo Hills District, Ampati",
+      "no___name_of_assembly_constituency": "55-Salmanpara (ST)"
+    },
+    {
+      "district_name": "South Garo Hills District",
+      "election_office_name": "Office of the Deputy Commissioner South Garo Hills District, Baghmara",
+      "no___name_of_assembly_constituency": "58-Rongara-Siju (ST)"
+    },
+    {
+      "district_name": "South Garo Hills District",
+      "election_office_name": "Office of the Deputy Commissioner South Garo Hills District, Baghmara",
+      "no___name_of_assembly_constituency": "59-Chokpot (ST)"
+    },
+    {
+      "district_name": "South Garo Hills District",
+      "election_office_name": "Office of the Deputy Commissioner South Garo Hills District, Baghmara",
+      "no___name_of_assembly_constituency": "60-Baghmara (ST)"
+    }
+  ]
+}

@@ -1,0 +1,443 @@
+{
+  "index_name": "878e59fc-819a-42fe-b148-0ee21d1704e5",
+  "title": "Gram Panchayat-wise Rural Sanitation Coverage in Anjaw District of Arunachal Pradesh as on date",
+  "desc": "Gram Panchayat-wise Rural Sanitation Coverage in Anjaw District of Arunachal Pradesh as on date",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Jal Shakti",
+    "Department of Drinking Water and Sanitation"
+  ],
+  "sector": [
+    "Water and Sanitation"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1688360213,
+  "updated": 1688364885,
+  "created_date": "2023-07-03T06:56:53Z",
+  "updated_date": "2023-07-03T11:44:45Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "sbm",
+    "type": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+    "field": "878e59fc-819a-42fe-b148-0ee21d1704e5"
+  },
+  "field": [
+    {
+      "id": "statename",
+      "name": "StateName",
+      "type": "keyword"
+    },
+    {
+      "id": "districtname",
+      "name": "DistrictName",
+      "type": "keyword"
+    },
+    {
+      "id": "blockname",
+      "name": "BlockName",
+      "type": "keyword"
+    },
+    {
+      "id": "grampanchayatname",
+      "name": "GramPanchayatName",
+      "type": "keyword"
+    },
+    {
+      "id": "ihhltotalasperdetails",
+      "name": "IHHLTotalAsPerDetails",
+      "type": "double"
+    },
+    {
+      "id": "ihhltotalach",
+      "name": "IHHLTotalAch",
+      "type": "double"
+    },
+    {
+      "id": "date",
+      "name": "Date",
+      "type": "keyword"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 41,
+  "count": 41,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "ANJAW",
+      "blockname": "CHAGLAGAM",
+      "grampanchayatname": "CHAGLONGAM",
+      "ihhltotalasperdetails": 115,
+      "ihhltotalach": 115,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "ANJAW",
+      "blockname": "CHAGLAGAM",
+      "grampanchayatname": "HAMALIANG",
+      "ihhltotalasperdetails": 217,
+      "ihhltotalach": 217,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "ANJAW",
+      "blockname": "CHAGLAGAM",
+      "grampanchayatname": "KROMNA",
+      "ihhltotalasperdetails": 87,
+      "ihhltotalach": 87,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "ANJAW",
+      "blockname": "CHAGLAGAM",
+      "grampanchayatname": "MAILIANG",
+      "ihhltotalasperdetails": 72,
+      "ihhltotalach": 72,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "ANJAW",
+      "blockname": "CHAGLAGAM",
+      "grampanchayatname": "MATENGLIANG",
+      "ihhltotalasperdetails": 179,
+      "ihhltotalach": 179,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "ANJAW",
+      "blockname": "CHAGLAGAM",
+      "grampanchayatname": "PAILIANG",
+      "ihhltotalasperdetails": 54,
+      "ihhltotalach": 54,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "ANJAW",
+      "blockname": "CHAGLAGAM",
+      "grampanchayatname": "ROILIANG",
+      "ihhltotalasperdetails": 125,
+      "ihhltotalach": 125,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "ANJAW",
+      "blockname": "CHAGLAGAM",
+      "grampanchayatname": "TAFLAGAM",
+      "ihhltotalasperdetails": 104,
+      "ihhltotalach": 104,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "ANJAW",
+      "blockname": "HAWAI-WALONG",
+      "grampanchayatname": "BLONG",
+      "ihhltotalasperdetails": 82,
+      "ihhltotalach": 82,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "ANJAW",
+      "blockname": "HAWAI-WALONG",
+      "grampanchayatname": "HALAIKRONG",
+      "ihhltotalasperdetails": 124,
+      "ihhltotalach": 124,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "ANJAW",
+      "blockname": "HAWAI-WALONG",
+      "grampanchayatname": "KAMBLAT",
+      "ihhltotalasperdetails": 93,
+      "ihhltotalach": 93,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "ANJAW",
+      "blockname": "HAWAI-WALONG",
+      "grampanchayatname": "KIBITHOO",
+      "ihhltotalasperdetails": 218,
+      "ihhltotalach": 218,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "ANJAW",
+      "blockname": "HAWAI-WALONG",
+      "grampanchayatname": "LAUTUL",
+      "ihhltotalasperdetails": 177,
+      "ihhltotalach": 177,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "ANJAW",
+      "blockname": "HAWAI-WALONG",
+      "grampanchayatname": "LONGLIANG",
+      "ihhltotalasperdetails": 91,
+      "ihhltotalach": 91,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "ANJAW",
+      "blockname": "HAWAI-WALONG",
+      "grampanchayatname": "MECHONG",
+      "ihhltotalasperdetails": 66,
+      "ihhltotalach": 66,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "ANJAW",
+      "blockname": "HAWAI-WALONG",
+      "grampanchayatname": "SARTI",
+      "ihhltotalasperdetails": 224,
+      "ihhltotalach": 224,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "ANJAW",
+      "blockname": "HAWAI-WALONG",
+      "grampanchayatname": "SHIRONG",
+      "ihhltotalasperdetails": 149,
+      "ihhltotalach": 149,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "ANJAW",
+      "blockname": "HAWAI-WALONG",
+      "grampanchayatname": "TAMBLU",
+      "ihhltotalasperdetails": 262,
+      "ihhltotalach": 262,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "ANJAW",
+      "blockname": "HAWAI-WALONG",
+      "grampanchayatname": "WALLA",
+      "ihhltotalasperdetails": 230,
+      "ihhltotalach": 230,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "ANJAW",
+      "blockname": "HAWAI-WALONG",
+      "grampanchayatname": "WALONG",
+      "ihhltotalasperdetails": 108,
+      "ihhltotalach": 108,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "ANJAW",
+      "blockname": "HAWAI-WALONG",
+      "grampanchayatname": "WATONG",
+      "ihhltotalasperdetails": 93,
+      "ihhltotalach": 93,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "ANJAW",
+      "blockname": "HAYULIANG",
+      "grampanchayatname": "AMLIANG",
+      "ihhltotalasperdetails": 50,
+      "ihhltotalach": 50,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "ANJAW",
+      "blockname": "HAYULIANG",
+      "grampanchayatname": "BARAFU",
+      "ihhltotalasperdetails": 52,
+      "ihhltotalach": 52,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "ANJAW",
+      "blockname": "HAYULIANG",
+      "grampanchayatname": "BRAIGONG",
+      "ihhltotalasperdetails": 55,
+      "ihhltotalach": 55,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "ANJAW",
+      "blockname": "HAYULIANG",
+      "grampanchayatname": "DANGLAT",
+      "ihhltotalasperdetails": 66,
+      "ihhltotalach": 66,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "ANJAW",
+      "blockname": "HAYULIANG",
+      "grampanchayatname": "GAMLIANG",
+      "ihhltotalasperdetails": 53,
+      "ihhltotalach": 53,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "ANJAW",
+      "blockname": "HAYULIANG",
+      "grampanchayatname": "GOILIANG",
+      "ihhltotalasperdetails": 89,
+      "ihhltotalach": 89,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "ANJAW",
+      "blockname": "HAYULIANG",
+      "grampanchayatname": "HAYULIANG",
+      "ihhltotalasperdetails": 352,
+      "ihhltotalach": 352,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "ANJAW",
+      "blockname": "HAYULIANG",
+      "grampanchayatname": "LAMKONG-MACHIMA",
+      "ihhltotalasperdetails": 65,
+      "ihhltotalach": 65,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "ANJAW",
+      "blockname": "HAYULIANG",
+      "grampanchayatname": "MOHIKONG",
+      "ihhltotalasperdetails": 89,
+      "ihhltotalach": 89,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "ANJAW",
+      "blockname": "HAYULIANG",
+      "grampanchayatname": "NILANG",
+      "ihhltotalasperdetails": 64,
+      "ihhltotalach": 64,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "ANJAW",
+      "blockname": "HAYULIANG",
+      "grampanchayatname": "SUPLANG",
+      "ihhltotalasperdetails": 164,
+      "ihhltotalach": 164,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "ANJAW",
+      "blockname": "HAYULIANG",
+      "grampanchayatname": "TAFRALIANG",
+      "ihhltotalasperdetails": 163,
+      "ihhltotalach": 163,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "ANJAW",
+      "blockname": "MANCHAL",
+      "grampanchayatname": "CHAMBAB",
+      "ihhltotalasperdetails": 63,
+      "ihhltotalach": 63,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "ANJAW",
+      "blockname": "MANCHAL",
+      "grampanchayatname": "KHULIANG",
+      "ihhltotalasperdetails": 92,
+      "ihhltotalach": 92,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "ANJAW",
+      "blockname": "MANCHAL",
+      "grampanchayatname": "MANCHAL",
+      "ihhltotalasperdetails": 141,
+      "ihhltotalach": 141,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "ANJAW",
+      "blockname": "MANCHAL",
+      "grampanchayatname": "PANGUNG",
+      "ihhltotalasperdetails": 33,
+      "ihhltotalach": 33,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "ANJAW",
+      "blockname": "MANCHAL",
+      "grampanchayatname": "QUIBANG",
+      "ihhltotalasperdetails": 54,
+      "ihhltotalach": 54,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "ANJAW",
+      "blockname": "MANCHAL",
+      "grampanchayatname": "SIET",
+      "ihhltotalasperdetails": 112,
+      "ihhltotalach": 112,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "ANJAW",
+      "blockname": "MANCHAL",
+      "grampanchayatname": "TEHULIANG",
+      "ihhltotalasperdetails": 46,
+      "ihhltotalach": 46,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "ANJAW",
+      "blockname": "MANCHAL",
+      "grampanchayatname": "YATONG",
+      "ihhltotalasperdetails": 207,
+      "ihhltotalach": 207,
+      "date": "5/19/2020 12:00:00 AM"
+    }
+  ]
+}

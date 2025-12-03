@@ -1,0 +1,263 @@
+{
+  "index_name": "f44e7c98-d11a-4748-aed1-8c624bf6158e",
+  "title": "Gram Panchayat-wise Rural Sanitation Coverage in Dibang Valley District of Arunachal Pradesh as on date",
+  "desc": "Gram Panchayat-wise Rural Sanitation Coverage in Dibang Valley District of Arunachal Pradesh as on date",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Jal Shakti",
+    "Department of Drinking Water and Sanitation"
+  ],
+  "sector": [
+    "Water and Sanitation"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1688360214,
+  "updated": 1688364886,
+  "created_date": "2023-07-03T06:56:54Z",
+  "updated_date": "2023-07-03T11:44:46Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "sbm",
+    "type": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+    "field": "f44e7c98-d11a-4748-aed1-8c624bf6158e"
+  },
+  "field": [
+    {
+      "id": "statename",
+      "name": "StateName",
+      "type": "keyword"
+    },
+    {
+      "id": "districtname",
+      "name": "DistrictName",
+      "type": "keyword"
+    },
+    {
+      "id": "blockname",
+      "name": "BlockName",
+      "type": "keyword"
+    },
+    {
+      "id": "grampanchayatname",
+      "name": "GramPanchayatName",
+      "type": "keyword"
+    },
+    {
+      "id": "ihhltotalasperdetails",
+      "name": "IHHLTotalAsPerDetails",
+      "type": "double"
+    },
+    {
+      "id": "ihhltotalach",
+      "name": "IHHLTotalAch",
+      "type": "double"
+    },
+    {
+      "id": "date",
+      "name": "Date",
+      "type": "keyword"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 21,
+  "count": 21,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "DIBANG VALLEY",
+      "blockname": "ANELIH-ARZOO",
+      "grampanchayatname": "ANELIH",
+      "ihhltotalasperdetails": 106,
+      "ihhltotalach": 106,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "DIBANG VALLEY",
+      "blockname": "ANELIH-ARZOO",
+      "grampanchayatname": "ARZOO",
+      "ihhltotalasperdetails": 62,
+      "ihhltotalach": 62,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "DIBANG VALLEY",
+      "blockname": "ANELIH-ARZOO",
+      "grampanchayatname": "AWALI",
+      "ihhltotalasperdetails": 83,
+      "ihhltotalach": 83,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "DIBANG VALLEY",
+      "blockname": "ANELIH-ARZOO",
+      "grampanchayatname": "NEW ANAYA",
+      "ihhltotalasperdetails": 118,
+      "ihhltotalach": 118,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "DIBANG VALLEY",
+      "blockname": "ANELIH-ARZOO",
+      "grampanchayatname": "NEW ENDOLIN",
+      "ihhltotalasperdetails": 84,
+      "ihhltotalach": 84,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "DIBANG VALLEY",
+      "blockname": "ANELIH-ARZOO",
+      "grampanchayatname": "THYEE",
+      "ihhltotalasperdetails": 26,
+      "ihhltotalach": 26,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "DIBANG VALLEY",
+      "blockname": "ANINI-MIPI-ALINYE",
+      "grampanchayatname": "AGRIM VALLEY",
+      "ihhltotalasperdetails": 70,
+      "ihhltotalach": 70,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "DIBANG VALLEY",
+      "blockname": "ANINI-MIPI-ALINYE",
+      "grampanchayatname": "AKOBE",
+      "ihhltotalasperdetails": 29,
+      "ihhltotalach": 29,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "DIBANG VALLEY",
+      "blockname": "ANINI-MIPI-ALINYE",
+      "grampanchayatname": "ALINYE",
+      "ihhltotalasperdetails": 65,
+      "ihhltotalach": 65,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "DIBANG VALLEY",
+      "blockname": "ANINI-MIPI-ALINYE",
+      "grampanchayatname": "ANINI-I",
+      "ihhltotalasperdetails": 431,
+      "ihhltotalach": 431,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "DIBANG VALLEY",
+      "blockname": "ANINI-MIPI-ALINYE",
+      "grampanchayatname": "ANINI-II",
+      "ihhltotalasperdetails": 37,
+      "ihhltotalach": 37,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "DIBANG VALLEY",
+      "blockname": "ANINI-MIPI-ALINYE",
+      "grampanchayatname": "ETABE",
+      "ihhltotalasperdetails": 65,
+      "ihhltotalach": 65,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "DIBANG VALLEY",
+      "blockname": "ANINI-MIPI-ALINYE",
+      "grampanchayatname": "GIPULIN",
+      "ihhltotalasperdetails": 40,
+      "ihhltotalach": 40,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "DIBANG VALLEY",
+      "blockname": "ANINI-MIPI-ALINYE",
+      "grampanchayatname": "MATOLI",
+      "ihhltotalasperdetails": 40,
+      "ihhltotalach": 40,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "DIBANG VALLEY",
+      "blockname": "ANINI-MIPI-ALINYE",
+      "grampanchayatname": "MIHUNDO",
+      "ihhltotalasperdetails": 53,
+      "ihhltotalach": 53,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "DIBANG VALLEY",
+      "blockname": "ANINI-MIPI-ALINYE",
+      "grampanchayatname": "MIPI",
+      "ihhltotalasperdetails": 76,
+      "ihhltotalach": 76,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "DIBANG VALLEY",
+      "blockname": "ETALIN-MALINYE",
+      "grampanchayatname": "ANGULIN",
+      "ihhltotalasperdetails": 31,
+      "ihhltotalach": 31,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "DIBANG VALLEY",
+      "blockname": "ETALIN-MALINYE",
+      "grampanchayatname": "ATHUNLI/MALINYE",
+      "ihhltotalasperdetails": 65,
+      "ihhltotalach": 65,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "DIBANG VALLEY",
+      "blockname": "ETALIN-MALINYE",
+      "grampanchayatname": "ETALIN BRIDGE POINT",
+      "ihhltotalasperdetails": 122,
+      "ihhltotalach": 122,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "DIBANG VALLEY",
+      "blockname": "ETALIN-MALINYE",
+      "grampanchayatname": "ETALIN MALINYE (HQ)",
+      "ihhltotalasperdetails": 77,
+      "ihhltotalach": 77,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "DIBANG VALLEY",
+      "blockname": "ETALIN-MALINYE",
+      "grampanchayatname": "NEW AROPO",
+      "ihhltotalasperdetails": 25,
+      "ihhltotalach": 25,
+      "date": "5/19/2020 12:00:00 AM"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "index_name": "e8547f24-4aec-4224-9ffe-80477a8347b8",
+  "title": "Funds Allocated under Various Rural Development Programmes in Jharkhand during 2019-20 (From: Ministry of Rural Development)",
+  "desc": "Funds Allocated under Various Rural Development Programmes in Jharkhand during 2019-20 (From: Ministry of Rural Development)",
+  "org_type": "Central",
+  "org": [
+    "Rajya Sabha"
+  ],
+  "sector": [
+    "All"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "1400fec4-27a0-4ffa-a29f-8369be1ea16c",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1602820820,
+  "updated": 1603110122,
+  "created_date": "2020-10-16T06:00:20Z",
+  "updated_date": "2020-10-19T17:52:02Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "1400fec4-27a0-4ffa-a29f-8369be1ea16c",
+    "field": "e8547f24-4aec-4224-9ffe-80477a8347b8"
+  },
+  "field": [
+    {
+      "id": "_sl__no",
+      "name": "Sl. No",
+      "type": "double"
+    },
+    {
+      "id": "programmes_of_rd",
+      "name": "Programmes of RD",
+      "type": "keyword"
+    },
+    {
+      "id": "year_2019_20",
+      "name": "Year 2019-20",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 6,
+  "count": 6,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "_sl__no": 1,
+      "programmes_of_rd": "NRLM",
+      "year_2019_20": 18335.62
+    },
+    {
+      "_sl__no": 2,
+      "programmes_of_rd": "DDU- GKY(including RSETI)",
+      "year_2019_20": 180.33
+    },
+    {
+      "_sl__no": 3,
+      "programmes_of_rd": "PMAY-G",
+      "year_2019_20": 245200
+    },
+    {
+      "_sl__no": 4,
+      "programmes_of_rd": "NSAP",
+      "year_2019_20": 36399.82
+    },
+    {
+      "_sl__no": 5,
+      "programmes_of_rd": "PMGSY",
+      "year_2019_20": 100000
+    },
+    {
+      "_sl__no": 6,
+      "programmes_of_rd": "*MGNREGS",
+      "year_2019_20": "NA"
+    }
+  ]
+}

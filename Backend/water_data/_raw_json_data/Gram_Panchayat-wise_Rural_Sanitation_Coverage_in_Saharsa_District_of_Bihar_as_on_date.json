@@ -1,0 +1,1433 @@
+{
+  "index_name": "46696f49-5ad8-4626-8811-ed91ce5352a1",
+  "title": "Gram Panchayat-wise Rural Sanitation Coverage in Saharsa District of Bihar as on date",
+  "desc": "Gram Panchayat-wise Rural Sanitation Coverage in Saharsa District of Bihar as on date",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Jal Shakti",
+    "Department of Drinking Water and Sanitation"
+  ],
+  "sector": [
+    "Water and Sanitation"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1688360292,
+  "updated": 1688364916,
+  "created_date": "2023-07-03T06:58:12Z",
+  "updated_date": "2023-07-03T11:45:16Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "sbm",
+    "type": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+    "field": "46696f49-5ad8-4626-8811-ed91ce5352a1"
+  },
+  "field": [
+    {
+      "id": "statename",
+      "name": "StateName",
+      "type": "keyword"
+    },
+    {
+      "id": "districtname",
+      "name": "DistrictName",
+      "type": "keyword"
+    },
+    {
+      "id": "blockname",
+      "name": "BlockName",
+      "type": "keyword"
+    },
+    {
+      "id": "grampanchayatname",
+      "name": "GramPanchayatName",
+      "type": "keyword"
+    },
+    {
+      "id": "ihhltotalasperdetails",
+      "name": "IHHLTotalAsPerDetails",
+      "type": "double"
+    },
+    {
+      "id": "ihhltotalach",
+      "name": "IHHLTotalAch",
+      "type": "double"
+    },
+    {
+      "id": "date",
+      "name": "Date",
+      "type": "keyword"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 151,
+  "count": 151,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "BANMA  ITAHARI",
+      "grampanchayatname": "GHORDOUR",
+      "ihhltotalasperdetails": 2780,
+      "ihhltotalach": 2780,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "BANMA  ITAHARI",
+      "grampanchayatname": "ITAHARI",
+      "ihhltotalasperdetails": 2564,
+      "ihhltotalach": 2564,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "BANMA  ITAHARI",
+      "grampanchayatname": "JAMALNAGAR",
+      "ihhltotalasperdetails": 2114,
+      "ihhltotalach": 2114,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "BANMA  ITAHARI",
+      "grampanchayatname": "MAHARAS",
+      "ihhltotalasperdetails": 2199,
+      "ihhltotalach": 2199,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "BANMA  ITAHARI",
+      "grampanchayatname": "RASHALPUR",
+      "ihhltotalasperdetails": 1687,
+      "ihhltotalach": 1687,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "BANMA  ITAHARI",
+      "grampanchayatname": "SAHURIYA",
+      "ihhltotalasperdetails": 2377,
+      "ihhltotalach": 2377,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "BANMA  ITAHARI",
+      "grampanchayatname": "SARBELA",
+      "ihhltotalasperdetails": 2589,
+      "ihhltotalach": 2589,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "KAHARA",
+      "grampanchayatname": "AMARPUR",
+      "ihhltotalasperdetails": 2286,
+      "ihhltotalach": 2286,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "KAHARA",
+      "grampanchayatname": "BALHA PATTI",
+      "ihhltotalasperdetails": 1134,
+      "ihhltotalach": 1134,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "KAHARA",
+      "grampanchayatname": "BANGAON  EAST",
+      "ihhltotalasperdetails": 2511,
+      "ihhltotalach": 2511,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "KAHARA",
+      "grampanchayatname": "BANGAON NORTH",
+      "ihhltotalasperdetails": 2163,
+      "ihhltotalach": 2163,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "KAHARA",
+      "grampanchayatname": "BANGAON SOUTH",
+      "ihhltotalasperdetails": 1871,
+      "ihhltotalach": 1871,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "KAHARA",
+      "grampanchayatname": "BARIYAHI",
+      "ihhltotalasperdetails": 2499,
+      "ihhltotalach": 2499,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "KAHARA",
+      "grampanchayatname": "CHAINPUR",
+      "ihhltotalasperdetails": 1415,
+      "ihhltotalach": 1415,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "KAHARA",
+      "grampanchayatname": "DIWARI",
+      "ihhltotalasperdetails": 1713,
+      "ihhltotalach": 1713,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "KAHARA",
+      "grampanchayatname": "MOHANPUR",
+      "ihhltotalasperdetails": 3337,
+      "ihhltotalach": 3337,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "KAHARA",
+      "grampanchayatname": "MURLI BASANTPUR",
+      "ihhltotalasperdetails": 2923,
+      "ihhltotalach": 2923,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "KAHARA",
+      "grampanchayatname": "NARIYAR",
+      "ihhltotalasperdetails": 2226,
+      "ihhltotalach": 2226,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "KAHARA",
+      "grampanchayatname": "PARARI",
+      "ihhltotalasperdetails": 809,
+      "ihhltotalach": 809,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "KAHARA",
+      "grampanchayatname": "PATUAHA",
+      "ihhltotalasperdetails": 1411,
+      "ihhltotalach": 1411,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "KAHARA",
+      "grampanchayatname": "SIRADE PATTI",
+      "ihhltotalasperdetails": 3166,
+      "ihhltotalach": 3166,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "KAHARA",
+      "grampanchayatname": "SULINDABAD",
+      "ihhltotalasperdetails": 1904,
+      "ihhltotalach": 1904,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "MAHISHI",
+      "grampanchayatname": "AARA PATTI",
+      "ihhltotalasperdetails": 2309,
+      "ihhltotalach": 2309,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "MAHISHI",
+      "grampanchayatname": "AINA",
+      "ihhltotalasperdetails": 1653,
+      "ihhltotalach": 1653,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "MAHISHI",
+      "grampanchayatname": "BAGHWA",
+      "ihhltotalasperdetails": 2163,
+      "ihhltotalach": 2163,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "MAHISHI",
+      "grampanchayatname": "BHELAHI",
+      "ihhltotalasperdetails": 2284,
+      "ihhltotalach": 2284,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "MAHISHI",
+      "grampanchayatname": "GHONGHEPUR",
+      "ihhltotalasperdetails": 1632,
+      "ihhltotalach": 1632,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "MAHISHI",
+      "grampanchayatname": "JHARA",
+      "ihhltotalasperdetails": 1779,
+      "ihhltotalach": 1779,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "MAHISHI",
+      "grampanchayatname": "KUNDAH",
+      "ihhltotalasperdetails": 1127,
+      "ihhltotalach": 1127,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "MAHISHI",
+      "grampanchayatname": "MAHISARHO",
+      "ihhltotalasperdetails": 2362,
+      "ihhltotalach": 2362,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "MAHISHI",
+      "grampanchayatname": "MAHISHI  SOUTH",
+      "ihhltotalasperdetails": 309,
+      "ihhltotalach": 309,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "MAHISHI",
+      "grampanchayatname": "MAHISHI NORTH",
+      "ihhltotalasperdetails": 2915,
+      "ihhltotalach": 2915,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "MAHISHI",
+      "grampanchayatname": "MANOVAR",
+      "ihhltotalasperdetails": 1973,
+      "ihhltotalach": 1973,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "MAHISHI",
+      "grampanchayatname": "NAHARWAR",
+      "ihhltotalasperdetails": 2015,
+      "ihhltotalach": 2015,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "MAHISHI",
+      "grampanchayatname": "PASTWAR",
+      "ihhltotalasperdetails": 3533,
+      "ihhltotalach": 3533,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "MAHISHI",
+      "grampanchayatname": "RAJANPUR",
+      "ihhltotalasperdetails": 2020,
+      "ihhltotalach": 2020,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "MAHISHI",
+      "grampanchayatname": "SIRWAR BIRWAR",
+      "ihhltotalasperdetails": 1945,
+      "ihhltotalach": 1945,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "MAHISHI",
+      "grampanchayatname": "TELHAR",
+      "ihhltotalasperdetails": 2214,
+      "ihhltotalach": 2214,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "MAHISHI",
+      "grampanchayatname": "TELWA  EAST",
+      "ihhltotalasperdetails": 1688,
+      "ihhltotalach": 1688,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "MAHISHI",
+      "grampanchayatname": "TELWA  WEST",
+      "ihhltotalasperdetails": 1510,
+      "ihhltotalach": 1510,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "MAHISHI",
+      "grampanchayatname": "VIRGAON",
+      "ihhltotalasperdetails": 2207,
+      "ihhltotalach": 2207,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "NAUHATTA",
+      "grampanchayatname": "BAKUNIA",
+      "ihhltotalasperdetails": 2011,
+      "ihhltotalach": 2011,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "NAUHATTA",
+      "grampanchayatname": "CHANDRAIN",
+      "ihhltotalasperdetails": 2487,
+      "ihhltotalach": 2487,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "NAUHATTA",
+      "grampanchayatname": "DARHAR",
+      "ihhltotalasperdetails": 1520,
+      "ihhltotalach": 1520,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "NAUHATTA",
+      "grampanchayatname": "HATI",
+      "ihhltotalasperdetails": 2494,
+      "ihhltotalach": 2494,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "NAUHATTA",
+      "grampanchayatname": "KASHIMPUR",
+      "ihhltotalasperdetails": 2139,
+      "ihhltotalach": 2139,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "NAUHATTA",
+      "grampanchayatname": "KEDLI",
+      "ihhltotalasperdetails": 2351,
+      "ihhltotalach": 2351,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "NAUHATTA",
+      "grampanchayatname": "KHARKA TELWA",
+      "ihhltotalasperdetails": 2695,
+      "ihhltotalach": 2695,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "NAUHATTA",
+      "grampanchayatname": "MOHANPUR",
+      "ihhltotalasperdetails": 2050,
+      "ihhltotalach": 2050,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "NAUHATTA",
+      "grampanchayatname": "MURADPUR",
+      "ihhltotalasperdetails": 1953,
+      "ihhltotalach": 1953,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "NAUHATTA",
+      "grampanchayatname": "NAUHATTA   EAST",
+      "ihhltotalasperdetails": 3099,
+      "ihhltotalach": 3099,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "NAUHATTA",
+      "grampanchayatname": "NAUHATTA WEST",
+      "ihhltotalasperdetails": 3276,
+      "ihhltotalach": 3276,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "NAUHATTA",
+      "grampanchayatname": "NAULA",
+      "ihhltotalasperdetails": 1963,
+      "ihhltotalach": 1963,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "NAUHATTA",
+      "grampanchayatname": "SATTOUR",
+      "ihhltotalasperdetails": 1445,
+      "ihhltotalach": 1445,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "NAUHATTA",
+      "grampanchayatname": "SHAHPUR",
+      "ihhltotalasperdetails": 2069,
+      "ihhltotalach": 2069,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "PATARGHAT",
+      "grampanchayatname": "BISHANPUR",
+      "ihhltotalasperdetails": 2728,
+      "ihhltotalach": 2728,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "PATARGHAT",
+      "grampanchayatname": "DHABAULI   SOUTH",
+      "ihhltotalasperdetails": 1939,
+      "ihhltotalach": 1939,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "PATARGHAT",
+      "grampanchayatname": "DHABAULI   WEST",
+      "ihhltotalasperdetails": 2270,
+      "ihhltotalach": 2270,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "PATARGHAT",
+      "grampanchayatname": "DHABAULI  EAST",
+      "ihhltotalasperdetails": 2271,
+      "ihhltotalach": 2271,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "PATARGHAT",
+      "grampanchayatname": "GOLMA  EAST",
+      "ihhltotalasperdetails": 1802,
+      "ihhltotalach": 1802,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "PATARGHAT",
+      "grampanchayatname": "GOLMA  WEST",
+      "ihhltotalasperdetails": 2284,
+      "ihhltotalach": 2284,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "PATARGHAT",
+      "grampanchayatname": "JAMHRA",
+      "ihhltotalasperdetails": 2915,
+      "ihhltotalach": 2915,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "PATARGHAT",
+      "grampanchayatname": "KISHANPUR",
+      "ihhltotalasperdetails": 2204,
+      "ihhltotalach": 2204,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "PATARGHAT",
+      "grampanchayatname": "PAMA",
+      "ihhltotalasperdetails": 1396,
+      "ihhltotalach": 1396,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "PATARGHAT",
+      "grampanchayatname": "PASTPAR",
+      "ihhltotalasperdetails": 2415,
+      "ihhltotalach": 2415,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "PATARGHAT",
+      "grampanchayatname": "PATARGHAT",
+      "ihhltotalasperdetails": 2702,
+      "ihhltotalach": 2702,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SALKHUA",
+      "grampanchayatname": "ALANI",
+      "ihhltotalasperdetails": 2340,
+      "ihhltotalach": 2340,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SALKHUA",
+      "grampanchayatname": "CHANAN",
+      "ihhltotalasperdetails": 3159,
+      "ihhltotalach": 3159,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SALKHUA",
+      "grampanchayatname": "GORDAH",
+      "ihhltotalasperdetails": 3183,
+      "ihhltotalach": 3183,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SALKHUA",
+      "grampanchayatname": "HAREBA",
+      "ihhltotalasperdetails": 3571,
+      "ihhltotalach": 3571,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SALKHUA",
+      "grampanchayatname": "KABIRA",
+      "ihhltotalasperdetails": 2473,
+      "ihhltotalach": 2473,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SALKHUA",
+      "grampanchayatname": "KOPARIA",
+      "ihhltotalasperdetails": 3745,
+      "ihhltotalach": 3745,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SALKHUA",
+      "grampanchayatname": "MOBARAKPUR",
+      "ihhltotalasperdetails": 2706,
+      "ihhltotalach": 2706,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SALKHUA",
+      "grampanchayatname": "SALKHUA",
+      "ihhltotalasperdetails": 2288,
+      "ihhltotalach": 2288,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SALKHUA",
+      "grampanchayatname": "SAMHAR KHURD",
+      "ihhltotalasperdetails": 2381,
+      "ihhltotalach": 2381,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SALKHUA",
+      "grampanchayatname": "SITUAHA",
+      "ihhltotalasperdetails": 2851,
+      "ihhltotalach": 2851,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SALKHUA",
+      "grampanchayatname": "UTESHRA",
+      "ihhltotalasperdetails": 2880,
+      "ihhltotalach": 2880,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SATTAR  KATTAIYA",
+      "grampanchayatname": "BARA",
+      "ihhltotalasperdetails": 2295,
+      "ihhltotalach": 2295,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SATTAR  KATTAIYA",
+      "grampanchayatname": "BARAHSHER",
+      "ihhltotalasperdetails": 2019,
+      "ihhltotalach": 2019,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SATTAR  KATTAIYA",
+      "grampanchayatname": "BHELWA",
+      "ihhltotalasperdetails": 2252,
+      "ihhltotalach": 2252,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SATTAR  KATTAIYA",
+      "grampanchayatname": "BIHRA",
+      "ihhltotalasperdetails": 3255,
+      "ihhltotalach": 3255,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SATTAR  KATTAIYA",
+      "grampanchayatname": "BIJALPUR",
+      "ihhltotalasperdetails": 2729,
+      "ihhltotalach": 2729,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SATTAR  KATTAIYA",
+      "grampanchayatname": "BISHANPUR",
+      "ihhltotalasperdetails": 2480,
+      "ihhltotalach": 2480,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SATTAR  KATTAIYA",
+      "grampanchayatname": "OKAHI",
+      "ihhltotalasperdetails": 1862,
+      "ihhltotalach": 1862,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SATTAR  KATTAIYA",
+      "grampanchayatname": "PANCHGACHHIYA",
+      "ihhltotalasperdetails": 2083,
+      "ihhltotalach": 2083,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SATTAR  KATTAIYA",
+      "grampanchayatname": "PATORI",
+      "ihhltotalasperdetails": 2815,
+      "ihhltotalach": 2815,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SATTAR  KATTAIYA",
+      "grampanchayatname": "PURIKH",
+      "ihhltotalasperdetails": 1258,
+      "ihhltotalach": 1258,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SATTAR  KATTAIYA",
+      "grampanchayatname": "RAKIYA",
+      "ihhltotalasperdetails": 1861,
+      "ihhltotalach": 1861,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SATTAR  KATTAIYA",
+      "grampanchayatname": "SATTAR",
+      "ihhltotalasperdetails": 2890,
+      "ihhltotalach": 2890,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SATTAR  KATTAIYA",
+      "grampanchayatname": "SHAHPUR",
+      "ihhltotalasperdetails": 4027,
+      "ihhltotalach": 4027,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SATTAR  KATTAIYA",
+      "grampanchayatname": "SIHOUL",
+      "ihhltotalasperdetails": 2600,
+      "ihhltotalach": 2600,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SIMRI BAKHTIARPUR",
+      "grampanchayatname": "BAGHWA",
+      "ihhltotalasperdetails": 1902,
+      "ihhltotalach": 1902,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SIMRI BAKHTIARPUR",
+      "grampanchayatname": "BELWARA",
+      "ihhltotalasperdetails": 2316,
+      "ihhltotalach": 2316,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SIMRI BAKHTIARPUR",
+      "grampanchayatname": "BHATAUNI",
+      "ihhltotalasperdetails": 1775,
+      "ihhltotalach": 1775,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SIMRI BAKHTIARPUR",
+      "grampanchayatname": "CHAKBHARO",
+      "ihhltotalasperdetails": 2325,
+      "ihhltotalach": 2325,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SIMRI BAKHTIARPUR",
+      "grampanchayatname": "DHANUPURA",
+      "ihhltotalasperdetails": 761,
+      "ihhltotalach": 761,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SIMRI BAKHTIARPUR",
+      "grampanchayatname": "GHOGHSAM",
+      "ihhltotalasperdetails": 1263,
+      "ihhltotalach": 1263,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SIMRI BAKHTIARPUR",
+      "grampanchayatname": "KANTHO",
+      "ihhltotalasperdetails": 1914,
+      "ihhltotalach": 1914,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SIMRI BAKHTIARPUR",
+      "grampanchayatname": "KATHDUMAR",
+      "ihhltotalasperdetails": 516,
+      "ihhltotalach": 516,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SIMRI BAKHTIARPUR",
+      "grampanchayatname": "KHAJURI",
+      "ihhltotalasperdetails": 2746,
+      "ihhltotalach": 2746,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SIMRI BAKHTIARPUR",
+      "grampanchayatname": "KHAMAUTI",
+      "ihhltotalasperdetails": 2766,
+      "ihhltotalach": 2766,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SIMRI BAKHTIARPUR",
+      "grampanchayatname": "MAHKHAR",
+      "ihhltotalasperdetails": 1906,
+      "ihhltotalach": 1906,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SIMRI BAKHTIARPUR",
+      "grampanchayatname": "MOHAMMADPUR",
+      "ihhltotalasperdetails": 2340,
+      "ihhltotalach": 2340,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SIMRI BAKHTIARPUR",
+      "grampanchayatname": "MOHANPUR",
+      "ihhltotalasperdetails": 2376,
+      "ihhltotalach": 2376,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SIMRI BAKHTIARPUR",
+      "grampanchayatname": "PAHARPUR",
+      "ihhltotalasperdetails": 1110,
+      "ihhltotalach": 1110,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SIMRI BAKHTIARPUR",
+      "grampanchayatname": "RAIPURA",
+      "ihhltotalasperdetails": 2580,
+      "ihhltotalach": 2580,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SIMRI BAKHTIARPUR",
+      "grampanchayatname": "SARDIHA",
+      "ihhltotalasperdetails": 1448,
+      "ihhltotalach": 1448,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SIMRI BAKHTIARPUR",
+      "grampanchayatname": "SAROJA",
+      "ihhltotalasperdetails": 3313,
+      "ihhltotalach": 3313,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SIMRI BAKHTIARPUR",
+      "grampanchayatname": "SIMRI",
+      "ihhltotalasperdetails": 2585,
+      "ihhltotalach": 2585,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SIMRI BAKHTIARPUR",
+      "grampanchayatname": "SITANABAD   NORTH",
+      "ihhltotalasperdetails": 3090,
+      "ihhltotalach": 3090,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SIMRI BAKHTIARPUR",
+      "grampanchayatname": "SITANABAD   SOUTH",
+      "ihhltotalasperdetails": 3932,
+      "ihhltotalach": 3932,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SIMRI BAKHTIARPUR",
+      "grampanchayatname": "SONPURA",
+      "ihhltotalasperdetails": 2430,
+      "ihhltotalach": 2430,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SIMRI BAKHTIARPUR",
+      "grampanchayatname": "TARIYAMA",
+      "ihhltotalasperdetails": 1369,
+      "ihhltotalach": 1369,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SONBARSA",
+      "grampanchayatname": "ATALKHA",
+      "ihhltotalasperdetails": 1852,
+      "ihhltotalach": 1852,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SONBARSA",
+      "grampanchayatname": "BAITH MUSHAHRI",
+      "ihhltotalasperdetails": 1588,
+      "ihhltotalach": 1588,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SONBARSA",
+      "grampanchayatname": "BARAITH",
+      "ihhltotalasperdetails": 1772,
+      "ihhltotalach": 1772,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SONBARSA",
+      "grampanchayatname": "BARGAON",
+      "ihhltotalasperdetails": 1382,
+      "ihhltotalach": 1382,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SONBARSA",
+      "grampanchayatname": "BARSAM",
+      "ihhltotalasperdetails": 1007,
+      "ihhltotalach": 1007,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SONBARSA",
+      "grampanchayatname": "BIRATPUR",
+      "ihhltotalasperdetails": 2021,
+      "ihhltotalach": 2021,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SONBARSA",
+      "grampanchayatname": "DEHAD",
+      "ihhltotalasperdetails": 1727,
+      "ihhltotalach": 1727,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SONBARSA",
+      "grampanchayatname": "KASHNAGAR",
+      "ihhltotalasperdetails": 2942,
+      "ihhltotalach": 2942,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SONBARSA",
+      "grampanchayatname": "KHAJURAHA",
+      "ihhltotalasperdetails": 1998,
+      "ihhltotalach": 1998,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SONBARSA",
+      "grampanchayatname": "KOPA",
+      "ihhltotalasperdetails": 1624,
+      "ihhltotalach": 1624,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SONBARSA",
+      "grampanchayatname": "LAGMA",
+      "ihhltotalasperdetails": 1607,
+      "ihhltotalach": 1607,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SONBARSA",
+      "grampanchayatname": "MAHUA  NORTH",
+      "ihhltotalasperdetails": 2025,
+      "ihhltotalach": 2025,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SONBARSA",
+      "grampanchayatname": "MANGWAR",
+      "ihhltotalasperdetails": 2426,
+      "ihhltotalach": 2426,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SONBARSA",
+      "grampanchayatname": "MOKMA",
+      "ihhltotalasperdetails": 1691,
+      "ihhltotalach": 1691,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SONBARSA",
+      "grampanchayatname": "PARARIYA",
+      "ihhltotalasperdetails": 2591,
+      "ihhltotalach": 2591,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SONBARSA",
+      "grampanchayatname": "RAGHUNATHPUR",
+      "ihhltotalasperdetails": 2585,
+      "ihhltotalach": 2585,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SONBARSA",
+      "grampanchayatname": "SAHSAUL",
+      "ihhltotalasperdetails": 2260,
+      "ihhltotalach": 2260,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SONBARSA",
+      "grampanchayatname": "SARAUNI MADHEPURA",
+      "ihhltotalasperdetails": 1901,
+      "ihhltotalach": 1901,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SONBARSA",
+      "grampanchayatname": "SHAHPUR",
+      "ihhltotalasperdetails": 2062,
+      "ihhltotalach": 2062,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SONBARSA",
+      "grampanchayatname": "SOHA",
+      "ihhltotalasperdetails": 2426,
+      "ihhltotalach": 2426,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SONBARSA",
+      "grampanchayatname": "SONBARSA",
+      "ihhltotalasperdetails": 2473,
+      "ihhltotalach": 2473,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SOUR BAZAR",
+      "grampanchayatname": "AJGAIBA",
+      "ihhltotalasperdetails": 2001,
+      "ihhltotalach": 2001,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SOUR BAZAR",
+      "grampanchayatname": "BAIJNATHPUR",
+      "ihhltotalasperdetails": 2551,
+      "ihhltotalach": 2551,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SOUR BAZAR",
+      "grampanchayatname": "CHANDAUR   EAST",
+      "ihhltotalasperdetails": 1892,
+      "ihhltotalach": 1892,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SOUR BAZAR",
+      "grampanchayatname": "CHANDAUR   WEST",
+      "ihhltotalasperdetails": 1832,
+      "ihhltotalach": 1832,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SOUR BAZAR",
+      "grampanchayatname": "GAMHARIYA",
+      "ihhltotalasperdetails": 2492,
+      "ihhltotalach": 2492,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SOUR BAZAR",
+      "grampanchayatname": "KADHAIYA",
+      "ihhltotalasperdetails": 5062,
+      "ihhltotalach": 5062,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SOUR BAZAR",
+      "grampanchayatname": "KANP   EAST",
+      "ihhltotalasperdetails": 1931,
+      "ihhltotalach": 1931,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SOUR BAZAR",
+      "grampanchayatname": "KANP WEST",
+      "ihhltotalasperdetails": 1435,
+      "ihhltotalach": 1435,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SOUR BAZAR",
+      "grampanchayatname": "KHAJURI",
+      "ihhltotalasperdetails": 2056,
+      "ihhltotalach": 2056,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SOUR BAZAR",
+      "grampanchayatname": "NADO",
+      "ihhltotalasperdetails": 1923,
+      "ihhltotalach": 1923,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SOUR BAZAR",
+      "grampanchayatname": "RAMPUR",
+      "ihhltotalasperdetails": 2118,
+      "ihhltotalach": 2118,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SOUR BAZAR",
+      "grampanchayatname": "RAUTA KHEM",
+      "ihhltotalasperdetails": 2151,
+      "ihhltotalach": 2151,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SOUR BAZAR",
+      "grampanchayatname": "SAHURIYA EAST",
+      "ihhltotalasperdetails": 2993,
+      "ihhltotalach": 2993,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SOUR BAZAR",
+      "grampanchayatname": "SAHURIYA WEST",
+      "ihhltotalasperdetails": 2316,
+      "ihhltotalach": 2316,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SOUR BAZAR",
+      "grampanchayatname": "SAUR BAZAR",
+      "ihhltotalasperdetails": 3645,
+      "ihhltotalach": 3645,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SOUR BAZAR",
+      "grampanchayatname": "SUHATH",
+      "ihhltotalasperdetails": 3202,
+      "ihhltotalach": 3202,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SAHARSA",
+      "blockname": "SOUR BAZAR",
+      "grampanchayatname": "TIRI",
+      "ihhltotalasperdetails": 1984,
+      "ihhltotalach": 1984,
+      "date": "5/19/2020 12:00:00 AM"
+    }
+  ]
+}

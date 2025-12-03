@@ -1,0 +1,651 @@
+{
+  "index_name": "373358c8-63fd-4612-8f2b-9ce483422312",
+  "title": "Product wise and Month wise production of chemical Fertilizers",
+  "desc": "Product wise and Month wise production of chemical Fertilizers",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Chemicals and Fertilizers",
+    "Department of Fertilizers"
+  ],
+  "sector": [
+    "Agriculture",
+    "Fertilizers"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "c91b05ba-babe-4960-8808-cb448c0e581f",
+  "visualizable": "0",
+  "active": "1",
+  "created": 1757821384,
+  "updated": 1757821384,
+  "created_date": "2025-09-14T05:43:04Z",
+  "updated_date": "2025-09-14T05:43:04Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "c91b05ba-babe-4960-8808-cb448c0e581f",
+    "field": "373358c8-63fd-4612-8f2b-9ce483422312"
+  },
+  "field": [
+    {
+      "id": "_year",
+      "name": "Year",
+      "type": "keyword"
+    },
+    {
+      "id": "month",
+      "name": "Month",
+      "type": "keyword"
+    },
+    {
+      "id": "product",
+      "name": "Product",
+      "type": "keyword"
+    },
+    {
+      "id": "quantity_in_000_mts_",
+      "name": "Quantity(In 000 MTs)",
+      "type": "double"
+    },
+    {
+      "id": "_n_in_000_mts_",
+      "name": " N(In 000 MTs)",
+      "type": "double"
+    },
+    {
+      "id": "_p_in_000_mts_",
+      "name": " P(In 000 MTs)",
+      "type": "double"
+    },
+    {
+      "id": "k_in_000_mts_",
+      "name": "K(In 000 MTs)",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 64,
+  "count": 64,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "_year": "2014-2015",
+      "month": "April",
+      "product": "UREA",
+      "quantity_in_000_mts_": 1814.7,
+      "_n_in_000_mts_": 834.762,
+      "_p_in_000_mts_": "0",
+      "k_in_000_mts_": "0"
+    },
+    {
+      "_year": "2014-2015",
+      "month": "April",
+      "product": "DAP",
+      "quantity_in_000_mts_": 209.5,
+      "_n_in_000_mts_": 37.71,
+      "_p_in_000_mts_": 96.37,
+      "k_in_000_mts_": "0"
+    },
+    {
+      "_year": "2014-2015",
+      "month": "April",
+      "product": "A/S",
+      "quantity_in_000_mts_": 34.3,
+      "_n_in_000_mts_": 7.203,
+      "_p_in_000_mts_": "0",
+      "k_in_000_mts_": "0"
+    },
+    {
+      "_year": "2014-2015",
+      "month": "April",
+      "product": "20:20",
+      "quantity_in_000_mts_": 162.4,
+      "_n_in_000_mts_": 32.48,
+      "_p_in_000_mts_": 32.48,
+      "k_in_000_mts_": "0"
+    },
+    {
+      "_year": "2014-2015",
+      "month": "April",
+      "product": "15:15:15",
+      "quantity_in_000_mts_": 20,
+      "_n_in_000_mts_": 3,
+      "_p_in_000_mts_": 3,
+      "k_in_000_mts_": 3
+    },
+    {
+      "_year": "2014-2015",
+      "month": "April",
+      "product": "17:17:17",
+      "quantity_in_000_mts_": 7.3,
+      "_n_in_000_mts_": 1.241,
+      "_p_in_000_mts_": 1.241,
+      "k_in_000_mts_": 1.241
+    },
+    {
+      "_year": "2014-2015",
+      "month": "April",
+      "product": "SSP",
+      "quantity_in_000_mts_": 225,
+      "_n_in_000_mts_": "0",
+      "_p_in_000_mts_": 36,
+      "k_in_000_mts_": "0"
+    },
+    {
+      "_year": "2014-2015",
+      "month": "April",
+      "product": "10:26:26",
+      "quantity_in_000_mts_": 34.3,
+      "_n_in_000_mts_": 3.43,
+      "_p_in_000_mts_": 8.918,
+      "k_in_000_mts_": 8.918
+    },
+    {
+      "_year": "2014-2015",
+      "month": "April",
+      "product": "12:32:16",
+      "quantity_in_000_mts_": 52.8,
+      "_n_in_000_mts_": 6.336,
+      "_p_in_000_mts_": 16.896,
+      "k_in_000_mts_": 8.448
+    },
+    {
+      "_year": "2014-2015",
+      "month": "April",
+      "product": "28:28:00",
+      "quantity_in_000_mts_": "0",
+      "_n_in_000_mts_": "0",
+      "_p_in_000_mts_": "0",
+      "k_in_000_mts_": "0"
+    },
+    {
+      "_year": "2014-2015",
+      "month": "April",
+      "product": "14:35:14",
+      "quantity_in_000_mts_": 1.3,
+      "_n_in_000_mts_": 0.182,
+      "_p_in_000_mts_": 0.455,
+      "k_in_000_mts_": 0.182
+    },
+    {
+      "_year": "2014-2015",
+      "month": "April",
+      "product": "19:19:19",
+      "quantity_in_000_mts_": "0",
+      "_n_in_000_mts_": "0",
+      "_p_in_000_mts_": "0",
+      "k_in_000_mts_": "0"
+    },
+    {
+      "_year": "2014-2015",
+      "month": "April",
+      "product": "16:20",
+      "quantity_in_000_mts_": "0",
+      "_n_in_000_mts_": "0",
+      "_p_in_000_mts_": "0",
+      "k_in_000_mts_": "0"
+    },
+    {
+      "_year": "2014-2015",
+      "month": "April",
+      "product": "CAN",
+      "quantity_in_000_mts_": "0",
+      "_n_in_000_mts_": "0",
+      "_p_in_000_mts_": "0",
+      "k_in_000_mts_": "0"
+    },
+    {
+      "_year": "2014-2015",
+      "month": "April",
+      "product": "23:23",
+      "quantity_in_000_mts_": "0",
+      "_n_in_000_mts_": "0",
+      "_p_in_000_mts_": "0",
+      "k_in_000_mts_": "0"
+    },
+    {
+      "_year": "2014-2015",
+      "month": "April",
+      "product": "14:28:14",
+      "quantity_in_000_mts_": "0",
+      "_n_in_000_mts_": "0",
+      "_p_in_000_mts_": "0",
+      "k_in_000_mts_": "0"
+    },
+    {
+      "_year": "2014-2015",
+      "month": "May",
+      "product": "UREA",
+      "quantity_in_000_mts_": 1875.4,
+      "_n_in_000_mts_": 862.684,
+      "_p_in_000_mts_": "0",
+      "k_in_000_mts_": "0"
+    },
+    {
+      "_year": "2014-2015",
+      "month": "May",
+      "product": "DAP",
+      "quantity_in_000_mts_": 299.8,
+      "_n_in_000_mts_": 53.964,
+      "_p_in_000_mts_": 137.908,
+      "k_in_000_mts_": "0"
+    },
+    {
+      "_year": "2014-2015",
+      "month": "May",
+      "product": "A/S",
+      "quantity_in_000_mts_": 39.1,
+      "_n_in_000_mts_": 8.211,
+      "_p_in_000_mts_": "0",
+      "k_in_000_mts_": "0"
+    },
+    {
+      "_year": "2014-2015",
+      "month": "May",
+      "product": "20:20",
+      "quantity_in_000_mts_": 269.5,
+      "_n_in_000_mts_": 53.9,
+      "_p_in_000_mts_": 53.9,
+      "k_in_000_mts_": "0"
+    },
+    {
+      "_year": "2014-2015",
+      "month": "May",
+      "product": "15:15:15",
+      "quantity_in_000_mts_": 53.8,
+      "_n_in_000_mts_": 8.07,
+      "_p_in_000_mts_": 8.07,
+      "k_in_000_mts_": 8.07
+    },
+    {
+      "_year": "2014-2015",
+      "month": "May",
+      "product": "17:17:17",
+      "quantity_in_000_mts_": 11.5,
+      "_n_in_000_mts_": 1.955,
+      "_p_in_000_mts_": 1.955,
+      "k_in_000_mts_": 1.955
+    },
+    {
+      "_year": "2014-2015",
+      "month": "May",
+      "product": "SSP",
+      "quantity_in_000_mts_": 225,
+      "_n_in_000_mts_": "0",
+      "_p_in_000_mts_": 36,
+      "k_in_000_mts_": "0"
+    },
+    {
+      "_year": "2014-2015",
+      "month": "May",
+      "product": "10:26:26",
+      "quantity_in_000_mts_": 92.4,
+      "_n_in_000_mts_": 9.24,
+      "_p_in_000_mts_": 24.024,
+      "k_in_000_mts_": 24.024
+    },
+    {
+      "_year": "2014-2015",
+      "month": "May",
+      "product": "12:32:16",
+      "quantity_in_000_mts_": 75,
+      "_n_in_000_mts_": 9,
+      "_p_in_000_mts_": 24,
+      "k_in_000_mts_": 12
+    },
+    {
+      "_year": "2014-2015",
+      "month": "May",
+      "product": "28:28:00",
+      "quantity_in_000_mts_": 39.2,
+      "_n_in_000_mts_": 10.976,
+      "_p_in_000_mts_": 10.976,
+      "k_in_000_mts_": "0"
+    },
+    {
+      "_year": "2014-2015",
+      "month": "May",
+      "product": "14:35:14",
+      "quantity_in_000_mts_": "0",
+      "_n_in_000_mts_": "0",
+      "_p_in_000_mts_": "0",
+      "k_in_000_mts_": "0"
+    },
+    {
+      "_year": "2014-2015",
+      "month": "May",
+      "product": "19:19:19",
+      "quantity_in_000_mts_": "0",
+      "_n_in_000_mts_": "0",
+      "_p_in_000_mts_": "0",
+      "k_in_000_mts_": "0"
+    },
+    {
+      "_year": "2014-2015",
+      "month": "May",
+      "product": "16:20",
+      "quantity_in_000_mts_": 9.2,
+      "_n_in_000_mts_": 1.472,
+      "_p_in_000_mts_": 1.84,
+      "k_in_000_mts_": "0"
+    },
+    {
+      "_year": "2014-2015",
+      "month": "May",
+      "product": "CAN",
+      "quantity_in_000_mts_": "0",
+      "_n_in_000_mts_": "0",
+      "_p_in_000_mts_": "0",
+      "k_in_000_mts_": "0"
+    },
+    {
+      "_year": "2014-2015",
+      "month": "May",
+      "product": "23:23",
+      "quantity_in_000_mts_": "0",
+      "_n_in_000_mts_": "0",
+      "_p_in_000_mts_": "0",
+      "k_in_000_mts_": "0"
+    },
+    {
+      "_year": "2014-2015",
+      "month": "May",
+      "product": "14:28:14",
+      "quantity_in_000_mts_": "0",
+      "_n_in_000_mts_": "0",
+      "_p_in_000_mts_": "0",
+      "k_in_000_mts_": "0"
+    },
+    {
+      "_year": "2014-2015",
+      "month": "June",
+      "product": "UREA",
+      "quantity_in_000_mts_": 1902.7,
+      "_n_in_000_mts_": 875.242,
+      "_p_in_000_mts_": "0",
+      "k_in_000_mts_": "0"
+    },
+    {
+      "_year": "2014-2015",
+      "month": "June",
+      "product": "DAP",
+      "quantity_in_000_mts_": 282.9,
+      "_n_in_000_mts_": 50.922,
+      "_p_in_000_mts_": 130.134,
+      "k_in_000_mts_": "0"
+    },
+    {
+      "_year": "2014-2015",
+      "month": "June",
+      "product": "A/S",
+      "quantity_in_000_mts_": 29.3,
+      "_n_in_000_mts_": 6.153,
+      "_p_in_000_mts_": "0",
+      "k_in_000_mts_": "0"
+    },
+    {
+      "_year": "2014-2015",
+      "month": "June",
+      "product": "20:20",
+      "quantity_in_000_mts_": 263.5,
+      "_n_in_000_mts_": 52.7,
+      "_p_in_000_mts_": 52.7,
+      "k_in_000_mts_": "0"
+    },
+    {
+      "_year": "2014-2015",
+      "month": "June",
+      "product": "15:15:15",
+      "quantity_in_000_mts_": 18.8,
+      "_n_in_000_mts_": 2.82,
+      "_p_in_000_mts_": 2.82,
+      "k_in_000_mts_": 2.82
+    },
+    {
+      "_year": "2014-2015",
+      "month": "June",
+      "product": "17:17:17",
+      "quantity_in_000_mts_": 6.9,
+      "_n_in_000_mts_": 1.173,
+      "_p_in_000_mts_": 1.173,
+      "k_in_000_mts_": 1.173
+    },
+    {
+      "_year": "2014-2015",
+      "month": "June",
+      "product": "SSP",
+      "quantity_in_000_mts_": 225,
+      "_n_in_000_mts_": "0",
+      "_p_in_000_mts_": 36,
+      "k_in_000_mts_": "0"
+    },
+    {
+      "_year": "2014-2015",
+      "month": "June",
+      "product": "10:26:26",
+      "quantity_in_000_mts_": 119.4,
+      "_n_in_000_mts_": 11.94,
+      "_p_in_000_mts_": 31.044,
+      "k_in_000_mts_": 31.044
+    },
+    {
+      "_year": "2014-2015",
+      "month": "June",
+      "product": "12:32:16",
+      "quantity_in_000_mts_": 78.3,
+      "_n_in_000_mts_": 9.396,
+      "_p_in_000_mts_": 25.056,
+      "k_in_000_mts_": 12.528
+    },
+    {
+      "_year": "2014-2015",
+      "month": "June",
+      "product": "28:28:00",
+      "quantity_in_000_mts_": 40.3,
+      "_n_in_000_mts_": 11.284,
+      "_p_in_000_mts_": 11.284,
+      "k_in_000_mts_": "0"
+    },
+    {
+      "_year": "2014-2015",
+      "month": "June",
+      "product": "14:35:14",
+      "quantity_in_000_mts_": 13,
+      "_n_in_000_mts_": 1.82,
+      "_p_in_000_mts_": 4.55,
+      "k_in_000_mts_": 1.82
+    },
+    {
+      "_year": "2014-2015",
+      "month": "June",
+      "product": "19:19:19",
+      "quantity_in_000_mts_": "0",
+      "_n_in_000_mts_": "0",
+      "_p_in_000_mts_": "0",
+      "k_in_000_mts_": "0"
+    },
+    {
+      "_year": "2014-2015",
+      "month": "June",
+      "product": "16:20",
+      "quantity_in_000_mts_": 1.7,
+      "_n_in_000_mts_": 0.272,
+      "_p_in_000_mts_": 0.34,
+      "k_in_000_mts_": "0"
+    },
+    {
+      "_year": "2014-2015",
+      "month": "June",
+      "product": "CAN",
+      "quantity_in_000_mts_": "0",
+      "_n_in_000_mts_": "0",
+      "_p_in_000_mts_": "0",
+      "k_in_000_mts_": "0"
+    },
+    {
+      "_year": "2014-2015",
+      "month": "June",
+      "product": "23:23",
+      "quantity_in_000_mts_": "0",
+      "_n_in_000_mts_": "0",
+      "_p_in_000_mts_": "0",
+      "k_in_000_mts_": "0"
+    },
+    {
+      "_year": "2014-2015",
+      "month": "June",
+      "product": "14:28:14",
+      "quantity_in_000_mts_": "0",
+      "_n_in_000_mts_": "0",
+      "_p_in_000_mts_": "0",
+      "k_in_000_mts_": "0"
+    },
+    {
+      "_year": "2014-2015",
+      "month": "July",
+      "product": "UREA",
+      "quantity_in_000_mts_": 1945.3,
+      "_n_in_000_mts_": 894.838,
+      "_p_in_000_mts_": "0",
+      "k_in_000_mts_": "0"
+    },
+    {
+      "_year": "2014-2015",
+      "month": "July",
+      "product": "DAP",
+      "quantity_in_000_mts_": 273.4,
+      "_n_in_000_mts_": 49.212,
+      "_p_in_000_mts_": 125.764,
+      "k_in_000_mts_": "0"
+    },
+    {
+      "_year": "2014-2015",
+      "month": "July",
+      "product": "A/S",
+      "quantity_in_000_mts_": 29.3,
+      "_n_in_000_mts_": 6.153,
+      "_p_in_000_mts_": "0",
+      "k_in_000_mts_": "0"
+    },
+    {
+      "_year": "2014-2015",
+      "month": "July",
+      "product": "20:20",
+      "quantity_in_000_mts_": 314.8,
+      "_n_in_000_mts_": 62.96,
+      "_p_in_000_mts_": 62.96,
+      "k_in_000_mts_": "0"
+    },
+    {
+      "_year": "2014-2015",
+      "month": "July",
+      "product": "15:15:15",
+      "quantity_in_000_mts_": 18.7,
+      "_n_in_000_mts_": 2.805,
+      "_p_in_000_mts_": 2.805,
+      "k_in_000_mts_": 2.805
+    },
+    {
+      "_year": "2014-2015",
+      "month": "July",
+      "product": "17:17:17",
+      "quantity_in_000_mts_": 1.3,
+      "_n_in_000_mts_": 0.221,
+      "_p_in_000_mts_": 0.221,
+      "k_in_000_mts_": 0.221
+    },
+    {
+      "_year": "2014-2015",
+      "month": "July",
+      "product": "SSP",
+      "quantity_in_000_mts_": 225,
+      "_n_in_000_mts_": "0",
+      "_p_in_000_mts_": 36,
+      "k_in_000_mts_": "0"
+    },
+    {
+      "_year": "2014-2015",
+      "month": "July",
+      "product": "10:26:26",
+      "quantity_in_000_mts_": 213.1,
+      "_n_in_000_mts_": 21.31,
+      "_p_in_000_mts_": 55.406,
+      "k_in_000_mts_": 55.406
+    },
+    {
+      "_year": "2014-2015",
+      "month": "July",
+      "product": "12:32:16",
+      "quantity_in_000_mts_": 58.4,
+      "_n_in_000_mts_": 7.008,
+      "_p_in_000_mts_": 18.688,
+      "k_in_000_mts_": 9.344
+    },
+    {
+      "_year": "2014-2015",
+      "month": "July",
+      "product": "28:28:00",
+      "quantity_in_000_mts_": 31.6,
+      "_n_in_000_mts_": 8.848,
+      "_p_in_000_mts_": 8.848,
+      "k_in_000_mts_": "0"
+    },
+    {
+      "_year": "2014-2015",
+      "month": "July",
+      "product": "14:35:14",
+      "quantity_in_000_mts_": 16.8,
+      "_n_in_000_mts_": 2.352,
+      "_p_in_000_mts_": 5.88,
+      "k_in_000_mts_": 2.352
+    },
+    {
+      "_year": "2014-2015",
+      "month": "July",
+      "product": "19:19:19",
+      "quantity_in_000_mts_": "0",
+      "_n_in_000_mts_": "0",
+      "_p_in_000_mts_": "0",
+      "k_in_000_mts_": "0"
+    },
+    {
+      "_year": "2014-2015",
+      "month": "July",
+      "product": "16:20",
+      "quantity_in_000_mts_": "0",
+      "_n_in_000_mts_": "0",
+      "_p_in_000_mts_": "0",
+      "k_in_000_mts_": "0"
+    },
+    {
+      "_year": "2014-2015",
+      "month": "July",
+      "product": "CAN",
+      "quantity_in_000_mts_": "0",
+      "_n_in_000_mts_": "0",
+      "_p_in_000_mts_": "0",
+      "k_in_000_mts_": "0"
+    },
+    {
+      "_year": "2014-2015",
+      "month": "July",
+      "product": "23:23",
+      "quantity_in_000_mts_": "0",
+      "_n_in_000_mts_": "0",
+      "_p_in_000_mts_": "0",
+      "k_in_000_mts_": "0"
+    },
+    {
+      "_year": "2014-2015",
+      "month": "July",
+      "product": "14:28:14",
+      "quantity_in_000_mts_": "0",
+      "_n_in_000_mts_": "0",
+      "_p_in_000_mts_": "0",
+      "k_in_000_mts_": "0"
+    }
+  ]
+}

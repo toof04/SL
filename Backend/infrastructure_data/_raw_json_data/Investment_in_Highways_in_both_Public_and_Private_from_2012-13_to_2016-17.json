@@ -1,0 +1,128 @@
+{
+  "index_name": "e4d07942-2bd1-4167-bf91-fe4f29c82313",
+  "title": "Investment in Highways in both Public and Private from 2012-13 to 2016-17",
+  "desc": "Investment in Highways in both Public and Private from 2012-13 to 2016-17",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Road Transport and Highways"
+  ],
+  "sector": [
+    "Transport",
+    "Road Transport"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "7d92c167-2136-4492-ab97-7b5440e3da98",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1593753983,
+  "updated": 1593766660,
+  "created_date": "2020-07-03T07:26:23Z",
+  "updated_date": "2020-07-03T14:27:40Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "7d92c167-2136-4492-ab97-7b5440e3da98",
+    "field": "e4d07942-2bd1-4167-bf91-fe4f29c82313"
+  },
+  "field": [
+    {
+      "id": "sr_no_",
+      "name": "Sr.No.",
+      "type": "keyword"
+    },
+    {
+      "id": "_year",
+      "name": "Year",
+      "type": "keyword"
+    },
+    {
+      "id": "expenditure___private_sector_investment",
+      "name": "Expenditure - Private Sector Investment",
+      "type": "double"
+    },
+    {
+      "id": "expenditure___private_sector_investment___percentage_share_in_total",
+      "name": "Expenditure - Private Sector Investment - Percentage share in total",
+      "type": "double"
+    },
+    {
+      "id": "expenditure___public_sector_investment__including_plan__non_plan_and_iebr_",
+      "name": "Expenditure - Public Sector Investment (including Plan, non Plan and IEBR)",
+      "type": "double"
+    },
+    {
+      "id": "expenditure___public_sector_investment__including_plan__non_plan_and_iebr____percentage_share_in_total",
+      "name": "Expenditure - Public Sector Investment (including Plan, non Plan and IEBR) - Percentage share in total",
+      "type": "double"
+    },
+    {
+      "id": "expenditure___total",
+      "name": "Expenditure - Total",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 6,
+  "count": 6,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "sr_no_": "1",
+      "_year": "2012-13",
+      "expenditure___private_sector_investment": 20304.66,
+      "expenditure___private_sector_investment___percentage_share_in_total": 48.35,
+      "expenditure___public_sector_investment__including_plan__non_plan_and_iebr_": 21693.74,
+      "expenditure___public_sector_investment__including_plan__non_plan_and_iebr____percentage_share_in_total": 51.65,
+      "expenditure___total": 41998.4
+    },
+    {
+      "sr_no_": "2",
+      "_year": "2013-14",
+      "expenditure___private_sector_investment": 22515.05,
+      "expenditure___private_sector_investment___percentage_share_in_total": 42.56,
+      "expenditure___public_sector_investment__including_plan__non_plan_and_iebr_": 30385.64,
+      "expenditure___public_sector_investment__including_plan__non_plan_and_iebr____percentage_share_in_total": 57.44,
+      "expenditure___total": 52900.69
+    },
+    {
+      "sr_no_": "3",
+      "_year": "2014-15",
+      "expenditure___private_sector_investment": 19232.44,
+      "expenditure___private_sector_investment___percentage_share_in_total": 38.83,
+      "expenditure___public_sector_investment__including_plan__non_plan_and_iebr_": 30295.26,
+      "expenditure___public_sector_investment__including_plan__non_plan_and_iebr____percentage_share_in_total": 61.17,
+      "expenditure___total": 49527.7
+    },
+    {
+      "sr_no_": "4",
+      "_year": "2015-16",
+      "expenditure___private_sector_investment": 29770,
+      "expenditure___private_sector_investment___percentage_share_in_total": 30.97,
+      "expenditure___public_sector_investment__including_plan__non_plan_and_iebr_": 66369.14,
+      "expenditure___public_sector_investment__including_plan__non_plan_and_iebr____percentage_share_in_total": 69.03,
+      "expenditure___total": 96139.14
+    },
+    {
+      "sr_no_": "5",
+      "_year": "2016-17",
+      "expenditure___private_sector_investment": 16028.64,
+      "expenditure___private_sector_investment___percentage_share_in_total": 17.37,
+      "expenditure___public_sector_investment__including_plan__non_plan_and_iebr_": 76275.26,
+      "expenditure___public_sector_investment__including_plan__non_plan_and_iebr____percentage_share_in_total": 82.63,
+      "expenditure___total": 92303.9
+    },
+    {
+      "sr_no_": "CAGR (2012-13/2016-17)",
+      "_year": "CAGR (2012-13/2016-17)",
+      "expenditure___private_sector_investment": "NA",
+      "expenditure___private_sector_investment___percentage_share_in_total": "NA",
+      "expenditure___public_sector_investment__including_plan__non_plan_and_iebr_": "NA",
+      "expenditure___public_sector_investment__including_plan__non_plan_and_iebr____percentage_share_in_total": "NA",
+      "expenditure___total": 21.8
+    }
+  ]
+}

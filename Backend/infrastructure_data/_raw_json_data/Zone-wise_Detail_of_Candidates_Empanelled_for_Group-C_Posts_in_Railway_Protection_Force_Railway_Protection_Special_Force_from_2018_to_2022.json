@@ -1,0 +1,292 @@
+{
+  "index_name": "4ac21c4a-a878-49c8-8765-7166d3f2aaeb",
+  "title": "Zone-wise Detail of Candidates Empanelled for Group-C Posts in Railway Protection Force/Railway Protection Special Force from 2018 to 2022",
+  "desc": "Zone-wise Detail of Candidates Empanelled for Group-C Posts in Railway Protection Force/Railway Protection Special Force from 2018 to 2022",
+  "org_type": "Central",
+  "org": [
+    "Rajya Sabha"
+  ],
+  "sector": [
+    "All"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "646eeed7-710f-4e3f-bf09-6b410bbc7d19",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1702110318,
+  "updated": 1702355937,
+  "created_date": "2023-12-09T09:25:18Z",
+  "updated_date": "2023-12-12T10:08:57Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "646eeed7-710f-4e3f-bf09-6b410bbc7d19",
+    "field": "4ac21c4a-a878-49c8-8765-7166d3f2aaeb"
+  },
+  "field": [
+    {
+      "id": "sl__no_",
+      "name": "Sl. No.",
+      "type": "keyword"
+    },
+    {
+      "id": "_zone",
+      "name": "Zone",
+      "type": "keyword"
+    },
+    {
+      "id": "__2018",
+      "name": "2018",
+      "type": "keyword"
+    },
+    {
+      "id": "_2019___sub_inspector__executive_",
+      "name": "2019 - Sub Inspector (Executive)",
+      "type": "double"
+    },
+    {
+      "id": "_2019___constable__executive_",
+      "name": "2019 - Constable (Executive)",
+      "type": "double"
+    },
+    {
+      "id": "_2019___constable__ancillary_",
+      "name": "2019 - Constable (Ancillary)",
+      "type": "double"
+    },
+    {
+      "id": "_2020___constable__band_",
+      "name": "2020 - Constable (Band)",
+      "type": "double"
+    },
+    {
+      "id": "__2021",
+      "name": "2021",
+      "type": "keyword"
+    },
+    {
+      "id": "__2022",
+      "name": "2022",
+      "type": "keyword"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 19,
+  "count": 19,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "sl__no_": "1",
+      "_zone": "Empanelled Candidates",
+      "__2018": "NA",
+      "_2019___sub_inspector__executive_": 1121,
+      "_2019___constable__executive_": 8543,
+      "_2019___constable__ancillary_": 796,
+      "_2020___constable__band_": 108,
+      "__2021": "NA",
+      "__2022": "NA"
+    },
+    {
+      "sl__no_": "1",
+      "_zone": "CR",
+      "__2018": "NA",
+      "_2019___sub_inspector__executive_": 70,
+      "_2019___constable__executive_": 526,
+      "_2019___constable__ancillary_": 24,
+      "_2020___constable__band_": 5,
+      "__2021": "NA",
+      "__2022": "NA"
+    },
+    {
+      "sl__no_": "2",
+      "_zone": "ER",
+      "__2018": "NA",
+      "_2019___sub_inspector__executive_": 173,
+      "_2019___constable__executive_": 926,
+      "_2019___constable__ancillary_": 82,
+      "_2020___constable__band_": 1,
+      "__2021": "NA",
+      "__2022": "NA"
+    },
+    {
+      "sl__no_": "3",
+      "_zone": "ECR",
+      "__2018": "NA",
+      "_2019___sub_inspector__executive_": 71,
+      "_2019___constable__executive_": 272,
+      "_2019___constable__ancillary_": 94,
+      "_2020___constable__band_": "0",
+      "__2021": "NA",
+      "__2022": "NA"
+    },
+    {
+      "sl__no_": "4",
+      "_zone": "ECoR",
+      "__2018": "NA",
+      "_2019___sub_inspector__executive_": 49,
+      "_2019___constable__executive_": 168,
+      "_2019___constable__ancillary_": 17,
+      "_2020___constable__band_": 5,
+      "__2021": "NA",
+      "__2022": "NA"
+    },
+    {
+      "sl__no_": "5",
+      "_zone": "NR",
+      "__2018": "NA",
+      "_2019___sub_inspector__executive_": 139,
+      "_2019___constable__executive_": 1288,
+      "_2019___constable__ancillary_": 49,
+      "_2020___constable__band_": 19,
+      "__2021": "NA",
+      "__2022": "NA"
+    },
+    {
+      "sl__no_": "6",
+      "_zone": "NCR",
+      "__2018": "NA",
+      "_2019___sub_inspector__executive_": 26,
+      "_2019___constable__executive_": 318,
+      "_2019___constable__ancillary_": 10,
+      "_2020___constable__band_": "0",
+      "__2021": "NA",
+      "__2022": "NA"
+    },
+    {
+      "sl__no_": "7",
+      "_zone": "NER",
+      "__2018": "NA",
+      "_2019___sub_inspector__executive_": 41,
+      "_2019___constable__executive_": 259,
+      "_2019___constable__ancillary_": 35,
+      "_2020___constable__band_": 13,
+      "__2021": "NA",
+      "__2022": "NA"
+    },
+    {
+      "sl__no_": "8",
+      "_zone": "NFR",
+      "__2018": "NA",
+      "_2019___sub_inspector__executive_": 42,
+      "_2019___constable__executive_": 299,
+      "_2019___constable__ancillary_": 33,
+      "_2020___constable__band_": 2,
+      "__2021": "NA",
+      "__2022": "NA"
+    },
+    {
+      "sl__no_": "9",
+      "_zone": "NWR",
+      "__2018": "NA",
+      "_2019___sub_inspector__executive_": 36,
+      "_2019___constable__executive_": 187,
+      "_2019___constable__ancillary_": 16,
+      "_2020___constable__band_": 3,
+      "__2021": "NA",
+      "__2022": "NA"
+    },
+    {
+      "sl__no_": "10",
+      "_zone": "SR",
+      "__2018": "NA",
+      "_2019___sub_inspector__executive_": 81,
+      "_2019___constable__executive_": 694,
+      "_2019___constable__ancillary_": 13,
+      "_2020___constable__band_": 6,
+      "__2021": "NA",
+      "__2022": "NA"
+    },
+    {
+      "sl__no_": "11",
+      "_zone": "SCR",
+      "__2018": "NA",
+      "_2019___sub_inspector__executive_": 59,
+      "_2019___constable__executive_": 797,
+      "_2019___constable__ancillary_": 17,
+      "_2020___constable__band_": 1,
+      "__2021": "NA",
+      "__2022": "NA"
+    },
+    {
+      "sl__no_": "12",
+      "_zone": "SER",
+      "__2018": "NA",
+      "_2019___sub_inspector__executive_": 106,
+      "_2019___constable__executive_": 1296,
+      "_2019___constable__ancillary_": 78,
+      "_2020___constable__band_": 14,
+      "__2021": "NA",
+      "__2022": "NA"
+    },
+    {
+      "sl__no_": "13",
+      "_zone": "SECR",
+      "__2018": "NA",
+      "_2019___sub_inspector__executive_": 18,
+      "_2019___constable__executive_": 149,
+      "_2019___constable__ancillary_": 11,
+      "_2020___constable__band_": 7,
+      "__2021": "NA",
+      "__2022": "NA"
+    },
+    {
+      "sl__no_": "14",
+      "_zone": "SWR",
+      "__2018": "NA",
+      "_2019___sub_inspector__executive_": 38,
+      "_2019___constable__executive_": 239,
+      "_2019___constable__ancillary_": 5,
+      "_2020___constable__band_": 7,
+      "__2021": "NA",
+      "__2022": "NA"
+    },
+    {
+      "sl__no_": "15",
+      "_zone": "WR",
+      "__2018": "NA",
+      "_2019___sub_inspector__executive_": 92,
+      "_2019___constable__executive_": 426,
+      "_2019___constable__ancillary_": 48,
+      "_2020___constable__band_": 5,
+      "__2021": "NA",
+      "__2022": "NA"
+    },
+    {
+      "sl__no_": "16",
+      "_zone": "WCR",
+      "__2018": "NA",
+      "_2019___sub_inspector__executive_": 20,
+      "_2019___constable__executive_": 38,
+      "_2019___constable__ancillary_": 6,
+      "_2020___constable__band_": "0",
+      "__2021": "NA",
+      "__2022": "NA"
+    },
+    {
+      "sl__no_": "17",
+      "_zone": "RPSF",
+      "__2018": "NA",
+      "_2019___sub_inspector__executive_": 60,
+      "_2019___constable__executive_": 661,
+      "_2019___constable__ancillary_": 258,
+      "_2020___constable__band_": 5,
+      "__2021": "NA",
+      "__2022": "NA"
+    },
+    {
+      "sl__no_": "Total",
+      "_zone": "Total",
+      "__2018": "NA",
+      "_2019___sub_inspector__executive_": 1121,
+      "_2019___constable__executive_": 8543,
+      "_2019___constable__ancillary_": 796,
+      "_2020___constable__band_": 93,
+      "__2021": "NA",
+      "__2022": "NA"
+    }
+  ]
+}

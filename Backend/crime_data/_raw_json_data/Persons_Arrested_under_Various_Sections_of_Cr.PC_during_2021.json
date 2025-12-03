@@ -1,0 +1,264 @@
+{
+  "index_name": "999d1451-4fae-48f9-9aec-586d87e9b3d6",
+  "title": "Persons Arrested under Various Sections of Cr.PC during 2021",
+  "desc": "Persons Arrested under Various Sections of Cr.PC during 2021",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Home Affairs",
+    "Department of States",
+    "National Crime Records Bureau (NCRB)"
+  ],
+  "sector": [
+    "Police"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "83a258f3-6fd1-4a9a-911b-5207a0cfa136",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1679236327,
+  "updated": 1679286927,
+  "created_date": "2023-03-19T15:32:07Z",
+  "updated_date": "2023-03-20T10:05:27Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "83a258f3-6fd1-4a9a-911b-5207a0cfa136",
+    "field": "999d1451-4fae-48f9-9aec-586d87e9b3d6"
+  },
+  "field": [
+    {
+      "id": "sl__no_",
+      "name": "Sl. No.",
+      "type": "keyword"
+    },
+    {
+      "id": "crime_head",
+      "name": "Crime Head",
+      "type": "keyword"
+    },
+    {
+      "id": "number_of_gd_entries_made",
+      "name": "Number of GD Entries made",
+      "type": "double"
+    },
+    {
+      "id": "no_of_firs_registered",
+      "name": "No of FIRs Registered",
+      "type": "double"
+    },
+    {
+      "id": "persons_arrested___male_",
+      "name": "Persons Arrested - Male ",
+      "type": "double"
+    },
+    {
+      "id": "persons_arrested___female",
+      "name": "Persons Arrested - Female",
+      "type": "double"
+    },
+    {
+      "id": "persons_arrested___transgender",
+      "name": "Persons Arrested - Transgender",
+      "type": "double"
+    },
+    {
+      "id": "persons_arrested___total",
+      "name": "Persons Arrested - Total",
+      "type": "double"
+    },
+    {
+      "id": "persons_released__within_24_hours____male_",
+      "name": "Persons Released (within 24 Hours) - Male ",
+      "type": "double"
+    },
+    {
+      "id": "persons_released__within_24_hours____female",
+      "name": "Persons Released (within 24 Hours) - Female",
+      "type": "double"
+    },
+    {
+      "id": "persons_released__within_24_hours____trans__gender",
+      "name": "Persons Released (within 24 Hours) - Trans- gender",
+      "type": "double"
+    },
+    {
+      "id": "persons_released__within_24_hours____total",
+      "name": "Persons Released (within 24 Hours) - Total",
+      "type": "double"
+    },
+    {
+      "id": "persons_detained_beyond_24_hours___male_",
+      "name": "Persons Detained Beyond 24 hours - Male ",
+      "type": "double"
+    },
+    {
+      "id": "persons_detained_beyond_24_hours___female",
+      "name": "Persons Detained Beyond 24 hours - Female",
+      "type": "double"
+    },
+    {
+      "id": "persons_detained_beyond_24_hours___trans__gender",
+      "name": "Persons Detained Beyond 24 hours - Trans- gender",
+      "type": "double"
+    },
+    {
+      "id": "persons_detained_beyond_24_hours___total",
+      "name": "Persons Detained Beyond 24 hours - Total",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 8,
+  "count": 8,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "sl__no_": "1",
+      "crime_head": "Section 41 of Cr. P.C",
+      "number_of_gd_entries_made": 106760,
+      "no_of_firs_registered": 74192,
+      "persons_arrested___male_": 215119,
+      "persons_arrested___female": 15626,
+      "persons_arrested___transgender": 161,
+      "persons_arrested___total": 230906,
+      "persons_released__within_24_hours____male_": 172477,
+      "persons_released__within_24_hours____female": 12349,
+      "persons_released__within_24_hours____trans__gender": 64,
+      "persons_released__within_24_hours____total": 184890,
+      "persons_detained_beyond_24_hours___male_": 42642,
+      "persons_detained_beyond_24_hours___female": 3277,
+      "persons_detained_beyond_24_hours___trans__gender": 97,
+      "persons_detained_beyond_24_hours___total": 46016
+    },
+    {
+      "sl__no_": "2",
+      "crime_head": "Section 151  Cr. P.C.",
+      "number_of_gd_entries_made": 714267,
+      "no_of_firs_registered": 42961,
+      "persons_arrested___male_": 1223607,
+      "persons_arrested___female": 29692,
+      "persons_arrested___transgender": 7,
+      "persons_arrested___total": 1253306,
+      "persons_released__within_24_hours____male_": 1028538,
+      "persons_released__within_24_hours____female": 23853,
+      "persons_released__within_24_hours____trans__gender": 7,
+      "persons_released__within_24_hours____total": 1052398,
+      "persons_detained_beyond_24_hours___male_": 195069,
+      "persons_detained_beyond_24_hours___female": 5839,
+      "persons_detained_beyond_24_hours___trans__gender": "0",
+      "persons_detained_beyond_24_hours___total": 200908
+    },
+    {
+      "sl__no_": "3",
+      "crime_head": "Section 107  R/w Sec.151 or Sec.107 R/w Sec.116 of Cr. P.C.",
+      "number_of_gd_entries_made": 2115758,
+      "no_of_firs_registered": 95133,
+      "persons_arrested___male_": 5034156,
+      "persons_arrested___female": 174439,
+      "persons_arrested___transgender": 6,
+      "persons_arrested___total": 5208601,
+      "persons_released__within_24_hours____male_": 3766646,
+      "persons_released__within_24_hours____female": 129918,
+      "persons_released__within_24_hours____trans__gender": 6,
+      "persons_released__within_24_hours____total": 3896570,
+      "persons_detained_beyond_24_hours___male_": 1267510,
+      "persons_detained_beyond_24_hours___female": 44521,
+      "persons_detained_beyond_24_hours___trans__gender": "0",
+      "persons_detained_beyond_24_hours___total": 1312031
+    },
+    {
+      "sl__no_": "4",
+      "crime_head": "Section 108 of Cr. P.C",
+      "number_of_gd_entries_made": 729,
+      "no_of_firs_registered": 87,
+      "persons_arrested___male_": 1493,
+      "persons_arrested___female": 2,
+      "persons_arrested___transgender": "0",
+      "persons_arrested___total": 1495,
+      "persons_released__within_24_hours____male_": 1446,
+      "persons_released__within_24_hours____female": 2,
+      "persons_released__within_24_hours____trans__gender": "0",
+      "persons_released__within_24_hours____total": 1448,
+      "persons_detained_beyond_24_hours___male_": 47,
+      "persons_detained_beyond_24_hours___female": "0",
+      "persons_detained_beyond_24_hours___trans__gender": "0",
+      "persons_detained_beyond_24_hours___total": 47
+    },
+    {
+      "sl__no_": "5",
+      "crime_head": "Section 109 of Cr. P.C",
+      "number_of_gd_entries_made": 59894,
+      "no_of_firs_registered": 4515,
+      "persons_arrested___male_": 68638,
+      "persons_arrested___female": 626,
+      "persons_arrested___transgender": "0",
+      "persons_arrested___total": 69264,
+      "persons_released__within_24_hours____male_": 64027,
+      "persons_released__within_24_hours____female": 449,
+      "persons_released__within_24_hours____trans__gender": "0",
+      "persons_released__within_24_hours____total": 64476,
+      "persons_detained_beyond_24_hours___male_": 4611,
+      "persons_detained_beyond_24_hours___female": 177,
+      "persons_detained_beyond_24_hours___trans__gender": "0",
+      "persons_detained_beyond_24_hours___total": 4788
+    },
+    {
+      "sl__no_": "6",
+      "crime_head": "Section 110 of Cr. P.C",
+      "number_of_gd_entries_made": 476405,
+      "no_of_firs_registered": 27763,
+      "persons_arrested___male_": 557687,
+      "persons_arrested___female": 5864,
+      "persons_arrested___transgender": "0",
+      "persons_arrested___total": 563551,
+      "persons_released__within_24_hours____male_": 468429,
+      "persons_released__within_24_hours____female": 5412,
+      "persons_released__within_24_hours____trans__gender": "0",
+      "persons_released__within_24_hours____total": 473841,
+      "persons_detained_beyond_24_hours___male_": 89258,
+      "persons_detained_beyond_24_hours___female": 452,
+      "persons_detained_beyond_24_hours___trans__gender": "0",
+      "persons_detained_beyond_24_hours___total": 89710
+    },
+    {
+      "sl__no_": "7",
+      "crime_head": "Other Section of Preventive action (State Specific)",
+      "number_of_gd_entries_made": 1085725,
+      "no_of_firs_registered": 6279,
+      "persons_arrested___male_": 1555856,
+      "persons_arrested___female": 17195,
+      "persons_arrested___transgender": "0",
+      "persons_arrested___total": 1573051,
+      "persons_released__within_24_hours____male_": 1148140,
+      "persons_released__within_24_hours____female": 16914,
+      "persons_released__within_24_hours____trans__gender": "0",
+      "persons_released__within_24_hours____total": 1165054,
+      "persons_detained_beyond_24_hours___male_": 407716,
+      "persons_detained_beyond_24_hours___female": 281,
+      "persons_detained_beyond_24_hours___trans__gender": "0",
+      "persons_detained_beyond_24_hours___total": 407997
+    },
+    {
+      "sl__no_": "Total",
+      "crime_head": "Total",
+      "number_of_gd_entries_made": 4559538,
+      "no_of_firs_registered": 250930,
+      "persons_arrested___male_": 8656556,
+      "persons_arrested___female": 243444,
+      "persons_arrested___transgender": 174,
+      "persons_arrested___total": 8900174,
+      "persons_released__within_24_hours____male_": 6649703,
+      "persons_released__within_24_hours____female": 188897,
+      "persons_released__within_24_hours____trans__gender": 77,
+      "persons_released__within_24_hours____total": 6838677,
+      "persons_detained_beyond_24_hours___male_": 2006853,
+      "persons_detained_beyond_24_hours___female": 54547,
+      "persons_detained_beyond_24_hours___trans__gender": 97,
+      "persons_detained_beyond_24_hours___total": 2061497
+    }
+  ]
+}

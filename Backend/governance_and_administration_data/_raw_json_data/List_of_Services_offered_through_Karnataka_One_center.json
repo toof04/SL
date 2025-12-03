@@ -1,0 +1,501 @@
+{
+  "index_name": "60611598-99e0-4b76-9e64-4c0187e74aba",
+  "title": "List of Services offered through Karnataka One center",
+  "desc": "List of Services offered through Karnataka One center",
+  "org_type": "State",
+  "org": [
+    "Karnataka",
+    "Department of Personnel and Administrative Reforms, Karnataka",
+    "Electronic Delivery of Citizen Services(EDCS)"
+  ],
+  "sector": [
+    "Governance and Administration",
+    "Union/State Government Administration"
+  ],
+  "source": "karnataka.data.gov.in",
+  "catalog_uuid": "5fc8e759-34a1-46f8-9632-ef78b69ab2c9",
+  "visualizable": "0",
+  "active": "1",
+  "created": 1760074470,
+  "updated": 1760074470,
+  "created_date": "2025-10-10T07:34:30Z",
+  "updated_date": "2025-10-10T07:34:30Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "5fc8e759-34a1-46f8-9632-ef78b69ab2c9",
+    "field": "60611598-99e0-4b76-9e64-4c0187e74aba"
+  },
+  "field": [
+    {
+      "id": "sl_no",
+      "name": "Sl No",
+      "type": "keyword"
+    },
+    {
+      "id": "department_",
+      "name": "Department",
+      "type": "keyword"
+    },
+    {
+      "id": "sl_no",
+      "name": "Sl No",
+      "type": "double"
+    },
+    {
+      "id": "service",
+      "name": "Service",
+      "type": "keyword"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 88,
+  "count": 88,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "sl_no": 1,
+      "department_": "ESCOM",
+      "service": "Payment of Electricity Bills"
+    },
+    {
+      "sl_no": 2,
+      "department_": "NA",
+      "service": "Payment of Additional Security Deposit of Electricity Connection"
+    },
+    {
+      "sl_no": 3,
+      "department_": "Karnataka Urban Water Supply and Sewerage Board Corporations",
+      "service": "Payment of Water Bills"
+    },
+    {
+      "sl_no": 4,
+      "department_": "NA",
+      "service": "Payment of Fee for new water Connection   Available only in Hubli Dharwad"
+    },
+    {
+      "sl_no": 5,
+      "department_": "NA",
+      "service": "Application for miscellaneous services of Water Board   Available only in Hubli Dharwad"
+    },
+    {
+      "sl_no": 6,
+      "department_": "NA",
+      "service": "Application for change of Khata of water connection   Available only in Hubli Dharwad"
+    },
+    {
+      "sl_no": 7,
+      "department_": "City Corporation",
+      "service": "Payment of Property Tax"
+    },
+    {
+      "sl_no": 8,
+      "department_": "NA",
+      "service": "Payment of UGD Tax    Available only in Tumkur"
+    },
+    {
+      "sl_no": 9,
+      "department_": "NA",
+      "service": "Downloading and printing of SAS Form   Form 2"
+    },
+    {
+      "sl_no": 10,
+      "department_": "NA",
+      "service": "Sale of Application forms for Akrama Sakrama Scheme   only in Tumkur"
+    },
+    {
+      "sl_no": 11,
+      "department_": "NA",
+      "service": "FOP"
+    },
+    {
+      "sl_no": 12,
+      "department_": "NA",
+      "service": "Application fee for Ashraya housing shceme"
+    },
+    {
+      "sl_no": 13,
+      "department_": "BSNL",
+      "service": "Payment of Bills"
+    },
+    {
+      "sl_no": 14,
+      "department_": "Cellone",
+      "service": "Payment of Bills"
+    },
+    {
+      "sl_no": 15,
+      "department_": "Police",
+      "service": "Collection of Police Verification   Clearance Certificate Fee"
+    },
+    {
+      "sl_no": 16,
+      "department_": "NA",
+      "service": "Payment of Application fees for Amplifier Sound system permission"
+    },
+    {
+      "sl_no": 17,
+      "department_": "Police Dept",
+      "service": "Collection of fee for Vehicle stolen report"
+    },
+    {
+      "sl_no": 18,
+      "department_": "NWKRTC",
+      "service": "Sale of Monthly Bus Passes"
+    },
+    {
+      "sl_no": 19,
+      "department_": "Bangalore University",
+      "service": "Collection of Application Fees for Distance Education Courses"
+    },
+    {
+      "sl_no": 20,
+      "department_": "NA",
+      "service": "Issue of forms for Distance Education"
+    },
+    {
+      "sl_no": 22,
+      "department_": "RTO",
+      "service": "Issue of RC Extract"
+    },
+    {
+      "sl_no": 23,
+      "department_": "NA",
+      "service": "Issue of DL Extract"
+    },
+    {
+      "sl_no": 24,
+      "department_": "Office of The Chief Electoral Officer of Karnataka",
+      "service": "Submission of forms for name inclusion, deletion, modification and transposition of electrol roll"
+    },
+    {
+      "sl_no": 25,
+      "department_": "Aadhar",
+      "service": "Generate e Aadhar"
+    },
+    {
+      "sl_no": 26,
+      "department_": "NA",
+      "service": "Enrolment for Aadhar"
+    },
+    {
+      "sl_no": 27,
+      "department_": "NA",
+      "service": "Updation of personal details in Aadhar"
+    },
+    {
+      "sl_no": 28,
+      "department_": "Various Government Department",
+      "service": "Issue of Government department application forms"
+    },
+    {
+      "sl_no": 29,
+      "department_": "Food and Civil Supplies",
+      "service": "Filing of Application for New Ration Card Renewal of Ration Card"
+    },
+    {
+      "sl_no": 30,
+      "department_": "NA",
+      "service": "Updation of Member Details in Ration Cards"
+    },
+    {
+      "sl_no": 31,
+      "department_": "NA",
+      "service": "Willingness registration for non priority"
+    },
+    {
+      "sl_no": 32,
+      "department_": "Bellary Urban Development Authority   BUDA",
+      "service": "Payment of fees for various purposes for BUDA   Bellary Urban Development Authority"
+    },
+    {
+      "sl_no": 33,
+      "department_": "SSLC",
+      "service": "Application for Photocopies"
+    },
+    {
+      "sl_no": 34,
+      "department_": "NA",
+      "service": "Application for re totalling of marks"
+    },
+    {
+      "sl_no": 35,
+      "department_": "NA",
+      "service": "Application for re valuation"
+    },
+    {
+      "sl_no": 36,
+      "department_": "EESL",
+      "service": "Sale of LED Bulbs under Hosa Belaku Scheme"
+    },
+    {
+      "sl_no": 37,
+      "department_": "Karnataka Traffic Police",
+      "service": "Payment of Traffic violation fines of Mysuru Traffic Police"
+    },
+    {
+      "sl_no": 38,
+      "department_": "RTE",
+      "service": "Application for RTE seats"
+    },
+    {
+      "sl_no": 39,
+      "department_": "DULT",
+      "service": "Registration and Recharge of Smart Card for Public Bi Cycle sharing service   Trin Trin"
+    },
+    {
+      "sl_no": 40,
+      "department_": "PUC",
+      "service": "Application for retotalling and revaluation and photocopoies"
+    },
+    {
+      "sl_no": 41,
+      "department_": "NA",
+      "service": "Payment of fee for Migration certificate"
+    },
+    {
+      "sl_no": 42,
+      "department_": "KSRTC",
+      "service": "KSRTC Bus Ticket booking"
+    },
+    {
+      "sl_no": 43,
+      "department_": "e Stamping",
+      "service": "Issue of e  Stamp Paper"
+    },
+    {
+      "sl_no": 44,
+      "department_": "Nadakacheri",
+      "service": "Agricultural Family member Certificate"
+    },
+    {
+      "sl_no": 45,
+      "department_": "NA",
+      "service": "Agricultural Labour Certificate"
+    },
+    {
+      "sl_no": 46,
+      "department_": "NA",
+      "service": "Agriculturist Certificate"
+    },
+    {
+      "sl_no": 47,
+      "department_": "NA",
+      "service": "Bonafide Certificate"
+    },
+    {
+      "sl_no": 48,
+      "department_": "NA",
+      "service": "Caste and Income Certificate"
+    },
+    {
+      "sl_no": 49,
+      "department_": "NA",
+      "service": "Caste Certificate   Cat A"
+    },
+    {
+      "sl_no": 50,
+      "department_": "NA",
+      "service": "Caste Certificate   SC ST"
+    },
+    {
+      "sl_no": 51,
+      "department_": "NA",
+      "service": "Domicile Certificate"
+    },
+    {
+      "sl_no": 52,
+      "department_": "NA",
+      "service": "Income Certificate"
+    },
+    {
+      "sl_no": 53,
+      "department_": "NA",
+      "service": "Income Certificate for compass for Employment"
+    },
+    {
+      "sl_no": 54,
+      "department_": "NA",
+      "service": "Income Certificate for Employment Certificate"
+    },
+    {
+      "sl_no": 55,
+      "department_": "NA",
+      "service": "Land holding Certificate"
+    },
+    {
+      "sl_no": 56,
+      "department_": "NA",
+      "service": "Land less Certificate"
+    },
+    {
+      "sl_no": 57,
+      "department_": "NA",
+      "service": "Living Certificate"
+    },
+    {
+      "sl_no": 58,
+      "department_": "NA",
+      "service": "No Govt  Job Certificate"
+    },
+    {
+      "sl_no": 59,
+      "department_": "NA",
+      "service": "No Re Marriage Certificate"
+    },
+    {
+      "sl_no": 60,
+      "department_": "NA",
+      "service": "Non creamy layer Certificate"
+    },
+    {
+      "sl_no": 61,
+      "department_": "NA",
+      "service": "Non Tenancy Certificate"
+    },
+    {
+      "sl_no": 62,
+      "department_": "NA",
+      "service": "OBC Certificate   Central"
+    },
+    {
+      "sl_no": 63,
+      "department_": "NA",
+      "service": "Population Certificate"
+    },
+    {
+      "sl_no": 64,
+      "department_": "NA",
+      "service": "Residence Certificate"
+    },
+    {
+      "sl_no": 65,
+      "department_": "NA",
+      "service": "Small   Marginal farmer Certificate"
+    },
+    {
+      "sl_no": 66,
+      "department_": "NA",
+      "service": "Solvency Certificate"
+    },
+    {
+      "sl_no": 67,
+      "department_": "NA",
+      "service": "Surviving Family Members Certificate"
+    },
+    {
+      "sl_no": 68,
+      "department_": "NA",
+      "service": "Unemployment Certificate"
+    },
+    {
+      "sl_no": 69,
+      "department_": "NA",
+      "service": "Widow Certificate"
+    },
+    {
+      "sl_no": 70,
+      "department_": "NA",
+      "service": "HK Region Residence and Eligibility Certificate"
+    },
+    {
+      "sl_no": 71,
+      "department_": "NA",
+      "service": "Minority Certificate"
+    },
+    {
+      "sl_no": 72,
+      "department_": "NA",
+      "service": "Attestation of Family Tree"
+    },
+    {
+      "sl_no": 73,
+      "department_": "Health Department",
+      "service": "Issue of Arogya ID Cards"
+    },
+    {
+      "sl_no": 74,
+      "department_": "Seva Sindhu",
+      "service": "Providing senior citizen card"
+    },
+    {
+      "sl_no": 75,
+      "department_": "NA",
+      "service": "Application for continuation of existing registration for next one three years"
+    },
+    {
+      "sl_no": 76,
+      "department_": "NA",
+      "service": "Application for Educational Assistance"
+    },
+    {
+      "sl_no": 77,
+      "department_": "NA",
+      "service": "Application for e Khata Transfer"
+    },
+    {
+      "sl_no": 78,
+      "department_": "NA",
+      "service": "Application for New e Khata"
+    },
+    {
+      "sl_no": 79,
+      "department_": "NA",
+      "service": "Application for Original Diploma Certificate"
+    },
+    {
+      "sl_no": 80,
+      "department_": "NA",
+      "service": "Application for registration of Senior Citizen"
+    },
+    {
+      "sl_no": 81,
+      "department_": "NA",
+      "service": "Application for Registration with Karnataka Building and Other Construction Worker  s Welfare Board"
+    },
+    {
+      "sl_no": 82,
+      "department_": "NA",
+      "service": "Prayojane  sponsoring artist groups"
+    },
+    {
+      "sl_no": 83,
+      "department_": "Red Bus",
+      "service": "Red Bus Ticket Booking and Cancellation"
+    },
+    {
+      "sl_no": "NA",
+      "department_": "NA",
+      "service": "NA"
+    },
+    {
+      "sl_no": 1,
+      "department_": "Vodafone",
+      "service": "Payment of Bills"
+    },
+    {
+      "sl_no": 2,
+      "department_": "Namaste Media",
+      "service": "Subscription for Government job alerts"
+    },
+    {
+      "sl_no": 3,
+      "department_": "Idea Cellular",
+      "service": "Payment of post paid Bills"
+    },
+    {
+      "sl_no": 4,
+      "department_": "Desk Nine Pvt Ltd",
+      "service": "Faclitation of legal documentation services   Legal desk com"
+    },
+    {
+      "sl_no": 5,
+      "department_": "Prop wiser",
+      "service": "Assisted digital loan services"
+    }
+  ]
+}

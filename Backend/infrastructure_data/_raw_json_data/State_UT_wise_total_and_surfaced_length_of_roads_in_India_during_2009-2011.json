@@ -1,0 +1,562 @@
+{
+  "index_name": "6f25cce4-6da3-4b67-9ed8-3bd9340d3a6d",
+  "title": "State/UT wise total and surfaced length of roads in India during 2009-2011",
+  "desc": "State/UT wise total and surfaced length of roads in India during 2009-2011",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Road Transport and Highways",
+    "Ministry of Road Transport and Highways"
+  ],
+  "sector": [
+    "Road Transport",
+    "Transport"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "4209850d-b4f0-4da1-85e2-23b6045ef38e",
+  "visualizable": "1",
+  "active": "1",
+  "field": [
+    {
+      "id": "states_uts",
+      "name": "States/UTs",
+      "type": "keyword"
+    },
+    {
+      "id": "total__surfaced",
+      "name": "Total/ Surfaced",
+      "type": "keyword"
+    },
+    {
+      "id": "_2009",
+      "name": "2009",
+      "type": "double"
+    },
+    {
+      "id": "_2010",
+      "name": "2010",
+      "type": "double"
+    },
+    {
+      "id": "_2011",
+      "name": "2011",
+      "type": "double"
+    }
+  ],
+  "updated": 1543521311,
+  "updated_date": "2018-11-30T01:25:11Z",
+  "external_ws_url": "",
+  "external_ws": "0",
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 72,
+  "count": 72,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "states_uts": "Andhra Pradesh",
+      "total__surfaced": "T",
+      "_2009": "232280",
+      "_2010": "235678",
+      "_2011": "238001"
+    },
+    {
+      "states_uts": "Andhra Pradesh",
+      "total__surfaced": "S",
+      "_2009": "149335",
+      "_2010": "153134",
+      "_2011": "155579"
+    },
+    {
+      "states_uts": "Arunachal Pradesh",
+      "total__surfaced": "T",
+      "_2009": "20384",
+      "_2010": "21122",
+      "_2011": "21555"
+    },
+    {
+      "states_uts": "Arunachal Pradesh",
+      "total__surfaced": "S",
+      "_2009": "13314",
+      "_2010": "13959",
+      "_2011": "14336"
+    },
+    {
+      "states_uts": "Assam",
+      "total__surfaced": "T",
+      "_2009": "236985",
+      "_2010": "239394",
+      "_2011": "241789"
+    },
+    {
+      "states_uts": "Assam",
+      "total__surfaced": "S",
+      "_2009": "33405",
+      "_2010": "35622",
+      "_2011": "37816"
+    },
+    {
+      "states_uts": "Bihar",
+      "total__surfaced": "T",
+      "_2009": "124363",
+      "_2010": "128034",
+      "_2011": "130642"
+    },
+    {
+      "states_uts": "Bihar",
+      "total__surfaced": "S",
+      "_2009": "50941",
+      "_2010": "54601",
+      "_2011": "57198"
+    },
+    {
+      "states_uts": "Chhattisgarh",
+      "total__surfaced": "T",
+      "_2009": "87733",
+      "_2010": "91477",
+      "_2011": "93965"
+    },
+    {
+      "states_uts": "Chhattisgarh",
+      "total__surfaced": "S",
+      "_2009": "57843",
+      "_2010": "61769",
+      "_2011": "64078"
+    },
+    {
+      "states_uts": "Goa",
+      "total__surfaced": "T",
+      "_2009": "10189",
+      "_2010": "10356",
+      "_2011": "10627"
+    },
+    {
+      "states_uts": "Goa",
+      "total__surfaced": "S",
+      "_2009": "7310",
+      "_2010": "7359",
+      "_2011": "7531"
+    },
+    {
+      "states_uts": "Gujarat",
+      "total__surfaced": "T",
+      "_2009": "153522",
+      "_2010": "155614",
+      "_2011": "156188"
+    },
+    {
+      "states_uts": "Gujarat",
+      "total__surfaced": "S",
+      "_2009": "138743",
+      "_2010": "140991",
+      "_2011": "141565"
+    },
+    {
+      "states_uts": "Haryana",
+      "total__surfaced": "T",
+      "_2009": "36032",
+      "_2010": "37276",
+      "_2011": "41729"
+    },
+    {
+      "states_uts": "Haryana",
+      "total__surfaced": "S",
+      "_2009": "32897",
+      "_2010": "34305",
+      "_2011": "37701"
+    },
+    {
+      "states_uts": "Himachal Pradesh",
+      "total__surfaced": "T",
+      "_2009": "44467",
+      "_2010": "46734",
+      "_2011": "47963"
+    },
+    {
+      "states_uts": "Himachal Pradesh",
+      "total__surfaced": "S",
+      "_2009": "29269",
+      "_2010": "31832",
+      "_2011": "33247"
+    },
+    {
+      "states_uts": "Jammu and Kashmir",
+      "total__surfaced": "T",
+      "_2009": "24581",
+      "_2010": "25770",
+      "_2011": "26980"
+    },
+    {
+      "states_uts": "Jammu and Kashmir",
+      "total__surfaced": "S",
+      "_2009": "11468",
+      "_2010": "13024",
+      "_2011": "14178"
+    },
+    {
+      "states_uts": "Jharkhand",
+      "total__surfaced": "T",
+      "_2009": "20772",
+      "_2010": "22302",
+      "_2011": "23903"
+    },
+    {
+      "states_uts": "Jharkhand",
+      "total__surfaced": "S",
+      "_2009": "13249",
+      "_2010": "14779",
+      "_2011": "16379"
+    },
+    {
+      "states_uts": "Karnataka",
+      "total__surfaced": "T",
+      "_2009": "274896",
+      "_2010": "280147",
+      "_2011": "281773"
+    },
+    {
+      "states_uts": "Karnataka",
+      "total__surfaced": "S",
+      "_2009": "172164",
+      "_2010": "177188",
+      "_2011": "179099"
+    },
+    {
+      "states_uts": "Kerala",
+      "total__surfaced": "T",
+      "_2009": "200625",
+      "_2010": "200928",
+      "_2011": "201220"
+    },
+    {
+      "states_uts": "Kerala",
+      "total__surfaced": "S",
+      "_2009": "109936",
+      "_2010": "110328",
+      "_2011": "110359"
+    },
+    {
+      "states_uts": "Madhya Pradesh",
+      "total__surfaced": "T",
+      "_2009": "185898",
+      "_2010": "189915",
+      "_2011": "197293"
+    },
+    {
+      "states_uts": "Madhya Pradesh",
+      "total__surfaced": "S",
+      "_2009": "104320",
+      "_2010": "112204",
+      "_2011": "119921"
+    },
+    {
+      "states_uts": "Maharashtra",
+      "total__surfaced": "T",
+      "_2009": "399416",
+      "_2010": "406660",
+      "_2011": "410521"
+    },
+    {
+      "states_uts": "Maharashtra",
+      "total__surfaced": "S",
+      "_2009": "327615",
+      "_2010": "336006",
+      "_2011": "339794"
+    },
+    {
+      "states_uts": "Manipur",
+      "total__surfaced": "T",
+      "_2009": "17724",
+      "_2010": "18604",
+      "_2011": "19133"
+    },
+    {
+      "states_uts": "Manipur",
+      "total__surfaced": "S",
+      "_2009": "6732",
+      "_2010": "7612",
+      "_2011": "8140"
+    },
+    {
+      "states_uts": "Meghalaya",
+      "total__surfaced": "T",
+      "_2009": "11019",
+      "_2010": "11702",
+      "_2011": "11984"
+    },
+    {
+      "states_uts": "Meghalaya",
+      "total__surfaced": "S",
+      "_2009": "6615",
+      "_2010": "6758",
+      "_2011": "7072"
+    },
+    {
+      "states_uts": "Mizoram",
+      "total__surfaced": "T",
+      "_2009": "7742",
+      "_2010": "8727",
+      "_2011": "9810"
+    },
+    {
+      "states_uts": "Mizoram",
+      "total__surfaced": "S",
+      "_2009": "6383",
+      "_2010": "6929",
+      "_2011": "7001"
+    },
+    {
+      "states_uts": "Nagaland",
+      "total__surfaced": "T",
+      "_2009": "32597",
+      "_2010": "33423",
+      "_2011": "34146"
+    },
+    {
+      "states_uts": "Nagaland",
+      "total__surfaced": "S",
+      "_2009": "14518",
+      "_2010": "15076",
+      "_2011": "15470"
+    },
+    {
+      "states_uts": "Odisha",
+      "total__surfaced": "T",
+      "_2009": "229132",
+      "_2010": "233524",
+      "_2011": "258836"
+    },
+    {
+      "states_uts": "Odisha",
+      "total__surfaced": "S",
+      "_2009": "42659",
+      "_2010": "46767",
+      "_2011": "58719"
+    },
+    {
+      "states_uts": "Punjab",
+      "total__surfaced": "T",
+      "_2009": "77912",
+      "_2010": "81899",
+      "_2011": "84193"
+    },
+    {
+      "states_uts": "Punjab",
+      "total__surfaced": "S",
+      "_2009": "70330",
+      "_2010": "74319",
+      "_2011": "76612"
+    },
+    {
+      "states_uts": "Rajasthan",
+      "total__surfaced": "T",
+      "_2009": "217543",
+      "_2010": "223300",
+      "_2011": "241318"
+    },
+    {
+      "states_uts": "Rajasthan",
+      "total__surfaced": "S",
+      "_2009": "170757",
+      "_2010": "176964",
+      "_2011": "194979"
+    },
+    {
+      "states_uts": "Sikkim",
+      "total__surfaced": "T",
+      "_2009": "4199",
+      "_2010": "4420",
+      "_2011": "4630"
+    },
+    {
+      "states_uts": "Sikkim",
+      "total__surfaced": "S",
+      "_2009": "3719",
+      "_2010": "3940",
+      "_2011": "4119"
+    },
+    {
+      "states_uts": "Tamil Nadu",
+      "total__surfaced": "T",
+      "_2009": "188037",
+      "_2010": "190055",
+      "_2011": "192339"
+    },
+    {
+      "states_uts": "Tamil Nadu",
+      "total__surfaced": "S",
+      "_2009": "154171",
+      "_2010": "156190",
+      "_2011": "158473"
+    },
+    {
+      "states_uts": "Tripura",
+      "total__surfaced": "T",
+      "_2009": "32767",
+      "_2010": "33338",
+      "_2011": "33772"
+    },
+    {
+      "states_uts": "Tripura",
+      "total__surfaced": "S",
+      "_2009": "13217",
+      "_2010": "13760",
+      "_2011": "14203"
+    },
+    {
+      "states_uts": "Uttarakhand",
+      "total__surfaced": "T",
+      "_2009": "44332",
+      "_2010": "46836",
+      "_2011": "49277"
+    },
+    {
+      "states_uts": "Uttarakhand",
+      "total__surfaced": "S",
+      "_2009": "23516",
+      "_2010": "25193",
+      "_2011": "26664"
+    },
+    {
+      "states_uts": "Uttar Pradesh",
+      "total__surfaced": "T",
+      "_2009": "329185",
+      "_2010": "376278",
+      "_2011": "390256"
+    },
+    {
+      "states_uts": "Uttar Pradesh",
+      "total__surfaced": "S",
+      "_2009": "244502",
+      "_2010": "283135",
+      "_2011": "297674"
+    },
+    {
+      "states_uts": "West Bengal",
+      "total__surfaced": "T",
+      "_2009": "290170",
+      "_2010": "291805",
+      "_2011": "299209"
+    },
+    {
+      "states_uts": "West Bengal",
+      "total__surfaced": "S",
+      "_2009": "104617",
+      "_2010": "108000",
+      "_2011": "115534"
+    },
+    {
+      "states_uts": "Andaman and Nicobar Islands",
+      "total__surfaced": "T",
+      "_2009": "1297",
+      "_2010": "1302",
+      "_2011": "1386"
+    },
+    {
+      "states_uts": "Andaman and Nicobar Islands",
+      "total__surfaced": "S",
+      "_2009": "1073",
+      "_2010": "1073",
+      "_2011": "1156"
+    },
+    {
+      "states_uts": "Chandigarh",
+      "total__surfaced": "T",
+      "_2009": "2246",
+      "_2010": "2264",
+      "_2011": "2284"
+    },
+    {
+      "states_uts": "Chandigarh",
+      "total__surfaced": "S",
+      "_2009": "2246",
+      "_2010": "2264",
+      "_2011": "2284"
+    },
+    {
+      "states_uts": "Dadra and Nagar Haveli",
+      "total__surfaced": "T",
+      "_2009": "758",
+      "_2010": "787",
+      "_2011": "808"
+    },
+    {
+      "states_uts": "Dadra and Nagar Haveli",
+      "total__surfaced": "S",
+      "_2009": "753",
+      "_2010": "784",
+      "_2011": "806"
+    },
+    {
+      "states_uts": "Daman and Diu",
+      "total__surfaced": "T",
+      "_2009": "229",
+      "_2010": "229",
+      "_2011": "236"
+    },
+    {
+      "states_uts": "Daman and Diu",
+      "total__surfaced": "S",
+      "_2009": "229",
+      "_2010": "229",
+      "_2011": "236"
+    },
+    {
+      "states_uts": "Delhi",
+      "total__surfaced": "T",
+      "_2009": "29589",
+      "_2010": "29627",
+      "_2011": "29648"
+    },
+    {
+      "states_uts": "Delhi",
+      "total__surfaced": "S",
+      "_2009": "20903",
+      "_2010": "20942",
+      "_2011": "20962"
+    },
+    {
+      "states_uts": "Lakshadweep",
+      "total__surfaced": "T",
+      "_2009": "176",
+      "_2010": "182",
+      "_2011": "190"
+    },
+    {
+      "states_uts": "Lakshadweep",
+      "total__surfaced": "S",
+      "_2009": "176",
+      "_2010": "182",
+      "_2011": "190"
+    },
+    {
+      "states_uts": "Puducherry",
+      "total__surfaced": "T",
+      "_2009": "2712",
+      "_2010": "2727",
+      "_2011": "2740"
+    },
+    {
+      "states_uts": "Puducherry",
+      "total__surfaced": "S",
+      "_2009": "2377",
+      "_2010": "2394",
+      "_2011": "2404"
+    },
+    {
+      "states_uts": "ALL INDIA(Excluding JRY Roads)",
+      "total__surfaced": "T",
+      "_2009": "3571510",
+      "_2010": "3682439",
+      "_2011": "3790342"
+    },
+    {
+      "states_uts": "ALL INDIA(Excluding JRY Roads)",
+      "total__surfaced": "S",
+      "_2009": "2141302",
+      "_2010": "2249611",
+      "_2011": "2341480"
+    }
+  ]
+}

@@ -1,0 +1,533 @@
+{
+  "index_name": "d0fb5a1f-cf7c-4e2e-8049-ea4d6a245b14",
+  "title": "State/UT-wise Number of Enrolments (Boys) by Management during 2021-22",
+  "desc": "State/UT-wise Number of Enrolments (Boys) by Management during 2021-22",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Education",
+    "Department of School Education and Literacy"
+  ],
+  "sector": [
+    "Education"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "80eac310-edaf-4462-b0b3-afcb24cbec59",
+  "visualizable": "0",
+  "active": "1",
+  "created": 1759230303,
+  "updated": 1759230303,
+  "created_date": "2025-09-30T13:05:03Z",
+  "updated_date": "2025-09-30T13:05:03Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "80eac310-edaf-4462-b0b3-afcb24cbec59",
+    "field": "d0fb5a1f-cf7c-4e2e-8049-ea4d6a245b14"
+  },
+  "field": [
+    {
+      "id": "india__state__ut",
+      "name": "India/ State/ UT",
+      "type": "keyword"
+    },
+    {
+      "id": "all_management",
+      "name": "All Management",
+      "type": "double"
+    },
+    {
+      "id": "government___total",
+      "name": "Government - Total",
+      "type": "double"
+    },
+    {
+      "id": "government___kvs",
+      "name": "Government - KVS",
+      "type": "double"
+    },
+    {
+      "id": "government___nvs",
+      "name": "Government - NVS",
+      "type": "double"
+    },
+    {
+      "id": "government___other_central_government",
+      "name": "Government - Other Central Government",
+      "type": "double"
+    },
+    {
+      "id": "government___state_government",
+      "name": "Government - State Government",
+      "type": "double"
+    },
+    {
+      "id": "government_aided",
+      "name": "Government Aided",
+      "type": "double"
+    },
+    {
+      "id": "private_unaided_recognized",
+      "name": "Private Unaided Recognized",
+      "type": "double"
+    },
+    {
+      "id": "others",
+      "name": "Others",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 37,
+  "count": 37,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "india__state__ut": "India",
+      "all_management": 137900578,
+      "government___total": 71178414,
+      "government___kvs": 746214,
+      "government___nvs": 168158,
+      "government___other_central_government": 104440,
+      "government___state_government": 70159602,
+      "government_aided": 13993799,
+      "private_unaided_recognized": 49171889,
+      "others": 3556476
+    },
+    {
+      "india__state__ut": "Andaman and Nicobar Islands",
+      "all_management": 37536,
+      "government___total": 25791,
+      "government___kvs": 1641,
+      "government___nvs": 335,
+      "government___other_central_government": "0",
+      "government___state_government": 23815,
+      "government_aided": 983,
+      "private_unaided_recognized": 10762,
+      "others": "0"
+    },
+    {
+      "india__state__ut": "Andhra Pradesh",
+      "all_management": 4278015,
+      "government___total": 2335660,
+      "government___kvs": 16254,
+      "government___nvs": 3587,
+      "government___other_central_government": 1305,
+      "government___state_government": 2314514,
+      "government_aided": 101995,
+      "private_unaided_recognized": 1833343,
+      "others": 7017
+    },
+    {
+      "india__state__ut": "Arunachal Pradesh",
+      "all_management": 177336,
+      "government___total": 112124,
+      "government___kvs": 4790,
+      "government___nvs": 2772,
+      "government___other_central_government": 290,
+      "government___state_government": 104272,
+      "government_aided": 10612,
+      "private_unaided_recognized": 52009,
+      "others": 2591
+    },
+    {
+      "india__state__ut": "Assam",
+      "all_management": 3720048,
+      "government___total": 2542662,
+      "government___kvs": 28021,
+      "government___nvs": 7456,
+      "government___other_central_government": 4852,
+      "government___state_government": 2502333,
+      "government_aided": 177473,
+      "private_unaided_recognized": 856490,
+      "others": 143423
+    },
+    {
+      "india__state__ut": "Bihar",
+      "all_management": 14054053,
+      "government___total": 10954072,
+      "government___kvs": 28739,
+      "government___nvs": 12480,
+      "government___other_central_government": 1811,
+      "government___state_government": 10911042,
+      "government_aided": 95122,
+      "private_unaided_recognized": 1930948,
+      "others": 1073911
+    },
+    {
+      "india__state__ut": "Chandigarh",
+      "all_management": 143711,
+      "government___total": 86721,
+      "government___kvs": 3959,
+      "government___nvs": 289,
+      "government___other_central_government": 924,
+      "government___state_government": 81549,
+      "government_aided": 4970,
+      "private_unaided_recognized": 48414,
+      "others": 3606
+    },
+    {
+      "india__state__ut": "Chhattisgarh",
+      "all_management": 3013246,
+      "government___total": 2087530,
+      "government___kvs": 18500,
+      "government___nvs": 6428,
+      "government___other_central_government": 2803,
+      "government___state_government": 2059799,
+      "government_aided": 37314,
+      "private_unaided_recognized": 881376,
+      "others": 7026
+    },
+    {
+      "india__state__ut": "Dadra and Nagar Haveli and Daman and Diu",
+      "all_management": 70068,
+      "government___total": 45925,
+      "government___kvs": 886,
+      "government___nvs": 657,
+      "government___other_central_government": "0",
+      "government___state_government": 44382,
+      "government_aided": 3812,
+      "private_unaided_recognized": 20331,
+      "others": "0"
+    },
+    {
+      "india__state__ut": "Delhi",
+      "all_management": 2411323,
+      "government___total": 1391010,
+      "government___kvs": 72506,
+      "government___nvs": 505,
+      "government___other_central_government": "0",
+      "government___state_government": 1317999,
+      "government_aided": 78837,
+      "private_unaided_recognized": 941476,
+      "others": "0"
+    },
+    {
+      "india__state__ut": "Goa",
+      "all_management": 157027,
+      "government___total": 22143,
+      "government___kvs": 2509,
+      "government___nvs": 385,
+      "government___other_central_government": "0",
+      "government___state_government": 19249,
+      "government_aided": 113993,
+      "private_unaided_recognized": 20891,
+      "others": "0"
+    },
+    {
+      "india__state__ut": "Gujarat",
+      "all_management": 6158736,
+      "government___total": 2820006,
+      "government___kvs": 23549,
+      "government___nvs": 7901,
+      "government___other_central_government": 1703,
+      "government___state_government": 2786853,
+      "government_aided": 952129,
+      "private_unaided_recognized": 2386067,
+      "others": 534
+    },
+    {
+      "india__state__ut": "Haryana",
+      "all_management": 3306187,
+      "government___total": 1304521,
+      "government___kvs": 19433,
+      "government___nvs": 5920,
+      "government___other_central_government": 1419,
+      "government___state_government": 1277749,
+      "government_aided": 4287,
+      "private_unaided_recognized": 1927140,
+      "others": 70239
+    },
+    {
+      "india__state__ut": "Himachal Pradesh",
+      "all_management": 752697,
+      "government___total": 455353,
+      "government___kvs": 8557,
+      "government___nvs": 2822,
+      "government___other_central_government": 2263,
+      "government___state_government": 441711,
+      "government_aided": "0",
+      "private_unaided_recognized": 297306,
+      "others": 38
+    },
+    {
+      "india__state__ut": "Jammu and Kashmir",
+      "all_management": 1423914,
+      "government___total": 740271,
+      "government___kvs": 15971,
+      "government___nvs": 4190,
+      "government___other_central_government": "0",
+      "government___state_government": 720110,
+      "government_aided": 100,
+      "private_unaided_recognized": 677809,
+      "others": 5734
+    },
+    {
+      "india__state__ut": "Jharkhand",
+      "all_management": 4060838,
+      "government___total": 2558012,
+      "government___kvs": 18517,
+      "government___nvs": 7041,
+      "government___other_central_government": 5139,
+      "government___state_government": 2527315,
+      "government_aided": 145658,
+      "private_unaided_recognized": 729927,
+      "others": 627241
+    },
+    {
+      "india__state__ut": "Karnataka",
+      "all_management": 6234114,
+      "government___total": 2664244,
+      "government___kvs": 32132,
+      "government___nvs": 6750,
+      "government___other_central_government": 4493,
+      "government___state_government": 2620869,
+      "government_aided": 767111,
+      "private_unaided_recognized": 2802254,
+      "others": 505
+    },
+    {
+      "india__state__ut": "Kerala",
+      "all_management": 3272192,
+      "government___total": 949784,
+      "government___kvs": 27138,
+      "government___nvs": 3698,
+      "government___other_central_government": 723,
+      "government___state_government": 918225,
+      "government_aided": 1423814,
+      "private_unaided_recognized": 841471,
+      "others": 57123
+    },
+    {
+      "india__state__ut": "Ladakh",
+      "all_management": 29663,
+      "government___total": 13549,
+      "government___kvs": 578,
+      "government___nvs": 412,
+      "government___other_central_government": 240,
+      "government___state_government": 12319,
+      "government_aided": 491,
+      "private_unaided_recognized": 15623,
+      "others": "0"
+    },
+    {
+      "india__state__ut": "Lakshadweep",
+      "all_management": 6997,
+      "government___total": 6997,
+      "government___kvs": 175,
+      "government___nvs": 104,
+      "government___other_central_government": "0",
+      "government___state_government": 6718,
+      "government_aided": "0",
+      "private_unaided_recognized": "0",
+      "others": "0"
+    },
+    {
+      "india__state__ut": "Madhya Pradesh",
+      "all_management": 8458385,
+      "government___total": 4678115,
+      "government___kvs": 62886,
+      "government___nvs": 16655,
+      "government___other_central_government": 3694,
+      "government___state_government": 4594880,
+      "government_aided": 59267,
+      "private_unaided_recognized": 3667679,
+      "others": 53324
+    },
+    {
+      "india__state__ut": "Maharashtra",
+      "all_management": 11954636,
+      "government___total": 2945392,
+      "government___kvs": 43728,
+      "government___nvs": 9000,
+      "government___other_central_government": 10006,
+      "government___state_government": 2882658,
+      "government_aided": 5352720,
+      "private_unaided_recognized": 3599537,
+      "others": 56987
+    },
+    {
+      "india__state__ut": "Manipur",
+      "all_management": 352199,
+      "government___total": 107269,
+      "government___kvs": 3181,
+      "government___nvs": 2829,
+      "government___other_central_government": 585,
+      "government___state_government": 100674,
+      "government_aided": 15340,
+      "private_unaided_recognized": 221327,
+      "others": 8263
+    },
+    {
+      "india__state__ut": "Meghalaya",
+      "all_management": 572522,
+      "government___total": 238253,
+      "government___kvs": 2825,
+      "government___nvs": 1885,
+      "government___other_central_government": "0",
+      "government___state_government": 233543,
+      "government_aided": 183878,
+      "private_unaided_recognized": 130162,
+      "others": 20229
+    },
+    {
+      "india__state__ut": "Mizoram",
+      "all_management": 156216,
+      "government___total": 73506,
+      "government___kvs": 1035,
+      "government___nvs": 859,
+      "government___other_central_government": 171,
+      "government___state_government": 71441,
+      "government_aided": 10380,
+      "private_unaided_recognized": 68679,
+      "others": 3651
+    },
+    {
+      "india__state__ut": "Nagaland",
+      "all_management": 222509,
+      "government___total": 81008,
+      "government___kvs": 1093,
+      "government___nvs": 1247,
+      "government___other_central_government": 655,
+      "government___state_government": 78013,
+      "government_aided": "0",
+      "private_unaided_recognized": 141462,
+      "others": 39
+    },
+    {
+      "india__state__ut": "Odisha",
+      "all_management": 3880763,
+      "government___total": 2639465,
+      "government___kvs": 30617,
+      "government___nvs": 8851,
+      "government___other_central_government": 1832,
+      "government___state_government": 2598165,
+      "government_aided": 430906,
+      "private_unaided_recognized": 752582,
+      "others": 57810
+    },
+    {
+      "india__state__ut": "Puducherry",
+      "all_management": 130772,
+      "government___total": 48128,
+      "government___kvs": 2478,
+      "government___nvs": 1004,
+      "government___other_central_government": "0",
+      "government___state_government": 44646,
+      "government_aided": 8857,
+      "private_unaided_recognized": 73787,
+      "others": "0"
+    },
+    {
+      "india__state__ut": "Punjab",
+      "all_management": 3319404,
+      "government___total": 1607943,
+      "government___kvs": 27336,
+      "government___nvs": 5331,
+      "government___other_central_government": 12998,
+      "government___state_government": 1562278,
+      "government_aided": 105972,
+      "private_unaided_recognized": 1604819,
+      "others": 670
+    },
+    {
+      "india__state__ut": "Rajasthan",
+      "all_management": 9451991,
+      "government___total": 4909937,
+      "government___kvs": 40584,
+      "government___nvs": 11701,
+      "government___other_central_government": 4802,
+      "government___state_government": 4852850,
+      "government_aided": "0",
+      "private_unaided_recognized": 4454188,
+      "others": 87866
+    },
+    {
+      "india__state__ut": "Sikkim",
+      "all_management": 68708,
+      "government___total": 41816,
+      "government___kvs": 526,
+      "government___nvs": 628,
+      "government___other_central_government": 211,
+      "government___state_government": 40451,
+      "government_aided": 1427,
+      "private_unaided_recognized": 25465,
+      "others": "0"
+    },
+    {
+      "india__state__ut": "Tamil Nadu",
+      "all_management": 6578995,
+      "government___total": 2650741,
+      "government___kvs": 32512,
+      "government___nvs": "0",
+      "government___other_central_government": 6033,
+      "government___state_government": 2612196,
+      "government_aided": 1079449,
+      "private_unaided_recognized": 2823713,
+      "others": 25092
+    },
+    {
+      "india__state__ut": "Telangana",
+      "all_management": 3585691,
+      "government___total": 1637887,
+      "government___kvs": 16029,
+      "government___nvs": 1802,
+      "government___other_central_government": 3614,
+      "government___state_government": 1616442,
+      "government_aided": 35353,
+      "private_unaided_recognized": 1909321,
+      "others": 3130
+    },
+    {
+      "india__state__ut": "Tripura",
+      "all_management": 359315,
+      "government___total": 265305,
+      "government___kvs": 3451,
+      "government___nvs": 1594,
+      "government___other_central_government": "0",
+      "government___state_government": 260260,
+      "government_aided": 15077,
+      "private_unaided_recognized": 70152,
+      "others": 8781
+    },
+    {
+      "india__state__ut": "Uttar Pradesh",
+      "all_management": 24875681,
+      "government___total": 9505072,
+      "government___kvs": 94052,
+      "government___nvs": 23169,
+      "government___other_central_government": 13398,
+      "government___state_government": 9374453,
+      "government_aided": 2677985,
+      "private_unaided_recognized": 11607534,
+      "others": 1085090
+    },
+    {
+      "india__state__ut": "Uttarakhand",
+      "all_management": 1296206,
+      "government___total": 477059,
+      "government___kvs": 23912,
+      "government___nvs": 3841,
+      "government___other_central_government": 1702,
+      "government___state_government": 447604,
+      "government_aided": 80409,
+      "private_unaided_recognized": 700356,
+      "others": 38382
+    },
+    {
+      "india__state__ut": "West Bengal",
+      "all_management": 9328884,
+      "government___total": 8155143,
+      "government___kvs": 36114,
+      "government___nvs": 4030,
+      "government___other_central_government": 16774,
+      "government___state_government": 8098225,
+      "government_aided": 18078,
+      "private_unaided_recognized": 1047489,
+      "others": 108174
+    }
+  ]
+}

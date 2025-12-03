@@ -1,0 +1,359 @@
+{
+  "index_name": "906282c5-28ca-45ad-997b-3b75eb68d741",
+  "title": "State Wise Distribution of Enterprises by Status of Operation, 2006-07",
+  "desc": "State Wise Distribution of Enterprises by Status of Operation, 2006-07",
+  "created": 1565005208,
+  "updated": 1565005208,
+  "created_date": "2019-08-05T17:10:08Z",
+  "updated_date": "2019-08-05T17:10:08Z",
+  "active": "1",
+  "visualizable": "1",
+  "catalog_uuid": "4f3de990-077c-4284-9965-fda47f548046",
+  "source": "data.gov.in",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Micro, Small and Medium Enterprises"
+  ],
+  "sector": [
+    "Industries",
+    "Micro",
+    "Small Scale",
+    "Medium"
+  ],
+  "field": [
+    {
+      "id": "state_ut_code_",
+      "name": "State/UT Code ",
+      "type": "keyword"
+    },
+    {
+      "id": "state_ut_name_",
+      "name": "State/UT Name                      ",
+      "type": "keyword"
+    },
+    {
+      "id": "working",
+      "name": "WORKING",
+      "type": "double"
+    },
+    {
+      "id": "closed",
+      "name": "CLOSED",
+      "type": "double"
+    },
+    {
+      "id": "non_traceable",
+      "name": "NON-TRACEABLE",
+      "type": "double"
+    },
+    {
+      "id": "_total",
+      "name": "TOTAL",
+      "type": "double"
+    }
+  ],
+  "target_bucket": {
+    "index": "api",
+    "type": "4f3de990-077c-4284-9965-fda47f548046",
+    "field": "906282c5-28ca-45ad-997b-3b75eb68d741"
+  },
+  "external_ws_url": "",
+  "external_ws": "0",
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 36,
+  "count": 36,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "state_ut_code_": "1",
+      "state_ut_name_": "JAMMU & KASHMIR",
+      "working": 14993,
+      "closed": 1831,
+      "non_traceable": 1521,
+      "_total": 18345
+    },
+    {
+      "state_ut_code_": "2",
+      "state_ut_name_": "HIMACHAL PRADESH",
+      "working": 11931,
+      "closed": 4034,
+      "non_traceable": 767,
+      "_total": 16732
+    },
+    {
+      "state_ut_code_": "3",
+      "state_ut_name_": "PUNJAB",
+      "working": 48110,
+      "closed": 24553,
+      "non_traceable": 4868,
+      "_total": 77531
+    },
+    {
+      "state_ut_code_": "4",
+      "state_ut_name_": "CHANDIGARH",
+      "working": 996,
+      "closed": 559,
+      "non_traceable": 271,
+      "_total": 1826
+    },
+    {
+      "state_ut_code_": "5",
+      "state_ut_name_": "UTTARAKHAND",
+      "working": 23765,
+      "closed": 8219,
+      "non_traceable": 2419,
+      "_total": 34403
+    },
+    {
+      "state_ut_code_": "6",
+      "state_ut_name_": "HARYANA",
+      "working": 33150,
+      "closed": 10973,
+      "non_traceable": 4120,
+      "_total": 48243
+    },
+    {
+      "state_ut_code_": "7",
+      "state_ut_name_": "DELHI",
+      "working": 3754,
+      "closed": 0,
+      "non_traceable": 0,
+      "_total": 3754
+    },
+    {
+      "state_ut_code_": "8",
+      "state_ut_name_": "RAJASTHAN",
+      "working": 54885,
+      "closed": 17342,
+      "non_traceable": 4752,
+      "_total": 76979
+    },
+    {
+      "state_ut_code_": "9",
+      "state_ut_name_": "UTTAR PRADESH",
+      "working": 187742,
+      "closed": 80616,
+      "non_traceable": 35231,
+      "_total": 303589
+    },
+    {
+      "state_ut_code_": "10",
+      "state_ut_name_": "BIHAR",
+      "working": 50036,
+      "closed": 16344,
+      "non_traceable": 4291,
+      "_total": 70671
+    },
+    {
+      "state_ut_code_": "11",
+      "state_ut_name_": "SIKKIM",
+      "working": 122,
+      "closed": 86,
+      "non_traceable": 0,
+      "_total": 208
+    },
+    {
+      "state_ut_code_": "12",
+      "state_ut_name_": "ARUNACHAL PRADESH",
+      "working": 417,
+      "closed": 167,
+      "non_traceable": 31,
+      "_total": 615
+    },
+    {
+      "state_ut_code_": "13",
+      "state_ut_name_": "NAGALAND",
+      "working": 1332,
+      "closed": 2395,
+      "non_traceable": 0,
+      "_total": 3727
+    },
+    {
+      "state_ut_code_": "14",
+      "state_ut_name_": "MANIPUR",
+      "working": 4492,
+      "closed": 929,
+      "non_traceable": 0,
+      "_total": 5421
+    },
+    {
+      "state_ut_code_": "15",
+      "state_ut_name_": "MIZORAM",
+      "working": 3715,
+      "closed": 669,
+      "non_traceable": 595,
+      "_total": 4979
+    },
+    {
+      "state_ut_code_": "16",
+      "state_ut_name_": "TRIPURA",
+      "working": 1343,
+      "closed": 424,
+      "non_traceable": 138,
+      "_total": 1905
+    },
+    {
+      "state_ut_code_": "17",
+      "state_ut_name_": "MEGHALAYA ",
+      "working": 3010,
+      "closed": 665,
+      "non_traceable": 467,
+      "_total": 4142
+    },
+    {
+      "state_ut_code_": "18",
+      "state_ut_name_": "ASSAM",
+      "working": 19864,
+      "closed": 6266,
+      "non_traceable": 4209,
+      "_total": 30339
+    },
+    {
+      "state_ut_code_": "19",
+      "state_ut_name_": "WEST BENGAL",
+      "working": 43259,
+      "closed": 10708,
+      "non_traceable": 10644,
+      "_total": 64611
+    },
+    {
+      "state_ut_code_": "20",
+      "state_ut_name_": "JHARKHAND",
+      "working": 18190,
+      "closed": 3712,
+      "non_traceable": 5711,
+      "_total": 27613
+    },
+    {
+      "state_ut_code_": "21",
+      "state_ut_name_": "ORISSA",
+      "working": 19606,
+      "closed": 5744,
+      "non_traceable": 1123,
+      "_total": 26473
+    },
+    {
+      "state_ut_code_": "22",
+      "state_ut_name_": "CHHATTISGARH",
+      "working": 22768,
+      "closed": 15485,
+      "non_traceable": 4609,
+      "_total": 42862
+    },
+    {
+      "state_ut_code_": "23",
+      "state_ut_name_": "MADHYA PRADESH",
+      "working": 106997,
+      "closed": 36502,
+      "non_traceable": 10957,
+      "_total": 154456
+    },
+    {
+      "state_ut_code_": "24",
+      "state_ut_name_": "GUJARAT",
+      "working": 229830,
+      "closed": 34945,
+      "non_traceable": 22745,
+      "_total": 287520
+    },
+    {
+      "state_ut_code_": "25",
+      "state_ut_name_": "DAMAN & DIU",
+      "working": 594,
+      "closed": 24,
+      "non_traceable": 27,
+      "_total": 645
+    },
+    {
+      "state_ut_code_": "26",
+      "state_ut_name_": "DADRA & NAGAR HAVELI ",
+      "working": 1716,
+      "closed": 0,
+      "non_traceable": 110,
+      "_total": 1826
+    },
+    {
+      "state_ut_code_": "27",
+      "state_ut_name_": "MAHARASHTRA",
+      "working": 86586,
+      "closed": 41856,
+      "non_traceable": 34383,
+      "_total": 162825
+    },
+    {
+      "state_ut_code_": "28",
+      "state_ut_name_": "ANDHRA PRADESH ",
+      "working": 45692,
+      "closed": 2250,
+      "non_traceable": 991,
+      "_total": 48933
+    },
+    {
+      "state_ut_code_": "29",
+      "state_ut_name_": "KARNATAKA",
+      "working": 136186,
+      "closed": 47581,
+      "non_traceable": 7648,
+      "_total": 191415
+    },
+    {
+      "state_ut_code_": "30",
+      "state_ut_name_": "GOA",
+      "working": 2621,
+      "closed": 2754,
+      "non_traceable": 1771,
+      "_total": 7146
+    },
+    {
+      "state_ut_code_": "31",
+      "state_ut_name_": "LAKSHADWEEP",
+      "working": 2,
+      "closed": 0,
+      "non_traceable": 0,
+      "_total": 2
+    },
+    {
+      "state_ut_code_": "32",
+      "state_ut_name_": "KERALA",
+      "working": 150188,
+      "closed": 34903,
+      "non_traceable": 18389,
+      "_total": 203480
+    },
+    {
+      "state_ut_code_": "33",
+      "state_ut_name_": "TAMIL NADU",
+      "working": 233881,
+      "closed": 82966,
+      "non_traceable": 4530,
+      "_total": 321377
+    },
+    {
+      "state_ut_code_": "34",
+      "state_ut_name_": "PUDUCHERRY",
+      "working": 1451,
+      "closed": 711,
+      "non_traceable": 222,
+      "_total": 2384
+    },
+    {
+      "state_ut_code_": "35",
+      "state_ut_name_": "ANDAMAN & NICOBAR ILS.",
+      "working": 750,
+      "closed": 142,
+      "non_traceable": 142,
+      "_total": 1034
+    },
+    {
+      "state_ut_code_": "NA",
+      "state_ut_name_": "All India ",
+      "working": 1563974,
+      "closed": 496355,
+      "non_traceable": 187682,
+      "_total": 2248011
+    }
+  ]
+}

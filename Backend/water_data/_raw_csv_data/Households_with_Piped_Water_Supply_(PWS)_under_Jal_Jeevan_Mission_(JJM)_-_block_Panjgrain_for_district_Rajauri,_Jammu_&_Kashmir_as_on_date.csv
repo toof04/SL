@@ -1,0 +1,39 @@
+state_name,district_name,block_name,panchayat_name,villagen_name,habitation_name,habitation_id,households,house_connection_by_pws,ispws,gen_current_pop,sc_current_pop,st_current_pop,total_current_pop,water_quality_contamination,update_date
+"Jammu & Kashmir",Rajauri,Panjgrain,"Thandi Kassi",NA,Chapperardar,0000358694,21,6,Yes,10,50,45,105,NA,2024-06-07
+"Jammu & Kashmir",Rajauri,Panjgrain,"Panjgrain Upper B",NA,Rakikore,0000358739,106,46,Yes,329,218,78,625,NA,2024-06-07
+"Jammu & Kashmir",Rajauri,Panjgrain,"Thandi Kassi",NA,"Chappar Dhara",0000358779,24,12,Yes,80,20,57,157,NA,2024-06-07
+"Jammu & Kashmir",Rajauri,Panjgrain,Palloolian,NA,Palooloian,0000358782,128,86,Yes,310,10,480,800,NA,2024-06-07
+"Jammu & Kashmir",Rajauri,Panjgrain,"Kakora Upper",NA,Kakora,0000358784,50,28,Yes,200,0,100,300,NA,2024-06-07
+"Jammu & Kashmir",Rajauri,Panjgrain,"Kakora Upper",NA,Kass,0000358812,53,8,Yes,218,0,100,318,NA,2024-06-07
+"Jammu & Kashmir",Rajauri,Panjgrain,Katarmal,NA,Mal,0000358813,172,9,Yes,60,0,800,860,NA,2024-06-07
+"Jammu & Kashmir",Rajauri,Panjgrain,"Thandi Kassi",NA,"Irwan Kheter",0000358847,116,4,Yes,235,350,10,595,NA,2024-06-07
+"Jammu & Kashmir",Rajauri,Panjgrain,"Tundi Trar",NA,Chanani,0000359075,24,0,Yes,65,10,75,150,NA,2024-06-07
+"Jammu & Kashmir",Rajauri,Panjgrain,"Tundi Trar",NA,Tundi,0000359135,26,2,Yes,86,10,65,161,NA,2024-06-07
+"Jammu & Kashmir",Rajauri,Panjgrain,"Tundi Trar",NA,"Lower Sadyal",0001727209,101,7,Yes,276,80,250,606,NA,2024-06-07
+"Jammu & Kashmir",Rajauri,Panjgrain,"Kakora Lower",NA,"Chakli Dari",0001809855,307,148,Yes,1172,0,500,1672,NA,2024-06-07
+"Jammu & Kashmir",Rajauri,Panjgrain,"Panjgrain Upper A",NA,Thandapani,0001810253,87,72,Yes,245,25,135,405,NA,2024-06-07
+"Jammu & Kashmir",Rajauri,Panjgrain,"Panjgrain Upper B",NA,"Mor. Thanda Paani",0000358791,83,67,Yes,174,0,402,576,NA,2024-06-07
+"Jammu & Kashmir",Rajauri,Panjgrain,Katarmal,NA,Tiali,0000358846,65,4,Yes,248,0,144,392,NA,2024-06-07
+"Jammu & Kashmir",Rajauri,Panjgrain,"Thandi Kassi",NA,"Mohalla Patrara",0001727211,91,8,Yes,289,50,200,539,NA,2024-06-07
+"Jammu & Kashmir",Rajauri,Panjgrain,"Kakora (middle)",NA,"Nalla Galla",0001813373,35,31,Yes,80,0,100,180,NA,2024-06-07
+"Jammu & Kashmir",Rajauri,Panjgrain,"Panjgrain Upper B",NA,"Noorani Mohalla",0000358708,108,25,Yes,242,18,575,835,NA,2024-06-07
+"Jammu & Kashmir",Rajauri,Panjgrain,"Panjgrain Upper A",NA,Paryali,0000358759,175,103,Yes,514,25,478,1017,NA,2024-06-07
+"Jammu & Kashmir",Rajauri,Panjgrain,Palloolian,NA,Kalan,0000358783,130,7,Yes,315,10,450,775,NA,2024-06-07
+"Jammu & Kashmir",Rajauri,Panjgrain,"Panj Grain Lower-a",NA,"Upper Chali",0000358844,88,21,Yes,255,25,250,530,NA,2024-06-07
+"Jammu & Kashmir",Rajauri,Panjgrain,"Kakora (middle)",NA,Kakora,0000358789,205,92,Yes,720,0,600,1320,NA,2024-06-07
+"Jammu & Kashmir",Rajauri,Panjgrain,Palloolian,NA,"Ninga Nar",0000358790,77,27,Yes,162,4,300,466,NA,2024-06-07
+"Jammu & Kashmir",Rajauri,Panjgrain,"Panj Grain Lower-b",NA,"Naka Tayasala",0000358794,82,47,Yes,161,50,285,496,NA,2024-06-07
+"Jammu & Kashmir",Rajauri,Panjgrain,"Tundi Trar",NA,Mankote,0000358922,50,4,Yes,206,45,54,305,NA,2024-06-07
+"Jammu & Kashmir",Rajauri,Panjgrain,"Kakora Upper",NA,Sadarian,0000358954,61,4,Yes,244,0,122,366,NA,2024-06-07
+"Jammu & Kashmir",Rajauri,Panjgrain,"Tundi Trar",NA,Khankhari,0000359057,269,150,Yes,868,150,600,1618,NA,2024-06-07
+"Jammu & Kashmir",Rajauri,Panjgrain,"Panjgrain Upper B",NA,Dubban,0001810255,30,25,Yes,45,0,125,170,NA,2024-06-07
+"Jammu & Kashmir",Rajauri,Panjgrain,"Panj Grain Lower-a",NA,Nallah,0000358663,150,111,Yes,750,25,100,875,NA,2024-06-07
+"Jammu & Kashmir",Rajauri,Panjgrain,Katarmal,NA,"Moh Gali",0000358673,146,0,Yes,530,0,200,730,NA,2024-06-07
+"Jammu & Kashmir",Rajauri,Panjgrain,"Tundi Trar",NA,"Charuiam Mohra",0000358705,50,13,Yes,207,40,50,297,NA,2024-06-07
+"Jammu & Kashmir",Rajauri,Panjgrain,"Thandi Kassi",NA,"Thandi Kassi",0000358706,180,110,Yes,580,220,29,829,NA,2024-06-07
+"Jammu & Kashmir",Rajauri,Panjgrain,"Tundi Trar",NA,Tunditrar,0000358780,17,7,Yes,33,14,70,117,NA,2024-06-07
+"Jammu & Kashmir",Rajauri,Panjgrain,"Tundi Trar",NA,Thulpura,0000358781,37,6,Yes,95,10,80,185,NA,2024-06-07
+"Jammu & Kashmir",Rajauri,Panjgrain,"Kakora Upper",NA,Dagoora,0000358785,60,30,Yes,170,0,200,370,NA,2024-06-07
+"Jammu & Kashmir",Rajauri,Panjgrain,"Thandi Kassi",NA,Chipper,0000358845,7,4,Yes,36,0,12,48,NA,2024-06-07
+"Jammu & Kashmir",Rajauri,Panjgrain,"Tundi Trar",NA,"Tundi Trar Upper",0000358959,50,0,Yes,150,0,100,250,NA,2024-06-07
+"Jammu & Kashmir",Rajauri,Panjgrain,"Kakora (middle)",NA,Doonga,0001727213,83,42,Yes,300,0,200,500,NA,2024-06-07

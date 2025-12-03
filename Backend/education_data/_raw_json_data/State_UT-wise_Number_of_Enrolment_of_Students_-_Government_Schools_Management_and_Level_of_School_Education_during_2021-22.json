@@ -1,0 +1,449 @@
+{
+  "index_name": "ff6dca55-6a53-49f1-957f-3eda5e68760b",
+  "title": "State/UT-wise Number of Enrolment of Students - Government Schools Management and Level of School Education during 2021-22",
+  "desc": "State/UT-wise Number of Enrolment of Students - Government Schools Management and Level of School Education during 2021-22",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Education",
+    "Department of School Education and Literacy"
+  ],
+  "sector": [
+    "Education"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "80eac310-edaf-4462-b0b3-afcb24cbec59",
+  "visualizable": "0",
+  "active": "1",
+  "created": 1757779018,
+  "updated": 1757779018,
+  "created_date": "2025-09-13T17:56:58Z",
+  "updated_date": "2025-09-13T17:56:58Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "80eac310-edaf-4462-b0b3-afcb24cbec59",
+    "field": "ff6dca55-6a53-49f1-957f-3eda5e68760b"
+  },
+  "field": [
+    {
+      "id": "india__state__ut",
+      "name": "India/ State /UT",
+      "type": "keyword"
+    },
+    {
+      "id": "enrolment___government_schools___total__pre_primary_to_12_",
+      "name": "Enrolment - Government Schools - Total (Pre-primary to 12)",
+      "type": "double"
+    },
+    {
+      "id": "enrolment___government_schools___pre__primary",
+      "name": "Enrolment - Government Schools - Pre- Primary",
+      "type": "double"
+    },
+    {
+      "id": "enrolment___government_schools___primary__1_to_5_",
+      "name": "Enrolment - Government Schools - Primary (1 to 5)",
+      "type": "double"
+    },
+    {
+      "id": "enrolment___government_schools___upper_primary__6_8_",
+      "name": "Enrolment - Government Schools - Upper Primary (6-8)",
+      "type": "double"
+    },
+    {
+      "id": "enrolment___government_schools___elementary__1_8_",
+      "name": "Enrolment - Government Schools - Elementary (1-8)",
+      "type": "double"
+    },
+    {
+      "id": "enrolment___government_schools___secondary__9_10_",
+      "name": "Enrolment - Government Schools - Secondary (9-10)",
+      "type": "double"
+    },
+    {
+      "id": "enrolment___government_schools___higher_secondary__11_12_",
+      "name": "Enrolment - Government Schools - Higher Secondary (11-12)",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 37,
+  "count": 37,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "india__state__ut": "India",
+      "enrolment___government_schools___total__pre_primary_to_12_": 143240480,
+      "enrolment___government_schools___pre__primary": 2741762,
+      "enrolment___government_schools___primary__1_to_5_": 73100775,
+      "enrolment___government_schools___upper_primary__6_8_": 37956891,
+      "enrolment___government_schools___elementary__1_8_": 111057666,
+      "enrolment___government_schools___secondary__9_10_": 17771002,
+      "enrolment___government_schools___higher_secondary__11_12_": 11670050
+    },
+    {
+      "india__state__ut": "Andaman and Nicobar Islands",
+      "enrolment___government_schools___total__pre_primary_to_12_": 51168,
+      "enrolment___government_schools___pre__primary": 3873,
+      "enrolment___government_schools___primary__1_to_5_": 15673,
+      "enrolment___government_schools___upper_primary__6_8_": 12755,
+      "enrolment___government_schools___elementary__1_8_": 28428,
+      "enrolment___government_schools___secondary__9_10_": 9277,
+      "enrolment___government_schools___higher_secondary__11_12_": 9590
+    },
+    {
+      "india__state__ut": "Andhra Pradesh",
+      "enrolment___government_schools___total__pre_primary_to_12_": 4696207,
+      "enrolment___government_schools___pre__primary": 4588,
+      "enrolment___government_schools___primary__1_to_5_": 2213248,
+      "enrolment___government_schools___upper_primary__6_8_": 1380126,
+      "enrolment___government_schools___elementary__1_8_": 3593374,
+      "enrolment___government_schools___secondary__9_10_": 835982,
+      "enrolment___government_schools___higher_secondary__11_12_": 262263
+    },
+    {
+      "india__state__ut": "Arunachal Pradesh",
+      "enrolment___government_schools___total__pre_primary_to_12_": 233908,
+      "enrolment___government_schools___pre__primary": 8345,
+      "enrolment___government_schools___primary__1_to_5_": 100672,
+      "enrolment___government_schools___upper_primary__6_8_": 59742,
+      "enrolment___government_schools___elementary__1_8_": 160414,
+      "enrolment___government_schools___secondary__9_10_": 35501,
+      "enrolment___government_schools___higher_secondary__11_12_": 29648
+    },
+    {
+      "india__state__ut": "Assam",
+      "enrolment___government_schools___total__pre_primary_to_12_": 5277671,
+      "enrolment___government_schools___pre__primary": 229196,
+      "enrolment___government_schools___primary__1_to_5_": 2735536,
+      "enrolment___government_schools___upper_primary__6_8_": 1313908,
+      "enrolment___government_schools___elementary__1_8_": 4049444,
+      "enrolment___government_schools___secondary__9_10_": 677667,
+      "enrolment___government_schools___higher_secondary__11_12_": 321364
+    },
+    {
+      "india__state__ut": "Bihar",
+      "enrolment___government_schools___total__pre_primary_to_12_": 21989445,
+      "enrolment___government_schools___pre__primary": "0",
+      "enrolment___government_schools___primary__1_to_5_": 11619527,
+      "enrolment___government_schools___upper_primary__6_8_": 6049114,
+      "enrolment___government_schools___elementary__1_8_": 17668641,
+      "enrolment___government_schools___secondary__9_10_": 3001604,
+      "enrolment___government_schools___higher_secondary__11_12_": 1319200
+    },
+    {
+      "india__state__ut": "Chandigarh",
+      "enrolment___government_schools___total__pre_primary_to_12_": 165156,
+      "enrolment___government_schools___pre__primary": 7960,
+      "enrolment___government_schools___primary__1_to_5_": 57418,
+      "enrolment___government_schools___upper_primary__6_8_": 42186,
+      "enrolment___government_schools___elementary__1_8_": 99604,
+      "enrolment___government_schools___secondary__9_10_": 29054,
+      "enrolment___government_schools___higher_secondary__11_12_": 28538
+    },
+    {
+      "india__state__ut": "Chhattisgarh",
+      "enrolment___government_schools___total__pre_primary_to_12_": 4262053,
+      "enrolment___government_schools___pre__primary": 3217,
+      "enrolment___government_schools___primary__1_to_5_": 1899255,
+      "enrolment___government_schools___upper_primary__6_8_": 1123675,
+      "enrolment___government_schools___elementary__1_8_": 3022930,
+      "enrolment___government_schools___secondary__9_10_": 654457,
+      "enrolment___government_schools___higher_secondary__11_12_": 581449
+    },
+    {
+      "india__state__ut": "Dadra and Nagar Haveli and Daman and Diu",
+      "enrolment___government_schools___total__pre_primary_to_12_": 91026,
+      "enrolment___government_schools___pre__primary": 1919,
+      "enrolment___government_schools___primary__1_to_5_": 41492,
+      "enrolment___government_schools___upper_primary__6_8_": 24883,
+      "enrolment___government_schools___elementary__1_8_": 66375,
+      "enrolment___government_schools___secondary__9_10_": 12486,
+      "enrolment___government_schools___higher_secondary__11_12_": 10246
+    },
+    {
+      "india__state__ut": "Delhi",
+      "enrolment___government_schools___total__pre_primary_to_12_": 2796676,
+      "enrolment___government_schools___pre__primary": 123775,
+      "enrolment___government_schools___primary__1_to_5_": 984121,
+      "enrolment___government_schools___upper_primary__6_8_": 761605,
+      "enrolment___government_schools___elementary__1_8_": 1745726,
+      "enrolment___government_schools___secondary__9_10_": 489166,
+      "enrolment___government_schools___higher_secondary__11_12_": 438009
+    },
+    {
+      "india__state__ut": "Goa",
+      "enrolment___government_schools___total__pre_primary_to_12_": 42932,
+      "enrolment___government_schools___pre__primary": 970,
+      "enrolment___government_schools___primary__1_to_5_": 23933,
+      "enrolment___government_schools___upper_primary__6_8_": 7946,
+      "enrolment___government_schools___elementary__1_8_": 31879,
+      "enrolment___government_schools___secondary__9_10_": 5164,
+      "enrolment___government_schools___higher_secondary__11_12_": 4919
+    },
+    {
+      "india__state__ut": "Gujarat",
+      "enrolment___government_schools___total__pre_primary_to_12_": 5570875,
+      "enrolment___government_schools___pre__primary": 5476,
+      "enrolment___government_schools___primary__1_to_5_": 3378980,
+      "enrolment___government_schools___upper_primary__6_8_": 1916527,
+      "enrolment___government_schools___elementary__1_8_": 5295507,
+      "enrolment___government_schools___secondary__9_10_": 189807,
+      "enrolment___government_schools___higher_secondary__11_12_": 80085
+    },
+    {
+      "india__state__ut": "Haryana",
+      "enrolment___government_schools___total__pre_primary_to_12_": 2602484,
+      "enrolment___government_schools___pre__primary": 5994,
+      "enrolment___government_schools___primary__1_to_5_": 1158500,
+      "enrolment___government_schools___upper_primary__6_8_": 639237,
+      "enrolment___government_schools___elementary__1_8_": 1797737,
+      "enrolment___government_schools___secondary__9_10_": 426690,
+      "enrolment___government_schools___higher_secondary__11_12_": 372063
+    },
+    {
+      "india__state__ut": "Himachal Pradesh",
+      "enrolment___government_schools___total__pre_primary_to_12_": 900749,
+      "enrolment___government_schools___pre__primary": 42660,
+      "enrolment___government_schools___primary__1_to_5_": 312276,
+      "enrolment___government_schools___upper_primary__6_8_": 219891,
+      "enrolment___government_schools___elementary__1_8_": 532167,
+      "enrolment___government_schools___secondary__9_10_": 144961,
+      "enrolment___government_schools___higher_secondary__11_12_": 180961
+    },
+    {
+      "india__state__ut": "Jammu and Kashmir",
+      "enrolment___government_schools___total__pre_primary_to_12_": 1473368,
+      "enrolment___government_schools___pre__primary": 146162,
+      "enrolment___government_schools___primary__1_to_5_": 561361,
+      "enrolment___government_schools___upper_primary__6_8_": 310264,
+      "enrolment___government_schools___elementary__1_8_": 871625,
+      "enrolment___government_schools___secondary__9_10_": 209539,
+      "enrolment___government_schools___higher_secondary__11_12_": 246042
+    },
+    {
+      "india__state__ut": "Jharkhand",
+      "enrolment___government_schools___total__pre_primary_to_12_": 5242868,
+      "enrolment___government_schools___pre__primary": 39316,
+      "enrolment___government_schools___primary__1_to_5_": 2636425,
+      "enrolment___government_schools___upper_primary__6_8_": 1496650,
+      "enrolment___government_schools___elementary__1_8_": 4133075,
+      "enrolment___government_schools___secondary__9_10_": 665748,
+      "enrolment___government_schools___higher_secondary__11_12_": 404729
+    },
+    {
+      "india__state__ut": "Karnataka",
+      "enrolment___government_schools___total__pre_primary_to_12_": 5445989,
+      "enrolment___government_schools___pre__primary": 22415,
+      "enrolment___government_schools___primary__1_to_5_": 2670886,
+      "enrolment___government_schools___upper_primary__6_8_": 1596375,
+      "enrolment___government_schools___elementary__1_8_": 4267261,
+      "enrolment___government_schools___secondary__9_10_": 785939,
+      "enrolment___government_schools___higher_secondary__11_12_": 370374
+    },
+    {
+      "india__state__ut": "Kerala",
+      "enrolment___government_schools___total__pre_primary_to_12_": 1862020,
+      "enrolment___government_schools___pre__primary": 162285,
+      "enrolment___government_schools___primary__1_to_5_": 635814,
+      "enrolment___government_schools___upper_primary__6_8_": 397649,
+      "enrolment___government_schools___elementary__1_8_": 1033463,
+      "enrolment___government_schools___secondary__9_10_": 299108,
+      "enrolment___government_schools___higher_secondary__11_12_": 367164
+    },
+    {
+      "india__state__ut": "Ladakh",
+      "enrolment___government_schools___total__pre_primary_to_12_": 29312,
+      "enrolment___government_schools___pre__primary": 4690,
+      "enrolment___government_schools___primary__1_to_5_": 9227,
+      "enrolment___government_schools___upper_primary__6_8_": 5405,
+      "enrolment___government_schools___elementary__1_8_": 14632,
+      "enrolment___government_schools___secondary__9_10_": 4442,
+      "enrolment___government_schools___higher_secondary__11_12_": 5548
+    },
+    {
+      "india__state__ut": "Lakshadweep",
+      "enrolment___government_schools___total__pre_primary_to_12_": 13586,
+      "enrolment___government_schools___pre__primary": 1582,
+      "enrolment___government_schools___primary__1_to_5_": 5395,
+      "enrolment___government_schools___upper_primary__6_8_": 2813,
+      "enrolment___government_schools___elementary__1_8_": 8208,
+      "enrolment___government_schools___secondary__9_10_": 1873,
+      "enrolment___government_schools___higher_secondary__11_12_": 1923
+    },
+    {
+      "india__state__ut": "Madhya Pradesh",
+      "enrolment___government_schools___total__pre_primary_to_12_": 9429734,
+      "enrolment___government_schools___pre__primary": 27589,
+      "enrolment___government_schools___primary__1_to_5_": 4297754,
+      "enrolment___government_schools___upper_primary__6_8_": 2556002,
+      "enrolment___government_schools___elementary__1_8_": 6853756,
+      "enrolment___government_schools___secondary__9_10_": 1483412,
+      "enrolment___government_schools___higher_secondary__11_12_": 1064977
+    },
+    {
+      "india__state__ut": "Maharashtra",
+      "enrolment___government_schools___total__pre_primary_to_12_": 5853094,
+      "enrolment___government_schools___pre__primary": 84323,
+      "enrolment___government_schools___primary__1_to_5_": 4146871,
+      "enrolment___government_schools___upper_primary__6_8_": 1284649,
+      "enrolment___government_schools___elementary__1_8_": 5431520,
+      "enrolment___government_schools___secondary__9_10_": 255507,
+      "enrolment___government_schools___higher_secondary__11_12_": 81744
+    },
+    {
+      "india__state__ut": "Manipur",
+      "enrolment___government_schools___total__pre_primary_to_12_": 216636,
+      "enrolment___government_schools___pre__primary": 12490,
+      "enrolment___government_schools___primary__1_to_5_": 117141,
+      "enrolment___government_schools___upper_primary__6_8_": 38499,
+      "enrolment___government_schools___elementary__1_8_": 155640,
+      "enrolment___government_schools___secondary__9_10_": 22182,
+      "enrolment___government_schools___higher_secondary__11_12_": 26324
+    },
+    {
+      "india__state__ut": "Meghalaya",
+      "enrolment___government_schools___total__pre_primary_to_12_": 477232,
+      "enrolment___government_schools___pre__primary": 93770,
+      "enrolment___government_schools___primary__1_to_5_": 255386,
+      "enrolment___government_schools___upper_primary__6_8_": 108029,
+      "enrolment___government_schools___elementary__1_8_": 363415,
+      "enrolment___government_schools___secondary__9_10_": 11218,
+      "enrolment___government_schools___higher_secondary__11_12_": 8829
+    },
+    {
+      "india__state__ut": "Mizoram",
+      "enrolment___government_schools___total__pre_primary_to_12_": 143345,
+      "enrolment___government_schools___pre__primary": 10584,
+      "enrolment___government_schools___primary__1_to_5_": 70136,
+      "enrolment___government_schools___upper_primary__6_8_": 35705,
+      "enrolment___government_schools___elementary__1_8_": 105841,
+      "enrolment___government_schools___secondary__9_10_": 17005,
+      "enrolment___government_schools___higher_secondary__11_12_": 9915
+    },
+    {
+      "india__state__ut": "Nagaland",
+      "enrolment___government_schools___total__pre_primary_to_12_": 170219,
+      "enrolment___government_schools___pre__primary": 37249,
+      "enrolment___government_schools___primary__1_to_5_": 68157,
+      "enrolment___government_schools___upper_primary__6_8_": 35402,
+      "enrolment___government_schools___elementary__1_8_": 103559,
+      "enrolment___government_schools___secondary__9_10_": 19461,
+      "enrolment___government_schools___higher_secondary__11_12_": 9950
+    },
+    {
+      "india__state__ut": "Odisha",
+      "enrolment___government_schools___total__pre_primary_to_12_": 5255198,
+      "enrolment___government_schools___pre__primary": 2278,
+      "enrolment___government_schools___primary__1_to_5_": 2755665,
+      "enrolment___government_schools___upper_primary__6_8_": 1648036,
+      "enrolment___government_schools___elementary__1_8_": 4403701,
+      "enrolment___government_schools___secondary__9_10_": 750911,
+      "enrolment___government_schools___higher_secondary__11_12_": 98308
+    },
+    {
+      "india__state__ut": "Puducherry",
+      "enrolment___government_schools___total__pre_primary_to_12_": 97368,
+      "enrolment___government_schools___pre__primary": 9739,
+      "enrolment___government_schools___primary__1_to_5_": 34055,
+      "enrolment___government_schools___upper_primary__6_8_": 22519,
+      "enrolment___government_schools___elementary__1_8_": 56574,
+      "enrolment___government_schools___secondary__9_10_": 15384,
+      "enrolment___government_schools___higher_secondary__11_12_": 15671
+    },
+    {
+      "india__state__ut": "Punjab",
+      "enrolment___government_schools___total__pre_primary_to_12_": 3090436,
+      "enrolment___government_schools___pre__primary": 385031,
+      "enrolment___government_schools___primary__1_to_5_": 1103915,
+      "enrolment___government_schools___upper_primary__6_8_": 711062,
+      "enrolment___government_schools___elementary__1_8_": 1814977,
+      "enrolment___government_schools___secondary__9_10_": 448594,
+      "enrolment___government_schools___higher_secondary__11_12_": 441834
+    },
+    {
+      "india__state__ut": "Rajasthan",
+      "enrolment___government_schools___total__pre_primary_to_12_": 9912280,
+      "enrolment___government_schools___pre__primary": 4437,
+      "enrolment___government_schools___primary__1_to_5_": 4548975,
+      "enrolment___government_schools___upper_primary__6_8_": 2530415,
+      "enrolment___government_schools___elementary__1_8_": 7079390,
+      "enrolment___government_schools___secondary__9_10_": 1474241,
+      "enrolment___government_schools___higher_secondary__11_12_": 1354212
+    },
+    {
+      "india__state__ut": "Sikkim",
+      "enrolment___government_schools___total__pre_primary_to_12_": 84411,
+      "enrolment___government_schools___pre__primary": 6293,
+      "enrolment___government_schools___primary__1_to_5_": 22054,
+      "enrolment___government_schools___upper_primary__6_8_": 21149,
+      "enrolment___government_schools___elementary__1_8_": 43203,
+      "enrolment___government_schools___secondary__9_10_": 19159,
+      "enrolment___government_schools___higher_secondary__11_12_": 15756
+    },
+    {
+      "india__state__ut": "Tamil Nadu",
+      "enrolment___government_schools___total__pre_primary_to_12_": 5314845,
+      "enrolment___government_schools___pre__primary": 93808,
+      "enrolment___government_schools___primary__1_to_5_": 2080699,
+      "enrolment___government_schools___upper_primary__6_8_": 1414110,
+      "enrolment___government_schools___elementary__1_8_": 3494809,
+      "enrolment___government_schools___secondary__9_10_": 925673,
+      "enrolment___government_schools___higher_secondary__11_12_": 800555
+    },
+    {
+      "india__state__ut": "Telangana",
+      "enrolment___government_schools___total__pre_primary_to_12_": 3303699,
+      "enrolment___government_schools___pre__primary": 6175,
+      "enrolment___government_schools___primary__1_to_5_": 1452199,
+      "enrolment___government_schools___upper_primary__6_8_": 931282,
+      "enrolment___government_schools___elementary__1_8_": 2383481,
+      "enrolment___government_schools___secondary__9_10_": 590203,
+      "enrolment___government_schools___higher_secondary__11_12_": 323840
+    },
+    {
+      "india__state__ut": "Tripura",
+      "enrolment___government_schools___total__pre_primary_to_12_": 542892,
+      "enrolment___government_schools___pre__primary": 5527,
+      "enrolment___government_schools___primary__1_to_5_": 235548,
+      "enrolment___government_schools___upper_primary__6_8_": 145386,
+      "enrolment___government_schools___elementary__1_8_": 380934,
+      "enrolment___government_schools___secondary__9_10_": 90274,
+      "enrolment___government_schools___higher_secondary__11_12_": 66157
+    },
+    {
+      "india__state__ut": "Uttar Pradesh",
+      "enrolment___government_schools___total__pre_primary_to_12_": 19056651,
+      "enrolment___government_schools___pre__primary": 12711,
+      "enrolment___government_schools___primary__1_to_5_": 13587745,
+      "enrolment___government_schools___upper_primary__6_8_": 4824989,
+      "enrolment___government_schools___elementary__1_8_": 18412734,
+      "enrolment___government_schools___secondary__9_10_": 381606,
+      "enrolment___government_schools___higher_secondary__11_12_": 249600
+    },
+    {
+      "india__state__ut": "Uttarakhand",
+      "enrolment___government_schools___total__pre_primary_to_12_": 980808,
+      "enrolment___government_schools___pre__primary": 389,
+      "enrolment___government_schools___primary__1_to_5_": 429586,
+      "enrolment___government_schools___upper_primary__6_8_": 232969,
+      "enrolment___government_schools___elementary__1_8_": 662555,
+      "enrolment___government_schools___secondary__9_10_": 160915,
+      "enrolment___government_schools___higher_secondary__11_12_": 156949
+    },
+    {
+      "india__state__ut": "West Bengal",
+      "enrolment___government_schools___total__pre_primary_to_12_": 16564139,
+      "enrolment___government_schools___pre__primary": 1134946,
+      "enrolment___government_schools___primary__1_to_5_": 6835150,
+      "enrolment___government_schools___upper_primary__6_8_": 4055937,
+      "enrolment___government_schools___elementary__1_8_": 10891087,
+      "enrolment___government_schools___secondary__9_10_": 2626792,
+      "enrolment___government_schools___higher_secondary__11_12_": 1911314
+    }
+  ]
+}

@@ -1,0 +1,324 @@
+{
+  "index_name": "7a816151-f9ce-4c19-9155-91fc6a52e6e3",
+  "title": "All Uniform Police Personnel Killed/Injured on Duty during 2021",
+  "desc": "All Uniform Police Personnel Killed/Injured on Duty during 2021",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Home Affairs",
+    "Department of States",
+    "National Crime Records Bureau (NCRB)"
+  ],
+  "sector": [
+    "Police"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "83a258f3-6fd1-4a9a-911b-5207a0cfa136",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1679237103,
+  "updated": 1679286947,
+  "created_date": "2023-03-19T15:45:03Z",
+  "updated_date": "2023-03-20T10:05:47Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "83a258f3-6fd1-4a9a-911b-5207a0cfa136",
+    "field": "7a816151-f9ce-4c19-9155-91fc6a52e6e3"
+  },
+  "field": [
+    {
+      "id": "sl__no_",
+      "name": "Sl. No.",
+      "type": "keyword"
+    },
+    {
+      "id": "category",
+      "name": "Category",
+      "type": "keyword"
+    },
+    {
+      "id": "rank_of_police_personnel",
+      "name": "Rank of Police Personnel",
+      "type": "keyword"
+    },
+    {
+      "id": "by_north_east_insurgents",
+      "name": "by North East Insurgents",
+      "type": "double"
+    },
+    {
+      "id": "by_terrorists_extremists__zihadis",
+      "name": "By Terrorists/Extremists/ Zihadis",
+      "type": "double"
+    },
+    {
+      "id": "by_left_wing_extremists",
+      "name": "By Left Wing Extremists",
+      "type": "double"
+    },
+    {
+      "id": "in_border_firing",
+      "name": "in Border Firing",
+      "type": "double"
+    },
+    {
+      "id": "by_riotous_mobs",
+      "name": "by Riotous Mobs",
+      "type": "double"
+    },
+    {
+      "id": "by_criminals__gangsters__dacoits",
+      "name": "by Criminals/ Gangsters/ Dacoits",
+      "type": "double"
+    },
+    {
+      "id": "accidentally_with_self_weapon",
+      "name": "Accidentally with Self Weapon",
+      "type": "double"
+    },
+    {
+      "id": "in_accidents",
+      "name": "in Accidents",
+      "type": "double"
+    },
+    {
+      "id": "_total",
+      "name": "Total",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 16,
+  "count": 16,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "sl__no_": "1",
+      "category": "A) Personnel Killed in Police Operations",
+      "rank_of_police_personnel": "Constables",
+      "by_north_east_insurgents": "0",
+      "by_terrorists_extremists__zihadis": 12,
+      "by_left_wing_extremists": 20,
+      "in_border_firing": 8,
+      "by_riotous_mobs": "0",
+      "by_criminals__gangsters__dacoits": 6,
+      "accidentally_with_self_weapon": 6,
+      "in_accidents": 181,
+      "_total": 233
+    },
+    {
+      "sl__no_": "2",
+      "category": "A) Personnel Killed in Police Operations",
+      "rank_of_police_personnel": "Head Constables",
+      "by_north_east_insurgents": "0",
+      "by_terrorists_extremists__zihadis": "0",
+      "by_left_wing_extremists": 9,
+      "in_border_firing": 1,
+      "by_riotous_mobs": "0",
+      "by_criminals__gangsters__dacoits": 2,
+      "accidentally_with_self_weapon": "0",
+      "in_accidents": 88,
+      "_total": 100
+    },
+    {
+      "sl__no_": "3",
+      "category": "A) Personnel Killed in Police Operations",
+      "rank_of_police_personnel": "Assistant Sub-Inspectors",
+      "by_north_east_insurgents": "0",
+      "by_terrorists_extremists__zihadis": 2,
+      "by_left_wing_extremists": 1,
+      "in_border_firing": "0",
+      "by_riotous_mobs": "0",
+      "by_criminals__gangsters__dacoits": "0",
+      "accidentally_with_self_weapon": 1,
+      "in_accidents": 37,
+      "_total": 41
+    },
+    {
+      "sl__no_": "4",
+      "category": "A) Personnel Killed in Police Operations",
+      "rank_of_police_personnel": "Sub-Inspectors",
+      "by_north_east_insurgents": "0",
+      "by_terrorists_extremists__zihadis": 1,
+      "by_left_wing_extremists": 1,
+      "in_border_firing": 2,
+      "by_riotous_mobs": "0",
+      "by_criminals__gangsters__dacoits": 2,
+      "accidentally_with_self_weapon": "0",
+      "in_accidents": 26,
+      "_total": 32
+    },
+    {
+      "sl__no_": "5",
+      "category": "A) Personnel Killed in Police Operations",
+      "rank_of_police_personnel": "Inspectors",
+      "by_north_east_insurgents": "0",
+      "by_terrorists_extremists__zihadis": 1,
+      "by_left_wing_extremists": 1,
+      "in_border_firing": "0",
+      "by_riotous_mobs": 1,
+      "by_criminals__gangsters__dacoits": 1,
+      "accidentally_with_self_weapon": "0",
+      "in_accidents": 4,
+      "_total": 8
+    },
+    {
+      "sl__no_": "6",
+      "category": "A) Personnel Killed in Police Operations",
+      "rank_of_police_personnel": "Gazetted Officers",
+      "by_north_east_insurgents": "0",
+      "by_terrorists_extremists__zihadis": "0",
+      "by_left_wing_extremists": 1,
+      "in_border_firing": "0",
+      "by_riotous_mobs": "0",
+      "by_criminals__gangsters__dacoits": "0",
+      "accidentally_with_self_weapon": "0",
+      "in_accidents": 1,
+      "_total": 2
+    },
+    {
+      "sl__no_": "7",
+      "category": "A) Personnel Killed in Police Operations",
+      "rank_of_police_personnel": "Others",
+      "by_north_east_insurgents": "0",
+      "by_terrorists_extremists__zihadis": 2,
+      "by_left_wing_extremists": 7,
+      "in_border_firing": "0",
+      "by_riotous_mobs": "0",
+      "by_criminals__gangsters__dacoits": "0",
+      "accidentally_with_self_weapon": "0",
+      "in_accidents": 2,
+      "_total": 11
+    },
+    {
+      "sl__no_": "Total Police Personnel",
+      "category": "Total Police Personnel",
+      "rank_of_police_personnel": "Total Police Personnel",
+      "by_north_east_insurgents": "0",
+      "by_terrorists_extremists__zihadis": 18,
+      "by_left_wing_extremists": 40,
+      "in_border_firing": 11,
+      "by_riotous_mobs": 1,
+      "by_criminals__gangsters__dacoits": 11,
+      "accidentally_with_self_weapon": 7,
+      "in_accidents": 339,
+      "_total": 427
+    },
+    {
+      "sl__no_": "1",
+      "category": "B) Personnel Injured in Police Operations",
+      "rank_of_police_personnel": "Constables",
+      "by_north_east_insurgents": "0",
+      "by_terrorists_extremists__zihadis": 25,
+      "by_left_wing_extremists": 72,
+      "in_border_firing": 61,
+      "by_riotous_mobs": 323,
+      "by_criminals__gangsters__dacoits": 247,
+      "accidentally_with_self_weapon": 2,
+      "in_accidents": 221,
+      "_total": 951
+    },
+    {
+      "sl__no_": "2",
+      "category": "B) Personnel Injured in Police Operations",
+      "rank_of_police_personnel": "Head Constables",
+      "by_north_east_insurgents": "0",
+      "by_terrorists_extremists__zihadis": 5,
+      "by_left_wing_extremists": 15,
+      "in_border_firing": 1,
+      "by_riotous_mobs": 68,
+      "by_criminals__gangsters__dacoits": 55,
+      "accidentally_with_self_weapon": "0",
+      "in_accidents": 94,
+      "_total": 238
+    },
+    {
+      "sl__no_": "3",
+      "category": "B) Personnel Injured in Police Operations",
+      "rank_of_police_personnel": "Assistant Sub-Inspectors",
+      "by_north_east_insurgents": "0",
+      "by_terrorists_extremists__zihadis": 1,
+      "by_left_wing_extremists": 4,
+      "in_border_firing": "0",
+      "by_riotous_mobs": 32,
+      "by_criminals__gangsters__dacoits": 50,
+      "accidentally_with_self_weapon": "0",
+      "in_accidents": 19,
+      "_total": 106
+    },
+    {
+      "sl__no_": "4",
+      "category": "B) Personnel Injured in Police Operations",
+      "rank_of_police_personnel": "Sub-Inspectors",
+      "by_north_east_insurgents": "0",
+      "by_terrorists_extremists__zihadis": 1,
+      "by_left_wing_extremists": 6,
+      "in_border_firing": "0",
+      "by_riotous_mobs": 75,
+      "by_criminals__gangsters__dacoits": 93,
+      "accidentally_with_self_weapon": 1,
+      "in_accidents": 26,
+      "_total": 202
+    },
+    {
+      "sl__no_": "5",
+      "category": "B) Personnel Injured in Police Operations",
+      "rank_of_police_personnel": "Inspectors",
+      "by_north_east_insurgents": "0",
+      "by_terrorists_extremists__zihadis": "0",
+      "by_left_wing_extremists": 3,
+      "in_border_firing": "0",
+      "by_riotous_mobs": 24,
+      "by_criminals__gangsters__dacoits": 12,
+      "accidentally_with_self_weapon": "0",
+      "in_accidents": 5,
+      "_total": 44
+    },
+    {
+      "sl__no_": "6",
+      "category": "B) Personnel Injured in Police Operations",
+      "rank_of_police_personnel": "Gazetted Officers",
+      "by_north_east_insurgents": "0",
+      "by_terrorists_extremists__zihadis": "0",
+      "by_left_wing_extremists": 5,
+      "in_border_firing": "0",
+      "by_riotous_mobs": 9,
+      "by_criminals__gangsters__dacoits": 2,
+      "accidentally_with_self_weapon": "0",
+      "in_accidents": 2,
+      "_total": 18
+    },
+    {
+      "sl__no_": "7",
+      "category": "B) Personnel Injured in Police Operations",
+      "rank_of_police_personnel": "Others",
+      "by_north_east_insurgents": "0",
+      "by_terrorists_extremists__zihadis": 3,
+      "by_left_wing_extremists": 27,
+      "in_border_firing": "0",
+      "by_riotous_mobs": 18,
+      "by_criminals__gangsters__dacoits": 20,
+      "accidentally_with_self_weapon": "0",
+      "in_accidents": 5,
+      "_total": 73
+    },
+    {
+      "sl__no_": "Total Police Personnel",
+      "category": "Total Police Personnel",
+      "rank_of_police_personnel": "Total Police Personnel",
+      "by_north_east_insurgents": "0",
+      "by_terrorists_extremists__zihadis": 35,
+      "by_left_wing_extremists": 132,
+      "in_border_firing": 62,
+      "by_riotous_mobs": 549,
+      "by_criminals__gangsters__dacoits": 479,
+      "accidentally_with_self_weapon": 3,
+      "in_accidents": 372,
+      "_total": 1632
+    }
+  ]
+}

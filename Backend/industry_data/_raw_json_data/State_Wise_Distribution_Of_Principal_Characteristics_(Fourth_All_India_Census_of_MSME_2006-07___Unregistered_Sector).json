@@ -1,0 +1,522 @@
+{
+  "index_name": "6b8eeb61-a32d-4d61-a8c7-5d7308a17e18",
+  "title": "State Wise Distribution Of Principal Characteristics (Fourth All India Census of MSME 2006-07 : Unregistered Sector)",
+  "desc": "State Wise Distribution Of Principal Characteristics (Fourth All India Census of MSME 2006-07 : Unregistered Sector)",
+  "created": 1564998440,
+  "updated": 1564998440,
+  "created_date": "2019-08-05T15:17:20Z",
+  "updated_date": "2019-08-05T15:17:20Z",
+  "active": "1",
+  "visualizable": "1",
+  "catalog_uuid": "c813baf8-661b-4492-8c53-ab491be56175",
+  "source": "data.gov.in",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Micro, Small and Medium Enterprises"
+  ],
+  "sector": [
+    "Industries",
+    "Micro",
+    "Small Scale"
+  ],
+  "field": [
+    {
+      "id": "s_no",
+      "name": "S. No",
+      "type": "double"
+    },
+    {
+      "id": "state_ut",
+      "name": "State /UT",
+      "type": "keyword"
+    },
+    {
+      "id": "number_of_enterprises_lakhs_",
+      "name": "Number of Enterprises (Lakhs)",
+      "type": "double"
+    },
+    {
+      "id": "employment_lakhs_",
+      "name": "Employment (Lakhs)",
+      "type": "double"
+    },
+    {
+      "id": "original_value_of_plant_machinery_value_in_crore_",
+      "name": "Original Value of Plant & Machinery (Value In Crore)",
+      "type": "double"
+    },
+    {
+      "id": "market_value_of_fixed_assets_value_in_crore_",
+      "name": "Market Value of Fixed Assets (Value In Crore)",
+      "type": "double"
+    },
+    {
+      "id": "gross_output_value_in_crore_",
+      "name": "Gross Output (Value In Crore)",
+      "type": "double"
+    },
+    {
+      "id": "total_input_value_in_crore_",
+      "name": "Total Input (Value In Crore)",
+      "type": "double"
+    },
+    {
+      "id": "gross_value_added_value_in_crore_",
+      "name": "Gross Value Added ( Value In Crore )",
+      "type": "double"
+    },
+    {
+      "id": "net_worth_value_in_crore_",
+      "name": "Net Worth (Value In Crore)",
+      "type": "double"
+    }
+  ],
+  "target_bucket": {
+    "index": "api",
+    "type": "c813baf8-661b-4492-8c53-ab491be56175",
+    "field": "6b8eeb61-a32d-4d61-a8c7-5d7308a17e18"
+  },
+  "external_ws_url": "",
+  "external_ws": "0",
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 36,
+  "count": 36,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "s_no": 1,
+      "state_ut": "Jammu and Kashmir",
+      "number_of_enterprises_lakhs_": 1.18,
+      "employment_lakhs_": 2.17,
+      "original_value_of_plant_machinery_value_in_crore_": 407.36,
+      "market_value_of_fixed_assets_value_in_crore_": 1110.36,
+      "gross_output_value_in_crore_": 1518.61,
+      "total_input_value_in_crore_": 751.79,
+      "gross_value_added_value_in_crore_": 766.83,
+      "net_worth_value_in_crore_": 1206.88
+    },
+    {
+      "s_no": 2,
+      "state_ut": "Himachal Pradesh",
+      "number_of_enterprises_lakhs_": 1.6,
+      "employment_lakhs_": 2.27,
+      "original_value_of_plant_machinery_value_in_crore_": 1541.67,
+      "market_value_of_fixed_assets_value_in_crore_": 2513.53,
+      "gross_output_value_in_crore_": 5460.91,
+      "total_input_value_in_crore_": 4134.52,
+      "gross_value_added_value_in_crore_": 1326.39,
+      "net_worth_value_in_crore_": 1837.4
+    },
+    {
+      "s_no": 3,
+      "state_ut": "Punjab",
+      "number_of_enterprises_lakhs_": 9.66,
+      "employment_lakhs_": 14.16,
+      "original_value_of_plant_machinery_value_in_crore_": 3704.74,
+      "market_value_of_fixed_assets_value_in_crore_": 14261.9,
+      "gross_output_value_in_crore_": 19525.78,
+      "total_input_value_in_crore_": 10438.92,
+      "gross_value_added_value_in_crore_": 9086.86,
+      "net_worth_value_in_crore_": 16286.66
+    },
+    {
+      "s_no": 4,
+      "state_ut": "Chandigarh",
+      "number_of_enterprises_lakhs_": 0.28,
+      "employment_lakhs_": 0.58,
+      "original_value_of_plant_machinery_value_in_crore_": 73.59,
+      "market_value_of_fixed_assets_value_in_crore_": 182.13,
+      "gross_output_value_in_crore_": 204.1,
+      "total_input_value_in_crore_": 66.42,
+      "gross_value_added_value_in_crore_": 137.68,
+      "net_worth_value_in_crore_": 168.51
+    },
+    {
+      "s_no": 5,
+      "state_ut": "Uttarakhand",
+      "number_of_enterprises_lakhs_": 2,
+      "employment_lakhs_": 3.62,
+      "original_value_of_plant_machinery_value_in_crore_": 2012.4,
+      "market_value_of_fixed_assets_value_in_crore_": 2578.52,
+      "gross_output_value_in_crore_": 2817.28,
+      "total_input_value_in_crore_": 1351.79,
+      "gross_value_added_value_in_crore_": 1465.49,
+      "net_worth_value_in_crore_": 2795.55
+    },
+    {
+      "s_no": 6,
+      "state_ut": "Haryana",
+      "number_of_enterprises_lakhs_": 4.87,
+      "employment_lakhs_": 8.41,
+      "original_value_of_plant_machinery_value_in_crore_": 2244.9,
+      "market_value_of_fixed_assets_value_in_crore_": 7028.27,
+      "gross_output_value_in_crore_": 9435.71,
+      "total_input_value_in_crore_": 3784.53,
+      "gross_value_added_value_in_crore_": 5651.18,
+      "net_worth_value_in_crore_": 6755.6
+    },
+    {
+      "s_no": 7,
+      "state_ut": "Delhi",
+      "number_of_enterprises_lakhs_": 1.75,
+      "employment_lakhs_": 5.94,
+      "original_value_of_plant_machinery_value_in_crore_": 1555.41,
+      "market_value_of_fixed_assets_value_in_crore_": 7700.29,
+      "gross_output_value_in_crore_": 10201.24,
+      "total_input_value_in_crore_": 6460.01,
+      "gross_value_added_value_in_crore_": 3741.23,
+      "net_worth_value_in_crore_": 7076.59
+    },
+    {
+      "s_no": 8,
+      "state_ut": "Rajasthan",
+      "number_of_enterprises_lakhs_": 9.14,
+      "employment_lakhs_": 15,
+      "original_value_of_plant_machinery_value_in_crore_": 3044.07,
+      "market_value_of_fixed_assets_value_in_crore_": 9294.17,
+      "gross_output_value_in_crore_": 10602.2,
+      "total_input_value_in_crore_": 4208.63,
+      "gross_value_added_value_in_crore_": 6393.57,
+      "net_worth_value_in_crore_": 10301.26
+    },
+    {
+      "s_no": 9,
+      "state_ut": "Uttar Pradesh",
+      "number_of_enterprises_lakhs_": 22.34,
+      "employment_lakhs_": 51.76,
+      "original_value_of_plant_machinery_value_in_crore_": 8409.84,
+      "market_value_of_fixed_assets_value_in_crore_": 22495.02,
+      "gross_output_value_in_crore_": 37024.52,
+      "total_input_value_in_crore_": 15958.03,
+      "gross_value_added_value_in_crore_": 21066.49,
+      "net_worth_value_in_crore_": 25725.43
+    },
+    {
+      "s_no": 10,
+      "state_ut": "Bihar",
+      "number_of_enterprises_lakhs_": 7.48,
+      "employment_lakhs_": 15.97,
+      "original_value_of_plant_machinery_value_in_crore_": 2321.93,
+      "market_value_of_fixed_assets_value_in_crore_": 4730.99,
+      "gross_output_value_in_crore_": 12047.77,
+      "total_input_value_in_crore_": 6557.93,
+      "gross_value_added_value_in_crore_": 5489.84,
+      "net_worth_value_in_crore_": 6303.3
+    },
+    {
+      "s_no": 11,
+      "state_ut": "Sikkim",
+      "number_of_enterprises_lakhs_": 0.06,
+      "employment_lakhs_": 0.56,
+      "original_value_of_plant_machinery_value_in_crore_": 14.8,
+      "market_value_of_fixed_assets_value_in_crore_": 44.34,
+      "gross_output_value_in_crore_": 138.39,
+      "total_input_value_in_crore_": 46.2,
+      "gross_value_added_value_in_crore_": 92.19,
+      "net_worth_value_in_crore_": 55
+    },
+    {
+      "s_no": 12,
+      "state_ut": "Arunachal Pradesh",
+      "number_of_enterprises_lakhs_": 0.25,
+      "employment_lakhs_": 0.82,
+      "original_value_of_plant_machinery_value_in_crore_": 204.35,
+      "market_value_of_fixed_assets_value_in_crore_": 393.7,
+      "gross_output_value_in_crore_": 864.52,
+      "total_input_value_in_crore_": 316.1,
+      "gross_value_added_value_in_crore_": 548.42,
+      "net_worth_value_in_crore_": 500.36
+    },
+    {
+      "s_no": 13,
+      "state_ut": "Nagaland",
+      "number_of_enterprises_lakhs_": 0.16,
+      "employment_lakhs_": 1,
+      "original_value_of_plant_machinery_value_in_crore_": 201.23,
+      "market_value_of_fixed_assets_value_in_crore_": 555.34,
+      "gross_output_value_in_crore_": 1448.99,
+      "total_input_value_in_crore_": 719.06,
+      "gross_value_added_value_in_crore_": 729.94,
+      "net_worth_value_in_crore_": 1729.25
+    },
+    {
+      "s_no": 14,
+      "state_ut": "Manipur",
+      "number_of_enterprises_lakhs_": 0.44,
+      "employment_lakhs_": 1.38,
+      "original_value_of_plant_machinery_value_in_crore_": 173.83,
+      "market_value_of_fixed_assets_value_in_crore_": 549.27,
+      "gross_output_value_in_crore_": 894.9,
+      "total_input_value_in_crore_": 540.22,
+      "gross_value_added_value_in_crore_": 354.67,
+      "net_worth_value_in_crore_": 606.11
+    },
+    {
+      "s_no": 15,
+      "state_ut": "Mizoram",
+      "number_of_enterprises_lakhs_": 0.1,
+      "employment_lakhs_": 0.3,
+      "original_value_of_plant_machinery_value_in_crore_": 59.19,
+      "market_value_of_fixed_assets_value_in_crore_": 106.19,
+      "gross_output_value_in_crore_": 367.31,
+      "total_input_value_in_crore_": 238.69,
+      "gross_value_added_value_in_crore_": 128.62,
+      "net_worth_value_in_crore_": 322.33
+    },
+    {
+      "s_no": 16,
+      "state_ut": "Tripura",
+      "number_of_enterprises_lakhs_": 0.26,
+      "employment_lakhs_": 0.53,
+      "original_value_of_plant_machinery_value_in_crore_": 187.9,
+      "market_value_of_fixed_assets_value_in_crore_": 335.16,
+      "gross_output_value_in_crore_": 569.54,
+      "total_input_value_in_crore_": 302.7,
+      "gross_value_added_value_in_crore_": 266.84,
+      "net_worth_value_in_crore_": 420.56
+    },
+    {
+      "s_no": 17,
+      "state_ut": "Meghalaya",
+      "number_of_enterprises_lakhs_": 0.47,
+      "employment_lakhs_": 1.04,
+      "original_value_of_plant_machinery_value_in_crore_": 206.56,
+      "market_value_of_fixed_assets_value_in_crore_": 334.01,
+      "gross_output_value_in_crore_": 703.49,
+      "total_input_value_in_crore_": 258.31,
+      "gross_value_added_value_in_crore_": 445.18,
+      "net_worth_value_in_crore_": 477.01
+    },
+    {
+      "s_no": 18,
+      "state_ut": "Assam",
+      "number_of_enterprises_lakhs_": 2.14,
+      "employment_lakhs_": 4.48,
+      "original_value_of_plant_machinery_value_in_crore_": 847.44,
+      "market_value_of_fixed_assets_value_in_crore_": 1073.75,
+      "gross_output_value_in_crore_": 4014.07,
+      "total_input_value_in_crore_": 2139.29,
+      "gross_value_added_value_in_crore_": 1874.78,
+      "net_worth_value_in_crore_": 1972.44
+    },
+    {
+      "s_no": 19,
+      "state_ut": "West Bengal",
+      "number_of_enterprises_lakhs_": 20.8,
+      "employment_lakhs_": 54.93,
+      "original_value_of_plant_machinery_value_in_crore_": 7464.93,
+      "market_value_of_fixed_assets_value_in_crore_": 28053.84,
+      "gross_output_value_in_crore_": 51973.44,
+      "total_input_value_in_crore_": 26313.85,
+      "gross_value_added_value_in_crore_": 25659.58,
+      "net_worth_value_in_crore_": 33126.97
+    },
+    {
+      "s_no": 20,
+      "state_ut": "Jharkhand",
+      "number_of_enterprises_lakhs_": 4.25,
+      "employment_lakhs_": 8.24,
+      "original_value_of_plant_machinery_value_in_crore_": 1134.22,
+      "market_value_of_fixed_assets_value_in_crore_": 1474.07,
+      "gross_output_value_in_crore_": 5870.19,
+      "total_input_value_in_crore_": 2211.54,
+      "gross_value_added_value_in_crore_": 3658.65,
+      "net_worth_value_in_crore_": 2813.43
+    },
+    {
+      "s_no": 21,
+      "state_ut": "Orissa",
+      "number_of_enterprises_lakhs_": 9.77,
+      "employment_lakhs_": 21.94,
+      "original_value_of_plant_machinery_value_in_crore_": 3616.37,
+      "market_value_of_fixed_assets_value_in_crore_": 6923.34,
+      "gross_output_value_in_crore_": 14329.34,
+      "total_input_value_in_crore_": 7741.3,
+      "gross_value_added_value_in_crore_": 6588.04,
+      "net_worth_value_in_crore_": 8737.45
+    },
+    {
+      "s_no": 22,
+      "state_ut": "Chhattisgarh",
+      "number_of_enterprises_lakhs_": 2.78,
+      "employment_lakhs_": 4.68,
+      "original_value_of_plant_machinery_value_in_crore_": 486.2,
+      "market_value_of_fixed_assets_value_in_crore_": 1109.84,
+      "gross_output_value_in_crore_": 2255.07,
+      "total_input_value_in_crore_": 852.2,
+      "gross_value_added_value_in_crore_": 1402.87,
+      "net_worth_value_in_crore_": 1664.39
+    },
+    {
+      "s_no": 23,
+      "state_ut": "Madhya Pradesh",
+      "number_of_enterprises_lakhs_": 11.5,
+      "employment_lakhs_": 17.32,
+      "original_value_of_plant_machinery_value_in_crore_": 1853.19,
+      "market_value_of_fixed_assets_value_in_crore_": 3696.2,
+      "gross_output_value_in_crore_": 8196.84,
+      "total_input_value_in_crore_": 2223.92,
+      "gross_value_added_value_in_crore_": 5972.92,
+      "net_worth_value_in_crore_": 4538.3
+    },
+    {
+      "s_no": 24,
+      "state_ut": "Gujarat",
+      "number_of_enterprises_lakhs_": 13.03,
+      "employment_lakhs_": 21.97,
+      "original_value_of_plant_machinery_value_in_crore_": 4926.73,
+      "market_value_of_fixed_assets_value_in_crore_": 14884.85,
+      "gross_output_value_in_crore_": 16868.47,
+      "total_input_value_in_crore_": 3143.18,
+      "gross_value_added_value_in_crore_": 13725.28,
+      "net_worth_value_in_crore_": 20240.97
+    },
+    {
+      "s_no": 25,
+      "state_ut": "Daman & Diu",
+      "number_of_enterprises_lakhs_": 0.01,
+      "employment_lakhs_": 0.03,
+      "original_value_of_plant_machinery_value_in_crore_": 10.6,
+      "market_value_of_fixed_assets_value_in_crore_": 17.93,
+      "gross_output_value_in_crore_": 22.84,
+      "total_input_value_in_crore_": 7.52,
+      "gross_value_added_value_in_crore_": 15.32,
+      "net_worth_value_in_crore_": 15.88
+    },
+    {
+      "s_no": 26,
+      "state_ut": "Dadar and Nagar Haveli",
+      "number_of_enterprises_lakhs_": 0.04,
+      "employment_lakhs_": 0.07,
+      "original_value_of_plant_machinery_value_in_crore_": 17.93,
+      "market_value_of_fixed_assets_value_in_crore_": 50.62,
+      "gross_output_value_in_crore_": 100.29,
+      "total_input_value_in_crore_": 38.88,
+      "gross_value_added_value_in_crore_": 61.41,
+      "net_worth_value_in_crore_": 88.53
+    },
+    {
+      "s_no": 27,
+      "state_ut": "Maharashtra",
+      "number_of_enterprises_lakhs_": 14.45,
+      "employment_lakhs_": 24.72,
+      "original_value_of_plant_machinery_value_in_crore_": 6679.53,
+      "market_value_of_fixed_assets_value_in_crore_": 13575.87,
+      "gross_output_value_in_crore_": 16159.47,
+      "total_input_value_in_crore_": 5695.86,
+      "gross_value_added_value_in_crore_": 10463.61,
+      "net_worth_value_in_crore_": 13711.3
+    },
+    {
+      "s_no": 28,
+      "state_ut": "Andhra Pradesh",
+      "number_of_enterprises_lakhs_": 14.9,
+      "employment_lakhs_": 35.15,
+      "original_value_of_plant_machinery_value_in_crore_": 9973.16,
+      "market_value_of_fixed_assets_value_in_crore_": 21005.47,
+      "gross_output_value_in_crore_": 28302.56,
+      "total_input_value_in_crore_": 12344.53,
+      "gross_value_added_value_in_crore_": 15958.03,
+      "net_worth_value_in_crore_": 28177.44
+    },
+    {
+      "s_no": 29,
+      "state_ut": "Karnataka",
+      "number_of_enterprises_lakhs_": 11.12,
+      "employment_lakhs_": 22.58,
+      "original_value_of_plant_machinery_value_in_crore_": 8023.29,
+      "market_value_of_fixed_assets_value_in_crore_": 12342.38,
+      "gross_output_value_in_crore_": 15257.34,
+      "total_input_value_in_crore_": 7184.09,
+      "gross_value_added_value_in_crore_": 8073.25,
+      "net_worth_value_in_crore_": 11923.1
+    },
+    {
+      "s_no": 30,
+      "state_ut": "Goa",
+      "number_of_enterprises_lakhs_": 0.56,
+      "employment_lakhs_": 0.87,
+      "original_value_of_plant_machinery_value_in_crore_": 346.42,
+      "market_value_of_fixed_assets_value_in_crore_": 569.8,
+      "gross_output_value_in_crore_": 1519.89,
+      "total_input_value_in_crore_": 733.09,
+      "gross_value_added_value_in_crore_": 786.79,
+      "net_worth_value_in_crore_": 722.95
+    },
+    {
+      "s_no": 31,
+      "state_ut": "Lakshadweep",
+      "number_of_enterprises_lakhs_": 0.01,
+      "employment_lakhs_": 0.05,
+      "original_value_of_plant_machinery_value_in_crore_": 9.48,
+      "market_value_of_fixed_assets_value_in_crore_": 17.3,
+      "gross_output_value_in_crore_": 20.01,
+      "total_input_value_in_crore_": 9.04,
+      "gross_value_added_value_in_crore_": 10.97,
+      "net_worth_value_in_crore_": 34.78
+    },
+    {
+      "s_no": 32,
+      "state_ut": "Kerala",
+      "number_of_enterprises_lakhs_": 12.94,
+      "employment_lakhs_": 26.98,
+      "original_value_of_plant_machinery_value_in_crore_": 10689.03,
+      "market_value_of_fixed_assets_value_in_crore_": 27136.43,
+      "gross_output_value_in_crore_": 50699.08,
+      "total_input_value_in_crore_": 34140.67,
+      "gross_value_added_value_in_crore_": 16558.41,
+      "net_worth_value_in_crore_": 29450.58
+    },
+    {
+      "s_no": 33,
+      "state_ut": "Tamil Nadu",
+      "number_of_enterprises_lakhs_": 18.21,
+      "employment_lakhs_": 38.89,
+      "original_value_of_plant_machinery_value_in_crore_": 12139.64,
+      "market_value_of_fixed_assets_value_in_crore_": 34528.18,
+      "gross_output_value_in_crore_": 39988.26,
+      "total_input_value_in_crore_": 16165.73,
+      "gross_value_added_value_in_crore_": 23822.53,
+      "net_worth_value_in_crore_": 39576.65
+    },
+    {
+      "s_no": 34,
+      "state_ut": "Puducherry",
+      "number_of_enterprises_lakhs_": 0.13,
+      "employment_lakhs_": 0.25,
+      "original_value_of_plant_machinery_value_in_crore_": 38.58,
+      "market_value_of_fixed_assets_value_in_crore_": 83.81,
+      "gross_output_value_in_crore_": 157.66,
+      "total_input_value_in_crore_": 37.19,
+      "gross_value_added_value_in_crore_": 120.46,
+      "net_worth_value_in_crore_": 87.48
+    },
+    {
+      "s_no": 35,
+      "state_ut": "Andaman and Nicobar Islands",
+      "number_of_enterprises_lakhs_": 0.07,
+      "employment_lakhs_": 0.18,
+      "original_value_of_plant_machinery_value_in_crore_": 19.13,
+      "market_value_of_fixed_assets_value_in_crore_": 59.62,
+      "gross_output_value_in_crore_": 142.49,
+      "total_input_value_in_crore_": 49.53,
+      "gross_value_added_value_in_crore_": 92.96,
+      "net_worth_value_in_crore_": 83.55
+    },
+    {
+      "s_no": "NA",
+      "state_ut": "All India",
+      "number_of_enterprises_lakhs_": 198.74,
+      "employment_lakhs_": 408.84,
+      "original_value_of_plant_machinery_value_in_crore_": 94639.6,
+      "market_value_of_fixed_assets_value_in_crore_": 240816.46,
+      "gross_output_value_in_crore_": 369702.59,
+      "total_input_value_in_crore_": 177165.27,
+      "gross_value_added_value_in_crore_": 192537.32,
+      "net_worth_value_in_crore_": 279533.97
+    }
+  ]
+}

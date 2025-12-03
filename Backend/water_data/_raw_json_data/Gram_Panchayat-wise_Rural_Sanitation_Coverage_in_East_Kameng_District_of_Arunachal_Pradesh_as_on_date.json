@@ -1,0 +1,1073 @@
+{
+  "index_name": "8598edd8-faaa-4e77-8bc3-1b8bcc0f5af3",
+  "title": "Gram Panchayat-wise Rural Sanitation Coverage in East Kameng District of Arunachal Pradesh as on date",
+  "desc": "Gram Panchayat-wise Rural Sanitation Coverage in East Kameng District of Arunachal Pradesh as on date",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Jal Shakti",
+    "Department of Drinking Water and Sanitation"
+  ],
+  "sector": [
+    "Water and Sanitation"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1688360215,
+  "updated": 1688364887,
+  "created_date": "2023-07-03T06:56:55Z",
+  "updated_date": "2023-07-03T11:44:47Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "sbm",
+    "type": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+    "field": "8598edd8-faaa-4e77-8bc3-1b8bcc0f5af3"
+  },
+  "field": [
+    {
+      "id": "statename",
+      "name": "StateName",
+      "type": "keyword"
+    },
+    {
+      "id": "districtname",
+      "name": "DistrictName",
+      "type": "keyword"
+    },
+    {
+      "id": "blockname",
+      "name": "BlockName",
+      "type": "keyword"
+    },
+    {
+      "id": "grampanchayatname",
+      "name": "GramPanchayatName",
+      "type": "keyword"
+    },
+    {
+      "id": "ihhltotalasperdetails",
+      "name": "IHHLTotalAsPerDetails",
+      "type": "double"
+    },
+    {
+      "id": "ihhltotalach",
+      "name": "IHHLTotalAch",
+      "type": "double"
+    },
+    {
+      "id": "date",
+      "name": "Date",
+      "type": "keyword"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 111,
+  "count": 111,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BAMENG EAST",
+      "grampanchayatname": "40TH MILE",
+      "ihhltotalasperdetails": 95,
+      "ihhltotalach": 95,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BAMENG EAST",
+      "grampanchayatname": "BEYONG",
+      "ihhltotalasperdetails": 4,
+      "ihhltotalach": 4,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BAMENG EAST",
+      "grampanchayatname": "JOKHIO",
+      "ihhltotalasperdetails": 37,
+      "ihhltotalach": 37,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BAMENG EAST",
+      "grampanchayatname": "JOMOH",
+      "ihhltotalasperdetails": 59,
+      "ihhltotalach": 59,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BAMENG EAST",
+      "grampanchayatname": "KHENEWA",
+      "ihhltotalasperdetails": 160,
+      "ihhltotalach": 160,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BAMENG EAST",
+      "grampanchayatname": "LONDA",
+      "ihhltotalasperdetails": 113,
+      "ihhltotalach": 113,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BAMENG EAST",
+      "grampanchayatname": "LORRAH",
+      "ihhltotalasperdetails": 123,
+      "ihhltotalach": 123,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BAMENG EAST",
+      "grampanchayatname": "MARGINGLA",
+      "ihhltotalasperdetails": 114,
+      "ihhltotalach": 114,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BAMENG EAST",
+      "grampanchayatname": "PAFFA",
+      "ihhltotalasperdetails": 70,
+      "ihhltotalach": 70,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BAMENG EAST",
+      "grampanchayatname": "PAKKE",
+      "ihhltotalasperdetails": 158,
+      "ihhltotalach": 158,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BAMENG EAST",
+      "grampanchayatname": "PANGIA",
+      "ihhltotalasperdetails": 33,
+      "ihhltotalach": 33,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BAMENG EAST",
+      "grampanchayatname": "PORDUNG",
+      "ihhltotalasperdetails": 39,
+      "ihhltotalach": 39,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BAMENG EAST",
+      "grampanchayatname": "REWA SOLUNG",
+      "ihhltotalasperdetails": 74,
+      "ihhltotalach": 74,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BAMENG EAST",
+      "grampanchayatname": "SANGBIA",
+      "ihhltotalasperdetails": 69,
+      "ihhltotalach": 69,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BAMENG EAST",
+      "grampanchayatname": "WAII",
+      "ihhltotalasperdetails": 105,
+      "ihhltotalach": 105,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BAMENG WEST",
+      "grampanchayatname": "BAMENG-1",
+      "ihhltotalasperdetails": 156,
+      "ihhltotalach": 156,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BAMENG WEST",
+      "grampanchayatname": "BAMENG-II/TARA",
+      "ihhltotalasperdetails": 67,
+      "ihhltotalach": 67,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BAMENG WEST",
+      "grampanchayatname": "EFFA",
+      "ihhltotalasperdetails": 59,
+      "ihhltotalach": 59,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BAMENG WEST",
+      "grampanchayatname": "EMBORIANG",
+      "ihhltotalasperdetails": 19,
+      "ihhltotalach": 19,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BAMENG WEST",
+      "grampanchayatname": "GIKUNG",
+      "ihhltotalasperdetails": 69,
+      "ihhltotalach": 69,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BAMENG WEST",
+      "grampanchayatname": "LADA",
+      "ihhltotalasperdetails": 119,
+      "ihhltotalach": 119,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BAMENG WEST",
+      "grampanchayatname": "LAPUNG",
+      "ihhltotalasperdetails": 189,
+      "ihhltotalach": 189,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BAMENG WEST",
+      "grampanchayatname": "LOWER LIYAK/SEKONG",
+      "ihhltotalasperdetails": 66,
+      "ihhltotalach": 66,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BAMENG WEST",
+      "grampanchayatname": "MIORANG",
+      "ihhltotalasperdetails": 46,
+      "ihhltotalach": 46,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BAMENG WEST",
+      "grampanchayatname": "POUBE",
+      "ihhltotalasperdetails": 97,
+      "ihhltotalach": 97,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BAMENG WEST",
+      "grampanchayatname": "ROJO/WAKKE",
+      "ihhltotalasperdetails": 55,
+      "ihhltotalach": 55,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BAMENG WEST",
+      "grampanchayatname": "SACHUNG",
+      "ihhltotalasperdetails": 51,
+      "ihhltotalach": 51,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BAMENG WEST",
+      "grampanchayatname": "SEKONG",
+      "ihhltotalasperdetails": 84,
+      "ihhltotalach": 84,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BAMENG WEST",
+      "grampanchayatname": "TALLO",
+      "ihhltotalasperdetails": 49,
+      "ihhltotalach": 49,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BAMENG WEST",
+      "grampanchayatname": "TAWE",
+      "ihhltotalasperdetails": 22,
+      "ihhltotalach": 22,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BAMENG WEST",
+      "grampanchayatname": "UPPER LIYAK",
+      "ihhltotalasperdetails": 117,
+      "ihhltotalach": 117,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BAMENG WEST",
+      "grampanchayatname": "WABLONG",
+      "ihhltotalasperdetails": 36,
+      "ihhltotalach": 36,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BANA",
+      "grampanchayatname": "BANA CAMP",
+      "ihhltotalasperdetails": 50,
+      "ihhltotalach": 50,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BANA",
+      "grampanchayatname": "BANA VILLAGE",
+      "ihhltotalasperdetails": 105,
+      "ihhltotalach": 105,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BANA",
+      "grampanchayatname": "CHIJANG",
+      "ihhltotalasperdetails": 94,
+      "ihhltotalach": 94,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BANA",
+      "grampanchayatname": "FENGCHE",
+      "ihhltotalasperdetails": 146,
+      "ihhltotalach": 146,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BANA",
+      "grampanchayatname": "KAFLA",
+      "ihhltotalasperdetails": 61,
+      "ihhltotalach": 61,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BANA",
+      "grampanchayatname": "KEDEYANG",
+      "ihhltotalasperdetails": 93,
+      "ihhltotalach": 93,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BANA",
+      "grampanchayatname": "LOFFA",
+      "ihhltotalasperdetails": 90,
+      "ihhltotalach": 90,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BANA",
+      "grampanchayatname": "LOGONI",
+      "ihhltotalasperdetails": 50,
+      "ihhltotalach": 50,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BANA",
+      "grampanchayatname": "LUNDUNG",
+      "ihhltotalasperdetails": 53,
+      "ihhltotalach": 53,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BANA",
+      "grampanchayatname": "NARINGWA",
+      "ihhltotalasperdetails": 38,
+      "ihhltotalach": 38,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BANA",
+      "grampanchayatname": "NEKING",
+      "ihhltotalasperdetails": 87,
+      "ihhltotalach": 87,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BANA",
+      "grampanchayatname": "NEPING",
+      "ihhltotalasperdetails": 61,
+      "ihhltotalach": 61,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BANA",
+      "grampanchayatname": "NERE",
+      "ihhltotalasperdetails": 131,
+      "ihhltotalach": 131,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BANA",
+      "grampanchayatname": "NINGCHO",
+      "ihhltotalasperdetails": 181,
+      "ihhltotalach": 181,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BANA",
+      "grampanchayatname": "PAKOTI",
+      "ihhltotalasperdetails": 100,
+      "ihhltotalach": 100,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BANA",
+      "grampanchayatname": "PANKAR",
+      "ihhltotalasperdetails": 61,
+      "ihhltotalach": 61,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BANA",
+      "grampanchayatname": "PIPOKORO",
+      "ihhltotalasperdetails": 80,
+      "ihhltotalach": 80,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BANA",
+      "grampanchayatname": "SEBA",
+      "ihhltotalasperdetails": 133,
+      "ihhltotalach": 133,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BANA",
+      "grampanchayatname": "SILLA",
+      "ihhltotalasperdetails": 96,
+      "ihhltotalach": 96,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BANA",
+      "grampanchayatname": "SOPUNG",
+      "ihhltotalasperdetails": 84,
+      "ihhltotalach": 84,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BANA",
+      "grampanchayatname": "TALLOMSIMA RICHUKHORANG",
+      "ihhltotalasperdetails": 120,
+      "ihhltotalach": 120,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BANA",
+      "grampanchayatname": "TATATARA",
+      "ihhltotalasperdetails": 87,
+      "ihhltotalach": 87,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BANA",
+      "grampanchayatname": "WATTE",
+      "ihhltotalasperdetails": 53,
+      "ihhltotalach": 53,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BANA",
+      "grampanchayatname": "WESHI",
+      "ihhltotalasperdetails": 82,
+      "ihhltotalach": 82,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "BANA",
+      "grampanchayatname": "YANGSEY",
+      "ihhltotalasperdetails": 159,
+      "ihhltotalach": 159,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "CHAYANGTAJO",
+      "grampanchayatname": "BENGDE",
+      "ihhltotalasperdetails": 45,
+      "ihhltotalach": 45,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "CHAYANGTAJO",
+      "grampanchayatname": "BODO",
+      "ihhltotalasperdetails": 65,
+      "ihhltotalach": 65,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "CHAYANGTAJO",
+      "grampanchayatname": "CHAYANGTAJO",
+      "ihhltotalasperdetails": 98,
+      "ihhltotalach": 98,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "CHAYANGTAJO",
+      "grampanchayatname": "CHAYANGTAJO MODEL VILLAGE",
+      "ihhltotalasperdetails": 318,
+      "ihhltotalach": 318,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "CHAYANGTAJO",
+      "grampanchayatname": "DOMDILA",
+      "ihhltotalasperdetails": 84,
+      "ihhltotalach": 84,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "CHAYANGTAJO",
+      "grampanchayatname": "JAYANG BAGANG",
+      "ihhltotalasperdetails": 151,
+      "ihhltotalach": 151,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "CHAYANGTAJO",
+      "grampanchayatname": "KILLO",
+      "ihhltotalasperdetails": 44,
+      "ihhltotalach": 44,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "CHAYANGTAJO",
+      "grampanchayatname": "KREMA PAO",
+      "ihhltotalasperdetails": 75,
+      "ihhltotalach": 75,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "CHAYANGTAJO",
+      "grampanchayatname": "LACHING BAGANG",
+      "ihhltotalasperdetails": 24,
+      "ihhltotalach": 24,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "CHAYANGTAJO",
+      "grampanchayatname": "LAMNIO",
+      "ihhltotalasperdetails": 66,
+      "ihhltotalach": 66,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "CHAYANGTAJO",
+      "grampanchayatname": "NAMCHAR BAGANG",
+      "ihhltotalasperdetails": 71,
+      "ihhltotalach": 71,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "CHAYANGTAJO",
+      "grampanchayatname": "NARI CAMP",
+      "ihhltotalasperdetails": 105,
+      "ihhltotalach": 105,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "CHAYANGTAJO",
+      "grampanchayatname": "REBE",
+      "ihhltotalasperdetails": 42,
+      "ihhltotalach": 42,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "CHAYANGTAJO",
+      "grampanchayatname": "SANCHU",
+      "ihhltotalasperdetails": 73,
+      "ihhltotalach": 73,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "CHAYANGTAJO",
+      "grampanchayatname": "SARIA",
+      "ihhltotalasperdetails": 92,
+      "ihhltotalach": 92,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "CHAYANGTAJO",
+      "grampanchayatname": "TAGAMPU",
+      "ihhltotalasperdetails": 50,
+      "ihhltotalach": 50,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "CHAYANGTAJO",
+      "grampanchayatname": "TUNGI",
+      "ihhltotalasperdetails": 61,
+      "ihhltotalach": 61,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "CHAYANGTAJO",
+      "grampanchayatname": "VEO",
+      "ihhltotalasperdetails": 40,
+      "ihhltotalach": 40,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "CHAYANGTAJO",
+      "grampanchayatname": "WADA BAGANG",
+      "ihhltotalasperdetails": 22,
+      "ihhltotalach": 22,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "CHAYANGTAJO",
+      "grampanchayatname": "YAKLI",
+      "ihhltotalasperdetails": 128,
+      "ihhltotalach": 128,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "CHAYANGTAJO",
+      "grampanchayatname": "YANGFO",
+      "ihhltotalasperdetails": 134,
+      "ihhltotalach": 134,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "PIPU",
+      "grampanchayatname": "BOKAR",
+      "ihhltotalasperdetails": 37,
+      "ihhltotalach": 37,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "PIPU",
+      "grampanchayatname": "DAFRI",
+      "ihhltotalasperdetails": 31,
+      "ihhltotalach": 31,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "PIPU",
+      "grampanchayatname": "DIPULAMGU",
+      "ihhltotalasperdetails": 97,
+      "ihhltotalach": 97,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "PIPU",
+      "grampanchayatname": "DOKA",
+      "ihhltotalasperdetails": 38,
+      "ihhltotalach": 38,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "PIPU",
+      "grampanchayatname": "DOKRE",
+      "ihhltotalasperdetails": 74,
+      "ihhltotalach": 74,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "PIPU",
+      "grampanchayatname": "FACHANG",
+      "ihhltotalasperdetails": 62,
+      "ihhltotalach": 62,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "PIPU",
+      "grampanchayatname": "FLAGO",
+      "ihhltotalasperdetails": 17,
+      "ihhltotalach": 17,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "PIPU",
+      "grampanchayatname": "HARI NABLAM",
+      "ihhltotalasperdetails": 28,
+      "ihhltotalach": 28,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "PIPU",
+      "grampanchayatname": "JOTTE CHEDA",
+      "ihhltotalasperdetails": 58,
+      "ihhltotalach": 58,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "PIPU",
+      "grampanchayatname": "KAPUDADA",
+      "ihhltotalasperdetails": 18,
+      "ihhltotalach": 18,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "PIPU",
+      "grampanchayatname": "KOTE CAMP",
+      "ihhltotalasperdetails": 19,
+      "ihhltotalach": 19,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "PIPU",
+      "grampanchayatname": "LOCHUNG",
+      "ihhltotalasperdetails": 30,
+      "ihhltotalach": 30,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "PIPU",
+      "grampanchayatname": "PIPU",
+      "ihhltotalasperdetails": 105,
+      "ihhltotalach": 105,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "PIPU",
+      "grampanchayatname": "RICHI LAMGU",
+      "ihhltotalasperdetails": 40,
+      "ihhltotalach": 40,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "PIPU",
+      "grampanchayatname": "TABRI",
+      "ihhltotalasperdetails": 53,
+      "ihhltotalach": 53,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "PIPU",
+      "grampanchayatname": "TAGANG WARANG",
+      "ihhltotalasperdetails": 33,
+      "ihhltotalach": 33,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "PIPU",
+      "grampanchayatname": "WOTTE",
+      "ihhltotalasperdetails": 72,
+      "ihhltotalach": 72,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "SEPPA",
+      "grampanchayatname": "DONIGAON",
+      "ihhltotalasperdetails": 25,
+      "ihhltotalach": 25,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "SEPPA",
+      "grampanchayatname": "HAMBAPINDA",
+      "ihhltotalasperdetails": 97,
+      "ihhltotalach": 97,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "SEPPA",
+      "grampanchayatname": "JAYANTI",
+      "ihhltotalasperdetails": 131,
+      "ihhltotalach": 131,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "SEPPA",
+      "grampanchayatname": "JEJUDADA",
+      "ihhltotalasperdetails": 64,
+      "ihhltotalach": 64,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "SEPPA",
+      "grampanchayatname": "KAKUKAO",
+      "ihhltotalasperdetails": 60,
+      "ihhltotalach": 60,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "SEPPA",
+      "grampanchayatname": "LAI MOYA",
+      "ihhltotalasperdetails": 134,
+      "ihhltotalach": 134,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "SEPPA",
+      "grampanchayatname": "MEBUA",
+      "ihhltotalasperdetails": 74,
+      "ihhltotalach": 74,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "SEPPA",
+      "grampanchayatname": "MONGKHYA",
+      "ihhltotalasperdetails": 99,
+      "ihhltotalach": 99,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "SEPPA",
+      "grampanchayatname": "PABUA",
+      "ihhltotalasperdetails": 79,
+      "ihhltotalach": 79,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "SEPPA",
+      "grampanchayatname": "PACHI/ATTARANG SIGHI",
+      "ihhltotalasperdetails": 120,
+      "ihhltotalach": 120,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "SEPPA",
+      "grampanchayatname": "PAMPOLI",
+      "ihhltotalasperdetails": 58,
+      "ihhltotalach": 58,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "SEPPA",
+      "grampanchayatname": "PATIWA",
+      "ihhltotalasperdetails": 43,
+      "ihhltotalach": 43,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "SEPPA",
+      "grampanchayatname": "RANG",
+      "ihhltotalasperdetails": 79,
+      "ihhltotalach": 79,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "SEPPA",
+      "grampanchayatname": "SENGRIWA",
+      "ihhltotalasperdetails": 64,
+      "ihhltotalach": 64,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "SEPPA",
+      "grampanchayatname": "TALLONG",
+      "ihhltotalasperdetails": 106,
+      "ihhltotalach": 106,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Arunachal Pradesh",
+      "districtname": "EAST KAMENG",
+      "blockname": "SEPPA",
+      "grampanchayatname": "TASSOMORAH",
+      "ihhltotalasperdetails": 53,
+      "ihhltotalach": 53,
+      "date": "5/19/2020 12:00:00 AM"
+    }
+  ]
+}

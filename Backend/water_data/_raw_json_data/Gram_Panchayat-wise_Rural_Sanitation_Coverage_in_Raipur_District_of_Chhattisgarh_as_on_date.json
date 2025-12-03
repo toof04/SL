@@ -1,0 +1,3746 @@
+{
+  "index_name": "4d0758a2-ada0-4b2a-a6d7-7ac41587f8ef",
+  "title": "Gram Panchayat-wise Rural Sanitation Coverage in Raipur District of Chhattisgarh as on date",
+  "desc": "Gram Panchayat-wise Rural Sanitation Coverage in Raipur District of Chhattisgarh as on date",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Jal Shakti",
+    "Department of Drinking Water and Sanitation"
+  ],
+  "sector": [
+    "Water and Sanitation"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1688360370,
+  "updated": 1688364934,
+  "created_date": "2023-07-03T06:59:30Z",
+  "updated_date": "2023-07-03T11:45:34Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "sbm",
+    "type": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+    "field": "4d0758a2-ada0-4b2a-a6d7-7ac41587f8ef"
+  },
+  "field": [
+    {
+      "id": "statename",
+      "name": "StateName",
+      "type": "keyword"
+    },
+    {
+      "id": "districtname",
+      "name": "DistrictName",
+      "type": "keyword"
+    },
+    {
+      "id": "blockname",
+      "name": "BlockName",
+      "type": "keyword"
+    },
+    {
+      "id": "grampanchayatname",
+      "name": "GramPanchayatName",
+      "type": "keyword"
+    },
+    {
+      "id": "ihhltotalasperdetails",
+      "name": "IHHLTotalAsPerDetails",
+      "type": "double"
+    },
+    {
+      "id": "ihhltotalach",
+      "name": "IHHLTotalAch",
+      "type": "double"
+    },
+    {
+      "id": "date",
+      "name": "Date",
+      "type": "keyword"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 408,
+  "count": 408,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "ALEKHUNTA",
+      "ihhltotalasperdetails": 216,
+      "ihhltotalach": 216,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "AMADI",
+      "ihhltotalasperdetails": 179,
+      "ihhltotalach": 179,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "AMNER",
+      "ihhltotalasperdetails": 281,
+      "ihhltotalach": 281,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "BAKTARA",
+      "ihhltotalasperdetails": 597,
+      "ihhltotalach": 597,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "BELAR",
+      "ihhltotalasperdetails": 238,
+      "ihhltotalach": 238,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "BENDRI",
+      "ihhltotalasperdetails": 459,
+      "ihhltotalach": 459,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "BHARENGA",
+      "ihhltotalasperdetails": 268,
+      "ihhltotalach": 268,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "BHATGAON",
+      "ihhltotalasperdetails": 790,
+      "ihhltotalach": 790,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "BHATHAPARA(BE)",
+      "ihhltotalasperdetails": 442,
+      "ihhltotalach": 442,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "BHELWADIH",
+      "ihhltotalasperdetails": 343,
+      "ihhltotalach": 343,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "BHOTHIDIH",
+      "ihhltotalasperdetails": 404,
+      "ihhltotalach": 404,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "BHURKA",
+      "ihhltotalasperdetails": 310,
+      "ihhltotalach": 310,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "BIRODA",
+      "ihhltotalasperdetails": 346,
+      "ihhltotalach": 346,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "CHAMPARAN",
+      "ihhltotalasperdetails": 700,
+      "ihhltotalach": 700,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "CHANDI",
+      "ihhltotalasperdetails": 516,
+      "ihhltotalach": 516,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "CHERIYA",
+      "ihhltotalasperdetails": 256,
+      "ihhltotalach": 256,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "CHHACHHANPAIRI",
+      "ihhltotalasperdetails": 384,
+      "ihhltotalach": 384,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "CHHANTA",
+      "ihhltotalasperdetails": 170,
+      "ihhltotalach": 170,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "DADARJHORI",
+      "ihhltotalasperdetails": 198,
+      "ihhltotalach": 198,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "DHONDARA",
+      "ihhltotalasperdetails": 418,
+      "ihhltotalach": 418,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "DHUSERA",
+      "ihhltotalasperdetails": 476,
+      "ihhltotalach": 476,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "DOMA",
+      "ihhltotalasperdetails": 306,
+      "ihhltotalach": 306,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "DONGITARAI",
+      "ihhltotalasperdetails": 331,
+      "ihhltotalach": 331,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "DULNA",
+      "ihhltotalasperdetails": 346,
+      "ihhltotalach": 346,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "GATAPAR",
+      "ihhltotalasperdetails": 296,
+      "ihhltotalach": 296,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "GHONT",
+      "ihhltotalasperdetails": 211,
+      "ihhltotalach": 211,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "GIROLA",
+      "ihhltotalasperdetails": 540,
+      "ihhltotalach": 540,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "GOTIYARDIH",
+      "ihhltotalasperdetails": 356,
+      "ihhltotalach": 356,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "HASADA",
+      "ihhltotalasperdetails": 594,
+      "ihhltotalach": 594,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "JAMGAON",
+      "ihhltotalasperdetails": 438,
+      "ihhltotalach": 438,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "JAUNDA",
+      "ihhltotalasperdetails": 435,
+      "ihhltotalach": 435,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "JAUNDI",
+      "ihhltotalasperdetails": 217,
+      "ihhltotalach": 217,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "JAVAIBANDHA",
+      "ihhltotalasperdetails": 219,
+      "ihhltotalach": 219,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "JHANKI",
+      "ihhltotalasperdetails": 246,
+      "ihhltotalach": 246,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "JULUM",
+      "ihhltotalasperdetails": 292,
+      "ihhltotalach": 292,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "KANHERA",
+      "ihhltotalasperdetails": 275,
+      "ihhltotalach": 275,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "KATHIYA",
+      "ihhltotalasperdetails": 374,
+      "ihhltotalach": 374,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "KENDRI",
+      "ihhltotalasperdetails": 720,
+      "ihhltotalach": 720,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "KHANDUWA",
+      "ihhltotalasperdetails": 356,
+      "ihhltotalach": 356,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "KHATTI",
+      "ihhltotalasperdetails": 610,
+      "ihhltotalach": 610,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "KHILORA",
+      "ihhltotalasperdetails": 384,
+      "ihhltotalach": 384,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "KHOLA",
+      "ihhltotalasperdetails": 305,
+      "ihhltotalach": 305,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "KHORPA",
+      "ihhltotalasperdetails": 784,
+      "ihhltotalach": 784,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "KOLAR",
+      "ihhltotalasperdetails": 467,
+      "ihhltotalach": 467,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "KOLIYARI",
+      "ihhltotalasperdetails": 296,
+      "ihhltotalach": 296,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "KURRA",
+      "ihhltotalasperdetails": 493,
+      "ihhltotalach": 493,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "KURRU",
+      "ihhltotalasperdetails": 332,
+      "ihhltotalach": 332,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "LAMKENI",
+      "ihhltotalasperdetails": 216,
+      "ihhltotalach": 216,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "MANDLOR",
+      "ihhltotalasperdetails": 392,
+      "ihhltotalach": 392,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "MANIKCHAURI",
+      "ihhltotalasperdetails": 418,
+      "ihhltotalach": 418,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "MOHDI",
+      "ihhltotalasperdetails": 150,
+      "ihhltotalach": 150,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "MOKHETARA",
+      "ihhltotalasperdetails": 207,
+      "ihhltotalach": 207,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "MUNDRA",
+      "ihhltotalasperdetails": 372,
+      "ihhltotalach": 372,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "NAWAGAON",
+      "ihhltotalasperdetails": 189,
+      "ihhltotalach": 189,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "NAWAGAON (L)",
+      "ihhltotalasperdetails": 175,
+      "ihhltotalach": 175,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "NAYAKBANDHA",
+      "ihhltotalasperdetails": 276,
+      "ihhltotalach": 276,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "NIMORA",
+      "ihhltotalasperdetails": 472,
+      "ihhltotalach": 472,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "PACHEDA",
+      "ihhltotalasperdetails": 326,
+      "ihhltotalach": 326,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "PALAUD",
+      "ihhltotalasperdetails": 272,
+      "ihhltotalach": 272,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "PARAGAON",
+      "ihhltotalasperdetails": 944,
+      "ihhltotalach": 944,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "PARSADA",
+      "ihhltotalasperdetails": 350,
+      "ihhltotalach": 350,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "PARSADA(MAND)",
+      "ihhltotalasperdetails": 399,
+      "ihhltotalach": 399,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "PARSULIDIH",
+      "ihhltotalasperdetails": 284,
+      "ihhltotalach": 284,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "PATEWA",
+      "ihhltotalasperdetails": 473,
+      "ihhltotalach": 473,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "PIPRAUD",
+      "ihhltotalasperdetails": 548,
+      "ihhltotalach": 548,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "POND",
+      "ihhltotalasperdetails": 550,
+      "ihhltotalach": 550,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "RAWELI",
+      "ihhltotalasperdetails": 681,
+      "ihhltotalach": 681,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "SALOUNI",
+      "ihhltotalasperdetails": 400,
+      "ihhltotalach": 400,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "SANKARI",
+      "ihhltotalasperdetails": 516,
+      "ihhltotalach": 516,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "SARKHI",
+      "ihhltotalasperdetails": 647,
+      "ihhltotalach": 647,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "SATPARA",
+      "ihhltotalasperdetails": 325,
+      "ihhltotalach": 325,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "SEONI",
+      "ihhltotalasperdetails": 454,
+      "ihhltotalach": 454,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "SINGARBHATHA",
+      "ihhltotalasperdetails": 316,
+      "ihhltotalach": 316,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "SONESILLY",
+      "ihhltotalasperdetails": 155,
+      "ihhltotalach": 155,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "SONPAIRI",
+      "ihhltotalasperdetails": 400,
+      "ihhltotalach": 400,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "SUNDERKERA",
+      "ihhltotalasperdetails": 626,
+      "ihhltotalach": 626,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "TAMASEONI",
+      "ihhltotalasperdetails": 583,
+      "ihhltotalach": 583,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "TARRA",
+      "ihhltotalasperdetails": 76,
+      "ihhltotalach": 76,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "TARRI",
+      "ihhltotalasperdetails": 481,
+      "ihhltotalach": 481,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "TEKARI",
+      "ihhltotalasperdetails": 705,
+      "ihhltotalach": 705,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "TENDUWA",
+      "ihhltotalasperdetails": 403,
+      "ihhltotalach": 403,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "THANAUD",
+      "ihhltotalasperdetails": 146,
+      "ihhltotalach": 146,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "THELKABANDHA",
+      "ihhltotalasperdetails": 217,
+      "ihhltotalach": 217,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "TILA",
+      "ihhltotalasperdetails": 425,
+      "ihhltotalach": 425,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "TOKARO",
+      "ihhltotalasperdetails": 434,
+      "ihhltotalach": 434,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "TORLA",
+      "ihhltotalasperdetails": 594,
+      "ihhltotalach": 594,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "TUTA",
+      "ihhltotalasperdetails": 606,
+      "ihhltotalach": 606,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "UGETARA",
+      "ihhltotalasperdetails": 364,
+      "ihhltotalach": 364,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "ULBA",
+      "ihhltotalasperdetails": 387,
+      "ihhltotalach": 387,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "UMARPOTI",
+      "ihhltotalasperdetails": 221,
+      "ihhltotalach": 221,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ABHANPUR",
+      "grampanchayatname": "UPARWARA",
+      "ihhltotalasperdetails": 567,
+      "ihhltotalach": 567,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "ACHHOLI",
+      "ihhltotalasperdetails": 315,
+      "ihhltotalach": 315,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "AKOLI KHURD",
+      "ihhltotalasperdetails": 469,
+      "ihhltotalach": 469,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "AKOLIKALA",
+      "ihhltotalasperdetails": 370,
+      "ihhltotalach": 370,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "AKOLIKALA (LINGADIH)",
+      "ihhltotalasperdetails": 173,
+      "ihhltotalach": 173,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "AKOLIKHURD (PANDHI)",
+      "ihhltotalasperdetails": 159,
+      "ihhltotalach": 159,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "AMERI",
+      "ihhltotalasperdetails": 200,
+      "ihhltotalach": 200,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "AMETHI",
+      "ihhltotalasperdetails": 203,
+      "ihhltotalach": 203,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "AMODI",
+      "ihhltotalasperdetails": 314,
+      "ihhltotalach": 314,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "AMSENA",
+      "ihhltotalasperdetails": 238,
+      "ihhltotalach": 238,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "BADGAON",
+      "ihhltotalasperdetails": 307,
+      "ihhltotalach": 307,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "BAHNAKARI",
+      "ihhltotalasperdetails": 205,
+      "ihhltotalach": 205,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "BAIHAR",
+      "ihhltotalasperdetails": 283,
+      "ihhltotalach": 283,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "BAKTARA",
+      "ihhltotalasperdetails": 396,
+      "ihhltotalach": 396,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "BANA",
+      "ihhltotalasperdetails": 564,
+      "ihhltotalach": 564,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "BANARASI",
+      "ihhltotalasperdetails": 941,
+      "ihhltotalach": 941,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "BANCHRAODA",
+      "ihhltotalasperdetails": 200,
+      "ihhltotalach": 200,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "BARAUDA",
+      "ihhltotalasperdetails": 183,
+      "ihhltotalach": 183,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "BARCHA",
+      "ihhltotalasperdetails": 245,
+      "ihhltotalach": 245,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "BENIDIH",
+      "ihhltotalasperdetails": 246,
+      "ihhltotalach": 246,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "BHAINSA",
+      "ihhltotalasperdetails": 766,
+      "ihhltotalach": 766,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "BHAISMUNDI",
+      "ihhltotalasperdetails": 303,
+      "ihhltotalach": 303,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "BHALERA",
+      "ihhltotalasperdetails": 507,
+      "ihhltotalach": 507,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "BHANDARPURI",
+      "ihhltotalasperdetails": 335,
+      "ihhltotalach": 335,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "BHANSOJ",
+      "ihhltotalasperdetails": 389,
+      "ihhltotalach": 389,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "BHATIYA",
+      "ihhltotalasperdetails": 272,
+      "ihhltotalach": 272,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "BHILAI",
+      "ihhltotalasperdetails": 534,
+      "ihhltotalach": 534,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "BHOTHALI",
+      "ihhltotalasperdetails": 289,
+      "ihhltotalach": 289,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "BIRBIRA",
+      "ihhltotalasperdetails": 340,
+      "ihhltotalach": 340,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "BODARA",
+      "ihhltotalasperdetails": 407,
+      "ihhltotalach": 407,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "BORID",
+      "ihhltotalasperdetails": 339,
+      "ihhltotalach": 339,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "CHAKWE",
+      "ihhltotalasperdetails": 463,
+      "ihhltotalach": 463,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "CHANDKHURI",
+      "ihhltotalasperdetails": 663,
+      "ihhltotalach": 663,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "CHAPARID",
+      "ihhltotalasperdetails": 161,
+      "ihhltotalach": 161,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "CHARAUDA",
+      "ihhltotalasperdetails": 228,
+      "ihhltotalach": 228,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "CHATAUD",
+      "ihhltotalasperdetails": 356,
+      "ihhltotalach": 356,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "CHATAUNA",
+      "ihhltotalasperdetails": 205,
+      "ihhltotalach": 205,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "CHHATERA",
+      "ihhltotalasperdetails": 402,
+      "ihhltotalach": 402,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "CHHATONA",
+      "ihhltotalasperdetails": 18,
+      "ihhltotalach": 18,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "CHICHA",
+      "ihhltotalasperdetails": 174,
+      "ihhltotalach": 174,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "CHIKHLI",
+      "ihhltotalasperdetails": 326,
+      "ihhltotalach": 326,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "CHORBHATTI",
+      "ihhltotalasperdetails": 298,
+      "ihhltotalach": 298,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "DARBA",
+      "ihhltotalasperdetails": 379,
+      "ihhltotalach": 379,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "DEODA",
+      "ihhltotalasperdetails": 268,
+      "ihhltotalach": 268,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "DEORI",
+      "ihhltotalasperdetails": 249,
+      "ihhltotalach": 249,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "DEORTILDA",
+      "ihhltotalasperdetails": 413,
+      "ihhltotalach": 413,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "DHAMNI",
+      "ihhltotalasperdetails": 562,
+      "ihhltotalach": 562,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "DHANSULI",
+      "ihhltotalasperdetails": 328,
+      "ihhltotalach": 328,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "DHOARABHATA",
+      "ihhltotalasperdetails": 114,
+      "ihhltotalach": 114,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "DHOBBATTI",
+      "ihhltotalasperdetails": 137,
+      "ihhltotalach": 137,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "DIGHARI",
+      "ihhltotalasperdetails": 431,
+      "ihhltotalach": 431,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "DUMHA",
+      "ihhltotalasperdetails": 187,
+      "ihhltotalach": 187,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "FARFAUD",
+      "ihhltotalasperdetails": 508,
+      "ihhltotalach": 508,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "GANAUD",
+      "ihhltotalasperdetails": 492,
+      "ihhltotalach": 492,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "GAURBHATH",
+      "ihhltotalasperdetails": 496,
+      "ihhltotalach": 496,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "GHONT",
+      "ihhltotalasperdetails": 325,
+      "ihhltotalach": 325,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "GHORBHATTI",
+      "ihhltotalasperdetails": 306,
+      "ihhltotalach": 306,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "GIDHAWA",
+      "ihhltotalasperdetails": 256,
+      "ihhltotalach": 256,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "GODHI",
+      "ihhltotalasperdetails": 328,
+      "ihhltotalach": 328,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "GOINDA",
+      "ihhltotalasperdetails": 436,
+      "ihhltotalach": 436,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "GUJRA",
+      "ihhltotalasperdetails": 257,
+      "ihhltotalach": 257,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "GUKHERA",
+      "ihhltotalasperdetails": 329,
+      "ihhltotalach": 329,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "GULLU",
+      "ihhltotalasperdetails": 979,
+      "ihhltotalach": 979,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "GUMA",
+      "ihhltotalasperdetails": 163,
+      "ihhltotalach": 163,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "JARAUD",
+      "ihhltotalasperdetails": 225,
+      "ihhltotalach": 225,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "JAROUD",
+      "ihhltotalasperdetails": 213,
+      "ihhltotalach": 213,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "JUGESHAR",
+      "ihhltotalasperdetails": 322,
+      "ihhltotalach": 322,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "KAGDEHI",
+      "ihhltotalasperdetails": 388,
+      "ihhltotalach": 388,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "KALAI",
+      "ihhltotalasperdetails": 222,
+      "ihhltotalach": 222,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "KARMANDI",
+      "ihhltotalasperdetails": 213,
+      "ihhltotalach": 213,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "KATHIYA",
+      "ihhltotalasperdetails": 196,
+      "ihhltotalach": 196,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "KAYABANDHA",
+      "ihhltotalasperdetails": 151,
+      "ihhltotalach": 151,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "KESHLA",
+      "ihhltotalasperdetails": 298,
+      "ihhltotalach": 298,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "KHAMARIYA",
+      "ihhltotalasperdetails": 337,
+      "ihhltotalach": 337,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "KHAMTARAI",
+      "ihhltotalasperdetails": 230,
+      "ihhltotalach": 230,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "KHAOLI",
+      "ihhltotalasperdetails": 610,
+      "ihhltotalach": 610,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "KHORSI",
+      "ihhltotalasperdetails": 264,
+      "ihhltotalach": 264,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "KHUTERI",
+      "ihhltotalasperdetails": 447,
+      "ihhltotalach": 447,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "KODAPAR",
+      "ihhltotalasperdetails": 352,
+      "ihhltotalach": 352,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "KOORUD (B)",
+      "ihhltotalasperdetails": 335,
+      "ihhltotalach": 335,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "KORASI",
+      "ihhltotalasperdetails": 1261,
+      "ihhltotalach": 1261,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "KOSAMKHUTA",
+      "ihhltotalasperdetails": 286,
+      "ihhltotalach": 286,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "KOSRANGI",
+      "ihhltotalasperdetails": 761,
+      "ihhltotalach": 761,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "KOTNI",
+      "ihhltotalasperdetails": 328,
+      "ihhltotalach": 328,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "KOTRABHATA",
+      "ihhltotalasperdetails": 153,
+      "ihhltotalach": 153,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "KUHERA",
+      "ihhltotalasperdetails": 278,
+      "ihhltotalach": 278,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "KUKRA",
+      "ihhltotalasperdetails": 291,
+      "ihhltotalach": 291,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "KUMHARI",
+      "ihhltotalasperdetails": 405,
+      "ihhltotalach": 405,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "KURUD",
+      "ihhltotalasperdetails": 628,
+      "ihhltotalach": 628,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "KUSMUND",
+      "ihhltotalasperdetails": 232,
+      "ihhltotalach": 232,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "KUTELA",
+      "ihhltotalasperdetails": 530,
+      "ihhltotalach": 530,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "KUTESAR",
+      "ihhltotalasperdetails": 147,
+      "ihhltotalach": 147,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "LAKHOLI",
+      "ihhltotalasperdetails": 581,
+      "ihhltotalach": 581,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "LANJA",
+      "ihhltotalasperdetails": 249,
+      "ihhltotalach": 249,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "MAJITHA",
+      "ihhltotalasperdetails": 420,
+      "ihhltotalach": 420,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "MALIDIH",
+      "ihhltotalasperdetails": 569,
+      "ihhltotalach": 569,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "MANDIRHASAUD",
+      "ihhltotalasperdetails": 931,
+      "ihhltotalach": 931,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "MOKHLA",
+      "ihhltotalasperdetails": 617,
+      "ihhltotalach": 617,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "MUNAGI",
+      "ihhltotalasperdetails": 454,
+      "ihhltotalach": 454,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "MUNGESAR",
+      "ihhltotalasperdetails": 463,
+      "ihhltotalach": 463,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "MUNRETHI",
+      "ihhltotalasperdetails": 218,
+      "ihhltotalach": 218,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "NAGPURA",
+      "ihhltotalasperdetails": 358,
+      "ihhltotalach": 358,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "NAKTA",
+      "ihhltotalasperdetails": 416,
+      "ihhltotalach": 416,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "NARA",
+      "ihhltotalasperdetails": 693,
+      "ihhltotalach": 693,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "NARDAHA",
+      "ihhltotalasperdetails": 969,
+      "ihhltotalach": 969,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "NARIYARA",
+      "ihhltotalasperdetails": 261,
+      "ihhltotalach": 261,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "NAWAGAON (KHAPARI)",
+      "ihhltotalasperdetails": 304,
+      "ihhltotalach": 304,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "NAWAGAON (KHAUTERI )",
+      "ihhltotalasperdetails": 426,
+      "ihhltotalach": 426,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "NISADA",
+      "ihhltotalasperdetails": 618,
+      "ihhltotalach": 618,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "ODAKA",
+      "ihhltotalasperdetails": 231,
+      "ihhltotalach": 231,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "PACHEDA",
+      "ihhltotalasperdetails": 466,
+      "ihhltotalach": 466,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "PAHANDA",
+      "ihhltotalasperdetails": 272,
+      "ihhltotalach": 272,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "PALAUD",
+      "ihhltotalasperdetails": 635,
+      "ihhltotalach": 635,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "PANDHI",
+      "ihhltotalasperdetails": 208,
+      "ihhltotalach": 208,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "PARAGAON",
+      "ihhltotalasperdetails": 653,
+      "ihhltotalach": 653,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "PARASKOL",
+      "ihhltotalasperdetails": 303,
+      "ihhltotalach": 303,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "PARSADA",
+      "ihhltotalasperdetails": 149,
+      "ihhltotalach": 149,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "PARSADAA",
+      "ihhltotalasperdetails": 322,
+      "ihhltotalach": 322,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "PIRDA",
+      "ihhltotalasperdetails": 461,
+      "ihhltotalach": 461,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "RAKHI",
+      "ihhltotalasperdetails": 188,
+      "ihhltotalach": 188,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "RANISAGAR",
+      "ihhltotalasperdetails": 480,
+      "ihhltotalach": 480,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "RASNI",
+      "ihhltotalasperdetails": 626,
+      "ihhltotalach": 626,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "RASOTA",
+      "ihhltotalasperdetails": 279,
+      "ihhltotalach": 279,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "RATAKAT",
+      "ihhltotalasperdetails": 321,
+      "ihhltotalach": 321,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "REEWA",
+      "ihhltotalasperdetails": 772,
+      "ihhltotalach": 772,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "RIKO",
+      "ihhltotalasperdetails": 401,
+      "ihhltotalach": 401,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "SAKARI",
+      "ihhltotalasperdetails": 180,
+      "ihhltotalach": 180,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "SAMODA",
+      "ihhltotalasperdetails": 641,
+      "ihhltotalach": 641,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "SANDI",
+      "ihhltotalasperdetails": 434,
+      "ihhltotalach": 434,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "SANKARI",
+      "ihhltotalasperdetails": 337,
+      "ihhltotalach": 337,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "SEJA",
+      "ihhltotalasperdetails": 241,
+      "ihhltotalach": 241,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "SEMARIA",
+      "ihhltotalasperdetails": 572,
+      "ihhltotalach": 572,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "SEMARIYA(PA)",
+      "ihhltotalasperdetails": 279,
+      "ihhltotalach": 279,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "SENDH",
+      "ihhltotalasperdetails": 167,
+      "ihhltotalach": 167,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "SEONI",
+      "ihhltotalasperdetails": 412,
+      "ihhltotalach": 412,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "SONPAIRI",
+      "ihhltotalasperdetails": 295,
+      "ihhltotalach": 295,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "TANDUL",
+      "ihhltotalasperdetails": 193,
+      "ihhltotalach": 193,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "TEKARI",
+      "ihhltotalasperdetails": 442,
+      "ihhltotalach": 442,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "TOARGAON",
+      "ihhltotalasperdetails": 312,
+      "ihhltotalach": 312,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "TULSI",
+      "ihhltotalasperdetails": 472,
+      "ihhltotalach": 472,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "ARANG",
+      "grampanchayatname": "UMARIYA",
+      "ihhltotalasperdetails": 299,
+      "ihhltotalach": 299,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "AKOLI",
+      "ihhltotalasperdetails": 391,
+      "ihhltotalach": 391,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "BAHESAR",
+      "ihhltotalasperdetails": 176,
+      "ihhltotalach": 176,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "BANA",
+      "ihhltotalasperdetails": 362,
+      "ihhltotalach": 362,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "BANRASI",
+      "ihhltotalasperdetails": 267,
+      "ihhltotalach": 267,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "BARATNARA",
+      "ihhltotalasperdetails": 273,
+      "ihhltotalach": 273,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "BARBANDA",
+      "ihhltotalasperdetails": 503,
+      "ihhltotalach": 503,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "BARODA",
+      "ihhltotalasperdetails": 430,
+      "ihhltotalach": 430,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "BENDRI",
+      "ihhltotalasperdetails": 255,
+      "ihhltotalach": 255,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "BHAISMUDA",
+      "ihhltotalasperdetails": 300,
+      "ihhltotalach": 300,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "BHATGAON",
+      "ihhltotalasperdetails": 365,
+      "ihhltotalach": 365,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "BORIYAKALA",
+      "ihhltotalasperdetails": 511,
+      "ihhltotalach": 511,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "CHAPORA",
+      "ihhltotalasperdetails": 659,
+      "ihhltotalach": 659,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "CHARAUDA",
+      "ihhltotalasperdetails": 468,
+      "ihhltotalach": 468,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "CHIKHLI",
+      "ihhltotalasperdetails": 226,
+      "ihhltotalach": 226,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "DATRENGA",
+      "ihhltotalasperdetails": 572,
+      "ihhltotalach": 572,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "DEORI",
+      "ihhltotalasperdetails": 628,
+      "ihhltotalach": 628,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "DHANELI (SANKRA)",
+      "ihhltotalasperdetails": 605,
+      "ihhltotalach": 605,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "DHANELI(BHAT)",
+      "ihhltotalasperdetails": 337,
+      "ihhltotalach": 337,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "DHARAMPURA",
+      "ihhltotalasperdetails": 461,
+      "ihhltotalach": 461,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "DHARSIWA",
+      "ihhltotalasperdetails": 960,
+      "ihhltotalach": 960,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "DOMA",
+      "ihhltotalasperdetails": 309,
+      "ihhltotalach": 309,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "DONDEKALA",
+      "ihhltotalasperdetails": 503,
+      "ihhltotalach": 503,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "DONDEKHURD",
+      "ihhltotalasperdetails": 738,
+      "ihhltotalach": 738,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "GIROUD",
+      "ihhltotalasperdetails": 660,
+      "ihhltotalach": 660,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "GODHI",
+      "ihhltotalasperdetails": 416,
+      "ihhltotalach": 416,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "GOMCHI",
+      "ihhltotalasperdetails": 254,
+      "ihhltotalach": 254,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "GUMA",
+      "ihhltotalasperdetails": 569,
+      "ihhltotalach": 569,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "HATHBAND",
+      "ihhltotalasperdetails": 171,
+      "ihhltotalach": 171,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "JAROUODA",
+      "ihhltotalasperdetails": 462,
+      "ihhltotalach": 462,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "KANDUL",
+      "ihhltotalasperdetails": 330,
+      "ihhltotalach": 330,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "KANHERA",
+      "ihhltotalasperdetails": 310,
+      "ihhltotalach": 310,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "KAPASADA",
+      "ihhltotalasperdetails": 562,
+      "ihhltotalach": 562,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "KARA",
+      "ihhltotalasperdetails": 242,
+      "ihhltotalach": 242,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "KATHATHIH",
+      "ihhltotalasperdetails": 206,
+      "ihhltotalach": 206,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "KUKERA",
+      "ihhltotalasperdetails": 443,
+      "ihhltotalach": 443,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "KUMHARI",
+      "ihhltotalasperdetails": 323,
+      "ihhltotalach": 323,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "KURUD(SILYARI)",
+      "ihhltotalasperdetails": 1184,
+      "ihhltotalach": 1184,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "KUTWAIL",
+      "ihhltotalasperdetails": 223,
+      "ihhltotalach": 223,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "LALPUR",
+      "ihhltotalasperdetails": 63,
+      "ihhltotalach": 63,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "MALOUD",
+      "ihhltotalasperdetails": 441,
+      "ihhltotalach": 441,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "MANABUSTI",
+      "ihhltotalasperdetails": 995,
+      "ihhltotalach": 995,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "MANDHAR",
+      "ihhltotalasperdetails": 1063,
+      "ihhltotalach": 1063,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "MANGSA",
+      "ihhltotalasperdetails": 286,
+      "ihhltotalach": 286,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "MANOHARA",
+      "ihhltotalasperdetails": 348,
+      "ihhltotalach": 348,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "MATIYA",
+      "ihhltotalasperdetails": 384,
+      "ihhltotalach": 384,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "MOHDI",
+      "ihhltotalasperdetails": 365,
+      "ihhltotalach": 365,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "MOUHGAON",
+      "ihhltotalasperdetails": 188,
+      "ihhltotalach": 188,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "MUJGAHAN",
+      "ihhltotalasperdetails": 430,
+      "ihhltotalach": 430,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "MURETHI",
+      "ihhltotalasperdetails": 288,
+      "ihhltotalach": 288,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "MURRA",
+      "ihhltotalasperdetails": 234,
+      "ihhltotalach": 234,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "NAGARGAON",
+      "ihhltotalasperdetails": 401,
+      "ihhltotalach": 401,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "NAKTI",
+      "ihhltotalasperdetails": 312,
+      "ihhltotalach": 312,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "NEURDIH",
+      "ihhltotalasperdetails": 486,
+      "ihhltotalach": 486,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "NILJA",
+      "ihhltotalasperdetails": 410,
+      "ihhltotalach": 410,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "NIMORA",
+      "ihhltotalasperdetails": 483,
+      "ihhltotalach": 483,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "PANDARBHATTA",
+      "ihhltotalasperdetails": 276,
+      "ihhltotalach": 276,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "PARASTARAI",
+      "ihhltotalasperdetails": 330,
+      "ihhltotalach": 330,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "PATHARIDIH",
+      "ihhltotalasperdetails": 379,
+      "ihhltotalach": 379,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "PATHRI (KHUDMUDI)",
+      "ihhltotalasperdetails": 568,
+      "ihhltotalach": 568,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "PAVANI",
+      "ihhltotalasperdetails": 493,
+      "ihhltotalach": 493,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "PIRDA",
+      "ihhltotalasperdetails": 552,
+      "ihhltotalach": 552,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "RAITA",
+      "ihhltotalasperdetails": 395,
+      "ihhltotalach": 395,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "SANKRA",
+      "ihhltotalasperdetails": 579,
+      "ihhltotalach": 579,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "SANKRI",
+      "ihhltotalasperdetails": 425,
+      "ihhltotalach": 425,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "SARAGAON",
+      "ihhltotalasperdetails": 978,
+      "ihhltotalach": 978,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "SEJBAHAR",
+      "ihhltotalasperdetails": 622,
+      "ihhltotalach": 622,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "SERIKHEDI",
+      "ihhltotalasperdetails": 957,
+      "ihhltotalach": 957,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "SILTARA",
+      "ihhltotalasperdetails": 1007,
+      "ihhltotalach": 1007,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "SONDRA",
+      "ihhltotalasperdetails": 407,
+      "ihhltotalach": 407,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "TANDA",
+      "ihhltotalasperdetails": 473,
+      "ihhltotalach": 473,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "TARESAR",
+      "ihhltotalasperdetails": 250,
+      "ihhltotalach": 250,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "TARRA",
+      "ihhltotalasperdetails": 355,
+      "ihhltotalach": 355,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "TEKARI",
+      "ihhltotalasperdetails": 809,
+      "ihhltotalach": 809,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "TEMRI",
+      "ihhltotalasperdetails": 367,
+      "ihhltotalach": 367,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "TENDUA",
+      "ihhltotalasperdetails": 226,
+      "ihhltotalach": 226,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "TIVRAIYA",
+      "ihhltotalasperdetails": 368,
+      "ihhltotalach": 368,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "TOR",
+      "ihhltotalasperdetails": 533,
+      "ihhltotalach": 533,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "DHARSIWA",
+      "grampanchayatname": "TULSI",
+      "ihhltotalasperdetails": 673,
+      "ihhltotalach": 673,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "ADSENA",
+      "ihhltotalasperdetails": 641,
+      "ihhltotalach": 641,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "ALDA",
+      "ihhltotalasperdetails": 323,
+      "ihhltotalach": 323,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "ALESUR",
+      "ihhltotalasperdetails": 247,
+      "ihhltotalach": 247,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "ASOUDA",
+      "ihhltotalasperdetails": 438,
+      "ihhltotalach": 438,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "BAHESAR",
+      "ihhltotalasperdetails": 246,
+      "ihhltotalach": 246,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "BANGOLI",
+      "ihhltotalasperdetails": 441,
+      "ihhltotalach": 441,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "BARATORI",
+      "ihhltotalasperdetails": 265,
+      "ihhltotalach": 265,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "BAROUNDA",
+      "ihhltotalasperdetails": 398,
+      "ihhltotalach": 398,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "BARTORI",
+      "ihhltotalasperdetails": 202,
+      "ihhltotalach": 202,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "BELDARSIVNI",
+      "ihhltotalasperdetails": 892,
+      "ihhltotalach": 892,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "BELTUKRI",
+      "ihhltotalasperdetails": 337,
+      "ihhltotalach": 337,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "BEMTA",
+      "ihhltotalasperdetails": 277,
+      "ihhltotalach": 277,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "BHADANA",
+      "ihhltotalasperdetails": 245,
+      "ihhltotalach": 245,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "BHARUWADIH KALA",
+      "ihhltotalasperdetails": 413,
+      "ihhltotalach": 413,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "BHILONI",
+      "ihhltotalasperdetails": 333,
+      "ihhltotalach": 333,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "BHIMOURI",
+      "ihhltotalasperdetails": 275,
+      "ihhltotalach": 275,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "BHUMIYA",
+      "ihhltotalasperdetails": 357,
+      "ihhltotalach": 357,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "BHURSUDA",
+      "ihhltotalasperdetails": 475,
+      "ihhltotalach": 475,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "BILADI",
+      "ihhltotalasperdetails": 686,
+      "ihhltotalach": 686,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "BITHIYA",
+      "ihhltotalasperdetails": 499,
+      "ihhltotalach": 499,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "BUDENI",
+      "ihhltotalasperdetails": 433,
+      "ihhltotalach": 433,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "BUDERA",
+      "ihhltotalasperdetails": 435,
+      "ihhltotalach": 435,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "BUDGAHAN",
+      "ihhltotalasperdetails": 325,
+      "ihhltotalach": 325,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "CHAMPA",
+      "ihhltotalasperdetails": 365,
+      "ihhltotalach": 365,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "CHAPORA",
+      "ihhltotalasperdetails": 261,
+      "ihhltotalach": 261,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "CHATAUD",
+      "ihhltotalasperdetails": 391,
+      "ihhltotalach": 391,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "CHHACHHANPAHRI",
+      "ihhltotalasperdetails": 35,
+      "ihhltotalach": 35,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "CHHADIYA",
+      "ihhltotalasperdetails": 338,
+      "ihhltotalach": 338,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "CHICHOLI",
+      "ihhltotalasperdetails": 300,
+      "ihhltotalach": 300,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "DEORI",
+      "ihhltotalasperdetails": 212,
+      "ihhltotalach": 212,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "DEVGAON",
+      "ihhltotalasperdetails": 362,
+      "ihhltotalach": 362,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "DHANSULI",
+      "ihhltotalasperdetails": 206,
+      "ihhltotalach": 206,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "GAITARA",
+      "ihhltotalasperdetails": 231,
+      "ihhltotalach": 231,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "GANIYARI",
+      "ihhltotalasperdetails": 352,
+      "ihhltotalach": 352,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "GHIVRA",
+      "ihhltotalasperdetails": 463,
+      "ihhltotalach": 463,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "ILDA",
+      "ihhltotalasperdetails": 298,
+      "ihhltotalach": 298,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "JALSO",
+      "ihhltotalasperdetails": 300,
+      "ihhltotalach": 300,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "JANJGIRA",
+      "ihhltotalasperdetails": 322,
+      "ihhltotalach": 322,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "JOTA",
+      "ihhltotalasperdetails": 241,
+      "ihhltotalach": 241,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "KANKI",
+      "ihhltotalasperdetails": 516,
+      "ihhltotalach": 516,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "KATHIYA",
+      "ihhltotalasperdetails": 493,
+      "ihhltotalach": 493,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "KESALA",
+      "ihhltotalasperdetails": 964,
+      "ihhltotalach": 964,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "KEVTARA",
+      "ihhltotalasperdetails": 362,
+      "ihhltotalach": 362,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "KHAIRKHOOT",
+      "ihhltotalasperdetails": 308,
+      "ihhltotalach": 308,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "KHAMRIYA",
+      "ihhltotalasperdetails": 495,
+      "ihhltotalach": 495,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "KHAPRIDIH KHURD",
+      "ihhltotalasperdetails": 336,
+      "ihhltotalach": 336,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "KHAPRIKALA",
+      "ihhltotalasperdetails": 498,
+      "ihhltotalach": 498,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "KHOUNA",
+      "ihhltotalasperdetails": 436,
+      "ihhltotalach": 436,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "KIRNA",
+      "ihhltotalasperdetails": 568,
+      "ihhltotalach": 568,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "KODVA",
+      "ihhltotalasperdetails": 452,
+      "ihhltotalach": 452,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "KOHKA",
+      "ihhltotalasperdetails": 450,
+      "ihhltotalach": 450,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "KOTA",
+      "ihhltotalasperdetails": 351,
+      "ihhltotalach": 351,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "KUMHARI",
+      "ihhltotalasperdetails": 328,
+      "ihhltotalach": 328,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "KUNDRU",
+      "ihhltotalasperdetails": 554,
+      "ihhltotalach": 554,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "KURRA",
+      "ihhltotalasperdetails": 287,
+      "ihhltotalach": 287,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "LAKHNA",
+      "ihhltotalasperdetails": 289,
+      "ihhltotalach": 289,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "MAATH",
+      "ihhltotalasperdetails": 358,
+      "ihhltotalach": 358,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "MADHI",
+      "ihhltotalasperdetails": 464,
+      "ihhltotalach": 464,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "MOHDA",
+      "ihhltotalasperdetails": 435,
+      "ihhltotalach": 435,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "MOHDI",
+      "ihhltotalasperdetails": 229,
+      "ihhltotalach": 229,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "MOHGAON",
+      "ihhltotalasperdetails": 275,
+      "ihhltotalach": 275,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "MOHRENGA",
+      "ihhltotalasperdetails": 572,
+      "ihhltotalach": 572,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "MOTIMPURKALA",
+      "ihhltotalasperdetails": 290,
+      "ihhltotalach": 290,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "MUDPAR",
+      "ihhltotalasperdetails": 242,
+      "ihhltotalach": 242,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "MURA",
+      "ihhltotalasperdetails": 495,
+      "ihhltotalach": 495,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "NAHARDIH",
+      "ihhltotalasperdetails": 212,
+      "ihhltotalach": 212,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "NAKTI KUMHARI",
+      "ihhltotalasperdetails": 314,
+      "ihhltotalach": 314,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "NAWGAON",
+      "ihhltotalasperdetails": 193,
+      "ihhltotalach": 193,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "NINVA",
+      "ihhltotalasperdetails": 384,
+      "ihhltotalach": 384,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "OTGAN",
+      "ihhltotalasperdetails": 236,
+      "ihhltotalach": 236,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "PACHRI",
+      "ihhltotalasperdetails": 308,
+      "ihhltotalach": 308,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "PADABHAT",
+      "ihhltotalasperdetails": 501,
+      "ihhltotalach": 501,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "PARSADA",
+      "ihhltotalasperdetails": 312,
+      "ihhltotalach": 312,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "PARSDA",
+      "ihhltotalasperdetails": 483,
+      "ihhltotalach": 483,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "PHARHADA",
+      "ihhltotalasperdetails": 400,
+      "ihhltotalach": 400,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "PIKRIDIH",
+      "ihhltotalasperdetails": 175,
+      "ihhltotalach": 175,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "RAIKHEDA",
+      "ihhltotalasperdetails": 714,
+      "ihhltotalach": 714,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "RAJIYA",
+      "ihhltotalasperdetails": 481,
+      "ihhltotalach": 481,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "SADDU",
+      "ihhltotalasperdetails": 374,
+      "ihhltotalach": 374,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "SAGUNI",
+      "ihhltotalasperdetails": 254,
+      "ihhltotalach": 254,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "SANKRA",
+      "ihhltotalasperdetails": 475,
+      "ihhltotalach": 475,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "SARORA",
+      "ihhltotalasperdetails": 952,
+      "ihhltotalach": 952,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "SARPHONGA",
+      "ihhltotalasperdetails": 393,
+      "ihhltotalach": 393,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "SATBHAVA",
+      "ihhltotalasperdetails": 450,
+      "ihhltotalach": 450,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "SILPATTI",
+      "ihhltotalasperdetails": 261,
+      "ihhltotalach": 261,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "SINODHA",
+      "ihhltotalasperdetails": 490,
+      "ihhltotalach": 490,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "SIRRI",
+      "ihhltotalasperdetails": 534,
+      "ihhltotalach": 534,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "SIRVE",
+      "ihhltotalasperdetails": 237,
+      "ihhltotalach": 237,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "SONTARA",
+      "ihhltotalasperdetails": 190,
+      "ihhltotalach": 190,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "SUNGERA",
+      "ihhltotalasperdetails": 296,
+      "ihhltotalach": 296,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "TANDAVA",
+      "ihhltotalasperdetails": 1110,
+      "ihhltotalach": 1110,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "TARASHIV",
+      "ihhltotalasperdetails": 335,
+      "ihhltotalach": 335,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "TARPONGI",
+      "ihhltotalasperdetails": 395,
+      "ihhltotalach": 395,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "TEKARI PARASVANI (SARARIDIH)",
+      "ihhltotalasperdetails": 363,
+      "ihhltotalach": 363,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "TILDADIH",
+      "ihhltotalasperdetails": 4,
+      "ihhltotalach": 4,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "TOHDA",
+      "ihhltotalasperdetails": 281,
+      "ihhltotalach": 281,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "TULSI",
+      "ihhltotalasperdetails": 210,
+      "ihhltotalach": 210,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "TULSIMANPUR",
+      "ihhltotalasperdetails": 512,
+      "ihhltotalach": 512,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "RAIPUR",
+      "blockname": "TILDA",
+      "grampanchayatname": "TULSINEORA",
+      "ihhltotalasperdetails": 901,
+      "ihhltotalach": 901,
+      "date": "5/19/2020 12:00:00 AM"
+    }
+  ]
+}

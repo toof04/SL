@@ -1,0 +1,378 @@
+{
+  "index_name": "bc232019-2650-4517-ade1-58ed91c349d6",
+  "title": "State wise Achievement Report of National Rural Livelihoods Mission: SHG Bank Linkage during 2014-15  (From :Ministry of Rural Development)",
+  "desc": "State wise Achievement Report of National Rural Livelihoods Mission: SHG Bank Linkage during 2014-15  (From :Ministry of Rural Development)",
+  "org_type": "Central",
+  "org": [
+    "Rajya Sabha"
+  ],
+  "sector": [
+    "All"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "5ba37af5-11d9-4b25-826d-a7a51b2395cd",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1697910046,
+  "updated": 1698057977,
+  "created_date": "2023-10-21T19:40:46Z",
+  "updated_date": "2023-10-23T16:16:17Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "5ba37af5-11d9-4b25-826d-a7a51b2395cd",
+    "field": "bc232019-2650-4517-ade1-58ed91c349d6"
+  },
+  "field": [
+    {
+      "id": "_s_no",
+      "name": "S.No",
+      "type": "keyword"
+    },
+    {
+      "id": "states___uts",
+      "name": "States & Uts",
+      "type": "keyword"
+    },
+    {
+      "id": "target___total_shgs",
+      "name": "Target - Total SHGs",
+      "type": "double"
+    },
+    {
+      "id": "target___total_loan_amount",
+      "name": "Target - Total Loan Amount",
+      "type": "double"
+    },
+    {
+      "id": "achievement___total_shgs",
+      "name": "Achievement - Total SHGs",
+      "type": "double"
+    },
+    {
+      "id": "achievement___total_loan_amount",
+      "name": "Achievement - Total Loan Amount",
+      "type": "double"
+    },
+    {
+      "id": "achievement_percentage______total_shgs",
+      "name": "Achievement Percentage(%) - Total SHGs",
+      "type": "keyword"
+    },
+    {
+      "id": "achievement_percentage______total_loan_amount",
+      "name": "Achievement Percentage(%) - Total Loan Amount",
+      "type": "keyword"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 30,
+  "count": 30,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "_s_no": "1",
+      "states___uts": "ANDHRA PRADESH",
+      "target___total_shgs": 281438,
+      "target___total_loan_amount": 921400,
+      "achievement___total_shgs": 175362,
+      "achievement___total_loan_amount": 558472.64,
+      "achievement_percentage______total_shgs": "62%",
+      "achievement_percentage______total_loan_amount": "61%"
+    },
+    {
+      "_s_no": "2",
+      "states___uts": "TAMIL NADU",
+      "target___total_shgs": 300000,
+      "target___total_loan_amount": 600000,
+      "achievement___total_shgs": 147614,
+      "achievement___total_loan_amount": 379914.18,
+      "achievement_percentage______total_shgs": "49%",
+      "achievement_percentage______total_loan_amount": "63%"
+    },
+    {
+      "_s_no": "3",
+      "states___uts": "KARNATAKA",
+      "target___total_shgs": 225000,
+      "target___total_loan_amount": 292500,
+      "achievement___total_shgs": 208742,
+      "achievement___total_loan_amount": 368406.35,
+      "achievement_percentage______total_shgs": "93%",
+      "achievement_percentage______total_loan_amount": "126%"
+    },
+    {
+      "_s_no": "4",
+      "states___uts": "TELANGANA",
+      "target___total_shgs": 184887,
+      "target___total_loan_amount": 537300,
+      "achievement___total_shgs": 120089,
+      "achievement___total_loan_amount": 348555.05,
+      "achievement_percentage______total_shgs": "65%",
+      "achievement_percentage______total_loan_amount": "65%"
+    },
+    {
+      "_s_no": "5",
+      "states___uts": "WEST BENGAL",
+      "target___total_shgs": 143435,
+      "target___total_loan_amount": 101880,
+      "achievement___total_shgs": 126226,
+      "achievement___total_loan_amount": 108903.16,
+      "achievement_percentage______total_shgs": "88%",
+      "achievement_percentage______total_loan_amount": "107%"
+    },
+    {
+      "_s_no": "6",
+      "states___uts": "KERALA",
+      "target___total_shgs": 80000,
+      "target___total_loan_amount": 100000,
+      "achievement___total_shgs": 50534,
+      "achievement___total_loan_amount": 106982.34,
+      "achievement_percentage______total_shgs": "63%",
+      "achievement_percentage______total_loan_amount": "107%"
+    },
+    {
+      "_s_no": "7",
+      "states___uts": "MAHARASHTRA",
+      "target___total_shgs": 40900,
+      "target___total_loan_amount": 30000,
+      "achievement___total_shgs": 41604,
+      "achievement___total_loan_amount": 53128.91,
+      "achievement_percentage______total_shgs": "102%",
+      "achievement_percentage______total_loan_amount": "177%"
+    },
+    {
+      "_s_no": "8",
+      "states___uts": "ODISHA",
+      "target___total_shgs": 50000,
+      "target___total_loan_amount": 50000,
+      "achievement___total_shgs": 43272,
+      "achievement___total_loan_amount": 51289.58,
+      "achievement_percentage______total_shgs": "87%",
+      "achievement_percentage______total_loan_amount": "103%"
+    },
+    {
+      "_s_no": "9",
+      "states___uts": "BIHAR",
+      "target___total_shgs": 165865,
+      "target___total_loan_amount": 94100,
+      "achievement___total_shgs": 30827,
+      "achievement___total_loan_amount": 21560.51,
+      "achievement_percentage______total_shgs": "19%",
+      "achievement_percentage______total_loan_amount": "23%"
+    },
+    {
+      "_s_no": "10",
+      "states___uts": "GUJARAT",
+      "target___total_shgs": 17800,
+      "target___total_loan_amount": 13200,
+      "achievement___total_shgs": 14452,
+      "achievement___total_loan_amount": 13691.74,
+      "achievement_percentage______total_shgs": "81%",
+      "achievement_percentage______total_loan_amount": "104%"
+    },
+    {
+      "_s_no": "11",
+      "states___uts": "RAJASTHAN",
+      "target___total_shgs": 14500,
+      "target___total_loan_amount": 7750,
+      "achievement___total_shgs": 13217,
+      "achievement___total_loan_amount": 13167.03,
+      "achievement_percentage______total_shgs": "91%",
+      "achievement_percentage______total_loan_amount": "170%"
+    },
+    {
+      "_s_no": "12",
+      "states___uts": "MADHYA PRADESH",
+      "target___total_shgs": 35000,
+      "target___total_loan_amount": 50000,
+      "achievement___total_shgs": 12595,
+      "achievement___total_loan_amount": 11794.64,
+      "achievement_percentage______total_shgs": "36%",
+      "achievement_percentage______total_loan_amount": "24%"
+    },
+    {
+      "_s_no": "13",
+      "states___uts": "ASSAM",
+      "target___total_shgs": 59000,
+      "target___total_loan_amount": 35000,
+      "achievement___total_shgs": 10775,
+      "achievement___total_loan_amount": 9075.85,
+      "achievement_percentage______total_shgs": "18%",
+      "achievement_percentage______total_loan_amount": "26%"
+    },
+    {
+      "_s_no": "14",
+      "states___uts": "CHATTISGARH",
+      "target___total_shgs": 15000,
+      "target___total_loan_amount": 8000,
+      "achievement___total_shgs": 7353,
+      "achievement___total_loan_amount": 8905.18,
+      "achievement_percentage______total_shgs": "49%",
+      "achievement_percentage______total_loan_amount": "111%"
+    },
+    {
+      "_s_no": "15",
+      "states___uts": "UTTAR PRADESH",
+      "target___total_shgs": 2000,
+      "target___total_loan_amount": 1000,
+      "achievement___total_shgs": 5143,
+      "achievement___total_loan_amount": 8371.17,
+      "achievement_percentage______total_shgs": "257%",
+      "achievement_percentage______total_loan_amount": "837%"
+    },
+    {
+      "_s_no": "16",
+      "states___uts": "PUDUCHERRY",
+      "target___total_shgs": "0",
+      "target___total_loan_amount": "0",
+      "achievement___total_shgs": 1298,
+      "achievement___total_loan_amount": 3323.54,
+      "achievement_percentage______total_shgs": "NA",
+      "achievement_percentage______total_loan_amount": "NA"
+    },
+    {
+      "_s_no": "17",
+      "states___uts": "JHARKHAND",
+      "target___total_shgs": 35000,
+      "target___total_loan_amount": 20000,
+      "achievement___total_shgs": 3026,
+      "achievement___total_loan_amount": 3051.17,
+      "achievement_percentage______total_shgs": "9%",
+      "achievement_percentage______total_loan_amount": "15%"
+    },
+    {
+      "_s_no": "18",
+      "states___uts": "HIMACHAL PRADESH",
+      "target___total_shgs": 8000,
+      "target___total_loan_amount": 4800,
+      "achievement___total_shgs": 1326,
+      "achievement___total_loan_amount": 2373.21,
+      "achievement_percentage______total_shgs": "17%",
+      "achievement_percentage______total_loan_amount": "49%"
+    },
+    {
+      "_s_no": "19",
+      "states___uts": "HARYANA",
+      "target___total_shgs": 7500,
+      "target___total_loan_amount": 4500,
+      "achievement___total_shgs": 872,
+      "achievement___total_loan_amount": 1013.45,
+      "achievement_percentage______total_shgs": "12%",
+      "achievement_percentage______total_loan_amount": "23%"
+    },
+    {
+      "_s_no": "20",
+      "states___uts": "JAMMU & KASHMIR",
+      "target___total_shgs": 4000,
+      "target___total_loan_amount": 2000,
+      "achievement___total_shgs": 1600,
+      "achievement___total_loan_amount": 933.96,
+      "achievement_percentage______total_shgs": "40%",
+      "achievement_percentage______total_loan_amount": "47%"
+    },
+    {
+      "_s_no": "21",
+      "states___uts": "NAGALAND",
+      "target___total_shgs": 2500,
+      "target___total_loan_amount": 1250,
+      "achievement___total_shgs": 556,
+      "achievement___total_loan_amount": 904.64,
+      "achievement_percentage______total_shgs": "22%",
+      "achievement_percentage______total_loan_amount": "72%"
+    },
+    {
+      "_s_no": "22",
+      "states___uts": "PUNJAB",
+      "target___total_shgs": 4000,
+      "target___total_loan_amount": 2000,
+      "achievement___total_shgs": 295,
+      "achievement___total_loan_amount": 460.3,
+      "achievement_percentage______total_shgs": "7%",
+      "achievement_percentage______total_loan_amount": "23%"
+    },
+    {
+      "_s_no": "23",
+      "states___uts": "TRIPURA",
+      "target___total_shgs": 1500,
+      "target___total_loan_amount": 750,
+      "achievement___total_shgs": 816,
+      "achievement___total_loan_amount": 422.16,
+      "achievement_percentage______total_shgs": "54%",
+      "achievement_percentage______total_loan_amount": "56%"
+    },
+    {
+      "_s_no": "24",
+      "states___uts": "UTTARAKHAND",
+      "target___total_shgs": 9000,
+      "target___total_loan_amount": 4500,
+      "achievement___total_shgs": 342,
+      "achievement___total_loan_amount": 316.38,
+      "achievement_percentage______total_shgs": "4%",
+      "achievement_percentage______total_loan_amount": "7%"
+    },
+    {
+      "_s_no": "25",
+      "states___uts": "MANIPUR",
+      "target___total_shgs": 1000,
+      "target___total_loan_amount": 500,
+      "achievement___total_shgs": 71,
+      "achievement___total_loan_amount": 64.92,
+      "achievement_percentage______total_shgs": "7%",
+      "achievement_percentage______total_loan_amount": "13%"
+    },
+    {
+      "_s_no": "26",
+      "states___uts": "ARUNACHAL PRADESH",
+      "target___total_shgs": 500,
+      "target___total_loan_amount": 250,
+      "achievement___total_shgs": 13,
+      "achievement___total_loan_amount": 27.95,
+      "achievement_percentage______total_shgs": "3%",
+      "achievement_percentage______total_loan_amount": "11%"
+    },
+    {
+      "_s_no": "27",
+      "states___uts": "SIKKIM",
+      "target___total_shgs": 1000,
+      "target___total_loan_amount": 500,
+      "achievement___total_shgs": 58,
+      "achievement___total_loan_amount": 26.8,
+      "achievement_percentage______total_shgs": "6%",
+      "achievement_percentage______total_loan_amount": "5%"
+    },
+    {
+      "_s_no": "28",
+      "states___uts": "MIZORAM",
+      "target___total_shgs": 1500,
+      "target___total_loan_amount": 750,
+      "achievement___total_shgs": 4,
+      "achievement___total_loan_amount": 9.25,
+      "achievement_percentage______total_shgs": "0%",
+      "achievement_percentage______total_loan_amount": "1%"
+    },
+    {
+      "_s_no": "29",
+      "states___uts": "MEGHALAYA",
+      "target___total_shgs": 2500,
+      "target___total_loan_amount": 1250,
+      "achievement___total_shgs": 3,
+      "achievement___total_loan_amount": 5.05,
+      "achievement_percentage______total_shgs": "0%",
+      "achievement_percentage______total_loan_amount": "0%"
+    },
+    {
+      "_s_no": "Total",
+      "states___uts": "Total",
+      "target___total_shgs": 1692825,
+      "target___total_loan_amount": 2885180,
+      "achievement___total_shgs": 1018085,
+      "achievement___total_loan_amount": 2075151.11,
+      "achievement_percentage______total_shgs": "60%",
+      "achievement_percentage______total_loan_amount": "72%"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "index_name": "d644241f-72bd-4b7f-8d58-df49dba5e06e",
+  "title": "All India level Number of Districts/ DRDAs/ Blocks/ Villages from 2000 to 2012",
+  "desc": "All India level Number of Districts/ DRDAs/ Blocks/ Villages from 2000 to 2012",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Statistics and Programme Implementation",
+    "Ministry of Statistics and Programme Implementation",
+    "Ministry of Statistics and Programme Implementation"
+  ],
+  "sector": [
+    "Local Government",
+    "Governance and Administration",
+    "Statistics"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "eab47554-9651-4f38-ba45-2c2f6c7ed37e",
+  "visualizable": "1",
+  "active": "1",
+  "field": [
+    {
+      "id": "year",
+      "name": "Year",
+      "type": "double"
+    },
+    {
+      "id": "number_of_district",
+      "name": "Number of-District",
+      "type": "double"
+    },
+    {
+      "id": "number_of_drdas",
+      "name": "Number of-DRDAs",
+      "type": "double"
+    },
+    {
+      "id": "number_of_blocks",
+      "name": "Number of-Blocks",
+      "type": "double"
+    },
+    {
+      "id": "number_of_villages",
+      "name": "Number of-Villages",
+      "type": "double"
+    }
+  ],
+  "updated": 1535437446,
+  "updated_date": "2018-08-28T11:54:06Z",
+  "created": "1530863752",
+  "created_date": "2018-07-06T13:25:52Z",
+  "external_ws_url": "",
+  "external_ws": "0",
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 6,
+  "count": 6,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "year": "2000",
+      "number_of_district": "563",
+      "number_of_drdas": "570",
+      "number_of_blocks": "5536",
+      "number_of_villages": "NA"
+    },
+    {
+      "year": "2001",
+      "number_of_district": "574",
+      "number_of_drdas": "537",
+      "number_of_blocks": "5496",
+      "number_of_villages": "639445"
+    },
+    {
+      "year": "2004",
+      "number_of_district": "595",
+      "number_of_drdas": "578",
+      "number_of_blocks": "5537",
+      "number_of_villages": "639445"
+    },
+    {
+      "year": "2005",
+      "number_of_district": "600",
+      "number_of_drdas": "588",
+      "number_of_blocks": "5612",
+      "number_of_villages": "639445"
+    },
+    {
+      "year": "2008",
+      "number_of_district": "618",
+      "number_of_drdas": "609",
+      "number_of_blocks": "5637",
+      "number_of_villages": "639445"
+    },
+    {
+      "year": "2012",
+      "number_of_district": "651",
+      "number_of_drdas": "585",
+      "number_of_blocks": "6612",
+      "number_of_villages": "640930"
+    }
+  ]
+}

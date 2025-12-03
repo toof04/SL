@@ -1,0 +1,19 @@
+"Sl. No. Col. (1)","Nature of Property Col. (2)","Number of Cases in which Property - Stolen - Col. (3)","Number of Cases in which Property - Percentage Share to Total Stolen - Col. (4)","Number of Cases in which Property - Recovered - Col. (5)","Percentage Detection (Col.5/Col.3) * 100 - Col. (6)","Value of Property - Stolen - Col. (7)","Value of Property - Percentage Share to Total Stolen - Col. (8)","Value of Property - Recovered - Col. (9)","Percentage Recovery (Col.9/Col.7) * 100 - Col. (10)"
+1,"Motor Vehicles",242158,33.6,66081,27.3,1654,32,494.1,29.9
+1.1,"Motor cycles/scooters",209960,29.1,56509,26.9,881.9,17,222,25.2
+1.2,"LMV Light Motor Vehicles(Cars/Jeeps etc)",17490,2.4,4407,25.2,400.9,7.7,137.1,34.2
+1.3,"Goods Carrying Vehicles (Trucks etc)",3543,0.5,1341,37.8,204.1,3.9,86.9,42.6
+1.4,"Public Transport (Bus etc)",190,0,104,54.7,15.3,0.3,6.1,39.7
+1.5,"Three Wheelers",5845,0.8,2336,40,51,1,17.8,34.9
+1.6,"Other Motor Vehicles",5130,0.7,1384,27,100.8,1.9,24.1,23.9
+2,"Electronic Gadgets",163787,22.7,38589,23.6,272.8,5.3,88,32.2
+2.1,"Mobile Phones",135597,18.8,31381,23.1,158.2,3.1,52,32.9
+2.2,Laptops/Computers,8940,1.2,2162,24.2,40.6,0.8,10.1,24.9
+2.3,"Other Electronic Components",19250,2.7,5046,26.2,74.1,1.4,25.8,34.9
+3,Cash/Jewellery,112270,15.6,43511,38.8,1838.8,35.5,460.1,25
+4,"Household Articles/Furniture",35229,4.9,10463,29.7,198.4,3.8,52.9,26.7
+5,"Cultural Property including Antiques",651,0.1,258,39.6,3.8,0.1,2.2,58.6
+6,"Cattle/other Animals",9079,1.3,4285,47.2,44.2,0.9,15.9,36.1
+7,Cycles,5059,0.7,1542,30.5,4,0.1,1.3,33.1
+8,"Other Kinds of Property Stolen",152358,21.1,49628,32.6,1157.1,22.4,446.5,38.6
+Total,Total,720591,100,214357,29.7,5173.2,100,1561,30.2

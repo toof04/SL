@@ -1,0 +1,503 @@
+{
+  "index_name": "6c12385f-c2cb-4a10-8df9-c69b1c251efc",
+  "title": "Employment under Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) during 2013-14 to 2016-17(From:Ministry of Rural Development)",
+  "desc": "Employment under Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) during 2013-14 to 2016-17(From:Ministry of Rural Development)",
+  "created": 1499245237,
+  "updated": 1543515485,
+  "visualizable": "1",
+  "source": "data.gov.in",
+  "org_type": "Central",
+  "org": [
+    "Rajya Sabha"
+  ],
+  "sector": [
+    "All"
+  ],
+  "catalog_uuid": "86086b4e-760e-4c56-a3c4-9aef5a38ab0a",
+  "status": "ok",
+  "field": [
+    {
+      "id": "sr_no_",
+      "name": "Sr.no.",
+      "type": "keyword"
+    },
+    {
+      "id": "state",
+      "name": "State",
+      "type": "keyword"
+    },
+    {
+      "id": "persondays_generated___2013_14",
+      "name": "Persondays generated - 2013-14",
+      "type": "double"
+    },
+    {
+      "id": "persondays_generated___2014_15",
+      "name": "Persondays generated - 2014-15",
+      "type": "double"
+    },
+    {
+      "id": "persondays_generated___2015_16",
+      "name": "Persondays generated - 2015-16",
+      "type": "double"
+    },
+    {
+      "id": "persondays_generated___2016_17_till_16_11_2016",
+      "name": "Persondays generated - 2016-17 till 16/11/2016",
+      "type": "double"
+    },
+    {
+      "id": "no_of_hh_provided_employment___2013_14",
+      "name": "No. of HH provided employment - 2013-14",
+      "type": "keyword"
+    },
+    {
+      "id": "no_of_hh_provided_employment___2014_15",
+      "name": "No. of HH provided employment - 2014-15",
+      "type": "keyword"
+    },
+    {
+      "id": "no_of_hh_provided_employment___2015_16",
+      "name": "No. of HH provided employment - 2015-16",
+      "type": "keyword"
+    },
+    {
+      "id": "no_of_hh_provided_employment___2016_17_till_16_11_2016",
+      "name": "No. of HH provided employment - 2016-17 till 16/11/2016",
+      "type": "double"
+    }
+  ],
+  "created_date": "2017-07-05T14:30:37Z",
+  "updated_date": "2018-11-29T23:48:05Z",
+  "active": "1",
+  "external_ws_url": "",
+  "external_ws": "0",
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "total": 35,
+  "count": 35,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "sr_no_": "1",
+      "state": "ANDHRA PRADESH",
+      "persondays_generated___2013_14": "2994.7",
+      "persondays_generated___2014_15": "1555.87",
+      "persondays_generated___2015_16": "1991.09",
+      "persondays_generated___2016_17_till_16_11_2016": "1469.99",
+      "no_of_hh_provided_employment___2013_14": "60.4",
+      "no_of_hh_provided_employment___2014_15": "32.97",
+      "no_of_hh_provided_employment___2015_16": "36.03",
+      "no_of_hh_provided_employment___2016_17_till_16_11_2016": "35.97"
+    },
+    {
+      "sr_no_": "2",
+      "state": "ARUNACHAL PRADESH",
+      "persondays_generated___2013_14": "36.56",
+      "persondays_generated___2014_15": "19.05",
+      "persondays_generated___2015_16": "50.46",
+      "persondays_generated___2016_17_till_16_11_2016": "32.63",
+      "no_of_hh_provided_employment___2013_14": "1.4",
+      "no_of_hh_provided_employment___2014_15": "1.36",
+      "no_of_hh_provided_employment___2015_16": "1.81",
+      "no_of_hh_provided_employment___2016_17_till_16_11_2016": "1.58"
+    },
+    {
+      "sr_no_": "3",
+      "state": "ASSAM",
+      "persondays_generated___2013_14": "298.47",
+      "persondays_generated___2014_15": "210.89",
+      "persondays_generated___2015_16": "486.44",
+      "persondays_generated___2016_17_till_16_11_2016": "253.79",
+      "no_of_hh_provided_employment___2013_14": "12.62",
+      "no_of_hh_provided_employment___2014_15": "9.67",
+      "no_of_hh_provided_employment___2015_16": "15.02",
+      "no_of_hh_provided_employment___2016_17_till_16_11_2016": "9.96"
+    },
+    {
+      "sr_no_": "4",
+      "state": "BIHAR",
+      "persondays_generated___2013_14": "862.35",
+      "persondays_generated___2014_15": "352.73",
+      "persondays_generated___2015_16": "671.44",
+      "persondays_generated___2016_17_till_16_11_2016": "349.74",
+      "no_of_hh_provided_employment___2013_14": "20.59",
+      "no_of_hh_provided_employment___2014_15": "10.36",
+      "no_of_hh_provided_employment___2015_16": "14.89",
+      "no_of_hh_provided_employment___2016_17_till_16_11_2016": "11.72"
+    },
+    {
+      "sr_no_": "5",
+      "state": "CHHATTISGARH",
+      "persondays_generated___2013_14": "1298.94",
+      "persondays_generated___2014_15": "555.79",
+      "persondays_generated___2015_16": "1014.02",
+      "persondays_generated___2016_17_till_16_11_2016": "650.23",
+      "no_of_hh_provided_employment___2013_14": "25.12",
+      "no_of_hh_provided_employment___2014_15": "17.48",
+      "no_of_hh_provided_employment___2015_16": "21.74",
+      "no_of_hh_provided_employment___2016_17_till_16_11_2016": "18.48"
+    },
+    {
+      "sr_no_": "6",
+      "state": "GUJARAT",
+      "persondays_generated___2013_14": "230.3",
+      "persondays_generated___2014_15": "181.52",
+      "persondays_generated___2015_16": "225.45",
+      "persondays_generated___2016_17_till_16_11_2016": "205.03",
+      "no_of_hh_provided_employment___2013_14": "5.79",
+      "no_of_hh_provided_employment___2014_15": "5.13",
+      "no_of_hh_provided_employment___2015_16": "5.57",
+      "no_of_hh_provided_employment___2016_17_till_16_11_2016": "5.47"
+    },
+    {
+      "sr_no_": "7",
+      "state": "HARYANA",
+      "persondays_generated___2013_14": "117.88",
+      "persondays_generated___2014_15": "61.65",
+      "persondays_generated___2015_16": "48.48",
+      "persondays_generated___2016_17_till_16_11_2016": "53.72",
+      "no_of_hh_provided_employment___2013_14": "3.25",
+      "no_of_hh_provided_employment___2014_15": "2.18",
+      "no_of_hh_provided_employment___2015_16": "1.69",
+      "no_of_hh_provided_employment___2016_17_till_16_11_2016": "2.25"
+    },
+    {
+      "sr_no_": "8",
+      "state": "HIMACHAL PRADESH",
+      "persondays_generated___2013_14": "282.5",
+      "persondays_generated___2014_15": "190.73",
+      "persondays_generated___2015_16": "177.33",
+      "persondays_generated___2016_17_till_16_11_2016": "108.82",
+      "no_of_hh_provided_employment___2013_14": "5.39",
+      "no_of_hh_provided_employment___2014_15": "4.53",
+      "no_of_hh_provided_employment___2015_16": "4.23",
+      "no_of_hh_provided_employment___2016_17_till_16_11_2016": "3.59"
+    },
+    {
+      "sr_no_": "9",
+      "state": "JAMMU AND KASHMIR",
+      "persondays_generated___2013_14": "338.12",
+      "persondays_generated___2014_15": "120.9",
+      "persondays_generated___2015_16": "316.39",
+      "persondays_generated___2016_17_till_16_11_2016": "61.7",
+      "no_of_hh_provided_employment___2013_14": "6.58",
+      "no_of_hh_provided_employment___2014_15": "3.32",
+      "no_of_hh_provided_employment___2015_16": "6.53",
+      "no_of_hh_provided_employment___2016_17_till_16_11_2016": "1.95"
+    },
+    {
+      "sr_no_": "10",
+      "state": "JHARKHAND",
+      "persondays_generated___2013_14": "436.22",
+      "persondays_generated___2014_15": "453.28",
+      "persondays_generated___2015_16": "585.68",
+      "persondays_generated___2016_17_till_16_11_2016": "492.01",
+      "no_of_hh_provided_employment___2013_14": "11.39",
+      "no_of_hh_provided_employment___2014_15": "11.11",
+      "no_of_hh_provided_employment___2015_16": "11.26",
+      "no_of_hh_provided_employment___2016_17_till_16_11_2016": "13.89"
+    },
+    {
+      "sr_no_": "11",
+      "state": "KARNATAKA",
+      "persondays_generated___2013_14": "718.86",
+      "persondays_generated___2014_15": "433.7",
+      "persondays_generated___2015_16": "599.08",
+      "persondays_generated___2016_17_till_16_11_2016": "520.9",
+      "no_of_hh_provided_employment___2013_14": "14.5",
+      "no_of_hh_provided_employment___2014_15": "10.95",
+      "no_of_hh_provided_employment___2015_16": "12.37",
+      "no_of_hh_provided_employment___2016_17_till_16_11_2016": "12.72"
+    },
+    {
+      "sr_no_": "12",
+      "state": "KERALA",
+      "persondays_generated___2013_14": "866.03",
+      "persondays_generated___2014_15": "588.72",
+      "persondays_generated___2015_16": "741.74",
+      "persondays_generated___2016_17_till_16_11_2016": "329.46",
+      "no_of_hh_provided_employment___2013_14": "15.24",
+      "no_of_hh_provided_employment___2014_15": "13.8",
+      "no_of_hh_provided_employment___2015_16": "15.06",
+      "no_of_hh_provided_employment___2016_17_till_16_11_2016": "12.57"
+    },
+    {
+      "sr_no_": "13",
+      "state": "MADHYA PRADESH",
+      "persondays_generated___2013_14": "1229.48",
+      "persondays_generated___2014_15": "1172.1",
+      "persondays_generated___2015_16": "1237.58",
+      "persondays_generated___2016_17_till_16_11_2016": "561.61",
+      "no_of_hh_provided_employment___2013_14": "29.09",
+      "no_of_hh_provided_employment___2014_15": "27.89",
+      "no_of_hh_provided_employment___2015_16": "27.02",
+      "no_of_hh_provided_employment___2016_17_till_16_11_2016": "17.47"
+    },
+    {
+      "sr_no_": "14",
+      "state": "MAHARASHTRA",
+      "persondays_generated___2013_14": "517.36",
+      "persondays_generated___2014_15": "613.88",
+      "persondays_generated___2015_16": "763.5",
+      "persondays_generated___2016_17_till_16_11_2016": "511.08",
+      "no_of_hh_provided_employment___2013_14": "11.44",
+      "no_of_hh_provided_employment___2014_15": "11.6",
+      "no_of_hh_provided_employment___2015_16": "12.75",
+      "no_of_hh_provided_employment___2016_17_till_16_11_2016": "12.02"
+    },
+    {
+      "sr_no_": "15",
+      "state": "MANIPUR",
+      "persondays_generated___2013_14": "113.23",
+      "persondays_generated___2014_15": "101.17",
+      "persondays_generated___2015_16": "75.33",
+      "persondays_generated___2016_17_till_16_11_2016": "89.45",
+      "no_of_hh_provided_employment___2013_14": "4.55",
+      "no_of_hh_provided_employment___2014_15": "4.69",
+      "no_of_hh_provided_employment___2015_16": "4.74",
+      "no_of_hh_provided_employment___2016_17_till_16_11_2016": "4.9"
+    },
+    {
+      "sr_no_": "16",
+      "state": "MEGHALAYA",
+      "persondays_generated___2013_14": "215.88",
+      "persondays_generated___2014_15": "167.35",
+      "persondays_generated___2015_16": "199.71",
+      "persondays_generated___2016_17_till_16_11_2016": "106.7",
+      "no_of_hh_provided_employment___2013_14": "3.64",
+      "no_of_hh_provided_employment___2014_15": "3.51",
+      "no_of_hh_provided_employment___2015_16": "3.68",
+      "no_of_hh_provided_employment___2016_17_till_16_11_2016": "2.86"
+    },
+    {
+      "sr_no_": "17",
+      "state": "MIZORAM",
+      "persondays_generated___2013_14": "133.65",
+      "persondays_generated___2014_15": "43.6",
+      "persondays_generated___2015_16": "131.26",
+      "persondays_generated___2016_17_till_16_11_2016": "59.65",
+      "no_of_hh_provided_employment___2013_14": "1.78",
+      "no_of_hh_provided_employment___2014_15": "1.94",
+      "no_of_hh_provided_employment___2015_16": "1.9",
+      "no_of_hh_provided_employment___2016_17_till_16_11_2016": "1.85"
+    },
+    {
+      "sr_no_": "18",
+      "state": "NAGALAND",
+      "persondays_generated___2013_14": "183.8",
+      "persondays_generated___2014_15": "89.93",
+      "persondays_generated___2015_16": "218.76",
+      "persondays_generated___2016_17_till_16_11_2016": "179.48",
+      "no_of_hh_provided_employment___2013_14": "4.08",
+      "no_of_hh_provided_employment___2014_15": "4.05",
+      "no_of_hh_provided_employment___2015_16": "4.17",
+      "no_of_hh_provided_employment___2016_17_till_16_11_2016": "4.18"
+    },
+    {
+      "sr_no_": "19",
+      "state": "ODISHA",
+      "persondays_generated___2013_14": "711.82",
+      "persondays_generated___2014_15": "534.84",
+      "persondays_generated___2015_16": "894.49",
+      "persondays_generated___2016_17_till_16_11_2016": "511.78",
+      "no_of_hh_provided_employment___2013_14": "17.1",
+      "no_of_hh_provided_employment___2014_15": "14.68",
+      "no_of_hh_provided_employment___2015_16": "19.98",
+      "no_of_hh_provided_employment___2016_17_till_16_11_2016": "16.05"
+    },
+    {
+      "sr_no_": "20",
+      "state": "PUNJAB",
+      "persondays_generated___2013_14": "134.68",
+      "persondays_generated___2014_15": "64.6",
+      "persondays_generated___2015_16": "144.35",
+      "persondays_generated___2016_17_till_16_11_2016": "108.84",
+      "no_of_hh_provided_employment___2013_14": "4.12",
+      "no_of_hh_provided_employment___2014_15": "2.89",
+      "no_of_hh_provided_employment___2015_16": "4.74",
+      "no_of_hh_provided_employment___2016_17_till_16_11_2016": "4.68"
+    },
+    {
+      "sr_no_": "21",
+      "state": "RAJASTHAN",
+      "persondays_generated___2013_14": "1838.56",
+      "persondays_generated___2014_15": "1685.46",
+      "persondays_generated___2015_16": "2341.32",
+      "persondays_generated___2016_17_till_16_11_2016": "1729.35",
+      "no_of_hh_provided_employment___2013_14": "36.15",
+      "no_of_hh_provided_employment___2014_15": "36.85",
+      "no_of_hh_provided_employment___2015_16": "42.21",
+      "no_of_hh_provided_employment___2016_17_till_16_11_2016": "39.12"
+    },
+    {
+      "sr_no_": "22",
+      "state": "SIKKIM",
+      "persondays_generated___2013_14": "44.03",
+      "persondays_generated___2014_15": "24.13",
+      "persondays_generated___2015_16": "43.84",
+      "persondays_generated___2016_17_till_16_11_2016": "21.99",
+      "no_of_hh_provided_employment___2013_14": "0.63",
+      "no_of_hh_provided_employment___2014_15": "0.57",
+      "no_of_hh_provided_employment___2015_16": "0.65",
+      "no_of_hh_provided_employment___2016_17_till_16_11_2016": "0.56"
+    },
+    {
+      "sr_no_": "23",
+      "state": "TAMIL NADU",
+      "persondays_generated___2013_14": "3677.23",
+      "persondays_generated___2014_15": "2679.65",
+      "persondays_generated___2015_16": "3686.75",
+      "persondays_generated___2016_17_till_16_11_2016": "2440.86",
+      "no_of_hh_provided_employment___2013_14": "62.68",
+      "no_of_hh_provided_employment___2014_15": "56.58",
+      "no_of_hh_provided_employment___2015_16": "60.53",
+      "no_of_hh_provided_employment___2016_17_till_16_11_2016": "58.64"
+    },
+    {
+      "sr_no_": "24",
+      "state": "Telangana",
+      "persondays_generated___2013_14": "0",
+      "persondays_generated___2014_15": "1047.27",
+      "persondays_generated___2015_16": "1416.67",
+      "persondays_generated___2016_17_till_16_11_2016": "795.47",
+      "no_of_hh_provided_employment___2013_14": "0",
+      "no_of_hh_provided_employment___2014_15": "24.63",
+      "no_of_hh_provided_employment___2015_16": "25.62",
+      "no_of_hh_provided_employment___2016_17_till_16_11_2016": "23.25"
+    },
+    {
+      "sr_no_": "25",
+      "state": "TRIPURA",
+      "persondays_generated___2013_14": "521.61",
+      "persondays_generated___2014_15": "511.76",
+      "persondays_generated___2015_16": "538.75",
+      "persondays_generated___2016_17_till_16_11_2016": "314.93",
+      "no_of_hh_provided_employment___2013_14": "5.91",
+      "no_of_hh_provided_employment___2014_15": "5.82",
+      "no_of_hh_provided_employment___2015_16": "5.7",
+      "no_of_hh_provided_employment___2016_17_till_16_11_2016": "5.72"
+    },
+    {
+      "sr_no_": "26",
+      "state": "UTTAR PRADESH",
+      "persondays_generated___2013_14": "1753.6",
+      "persondays_generated___2014_15": "1312.72",
+      "persondays_generated___2015_16": "1822.49",
+      "persondays_generated___2016_17_till_16_11_2016": "1236.91",
+      "no_of_hh_provided_employment___2013_14": "49.95",
+      "no_of_hh_provided_employment___2014_15": "39.16",
+      "no_of_hh_provided_employment___2015_16": "54.36",
+      "no_of_hh_provided_employment___2016_17_till_16_11_2016": "44.44"
+    },
+    {
+      "sr_no_": "27",
+      "state": "UTTARAKHAND",
+      "persondays_generated___2013_14": "165.62",
+      "persondays_generated___2014_15": "147.5",
+      "persondays_generated___2015_16": "223.96",
+      "persondays_generated___2016_17_till_16_11_2016": "140.47",
+      "no_of_hh_provided_employment___2013_14": "3.97",
+      "no_of_hh_provided_employment___2014_15": "4.56",
+      "no_of_hh_provided_employment___2015_16": "5.44",
+      "no_of_hh_provided_employment___2016_17_till_16_11_2016": "4.48"
+    },
+    {
+      "sr_no_": "28",
+      "state": "WEST BENGAL",
+      "persondays_generated___2013_14": "2296.34",
+      "persondays_generated___2014_15": "1697.08",
+      "persondays_generated___2015_16": "2865.07",
+      "persondays_generated___2016_17_till_16_11_2016": "1301.33",
+      "no_of_hh_provided_employment___2013_14": "61.33",
+      "no_of_hh_provided_employment___2014_15": "51.2",
+      "no_of_hh_provided_employment___2015_16": "61.11",
+      "no_of_hh_provided_employment___2016_17_till_16_11_2016": "45.26"
+    },
+    {
+      "sr_no_": "29",
+      "state": "ANDAMAN AND NICOBAR",
+      "persondays_generated___2013_14": "8.03",
+      "persondays_generated___2014_15": "5.11",
+      "persondays_generated___2015_16": "2.57",
+      "persondays_generated___2016_17_till_16_11_2016": "1.39",
+      "no_of_hh_provided_employment___2013_14": "0.17",
+      "no_of_hh_provided_employment___2014_15": "0.13",
+      "no_of_hh_provided_employment___2015_16": "0.09",
+      "no_of_hh_provided_employment___2016_17_till_16_11_2016": "0.07"
+    },
+    {
+      "sr_no_": "30",
+      "state": "DADRA & NAGAR HAVELI",
+      "persondays_generated___2013_14": "0",
+      "persondays_generated___2014_15": "0",
+      "persondays_generated___2015_16": "0",
+      "persondays_generated___2016_17_till_16_11_2016": "0",
+      "no_of_hh_provided_employment___2013_14": "NR",
+      "no_of_hh_provided_employment___2014_15": "NR",
+      "no_of_hh_provided_employment___2015_16": "NR",
+      "no_of_hh_provided_employment___2016_17_till_16_11_2016": "0"
+    },
+    {
+      "sr_no_": "31",
+      "state": "DAMAN & DIU",
+      "persondays_generated___2013_14": "0",
+      "persondays_generated___2014_15": "0",
+      "persondays_generated___2015_16": "0",
+      "persondays_generated___2016_17_till_16_11_2016": "0",
+      "no_of_hh_provided_employment___2013_14": "NR",
+      "no_of_hh_provided_employment___2014_15": "NR",
+      "no_of_hh_provided_employment___2015_16": "NR",
+      "no_of_hh_provided_employment___2016_17_till_16_11_2016": "0"
+    },
+    {
+      "sr_no_": "32",
+      "state": "GOA",
+      "persondays_generated___2013_14": "1.15",
+      "persondays_generated___2014_15": "1.72",
+      "persondays_generated___2015_16": "1.07",
+      "persondays_generated___2016_17_till_16_11_2016": "0.7",
+      "no_of_hh_provided_employment___2013_14": "0.05",
+      "no_of_hh_provided_employment___2014_15": "0.07",
+      "no_of_hh_provided_employment___2015_16": "0.06",
+      "no_of_hh_provided_employment___2016_17_till_16_11_2016": "0.06"
+    },
+    {
+      "sr_no_": "33",
+      "state": "LAKSHADWEEP",
+      "persondays_generated___2013_14": "0.14",
+      "persondays_generated___2014_15": "0.13",
+      "persondays_generated___2015_16": "0.03",
+      "persondays_generated___2016_17_till_16_11_2016": "0",
+      "no_of_hh_provided_employment___2013_14": "0.01",
+      "no_of_hh_provided_employment___2014_15": "0",
+      "no_of_hh_provided_employment___2015_16": "0",
+      "no_of_hh_provided_employment___2016_17_till_16_11_2016": "0"
+    },
+    {
+      "sr_no_": "34",
+      "state": "PUDUCHERRY",
+      "persondays_generated___2013_14": "8.45",
+      "persondays_generated___2014_15": "3.78",
+      "persondays_generated___2015_16": "5.62",
+      "persondays_generated___2016_17_till_16_11_2016": "5.25",
+      "no_of_hh_provided_employment___2013_14": "0.39",
+      "no_of_hh_provided_employment___2014_15": "0.3",
+      "no_of_hh_provided_employment___2015_16": "0.33",
+      "no_of_hh_provided_employment___2016_17_till_16_11_2016": "0.31"
+    },
+    {
+      "sr_no_": "Total",
+      "state": "Total",
+      "persondays_generated___2013_14": "22035.58",
+      "persondays_generated___2014_15": "16628.59",
+      "persondays_generated___2015_16": "23520.72",
+      "persondays_generated___2016_17_till_16_11_2016": "14645.26",
+      "no_of_hh_provided_employment___2013_14": "479.3",
+      "no_of_hh_provided_employment___2014_15": "413.97",
+      "no_of_hh_provided_employment___2015_16": "481.31",
+      "no_of_hh_provided_employment___2016_17_till_16_11_2016": "416.06"
+    }
+  ]
+}

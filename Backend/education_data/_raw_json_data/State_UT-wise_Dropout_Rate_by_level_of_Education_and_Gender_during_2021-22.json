@@ -1,0 +1,533 @@
+{
+  "index_name": "9a8f0c4a-2c6d-4029-b005-01b163eb5a70",
+  "title": "State/UT-wise Dropout Rate by level of Education and Gender during 2021-22",
+  "desc": "State/UT-wise Dropout Rate by level of Education and Gender during 2021-22",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Education",
+    "Department of School Education and Literacy"
+  ],
+  "sector": [
+    "Education"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "80eac310-edaf-4462-b0b3-afcb24cbec59",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1744368810,
+  "updated": 1744368810,
+  "created_date": "2025-04-11T12:53:30Z",
+  "updated_date": "2025-04-11T12:53:30Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api_new_2025",
+    "type": "80eac310-edaf-4462-b0b3-afcb24cbec59",
+    "field": "9a8f0c4a-2c6d-4029-b005-01b163eb5a70"
+  },
+  "field": [
+    {
+      "id": "India_State_UT",
+      "name": "India/State /UT",
+      "type": "keyword"
+    },
+    {
+      "id": "Boy",
+      "name": "Dropout Rate - Primary (1 to 5) - Boys",
+      "type": "double"
+    },
+    {
+      "id": "Girl",
+      "name": "Dropout Rate - Primary (1 to 5) - Girls",
+      "type": "double"
+    },
+    {
+      "id": "Total",
+      "name": "Dropout Rate - Primary (1 to 5) - Total",
+      "type": "double"
+    },
+    {
+      "id": "Ur_Primary_Boy",
+      "name": "Dropout Rate - Upper Primary (6-8) - Boys",
+      "type": "double"
+    },
+    {
+      "id": "Ur_Primary_Girl",
+      "name": "Dropout Rate - Upper Primary (6-8) - Girls",
+      "type": "double"
+    },
+    {
+      "id": "Ur_Primary_Total",
+      "name": "Dropout Rate - Upper Primary (6-8) - Total",
+      "type": "double"
+    },
+    {
+      "id": "Secondary_Boy",
+      "name": "Dropout Rate - Secondary (9-10) - Boys",
+      "type": "double"
+    },
+    {
+      "id": "Secondary_Girl",
+      "name": "Dropout Rate - Secondary (9-10) - Girls",
+      "type": "double"
+    },
+    {
+      "id": "Secondary_Total",
+      "name": "Dropout Rate - Secondary (9-10) - Total",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 37,
+  "count": 37,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "India_State_UT": "India",
+      "Boy": 1.6,
+      "Girl": 1.4,
+      "Total": 1.5,
+      "Ur_Primary_Boy": 2.7,
+      "Ur_Primary_Girl": 3.3,
+      "Ur_Primary_Total": 3,
+      "Secondary_Boy": 13,
+      "Secondary_Girl": 12.3,
+      "Secondary_Total": 12.6
+    },
+    {
+      "India_State_UT": "Andaman and Nicobar Islands",
+      "Boy": 0.2,
+      "Girl": 0.7,
+      "Total": 0.4,
+      "Ur_Primary_Boy": 0.9,
+      "Ur_Primary_Girl": 1,
+      "Ur_Primary_Total": 1,
+      "Secondary_Boy": 6,
+      "Secondary_Girl": 3.9,
+      "Secondary_Total": 5
+    },
+    {
+      "India_State_UT": "Andhra Pradesh",
+      "Boy": "0",
+      "Girl": "0",
+      "Total": "0",
+      "Ur_Primary_Boy": 1.7,
+      "Ur_Primary_Girl": 1.5,
+      "Ur_Primary_Total": 1.6,
+      "Secondary_Boy": 17.5,
+      "Secondary_Girl": 15,
+      "Secondary_Total": 16.3
+    },
+    {
+      "India_State_UT": "Arunachal Pradesh",
+      "Boy": 9.3,
+      "Girl": 9.2,
+      "Total": 9.3,
+      "Ur_Primary_Boy": 4.8,
+      "Ur_Primary_Girl": 8.4,
+      "Ur_Primary_Total": 6.7,
+      "Secondary_Boy": 11.2,
+      "Secondary_Girl": 12.3,
+      "Secondary_Total": 11.7
+    },
+    {
+      "India_State_UT": "Assam",
+      "Boy": 6.8,
+      "Girl": 5.2,
+      "Total": 6,
+      "Ur_Primary_Boy": 10.1,
+      "Ur_Primary_Girl": 7.6,
+      "Ur_Primary_Total": 8.8,
+      "Secondary_Boy": 19.8,
+      "Secondary_Girl": 20.7,
+      "Secondary_Total": 20.3
+    },
+    {
+      "India_State_UT": "Bihar",
+      "Boy": "0",
+      "Girl": "0",
+      "Total": "0",
+      "Ur_Primary_Boy": 4,
+      "Ur_Primary_Girl": 5.2,
+      "Ur_Primary_Total": 4.6,
+      "Secondary_Boy": 19.5,
+      "Secondary_Girl": 21.4,
+      "Secondary_Total": 20.5
+    },
+    {
+      "India_State_UT": "Chandigarh",
+      "Boy": "0",
+      "Girl": "0",
+      "Total": "0",
+      "Ur_Primary_Boy": "0",
+      "Ur_Primary_Girl": "0",
+      "Ur_Primary_Total": "0",
+      "Secondary_Boy": "0",
+      "Secondary_Girl": "0",
+      "Secondary_Total": "0"
+    },
+    {
+      "India_State_UT": "Chhattisgarh",
+      "Boy": 1,
+      "Girl": 0.6,
+      "Total": 0.8,
+      "Ur_Primary_Boy": 4.8,
+      "Ur_Primary_Girl": 3.3,
+      "Ur_Primary_Total": 4.1,
+      "Secondary_Boy": 11.5,
+      "Secondary_Girl": 8.1,
+      "Secondary_Total": 9.7
+    },
+    {
+      "India_State_UT": "Dadra and Nagar Haveli and Daman and Diu",
+      "Boy": "0",
+      "Girl": "0",
+      "Total": "0",
+      "Ur_Primary_Boy": "0",
+      "Ur_Primary_Girl": "0",
+      "Ur_Primary_Total": "0",
+      "Secondary_Boy": 10.5,
+      "Secondary_Girl": 8.4,
+      "Secondary_Total": 9.5
+    },
+    {
+      "India_State_UT": "Delhi",
+      "Boy": "0",
+      "Girl": "0",
+      "Total": "0",
+      "Ur_Primary_Boy": "0",
+      "Ur_Primary_Girl": "0",
+      "Ur_Primary_Total": "0",
+      "Secondary_Boy": 5.9,
+      "Secondary_Girl": 3.7,
+      "Secondary_Total": 4.8
+    },
+    {
+      "India_State_UT": "Goa",
+      "Boy": "0",
+      "Girl": "0",
+      "Total": "0",
+      "Ur_Primary_Boy": "0",
+      "Ur_Primary_Girl": "0",
+      "Ur_Primary_Total": "0",
+      "Secondary_Boy": 12.1,
+      "Secondary_Girl": 5.5,
+      "Secondary_Total": 9
+    },
+    {
+      "India_State_UT": "Gujarat",
+      "Boy": "0",
+      "Girl": "0",
+      "Total": "0",
+      "Ur_Primary_Boy": 4.2,
+      "Ur_Primary_Girl": 5.8,
+      "Ur_Primary_Total": 5,
+      "Secondary_Boy": 19.4,
+      "Secondary_Girl": 15.9,
+      "Secondary_Total": 17.9
+    },
+    {
+      "India_State_UT": "Haryana",
+      "Boy": "0",
+      "Girl": "0",
+      "Total": "0",
+      "Ur_Primary_Boy": 0.3,
+      "Ur_Primary_Girl": 0.2,
+      "Ur_Primary_Total": 0.2,
+      "Secondary_Boy": 6.7,
+      "Secondary_Girl": 4.9,
+      "Secondary_Total": 5.9
+    },
+    {
+      "India_State_UT": "Himachal Pradesh",
+      "Boy": "0",
+      "Girl": "0",
+      "Total": "0",
+      "Ur_Primary_Boy": 0.6,
+      "Ur_Primary_Girl": 0.5,
+      "Ur_Primary_Total": 0.6,
+      "Secondary_Boy": 2,
+      "Secondary_Girl": 0.9,
+      "Secondary_Total": 1.5
+    },
+    {
+      "India_State_UT": "Jammu and Kashmir",
+      "Boy": 3.9,
+      "Girl": 4.1,
+      "Total": 4,
+      "Ur_Primary_Boy": 2.8,
+      "Ur_Primary_Girl": 3.2,
+      "Ur_Primary_Total": 3,
+      "Secondary_Boy": 5.6,
+      "Secondary_Girl": 6.3,
+      "Secondary_Total": 6
+    },
+    {
+      "India_State_UT": "Jharkhand",
+      "Boy": 2.4,
+      "Girl": 1.1,
+      "Total": 1.8,
+      "Ur_Primary_Boy": 3.7,
+      "Ur_Primary_Girl": 4,
+      "Ur_Primary_Total": 3.9,
+      "Secondary_Boy": 9.7,
+      "Secondary_Girl": 8.9,
+      "Secondary_Total": 9.3
+    },
+    {
+      "India_State_UT": "Karnataka",
+      "Boy": "0",
+      "Girl": "0",
+      "Total": "0",
+      "Ur_Primary_Boy": 1.1,
+      "Ur_Primary_Girl": 1.1,
+      "Ur_Primary_Total": 1.1,
+      "Secondary_Boy": 16.2,
+      "Secondary_Girl": 13,
+      "Secondary_Total": 14.7
+    },
+    {
+      "India_State_UT": "Kerala",
+      "Boy": "0",
+      "Girl": "0",
+      "Total": "0",
+      "Ur_Primary_Boy": "0",
+      "Ur_Primary_Girl": "0",
+      "Ur_Primary_Total": "0",
+      "Secondary_Boy": 6.9,
+      "Secondary_Girl": 4.1,
+      "Secondary_Total": 5.5
+    },
+    {
+      "India_State_UT": "Ladakh",
+      "Boy": 7.5,
+      "Girl": 5.5,
+      "Total": 6.5,
+      "Ur_Primary_Boy": 2.2,
+      "Ur_Primary_Girl": "0",
+      "Ur_Primary_Total": 1.1,
+      "Secondary_Boy": 4,
+      "Secondary_Girl": 5.7,
+      "Secondary_Total": 4.9
+    },
+    {
+      "India_State_UT": "Lakshadweep",
+      "Boy": 0.5,
+      "Girl": 0.4,
+      "Total": 0.5,
+      "Ur_Primary_Boy": 3.2,
+      "Ur_Primary_Girl": 1.9,
+      "Ur_Primary_Total": 2.6,
+      "Secondary_Boy": 0.4,
+      "Secondary_Girl": "0",
+      "Secondary_Total": "0"
+    },
+    {
+      "India_State_UT": "Madhya Pradesh",
+      "Boy": 3.2,
+      "Girl": 2.9,
+      "Total": 3.1,
+      "Ur_Primary_Boy": 8.6,
+      "Ur_Primary_Girl": 9,
+      "Ur_Primary_Total": 8.8,
+      "Secondary_Boy": 10.6,
+      "Secondary_Girl": 9.7,
+      "Secondary_Total": 10.1
+    },
+    {
+      "India_State_UT": "Maharashtra",
+      "Boy": "0",
+      "Girl": "0",
+      "Total": "0",
+      "Ur_Primary_Boy": 1.5,
+      "Ur_Primary_Girl": 1.6,
+      "Ur_Primary_Total": 1.5,
+      "Secondary_Boy": 10.8,
+      "Secondary_Girl": 10.6,
+      "Secondary_Total": 10.7
+    },
+    {
+      "India_State_UT": "Manipur",
+      "Boy": 13.5,
+      "Girl": 13,
+      "Total": 13.3,
+      "Ur_Primary_Boy": 6,
+      "Ur_Primary_Girl": 5.2,
+      "Ur_Primary_Total": 5.6,
+      "Secondary_Boy": 1.4,
+      "Secondary_Girl": 1.2,
+      "Secondary_Total": 1.3
+    },
+    {
+      "India_State_UT": "Meghalaya",
+      "Boy": 11.1,
+      "Girl": 8.6,
+      "Total": 9.8,
+      "Ur_Primary_Boy": 12,
+      "Ur_Primary_Girl": 9.4,
+      "Ur_Primary_Total": 10.6,
+      "Secondary_Boy": 23.3,
+      "Secondary_Girl": 20.4,
+      "Secondary_Total": 21.7
+    },
+    {
+      "India_State_UT": "Mizoram",
+      "Boy": 7.1,
+      "Girl": 5.6,
+      "Total": 6.4,
+      "Ur_Primary_Boy": 3.8,
+      "Ur_Primary_Girl": 1.6,
+      "Ur_Primary_Total": 2.7,
+      "Secondary_Boy": 13.1,
+      "Secondary_Girl": 10.8,
+      "Secondary_Total": 11.9
+    },
+    {
+      "India_State_UT": "Nagaland",
+      "Boy": 5.6,
+      "Girl": 4.5,
+      "Total": 5,
+      "Ur_Primary_Boy": 4.6,
+      "Ur_Primary_Girl": 3.4,
+      "Ur_Primary_Total": 4,
+      "Secondary_Boy": 18.9,
+      "Secondary_Girl": 16.2,
+      "Secondary_Total": 17.5
+    },
+    {
+      "India_State_UT": "Odisha",
+      "Boy": "0",
+      "Girl": "0",
+      "Total": "0",
+      "Ur_Primary_Boy": 8,
+      "Ur_Primary_Girl": 6.5,
+      "Ur_Primary_Total": 7.3,
+      "Secondary_Boy": 29.2,
+      "Secondary_Girl": 25.2,
+      "Secondary_Total": 27.3
+    },
+    {
+      "India_State_UT": "Puducherry",
+      "Boy": 3.7,
+      "Girl": 3.6,
+      "Total": 3.7,
+      "Ur_Primary_Boy": 2.8,
+      "Ur_Primary_Girl": 2.1,
+      "Ur_Primary_Total": 2.4,
+      "Secondary_Boy": 8.4,
+      "Secondary_Girl": 4.1,
+      "Secondary_Total": 6.3
+    },
+    {
+      "India_State_UT": "Punjab",
+      "Boy": 1.6,
+      "Girl": 1,
+      "Total": 1.3,
+      "Ur_Primary_Boy": 8.7,
+      "Ur_Primary_Girl": 7.1,
+      "Ur_Primary_Total": 8,
+      "Secondary_Boy": 18.3,
+      "Secondary_Girl": 16,
+      "Secondary_Total": 17.2
+    },
+    {
+      "India_State_UT": "Rajasthan",
+      "Boy": 3.8,
+      "Girl": 3.3,
+      "Total": 3.6,
+      "Ur_Primary_Boy": 4.4,
+      "Ur_Primary_Girl": 4.2,
+      "Ur_Primary_Total": 4.3,
+      "Secondary_Boy": 7.8,
+      "Secondary_Girl": 7.5,
+      "Secondary_Total": 7.7
+    },
+    {
+      "India_State_UT": "Sikkim",
+      "Boy": 2.9,
+      "Girl": 0.5,
+      "Total": 1.8,
+      "Ur_Primary_Boy": "0",
+      "Ur_Primary_Girl": "0",
+      "Ur_Primary_Total": "0",
+      "Secondary_Boy": 14.6,
+      "Secondary_Girl": 9.5,
+      "Secondary_Total": 11.9
+    },
+    {
+      "India_State_UT": "Tamil Nadu",
+      "Boy": "0",
+      "Girl": "0",
+      "Total": "0",
+      "Ur_Primary_Boy": "0",
+      "Ur_Primary_Girl": "0",
+      "Ur_Primary_Total": "0",
+      "Secondary_Boy": 6.3,
+      "Secondary_Girl": 2.5,
+      "Secondary_Total": 4.5
+    },
+    {
+      "India_State_UT": "Telangana",
+      "Boy": "0",
+      "Girl": "0",
+      "Total": "0",
+      "Ur_Primary_Boy": 3.4,
+      "Ur_Primary_Girl": 2.9,
+      "Ur_Primary_Total": 3.1,
+      "Secondary_Boy": 14.5,
+      "Secondary_Girl": 12.9,
+      "Secondary_Total": 13.7
+    },
+    {
+      "India_State_UT": "Tripura",
+      "Boy": 1.2,
+      "Girl": 1,
+      "Total": 1.1,
+      "Ur_Primary_Boy": 4.8,
+      "Ur_Primary_Girl": 4.3,
+      "Ur_Primary_Total": 4.5,
+      "Secondary_Boy": 8.5,
+      "Secondary_Girl": 8.2,
+      "Secondary_Total": 8.3
+    },
+    {
+      "India_State_UT": "Uttar Pradesh",
+      "Boy": 2.4,
+      "Girl": 3,
+      "Total": 2.7,
+      "Ur_Primary_Boy": 1.3,
+      "Ur_Primary_Girl": 4.7,
+      "Ur_Primary_Total": 2.9,
+      "Secondary_Boy": 9.5,
+      "Secondary_Girl": 10,
+      "Secondary_Total": 9.7
+    },
+    {
+      "India_State_UT": "Uttarakhand",
+      "Boy": 1,
+      "Girl": 0.5,
+      "Total": 0.8,
+      "Ur_Primary_Boy": 3,
+      "Ur_Primary_Girl": 2.4,
+      "Ur_Primary_Total": 2.7,
+      "Secondary_Boy": 5.4,
+      "Secondary_Girl": 4.6,
+      "Secondary_Total": 5
+    },
+    {
+      "India_State_UT": "West Bengal",
+      "Boy": 9.1,
+      "Girl": 8.2,
+      "Total": 8.6,
+      "Ur_Primary_Boy": "0",
+      "Ur_Primary_Girl": "0",
+      "Ur_Primary_Total": "0",
+      "Secondary_Boy": 18.4,
+      "Secondary_Girl": 17.7,
+      "Secondary_Total": 18
+    }
+  ]
+}

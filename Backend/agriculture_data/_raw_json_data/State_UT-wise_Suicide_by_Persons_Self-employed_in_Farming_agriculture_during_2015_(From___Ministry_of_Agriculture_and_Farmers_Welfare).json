@@ -1,0 +1,280 @@
+{
+  "index_name": "d2d1330d-e757-4fff-933b-80df05d41562",
+  "title": "State/UT-wise Suicide by Persons Self-employed in Farming/agriculture during 2015 (From : Ministry of Agriculture and Farmers Welfare)",
+  "desc": "State/UT-wise Suicide by Persons Self-employed in Farming/agriculture during 2015 (From : Ministry of Agriculture and Farmers Welfare)",
+  "org_type": "Central",
+  "org": [
+    "Rajya Sabha"
+  ],
+  "sector": [
+    "All"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "09685331-ed12-446c-8a2d-7ac2577a308c",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1697782593,
+  "updated": 1698053634,
+  "created_date": "2023-10-20T08:16:33Z",
+  "updated_date": "2023-10-23T15:03:54Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "09685331-ed12-446c-8a2d-7ac2577a308c",
+    "field": "d2d1330d-e757-4fff-933b-80df05d41562"
+  },
+  "field": [
+    {
+      "id": "states_uts",
+      "name": "States/UTs",
+      "type": "keyword"
+    },
+    {
+      "id": "_2015_agricultural_labourers___a",
+      "name": "2015 Agricultural Labourers - A",
+      "type": "double"
+    },
+    {
+      "id": "_2015_farmers_cultivators___b",
+      "name": "2015 Farmers/Cultivators - B",
+      "type": "double"
+    },
+    {
+      "id": "_2015___total__a_b_",
+      "name": "2015 - Total (A+B)",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 37,
+  "count": 37,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "states_uts": "Andhra Pradesh",
+      "_2015_agricultural_labourers___a": 400,
+      "_2015_farmers_cultivators___b": 516,
+      "_2015___total__a_b_": 916
+    },
+    {
+      "states_uts": "Arunachal Pradesh",
+      "_2015_agricultural_labourers___a": 3,
+      "_2015_farmers_cultivators___b": 7,
+      "_2015___total__a_b_": 10
+    },
+    {
+      "states_uts": "Assam",
+      "_2015_agricultural_labourers___a": 54,
+      "_2015_farmers_cultivators___b": 84,
+      "_2015___total__a_b_": 138
+    },
+    {
+      "states_uts": "Bihar",
+      "_2015_agricultural_labourers___a": 7,
+      "_2015_farmers_cultivators___b": "0",
+      "_2015___total__a_b_": 7
+    },
+    {
+      "states_uts": "Chhattisgarh",
+      "_2015_agricultural_labourers___a": 100,
+      "_2015_farmers_cultivators___b": 854,
+      "_2015___total__a_b_": 954
+    },
+    {
+      "states_uts": "Goa",
+      "_2015_agricultural_labourers___a": "0",
+      "_2015_farmers_cultivators___b": "0",
+      "_2015___total__a_b_": "0"
+    },
+    {
+      "states_uts": "Gujarat",
+      "_2015_agricultural_labourers___a": 244,
+      "_2015_farmers_cultivators___b": 57,
+      "_2015___total__a_b_": 301
+    },
+    {
+      "states_uts": "Haryana",
+      "_2015_agricultural_labourers___a": 134,
+      "_2015_farmers_cultivators___b": 28,
+      "_2015___total__a_b_": 162
+    },
+    {
+      "states_uts": "Himachal Pradesh",
+      "_2015_agricultural_labourers___a": 46,
+      "_2015_farmers_cultivators___b": "0",
+      "_2015___total__a_b_": 46
+    },
+    {
+      "states_uts": "Jammu & Kashmir",
+      "_2015_agricultural_labourers___a": 21,
+      "_2015_farmers_cultivators___b": "0",
+      "_2015___total__a_b_": 21
+    },
+    {
+      "states_uts": "Jharkhand",
+      "_2015_agricultural_labourers___a": 21,
+      "_2015_farmers_cultivators___b": "0",
+      "_2015___total__a_b_": 21
+    },
+    {
+      "states_uts": "Karnataka",
+      "_2015_agricultural_labourers___a": 372,
+      "_2015_farmers_cultivators___b": 1197,
+      "_2015___total__a_b_": 1569
+    },
+    {
+      "states_uts": "Kerala",
+      "_2015_agricultural_labourers___a": 207,
+      "_2015_farmers_cultivators___b": 3,
+      "_2015___total__a_b_": 210
+    },
+    {
+      "states_uts": "Madhya Pradesh",
+      "_2015_agricultural_labourers___a": 709,
+      "_2015_farmers_cultivators___b": 581,
+      "_2015___total__a_b_": 1290
+    },
+    {
+      "states_uts": "Maharashtra",
+      "_2015_agricultural_labourers___a": 1261,
+      "_2015_farmers_cultivators___b": 3030,
+      "_2015___total__a_b_": 4291
+    },
+    {
+      "states_uts": "Manipur",
+      "_2015_agricultural_labourers___a": "0",
+      "_2015_farmers_cultivators___b": 1,
+      "_2015___total__a_b_": 1
+    },
+    {
+      "states_uts": "Meghalaya",
+      "_2015_agricultural_labourers___a": 1,
+      "_2015_farmers_cultivators___b": 2,
+      "_2015___total__a_b_": 3
+    },
+    {
+      "states_uts": "Mizoram",
+      "_2015_agricultural_labourers___a": 1,
+      "_2015_farmers_cultivators___b": "0",
+      "_2015___total__a_b_": 1
+    },
+    {
+      "states_uts": "Nagaland",
+      "_2015_agricultural_labourers___a": "0",
+      "_2015_farmers_cultivators___b": "0",
+      "_2015___total__a_b_": "0"
+    },
+    {
+      "states_uts": "Odisha",
+      "_2015_agricultural_labourers___a": 27,
+      "_2015_farmers_cultivators___b": 23,
+      "_2015___total__a_b_": 50
+    },
+    {
+      "states_uts": "Punjab",
+      "_2015_agricultural_labourers___a": 24,
+      "_2015_farmers_cultivators___b": 100,
+      "_2015___total__a_b_": 124
+    },
+    {
+      "states_uts": "Rajasthan",
+      "_2015_agricultural_labourers___a": 73,
+      "_2015_farmers_cultivators___b": 3,
+      "_2015___total__a_b_": 76
+    },
+    {
+      "states_uts": "Sikkim",
+      "_2015_agricultural_labourers___a": 3,
+      "_2015_farmers_cultivators___b": 15,
+      "_2015___total__a_b_": 18
+    },
+    {
+      "states_uts": "Tamil Nadu",
+      "_2015_agricultural_labourers___a": 604,
+      "_2015_farmers_cultivators___b": 2,
+      "_2015___total__a_b_": 606
+    },
+    {
+      "states_uts": "Telangana",
+      "_2015_agricultural_labourers___a": 42,
+      "_2015_farmers_cultivators___b": 1358,
+      "_2015___total__a_b_": 1400
+    },
+    {
+      "states_uts": "Tripura",
+      "_2015_agricultural_labourers___a": 48,
+      "_2015_farmers_cultivators___b": 1,
+      "_2015___total__a_b_": 49
+    },
+    {
+      "states_uts": "Uttar Pradesh",
+      "_2015_agricultural_labourers___a": 179,
+      "_2015_farmers_cultivators___b": 145,
+      "_2015___total__a_b_": 324
+    },
+    {
+      "states_uts": "Uttarakhand",
+      "_2015_agricultural_labourers___a": 2,
+      "_2015_farmers_cultivators___b": "0",
+      "_2015___total__a_b_": 2
+    },
+    {
+      "states_uts": "West Bengal",
+      "_2015_agricultural_labourers___a": "0",
+      "_2015_farmers_cultivators___b": "0",
+      "_2015___total__a_b_": "0"
+    },
+    {
+      "states_uts": "A & N Islands",
+      "_2015_agricultural_labourers___a": "0",
+      "_2015_farmers_cultivators___b": "0",
+      "_2015___total__a_b_": "0"
+    },
+    {
+      "states_uts": "Chandigarh",
+      "_2015_agricultural_labourers___a": "0",
+      "_2015_farmers_cultivators___b": "0",
+      "_2015___total__a_b_": "0"
+    },
+    {
+      "states_uts": "D & N Haveli",
+      "_2015_agricultural_labourers___a": "0",
+      "_2015_farmers_cultivators___b": "0",
+      "_2015___total__a_b_": "0"
+    },
+    {
+      "states_uts": "Daman & Diu",
+      "_2015_agricultural_labourers___a": "0",
+      "_2015_farmers_cultivators___b": "0",
+      "_2015___total__a_b_": "0"
+    },
+    {
+      "states_uts": "Delhi (UT)",
+      "_2015_agricultural_labourers___a": "0",
+      "_2015_farmers_cultivators___b": "0",
+      "_2015___total__a_b_": "0"
+    },
+    {
+      "states_uts": "Lakshadweep",
+      "_2015_agricultural_labourers___a": "0",
+      "_2015_farmers_cultivators___b": "0",
+      "_2015___total__a_b_": "0"
+    },
+    {
+      "states_uts": "Puducherry",
+      "_2015_agricultural_labourers___a": 12,
+      "_2015_farmers_cultivators___b": "0",
+      "_2015___total__a_b_": 12
+    },
+    {
+      "states_uts": "Total (All India)",
+      "_2015_agricultural_labourers___a": 4595,
+      "_2015_farmers_cultivators___b": 8007,
+      "_2015___total__a_b_": 12602
+    }
+  ]
+}

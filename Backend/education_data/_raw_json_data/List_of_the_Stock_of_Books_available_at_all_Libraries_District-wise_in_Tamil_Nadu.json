@@ -1,0 +1,230 @@
+{
+  "index_name": "69afd0af-2cfb-442f-a1b9-806b1c8c10b9",
+  "title": "List of the Stock of Books available at all Libraries District-wise in Tamil Nadu",
+  "desc": "List of the Stock of Books available at all Libraries District-wise in Tamil Nadu",
+  "org_type": "State",
+  "org": [
+    "Tamil Nadu",
+    "School Education Department",
+    "Public Libraries Directorate"
+  ],
+  "sector": [
+    "Education"
+  ],
+  "source": "tn.data.gov.in",
+  "catalog_uuid": "a16507a6-80a7-4890-ba03-196e1a675528",
+  "visualizable": "0",
+  "active": "1",
+  "created": 1759236031,
+  "updated": 1759236031,
+  "created_date": "2025-09-30T14:40:31Z",
+  "updated_date": "2025-09-30T14:40:31Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "a16507a6-80a7-4890-ba03-196e1a675528",
+    "field": "69afd0af-2cfb-442f-a1b9-806b1c8c10b9"
+  },
+  "field": [
+    {
+      "id": "_s_no",
+      "name": "S.No",
+      "type": "keyword"
+    },
+    {
+      "id": "district",
+      "name": "District",
+      "type": "keyword"
+    },
+    {
+      "id": "stock_of_books",
+      "name": "Stock of Books",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 35,
+  "count": 35,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "_s_no": "1",
+      "district": "Ariyalur",
+      "stock_of_books": 968565
+    },
+    {
+      "_s_no": "2",
+      "district": "Chennai",
+      "stock_of_books": 4425814
+    },
+    {
+      "_s_no": "3",
+      "district": "Coimbatore",
+      "stock_of_books": 5297696
+    },
+    {
+      "_s_no": "4",
+      "district": "Cuddalore",
+      "stock_of_books": 2547300
+    },
+    {
+      "_s_no": "5",
+      "district": "Dharmapuri",
+      "stock_of_books": 1632005
+    },
+    {
+      "_s_no": "6",
+      "district": "Dindigul",
+      "stock_of_books": 1808267
+    },
+    {
+      "_s_no": "7",
+      "district": "Erode",
+      "stock_of_books": 2271646
+    },
+    {
+      "_s_no": "8",
+      "district": "Kancheepuram",
+      "stock_of_books": 2710815
+    },
+    {
+      "_s_no": "9",
+      "district": "Kanniyakumari",
+      "stock_of_books": 1473797
+    },
+    {
+      "_s_no": "10",
+      "district": "Karur",
+      "stock_of_books": 1530592
+    },
+    {
+      "_s_no": "11",
+      "district": "Krishnagiri",
+      "stock_of_books": 1476179
+    },
+    {
+      "_s_no": "12",
+      "district": "Madurai",
+      "stock_of_books": 3416383
+    },
+    {
+      "_s_no": "13",
+      "district": "Nagapattinam",
+      "stock_of_books": 1942856
+    },
+    {
+      "_s_no": "14",
+      "district": "Namakkal",
+      "stock_of_books": 2044621
+    },
+    {
+      "_s_no": "15",
+      "district": "Perambalur",
+      "stock_of_books": 969913
+    },
+    {
+      "_s_no": "16",
+      "district": "Pudukkottai",
+      "stock_of_books": 1607059
+    },
+    {
+      "_s_no": "17",
+      "district": "Ramanathapuram",
+      "stock_of_books": 1876780
+    },
+    {
+      "_s_no": "18",
+      "district": "Salem",
+      "stock_of_books": 2339789
+    },
+    {
+      "_s_no": "19",
+      "district": "Sivaganga",
+      "stock_of_books": 2045659
+    },
+    {
+      "_s_no": "20",
+      "district": "Thanjavur",
+      "stock_of_books": 2460145
+    },
+    {
+      "_s_no": "21",
+      "district": "The Nilgiris",
+      "stock_of_books": 2005739
+    },
+    {
+      "_s_no": "22",
+      "district": "Theni",
+      "stock_of_books": 2194082
+    },
+    {
+      "_s_no": "23",
+      "district": "Tiruchirappalli",
+      "stock_of_books": 2502458
+    },
+    {
+      "_s_no": "24",
+      "district": "Tirunelveli",
+      "stock_of_books": 5344065
+    },
+    {
+      "_s_no": "25",
+      "district": "Tiruppur",
+      "stock_of_books": 2301362
+    },
+    {
+      "_s_no": "26",
+      "district": "Tiruvallur",
+      "stock_of_books": 3298132
+    },
+    {
+      "_s_no": "27",
+      "district": "Tiruvannamalai",
+      "stock_of_books": 2067983
+    },
+    {
+      "_s_no": "28",
+      "district": "Tiruvarur",
+      "stock_of_books": 1431334
+    },
+    {
+      "_s_no": "29",
+      "district": "Thoothukudi",
+      "stock_of_books": 2194088
+    },
+    {
+      "_s_no": "30",
+      "district": "Vellore",
+      "stock_of_books": 2745514
+    },
+    {
+      "_s_no": "31",
+      "district": "Villupuram",
+      "stock_of_books": 2060150
+    },
+    {
+      "_s_no": "32",
+      "district": "Virudhunagar",
+      "stock_of_books": 2451608
+    },
+    {
+      "_s_no": "33",
+      "district": "Anna Centenary Library",
+      "stock_of_books": 604140
+    },
+    {
+      "_s_no": "34",
+      "district": "Connemara Public Library",
+      "stock_of_books": 882054
+    },
+    {
+      "_s_no": "Total",
+      "district": "District Total",
+      "stock_of_books": 76928590
+    }
+  ]
+}

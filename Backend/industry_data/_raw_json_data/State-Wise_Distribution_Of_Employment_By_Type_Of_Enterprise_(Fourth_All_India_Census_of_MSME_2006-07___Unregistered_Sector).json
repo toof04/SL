@@ -1,0 +1,317 @@
+{
+  "index_name": "cee1dd31-6ce5-424e-95c6-68d37698a37c",
+  "title": "State-Wise Distribution Of Employment  By Type Of Enterprise  (Fourth All India Census of MSME 2006-07 : Unregistered Sector)",
+  "desc": "State-Wise Distribution Of Employment  By Type Of Enterprise  (Fourth All India Census of MSME 2006-07 : Unregistered Sector)",
+  "created": 1564999347,
+  "updated": 1564999347,
+  "created_date": "2019-08-05T15:32:27Z",
+  "updated_date": "2019-08-05T15:32:27Z",
+  "active": "1",
+  "visualizable": "1",
+  "catalog_uuid": "1445e8bc-cbf4-4cfd-8f14-1d737ee958ab",
+  "source": "data.gov.in",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Micro, Small and Medium Enterprises"
+  ],
+  "sector": [
+    "Industries",
+    "Micro",
+    "Small Scale"
+  ],
+  "field": [
+    {
+      "id": "__sl_no_",
+      "name": "Sl. No.",
+      "type": "double"
+    },
+    {
+      "id": "state_ut",
+      "name": "State/UT",
+      "type": "keyword"
+    },
+    {
+      "id": "micro_values_in_lakh_",
+      "name": "Micro (Values in Lakh)",
+      "type": "double"
+    },
+    {
+      "id": "small_values_in_lakh_",
+      "name": "Small (Values in Lakh)",
+      "type": "double"
+    },
+    {
+      "id": "total_values_in_lakh_",
+      "name": "Total (Values in Lakh)",
+      "type": "double"
+    }
+  ],
+  "target_bucket": {
+    "index": "api",
+    "type": "1445e8bc-cbf4-4cfd-8f14-1d737ee958ab",
+    "field": "cee1dd31-6ce5-424e-95c6-68d37698a37c"
+  },
+  "external_ws_url": "",
+  "external_ws": "0",
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 36,
+  "count": 36,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "__sl_no_": 1,
+      "state_ut": "Jammu and Kashmir",
+      "micro_values_in_lakh_": 2.17,
+      "small_values_in_lakh_": 0,
+      "total_values_in_lakh_": 2.17
+    },
+    {
+      "__sl_no_": 2,
+      "state_ut": "Himachal Pradesh",
+      "micro_values_in_lakh_": 2.06,
+      "small_values_in_lakh_": 0.21,
+      "total_values_in_lakh_": 2.27
+    },
+    {
+      "__sl_no_": 3,
+      "state_ut": "Punjab",
+      "micro_values_in_lakh_": 14.03,
+      "small_values_in_lakh_": 0.13,
+      "total_values_in_lakh_": 14.16
+    },
+    {
+      "__sl_no_": 4,
+      "state_ut": "Chandigarh",
+      "micro_values_in_lakh_": 0.58,
+      "small_values_in_lakh_": 0,
+      "total_values_in_lakh_": 0.58
+    },
+    {
+      "__sl_no_": 5,
+      "state_ut": "Uttarakhand",
+      "micro_values_in_lakh_": 3.51,
+      "small_values_in_lakh_": 0.11,
+      "total_values_in_lakh_": 3.62
+    },
+    {
+      "__sl_no_": 6,
+      "state_ut": "Haryana",
+      "micro_values_in_lakh_": 8.41,
+      "small_values_in_lakh_": 0.01,
+      "total_values_in_lakh_": 8.41
+    },
+    {
+      "__sl_no_": 7,
+      "state_ut": "Delhi",
+      "micro_values_in_lakh_": 5.67,
+      "small_values_in_lakh_": 0.27,
+      "total_values_in_lakh_": 5.94
+    },
+    {
+      "__sl_no_": 8,
+      "state_ut": "Rajasthan",
+      "micro_values_in_lakh_": 14.88,
+      "small_values_in_lakh_": 0.12,
+      "total_values_in_lakh_": 15
+    },
+    {
+      "__sl_no_": 9,
+      "state_ut": "Uttar Pradesh",
+      "micro_values_in_lakh_": 51.73,
+      "small_values_in_lakh_": 0.03,
+      "total_values_in_lakh_": 51.76
+    },
+    {
+      "__sl_no_": 10,
+      "state_ut": "Bihar",
+      "micro_values_in_lakh_": 15.95,
+      "small_values_in_lakh_": 0.02,
+      "total_values_in_lakh_": 15.97
+    },
+    {
+      "__sl_no_": 11,
+      "state_ut": "Sikkim",
+      "micro_values_in_lakh_": 0.56,
+      "small_values_in_lakh_": 0,
+      "total_values_in_lakh_": 0.56
+    },
+    {
+      "__sl_no_": 12,
+      "state_ut": "Arunachal Pradesh",
+      "micro_values_in_lakh_": 0.82,
+      "small_values_in_lakh_": 0,
+      "total_values_in_lakh_": 0.82
+    },
+    {
+      "__sl_no_": 13,
+      "state_ut": "Nagaland",
+      "micro_values_in_lakh_": 1,
+      "small_values_in_lakh_": 0,
+      "total_values_in_lakh_": 1
+    },
+    {
+      "__sl_no_": 14,
+      "state_ut": "Manipur",
+      "micro_values_in_lakh_": 1.38,
+      "small_values_in_lakh_": 0,
+      "total_values_in_lakh_": 1.38
+    },
+    {
+      "__sl_no_": 15,
+      "state_ut": "Mizoram",
+      "micro_values_in_lakh_": 0.3,
+      "small_values_in_lakh_": 0,
+      "total_values_in_lakh_": 0.3
+    },
+    {
+      "__sl_no_": 16,
+      "state_ut": "Tripura",
+      "micro_values_in_lakh_": 0.53,
+      "small_values_in_lakh_": 0,
+      "total_values_in_lakh_": 0.53
+    },
+    {
+      "__sl_no_": 17,
+      "state_ut": "Meghalaya",
+      "micro_values_in_lakh_": 1.04,
+      "small_values_in_lakh_": 0,
+      "total_values_in_lakh_": 1.04
+    },
+    {
+      "__sl_no_": 18,
+      "state_ut": "Assam",
+      "micro_values_in_lakh_": 4.47,
+      "small_values_in_lakh_": 0.01,
+      "total_values_in_lakh_": 4.48
+    },
+    {
+      "__sl_no_": 19,
+      "state_ut": "West Bengal",
+      "micro_values_in_lakh_": 54.66,
+      "small_values_in_lakh_": 0.27,
+      "total_values_in_lakh_": 54.93
+    },
+    {
+      "__sl_no_": 20,
+      "state_ut": "Jharkhand",
+      "micro_values_in_lakh_": 8.24,
+      "small_values_in_lakh_": 0,
+      "total_values_in_lakh_": 8.24
+    },
+    {
+      "__sl_no_": 21,
+      "state_ut": "Orissa",
+      "micro_values_in_lakh_": 21.86,
+      "small_values_in_lakh_": 0.08,
+      "total_values_in_lakh_": 21.94
+    },
+    {
+      "__sl_no_": 22,
+      "state_ut": "Chhattisgarh",
+      "micro_values_in_lakh_": 4.68,
+      "small_values_in_lakh_": 0,
+      "total_values_in_lakh_": 4.68
+    },
+    {
+      "__sl_no_": 23,
+      "state_ut": "Madhya Pradesh",
+      "micro_values_in_lakh_": 17.31,
+      "small_values_in_lakh_": 0,
+      "total_values_in_lakh_": 17.32
+    },
+    {
+      "__sl_no_": 24,
+      "state_ut": "Gujarat",
+      "micro_values_in_lakh_": 21.95,
+      "small_values_in_lakh_": 0.02,
+      "total_values_in_lakh_": 21.97
+    },
+    {
+      "__sl_no_": 25,
+      "state_ut": "Daman & Diu",
+      "micro_values_in_lakh_": 0.03,
+      "small_values_in_lakh_": 0,
+      "total_values_in_lakh_": 0.03
+    },
+    {
+      "__sl_no_": 26,
+      "state_ut": "Dadar and Nagar Haveli",
+      "micro_values_in_lakh_": 0.07,
+      "small_values_in_lakh_": 0,
+      "total_values_in_lakh_": 0.07
+    },
+    {
+      "__sl_no_": 27,
+      "state_ut": "Maharashtra",
+      "micro_values_in_lakh_": 24.51,
+      "small_values_in_lakh_": 0.21,
+      "total_values_in_lakh_": 24.72
+    },
+    {
+      "__sl_no_": 28,
+      "state_ut": "Andhra Pradesh",
+      "micro_values_in_lakh_": 34.64,
+      "small_values_in_lakh_": 0.51,
+      "total_values_in_lakh_": 35.15
+    },
+    {
+      "__sl_no_": 29,
+      "state_ut": "Karnataka",
+      "micro_values_in_lakh_": 22.04,
+      "small_values_in_lakh_": 0.54,
+      "total_values_in_lakh_": 22.58
+    },
+    {
+      "__sl_no_": 30,
+      "state_ut": "Goa",
+      "micro_values_in_lakh_": 0.86,
+      "small_values_in_lakh_": 0,
+      "total_values_in_lakh_": 0.87
+    },
+    {
+      "__sl_no_": 31,
+      "state_ut": "Lakshadweep",
+      "micro_values_in_lakh_": 0.05,
+      "small_values_in_lakh_": 0,
+      "total_values_in_lakh_": 0.05
+    },
+    {
+      "__sl_no_": 32,
+      "state_ut": "Kerala",
+      "micro_values_in_lakh_": 26.67,
+      "small_values_in_lakh_": 0.32,
+      "total_values_in_lakh_": 26.98
+    },
+    {
+      "__sl_no_": 33,
+      "state_ut": "Tamil Nadu",
+      "micro_values_in_lakh_": 38.43,
+      "small_values_in_lakh_": 0.47,
+      "total_values_in_lakh_": 38.89
+    },
+    {
+      "__sl_no_": 34,
+      "state_ut": "Puducherry",
+      "micro_values_in_lakh_": 0.25,
+      "small_values_in_lakh_": 0,
+      "total_values_in_lakh_": 0.25
+    },
+    {
+      "__sl_no_": 35,
+      "state_ut": "Andaman and Nicobar Islands",
+      "micro_values_in_lakh_": 0.18,
+      "small_values_in_lakh_": 0,
+      "total_values_in_lakh_": 0.18
+    },
+    {
+      "__sl_no_": "NA",
+      "state_ut": "All India",
+      "micro_values_in_lakh_": 405.52,
+      "small_values_in_lakh_": 3.32,
+      "total_values_in_lakh_": 408.84
+    }
+  ]
+}

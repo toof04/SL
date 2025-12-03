@@ -1,0 +1,523 @@
+{
+  "index_name": "e1013d45-3e2f-4a64-be9f-8cc10aef1bb1",
+  "title": "State Wise Distribution Of Working Enterprises By Religion Of The Owner (Fourth All India Census of MSME 2006-07 : Registered Sector)",
+  "desc": "State Wise Distribution Of Working Enterprises By Religion Of The Owner (Fourth All India Census of MSME 2006-07 : Registered Sector)",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Micro, Small and Medium Enterprises"
+  ],
+  "sector": [
+    "Industries",
+    "Medium",
+    "Micro",
+    "Small Scale"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "b7664d10-dced-475f-b86c-c47a2204be01",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1668766329,
+  "updated": 1668766233,
+  "created_date": "2022-11-18T11:12:09Z",
+  "updated_date": "2022-11-18T15:40:33Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "b7664d10-dced-475f-b86c-c47a2204be01",
+    "field": "e1013d45-3e2f-4a64-be9f-8cc10aef1bb1"
+  },
+  "field": [
+    {
+      "id": "_sl__no_",
+      "name": "Sl. No.",
+      "type": "double"
+    },
+    {
+      "id": "state_ut",
+      "name": "State/UT",
+      "type": "keyword"
+    },
+    {
+      "id": "hindu",
+      "name": "Hindu",
+      "type": "double"
+    },
+    {
+      "id": "muslim",
+      "name": "Muslim",
+      "type": "double"
+    },
+    {
+      "id": "sikh",
+      "name": "Sikh",
+      "type": "double"
+    },
+    {
+      "id": "christian",
+      "name": "Christian",
+      "type": "double"
+    },
+    {
+      "id": "jain",
+      "name": "Jain",
+      "type": "double"
+    },
+    {
+      "id": "buddhist",
+      "name": "Buddhist",
+      "type": "double"
+    },
+    {
+      "id": "others",
+      "name": "Others",
+      "type": "double"
+    },
+    {
+      "id": "_total",
+      "name": "Total",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 36,
+  "count": 36,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "_sl__no_": 1,
+      "state_ut": "JAMMU & KASHMIR",
+      "hindu": 5665,
+      "muslim": 8065,
+      "sikh": 376,
+      "christian": 107,
+      "jain": 25,
+      "buddhist": 99,
+      "others": 656,
+      "_total": 14993
+    },
+    {
+      "_sl__no_": 2,
+      "state_ut": "HIMACHAL PRADESH",
+      "hindu": 11138,
+      "muslim": 150,
+      "sikh": 299,
+      "christian": 34,
+      "jain": 11,
+      "buddhist": 44,
+      "others": 255,
+      "_total": 11931
+    },
+    {
+      "_sl__no_": 3,
+      "state_ut": "PUNJAB",
+      "hindu": 21809,
+      "muslim": 1344,
+      "sikh": 22381,
+      "christian": 336,
+      "jain": 280,
+      "buddhist": 6,
+      "others": 1954,
+      "_total": 48110
+    },
+    {
+      "_sl__no_": 4,
+      "state_ut": "CHANDIGARH",
+      "hindu": 655,
+      "muslim": 21,
+      "sikh": 262,
+      "christian": 3,
+      "jain": 8,
+      "buddhist": "0",
+      "others": 47,
+      "_total": 996
+    },
+    {
+      "_sl__no_": 5,
+      "state_ut": "UTTARAKHAND",
+      "hindu": 20890,
+      "muslim": 1970,
+      "sikh": 349,
+      "christian": 64,
+      "jain": 40,
+      "buddhist": 7,
+      "others": 445,
+      "_total": 23765
+    },
+    {
+      "_sl__no_": 6,
+      "state_ut": "HARYANA",
+      "hindu": 29437,
+      "muslim": 1035,
+      "sikh": 1516,
+      "christian": 99,
+      "jain": 176,
+      "buddhist": 16,
+      "others": 871,
+      "_total": 33150
+    },
+    {
+      "_sl__no_": 7,
+      "state_ut": "DELHI",
+      "hindu": 3468,
+      "muslim": 12,
+      "sikh": 101,
+      "christian": 23,
+      "jain": 7,
+      "buddhist": "0",
+      "others": 143,
+      "_total": 3754
+    },
+    {
+      "_sl__no_": 8,
+      "state_ut": "RAJASTHAN",
+      "hindu": 43794,
+      "muslim": 6239,
+      "sikh": 606,
+      "christian": 174,
+      "jain": 2017,
+      "buddhist": 4,
+      "others": 2051,
+      "_total": 54885
+    },
+    {
+      "_sl__no_": 9,
+      "state_ut": "UTTAR PRADESH",
+      "hindu": 144366,
+      "muslim": 39938,
+      "sikh": 1477,
+      "christian": 436,
+      "jain": 482,
+      "buddhist": 16,
+      "others": 1027,
+      "_total": 187742
+    },
+    {
+      "_sl__no_": 10,
+      "state_ut": "BIHAR",
+      "hindu": 41366,
+      "muslim": 6005,
+      "sikh": 102,
+      "christian": 91,
+      "jain": 27,
+      "buddhist": 4,
+      "others": 2441,
+      "_total": 50036
+    },
+    {
+      "_sl__no_": 11,
+      "state_ut": "SIKKIM",
+      "hindu": 81,
+      "muslim": 2,
+      "sikh": "0",
+      "christian": 7,
+      "jain": "0",
+      "buddhist": 18,
+      "others": 14,
+      "_total": 122
+    },
+    {
+      "_sl__no_": 12,
+      "state_ut": "ARUNACHAL PRADESH",
+      "hindu": 97,
+      "muslim": 193,
+      "sikh": 4,
+      "christian": 37,
+      "jain": "0",
+      "buddhist": 63,
+      "others": 23,
+      "_total": 417
+    },
+    {
+      "_sl__no_": 13,
+      "state_ut": "NAGALAND",
+      "hindu": 121,
+      "muslim": 41,
+      "sikh": 9,
+      "christian": 1086,
+      "jain": 9,
+      "buddhist": 3,
+      "others": 63,
+      "_total": 1332
+    },
+    {
+      "_sl__no_": 14,
+      "state_ut": "MANIPUR",
+      "hindu": 3241,
+      "muslim": 121,
+      "sikh": 6,
+      "christian": 1072,
+      "jain": 6,
+      "buddhist": 1,
+      "others": 45,
+      "_total": 4492
+    },
+    {
+      "_sl__no_": 15,
+      "state_ut": "MIZORAM",
+      "hindu": 53,
+      "muslim": 27,
+      "sikh": 14,
+      "christian": 3594,
+      "jain": "0",
+      "buddhist": 2,
+      "others": 25,
+      "_total": 3715
+    },
+    {
+      "_sl__no_": 16,
+      "state_ut": "TRIPURA",
+      "hindu": 1256,
+      "muslim": 33,
+      "sikh": 22,
+      "christian": 5,
+      "jain": "0",
+      "buddhist": 4,
+      "others": 23,
+      "_total": 1343
+    },
+    {
+      "_sl__no_": 17,
+      "state_ut": "MEGHALAYA",
+      "hindu": 116,
+      "muslim": 658,
+      "sikh": "0",
+      "christian": 2182,
+      "jain": 2,
+      "buddhist": "0",
+      "others": 52,
+      "_total": 3010
+    },
+    {
+      "_sl__no_": 18,
+      "state_ut": "ASSAM",
+      "hindu": 15859,
+      "muslim": 2968,
+      "sikh": 171,
+      "christian": 217,
+      "jain": 224,
+      "buddhist": 14,
+      "others": 411,
+      "_total": 19864
+    },
+    {
+      "_sl__no_": 19,
+      "state_ut": "WEST BENGAL",
+      "hindu": 36131,
+      "muslim": 5448,
+      "sikh": 107,
+      "christian": 145,
+      "jain": 81,
+      "buddhist": 73,
+      "others": 1274,
+      "_total": 43259
+    },
+    {
+      "_sl__no_": 20,
+      "state_ut": "JHARKHAND",
+      "hindu": 13884,
+      "muslim": 3056,
+      "sikh": 181,
+      "christian": 147,
+      "jain": 33,
+      "buddhist": 2,
+      "others": 887,
+      "_total": 18190
+    },
+    {
+      "_sl__no_": 21,
+      "state_ut": "ORISSA",
+      "hindu": 18015,
+      "muslim": 663,
+      "sikh": 118,
+      "christian": 139,
+      "jain": 13,
+      "buddhist": 1,
+      "others": 657,
+      "_total": 19606
+    },
+    {
+      "_sl__no_": 22,
+      "state_ut": "CHHATTISGARH",
+      "hindu": 20166,
+      "muslim": 1094,
+      "sikh": 250,
+      "christian": 438,
+      "jain": 188,
+      "buddhist": 21,
+      "others": 611,
+      "_total": 22768
+    },
+    {
+      "_sl__no_": 23,
+      "state_ut": "MADHYA PRADESH",
+      "hindu": 93751,
+      "muslim": 9750,
+      "sikh": 579,
+      "christian": 434,
+      "jain": 1522,
+      "buddhist": 87,
+      "others": 874,
+      "_total": 106997
+    },
+    {
+      "_sl__no_": 24,
+      "state_ut": "GUJARAT",
+      "hindu": 202395,
+      "muslim": 3472,
+      "sikh": 18089,
+      "christian": 5873,
+      "jain": "0",
+      "buddhist": 1,
+      "others": "0",
+      "_total": 229830
+    },
+    {
+      "_sl__no_": 25,
+      "state_ut": "DAMAN & DIU",
+      "hindu": 572,
+      "muslim": 10,
+      "sikh": 1,
+      "christian": 3,
+      "jain": 8,
+      "buddhist": "0",
+      "others": "0",
+      "_total": 594
+    },
+    {
+      "_sl__no_": 26,
+      "state_ut": "DADRA & NAGAR HAVELI",
+      "hindu": 1716,
+      "muslim": "0",
+      "sikh": "0",
+      "christian": "0",
+      "jain": "0",
+      "buddhist": "0",
+      "others": "0",
+      "_total": 1716
+    },
+    {
+      "_sl__no_": 27,
+      "state_ut": "MAHARASHTRA",
+      "hindu": 76159,
+      "muslim": 3984,
+      "sikh": 461,
+      "christian": 1088,
+      "jain": 1932,
+      "buddhist": 413,
+      "others": 2549,
+      "_total": 86586
+    },
+    {
+      "_sl__no_": 28,
+      "state_ut": "ANDHRA PRADESH",
+      "hindu": 39379,
+      "muslim": 3439,
+      "sikh": 647,
+      "christian": 915,
+      "jain": 46,
+      "buddhist": 23,
+      "others": 1243,
+      "_total": 45692
+    },
+    {
+      "_sl__no_": 29,
+      "state_ut": "KARNATAKA",
+      "hindu": 117711,
+      "muslim": 13698,
+      "sikh": 522,
+      "christian": 1921,
+      "jain": 608,
+      "buddhist": 47,
+      "others": 1679,
+      "_total": 136186
+    },
+    {
+      "_sl__no_": 30,
+      "state_ut": "GOA",
+      "hindu": 1860,
+      "muslim": 86,
+      "sikh": 6,
+      "christian": 536,
+      "jain": 11,
+      "buddhist": 4,
+      "others": 118,
+      "_total": 2621
+    },
+    {
+      "_sl__no_": 31,
+      "state_ut": "LAKSHADWEEP",
+      "hindu": 2,
+      "muslim": "0",
+      "sikh": "0",
+      "christian": "0",
+      "jain": "0",
+      "buddhist": "0",
+      "others": "0",
+      "_total": 2
+    },
+    {
+      "_sl__no_": 32,
+      "state_ut": "KERALA",
+      "hindu": 91800,
+      "muslim": 19941,
+      "sikh": 1374,
+      "christian": 34436,
+      "jain": 77,
+      "buddhist": 75,
+      "others": 2485,
+      "_total": 150188
+    },
+    {
+      "_sl__no_": 33,
+      "state_ut": "TAMIL NADU",
+      "hindu": 211494,
+      "muslim": 8916,
+      "sikh": 1725,
+      "christian": 8745,
+      "jain": 271,
+      "buddhist": 43,
+      "others": 2687,
+      "_total": 233881
+    },
+    {
+      "_sl__no_": 34,
+      "state_ut": "PUDUCHERRY",
+      "hindu": 1277,
+      "muslim": 88,
+      "sikh": 4,
+      "christian": 46,
+      "jain": 16,
+      "buddhist": 2,
+      "others": 18,
+      "_total": 1451
+    },
+    {
+      "_sl__no_": 35,
+      "state_ut": "ANDAMAN & NICOBAR ISLANDS",
+      "hindu": 563,
+      "muslim": 69,
+      "sikh": 10,
+      "christian": 42,
+      "jain": 2,
+      "buddhist": 3,
+      "others": 61,
+      "_total": 750
+    },
+    {
+      "_sl__no_": "NA",
+      "state_ut": "All India",
+      "hindu": 1270287,
+      "muslim": 142536,
+      "sikh": 51769,
+      "christian": 64475,
+      "jain": 8122,
+      "buddhist": 1096,
+      "others": 25689,
+      "_total": 1563974
+    }
+  ]
+}

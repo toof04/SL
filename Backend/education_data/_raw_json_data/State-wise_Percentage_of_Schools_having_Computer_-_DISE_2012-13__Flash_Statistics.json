@@ -1,0 +1,474 @@
+{
+  "created": 1496982168,
+  "updated": 1543519914,
+  "title": "State-wise Percentage of Schools having Computer - DISE 2012-13: Flash Statistics",
+  "source": "data.gov.in",
+  "org_type": "Central",
+  "org": [
+    "NITI Aayog"
+  ],
+  "sector": [
+    "Elementary",
+    "Education"
+  ],
+  "visualizable": "1",
+  "index_name": "e9ed0d92-ec86-4d28-96be-78dbc85ef59b",
+  "catalog_uuid": "7b76f81a-61f1-4bc7-a267-63471b4d9eb9",
+  "status": "ok",
+  "field": [
+    {
+      "id": "state_uts",
+      "name": "State/UTs",
+      "type": "keyword"
+    },
+    {
+      "id": "all_schools_2010_11",
+      "name": "All Schools 2010-11",
+      "type": "double"
+    },
+    {
+      "id": "all_schools_2011_12",
+      "name": "All Schools 2011-12",
+      "type": "double"
+    },
+    {
+      "id": "all_schools_2012_13",
+      "name": "All Schools 2012-13",
+      "type": "double"
+    },
+    {
+      "id": "primary_schools_2011_12",
+      "name": "Primary Schools 2011-12",
+      "type": "double"
+    },
+    {
+      "id": "primary_schools_2012_13",
+      "name": "Primary Schools 2012-13",
+      "type": "double"
+    },
+    {
+      "id": "upper_primary_schools_sections_2011_12",
+      "name": "Upper Primary Schools/ Sections 2011-12",
+      "type": "double"
+    },
+    {
+      "id": "upper_primary_schools_sections_2012_13",
+      "name": "Upper Primary Schools/ Sections 2012-13",
+      "type": "double"
+    },
+    {
+      "id": "all_schools_2012_13_functional_computers_",
+      "name": "All Schools 2012-13 (Functional Computers)",
+      "type": "double"
+    }
+  ],
+  "created_date": "2017-06-09T09:52:48Z",
+  "updated_date": "2018-11-30T01:01:54Z",
+  "active": "1",
+  "external_ws_url": "",
+  "external_ws": "0",
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "total": 36,
+  "count": 36,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "state_uts": "A & N Islands",
+      "all_schools_2010_11": "60.84",
+      "all_schools_2011_12": "59.35",
+      "all_schools_2012_13": "52.77",
+      "primary_schools_2011_12": "38.65",
+      "primary_schools_2012_13": "31.07",
+      "upper_primary_schools_sections_2011_12": "88.7",
+      "upper_primary_schools_sections_2012_13": "88.3",
+      "all_schools_2012_13_functional_computers_": "81.09"
+    },
+    {
+      "state_uts": "Andhra Pradesh",
+      "all_schools_2010_11": "25.58",
+      "all_schools_2011_12": "27.05",
+      "all_schools_2012_13": "28.59",
+      "primary_schools_2011_12": "12.26",
+      "primary_schools_2012_13": "12.38",
+      "upper_primary_schools_sections_2011_12": "54.96",
+      "upper_primary_schools_sections_2012_13": "57.59",
+      "all_schools_2012_13_functional_computers_": "67.09"
+    },
+    {
+      "state_uts": "Arunachal Pradesh",
+      "all_schools_2010_11": "15.58",
+      "all_schools_2011_12": "18.58",
+      "all_schools_2012_13": "19.67",
+      "primary_schools_2011_12": "3.06",
+      "primary_schools_2012_13": "3.13",
+      "upper_primary_schools_sections_2011_12": "54.8",
+      "upper_primary_schools_sections_2012_13": "54.78",
+      "all_schools_2012_13_functional_computers_": "68.78"
+    },
+    {
+      "state_uts": "Assam",
+      "all_schools_2010_11": "5.12",
+      "all_schools_2011_12": "6.5",
+      "all_schools_2012_13": "7.22",
+      "primary_schools_2011_12": "0.85",
+      "primary_schools_2012_13": "1",
+      "upper_primary_schools_sections_2011_12": "23.28",
+      "upper_primary_schools_sections_2012_13": "25.38",
+      "all_schools_2012_13_functional_computers_": "70.42"
+    },
+    {
+      "state_uts": "Bihar",
+      "all_schools_2010_11": "1.21",
+      "all_schools_2011_12": "1.52",
+      "all_schools_2012_13": "1.72",
+      "primary_schools_2011_12": "0.59",
+      "primary_schools_2012_13": "0.5",
+      "upper_primary_schools_sections_2011_12": "2.81",
+      "upper_primary_schools_sections_2012_13": "3.32",
+      "all_schools_2012_13_functional_computers_": "48.13"
+    },
+    {
+      "state_uts": "Chandigarh",
+      "all_schools_2010_11": "93.48",
+      "all_schools_2011_12": "94.65000000000001",
+      "all_schools_2012_13": "96.28",
+      "primary_schools_2011_12": "57.14",
+      "primary_schools_2012_13": "64.29000000000001",
+      "upper_primary_schools_sections_2011_12": "97.69",
+      "upper_primary_schools_sections_2012_13": "98.84999999999999",
+      "all_schools_2012_13_functional_computers_": "94.48"
+    },
+    {
+      "state_uts": "Chhattisgarh",
+      "all_schools_2010_11": "6.04",
+      "all_schools_2011_12": "7.22",
+      "all_schools_2012_13": "8.220000000000001",
+      "primary_schools_2011_12": "2.9",
+      "primary_schools_2012_13": "2.84",
+      "upper_primary_schools_sections_2011_12": "16.09",
+      "upper_primary_schools_sections_2012_13": "19.01",
+      "all_schools_2012_13_functional_computers_": "63.87"
+    },
+    {
+      "state_uts": "Dadra & Nagar Haveli",
+      "all_schools_2010_11": "11.78",
+      "all_schools_2011_12": "27.72",
+      "all_schools_2012_13": "32.7",
+      "primary_schools_2011_12": "3.47",
+      "primary_schools_2012_13": "7.18",
+      "upper_primary_schools_sections_2011_12": "76.23999999999999",
+      "upper_primary_schools_sections_2012_13": "67.16",
+      "all_schools_2012_13_functional_computers_": "73.79000000000001"
+    },
+    {
+      "state_uts": "Daman & Diu",
+      "all_schools_2010_11": "55.45",
+      "all_schools_2011_12": "54.87",
+      "all_schools_2012_13": "52.5",
+      "primary_schools_2011_12": "18.03",
+      "primary_schools_2012_13": "19.64",
+      "upper_primary_schools_sections_2011_12": "98.08",
+      "upper_primary_schools_sections_2012_13": "88.14",
+      "all_schools_2012_13_functional_computers_": "NA"
+    },
+    {
+      "state_uts": "Delhi",
+      "all_schools_2010_11": "83.17",
+      "all_schools_2011_12": "93.42",
+      "all_schools_2012_13": "77.88",
+      "primary_schools_2011_12": "91.22",
+      "primary_schools_2012_13": "77.26000000000001",
+      "upper_primary_schools_sections_2011_12": "95.7",
+      "upper_primary_schools_sections_2012_13": "78.51000000000001",
+      "all_schools_2012_13_functional_computers_": "90.20999999999999"
+    },
+    {
+      "state_uts": "Goa",
+      "all_schools_2010_11": "31.92",
+      "all_schools_2011_12": "36.78",
+      "all_schools_2012_13": "36.59",
+      "primary_schools_2011_12": "11.53",
+      "primary_schools_2012_13": "10.57",
+      "upper_primary_schools_sections_2011_12": "90.29000000000001",
+      "upper_primary_schools_sections_2012_13": "93.31999999999999",
+      "all_schools_2012_13_functional_computers_": "79.81"
+    },
+    {
+      "state_uts": "Gujarat",
+      "all_schools_2010_11": "45.37",
+      "all_schools_2011_12": "60.01",
+      "all_schools_2012_13": "71.52",
+      "primary_schools_2011_12": "18.53",
+      "primary_schools_2012_13": "23.01",
+      "upper_primary_schools_sections_2011_12": "75.45",
+      "upper_primary_schools_sections_2012_13": "89.2",
+      "all_schools_2012_13_functional_computers_": "72.97"
+    },
+    {
+      "state_uts": "Haryana",
+      "all_schools_2010_11": "32.92",
+      "all_schools_2011_12": "36.85",
+      "all_schools_2012_13": "41.58",
+      "primary_schools_2011_12": "6.89",
+      "primary_schools_2012_13": "7.5",
+      "upper_primary_schools_sections_2011_12": "65.09999999999999",
+      "upper_primary_schools_sections_2012_13": "71.7",
+      "all_schools_2012_13_functional_computers_": "74.75"
+    },
+    {
+      "state_uts": "Himachal Pradesh",
+      "all_schools_2010_11": "16.55",
+      "all_schools_2011_12": "18.74",
+      "all_schools_2012_13": "21.7",
+      "primary_schools_2011_12": "4.31",
+      "primary_schools_2012_13": "3.79",
+      "upper_primary_schools_sections_2011_12": "44.97",
+      "upper_primary_schools_sections_2012_13": "53.84",
+      "all_schools_2012_13_functional_computers_": "70.93000000000001"
+    },
+    {
+      "state_uts": "Jammu & Kashmir",
+      "all_schools_2010_11": "14.69",
+      "all_schools_2011_12": "14.49",
+      "all_schools_2012_13": "15.03",
+      "primary_schools_2011_12": "3.17",
+      "primary_schools_2012_13": "3.34",
+      "upper_primary_schools_sections_2011_12": "26.9",
+      "upper_primary_schools_sections_2012_13": "27.63",
+      "all_schools_2012_13_functional_computers_": "71.83"
+    },
+    {
+      "state_uts": "Jharkhand",
+      "all_schools_2010_11": "7.15",
+      "all_schools_2011_12": "8.06",
+      "all_schools_2012_13": "8.289999999999999",
+      "primary_schools_2011_12": "3.4",
+      "primary_schools_2012_13": "3.27",
+      "upper_primary_schools_sections_2011_12": "15.16",
+      "upper_primary_schools_sections_2012_13": "15.87",
+      "all_schools_2012_13_functional_computers_": "72.05"
+    },
+    {
+      "state_uts": "Karnataka",
+      "all_schools_2010_11": "24.37",
+      "all_schools_2011_12": "33.16",
+      "all_schools_2012_13": "28.35",
+      "primary_schools_2011_12": "8.859999999999999",
+      "primary_schools_2012_13": "9.279999999999999",
+      "upper_primary_schools_sections_2011_12": "47.53",
+      "upper_primary_schools_sections_2012_13": "43.23",
+      "all_schools_2012_13_functional_computers_": "81.11"
+    },
+    {
+      "state_uts": "Kerala",
+      "all_schools_2010_11": "93.01000000000001",
+      "all_schools_2011_12": "87.72",
+      "all_schools_2012_13": "90.29000000000001",
+      "primary_schools_2011_12": "84.16",
+      "primary_schools_2012_13": "85.26000000000001",
+      "upper_primary_schools_sections_2011_12": "94.31",
+      "upper_primary_schools_sections_2012_13": "95.76000000000001",
+      "all_schools_2012_13_functional_computers_": "80.15000000000001"
+    },
+    {
+      "state_uts": "Lakshadweep",
+      "all_schools_2010_11": "95.65000000000001",
+      "all_schools_2011_12": "97.83",
+      "all_schools_2012_13": "97.73",
+      "primary_schools_2011_12": "95",
+      "primary_schools_2012_13": "94.44",
+      "upper_primary_schools_sections_2011_12": "100",
+      "upper_primary_schools_sections_2012_13": "100",
+      "all_schools_2012_13_functional_computers_": "90.7"
+    },
+    {
+      "state_uts": "Madhya Pradesh",
+      "all_schools_2010_11": "10.12",
+      "all_schools_2011_12": "10.96",
+      "all_schools_2012_13": "12.35",
+      "primary_schools_2011_12": "3.09",
+      "primary_schools_2012_13": "3.17",
+      "upper_primary_schools_sections_2011_12": "25.76",
+      "upper_primary_schools_sections_2012_13": "28.66",
+      "all_schools_2012_13_functional_computers_": "65.33"
+    },
+    {
+      "state_uts": "Maharashtra",
+      "all_schools_2010_11": "40.8",
+      "all_schools_2011_12": "44.51",
+      "all_schools_2012_13": "47.43",
+      "primary_schools_2011_12": "17.07",
+      "primary_schools_2012_13": "24.93",
+      "upper_primary_schools_sections_2011_12": "81.7",
+      "upper_primary_schools_sections_2012_13": "72.45",
+      "all_schools_2012_13_functional_computers_": "73.34999999999999"
+    },
+    {
+      "state_uts": "Manipur",
+      "all_schools_2010_11": "18.18",
+      "all_schools_2011_12": "20.85",
+      "all_schools_2012_13": "22.15",
+      "primary_schools_2011_12": "1.35",
+      "primary_schools_2012_13": "1.7",
+      "upper_primary_schools_sections_2011_12": "52.45",
+      "upper_primary_schools_sections_2012_13": "51.93",
+      "all_schools_2012_13_functional_computers_": "66.34"
+    },
+    {
+      "state_uts": "Meghalaya",
+      "all_schools_2010_11": "7.1",
+      "all_schools_2011_12": "7.46",
+      "all_schools_2012_13": "7.59",
+      "primary_schools_2011_12": "2.89",
+      "primary_schools_2012_13": "2.82",
+      "upper_primary_schools_sections_2011_12": "18.65",
+      "upper_primary_schools_sections_2012_13": "19.36",
+      "all_schools_2012_13_functional_computers_": "64.79000000000001"
+    },
+    {
+      "state_uts": "Mizoram",
+      "all_schools_2010_11": "23.04",
+      "all_schools_2011_12": "28.48",
+      "all_schools_2012_13": "27.56",
+      "primary_schools_2011_12": "12",
+      "primary_schools_2012_13": "11.04",
+      "upper_primary_schools_sections_2011_12": "47.14",
+      "upper_primary_schools_sections_2012_13": "45.27",
+      "all_schools_2012_13_functional_computers_": "78.48999999999999"
+    },
+    {
+      "state_uts": "Nagaland",
+      "all_schools_2010_11": "33.12",
+      "all_schools_2011_12": "29.41",
+      "all_schools_2012_13": "31.05",
+      "primary_schools_2011_12": "5.7",
+      "primary_schools_2012_13": "4.53",
+      "upper_primary_schools_sections_2011_12": "60.45",
+      "upper_primary_schools_sections_2012_13": "62.95",
+      "all_schools_2012_13_functional_computers_": "79"
+    },
+    {
+      "state_uts": "Odisha",
+      "all_schools_2010_11": "8.470000000000001",
+      "all_schools_2011_12": "8.949999999999999",
+      "all_schools_2012_13": "9.24",
+      "primary_schools_2011_12": "3.74",
+      "primary_schools_2012_13": "3.97",
+      "upper_primary_schools_sections_2011_12": "15.56",
+      "upper_primary_schools_sections_2012_13": "15.72",
+      "all_schools_2012_13_functional_computers_": "39.71"
+    },
+    {
+      "state_uts": "Puducherry",
+      "all_schools_2010_11": "90.69",
+      "all_schools_2011_12": "94.63",
+      "all_schools_2012_13": "97.73999999999999",
+      "primary_schools_2011_12": "96.53",
+      "primary_schools_2012_13": "98.58",
+      "upper_primary_schools_sections_2011_12": "93.31999999999999",
+      "upper_primary_schools_sections_2012_13": "97.19",
+      "all_schools_2012_13_functional_computers_": "95.38"
+    },
+    {
+      "state_uts": "Punjab",
+      "all_schools_2010_11": "47.12",
+      "all_schools_2011_12": "47.99",
+      "all_schools_2012_13": "50.31",
+      "primary_schools_2011_12": "12.04",
+      "primary_schools_2012_13": "10.88",
+      "upper_primary_schools_sections_2011_12": "86.98",
+      "upper_primary_schools_sections_2012_13": "92.01000000000001",
+      "all_schools_2012_13_functional_computers_": "90.90000000000001"
+    },
+    {
+      "state_uts": "Rajasthan",
+      "all_schools_2010_11": "21.73",
+      "all_schools_2011_12": "18.03",
+      "all_schools_2012_13": "22.51",
+      "primary_schools_2011_12": "3.47",
+      "primary_schools_2012_13": "3.88",
+      "upper_primary_schools_sections_2011_12": "30.18",
+      "upper_primary_schools_sections_2012_13": "38.08",
+      "all_schools_2012_13_functional_computers_": "59.58"
+    },
+    {
+      "state_uts": "Sikkim",
+      "all_schools_2010_11": "40.97",
+      "all_schools_2011_12": "45.91",
+      "all_schools_2012_13": "50.27",
+      "primary_schools_2011_12": "21.62",
+      "primary_schools_2012_13": "26.95",
+      "upper_primary_schools_sections_2011_12": "79.54000000000001",
+      "upper_primary_schools_sections_2012_13": "82.5",
+      "all_schools_2012_13_functional_computers_": "76.05"
+    },
+    {
+      "state_uts": "Tamil Nadu",
+      "all_schools_2010_11": "47.43",
+      "all_schools_2011_12": "49.6",
+      "all_schools_2012_13": "53.13",
+      "primary_schools_2011_12": "27.22",
+      "primary_schools_2012_13": "34.89",
+      "upper_primary_schools_sections_2011_12": "86.31",
+      "upper_primary_schools_sections_2012_13": "83.19",
+      "all_schools_2012_13_functional_computers_": "83.45999999999999"
+    },
+    {
+      "state_uts": "Tripura",
+      "all_schools_2010_11": "11.65",
+      "all_schools_2011_12": "11.59",
+      "all_schools_2012_13": "12.71",
+      "primary_schools_2011_12": "1.38",
+      "primary_schools_2012_13": "3.35",
+      "upper_primary_schools_sections_2011_12": "22.42",
+      "upper_primary_schools_sections_2012_13": "23.44",
+      "all_schools_2012_13_functional_computers_": "73.8"
+    },
+    {
+      "state_uts": "Uttar Pradesh",
+      "all_schools_2010_11": "5.45",
+      "all_schools_2011_12": "7.49",
+      "all_schools_2012_13": "10.19",
+      "primary_schools_2011_12": "4.37",
+      "primary_schools_2012_13": "5.36",
+      "upper_primary_schools_sections_2011_12": "13.45",
+      "upper_primary_schools_sections_2012_13": "18.95",
+      "all_schools_2012_13_functional_computers_": "42.42"
+    },
+    {
+      "state_uts": "Uttarakhand",
+      "all_schools_2010_11": "25.14",
+      "all_schools_2011_12": "29.53",
+      "all_schools_2012_13": "31.07",
+      "primary_schools_2011_12": "12.87",
+      "primary_schools_2012_13": "12.99",
+      "upper_primary_schools_sections_2011_12": "65.73999999999999",
+      "upper_primary_schools_sections_2012_13": "68.95999999999999",
+      "all_schools_2012_13_functional_computers_": "83.34999999999999"
+    },
+    {
+      "state_uts": "West Bengal",
+      "all_schools_2010_11": "8.720000000000001",
+      "all_schools_2011_12": "8.84",
+      "all_schools_2012_13": "9.66",
+      "primary_schools_2011_12": "2.71",
+      "primary_schools_2012_13": "3.36",
+      "upper_primary_schools_sections_2011_12": "36.83",
+      "upper_primary_schools_sections_2012_13": "37.53",
+      "all_schools_2012_13_functional_computers_": "71.76000000000001"
+    },
+    {
+      "state_uts": "All States",
+      "all_schools_2010_11": "18.7",
+      "all_schools_2011_12": "20.53",
+      "all_schools_2012_13": "22.09",
+      "primary_schools_2011_12": "7.59",
+      "primary_schools_2012_13": "8.69",
+      "upper_primary_schools_sections_2011_12": "40.14",
+      "upper_primary_schools_sections_2012_13": "41.96",
+      "all_schools_2012_13_functional_computers_": "70.78"
+    }
+  ]
+}

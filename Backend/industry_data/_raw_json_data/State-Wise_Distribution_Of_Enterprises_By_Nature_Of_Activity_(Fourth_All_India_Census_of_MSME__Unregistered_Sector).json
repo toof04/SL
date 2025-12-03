@@ -1,0 +1,358 @@
+{
+  "index_name": "ebd6189d-8b6f-43e2-8bcc-96b40f029415",
+  "title": "State-Wise Distribution Of  Enterprises By Nature Of Activity  (Fourth All India Census of MSME: Unregistered Sector)",
+  "desc": "State-Wise Distribution Of  Enterprises By Nature Of Activity  (Fourth All India Census of MSME: Unregistered Sector)",
+  "created": 1565004803,
+  "updated": 1565004803,
+  "created_date": "2019-08-05T17:03:23Z",
+  "updated_date": "2019-08-05T17:03:23Z",
+  "active": "1",
+  "visualizable": "1",
+  "catalog_uuid": "3fb4ce90-2f08-4a80-92a5-aaeec8082cd9",
+  "source": "data.gov.in",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Micro, Small and Medium Enterprises"
+  ],
+  "sector": [
+    "Industries",
+    "Micro",
+    "Small Scale"
+  ],
+  "field": [
+    {
+      "id": "__sl_no_",
+      "name": "Sl.No.",
+      "type": "double"
+    },
+    {
+      "id": "state_ut",
+      "name": "State/UT",
+      "type": "keyword"
+    },
+    {
+      "id": "manufacturing_assembly_processing_number_in_lakhs_",
+      "name": "Manufacturing/ Assembly/Processing (Number in Lakhs)",
+      "type": "double"
+    },
+    {
+      "id": "services_number_in_lakhs_",
+      "name": "Services (Number in Lakhs)",
+      "type": "double"
+    },
+    {
+      "id": "repairing_maintenance_number_in_lakhs_",
+      "name": "Repairing & Maintenance (Number in Lakhs)",
+      "type": "double"
+    },
+    {
+      "id": "total_number_in_lakhs_",
+      "name": "Total (Number in Lakhs)",
+      "type": "double"
+    }
+  ],
+  "target_bucket": {
+    "index": "api",
+    "type": "3fb4ce90-2f08-4a80-92a5-aaeec8082cd9",
+    "field": "ebd6189d-8b6f-43e2-8bcc-96b40f029415"
+  },
+  "external_ws_url": "",
+  "external_ws": "0",
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 36,
+  "count": 36,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "__sl_no_": 1,
+      "state_ut": "Jammu and Kashmir",
+      "manufacturing_assembly_processing_number_in_lakhs_": 0.81,
+      "services_number_in_lakhs_": 0.33,
+      "repairing_maintenance_number_in_lakhs_": 0.05,
+      "total_number_in_lakhs_": 1.18
+    },
+    {
+      "__sl_no_": 2,
+      "state_ut": "Himachal Pradesh",
+      "manufacturing_assembly_processing_number_in_lakhs_": 1.02,
+      "services_number_in_lakhs_": 0.55,
+      "repairing_maintenance_number_in_lakhs_": 0.03,
+      "total_number_in_lakhs_": 1.6
+    },
+    {
+      "__sl_no_": 3,
+      "state_ut": "Punjab",
+      "manufacturing_assembly_processing_number_in_lakhs_": 3.38,
+      "services_number_in_lakhs_": 5.69,
+      "repairing_maintenance_number_in_lakhs_": 0.58,
+      "total_number_in_lakhs_": 9.66
+    },
+    {
+      "__sl_no_": 4,
+      "state_ut": "Chandigarh",
+      "manufacturing_assembly_processing_number_in_lakhs_": 0.05,
+      "services_number_in_lakhs_": 0.23,
+      "repairing_maintenance_number_in_lakhs_": 0,
+      "total_number_in_lakhs_": 0.28
+    },
+    {
+      "__sl_no_": 5,
+      "state_ut": "Uttarakhand",
+      "manufacturing_assembly_processing_number_in_lakhs_": 1.06,
+      "services_number_in_lakhs_": 0.81,
+      "repairing_maintenance_number_in_lakhs_": 0.13,
+      "total_number_in_lakhs_": 2
+    },
+    {
+      "__sl_no_": 6,
+      "state_ut": "Haryana",
+      "manufacturing_assembly_processing_number_in_lakhs_": 1.83,
+      "services_number_in_lakhs_": 2.77,
+      "repairing_maintenance_number_in_lakhs_": 0.27,
+      "total_number_in_lakhs_": 4.87
+    },
+    {
+      "__sl_no_": 7,
+      "state_ut": "Delhi",
+      "manufacturing_assembly_processing_number_in_lakhs_": 0.29,
+      "services_number_in_lakhs_": 1.45,
+      "repairing_maintenance_number_in_lakhs_": 0.01,
+      "total_number_in_lakhs_": 1.75
+    },
+    {
+      "__sl_no_": 8,
+      "state_ut": "Rajasthan",
+      "manufacturing_assembly_processing_number_in_lakhs_": 5.26,
+      "services_number_in_lakhs_": 3.61,
+      "repairing_maintenance_number_in_lakhs_": 0.27,
+      "total_number_in_lakhs_": 9.14
+    },
+    {
+      "__sl_no_": 9,
+      "state_ut": "Uttar Pradesh",
+      "manufacturing_assembly_processing_number_in_lakhs_": 14.1,
+      "services_number_in_lakhs_": 7.5,
+      "repairing_maintenance_number_in_lakhs_": 0.73,
+      "total_number_in_lakhs_": 22.34
+    },
+    {
+      "__sl_no_": 10,
+      "state_ut": "Bihar",
+      "manufacturing_assembly_processing_number_in_lakhs_": 4.45,
+      "services_number_in_lakhs_": 2.83,
+      "repairing_maintenance_number_in_lakhs_": 0.2,
+      "total_number_in_lakhs_": 7.48
+    },
+    {
+      "__sl_no_": 11,
+      "state_ut": "Sikkim",
+      "manufacturing_assembly_processing_number_in_lakhs_": 0.02,
+      "services_number_in_lakhs_": 0.04,
+      "repairing_maintenance_number_in_lakhs_": 0,
+      "total_number_in_lakhs_": 0.06
+    },
+    {
+      "__sl_no_": 12,
+      "state_ut": "Arunachal Pradesh",
+      "manufacturing_assembly_processing_number_in_lakhs_": 0.16,
+      "services_number_in_lakhs_": 0.09,
+      "repairing_maintenance_number_in_lakhs_": 0.01,
+      "total_number_in_lakhs_": 0.25
+    },
+    {
+      "__sl_no_": 13,
+      "state_ut": "Nagaland",
+      "manufacturing_assembly_processing_number_in_lakhs_": 0.16,
+      "services_number_in_lakhs_": 0,
+      "repairing_maintenance_number_in_lakhs_": 0,
+      "total_number_in_lakhs_": 0.16
+    },
+    {
+      "__sl_no_": 14,
+      "state_ut": "Manipur",
+      "manufacturing_assembly_processing_number_in_lakhs_": 0.27,
+      "services_number_in_lakhs_": 0.16,
+      "repairing_maintenance_number_in_lakhs_": 0.01,
+      "total_number_in_lakhs_": 0.44
+    },
+    {
+      "__sl_no_": 15,
+      "state_ut": "Mizoram",
+      "manufacturing_assembly_processing_number_in_lakhs_": 0.07,
+      "services_number_in_lakhs_": 0.02,
+      "repairing_maintenance_number_in_lakhs_": 0,
+      "total_number_in_lakhs_": 0.1
+    },
+    {
+      "__sl_no_": 16,
+      "state_ut": "Tripura",
+      "manufacturing_assembly_processing_number_in_lakhs_": 0.11,
+      "services_number_in_lakhs_": 0.13,
+      "repairing_maintenance_number_in_lakhs_": 0.03,
+      "total_number_in_lakhs_": 0.26
+    },
+    {
+      "__sl_no_": 17,
+      "state_ut": "Meghalaya",
+      "manufacturing_assembly_processing_number_in_lakhs_": 0.33,
+      "services_number_in_lakhs_": 0.13,
+      "repairing_maintenance_number_in_lakhs_": 0.01,
+      "total_number_in_lakhs_": 0.47
+    },
+    {
+      "__sl_no_": 18,
+      "state_ut": "Assam",
+      "manufacturing_assembly_processing_number_in_lakhs_": 1.14,
+      "services_number_in_lakhs_": 0.93,
+      "repairing_maintenance_number_in_lakhs_": 0.07,
+      "total_number_in_lakhs_": 2.14
+    },
+    {
+      "__sl_no_": 19,
+      "state_ut": "West Bengal",
+      "manufacturing_assembly_processing_number_in_lakhs_": 10.37,
+      "services_number_in_lakhs_": 9.69,
+      "repairing_maintenance_number_in_lakhs_": 0.73,
+      "total_number_in_lakhs_": 20.8
+    },
+    {
+      "__sl_no_": 20,
+      "state_ut": "Jharkhand",
+      "manufacturing_assembly_processing_number_in_lakhs_": 2.53,
+      "services_number_in_lakhs_": 1.49,
+      "repairing_maintenance_number_in_lakhs_": 0.23,
+      "total_number_in_lakhs_": 4.25
+    },
+    {
+      "__sl_no_": 21,
+      "state_ut": "Orissa",
+      "manufacturing_assembly_processing_number_in_lakhs_": 6.46,
+      "services_number_in_lakhs_": 3.08,
+      "repairing_maintenance_number_in_lakhs_": 0.23,
+      "total_number_in_lakhs_": 9.77
+    },
+    {
+      "__sl_no_": 22,
+      "state_ut": "Chhattisgarh",
+      "manufacturing_assembly_processing_number_in_lakhs_": 1.55,
+      "services_number_in_lakhs_": 1.15,
+      "repairing_maintenance_number_in_lakhs_": 0.08,
+      "total_number_in_lakhs_": 2.78
+    },
+    {
+      "__sl_no_": 23,
+      "state_ut": "Madhya Pradesh",
+      "manufacturing_assembly_processing_number_in_lakhs_": 7.2,
+      "services_number_in_lakhs_": 3.8,
+      "repairing_maintenance_number_in_lakhs_": 0.5,
+      "total_number_in_lakhs_": 11.5
+    },
+    {
+      "__sl_no_": 24,
+      "state_ut": "Gujarat",
+      "manufacturing_assembly_processing_number_in_lakhs_": 4.29,
+      "services_number_in_lakhs_": 4.72,
+      "repairing_maintenance_number_in_lakhs_": 4.01,
+      "total_number_in_lakhs_": 13.03
+    },
+    {
+      "__sl_no_": 25,
+      "state_ut": "Daman & Diu",
+      "manufacturing_assembly_processing_number_in_lakhs_": 0,
+      "services_number_in_lakhs_": 0.01,
+      "repairing_maintenance_number_in_lakhs_": 0,
+      "total_number_in_lakhs_": 0.01
+    },
+    {
+      "__sl_no_": 26,
+      "state_ut": "Dadar and Nagar Haveli",
+      "manufacturing_assembly_processing_number_in_lakhs_": 0.01,
+      "services_number_in_lakhs_": 0.03,
+      "repairing_maintenance_number_in_lakhs_": 0,
+      "total_number_in_lakhs_": 0.04
+    },
+    {
+      "__sl_no_": 27,
+      "state_ut": "Maharashtra",
+      "manufacturing_assembly_processing_number_in_lakhs_": 6.08,
+      "services_number_in_lakhs_": 7.4,
+      "repairing_maintenance_number_in_lakhs_": 0.98,
+      "total_number_in_lakhs_": 14.45
+    },
+    {
+      "__sl_no_": 28,
+      "state_ut": "Andhra Pradesh",
+      "manufacturing_assembly_processing_number_in_lakhs_": 7.24,
+      "services_number_in_lakhs_": 5.92,
+      "repairing_maintenance_number_in_lakhs_": 1.74,
+      "total_number_in_lakhs_": 14.9
+    },
+    {
+      "__sl_no_": 29,
+      "state_ut": "Karnataka",
+      "manufacturing_assembly_processing_number_in_lakhs_": 7.55,
+      "services_number_in_lakhs_": 3.31,
+      "repairing_maintenance_number_in_lakhs_": 0.26,
+      "total_number_in_lakhs_": 11.12
+    },
+    {
+      "__sl_no_": 30,
+      "state_ut": "Goa",
+      "manufacturing_assembly_processing_number_in_lakhs_": 0.32,
+      "services_number_in_lakhs_": 0.24,
+      "repairing_maintenance_number_in_lakhs_": 0,
+      "total_number_in_lakhs_": 0.56
+    },
+    {
+      "__sl_no_": 31,
+      "state_ut": "Lakshadweep",
+      "manufacturing_assembly_processing_number_in_lakhs_": 0.01,
+      "services_number_in_lakhs_": 0.01,
+      "repairing_maintenance_number_in_lakhs_": 0,
+      "total_number_in_lakhs_": 0.01
+    },
+    {
+      "__sl_no_": 32,
+      "state_ut": "Kerala",
+      "manufacturing_assembly_processing_number_in_lakhs_": 6.11,
+      "services_number_in_lakhs_": 6.44,
+      "repairing_maintenance_number_in_lakhs_": 0.39,
+      "total_number_in_lakhs_": 12.94
+    },
+    {
+      "__sl_no_": 33,
+      "state_ut": "Tamil Nadu",
+      "manufacturing_assembly_processing_number_in_lakhs_": 10.2,
+      "services_number_in_lakhs_": 7.24,
+      "repairing_maintenance_number_in_lakhs_": 0.77,
+      "total_number_in_lakhs_": 18.21
+    },
+    {
+      "__sl_no_": 34,
+      "state_ut": "Puducherry",
+      "manufacturing_assembly_processing_number_in_lakhs_": 0.03,
+      "services_number_in_lakhs_": 0.09,
+      "repairing_maintenance_number_in_lakhs_": 0.01,
+      "total_number_in_lakhs_": 0.13
+    },
+    {
+      "__sl_no_": 35,
+      "state_ut": "Andaman and Nicobar Islands",
+      "manufacturing_assembly_processing_number_in_lakhs_": 0.02,
+      "services_number_in_lakhs_": 0.04,
+      "repairing_maintenance_number_in_lakhs_": 0.01,
+      "total_number_in_lakhs_": 0.07
+    },
+    {
+      "__sl_no_": "NA",
+      "state_ut": "All India",
+      "manufacturing_assembly_processing_number_in_lakhs_": 104.5,
+      "services_number_in_lakhs_": 81.93,
+      "repairing_maintenance_number_in_lakhs_": 12.31,
+      "total_number_in_lakhs_": 198.74
+    }
+  ]
+}

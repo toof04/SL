@@ -1,0 +1,94 @@
+{
+  "index_name": "64a7aa4e-1d10-49f5-8765-2db33db61c06",
+  "title": "Funds Allocated and Released under Rural Development Schemes during 2018-19 (From: Ministry of Rural Development)",
+  "desc": "Funds Allocated and Released under Rural Development Schemes during 2018-19 (From: Ministry of Rural Development)",
+  "org_type": "Central",
+  "org": [
+    "Rajya Sabha"
+  ],
+  "sector": [
+    "All"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "d3d3d8bf-e170-4fdc-abc5-1fba050acf44",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1614831010,
+  "updated": 1616483485,
+  "created_date": "2021-03-04T04:10:10Z",
+  "updated_date": "2021-03-23T12:41:25Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "d3d3d8bf-e170-4fdc-abc5-1fba050acf44",
+    "field": "64a7aa4e-1d10-49f5-8765-2db33db61c06"
+  },
+  "field": [
+    {
+      "id": "__sl_no_",
+      "name": "Sl.No.",
+      "type": "double"
+    },
+    {
+      "id": "name_of_the_schemes",
+      "name": "Name of the Schemes",
+      "type": "keyword"
+    },
+    {
+      "id": "revised_estimate",
+      "name": "Revised Estimate",
+      "type": "double"
+    },
+    {
+      "id": "released__as_on_31_3_2019_",
+      "name": "Released (as on 31.3.2019)",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 6,
+  "count": 6,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "__sl_no_": 1,
+      "name_of_the_schemes": "MGNREGS",
+      "revised_estimate": 61830.09,
+      "released__as_on_31_3_2019_": 61829.55
+    },
+    {
+      "__sl_no_": 2,
+      "name_of_the_schemes": "PMAY-G",
+      "revised_estimate": 19600,
+      "released__as_on_31_3_2019_": 19307.95
+    },
+    {
+      "__sl_no_": 3,
+      "name_of_the_schemes": "PMGSY",
+      "revised_estimate": 15500,
+      "released__as_on_31_3_2019_": 15417.55
+    },
+    {
+      "__sl_no_": 4,
+      "name_of_the_schemes": "DAY-NRLM",
+      "revised_estimate": 5783.5,
+      "released__as_on_31_3_2019_": 5783.48
+    },
+    {
+      "__sl_no_": 5,
+      "name_of_the_schemes": "NSAP",
+      "revised_estimate": 8467.46,
+      "released__as_on_31_3_2019_": 8418.47
+    },
+    {
+      "__sl_no_": 6,
+      "name_of_the_schemes": "SPMRM",
+      "revised_estimate": 451.03,
+      "released__as_on_31_3_2019_": 432.61
+    }
+  ]
+}

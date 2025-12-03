@@ -1,0 +1,246 @@
+{
+  "index_name": "f174cf36-1a1a-4b87-8c22-33741791326b",
+  "title": "Crime Head-wise Crime against Foreigners during 2021",
+  "desc": "Crime Head-wise Crime against Foreigners during 2021",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Home Affairs",
+    "Department of States",
+    "National Crime Records Bureau (NCRB)"
+  ],
+  "sector": [
+    "Police"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "83a258f3-6fd1-4a9a-911b-5207a0cfa136",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1679242486,
+  "updated": 1679287099,
+  "created_date": "2023-03-19T17:14:46Z",
+  "updated_date": "2023-03-20T10:08:19Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "83a258f3-6fd1-4a9a-911b-5207a0cfa136",
+    "field": "f174cf36-1a1a-4b87-8c22-33741791326b"
+  },
+  "field": [
+    {
+      "id": "sl__no_col___1_",
+      "name": "Sl. No Col. (1)",
+      "type": "keyword"
+    },
+    {
+      "id": "category",
+      "name": "Category",
+      "type": "keyword"
+    },
+    {
+      "id": "crime_head___col___2_",
+      "name": "Crime Head - Col. (2)",
+      "type": "keyword"
+    },
+    {
+      "id": "cases_of_crimes_committed_against___foreign_tourists___col___3_",
+      "name": "Cases of Crimes committed against - Foreign Tourists - Col. (3)",
+      "type": "double"
+    },
+    {
+      "id": "cases_of_crimes_committed_against___other_foreigners___col___4_",
+      "name": "Cases of Crimes committed against - Other Foreigners - Col. (4)",
+      "type": "double"
+    },
+    {
+      "id": "cases_of_crimes_committed_against___total_foreigners__col_3_col_4____col___5_",
+      "name": "Cases of Crimes committed against - Total Foreigners (Col.3+Col.4) - Col. (5)",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 22,
+  "count": 22,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "sl__no_col___1_": "1",
+      "category": "IPC",
+      "crime_head___col___2_": "Murder",
+      "cases_of_crimes_committed_against___foreign_tourists___col___3_": 5,
+      "cases_of_crimes_committed_against___other_foreigners___col___4_": 4,
+      "cases_of_crimes_committed_against___total_foreigners__col_3_col_4____col___5_": 9
+    },
+    {
+      "sl__no_col___1_": "2",
+      "category": "IPC",
+      "crime_head___col___2_": "Culpable Homicide not amounting to Murder",
+      "cases_of_crimes_committed_against___foreign_tourists___col___3_": "0",
+      "cases_of_crimes_committed_against___other_foreigners___col___4_": "0",
+      "cases_of_crimes_committed_against___total_foreigners__col_3_col_4____col___5_": "0"
+    },
+    {
+      "sl__no_col___1_": "3",
+      "category": "IPC",
+      "crime_head___col___2_": "Attempt to Commit Murder/Culpable Homicide",
+      "cases_of_crimes_committed_against___foreign_tourists___col___3_": 2,
+      "cases_of_crimes_committed_against___other_foreigners___col___4_": 1,
+      "cases_of_crimes_committed_against___total_foreigners__col_3_col_4____col___5_": 3
+    },
+    {
+      "sl__no_col___1_": "4",
+      "category": "IPC",
+      "crime_head___col___2_": "Simple Hurt",
+      "cases_of_crimes_committed_against___foreign_tourists___col___3_": 5,
+      "cases_of_crimes_committed_against___other_foreigners___col___4_": 3,
+      "cases_of_crimes_committed_against___total_foreigners__col_3_col_4____col___5_": 8
+    },
+    {
+      "sl__no_col___1_": "5",
+      "category": "IPC",
+      "crime_head___col___2_": "Grievous Hurt",
+      "cases_of_crimes_committed_against___foreign_tourists___col___3_": "0",
+      "cases_of_crimes_committed_against___other_foreigners___col___4_": 1,
+      "cases_of_crimes_committed_against___total_foreigners__col_3_col_4____col___5_": 1
+    },
+    {
+      "sl__no_col___1_": "6",
+      "category": "IPC",
+      "crime_head___col___2_": "Assault on Women with Intent to Outrage her Modesty",
+      "cases_of_crimes_committed_against___foreign_tourists___col___3_": 7,
+      "cases_of_crimes_committed_against___other_foreigners___col___4_": 8,
+      "cases_of_crimes_committed_against___total_foreigners__col_3_col_4____col___5_": 15
+    },
+    {
+      "sl__no_col___1_": "7",
+      "category": "IPC",
+      "crime_head___col___2_": "Kidnapping and Abduction",
+      "cases_of_crimes_committed_against___foreign_tourists___col___3_": "0",
+      "cases_of_crimes_committed_against___other_foreigners___col___4_": 3,
+      "cases_of_crimes_committed_against___total_foreigners__col_3_col_4____col___5_": 3
+    },
+    {
+      "sl__no_col___1_": "8",
+      "category": "IPC",
+      "crime_head___col___2_": "Human Trafficking",
+      "cases_of_crimes_committed_against___foreign_tourists___col___3_": 2,
+      "cases_of_crimes_committed_against___other_foreigners___col___4_": 6,
+      "cases_of_crimes_committed_against___total_foreigners__col_3_col_4____col___5_": 8
+    },
+    {
+      "sl__no_col___1_": "9",
+      "category": "IPC",
+      "crime_head___col___2_": "Rape",
+      "cases_of_crimes_committed_against___foreign_tourists___col___3_": 5,
+      "cases_of_crimes_committed_against___other_foreigners___col___4_": 9,
+      "cases_of_crimes_committed_against___total_foreigners__col_3_col_4____col___5_": 14
+    },
+    {
+      "sl__no_col___1_": "10",
+      "category": "IPC",
+      "crime_head___col___2_": "Theft",
+      "cases_of_crimes_committed_against___foreign_tourists___col___3_": 19,
+      "cases_of_crimes_committed_against___other_foreigners___col___4_": 4,
+      "cases_of_crimes_committed_against___total_foreigners__col_3_col_4____col___5_": 23
+    },
+    {
+      "sl__no_col___1_": "11",
+      "category": "IPC",
+      "crime_head___col___2_": "Extortion",
+      "cases_of_crimes_committed_against___foreign_tourists___col___3_": "0",
+      "cases_of_crimes_committed_against___other_foreigners___col___4_": "0",
+      "cases_of_crimes_committed_against___total_foreigners__col_3_col_4____col___5_": "0"
+    },
+    {
+      "sl__no_col___1_": "12",
+      "category": "IPC",
+      "crime_head___col___2_": "Robbery",
+      "cases_of_crimes_committed_against___foreign_tourists___col___3_": 5,
+      "cases_of_crimes_committed_against___other_foreigners___col___4_": 2,
+      "cases_of_crimes_committed_against___total_foreigners__col_3_col_4____col___5_": 7
+    },
+    {
+      "sl__no_col___1_": "13",
+      "category": "IPC",
+      "crime_head___col___2_": "Dacoity",
+      "cases_of_crimes_committed_against___foreign_tourists___col___3_": 1,
+      "cases_of_crimes_committed_against___other_foreigners___col___4_": 1,
+      "cases_of_crimes_committed_against___total_foreigners__col_3_col_4____col___5_": 2
+    },
+    {
+      "sl__no_col___1_": "14",
+      "category": "IPC",
+      "crime_head___col___2_": "Cheating",
+      "cases_of_crimes_committed_against___foreign_tourists___col___3_": 3,
+      "cases_of_crimes_committed_against___other_foreigners___col___4_": 11,
+      "cases_of_crimes_committed_against___total_foreigners__col_3_col_4____col___5_": 14
+    },
+    {
+      "sl__no_col___1_": "15",
+      "category": "IPC",
+      "crime_head___col___2_": "Forgery",
+      "cases_of_crimes_committed_against___foreign_tourists___col___3_": "0",
+      "cases_of_crimes_committed_against___other_foreigners___col___4_": "0",
+      "cases_of_crimes_committed_against___total_foreigners__col_3_col_4____col___5_": "0"
+    },
+    {
+      "sl__no_col___1_": "16",
+      "category": "IPC",
+      "crime_head___col___2_": "Insult to the Modesty of Women",
+      "cases_of_crimes_committed_against___foreign_tourists___col___3_": "0",
+      "cases_of_crimes_committed_against___other_foreigners___col___4_": "0",
+      "cases_of_crimes_committed_against___total_foreigners__col_3_col_4____col___5_": "0"
+    },
+    {
+      "sl__no_col___1_": "17",
+      "category": "IPC",
+      "crime_head___col___2_": "Other IPC Crimes",
+      "cases_of_crimes_committed_against___foreign_tourists___col___3_": 9,
+      "cases_of_crimes_committed_against___other_foreigners___col___4_": 5,
+      "cases_of_crimes_committed_against___total_foreigners__col_3_col_4____col___5_": 14
+    },
+    {
+      "sl__no_col___1_": "Total IPC",
+      "category": "Total IPC",
+      "crime_head___col___2_": "Total IPC",
+      "cases_of_crimes_committed_against___foreign_tourists___col___3_": 63,
+      "cases_of_crimes_committed_against___other_foreigners___col___4_": 58,
+      "cases_of_crimes_committed_against___total_foreigners__col_3_col_4____col___5_": 121
+    },
+    {
+      "sl__no_col___1_": "18",
+      "category": "SLL",
+      "crime_head___col___2_": "Immoral Traffic (Prevention) Act",
+      "cases_of_crimes_committed_against___foreign_tourists___col___3_": 3,
+      "cases_of_crimes_committed_against___other_foreigners___col___4_": 10,
+      "cases_of_crimes_committed_against___total_foreigners__col_3_col_4____col___5_": 13
+    },
+    {
+      "sl__no_col___1_": "19",
+      "category": "SLL",
+      "crime_head___col___2_": "Other SLL Crimes",
+      "cases_of_crimes_committed_against___foreign_tourists___col___3_": 5,
+      "cases_of_crimes_committed_against___other_foreigners___col___4_": 11,
+      "cases_of_crimes_committed_against___total_foreigners__col_3_col_4____col___5_": 16
+    },
+    {
+      "sl__no_col___1_": "Total SLL",
+      "category": "Total SLL",
+      "crime_head___col___2_": "Total SLL",
+      "cases_of_crimes_committed_against___foreign_tourists___col___3_": 8,
+      "cases_of_crimes_committed_against___other_foreigners___col___4_": 21,
+      "cases_of_crimes_committed_against___total_foreigners__col_3_col_4____col___5_": 29
+    },
+    {
+      "sl__no_col___1_": "Total Crimes against Foreigners",
+      "category": "Total Crimes against Foreigners",
+      "crime_head___col___2_": "Total Crimes against Foreigners",
+      "cases_of_crimes_committed_against___foreign_tourists___col___3_": 71,
+      "cases_of_crimes_committed_against___other_foreigners___col___4_": 79,
+      "cases_of_crimes_committed_against___total_foreigners__col_3_col_4____col___5_": 150
+    }
+  ]
+}

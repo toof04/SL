@@ -1,0 +1,40 @@
+"Sl. No.",State/UT,"Educational Standard - Illiterate","Educational Standard - Below Class X","Educational Standard - Class X & above but below Graduation","Educational Standard - Graduate","Educational Standard - Holding Tech. Degree/ Diploma","Educational Standard - Post Graduate","Educational Standard - Total"
+1,"Andhra Pradesh",616,1136,322,185,53,48,2360
+2,"Arunachal Pradesh",36,63,25,2,0,0,126
+3,Assam,733,1397,571,70,3,5,2779
+4,Bihar,2171,2629,2127,677,37,100,7741
+5,Chhattisgarh,1600,3490,795,174,12,31,6102
+6,Goa,34,22,38,7,2,2,105
+7,Gujarat,819,2283,580,94,9,68,3853
+8,Haryana,707,1211,1012,324,27,57,3338
+9,"Himachal Pradesh",107,401,294,32,0,19,853
+10,Jharkhand,1158,2330,1238,233,83,42,5084
+11,Karnataka,1039,1080,1164,220,134,51,3688
+12,Kerala,169,1461,584,113,74,25,2426
+13,"Madhya Pradesh",3680,5728,2831,982,165,266,13652
+14,Maharashtra,876,2658,1396,397,134,89,5550
+15,Manipur,15,24,42,21,3,0,105
+16,Meghalaya,74,86,15,2,1,0,178
+17,Mizoram,15,308,93,15,5,1,437
+18,Nagaland,11,59,22,3,0,0,95
+19,Odisha,1007,1697,360,148,19,14,3245
+20,Punjab,823,999,738,165,19,35,2779
+21,Rajasthan,1312,1871,1228,451,110,159,5131
+22,Sikkim,33,74,14,3,0,0,124
+23,"Tamil Nadu",1334,1677,598,276,182,94,4161
+24,Telangana,421,817,441,168,23,40,1910
+25,Tripura,31,297,44,21,0,2,395
+26,"Uttar Pradesh",8394,9718,5961,1866,177,618,26734
+27,Uttarakhand,529,751,483,194,25,81,2063
+28,"West Bengal",1982,2170,983,193,10,29,5367
+"Total (States)","Total (States)",29726,46437,23999,7036,1307,1876,110381
+29,"A & N Islands",23,98,13,2,0,1,137
+30,Chandigarh,73,123,110,28,5,10,349
+31,"Dadra and Nagar Haveli and Daman and Diu",12,2,1,0,0,0,15
+32,Delhi,297,569,419,141,19,25,1470
+33,"Jammu & Kashmir",57,53,32,12,0,5,159
+34,Ladakh,2,3,0,0,0,0,5
+35,Lakshadweep,0,1,0,0,0,0,1
+36,Puducherry,6,32,22,6,5,1,72
+"Total (UTs)","Total (UTs)",470,881,597,189,29,42,2208
+"Total (All-India)","Total (All-India)",30196,47318,24596,7225,1336,1918,112589

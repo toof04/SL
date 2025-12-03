@@ -1,0 +1,77 @@
+"Sr No",Ward,"Vidhan_Sabha ",Lat,Long,Contact_Name,Contact_No," Area_Address"
+1,1,Bhosari,18.682182,73.818771,"Sambhaji Yadhav",9822123737,Chikhali
+2,1,Bhosari,18.682182,73.818771,"Prasad Landge",9273353535,Chikhali
+3,1,Bhosari,18.672274,73.815575,"Dattatray Yadav",9850552323,"Chikali Rd, Balghare Vasti, Chikhali, Pimpri-Chinchwad, Maharashtra 412114"
+4,3,Bhosari,18.679093,73.848994,"Nitin Mahajan",8668985995,Moshi
+5,3,Bhosari,18.678524,73.849522,"Aniket Saste",8234017777,"Moshi Gaon, Moshi, Pune, Maharashtra 412105"
+6,12,Bhosari,18.671547,73.784055,"Pratik Keladkar",9767701418,Rupinagar
+7,12,Bhosari,18.671547,73.784055,"Pratik Malusare",9172115863,Rupinagar
+8,7,Bhosari,18.631682,73.846542,"Ganesh Gawali",9623511414,Bhosari
+9,7,Bhosari,18.631682,73.846542,"Nilesh chaskar",9657564564,Bhosari
+10,7,Bhosari,18.631682,73.846542,"santosh kabadi",7020821372,Bhosari
+11,12,Bhosari,18.686862,73.789136,"Kunal Patil",8888125812,Talawde
+12,12,Bhosari,18.686862,73.789136,"Prasad Bhalekar",9527292941,Talawde
+13,12,Bhosari,18.686862,73.789136,"Nikhil Bhalekar",7776021819,Talawde
+14,2,Bhosari,18.669688,73.807331,"Digambar More",7888112048,"Om Sai Society, Gharkul, Chikhali"
+15,2,Bhosari,18.667243,73.805567,"Pannalal Jadhav",7385140123,"Gharkul chikhali"
+16,2,Bhosari,18.669927,73.806805,"Mahendra Bhau Borkar",9762530614,"B-16, Trimutri Society, Gharkul"
+17,3,Bhosari,18.653389,73.907771,"Rushikesh Hiwarkhede",9762708286,Charholi
+18,3,Bhosari,18.653389,73.907771,"Pramod Jagdale",9552662900,Charholi
+19,15,Bhosari,18.658681,73.778257,"Prashant More",9922971249,"Akurdi (Pradhikaran)"
+20,15,Bhosari,18.658681,73.778257,"Shri Seetapati",8830038544,"Akurdi (Pradhikaran)"
+21,15,Bhosari,18.658681,73.778257,"Pravin Kolhe",9822662924,"Akurdi (Pradhikaran)"
+22,15,Bhosari,18.645053,73.777038,Deepesh,7896646921,"Swatantryaveer Savarkar Rd, Sector No. 28, Pradhikaran, Nigdi, Pimpri-Chinchwad, Maharashtra 411035"
+23,15,Bhosari,18.648903,73.764851,Deepesh,7896646921,"Ganga Nagar Rd, Pradhikaran, Nigdi, Pimpri-Chinchwad, Maharashtra 411044"
+24,4,Bhosari,18.614436,73.873521,"Vicky Ghule",9168586161,Dighi
+25,4,Bhosari,18.614436,73.873521,"Nilesh Fulwar",7040202436,Dighi
+26,8,Bhosari,18.637952,73.844882,"Krushna Waghmare",8796964007,"Indrayani Nagar"
+27,8,Bhosari,18.642308,73.853623,"Nitesh More",9552493272,"Bhosari, Pimpri-Chinchwad, Maharashtra 412105"
+28,30,Chinchwad,18.579262,73.830511,Deepesh,7896646921,"159, Old Sangvi Bopodi Rd, Mahatma Phule Nagar, Dapodi, Pune, Maharashtra 411012"
+29,30,Chinchwad,18.584377,73.828452,"Omkar Kate",9860021243,"Ganesh Nagar, Dapodi, Pimpri-Chinchwad, Maharashtra 411012"
+30,30,Chinchwad,18.586878,73.832767,Deepesh,8796646921,"Mumbai-Pune Hw, Phugewadi, Dapodi, Pimpri-Chinchwad, Maharashtra 411012"
+31,18,Chinchwad,18.624395,73.780487,"Dhananjay Gawade",9960909009,"Deo Wada, Chinchwad Gaon, Chinchwad, Pimpri-Chinchwad, Maharashtra 411033"
+32,18,Chinchwad,18.624395,73.780487,"Amar Gawade",9767670555,"Deo Wada, Chinchwad Gaon, Chinchwad, Pimpri-Chinchwad, Maharashtra 411034"
+33,16,Chinchwad,18.632427,73.761172,"Nikhil Bhalke",9767915544,Walhekarwadi
+34,16,Chinchwad,18.632427,73.761172,"Soma Walhekar",9850295720,Walhekarwadi
+35,16,Chinchwad,18.632427,73.761172,"Bhanudas Argade",9545395253,Walhekarwadi
+36,16,Chinchwad,18.632427,73.761172,"Sagar Ghorpade",9623870465,Walhekarwadi
+37,27,Chinchwad,18.608807,73.788645,"Nitesh More",9552493272,"Vardavn Colony, Nakhate Vasti, Baderaj Colony, Rahatani, Pimpri-Chinchwad, Maharashtra 411017"
+38,27,Chinchwad,18.608597,73.786343,"Nitesh More",9552493272,"Vardhaman Heights Rahatani, Suyog Colony Rd, Near Hotel Kunal Garden, Gurukul Colony, Yashvant Nagar, Kalewadi, Pimpri-Chinchwad, Maharashtra 411017"
+39,27,Chinchwad,18.605536,73.781114,"Nitesh More",9552493272,"Kalewadi Phata, Sant Tukdoji Maharaj Nagar, Swami Samarth Colony, Rahatani, Pimpri-Chinchwad, Maharashtra 411017"
+40,27,Chinchwad,18.604254,73.780613,"Nitesh More",9552493272,"Kalewadi Phata, Gajanan Nagar, Sulabh Colony, Rahatani, Pimpri-Chinchwad, Maharashtra 411017"
+41,27,Chinchwad,18.642258,73.798465,"Dhananjay Gawade","99609 09009","Anna Sahib Nagar, Chinchwad, Pimpri-Chinchwad, Maharashtra 411019"
+42,27,Chinchwad,18.648714,73.799153,"Dhananjay Gawade","99609 09009","Vidyanagar, Chinchwad, Pimpri-Chinchwad, Maharashtra"
+43,27,Chinchwad,18.661671,73.793031,"Dhananjay Gawade","99609 09009","Shantiniketan society flat no. 2 RH 37, Ajantha Nagar, Chinchwad, Pimpri-Chinchwad, Maharashtra 411019"
+44,27,Chinchwad,18.604576,73.787179,"Vinay Nikam",9765626666,Rahatani
+45,23,Chinchwad,18.614113,73.775076,"Yuvraj Patil",9577655741,Thergaon
+46,23,Chinchwad,18.614113,73.775076,"Akash Kulange",9763576577,Thergaon
+47,23,Chinchwad,18.614113,73.775076,"Omkar Lilhore",9422000276,Thergaon
+48,24,Chinchwad,18.623433,73.77423,Deepesh,7896646921,"Datta Nagar, Thergaon, Pimpri-Chinchwad, Maharashtra 411033"
+49,25,Chinchwad,18.600212,73.764162,"Karan Bhujbal",9890711005,Wakad
+50,25,Chinchwad,18.600212,73.764162,"Omkar Mankar",7875098970,Wakad
+51,22,Chinchwad,18.617163,73.790553,"Mangesh Nadhe",8379007676,Kalewadi
+52,22,Chinchwad,18.617163,73.790553,"Mayuresh Bhosale",7030703526,Kalewadi
+53,22,Chinchwad,18.617163,73.790553,"Suraj Gapat",7030123453,Kalewadi
+54,22,Chinchwad,18.617163,73.790553,"Samarth Raut",9028562726,Kalewadi
+55,28,Chinchwad,18.587852,73.785224,"Mayur Kate",9922216664,"Pimple Saudagar (Vishal Nagar)"
+56,28,Chinchwad,18.601494,73.799376,"Mukund Chavan",9881735552,"Near Mataji Varieties, Shiv Sai Ln, Pimple Saudagar Gaon, Pimple Saudagar, Pimpri-Chinchwad, Maharashtra 411027"
+57,28,Chinchwad,18.587852,73.785224,"Pradip Bhalekar",9028665427,"Pimple Saudagar ( vishal Nagar)"
+58,32,Chinchwad,18.572672,73.818013,"Parag Dhore",8805150303,Sangvi
+59,32,Chinchwad,18.589462,73.820035,"Yuvraj kadam",9822865232,"Pimple Gurav Rd, Opp. Bank Of Maharastra, Guru Datta Nagar, Gokul Nagari, Sangvi, Pimpri-Chinchwad, Maharashtra 411027"
+60,32,Chinchwad,18.598862,73.81411,"Akash Khanekar",9604871718,"Lane Number 6, Sudarshan Nagar, Pimple Gurav, Pimpri-Chinchwad, Maharashtra 411027"
+61,19,Pimpri,18.60983,73.800784,"Shubham Waghere",9823962737,"Pimpri Gaon, Pimpri Colony, Pimpri-Chinchwad, Maharashtra 411017"
+62,19,Pimpri,18.622146,73.802247,"Gaurav Patil",8806652946,Pimpri
+63,19,Pimpri,18.635375,73.802916,"Aditya Shinde",9822774977,"Morewadi, Pimpri Colony, Pimpri-Chinchwad, Maharashtra 411018"
+64,19,Pimpri,18.622146,73.802247,"Aakash Nanekar",9890777797,Pimpri
+65,19,Pimpri,18.622146,73.802247,"Pappu Kalje",9850646864,Pimpri
+66,19,Pimpri,18.624876,73.797815,"Priyanka Mhaske",NA,"River Rd, Ambedkar Colony, Pimpri Colony, Pimpri-Chinchwad, Maharashtra 411017"
+67,19,Pimpri,18.629191,73.808146,Deepesh,7896646921,"Nehru Nagar Bhosari Rd, Gandhi Nagar, Kharalwadi, Pimpri Colony, Pimpri-Chinchwad, Maharashtra 411018"
+68,20,Pimpri,18.598726,73.82345,"Vishal Pawar",8484929398,"Nirmala Heights Appartment, Keshavnagar, Bhagubai Jawalkar Lane 3, Keshav Nagar, Shastri Nagar, Kasarwadi, Pimpri-Chinchwad, Maharashtra 411034"
+69,20,Pimpri,18.600506,73.823856,"Kiran More",9689111102,"Pimple Gurav Rd
+Keshav Nagar, Shastri Nagar, Kasarwadi
+Pimpri-Chinchwad, Maharashtra 411034"
+70,5,Pimpri,18.622158,73.82001,"Omkar Kumbhar",8605546171,"Sant Tukaram Nagar"
+71,5,Pimpri,18.622158,73.82001,"Ashish Nagargoje",7020665427,"Sant Tukaram Nagar"
+72,5,Pimpri,18.617855,73.817493,"Aniket Saste",8234017777,"03/11/0791, Yashwantro Chavan Rd, Sabayog Cooperative Housing Society, Vallabh Nagar, Pimpri Colony, Pimpri-Chinchwad, Maharashtra 411018"
+73,9,Pimpri,18.633729,73.812045,"Akshay Inamdar",9657813322,"Ajmera Colony"
+74,9,Pimpri,18.633729,73.812045,"Satyawan Sangale",9011018135,"Ajmera Colony"

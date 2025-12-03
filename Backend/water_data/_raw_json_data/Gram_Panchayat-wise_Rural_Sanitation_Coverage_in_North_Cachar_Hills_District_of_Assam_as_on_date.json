@@ -1,0 +1,381 @@
+{
+  "index_name": "5061732f-f5f1-4262-b4e7-3814aa774fb9",
+  "title": "Gram Panchayat-wise Rural Sanitation Coverage in North Cachar Hills District of Assam as on date",
+  "desc": "Gram Panchayat-wise Rural Sanitation Coverage in North Cachar Hills District of Assam as on date",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Jal Shakti",
+    "Department of Drinking Water and Sanitation"
+  ],
+  "sector": [
+    "Water and Sanitation"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1688360233,
+  "updated": 1688364898,
+  "created_date": "2023-07-03T06:57:13Z",
+  "updated_date": "2023-07-03T11:44:58Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "sbm",
+    "type": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+    "field": "5061732f-f5f1-4262-b4e7-3814aa774fb9"
+  },
+  "field": [
+    {
+      "id": "statename",
+      "name": "StateName",
+      "type": "keyword"
+    },
+    {
+      "id": "districtname",
+      "name": "DistrictName",
+      "type": "keyword"
+    },
+    {
+      "id": "blockname",
+      "name": "blockName",
+      "type": "keyword"
+    },
+    {
+      "id": "grampanchayatname",
+      "name": "GramPanchayatName",
+      "type": "keyword"
+    },
+    {
+      "id": "ihhltotalasperdetails",
+      "name": "IHHLTotalAsPerDetails",
+      "type": "double"
+    },
+    {
+      "id": "ihhltotalach",
+      "name": "IHHLTotalAch",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 39,
+  "count": 39,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "statename": "Assam",
+      "districtname": "NORTH CACHAR HILLS",
+      "blockname": "NEW   SANGBAR",
+      "grampanchayatname": "KHARTHONG MAC AREA",
+      "ihhltotalasperdetails": 1013,
+      "ihhltotalach": 357
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NORTH CACHAR HILLS",
+      "blockname": "DIYANG VALLEY",
+      "grampanchayatname": "WAJAO MAC AREA",
+      "ihhltotalasperdetails": 1063,
+      "ihhltotalach": 798
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NORTH CACHAR HILLS",
+      "blockname": "HARANGAJAO",
+      "grampanchayatname": "DIHAMLAI MAC AREA (PART)",
+      "ihhltotalasperdetails": 719,
+      "ihhltotalach": 714
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NORTH CACHAR HILLS",
+      "blockname": "HARANGAJAO",
+      "grampanchayatname": "DOLONG MAC AREA (PART)",
+      "ihhltotalasperdetails": 350,
+      "ihhltotalach": 318
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NORTH CACHAR HILLS",
+      "blockname": "HARANGAJAO",
+      "grampanchayatname": "HADINGMA MAC AREA (PART)",
+      "ihhltotalasperdetails": 151,
+      "ihhltotalach": 88
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NORTH CACHAR HILLS",
+      "blockname": "HARANGAJAO",
+      "grampanchayatname": "HAFLONG MAC AREA",
+      "ihhltotalasperdetails": 214,
+      "ihhltotalach": 213
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NORTH CACHAR HILLS",
+      "blockname": "HARANGAJAO",
+      "grampanchayatname": "HARANGAJAO MAC AREA (PART)",
+      "ihhltotalasperdetails": 1886,
+      "ihhltotalach": 810
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NORTH CACHAR HILLS",
+      "blockname": "HARANGAJAO",
+      "grampanchayatname": "JATINGA MAC AREA (PART)",
+      "ihhltotalasperdetails": 738,
+      "ihhltotalach": 396
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NORTH CACHAR HILLS",
+      "blockname": "HARANGAJAO",
+      "grampanchayatname": "LOWER KHARTHONG MAC AREA",
+      "ihhltotalasperdetails": 783,
+      "ihhltotalach": 200
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NORTH CACHAR HILLS",
+      "blockname": "JATINGA VALLEY",
+      "grampanchayatname": "MAHUR MAC AREA",
+      "ihhltotalasperdetails": 857,
+      "ihhltotalach": 669
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NORTH CACHAR HILLS",
+      "blockname": "JATINGA VALLEY",
+      "grampanchayatname": "LAISONG MAC AREA",
+      "ihhltotalasperdetails": 1038,
+      "ihhltotalach": 1024
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NORTH CACHAR HILLS",
+      "blockname": "JATINGA VALLEY",
+      "grampanchayatname": "JINAM VALLEY MAC AREA",
+      "ihhltotalasperdetails": 782,
+      "ihhltotalach": 340
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NORTH CACHAR HILLS",
+      "blockname": "JATINGA VALLEY",
+      "grampanchayatname": "JATINGA MAC AREA (PART)",
+      "ihhltotalasperdetails": 146,
+      "ihhltotalach": 84
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NORTH CACHAR HILLS",
+      "blockname": "JATINGA VALLEY",
+      "grampanchayatname": "HANGRUM MAC AREA",
+      "ihhltotalasperdetails": 458,
+      "ihhltotalach": 389
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NORTH CACHAR HILLS",
+      "blockname": "JATINGA VALLEY",
+      "grampanchayatname": "HADINGMA MAC AREA (PART)",
+      "ihhltotalasperdetails": 450,
+      "ihhltotalach": 228
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NORTH CACHAR HILLS",
+      "blockname": "JATINGA VALLEY",
+      "grampanchayatname": "DAOTUHAJA MAC AREA (PART)",
+      "ihhltotalasperdetails": 485,
+      "ihhltotalach": 344
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NORTH CACHAR HILLS",
+      "blockname": "JATINGA VALLEY",
+      "grampanchayatname": "BORAIL MAC AREA",
+      "ihhltotalasperdetails": 1013,
+      "ihhltotalach": 652
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NORTH CACHAR HILLS",
+      "blockname": "NEW   SANGBAR",
+      "grampanchayatname": "DEHANGI MAC AREA (PART)",
+      "ihhltotalasperdetails": 729,
+      "ihhltotalach": 369
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NORTH CACHAR HILLS",
+      "blockname": "NEW   SANGBAR",
+      "grampanchayatname": "DIHAMLAI MAC AREA (PART)",
+      "ihhltotalasperdetails": 134,
+      "ihhltotalach": 134
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NORTH CACHAR HILLS",
+      "blockname": "NEW   SANGBAR",
+      "grampanchayatname": "DOLONG MAC AREA (PART)",
+      "ihhltotalasperdetails": 100,
+      "ihhltotalach": 68
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NORTH CACHAR HILLS",
+      "blockname": "NEW   SANGBAR",
+      "grampanchayatname": "GARAMPANI MAC AREA (PART)",
+      "ihhltotalasperdetails": 2271,
+      "ihhltotalach": 778
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NORTH CACHAR HILLS",
+      "blockname": "DIYUNGBRA",
+      "grampanchayatname": "DEHANGI MAC AREA (PART)",
+      "ihhltotalasperdetails": 101,
+      "ihhltotalach": 48
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NORTH CACHAR HILLS",
+      "blockname": "DIYUNGBRA",
+      "grampanchayatname": "DIYUNGMUKH MAC AREA",
+      "ihhltotalasperdetails": 1723,
+      "ihhltotalach": 739
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NORTH CACHAR HILLS",
+      "blockname": "DIYUNGBRA",
+      "grampanchayatname": "GARAMPANI MAC AREA (PART)",
+      "ihhltotalasperdetails": 571,
+      "ihhltotalach": 216
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NORTH CACHAR HILLS",
+      "blockname": "DIYUNGBRA",
+      "grampanchayatname": "HAMRI MAC AREA",
+      "ihhltotalasperdetails": 496,
+      "ihhltotalach": 176
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NORTH CACHAR HILLS",
+      "blockname": "DIYUNGBRA",
+      "grampanchayatname": "HATIKHALI MAC AREA (PART)",
+      "ihhltotalasperdetails": 93,
+      "ihhltotalach": "0"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NORTH CACHAR HILLS",
+      "blockname": "DIYUNGBRA",
+      "grampanchayatname": "KALACHAND MAC AREA (PART)",
+      "ihhltotalasperdetails": "0",
+      "ihhltotalach": "0"
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NORTH CACHAR HILLS",
+      "blockname": "DIYANG VALLEY",
+      "grampanchayatname": "DAOTUHAJA MAC AREA (PART)",
+      "ihhltotalasperdetails": 427,
+      "ihhltotalach": 285
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NORTH CACHAR HILLS",
+      "blockname": "DIYANG VALLEY",
+      "grampanchayatname": "DEHANGI MAC AREA (PART)",
+      "ihhltotalasperdetails": 166,
+      "ihhltotalach": 18
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NORTH CACHAR HILLS",
+      "blockname": "DIYANG VALLEY",
+      "grampanchayatname": "DIGER MAC AREA (PART)",
+      "ihhltotalasperdetails": 520,
+      "ihhltotalach": 141
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NORTH CACHAR HILLS",
+      "blockname": "DIYANG VALLEY",
+      "grampanchayatname": "GUNJUNG MAC AREA",
+      "ihhltotalasperdetails": 814,
+      "ihhltotalach": 649
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NORTH CACHAR HILLS",
+      "blockname": "DIYANG VALLEY",
+      "grampanchayatname": "HADINGMA MAC AREA (PART)",
+      "ihhltotalasperdetails": 16,
+      "ihhltotalach": 16
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NORTH CACHAR HILLS",
+      "blockname": "DIYANG VALLEY",
+      "grampanchayatname": "HAJADISA MAC AREA",
+      "ihhltotalasperdetails": 808,
+      "ihhltotalach": 598
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NORTH CACHAR HILLS",
+      "blockname": "DIYANG VALLEY",
+      "grampanchayatname": "HATIKHALI MAC AREA (PART)",
+      "ihhltotalasperdetails": 909,
+      "ihhltotalach": 434
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NORTH CACHAR HILLS",
+      "blockname": "DIYANG VALLEY",
+      "grampanchayatname": "KALACHAND MAC AREA (PART)",
+      "ihhltotalasperdetails": 1117,
+      "ihhltotalach": 847
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NORTH CACHAR HILLS",
+      "blockname": "DIYANG VALLEY",
+      "grampanchayatname": "LANGTING MAC AREA",
+      "ihhltotalasperdetails": 1805,
+      "ihhltotalach": 724
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NORTH CACHAR HILLS",
+      "blockname": "DIYANG VALLEY",
+      "grampanchayatname": "MAIBANG EAST MAC AREA",
+      "ihhltotalasperdetails": 824,
+      "ihhltotalach": 625
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NORTH CACHAR HILLS",
+      "blockname": "DIYANG VALLEY",
+      "grampanchayatname": "MAIBANG WEST MAC AREA",
+      "ihhltotalasperdetails": 1107,
+      "ihhltotalach": 929
+    },
+    {
+      "statename": "Assam",
+      "districtname": "NORTH CACHAR HILLS",
+      "blockname": "DIYANG VALLEY",
+      "grampanchayatname": "SEMKHOR MAC AREA",
+      "ihhltotalasperdetails": 384,
+      "ihhltotalach": 232
+    }
+  ]
+}

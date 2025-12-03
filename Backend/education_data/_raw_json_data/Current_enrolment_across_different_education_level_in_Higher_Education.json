@@ -1,0 +1,120 @@
+{
+  "index_name": "e448dca6-613b-4413-af1e-337a61dcec4d",
+  "title": "Current enrolment across different education level in Higher Education",
+  "desc": "Current enrolment across different education level in Higher Education",
+  "org_type": "Central",
+  "org": [
+    "NITI Aayog"
+  ],
+  "sector": [
+    "Education",
+    "Higher Education"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "860fdc20-6944-4130-9694-b22a658ecfca",
+  "visualizable": "0",
+  "active": "1",
+  "created": 1756623118,
+  "updated": 1756623118,
+  "created_date": "2025-08-31T08:51:58Z",
+  "updated_date": "2025-08-31T08:51:58Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "860fdc20-6944-4130-9694-b22a658ecfca",
+    "field": "e448dca6-613b-4413-af1e-337a61dcec4d"
+  },
+  "field": [
+    {
+      "id": "education_level_all_figures_in_000_",
+      "name": "Education Level(all figures in 000)",
+      "type": "keyword"
+    },
+    {
+      "id": "enrolment_1995_96_",
+      "name": "Enrolment:1995-96",
+      "type": "double"
+    },
+    {
+      "id": "enrolment_2007_08_",
+      "name": "Enrolment:2007-08",
+      "type": "double"
+    },
+    {
+      "id": "enrolment___2009_10",
+      "name": "Enrolment : 2009-10",
+      "type": "double"
+    },
+    {
+      "id": "enrolment_growth_rate_",
+      "name": "Enrolment:Growth Rate",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 8,
+  "count": 8,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "education_level_all_figures_in_000_": "Primary",
+      "enrolment_1995_96_": 60668,
+      "enrolment_2007_08_": 110701,
+      "enrolment___2009_10": 113857,
+      "enrolment_growth_rate_": 4.8
+    },
+    {
+      "education_level_all_figures_in_000_": "Middle",
+      "enrolment_1995_96_": 43879,
+      "enrolment_2007_08_": 59118,
+      "enrolment___2009_10": 57847,
+      "enrolment_growth_rate_": 2.2
+    },
+    {
+      "education_level_all_figures_in_000_": "Secondary",
+      "enrolment_1995_96_": 19067,
+      "enrolment_2007_08_": 30063,
+      "enrolment___2009_10": 40485,
+      "enrolment_growth_rate_": 4.9
+    },
+    {
+      "education_level_all_figures_in_000_": "Higher Secondary",
+      "enrolment_1995_96_": 10089,
+      "enrolment_2007_08_": 17097,
+      "enrolment___2009_10": 24464,
+      "enrolment_growth_rate_": 5.8
+    },
+    {
+      "education_level_all_figures_in_000_": "Diploma or certificate below graduate",
+      "enrolment_1995_96_": 496,
+      "enrolment_2007_08_": 3179.9,
+      "enrolment___2009_10": 2925,
+      "enrolment_growth_rate_": 20.9
+    },
+    {
+      "education_level_all_figures_in_000_": "Diploma or certificate :Graduate and above level",
+      "enrolment_1995_96_": "NA",
+      "enrolment_2007_08_": 2451.25,
+      "enrolment___2009_10": 3455,
+      "enrolment_growth_rate_": "0"
+    },
+    {
+      "education_level_all_figures_in_000_": "Graduate level degree course",
+      "enrolment_1995_96_": 2928,
+      "enrolment_2007_08_": 9217.69,
+      "enrolment___2009_10": 18412,
+      "enrolment_growth_rate_": 12.6
+    },
+    {
+      "education_level_all_figures_in_000_": "Post Graduate and above degree course",
+      "enrolment_1995_96_": 261,
+      "enrolment_2007_08_": 1387.73,
+      "enrolment___2009_10": 2353,
+      "enrolment_growth_rate_": 16.3
+    }
+  ]
+}

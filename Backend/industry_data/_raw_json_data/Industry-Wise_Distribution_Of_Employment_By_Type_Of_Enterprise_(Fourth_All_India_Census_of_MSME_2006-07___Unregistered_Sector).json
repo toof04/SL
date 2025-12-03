@@ -1,0 +1,390 @@
+{
+  "index_name": "626f9732-a367-4735-bf34-4c7751ef2f9b",
+  "title": "Industry-Wise Distribution Of Employment  By Type Of Enterprise  (Fourth All India Census of MSME 2006-07 : Unregistered Sector)",
+  "desc": "Industry-Wise Distribution Of Employment  By Type Of Enterprise  (Fourth All India Census of MSME 2006-07 : Unregistered Sector)",
+  "created": 1564999228,
+  "updated": 1564999228,
+  "created_date": "2019-08-05T15:30:28Z",
+  "updated_date": "2019-08-05T15:30:28Z",
+  "active": "1",
+  "visualizable": "1",
+  "catalog_uuid": "1445e8bc-cbf4-4cfd-8f14-1d737ee958ab",
+  "source": "data.gov.in",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Micro, Small and Medium Enterprises"
+  ],
+  "sector": [
+    "Industries",
+    "Micro",
+    "Small Scale"
+  ],
+  "field": [
+    {
+      "id": "__sl_no_",
+      "name": "Sl. No.",
+      "type": "double"
+    },
+    {
+      "id": "_nic_2004_",
+      "name": "NIC 2004 *",
+      "type": "double"
+    },
+    {
+      "id": "desciption",
+      "name": "Desciption",
+      "type": "keyword"
+    },
+    {
+      "id": "micro_values_in_lakh_",
+      "name": "Micro (Values in Lakh)",
+      "type": "double"
+    },
+    {
+      "id": "small_values_in_lakh_",
+      "name": "Small (Values in Lakh)",
+      "type": "double"
+    },
+    {
+      "id": "total_values_in_lakh_",
+      "name": "Total (Values in Lakh)",
+      "type": "double"
+    }
+  ],
+  "target_bucket": {
+    "index": "api",
+    "type": "1445e8bc-cbf4-4cfd-8f14-1d737ee958ab",
+    "field": "626f9732-a367-4735-bf34-4c7751ef2f9b"
+  },
+  "external_ws_url": "",
+  "external_ws": "0",
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 40,
+  "count": 40,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "__sl_no_": 1,
+      "_nic_2004_": 1,
+      "desciption": "AGRICULTURE, HUNTING AND RELATED SERVICE ACTIVITIES",
+      "micro_values_in_lakh_": 0.13,
+      "small_values_in_lakh_": 0,
+      "total_values_in_lakh_": 0.13
+    },
+    {
+      "__sl_no_": 2,
+      "_nic_2004_": 5,
+      "desciption": "FISHING, AQUACULTURE AND SERVICE ACTIVITIES INCIDENTAL TO FISHING",
+      "micro_values_in_lakh_": 0.03,
+      "small_values_in_lakh_": 0,
+      "total_values_in_lakh_": 0.03
+    },
+    {
+      "__sl_no_": 3,
+      "_nic_2004_": 15,
+      "desciption": "MANUFACTURE OF FOOD PRODUCTS AND BEVERAGES",
+      "micro_values_in_lakh_": 48.13,
+      "small_values_in_lakh_": 0.18,
+      "total_values_in_lakh_": 48.31
+    },
+    {
+      "__sl_no_": 4,
+      "_nic_2004_": 16,
+      "desciption": "MANUFACTURE OF TOBACCO PRODUCTS",
+      "micro_values_in_lakh_": 4.71,
+      "small_values_in_lakh_": 0,
+      "total_values_in_lakh_": 4.71
+    },
+    {
+      "__sl_no_": 5,
+      "_nic_2004_": 17,
+      "desciption": "MANUFACTURE OF TEXTILES",
+      "micro_values_in_lakh_": 25.65,
+      "small_values_in_lakh_": 0.01,
+      "total_values_in_lakh_": 25.66
+    },
+    {
+      "__sl_no_": 6,
+      "_nic_2004_": 18,
+      "desciption": "MANUFACTURE OF WEARING APPAREL; DRESSING AND DYEING OF FUR",
+      "micro_values_in_lakh_": 51.05,
+      "small_values_in_lakh_": 0,
+      "total_values_in_lakh_": 51.05
+    },
+    {
+      "__sl_no_": 7,
+      "_nic_2004_": 19,
+      "desciption": "TANNING AND DRESSING OF LEATHER; MANUFACTURE OF LUGGAGE, HANDBAGS, SADDLERY HARNESS AND FOOTWEAR.",
+      "micro_values_in_lakh_": 2.65,
+      "small_values_in_lakh_": 0,
+      "total_values_in_lakh_": 2.66
+    },
+    {
+      "__sl_no_": 8,
+      "_nic_2004_": 20,
+      "desciption": "MANUFACTURE OF WOOD AND OF PRODUCTS OF WOOD AND CORK, EXCEPT FURNITURE; MANUFACTURE OF ARTICLES OF STRAW AND PLAITING MATERIALS.",
+      "micro_values_in_lakh_": 12.33,
+      "small_values_in_lakh_": 0.03,
+      "total_values_in_lakh_": 12.35
+    },
+    {
+      "__sl_no_": 9,
+      "_nic_2004_": 21,
+      "desciption": "MANUFACTURE OF PAPER AND PAPER PRODUCTS",
+      "micro_values_in_lakh_": 1.04,
+      "small_values_in_lakh_": 0,
+      "total_values_in_lakh_": 1.04
+    },
+    {
+      "__sl_no_": 10,
+      "_nic_2004_": 22,
+      "desciption": "PUBLISHING, PRINTING AND REPRODUCTION OF RECORDE3D MEIDA",
+      "micro_values_in_lakh_": 3.76,
+      "small_values_in_lakh_": 0.03,
+      "total_values_in_lakh_": 3.79
+    },
+    {
+      "__sl_no_": 11,
+      "_nic_2004_": 23,
+      "desciption": "MANUFACTURE OF COKE, REFINED PETROLEUM PRODUCTS AND NECLEAR FUEL",
+      "micro_values_in_lakh_": 0.28,
+      "small_values_in_lakh_": 0,
+      "total_values_in_lakh_": 0.28
+    },
+    {
+      "__sl_no_": 12,
+      "_nic_2004_": 24,
+      "desciption": "MANUFACTURE OF CHEMICALS AND CHEMICAL PRODUCTS",
+      "micro_values_in_lakh_": 4.57,
+      "small_values_in_lakh_": 0.19,
+      "total_values_in_lakh_": 4.75
+    },
+    {
+      "__sl_no_": 13,
+      "_nic_2004_": 25,
+      "desciption": "MANUFACTURE OF RUBBER AND PLASTICS PRODUCTS",
+      "micro_values_in_lakh_": 4.55,
+      "small_values_in_lakh_": 0.31,
+      "total_values_in_lakh_": 4.86
+    },
+    {
+      "__sl_no_": 14,
+      "_nic_2004_": 26,
+      "desciption": "MANUFACTURE OF OTHER NON-METALLIC MINERAL PRODUCTS",
+      "micro_values_in_lakh_": 17.05,
+      "small_values_in_lakh_": 0.03,
+      "total_values_in_lakh_": 17.08
+    },
+    {
+      "__sl_no_": 15,
+      "_nic_2004_": 27,
+      "desciption": "MANUFACTURE OF BASIC METALS",
+      "micro_values_in_lakh_": 2.06,
+      "small_values_in_lakh_": 0.13,
+      "total_values_in_lakh_": 2.19
+    },
+    {
+      "__sl_no_": 16,
+      "_nic_2004_": 28,
+      "desciption": "MANUFACTURE OF FABRICATED METAL PRODUCTS, EXCEPT MACHINERY AND EQUIPMENT",
+      "micro_values_in_lakh_": 18.21,
+      "small_values_in_lakh_": 0.41,
+      "total_values_in_lakh_": 18.62
+    },
+    {
+      "__sl_no_": 17,
+      "_nic_2004_": 29,
+      "desciption": "MANUFACTURE OF MACHINERY AND EQUIPMENT N.E.C.",
+      "micro_values_in_lakh_": 7.09,
+      "small_values_in_lakh_": 0,
+      "total_values_in_lakh_": 7.09
+    },
+    {
+      "__sl_no_": 18,
+      "_nic_2004_": 30,
+      "desciption": "MANUFACTURE OF OFFICE, ACCOUNTING AND COMPUTING MACHINERY",
+      "micro_values_in_lakh_": 0.39,
+      "small_values_in_lakh_": 0,
+      "total_values_in_lakh_": 0.39
+    },
+    {
+      "__sl_no_": 19,
+      "_nic_2004_": 31,
+      "desciption": "MANUFACTURE OF ELECTRICAL MACHINERY AND APPARATUS N.E.C.",
+      "micro_values_in_lakh_": 4.63,
+      "small_values_in_lakh_": 0,
+      "total_values_in_lakh_": 4.63
+    },
+    {
+      "__sl_no_": 20,
+      "_nic_2004_": 32,
+      "desciption": "MANUFACTURE OF RADIO, TELEVISION AND COMMUNICATION EQUIPMENT AND APPARATUS",
+      "micro_values_in_lakh_": 2.03,
+      "small_values_in_lakh_": 0,
+      "total_values_in_lakh_": 2.03
+    },
+    {
+      "__sl_no_": 21,
+      "_nic_2004_": 33,
+      "desciption": "MANUFACTURE OF MEDICAL, PRECISION AND OPTICAL INSTRUMENTS, WATCHES AND CLOCKS.",
+      "micro_values_in_lakh_": 0.96,
+      "small_values_in_lakh_": 0,
+      "total_values_in_lakh_": 0.96
+    },
+    {
+      "__sl_no_": 22,
+      "_nic_2004_": 34,
+      "desciption": "MANUFACTURE OF MOTOR VEHICLES, TRAILERS AND SEMI-TRAILERS.",
+      "micro_values_in_lakh_": 0.83,
+      "small_values_in_lakh_": 0,
+      "total_values_in_lakh_": 0.83
+    },
+    {
+      "__sl_no_": 23,
+      "_nic_2004_": 35,
+      "desciption": "MANUFACTURE OF OTHER TRANSPORT EQUIPMENT",
+      "micro_values_in_lakh_": 1.22,
+      "small_values_in_lakh_": 0,
+      "total_values_in_lakh_": 1.22
+    },
+    {
+      "__sl_no_": 24,
+      "_nic_2004_": 36,
+      "desciption": "MANUFACTURE OF FURNITURE; MANUFACTURING N.E.C.",
+      "micro_values_in_lakh_": 24.46,
+      "small_values_in_lakh_": 0.09,
+      "total_values_in_lakh_": 24.55
+    },
+    {
+      "__sl_no_": 25,
+      "_nic_2004_": 37,
+      "desciption": "RECYCLING",
+      "micro_values_in_lakh_": 0.01,
+      "small_values_in_lakh_": 0,
+      "total_values_in_lakh_": 0.01
+    },
+    {
+      "__sl_no_": 26,
+      "_nic_2004_": 40,
+      "desciption": "ELECTRICITY, GAS, STEAM AND HOT WATER SUPPLY",
+      "micro_values_in_lakh_": 0.92,
+      "small_values_in_lakh_": 0.17,
+      "total_values_in_lakh_": 1.09
+    },
+    {
+      "__sl_no_": 27,
+      "_nic_2004_": 41,
+      "desciption": "COLLECTION, PURIFICATION AND DISTRIBUTION OF WATER",
+      "micro_values_in_lakh_": 0.4,
+      "small_values_in_lakh_": 0,
+      "total_values_in_lakh_": 0.4
+    },
+    {
+      "__sl_no_": 28,
+      "_nic_2004_": 45,
+      "desciption": "CONSTRUCTION",
+      "micro_values_in_lakh_": 0.48,
+      "small_values_in_lakh_": 0.01,
+      "total_values_in_lakh_": 0.49
+    },
+    {
+      "__sl_no_": 29,
+      "_nic_2004_": 50,
+      "desciption": "SALE, MAINTENANCE AND REPAIR OF MOTOR VEHICLES AND MOTORCYCLES; RETAIL SALE OF AUTOMOTIVE FUEL",
+      "micro_values_in_lakh_": 27.91,
+      "small_values_in_lakh_": 0.4,
+      "total_values_in_lakh_": 28.32
+    },
+    {
+      "__sl_no_": 30,
+      "_nic_2004_": 52,
+      "desciption": "RETAIL TRADE, EXCEPT OF MOTOR VEHICLES AND MOTORCYCLES; REPAIR OF PERSONAL AND HOUSEHOLD GOODS.",
+      "micro_values_in_lakh_": 46.24,
+      "small_values_in_lakh_": 0,
+      "total_values_in_lakh_": 46.25
+    },
+    {
+      "__sl_no_": 31,
+      "_nic_2004_": 63,
+      "desciption": "SUPPORTING AND AUXILIARY TRANSPORT ACTIVITIES; ACTIVITIES OF TRAVEL AGENCIES",
+      "micro_values_in_lakh_": 0.01,
+      "small_values_in_lakh_": 0.12,
+      "total_values_in_lakh_": 0.13
+    },
+    {
+      "__sl_no_": 32,
+      "_nic_2004_": 64,
+      "desciption": "POST AND TELECOMMUNICATIONS",
+      "micro_values_in_lakh_": 11.79,
+      "small_values_in_lakh_": 0.02,
+      "total_values_in_lakh_": 11.81
+    },
+    {
+      "__sl_no_": 33,
+      "_nic_2004_": 70,
+      "desciption": "REAL ESTATE ACTIVITIES",
+      "micro_values_in_lakh_": 0.85,
+      "small_values_in_lakh_": 0,
+      "total_values_in_lakh_": 0.85
+    },
+    {
+      "__sl_no_": 34,
+      "_nic_2004_": 71,
+      "desciption": "RENTING OF AMCHINERY AND EQUIPMENT WITHOUT OPERATOR AND OF PERSONAL AND HOUSEHOLD GOODS",
+      "micro_values_in_lakh_": 5.66,
+      "small_values_in_lakh_": 0.03,
+      "total_values_in_lakh_": 5.69
+    },
+    {
+      "__sl_no_": 35,
+      "_nic_2004_": 72,
+      "desciption": "COMPUTER AND RELATED ACTIVITIES",
+      "micro_values_in_lakh_": 9.57,
+      "small_values_in_lakh_": 0.17,
+      "total_values_in_lakh_": 9.74
+    },
+    {
+      "__sl_no_": 36,
+      "_nic_2004_": 73,
+      "desciption": "RESEARCH AND DEVELOPMENT",
+      "micro_values_in_lakh_": 0,
+      "small_values_in_lakh_": 0,
+      "total_values_in_lakh_": 0
+    },
+    {
+      "__sl_no_": 37,
+      "_nic_2004_": 74,
+      "desciption": "OTHER BUSINESS ACTIVITIES",
+      "micro_values_in_lakh_": 24.45,
+      "small_values_in_lakh_": 0.71,
+      "total_values_in_lakh_": 25.16
+    },
+    {
+      "__sl_no_": 38,
+      "_nic_2004_": 92,
+      "desciption": "RECREATIONAL, CULTURAL AND SPORTING ACTIVITIES",
+      "micro_values_in_lakh_": 2.14,
+      "small_values_in_lakh_": 0.12,
+      "total_values_in_lakh_": 2.25
+    },
+    {
+      "__sl_no_": 39,
+      "_nic_2004_": 93,
+      "desciption": "OTHER SERVICE ACTIVITIES",
+      "micro_values_in_lakh_": 37.27,
+      "small_values_in_lakh_": 0.16,
+      "total_values_in_lakh_": 37.43
+    },
+    {
+      "__sl_no_": "NA",
+      "_nic_2004_": "NA",
+      "desciption": "Total",
+      "micro_values_in_lakh_": 405.52,
+      "small_values_in_lakh_": 3.32,
+      "total_values_in_lakh_": 408.84
+    }
+  ]
+}

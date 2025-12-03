@@ -1,0 +1,3665 @@
+{
+  "index_name": "fa6cef75-280e-4477-b7c0-e6c90552a89c",
+  "title": "Gram Panchayat-wise Rural Sanitation Coverage in Madhubani District of Bihar as on date",
+  "desc": "Gram Panchayat-wise Rural Sanitation Coverage in Madhubani District of Bihar as on date",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Jal Shakti",
+    "Department of Drinking Water and Sanitation"
+  ],
+  "sector": [
+    "Water and Sanitation"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1688360266,
+  "updated": 1688364910,
+  "created_date": "2023-07-03T06:57:46Z",
+  "updated_date": "2023-07-03T11:45:10Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "sbm",
+    "type": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+    "field": "fa6cef75-280e-4477-b7c0-e6c90552a89c"
+  },
+  "field": [
+    {
+      "id": "statename",
+      "name": "StateName",
+      "type": "keyword"
+    },
+    {
+      "id": "districtname",
+      "name": "DistrictName",
+      "type": "keyword"
+    },
+    {
+      "id": "blockname",
+      "name": "BlockName",
+      "type": "keyword"
+    },
+    {
+      "id": "grampanchayatname",
+      "name": "GramPanchayatName",
+      "type": "keyword"
+    },
+    {
+      "id": "ihhltotalasperdetails",
+      "name": "IHHLTotalAsPerDetails",
+      "type": "double"
+    },
+    {
+      "id": "ihhltotalach",
+      "name": "IHHLTotalAch",
+      "type": "double"
+    },
+    {
+      "id": "date",
+      "name": "Date",
+      "type": "keyword"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 399,
+  "count": 399,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "ANDHRATHARHI",
+      "grampanchayatname": "ANDHARA GAUR",
+      "ihhltotalasperdetails": 1725,
+      "ihhltotalach": 1725,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "ANDHRATHARHI",
+      "grampanchayatname": "ANDHRATHARHI (N)",
+      "ihhltotalasperdetails": 2211,
+      "ihhltotalach": 2211,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "ANDHRATHARHI",
+      "grampanchayatname": "ANDHRATHARHI (S)",
+      "ihhltotalasperdetails": 2008,
+      "ihhltotalach": 2008,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "ANDHRATHARHI",
+      "grampanchayatname": "DEOHAR",
+      "ihhltotalasperdetails": 1637,
+      "ihhltotalach": 1637,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "ANDHRATHARHI",
+      "grampanchayatname": "DUMARA",
+      "ihhltotalasperdetails": 2205,
+      "ihhltotalach": 2205,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "ANDHRATHARHI",
+      "grampanchayatname": "GANAULI",
+      "ihhltotalasperdetails": 1695,
+      "ihhltotalach": 1695,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "ANDHRATHARHI",
+      "grampanchayatname": "GANGDWAR",
+      "ihhltotalasperdetails": 1097,
+      "ihhltotalach": 1097,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "ANDHRATHARHI",
+      "grampanchayatname": "HARARI",
+      "ihhltotalasperdetails": 1393,
+      "ihhltotalach": 1393,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "ANDHRATHARHI",
+      "grampanchayatname": "HARNA",
+      "ihhltotalasperdetails": 1421,
+      "ihhltotalach": 1421,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "ANDHRATHARHI",
+      "grampanchayatname": "JALSAIN",
+      "ihhltotalasperdetails": 1311,
+      "ihhltotalach": 1311,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "ANDHRATHARHI",
+      "grampanchayatname": "KARN PUR",
+      "ihhltotalasperdetails": 763,
+      "ihhltotalach": 763,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "ANDHRATHARHI",
+      "grampanchayatname": "MADANA",
+      "ihhltotalasperdetails": 2312,
+      "ihhltotalach": 2312,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "ANDHRATHARHI",
+      "grampanchayatname": "MAHARAIL",
+      "ihhltotalasperdetails": 991,
+      "ihhltotalach": 991,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "ANDHRATHARHI",
+      "grampanchayatname": "MAILAM",
+      "ihhltotalasperdetails": 1312,
+      "ihhltotalach": 1312,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "ANDHRATHARHI",
+      "grampanchayatname": "MARUKIYA",
+      "ihhltotalasperdetails": 2278,
+      "ihhltotalach": 2278,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "ANDHRATHARHI",
+      "grampanchayatname": "NANAUR",
+      "ihhltotalasperdetails": 2428,
+      "ihhltotalach": 2428,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "ANDHRATHARHI",
+      "grampanchayatname": "RAKHBARI",
+      "ihhltotalasperdetails": 950,
+      "ihhltotalach": 950,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "ANDHRATHARHI",
+      "grampanchayatname": "SHIVA",
+      "ihhltotalasperdetails": 1707,
+      "ihhltotalach": 1707,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BABU BARHI",
+      "grampanchayatname": "BABU BARHI",
+      "ihhltotalasperdetails": 2329,
+      "ihhltotalach": 2329,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BABU BARHI",
+      "grampanchayatname": "BARDAHI-BARHARA",
+      "ihhltotalasperdetails": 1915,
+      "ihhltotalach": 1915,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BABU BARHI",
+      "grampanchayatname": "BASAHA",
+      "ihhltotalasperdetails": 2026,
+      "ihhltotalach": 2026,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BABU BARHI",
+      "grampanchayatname": "BELA",
+      "ihhltotalasperdetails": 1649,
+      "ihhltotalach": 1649,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BABU BARHI",
+      "grampanchayatname": "BHATCHAURA",
+      "ihhltotalasperdetails": 1917,
+      "ihhltotalach": 1917,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BABU BARHI",
+      "grampanchayatname": "BHUPATI",
+      "ihhltotalasperdetails": 1108,
+      "ihhltotalach": 1108,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BABU BARHI",
+      "grampanchayatname": "CHHAURAHI",
+      "ihhltotalasperdetails": 2617,
+      "ihhltotalach": 2617,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BABU BARHI",
+      "grampanchayatname": "DHAMAURA",
+      "ihhltotalasperdetails": 1863,
+      "ihhltotalach": 1863,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BABU BARHI",
+      "grampanchayatname": "GHANGHAUR",
+      "ihhltotalasperdetails": 1471,
+      "ihhltotalach": 1471,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BABU BARHI",
+      "grampanchayatname": "KULHARIA",
+      "ihhltotalasperdetails": 1434,
+      "ihhltotalach": 1434,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BABU BARHI",
+      "grampanchayatname": "MAHESH WARA",
+      "ihhltotalasperdetails": 1949,
+      "ihhltotalach": 1949,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BABU BARHI",
+      "grampanchayatname": "MISRAULIA",
+      "ihhltotalasperdetails": 2002,
+      "ihhltotalach": 2002,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BABU BARHI",
+      "grampanchayatname": "MURHADI",
+      "ihhltotalasperdetails": 1849,
+      "ihhltotalach": 1849,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BABU BARHI",
+      "grampanchayatname": "PACHRUKHI",
+      "ihhltotalasperdetails": 1894,
+      "ihhltotalach": 1894,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BABU BARHI",
+      "grampanchayatname": "PIRHI",
+      "ihhltotalasperdetails": 1801,
+      "ihhltotalach": 1801,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BABU BARHI",
+      "grampanchayatname": "SARRA-SANPATAHI",
+      "ihhltotalasperdetails": 2111,
+      "ihhltotalach": 2111,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BABU BARHI",
+      "grampanchayatname": "SATGHARA",
+      "ihhltotalasperdetails": 1820,
+      "ihhltotalach": 1820,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BABU BARHI",
+      "grampanchayatname": "SONMATI",
+      "ihhltotalasperdetails": 1604,
+      "ihhltotalach": 1604,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BABU BARHI",
+      "grampanchayatname": "TEGHRA",
+      "ihhltotalasperdetails": 1742,
+      "ihhltotalach": 1742,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BABU BARHI",
+      "grampanchayatname": "TIRHUTA",
+      "ihhltotalasperdetails": 1646,
+      "ihhltotalach": 1646,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BASOPATTI",
+      "grampanchayatname": "ARGHAWA",
+      "ihhltotalasperdetails": 1368,
+      "ihhltotalach": 1368,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BASOPATTI",
+      "grampanchayatname": "BASO PATTI      ( EAST)",
+      "ihhltotalasperdetails": 1257,
+      "ihhltotalach": 1257,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BASOPATTI",
+      "grampanchayatname": "BASO PATTI      (WEST)",
+      "ihhltotalasperdetails": 1659,
+      "ihhltotalach": 1659,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BASOPATTI",
+      "grampanchayatname": "BIRPUR",
+      "ihhltotalasperdetails": 1670,
+      "ihhltotalach": 1670,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BASOPATTI",
+      "grampanchayatname": "CHHATAUNI",
+      "ihhltotalasperdetails": 1395,
+      "ihhltotalach": 1395,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BASOPATTI",
+      "grampanchayatname": "DAMU",
+      "ihhltotalasperdetails": 980,
+      "ihhltotalach": 980,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BASOPATTI",
+      "grampanchayatname": "GHORBANKI",
+      "ihhltotalasperdetails": 1244,
+      "ihhltotalach": 1244,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BASOPATTI",
+      "grampanchayatname": "HATHHAPUR PARSA",
+      "ihhltotalasperdetails": 2014,
+      "ihhltotalach": 2014,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BASOPATTI",
+      "grampanchayatname": "KATAIA",
+      "ihhltotalasperdetails": 2383,
+      "ihhltotalach": 2383,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BASOPATTI",
+      "grampanchayatname": "KHONA",
+      "ihhltotalasperdetails": 1630,
+      "ihhltotalach": 1630,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BASOPATTI",
+      "grampanchayatname": "MAHINATH PUR",
+      "ihhltotalasperdetails": 999,
+      "ihhltotalach": 999,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BASOPATTI",
+      "grampanchayatname": "MARHIYA",
+      "ihhltotalasperdetails": 1933,
+      "ihhltotalach": 1933,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BASOPATTI",
+      "grampanchayatname": "PHENT",
+      "ihhltotalasperdetails": 1905,
+      "ihhltotalach": 1905,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BASOPATTI",
+      "grampanchayatname": "SELIBELI",
+      "ihhltotalasperdetails": 2051,
+      "ihhltotalach": 2051,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BASOPATTI",
+      "grampanchayatname": "SIRIYAPUR",
+      "ihhltotalasperdetails": 1631,
+      "ihhltotalach": 1631,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BENIPATTI",
+      "grampanchayatname": "AKAUR",
+      "ihhltotalasperdetails": 1361,
+      "ihhltotalach": 1361,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BENIPATTI",
+      "grampanchayatname": "ARER        (N)",
+      "ihhltotalasperdetails": 1987,
+      "ihhltotalach": 1987,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BENIPATTI",
+      "grampanchayatname": "ARER        (S)",
+      "ihhltotalasperdetails": 1214,
+      "ihhltotalach": 1214,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BENIPATTI",
+      "grampanchayatname": "BANKATA",
+      "ihhltotalasperdetails": 2247,
+      "ihhltotalach": 2247,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BENIPATTI",
+      "grampanchayatname": "BARHAMPURA",
+      "ihhltotalasperdetails": 1426,
+      "ihhltotalach": 1426,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BENIPATTI",
+      "grampanchayatname": "BARRI",
+      "ihhltotalasperdetails": 1397,
+      "ihhltotalach": 1397,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BENIPATTI",
+      "grampanchayatname": "BASAITHA",
+      "ihhltotalasperdetails": 1852,
+      "ihhltotalach": 1852,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BENIPATTI",
+      "grampanchayatname": "BEHTA",
+      "ihhltotalasperdetails": 2000,
+      "ihhltotalach": 2000,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BENIPATTI",
+      "grampanchayatname": "BENIPATTI",
+      "ihhltotalasperdetails": 1873,
+      "ihhltotalach": 1873,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BENIPATTI",
+      "grampanchayatname": "BETAUNA",
+      "ihhltotalasperdetails": 1383,
+      "ihhltotalach": 1383,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BENIPATTI",
+      "grampanchayatname": "BISHANPUR",
+      "ihhltotalasperdetails": 1596,
+      "ihhltotalach": 1596,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BENIPATTI",
+      "grampanchayatname": "DHAKJARI",
+      "ihhltotalasperdetails": 1879,
+      "ihhltotalach": 1879,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BENIPATTI",
+      "grampanchayatname": "DHANGA",
+      "ihhltotalasperdetails": 1379,
+      "ihhltotalach": 1379,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BENIPATTI",
+      "grampanchayatname": "GANGULI",
+      "ihhltotalasperdetails": 2155,
+      "ihhltotalach": 2155,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BENIPATTI",
+      "grampanchayatname": "KAPASIA",
+      "ihhltotalasperdetails": 1327,
+      "ihhltotalach": 1327,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BENIPATTI",
+      "grampanchayatname": "KARHARA",
+      "ihhltotalasperdetails": 1983,
+      "ihhltotalach": 1983,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BENIPATTI",
+      "grampanchayatname": "KATAIA",
+      "ihhltotalasperdetails": 2019,
+      "ihhltotalach": 2019,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BENIPATTI",
+      "grampanchayatname": "MANPAUR",
+      "ihhltotalasperdetails": 1743,
+      "ihhltotalach": 1743,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BENIPATTI",
+      "grampanchayatname": "MEGHBON",
+      "ihhltotalasperdetails": 1739,
+      "ihhltotalach": 1739,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BENIPATTI",
+      "grampanchayatname": "MOHAMADPUR",
+      "ihhltotalasperdetails": 1675,
+      "ihhltotalach": 1675,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BENIPATTI",
+      "grampanchayatname": "MURETH",
+      "ihhltotalasperdetails": 1507,
+      "ihhltotalach": 1507,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BENIPATTI",
+      "grampanchayatname": "NAGBAS",
+      "ihhltotalasperdetails": 1279,
+      "ihhltotalach": 1279,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BENIPATTI",
+      "grampanchayatname": "NAGDAH BALAIN",
+      "ihhltotalasperdetails": 1790,
+      "ihhltotalach": 1790,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BENIPATTI",
+      "grampanchayatname": "NAV KARHI",
+      "ihhltotalasperdetails": 1047,
+      "ihhltotalach": 1047,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BENIPATTI",
+      "grampanchayatname": "PALI",
+      "ihhltotalasperdetails": 1427,
+      "ihhltotalach": 1427,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BENIPATTI",
+      "grampanchayatname": "PARAUL",
+      "ihhltotalasperdetails": 1901,
+      "ihhltotalach": 1901,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BENIPATTI",
+      "grampanchayatname": "PARJUAR",
+      "ihhltotalasperdetails": 1062,
+      "ihhltotalach": 1062,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BENIPATTI",
+      "grampanchayatname": "PARKAULI",
+      "ihhltotalasperdetails": 1589,
+      "ihhltotalach": 1589,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BENIPATTI",
+      "grampanchayatname": "PARSAUNA",
+      "ihhltotalasperdetails": 1209,
+      "ihhltotalach": 1209,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BENIPATTI",
+      "grampanchayatname": "SALHA",
+      "ihhltotalasperdetails": 1544,
+      "ihhltotalach": 1544,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BENIPATTI",
+      "grampanchayatname": "SAMDA",
+      "ihhltotalasperdetails": 1480,
+      "ihhltotalach": 1480,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BENIPATTI",
+      "grampanchayatname": "SHAHPUR",
+      "ihhltotalasperdetails": 1763,
+      "ihhltotalach": 1763,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BENIPATTI",
+      "grampanchayatname": "TYOTH",
+      "ihhltotalasperdetails": 1459,
+      "ihhltotalach": 1459,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BISFI",
+      "grampanchayatname": "AUNSI  BABHANGAMA  NORTH",
+      "ihhltotalasperdetails": 1488,
+      "ihhltotalach": 1488,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BISFI",
+      "grampanchayatname": "AUNSI BABHANGAMA   SOUTH",
+      "ihhltotalasperdetails": 1267,
+      "ihhltotalach": 1267,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BISFI",
+      "grampanchayatname": "BALHA",
+      "ihhltotalasperdetails": 902,
+      "ihhltotalach": 902,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BISFI",
+      "grampanchayatname": "BHAIRBA",
+      "ihhltotalasperdetails": 1837,
+      "ihhltotalach": 1837,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BISFI",
+      "grampanchayatname": "BHOJ PANDAUL",
+      "ihhltotalasperdetails": 1476,
+      "ihhltotalach": 1476,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BISFI",
+      "grampanchayatname": "BISFI",
+      "ihhltotalasperdetails": 1821,
+      "ihhltotalach": 1821,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BISFI",
+      "grampanchayatname": "CHAHUTA",
+      "ihhltotalasperdetails": 1524,
+      "ihhltotalach": 1524,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BISFI",
+      "grampanchayatname": "JAFRA",
+      "ihhltotalasperdetails": 1608,
+      "ihhltotalach": 1608,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BISFI",
+      "grampanchayatname": "JAGBAN    EAST",
+      "ihhltotalasperdetails": 1092,
+      "ihhltotalach": 1092,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BISFI",
+      "grampanchayatname": "JAGBAN   WEST",
+      "ihhltotalasperdetails": 1471,
+      "ihhltotalach": 1471,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BISFI",
+      "grampanchayatname": "KHAIRI BANKA    NORTH",
+      "ihhltotalasperdetails": 1551,
+      "ihhltotalach": 1551,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BISFI",
+      "grampanchayatname": "KHAIRI BANKA    SOUTH",
+      "ihhltotalasperdetails": 1151,
+      "ihhltotalach": 1151,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BISFI",
+      "grampanchayatname": "NAHAS RUPAULI    NORTH",
+      "ihhltotalasperdetails": 1254,
+      "ihhltotalach": 1254,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BISFI",
+      "grampanchayatname": "NAHAS RUPAULI    SOUTH",
+      "ihhltotalasperdetails": 885,
+      "ihhltotalach": 885,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BISFI",
+      "grampanchayatname": "NURCHAK",
+      "ihhltotalasperdetails": 1557,
+      "ihhltotalach": 1557,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BISFI",
+      "grampanchayatname": "PARSAUNI    NORTH",
+      "ihhltotalasperdetails": 1201,
+      "ihhltotalach": 1201,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BISFI",
+      "grampanchayatname": "PARSAUNI    SOUTH",
+      "ihhltotalasperdetails": 1906,
+      "ihhltotalach": 1906,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BISFI",
+      "grampanchayatname": "RAGHAULI",
+      "ihhltotalasperdetails": 1512,
+      "ihhltotalach": 1512,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BISFI",
+      "grampanchayatname": "RAGHEPURA",
+      "ihhltotalasperdetails": 1467,
+      "ihhltotalach": 1467,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BISFI",
+      "grampanchayatname": "RATHAUS",
+      "ihhltotalasperdetails": 1538,
+      "ihhltotalach": 1538,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BISFI",
+      "grampanchayatname": "SADULAHPUR",
+      "ihhltotalasperdetails": 1782,
+      "ihhltotalach": 1782,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BISFI",
+      "grampanchayatname": "SIMRI",
+      "ihhltotalasperdetails": 1730,
+      "ihhltotalach": 1730,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BISFI",
+      "grampanchayatname": "SINGASO",
+      "ihhltotalasperdetails": 1409,
+      "ihhltotalach": 1409,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BISFI",
+      "grampanchayatname": "SINGIA   WEST",
+      "ihhltotalasperdetails": 1196,
+      "ihhltotalach": 1196,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BISFI",
+      "grampanchayatname": "SINGIA  EAST",
+      "ihhltotalasperdetails": 788,
+      "ihhltotalach": 788,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BISFI",
+      "grampanchayatname": "SOHAS",
+      "ihhltotalasperdetails": 1843,
+      "ihhltotalach": 1843,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BISFI",
+      "grampanchayatname": "TISI NARSAM     NORTH",
+      "ihhltotalasperdetails": 1460,
+      "ihhltotalach": 1460,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "BISFI",
+      "grampanchayatname": "TISI NARSAM     SOUTH",
+      "ihhltotalasperdetails": 1218,
+      "ihhltotalach": 1218,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "GHOGHARDIHA",
+      "grampanchayatname": "AMAHI",
+      "ihhltotalasperdetails": 1731,
+      "ihhltotalach": 1731,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "GHOGHARDIHA",
+      "grampanchayatname": "BASUARI",
+      "ihhltotalasperdetails": 1603,
+      "ihhltotalach": 1603,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "GHOGHARDIHA",
+      "grampanchayatname": "BISHANPUR",
+      "ihhltotalasperdetails": 1986,
+      "ihhltotalach": 1986,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "GHOGHARDIHA",
+      "grampanchayatname": "BRAHMPUR (N)",
+      "ihhltotalasperdetails": 1769,
+      "ihhltotalach": 1769,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "GHOGHARDIHA",
+      "grampanchayatname": "BRAHMPUR (S)",
+      "ihhltotalasperdetails": 1467,
+      "ihhltotalach": 1467,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "GHOGHARDIHA",
+      "grampanchayatname": "BRAHMPUR BATHNAHA",
+      "ihhltotalasperdetails": 2004,
+      "ihhltotalach": 2004,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "GHOGHARDIHA",
+      "grampanchayatname": "CHHAJNA",
+      "ihhltotalasperdetails": 1552,
+      "ihhltotalach": 1552,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "GHOGHARDIHA",
+      "grampanchayatname": "CHIKNA",
+      "ihhltotalasperdetails": 1947,
+      "ihhltotalach": 1947,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "GHOGHARDIHA",
+      "grampanchayatname": "INARWA",
+      "ihhltotalasperdetails": 1436,
+      "ihhltotalach": 1436,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "GHOGHARDIHA",
+      "grampanchayatname": "KEOTANA",
+      "ihhltotalasperdetails": 1824,
+      "ihhltotalach": 1824,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "GHOGHARDIHA",
+      "grampanchayatname": "NAUA BAKHAR",
+      "ihhltotalasperdetails": 1629,
+      "ihhltotalach": 1629,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "GHOGHARDIHA",
+      "grampanchayatname": "PARSA (N)",
+      "ihhltotalasperdetails": 1682,
+      "ihhltotalach": 1682,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "GHOGHARDIHA",
+      "grampanchayatname": "PARSA (S)",
+      "ihhltotalasperdetails": 1763,
+      "ihhltotalach": 1763,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "GHOGHARDIHA",
+      "grampanchayatname": "PIROJ GADH",
+      "ihhltotalasperdetails": 1644,
+      "ihhltotalach": 1644,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "GHOGHARDIHA",
+      "grampanchayatname": "SANGI",
+      "ihhltotalasperdetails": 2032,
+      "ihhltotalach": 2032,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "GHOGHARDIHA",
+      "grampanchayatname": "SARAUTI",
+      "ihhltotalasperdetails": 1562,
+      "ihhltotalach": 1562,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "GHOGHARDIHA",
+      "grampanchayatname": "SUDAI RA TOLI",
+      "ihhltotalasperdetails": 1619,
+      "ihhltotalach": 1619,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "HARLAKHI",
+      "grampanchayatname": "BETA PARSA",
+      "ihhltotalasperdetails": 1676,
+      "ihhltotalach": 1676,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "HARLAKHI",
+      "grampanchayatname": "BISAUL",
+      "ihhltotalasperdetails": 1943,
+      "ihhltotalach": 1943,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "HARLAKHI",
+      "grampanchayatname": "BORHAR",
+      "ihhltotalasperdetails": 1842,
+      "ihhltotalach": 1842,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "HARLAKHI",
+      "grampanchayatname": "GANGAUR",
+      "ihhltotalasperdetails": 1487,
+      "ihhltotalach": 1487,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "HARLAKHI",
+      "grampanchayatname": "HARLAKHI",
+      "ihhltotalasperdetails": 2477,
+      "ihhltotalach": 2477,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "HARLAKHI",
+      "grampanchayatname": "HISAR",
+      "ihhltotalasperdetails": 1252,
+      "ihhltotalach": 1252,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "HARLAKHI",
+      "grampanchayatname": "JHITKI",
+      "ihhltotalasperdetails": 1508,
+      "ihhltotalach": 1508,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "HARLAKHI",
+      "grampanchayatname": "KALNA",
+      "ihhltotalasperdetails": 1496,
+      "ihhltotalach": 1496,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "HARLAKHI",
+      "grampanchayatname": "KARUNA",
+      "ihhltotalasperdetails": 1754,
+      "ihhltotalach": 1754,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "HARLAKHI",
+      "grampanchayatname": "KAUHA BARHI",
+      "ihhltotalasperdetails": 2358,
+      "ihhltotalach": 2358,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "HARLAKHI",
+      "grampanchayatname": "KHIRHAR",
+      "ihhltotalasperdetails": 1740,
+      "ihhltotalach": 1740,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "HARLAKHI",
+      "grampanchayatname": "NAHARNIA",
+      "ihhltotalasperdetails": 1945,
+      "ihhltotalach": 1945,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "HARLAKHI",
+      "grampanchayatname": "PHULHAR",
+      "ihhltotalasperdetails": 1452,
+      "ihhltotalach": 1452,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "HARLAKHI",
+      "grampanchayatname": "PIPRAUN",
+      "ihhltotalasperdetails": 1655,
+      "ihhltotalach": 1655,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "HARLAKHI",
+      "grampanchayatname": "SISAUNI",
+      "ihhltotalasperdetails": 1932,
+      "ihhltotalach": 1932,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "HARLAKHI",
+      "grampanchayatname": "SONEI",
+      "ihhltotalasperdetails": 1778,
+      "ihhltotalach": 1778,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "HARLAKHI",
+      "grampanchayatname": "SOTH GAON",
+      "ihhltotalasperdetails": 2622,
+      "ihhltotalach": 2622,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "JAINAGAR",
+      "grampanchayatname": "BARHI",
+      "ihhltotalasperdetails": 1302,
+      "ihhltotalach": 1302,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "JAINAGAR",
+      "grampanchayatname": "BELHI   WEST",
+      "ihhltotalasperdetails": 1633,
+      "ihhltotalach": 1633,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "JAINAGAR",
+      "grampanchayatname": "BELHI EAST",
+      "ihhltotalasperdetails": 1255,
+      "ihhltotalach": 1255,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "JAINAGAR",
+      "grampanchayatname": "BELHI SOUTH",
+      "ihhltotalasperdetails": 1457,
+      "ihhltotalach": 1457,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "JAINAGAR",
+      "grampanchayatname": "BERA",
+      "ihhltotalasperdetails": 1531,
+      "ihhltotalach": 1531,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "JAINAGAR",
+      "grampanchayatname": "DEODHA MIDDLE",
+      "ihhltotalasperdetails": 1344,
+      "ihhltotalach": 1344,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "JAINAGAR",
+      "grampanchayatname": "DEODHA NORTH",
+      "ihhltotalasperdetails": 1801,
+      "ihhltotalach": 1801,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "JAINAGAR",
+      "grampanchayatname": "DEODHA SOUTH",
+      "ihhltotalasperdetails": 1580,
+      "ihhltotalach": 1580,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "JAINAGAR",
+      "grampanchayatname": "DORBAR",
+      "ihhltotalasperdetails": 1752,
+      "ihhltotalach": 1752,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "JAINAGAR",
+      "grampanchayatname": "DULIPATTI",
+      "ihhltotalasperdetails": 1757,
+      "ihhltotalach": 1757,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "JAINAGAR",
+      "grampanchayatname": "JAINAGAR  BASTI",
+      "ihhltotalasperdetails": 1653,
+      "ihhltotalach": 1653,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "JAINAGAR",
+      "grampanchayatname": "KORAHIA",
+      "ihhltotalasperdetails": 1484,
+      "ihhltotalach": 1484,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "JAINAGAR",
+      "grampanchayatname": "PARWA   BELHI",
+      "ihhltotalasperdetails": 1592,
+      "ihhltotalach": 1592,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "JAINAGAR",
+      "grampanchayatname": "RAJAULI",
+      "ihhltotalasperdetails": 1639,
+      "ihhltotalach": 1639,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "JAINAGAR",
+      "grampanchayatname": "SELRA",
+      "ihhltotalasperdetails": 1477,
+      "ihhltotalach": 1477,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "JHANJHARPUR",
+      "grampanchayatname": "BALNI MEHAT",
+      "ihhltotalasperdetails": 1891,
+      "ihhltotalach": 1891,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "JHANJHARPUR",
+      "grampanchayatname": "CHANAURA GANJ",
+      "ihhltotalasperdetails": 2376,
+      "ihhltotalach": 2376,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "JHANJHARPUR",
+      "grampanchayatname": "KAKO",
+      "ihhltotalasperdetails": 2695,
+      "ihhltotalach": 2695,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "JHANJHARPUR",
+      "grampanchayatname": "KOTHIYA",
+      "ihhltotalasperdetails": 1867,
+      "ihhltotalach": 1867,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "JHANJHARPUR",
+      "grampanchayatname": "LOHANA NORTH",
+      "ihhltotalasperdetails": 1899,
+      "ihhltotalach": 1899,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "JHANJHARPUR",
+      "grampanchayatname": "LOHANA SOUTH",
+      "ihhltotalasperdetails": 1710,
+      "ihhltotalach": 1710,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "JHANJHARPUR",
+      "grampanchayatname": "MAHINATH PUR",
+      "ihhltotalasperdetails": 1951,
+      "ihhltotalach": 1951,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "JHANJHARPUR",
+      "grampanchayatname": "NABANI",
+      "ihhltotalasperdetails": 1924,
+      "ihhltotalach": 1924,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "JHANJHARPUR",
+      "grampanchayatname": "NARUAR",
+      "ihhltotalasperdetails": 1923,
+      "ihhltotalach": 1923,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "JHANJHARPUR",
+      "grampanchayatname": "PARSA",
+      "ihhltotalasperdetails": 1312,
+      "ihhltotalach": 1312,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "JHANJHARPUR",
+      "grampanchayatname": "PIPRAULIA",
+      "ihhltotalasperdetails": 2314,
+      "ihhltotalach": 2314,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "JHANJHARPUR",
+      "grampanchayatname": "RAIYAM EAST",
+      "ihhltotalasperdetails": 886,
+      "ihhltotalach": 886,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "JHANJHARPUR",
+      "grampanchayatname": "RAIYAM WEST",
+      "ihhltotalasperdetails": 2312,
+      "ihhltotalach": 2312,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "JHANJHARPUR",
+      "grampanchayatname": "SANGRAM",
+      "ihhltotalasperdetails": 2308,
+      "ihhltotalach": 2308,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "JHANJHARPUR",
+      "grampanchayatname": "SANT NAGAR",
+      "ihhltotalasperdetails": 1729,
+      "ihhltotalach": 1729,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "JHANJHARPUR",
+      "grampanchayatname": "SIMRAH",
+      "ihhltotalasperdetails": 1687,
+      "ihhltotalach": 1687,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "JHANJHARPUR",
+      "grampanchayatname": "SUKHET",
+      "ihhltotalasperdetails": 2836,
+      "ihhltotalach": 2836,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "KALUAHI",
+      "grampanchayatname": "HARIPUR NORTH",
+      "ihhltotalasperdetails": 1658,
+      "ihhltotalach": 1658,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "KALUAHI",
+      "grampanchayatname": "HARIPUR SOUTH",
+      "ihhltotalasperdetails": 2135,
+      "ihhltotalach": 2135,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "KALUAHI",
+      "grampanchayatname": "KALIKAPUR",
+      "ihhltotalasperdetails": 1775,
+      "ihhltotalach": 1775,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "KALUAHI",
+      "grampanchayatname": "KARMAULI",
+      "ihhltotalasperdetails": 2544,
+      "ihhltotalach": 2544,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "KALUAHI",
+      "grampanchayatname": "LOHA",
+      "ihhltotalasperdetails": 1751,
+      "ihhltotalach": 1751,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "KALUAHI",
+      "grampanchayatname": "MADHEPUR",
+      "ihhltotalasperdetails": 2540,
+      "ihhltotalach": 2540,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "KALUAHI",
+      "grampanchayatname": "MALMAL NORTH",
+      "ihhltotalasperdetails": 1890,
+      "ihhltotalach": 1890,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "KALUAHI",
+      "grampanchayatname": "MALMAL SOUTH",
+      "ihhltotalasperdetails": 2017,
+      "ihhltotalach": 2017,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "KALUAHI",
+      "grampanchayatname": "NARAR WEST",
+      "ihhltotalasperdetails": 1553,
+      "ihhltotalach": 1553,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "KALUAHI",
+      "grampanchayatname": "PALIMOHAN",
+      "ihhltotalasperdetails": 1825,
+      "ihhltotalach": 1825,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "KALUAHI",
+      "grampanchayatname": "PURSOLIA",
+      "ihhltotalasperdetails": 1735,
+      "ihhltotalach": 1735,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "KHAJAULI",
+      "grampanchayatname": "BENTA KAKARGHATI",
+      "ihhltotalasperdetails": 1993,
+      "ihhltotalach": 1993,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "KHAJAULI",
+      "grampanchayatname": "BHAKUA",
+      "ihhltotalasperdetails": 1748,
+      "ihhltotalach": 1748,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "KHAJAULI",
+      "grampanchayatname": "CHANDRA DIH",
+      "ihhltotalasperdetails": 753,
+      "ihhltotalach": 753,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "KHAJAULI",
+      "grampanchayatname": "CHATRA GOTH NORTH",
+      "ihhltotalasperdetails": 1890,
+      "ihhltotalach": 1890,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "KHAJAULI",
+      "grampanchayatname": "CHATRA GOTH SOUTH",
+      "ihhltotalasperdetails": 591,
+      "ihhltotalach": 591,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "KHAJAULI",
+      "grampanchayatname": "DATUAR",
+      "ihhltotalasperdetails": 1722,
+      "ihhltotalach": 1722,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "KHAJAULI",
+      "grampanchayatname": "INRWA",
+      "ihhltotalasperdetails": 1157,
+      "ihhltotalach": 1157,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "KHAJAULI",
+      "grampanchayatname": "KANHAULI",
+      "ihhltotalasperdetails": 914,
+      "ihhltotalach": 914,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "KHAJAULI",
+      "grampanchayatname": "KHAJAULI",
+      "ihhltotalasperdetails": 1212,
+      "ihhltotalach": 1212,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "KHAJAULI",
+      "grampanchayatname": "MAHUA EKDARA",
+      "ihhltotalasperdetails": 1446,
+      "ihhltotalach": 1446,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "KHAJAULI",
+      "grampanchayatname": "NARAR EAST",
+      "ihhltotalasperdetails": 1888,
+      "ihhltotalach": 1888,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "KHAJAULI",
+      "grampanchayatname": "RASHIDPUR",
+      "ihhltotalasperdetails": 2339,
+      "ihhltotalach": 2339,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "KHAJAULI",
+      "grampanchayatname": "SARABE",
+      "ihhltotalasperdetails": 1369,
+      "ihhltotalach": 1369,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "KHAJAULI",
+      "grampanchayatname": "SUKKI",
+      "ihhltotalasperdetails": 1750,
+      "ihhltotalach": 1750,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LADANIA",
+      "grampanchayatname": "BELAHI",
+      "ihhltotalasperdetails": 1649,
+      "ihhltotalach": 1649,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LADANIA",
+      "grampanchayatname": "DALOKHAR",
+      "ihhltotalasperdetails": 1968,
+      "ihhltotalach": 1968,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LADANIA",
+      "grampanchayatname": "EKHARI",
+      "ihhltotalasperdetails": 2283,
+      "ihhltotalach": 2283,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LADANIA",
+      "grampanchayatname": "GAJHARA",
+      "ihhltotalasperdetails": 1699,
+      "ihhltotalach": 1699,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LADANIA",
+      "grampanchayatname": "GIDHWAS",
+      "ihhltotalasperdetails": 2366,
+      "ihhltotalach": 2366,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LADANIA",
+      "grampanchayatname": "KHOJA",
+      "ihhltotalasperdetails": 962,
+      "ihhltotalach": 962,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LADANIA",
+      "grampanchayatname": "KUMARKHAT EAST",
+      "ihhltotalasperdetails": 1935,
+      "ihhltotalach": 1935,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LADANIA",
+      "grampanchayatname": "KUMARKHAT WEST",
+      "ihhltotalasperdetails": 1314,
+      "ihhltotalach": 1314,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LADANIA",
+      "grampanchayatname": "LACHHMINIA",
+      "ihhltotalasperdetails": 2271,
+      "ihhltotalach": 2271,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LADANIA",
+      "grampanchayatname": "MAHTHA",
+      "ihhltotalasperdetails": 2162,
+      "ihhltotalach": 2162,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LADANIA",
+      "grampanchayatname": "PADMA",
+      "ihhltotalasperdetails": 2017,
+      "ihhltotalach": 2017,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LADANIA",
+      "grampanchayatname": "PATHRAHI",
+      "ihhltotalasperdetails": 1878,
+      "ihhltotalach": 1878,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LADANIA",
+      "grampanchayatname": "PIPRAHI",
+      "ihhltotalasperdetails": 2125,
+      "ihhltotalach": 2125,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LADANIA",
+      "grampanchayatname": "SIDHAP KALA",
+      "ihhltotalasperdetails": 2133,
+      "ihhltotalach": 2133,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LADANIA",
+      "grampanchayatname": "SIDHPA",
+      "ihhltotalasperdetails": 1768,
+      "ihhltotalach": 1772,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LAKHNAUR",
+      "grampanchayatname": "BALIA",
+      "ihhltotalasperdetails": 1010,
+      "ihhltotalach": 1010,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LAKHNAUR",
+      "grampanchayatname": "BEHAT NORTH",
+      "ihhltotalasperdetails": 1979,
+      "ihhltotalach": 1979,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LAKHNAUR",
+      "grampanchayatname": "BEHAT SOUTH",
+      "ihhltotalasperdetails": 1878,
+      "ihhltotalach": 1878,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LAKHNAUR",
+      "grampanchayatname": "BELAUNCHA",
+      "ihhltotalasperdetails": 1392,
+      "ihhltotalach": 1392,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LAKHNAUR",
+      "grampanchayatname": "BERMA",
+      "ihhltotalasperdetails": 994,
+      "ihhltotalach": 994,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LAKHNAUR",
+      "grampanchayatname": "DEEP  EAST",
+      "ihhltotalasperdetails": 1410,
+      "ihhltotalach": 1410,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LAKHNAUR",
+      "grampanchayatname": "DEEP  WEST",
+      "ihhltotalasperdetails": 2529,
+      "ihhltotalach": 2529,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LAKHNAUR",
+      "grampanchayatname": "GANGAPUR",
+      "ihhltotalasperdetails": 2043,
+      "ihhltotalach": 2043,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LAKHNAUR",
+      "grampanchayatname": "KACHHUA",
+      "ihhltotalasperdetails": 2161,
+      "ihhltotalach": 2161,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LAKHNAUR",
+      "grampanchayatname": "KACHHUVI",
+      "ihhltotalasperdetails": 1657,
+      "ihhltotalach": 1657,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LAKHNAUR",
+      "grampanchayatname": "KAITHINIA",
+      "ihhltotalasperdetails": 3117,
+      "ihhltotalach": 3117,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LAKHNAUR",
+      "grampanchayatname": "LAKHNAUR EAST",
+      "ihhltotalasperdetails": 1356,
+      "ihhltotalach": 1356,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LAKHNAUR",
+      "grampanchayatname": "LAKHNAUR WEST",
+      "ihhltotalasperdetails": 1820,
+      "ihhltotalach": 1820,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LAKHNAUR",
+      "grampanchayatname": "LAUFA",
+      "ihhltotalasperdetails": 1949,
+      "ihhltotalach": 1949,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LAKHNAUR",
+      "grampanchayatname": "MADANPUR",
+      "ihhltotalasperdetails": 916,
+      "ihhltotalach": 916,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LAKHNAUR",
+      "grampanchayatname": "MAIBI",
+      "ihhltotalasperdetails": 1713,
+      "ihhltotalach": 1713,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LAKHNAUR",
+      "grampanchayatname": "TAMURIA",
+      "ihhltotalasperdetails": 2519,
+      "ihhltotalach": 2519,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LAUKAHA (KHUTAUNA)",
+      "grampanchayatname": "BADHA KUSUMAR",
+      "ihhltotalasperdetails": 2362,
+      "ihhltotalach": 2362,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LAUKAHA (KHUTAUNA)",
+      "grampanchayatname": "BASUDEV PUR",
+      "ihhltotalasperdetails": 1965,
+      "ihhltotalach": 1965,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LAUKAHA (KHUTAUNA)",
+      "grampanchayatname": "BIRPUR",
+      "ihhltotalasperdetails": 1847,
+      "ihhltotalach": 1847,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LAUKAHA (KHUTAUNA)",
+      "grampanchayatname": "DURGI PATTI",
+      "ihhltotalasperdetails": 1771,
+      "ihhltotalach": 1771,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LAUKAHA (KHUTAUNA)",
+      "grampanchayatname": "EKHATA",
+      "ihhltotalasperdetails": 2206,
+      "ihhltotalach": 2206,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LAUKAHA (KHUTAUNA)",
+      "grampanchayatname": "JHANJHPATTI ASHA",
+      "ihhltotalasperdetails": 2154,
+      "ihhltotalach": 2154,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LAUKAHA (KHUTAUNA)",
+      "grampanchayatname": "KARMEGH MIDDLE",
+      "ihhltotalasperdetails": 1404,
+      "ihhltotalach": 1404,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LAUKAHA (KHUTAUNA)",
+      "grampanchayatname": "KARMEGH NORTH",
+      "ihhltotalasperdetails": 1577,
+      "ihhltotalach": 1577,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LAUKAHA (KHUTAUNA)",
+      "grampanchayatname": "KARMEGH WEST",
+      "ihhltotalasperdetails": 1751,
+      "ihhltotalach": 1751,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LAUKAHA (KHUTAUNA)",
+      "grampanchayatname": "KHUTAUNA",
+      "ihhltotalasperdetails": 2051,
+      "ihhltotalach": 2051,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LAUKAHA (KHUTAUNA)",
+      "grampanchayatname": "LALMANIA",
+      "ihhltotalasperdetails": 2027,
+      "ihhltotalach": 2027,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LAUKAHA (KHUTAUNA)",
+      "grampanchayatname": "MADHOPUR",
+      "ihhltotalasperdetails": 1910,
+      "ihhltotalach": 1910,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LAUKAHA (KHUTAUNA)",
+      "grampanchayatname": "MAJHAURA",
+      "ihhltotalasperdetails": 1997,
+      "ihhltotalach": 1997,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LAUKAHA (KHUTAUNA)",
+      "grampanchayatname": "NAHARI",
+      "ihhltotalasperdetails": 1753,
+      "ihhltotalach": 1753,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LAUKAHA (KHUTAUNA)",
+      "grampanchayatname": "PARSAHI EAST",
+      "ihhltotalasperdetails": 1869,
+      "ihhltotalach": 1869,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LAUKAHA (KHUTAUNA)",
+      "grampanchayatname": "PARSAHI WEST",
+      "ihhltotalasperdetails": 2142,
+      "ihhltotalach": 2142,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LAUKAHA (KHUTAUNA)",
+      "grampanchayatname": "PIPRAHI",
+      "ihhltotalasperdetails": 2046,
+      "ihhltotalach": 2046,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LAUKAHA (KHUTAUNA)",
+      "grampanchayatname": "SIKTIYAHI",
+      "ihhltotalasperdetails": 1662,
+      "ihhltotalach": 1662,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LAUKAHI",
+      "grampanchayatname": "ATARI",
+      "ihhltotalasperdetails": 1726,
+      "ihhltotalach": 1726,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LAUKAHI",
+      "grampanchayatname": "BANGAMA  NORTH",
+      "ihhltotalasperdetails": 1461,
+      "ihhltotalach": 1461,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LAUKAHI",
+      "grampanchayatname": "BANGAMA  SOUTH",
+      "ihhltotalasperdetails": 1668,
+      "ihhltotalach": 1668,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LAUKAHI",
+      "grampanchayatname": "BARUWAR",
+      "ihhltotalasperdetails": 1365,
+      "ihhltotalach": 1365,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LAUKAHI",
+      "grampanchayatname": "BELAHI BHAWANIPUR",
+      "ihhltotalasperdetails": 1523,
+      "ihhltotalach": 1523,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LAUKAHI",
+      "grampanchayatname": "DHANCHHIHA",
+      "ihhltotalasperdetails": 1480,
+      "ihhltotalach": 1480,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LAUKAHI",
+      "grampanchayatname": "DHARHARA",
+      "ihhltotalasperdetails": 1694,
+      "ihhltotalach": 1694,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LAUKAHI",
+      "grampanchayatname": "JHAHURI",
+      "ihhltotalasperdetails": 1645,
+      "ihhltotalach": 1645,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LAUKAHI",
+      "grampanchayatname": "JIROGA",
+      "ihhltotalasperdetails": 1518,
+      "ihhltotalach": 1518,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LAUKAHI",
+      "grampanchayatname": "KARIOT",
+      "ihhltotalasperdetails": 1555,
+      "ihhltotalach": 1555,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LAUKAHI",
+      "grampanchayatname": "KUKURDAURA",
+      "ihhltotalasperdetails": 1554,
+      "ihhltotalach": 1554,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LAUKAHI",
+      "grampanchayatname": "LADANIA",
+      "ihhltotalasperdetails": 1136,
+      "ihhltotalach": 1136,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LAUKAHI",
+      "grampanchayatname": "LAUKAHI",
+      "ihhltotalasperdetails": 1745,
+      "ihhltotalach": 1745,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LAUKAHI",
+      "grampanchayatname": "MAHADEO MATH",
+      "ihhltotalasperdetails": 1549,
+      "ihhltotalach": 1549,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LAUKAHI",
+      "grampanchayatname": "MANSAPUR",
+      "ihhltotalasperdetails": 1880,
+      "ihhltotalach": 1880,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LAUKAHI",
+      "grampanchayatname": "NARENDRAPUR",
+      "ihhltotalasperdetails": 1266,
+      "ihhltotalach": 1266,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LAUKAHI",
+      "grampanchayatname": "NARHIYA NORTH",
+      "ihhltotalasperdetails": 1430,
+      "ihhltotalach": 1430,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "LAUKAHI",
+      "grampanchayatname": "NARHIYA SOUTH",
+      "ihhltotalasperdetails": 1697,
+      "ihhltotalach": 1697,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHEPUR",
+      "grampanchayatname": "BAKUA",
+      "ihhltotalasperdetails": 729,
+      "ihhltotalach": 729,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHEPUR",
+      "grampanchayatname": "BANKI",
+      "ihhltotalasperdetails": 2617,
+      "ihhltotalach": 2617,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHEPUR",
+      "grampanchayatname": "BARSAM",
+      "ihhltotalasperdetails": 1459,
+      "ihhltotalach": 1459,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHEPUR",
+      "grampanchayatname": "BASIPATTI",
+      "ihhltotalasperdetails": 1265,
+      "ihhltotalach": 1265,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHEPUR",
+      "grampanchayatname": "BATH",
+      "ihhltotalasperdetails": 970,
+      "ihhltotalach": 970,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHEPUR",
+      "grampanchayatname": "BHAKHARAIN",
+      "ihhltotalasperdetails": 910,
+      "ihhltotalach": 910,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHEPUR",
+      "grampanchayatname": "BHARGAMA",
+      "ihhltotalasperdetails": 1173,
+      "ihhltotalach": 1173,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHEPUR",
+      "grampanchayatname": "BHEJA",
+      "ihhltotalasperdetails": 1641,
+      "ihhltotalach": 1641,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHEPUR",
+      "grampanchayatname": "BHIT BHAGWANPUR",
+      "ihhltotalasperdetails": 1937,
+      "ihhltotalach": 1937,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHEPUR",
+      "grampanchayatname": "DARAH",
+      "ihhltotalasperdetails": 1645,
+      "ihhltotalach": 1645,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHEPUR",
+      "grampanchayatname": "DWALAKH",
+      "ihhltotalasperdetails": 1590,
+      "ihhltotalach": 1590,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHEPUR",
+      "grampanchayatname": "GARGAON",
+      "ihhltotalasperdetails": 766,
+      "ihhltotalach": 766,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHEPUR",
+      "grampanchayatname": "KARHARA",
+      "ihhltotalasperdetails": 1455,
+      "ihhltotalach": 1455,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHEPUR",
+      "grampanchayatname": "MADHEPUR EAST",
+      "ihhltotalasperdetails": 1906,
+      "ihhltotalach": 1906,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHEPUR",
+      "grampanchayatname": "MADHEPUR WEST",
+      "ihhltotalasperdetails": 2260,
+      "ihhltotalach": 2260,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHEPUR",
+      "grampanchayatname": "MAHASINGH HASAULI",
+      "ihhltotalasperdetails": 1427,
+      "ihhltotalach": 1427,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHEPUR",
+      "grampanchayatname": "MAHISHAM",
+      "ihhltotalasperdetails": 2673,
+      "ihhltotalach": 2673,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHEPUR",
+      "grampanchayatname": "MAHPATIA",
+      "ihhltotalasperdetails": 1049,
+      "ihhltotalach": 1049,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHEPUR",
+      "grampanchayatname": "MATRAS",
+      "ihhltotalasperdetails": 924,
+      "ihhltotalach": 924,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHEPUR",
+      "grampanchayatname": "NAWADA",
+      "ihhltotalasperdetails": 1599,
+      "ihhltotalach": 1599,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHEPUR",
+      "grampanchayatname": "PACHAHI",
+      "ihhltotalasperdetails": 1697,
+      "ihhltotalach": 1697,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHEPUR",
+      "grampanchayatname": "PARWALPUR",
+      "ihhltotalasperdetails": 1851,
+      "ihhltotalach": 1851,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHEPUR",
+      "grampanchayatname": "PRASAD",
+      "ihhltotalasperdetails": 2693,
+      "ihhltotalach": 2693,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHEPUR",
+      "grampanchayatname": "RAHUA SANGRAM",
+      "ihhltotalasperdetails": 1848,
+      "ihhltotalach": 1848,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHEPUR",
+      "grampanchayatname": "SUNDAR BIRAJEET",
+      "ihhltotalasperdetails": 795,
+      "ihhltotalach": 795,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHEPUR",
+      "grampanchayatname": "TARDIHA",
+      "ihhltotalasperdetails": 1449,
+      "ihhltotalach": 1449,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHUBANI",
+      "grampanchayatname": "BALIA",
+      "ihhltotalasperdetails": 1360,
+      "ihhltotalach": 1360,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHUBANI",
+      "grampanchayatname": "BASAULI",
+      "ihhltotalasperdetails": 2435,
+      "ihhltotalach": 2435,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHUBANI",
+      "grampanchayatname": "BASUARA",
+      "ihhltotalasperdetails": 1373,
+      "ihhltotalach": 1373,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHUBANI",
+      "grampanchayatname": "BHACHHI",
+      "ihhltotalasperdetails": 2336,
+      "ihhltotalach": 2336,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHUBANI",
+      "grampanchayatname": "BHAUARA",
+      "ihhltotalasperdetails": 2054,
+      "ihhltotalach": 2054,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHUBANI",
+      "grampanchayatname": "HUSSIN PUR",
+      "ihhltotalasperdetails": 2510,
+      "ihhltotalach": 2510,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHUBANI",
+      "grampanchayatname": "IZRA",
+      "ihhltotalasperdetails": 1998,
+      "ihhltotalach": 1998,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHUBANI",
+      "grampanchayatname": "JAGAT PUR",
+      "ihhltotalasperdetails": 2110,
+      "ihhltotalach": 2110,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHUBANI",
+      "grampanchayatname": "KAKRAUL NORTH",
+      "ihhltotalasperdetails": 1753,
+      "ihhltotalach": 1753,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHUBANI",
+      "grampanchayatname": "KAKRAUL SOUTH",
+      "ihhltotalasperdetails": 2090,
+      "ihhltotalach": 2090,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHUBANI",
+      "grampanchayatname": "KHAJURI",
+      "ihhltotalasperdetails": 2372,
+      "ihhltotalach": 2372,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHUBANI",
+      "grampanchayatname": "LAXMIPUR",
+      "ihhltotalasperdetails": 1629,
+      "ihhltotalach": 1629,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHUBANI",
+      "grampanchayatname": "MAKSUDA",
+      "ihhltotalasperdetails": 2004,
+      "ihhltotalach": 2004,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHUBANI",
+      "grampanchayatname": "MALANGIA",
+      "ihhltotalasperdetails": 1450,
+      "ihhltotalach": 1450,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHUBANI",
+      "grampanchayatname": "NAZIRPUR",
+      "ihhltotalasperdetails": 2392,
+      "ihhltotalach": 2392,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHUBANI",
+      "grampanchayatname": "RAHIKA",
+      "ihhltotalasperdetails": 2346,
+      "ihhltotalach": 2346,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHUBANI",
+      "grampanchayatname": "SAPTA",
+      "ihhltotalasperdetails": 2071,
+      "ihhltotalach": 2071,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHUBANI",
+      "grampanchayatname": "SATLAKHA",
+      "ihhltotalasperdetails": 1884,
+      "ihhltotalach": 1884,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHUBANI",
+      "grampanchayatname": "SAURATH",
+      "ihhltotalasperdetails": 1550,
+      "ihhltotalach": 1550,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHUBANI",
+      "grampanchayatname": "SHAMBHUAR",
+      "ihhltotalasperdetails": 1861,
+      "ihhltotalach": 1861,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHUBANI",
+      "grampanchayatname": "SONAUR",
+      "ihhltotalasperdetails": 1824,
+      "ihhltotalach": 1824,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHUBANI",
+      "grampanchayatname": "SUNDAR PUR BHITTHI",
+      "ihhltotalasperdetails": 1408,
+      "ihhltotalach": 1408,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHWAPUR",
+      "grampanchayatname": "BALBA",
+      "ihhltotalasperdetails": 1514,
+      "ihhltotalach": 1514,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHWAPUR",
+      "grampanchayatname": "BASUKI BIHARI NORTH",
+      "ihhltotalasperdetails": 1460,
+      "ihhltotalach": 1460,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHWAPUR",
+      "grampanchayatname": "BASUKI BIHARI SOUTH",
+      "ihhltotalasperdetails": 1341,
+      "ihhltotalach": 1341,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHWAPUR",
+      "grampanchayatname": "BISANPUR",
+      "ihhltotalasperdetails": 1226,
+      "ihhltotalach": 1226,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHWAPUR",
+      "grampanchayatname": "MADHWAPUR",
+      "ihhltotalasperdetails": 1780,
+      "ihhltotalach": 1780,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHWAPUR",
+      "grampanchayatname": "MUKHIAPATTI",
+      "ihhltotalasperdetails": 1805,
+      "ihhltotalach": 1805,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHWAPUR",
+      "grampanchayatname": "PIHWARA",
+      "ihhltotalasperdetails": 2462,
+      "ihhltotalach": 2462,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHWAPUR",
+      "grampanchayatname": "PIROKHAR",
+      "ihhltotalasperdetails": 1603,
+      "ihhltotalach": 1603,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHWAPUR",
+      "grampanchayatname": "SAHAR NORTH",
+      "ihhltotalasperdetails": 1826,
+      "ihhltotalach": 1826,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHWAPUR",
+      "grampanchayatname": "SAHAR SOUTH",
+      "ihhltotalasperdetails": 1683,
+      "ihhltotalach": 1683,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHWAPUR",
+      "grampanchayatname": "SALEMPUR",
+      "ihhltotalasperdetails": 1824,
+      "ihhltotalach": 1824,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHWAPUR",
+      "grampanchayatname": "TARAIA",
+      "ihhltotalasperdetails": 1872,
+      "ihhltotalach": 1872,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "MADHWAPUR",
+      "grampanchayatname": "UTTRA",
+      "ihhltotalasperdetails": 1436,
+      "ihhltotalach": 1436,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "PANDAUL",
+      "grampanchayatname": "BATHNE",
+      "ihhltotalasperdetails": 1314,
+      "ihhltotalach": 1314,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "PANDAUL",
+      "grampanchayatname": "BELAHI",
+      "ihhltotalasperdetails": 1660,
+      "ihhltotalach": 1660,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "PANDAUL",
+      "grampanchayatname": "BHAGWATIPUR",
+      "ihhltotalasperdetails": 1352,
+      "ihhltotalach": 1352,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "PANDAUL",
+      "grampanchayatname": "BHAUR",
+      "ihhltotalasperdetails": 1608,
+      "ihhltotalach": 1608,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "PANDAUL",
+      "grampanchayatname": "BHAWANIPUR",
+      "ihhltotalasperdetails": 2027,
+      "ihhltotalach": 2027,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "PANDAUL",
+      "grampanchayatname": "BIRAUL",
+      "ihhltotalasperdetails": 1686,
+      "ihhltotalach": 1686,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "PANDAUL",
+      "grampanchayatname": "DAHIBAT MADHOPUR (E)",
+      "ihhltotalasperdetails": 1448,
+      "ihhltotalach": 1448,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "PANDAUL",
+      "grampanchayatname": "DAHIBAT MADHOPUR (W)",
+      "ihhltotalasperdetails": 1945,
+      "ihhltotalach": 1945,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "PANDAUL",
+      "grampanchayatname": "MAKRAMPUR",
+      "ihhltotalasperdetails": 2007,
+      "ihhltotalach": 2007,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "PANDAUL",
+      "grampanchayatname": "MEGHAUL",
+      "ihhltotalasperdetails": 1134,
+      "ihhltotalach": 1134,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "PANDAUL",
+      "grampanchayatname": "NARPATI NAGAR",
+      "ihhltotalasperdetails": 2053,
+      "ihhltotalach": 2053,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "PANDAUL",
+      "grampanchayatname": "PACHADHI",
+      "ihhltotalasperdetails": 1640,
+      "ihhltotalach": 1640,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "PANDAUL",
+      "grampanchayatname": "PANDAUL (EAST)",
+      "ihhltotalasperdetails": 1884,
+      "ihhltotalach": 1884,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "PANDAUL",
+      "grampanchayatname": "PANDAUL (MIDDLE)",
+      "ihhltotalasperdetails": 2267,
+      "ihhltotalach": 2267,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "PANDAUL",
+      "grampanchayatname": "PANDAUL (WEST)",
+      "ihhltotalasperdetails": 2590,
+      "ihhltotalach": 2590,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "PANDAUL",
+      "grampanchayatname": "SAGARPUR",
+      "ihhltotalasperdetails": 2360,
+      "ihhltotalach": 2360,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "PANDAUL",
+      "grampanchayatname": "SAKRI EAST",
+      "ihhltotalasperdetails": 1849,
+      "ihhltotalach": 1849,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "PANDAUL",
+      "grampanchayatname": "SAKRI WEST",
+      "ihhltotalasperdetails": 2026,
+      "ihhltotalach": 2026,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "PANDAUL",
+      "grampanchayatname": "SALEMPUR",
+      "ihhltotalasperdetails": 1058,
+      "ihhltotalach": 1058,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "PANDAUL",
+      "grampanchayatname": "SANKORTH",
+      "ihhltotalasperdetails": 1896,
+      "ihhltotalach": 1896,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "PANDAUL",
+      "grampanchayatname": "SARISAW PAHI (E)",
+      "ihhltotalasperdetails": 1733,
+      "ihhltotalach": 1733,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "PANDAUL",
+      "grampanchayatname": "SARISAW PAHI (W)",
+      "ihhltotalasperdetails": 1569,
+      "ihhltotalach": 1569,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "PANDAUL",
+      "grampanchayatname": "SRIPURHATI (M)",
+      "ihhltotalasperdetails": 1815,
+      "ihhltotalach": 1815,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "PANDAUL",
+      "grampanchayatname": "SRIPURHATI (N)",
+      "ihhltotalasperdetails": 1686,
+      "ihhltotalach": 1686,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "PANDAUL",
+      "grampanchayatname": "SRIPURHATI (S)",
+      "ihhltotalasperdetails": 1530,
+      "ihhltotalach": 1530,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "PANDAUL",
+      "grampanchayatname": "UDAIPUR BITHUAR",
+      "ihhltotalasperdetails": 1625,
+      "ihhltotalach": 1625,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "PHULPARAS",
+      "grampanchayatname": "BATHNAHA",
+      "ihhltotalasperdetails": 1192,
+      "ihhltotalach": 1192,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "PHULPARAS",
+      "grampanchayatname": "DHANAUJA",
+      "ihhltotalasperdetails": 713,
+      "ihhltotalach": 713,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "PHULPARAS",
+      "grampanchayatname": "DHARMDIHA",
+      "ihhltotalasperdetails": 2805,
+      "ihhltotalach": 2805,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "PHULPARAS",
+      "grampanchayatname": "GEHUMA BAIRIA",
+      "ihhltotalasperdetails": 2040,
+      "ihhltotalach": 2040,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "PHULPARAS",
+      "grampanchayatname": "GODHIARI",
+      "ihhltotalasperdetails": 1348,
+      "ihhltotalach": 1348,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "PHULPARAS",
+      "grampanchayatname": "KALAPATTI",
+      "ihhltotalasperdetails": 1164,
+      "ihhltotalach": 1164,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "PHULPARAS",
+      "grampanchayatname": "MAHATHAUR KHURD",
+      "ihhltotalasperdetails": 638,
+      "ihhltotalach": 638,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "PHULPARAS",
+      "grampanchayatname": "MAHIND BAR",
+      "ihhltotalasperdetails": 1100,
+      "ihhltotalach": 1100,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "PHULPARAS",
+      "grampanchayatname": "PHULPARAS",
+      "ihhltotalasperdetails": 1584,
+      "ihhltotalach": 1584,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "PHULPARAS",
+      "grampanchayatname": "RAM NAGAR",
+      "ihhltotalasperdetails": 1729,
+      "ihhltotalach": 1729,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "PHULPARAS",
+      "grampanchayatname": "SAINI",
+      "ihhltotalasperdetails": 1537,
+      "ihhltotalach": 1537,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "PHULPARAS",
+      "grampanchayatname": "SISWABARHI",
+      "ihhltotalasperdetails": 1731,
+      "ihhltotalach": 1731,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "PHULPARAS",
+      "grampanchayatname": "SISWAR",
+      "ihhltotalasperdetails": 2663,
+      "ihhltotalach": 2664,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "PHULPARAS",
+      "grampanchayatname": "SUGA PATTI",
+      "ihhltotalasperdetails": 1083,
+      "ihhltotalach": 1083,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "RAJNAGAR",
+      "grampanchayatname": "BHARIA BISANPUR",
+      "ihhltotalasperdetails": 1830,
+      "ihhltotalach": 1830,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "RAJNAGAR",
+      "grampanchayatname": "BHATSIMAR EAST",
+      "ihhltotalasperdetails": 1446,
+      "ihhltotalach": 1446,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "RAJNAGAR",
+      "grampanchayatname": "BHATSIMAR WEST",
+      "ihhltotalasperdetails": 1539,
+      "ihhltotalach": 1539,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "RAJNAGAR",
+      "grampanchayatname": "CHICHRI KANUNGO",
+      "ihhltotalasperdetails": 1819,
+      "ihhltotalach": 1819,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "RAJNAGAR",
+      "grampanchayatname": "KAITHAHI",
+      "ihhltotalasperdetails": 1775,
+      "ihhltotalach": 1775,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "RAJNAGAR",
+      "grampanchayatname": "KARAHIA EAST",
+      "ihhltotalasperdetails": 1973,
+      "ihhltotalach": 1973,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "RAJNAGAR",
+      "grampanchayatname": "KARAHIA WEST",
+      "ihhltotalasperdetails": 1751,
+      "ihhltotalach": 1751,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "RAJNAGAR",
+      "grampanchayatname": "KOILAKH",
+      "ihhltotalasperdetails": 1790,
+      "ihhltotalach": 1790,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "RAJNAGAR",
+      "grampanchayatname": "MAHINATHPUR",
+      "ihhltotalasperdetails": 925,
+      "ihhltotalach": 925,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "RAJNAGAR",
+      "grampanchayatname": "MANGRAUNI NORTH",
+      "ihhltotalasperdetails": 465,
+      "ihhltotalach": 465,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "RAJNAGAR",
+      "grampanchayatname": "MANGRAUNI SOUTH",
+      "ihhltotalasperdetails": 1924,
+      "ihhltotalach": 1924,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "RAJNAGAR",
+      "grampanchayatname": "PARIHARPUR",
+      "ihhltotalasperdetails": 1998,
+      "ihhltotalach": 1998,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "RAJNAGAR",
+      "grampanchayatname": "PATWARA NORTH",
+      "ihhltotalasperdetails": 1470,
+      "ihhltotalach": 1470,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "RAJNAGAR",
+      "grampanchayatname": "PATWARA SOUTH",
+      "ihhltotalasperdetails": 1904,
+      "ihhltotalach": 1904,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "RAJNAGAR",
+      "grampanchayatname": "PILAKHWAR",
+      "ihhltotalasperdetails": 1392,
+      "ihhltotalach": 1392,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "RAJNAGAR",
+      "grampanchayatname": "RAGHOPUR BALATH",
+      "ihhltotalasperdetails": 1229,
+      "ihhltotalach": 1229,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "RAJNAGAR",
+      "grampanchayatname": "RAGHUNI DEHAT",
+      "ihhltotalasperdetails": 1410,
+      "ihhltotalach": 1410,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "RAJNAGAR",
+      "grampanchayatname": "RAM PATTI",
+      "ihhltotalasperdetails": 1295,
+      "ihhltotalach": 1295,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "RAJNAGAR",
+      "grampanchayatname": "RANTI",
+      "ihhltotalasperdetails": 1307,
+      "ihhltotalach": 1307,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "RAJNAGAR",
+      "grampanchayatname": "SATGHARA",
+      "ihhltotalasperdetails": 2626,
+      "ihhltotalach": 2626,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "RAJNAGAR",
+      "grampanchayatname": "SIBIPATTI",
+      "ihhltotalasperdetails": 1153,
+      "ihhltotalach": 1153,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "RAJNAGAR",
+      "grampanchayatname": "SIMRI",
+      "ihhltotalasperdetails": 2086,
+      "ihhltotalach": 2086,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "RAJNAGAR",
+      "grampanchayatname": "SINGION",
+      "ihhltotalasperdetails": 1814,
+      "ihhltotalach": 1814,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "RAJNAGAR",
+      "grampanchayatname": "SUGAUNA NORTH",
+      "ihhltotalasperdetails": 1974,
+      "ihhltotalach": 1974,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "MADHUBANI",
+      "blockname": "RAJNAGAR",
+      "grampanchayatname": "SUGAUNA SOUTH",
+      "ihhltotalasperdetails": 1306,
+      "ihhltotalach": 1306,
+      "date": "5/19/2020 12:00:00 AM"
+    }
+  ]
+}

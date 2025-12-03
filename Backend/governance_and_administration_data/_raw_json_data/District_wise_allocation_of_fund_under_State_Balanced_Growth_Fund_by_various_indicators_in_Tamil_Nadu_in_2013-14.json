@@ -1,0 +1,2506 @@
+{
+  "index_name": "656cdf9e-cd82-4778-b99b-79593dd4f456",
+  "title": "District wise allocation of fund under State Balanced Growth Fund by various indicators in Tamil Nadu in 2013-14",
+  "desc": "District wise allocation of fund under State Balanced Growth Fund by various indicators in Tamil Nadu in 2013-14",
+  "org_type": "State",
+  "org": [
+    "Tamil Nadu",
+    "Planning, Development and Special Initiatives Department",
+    "State Development Policy Council (SDPC)"
+  ],
+  "sector": [
+    "Governance and Administration",
+    "Union/State Government Administration"
+  ],
+  "source": "tn.data.gov.in",
+  "catalog_uuid": "d3cf784a-1565-4ff0-8d80-8b82c2cd07d9",
+  "visualizable": "0",
+  "active": "1",
+  "created": 1760089018,
+  "updated": 1760089018,
+  "created_date": "2025-10-10T11:36:58Z",
+  "updated_date": "2025-10-10T11:36:58Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "d3cf784a-1565-4ff0-8d80-8b82c2cd07d9",
+    "field": "656cdf9e-cd82-4778-b99b-79593dd4f456"
+  },
+  "field": [
+    {
+      "id": "_s__no_",
+      "name": "S.No",
+      "type": "keyword"
+    },
+    {
+      "id": "name_of_the_district___department",
+      "name": "Name of the District / Department",
+      "type": "keyword"
+    },
+    {
+      "id": "name_of_the_backward_blocks",
+      "name": "Name of the Backward Blocks",
+      "type": "keyword"
+    },
+    {
+      "id": "name_of_the_project",
+      "name": "Name of the Project",
+      "type": "keyword"
+    },
+    {
+      "id": "type_of_indicator",
+      "name": "Type of Indicator",
+      "type": "keyword"
+    },
+    {
+      "id": "number_of_projects_",
+      "name": "Number of Projects",
+      "type": "double"
+    },
+    {
+      "id": "amount",
+      "name": "Amount",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 270,
+  "count": 270,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "_s__no_": "1",
+      "name_of_the_district___department": "Ariyalur",
+      "name_of_the_backward_blocks": "Ariyalur",
+      "name_of_the_project": "Equipments for Blood Bank",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 253000
+    },
+    {
+      "_s__no_": "2",
+      "name_of_the_district___department": "Ariyalur",
+      "name_of_the_backward_blocks": "Jayankondam",
+      "name_of_the_project": "Improving New Born Intensive Care Unit",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 3757000
+    },
+    {
+      "_s__no_": "Total",
+      "name_of_the_district___department": "Ariyalur",
+      "name_of_the_backward_blocks": "Total",
+      "name_of_the_project": "Total Project",
+      "type_of_indicator": "Total",
+      "number_of_projects_": 2,
+      "amount": 4010000
+    },
+    {
+      "_s__no_": "3",
+      "name_of_the_district___department": "Cuddalore",
+      "name_of_the_backward_blocks": "Kattumannarkoil",
+      "name_of_the_project": "Anaemia Control Programme (Hb) at Health Subcentre (HSC) Level",
+      "type_of_indicator": "Gender",
+      "number_of_projects_": 1,
+      "amount": 82333.33
+    },
+    {
+      "_s__no_": "4",
+      "name_of_the_district___department": "Cuddalore",
+      "name_of_the_backward_blocks": "Kattumannarkoil",
+      "name_of_the_project": "Provision of Anti shock Garments to 14 PHCs",
+      "type_of_indicator": "Gender",
+      "number_of_projects_": 1,
+      "amount": 142333.33
+    },
+    {
+      "_s__no_": "5",
+      "name_of_the_district___department": "Cuddalore",
+      "name_of_the_backward_blocks": "Kattumannarkoil",
+      "name_of_the_project": "Improving Detection Rate of Tuberculosis and HIV",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 954000
+    },
+    {
+      "_s__no_": "6",
+      "name_of_the_district___department": "Cuddalore",
+      "name_of_the_backward_blocks": "Mangalur",
+      "name_of_the_project": "Improving Detection Rate of Tuberculosis and HIV",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 954000
+    },
+    {
+      "_s__no_": "7",
+      "name_of_the_district___department": "Cuddalore",
+      "name_of_the_backward_blocks": "Mangalur",
+      "name_of_the_project": "Anaemia Control Programme (Hb) at Health Subcentre (HSC) Level",
+      "type_of_indicator": "Gender",
+      "number_of_projects_": 1,
+      "amount": 82333
+    },
+    {
+      "_s__no_": "8",
+      "name_of_the_district___department": "Cuddalore",
+      "name_of_the_backward_blocks": "Mangalur",
+      "name_of_the_project": "Provision of Anti Shock Garments to 14 PHCs",
+      "type_of_indicator": "Gender",
+      "number_of_projects_": 1,
+      "amount": 142333
+    },
+    {
+      "_s__no_": "9",
+      "name_of_the_district___department": "Cuddalore",
+      "name_of_the_backward_blocks": "Nallur",
+      "name_of_the_project": "Anaemia Control Programme (Hb) at Health Subcentre (HSC) Level",
+      "type_of_indicator": "Gender",
+      "number_of_projects_": 1,
+      "amount": 82333.33
+    },
+    {
+      "_s__no_": "10",
+      "name_of_the_district___department": "Cuddalore",
+      "name_of_the_backward_blocks": "Nallur",
+      "name_of_the_project": "Improving Detection Rate of Tuberculosis and HIV",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 954000
+    },
+    {
+      "_s__no_": "11",
+      "name_of_the_district___department": "Cuddalore",
+      "name_of_the_backward_blocks": "Nallur",
+      "name_of_the_project": "Provision of Anti Shock Garments to 14 PHCs",
+      "type_of_indicator": "Gender",
+      "number_of_projects_": 1,
+      "amount": 142333.33
+    },
+    {
+      "_s__no_": "Total",
+      "name_of_the_district___department": "Cuddalore",
+      "name_of_the_backward_blocks": "Total",
+      "name_of_the_project": "Total Project",
+      "type_of_indicator": "Total",
+      "number_of_projects_": 9,
+      "amount": 3536000
+    },
+    {
+      "_s__no_": "12",
+      "name_of_the_district___department": "Dindigul",
+      "name_of_the_backward_blocks": "Shanarpatti",
+      "name_of_the_project": "Production cum Training Centre for Ready - Made Garments",
+      "type_of_indicator": "Gender",
+      "number_of_projects_": 1,
+      "amount": 2500000
+    },
+    {
+      "_s__no_": "13",
+      "name_of_the_district___department": "Dindigul",
+      "name_of_the_backward_blocks": "Thoppampatti",
+      "name_of_the_project": "Manufacturing of Readymade Garments and Training Centre",
+      "type_of_indicator": "Employment",
+      "number_of_projects_": 1,
+      "amount": 3242500
+    },
+    {
+      "_s__no_": "Total",
+      "name_of_the_district___department": "Dindigul",
+      "name_of_the_backward_blocks": "Total",
+      "name_of_the_project": "Total Project",
+      "type_of_indicator": "Total",
+      "number_of_projects_": 2,
+      "amount": 5742500
+    },
+    {
+      "_s__no_": "14",
+      "name_of_the_district___department": "Dharmapuri",
+      "name_of_the_backward_blocks": "Morappur",
+      "name_of_the_project": "Development of Skills and Tailoring Training for Women",
+      "type_of_indicator": "Employment",
+      "number_of_projects_": 1,
+      "amount": 5700000
+    },
+    {
+      "_s__no_": "15",
+      "name_of_the_district___department": "Dharmapuri",
+      "name_of_the_backward_blocks": "Nallampalli",
+      "name_of_the_project": "Establishment of Coleus Drying Yard and Palmarosa Oil Extraction Unit (Medicinal and Aromatic Plants)",
+      "type_of_indicator": "Employment",
+      "number_of_projects_": 1,
+      "amount": 2500000
+    },
+    {
+      "_s__no_": "16",
+      "name_of_the_district___department": "Dharmapuri",
+      "name_of_the_backward_blocks": "Nallampalli",
+      "name_of_the_project": "Supply of Ultra Sound Scan Machines to PHC",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 750000
+    },
+    {
+      "_s__no_": "17",
+      "name_of_the_district___department": "Dharmapuri",
+      "name_of_the_backward_blocks": "Pennagaram",
+      "name_of_the_project": "Coir Automatic Yarn Spinning Unit",
+      "type_of_indicator": "Employment",
+      "number_of_projects_": 1,
+      "amount": 811000
+    },
+    {
+      "_s__no_": "18",
+      "name_of_the_district___department": "Dharmapuri",
+      "name_of_the_backward_blocks": "Pennagaram",
+      "name_of_the_project": "Development of Tamarind Processing Cluster at Thottalampatti and Ettiyampatti, Pennnagaram Taluk",
+      "type_of_indicator": "Gender",
+      "number_of_projects_": 1,
+      "amount": 3600000
+    },
+    {
+      "_s__no_": "19",
+      "name_of_the_district___department": "Dharmapuri",
+      "name_of_the_backward_blocks": "Pennagaram",
+      "name_of_the_project": "Supply of Ultra Sound Scan Machines to PHC",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 750000
+    },
+    {
+      "_s__no_": "Total",
+      "name_of_the_district___department": "Dharmapuri",
+      "name_of_the_backward_blocks": "Total",
+      "name_of_the_project": "Total Project",
+      "type_of_indicator": "Total",
+      "number_of_projects_": 6,
+      "amount": 14111000
+    },
+    {
+      "_s__no_": "20",
+      "name_of_the_district___department": "Erode",
+      "name_of_the_backward_blocks": "Talavadi",
+      "name_of_the_project": "Construction of Check Dam at Thotta Mudukkarai",
+      "type_of_indicator": "Income",
+      "number_of_projects_": 1,
+      "amount": 6900000
+    },
+    {
+      "_s__no_": "21",
+      "name_of_the_district___department": "Erode",
+      "name_of_the_backward_blocks": "Talavadi",
+      "name_of_the_project": "Construction of Neonatal Intensive Care Unit",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 14000000
+    },
+    {
+      "_s__no_": "22",
+      "name_of_the_district___department": "Erode",
+      "name_of_the_backward_blocks": "Talavadi",
+      "name_of_the_project": "Improving Nutritional Status and Anaemia Control Measures among School Children",
+      "type_of_indicator": "Gender",
+      "number_of_projects_": 1,
+      "amount": 2036000
+    },
+    {
+      "_s__no_": "23",
+      "name_of_the_district___department": "Erode",
+      "name_of_the_backward_blocks": "Talavadi",
+      "name_of_the_project": "Providing Additional Infrastructure Facilities for Food Processing Units run by Tribal Community in Hasanur",
+      "type_of_indicator": "Employment",
+      "number_of_projects_": 1,
+      "amount": 3500000
+    },
+    {
+      "_s__no_": "24",
+      "name_of_the_district___department": "Erode",
+      "name_of_the_backward_blocks": "Talavadi",
+      "name_of_the_project": "Rearing of Genetically Improved Poultry",
+      "type_of_indicator": "Poverty",
+      "number_of_projects_": 1,
+      "amount": 525000
+    },
+    {
+      "_s__no_": "Total",
+      "name_of_the_district___department": "Erode",
+      "name_of_the_backward_blocks": "Total",
+      "name_of_the_project": "Total Project",
+      "type_of_indicator": "Total",
+      "number_of_projects_": 5,
+      "amount": 26961000
+    },
+    {
+      "_s__no_": "25",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Alangayam",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "26",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Alathur",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "27",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Andipatti",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "28",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Annavasal",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "29",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Aravakurichi",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "30",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Ariyalur",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "31",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Ayodhyapattinam",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "32",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Bargur",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "33",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Bogalur",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "34",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Chengam",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "35",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Erumaipatti",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "36",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Gandarvakkottai",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "37",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Hosur",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "38",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Ilayangudi",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "39",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Jawathu Hills",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "40",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Jayankondam",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "41",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "K.Paramathy",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "42",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Kadaladi",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "43",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Kadamalaikundru-Myladumparai",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "44",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Kadavur",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "45",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Kadayampatti",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "46",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Kallakkurichi",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "47",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Kallal",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "48",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Kallikudi",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "49",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Kalrayan Hills",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "50",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Kamuthi",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "51",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Kandamangalam",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "52",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Kandili",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "53",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Kannankudi",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "54",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Karambakkudi",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "55",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Kariapatti",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "56",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Karimangalam",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "57",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Kattumannarkoil",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "58",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Kayatharu",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "59",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Kelamangalam",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "60",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Kolli Hills",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "61",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Konganapuram",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "62",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Koradacheri",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "63",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Kottur",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "64",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Kovilpatti",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "65",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Krishnarayapuram",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "66",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Kundadam",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "67",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Kurivikulam",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "68",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Mallasamudram",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "69",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Mangalur",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "70",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Mathur",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "71",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Melaneelithanallur",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "72",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Morappur",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "73",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Mudukulathur",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "74",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Nallampalli",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "75",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Nallur",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "76",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Namagiripettai",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "77",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Nangavalli",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "78",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Narikudi",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "79",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Natham",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "80",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Ottapidaram",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "81",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Palakkodu",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "82",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Panamarathupatti",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "83",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Pappireddipatti",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "84",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Paramakudi",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "85",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Pethanaickenpalayam",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "86",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Pudupalayam",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "87",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Pudur",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "88",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Reddiyarchatiram",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "89",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "S.Pudur",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "90",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Sathankulam",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "91",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Sattur",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "92",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Sedapatti",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "93",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Sendurai",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "94",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Shanarpatti",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "95",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Shoolagiri",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "96",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Singampuneri",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "97",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "T.Kallupatti",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "98",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "T.Palur",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "99",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Talavadi",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "100",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Thally",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "101",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Thandarampet",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "102",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Thanthoni",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "103",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Thiagadurgam",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "104",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Thirumanur",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "105",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Thiruppuvanam",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "106",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Thiruvennainallur",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "107",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Thogaimalai",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "108",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Thoppampatti",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "109",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Timiri",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "110",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Tirupullani",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "111",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Tiruvarankulam",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "112",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Udangudi",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "113",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Uthangarai",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "114",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Vadamadurai",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "115",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Vadipatti",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "116",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Watrap",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "117",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Vembakottai",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "118",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Vennanthur",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "119",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Veppanapalli",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "120",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Veppanthattai",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "121",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Veppur",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "122",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Vilathikulam",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "123",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Yercaud",
+      "name_of_the_project": "Upgradation of Baby Friendly Toilets in 6747 AWCs.\n(Rs.20,000/ - Per Baby Friendly Toilet)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1363030.3
+    },
+    {
+      "_s__no_": "Total",
+      "name_of_the_district___department": "Integrated Child Development Services (ICDS)",
+      "name_of_the_backward_blocks": "Total",
+      "name_of_the_project": "Total Project",
+      "type_of_indicator": "Total",
+      "number_of_projects_": 99,
+      "amount": 134940000
+    },
+    {
+      "_s__no_": "124",
+      "name_of_the_district___department": "Krishnagiri",
+      "name_of_the_backward_blocks": "Shoolagiri",
+      "name_of_the_project": "Enhancing Profitability of Farming by Empowering Farmers and Farm Women through Small Farm Mechanisation",
+      "type_of_indicator": "Gender",
+      "number_of_projects_": 1,
+      "amount": 3666000
+    },
+    {
+      "_s__no_": "125",
+      "name_of_the_district___department": "Krishnagiri",
+      "name_of_the_backward_blocks": "Shoolagiri",
+      "name_of_the_project": "Provision of Share Autos and Goods Carriers to Hill villages through VPRC",
+      "type_of_indicator": "Poverty",
+      "number_of_projects_": 1,
+      "amount": 1200000
+    },
+    {
+      "_s__no_": "126",
+      "name_of_the_district___department": "Krishnagiri",
+      "name_of_the_backward_blocks": "Thally",
+      "name_of_the_project": "Project on Dairy and allied Activities for Tribal families",
+      "type_of_indicator": "Poverty",
+      "number_of_projects_": 1,
+      "amount": 4354000
+    },
+    {
+      "_s__no_": "127",
+      "name_of_the_district___department": "Krishnagiri",
+      "name_of_the_backward_blocks": "Thally",
+      "name_of_the_project": "Project on Goat Rearing for Tribal Families",
+      "type_of_indicator": "Poverty",
+      "number_of_projects_": 1,
+      "amount": 6913000
+    },
+    {
+      "_s__no_": "128",
+      "name_of_the_district___department": "Krishnagiri",
+      "name_of_the_backward_blocks": "Thally",
+      "name_of_the_project": "Provision of Share Autos and Goods Carriers to Hill Villages through VPRC",
+      "type_of_indicator": "Poverty",
+      "number_of_projects_": 1,
+      "amount": 1200000
+    },
+    {
+      "_s__no_": "129",
+      "name_of_the_district___department": "Krishnagiri",
+      "name_of_the_backward_blocks": "Thally",
+      "name_of_the_project": "Multipurpose Training Centres",
+      "type_of_indicator": "Gender",
+      "number_of_projects_": 1,
+      "amount": 5500000
+    },
+    {
+      "_s__no_": "Total",
+      "name_of_the_district___department": "Krishnagiri",
+      "name_of_the_backward_blocks": "Total",
+      "name_of_the_project": "Total Project",
+      "type_of_indicator": "Total",
+      "number_of_projects_": 6,
+      "amount": 22833000
+    },
+    {
+      "_s__no_": "130",
+      "name_of_the_district___department": "Karur",
+      "name_of_the_backward_blocks": "K.Paramathy",
+      "name_of_the_project": "Training cum Readymade Garments Production / Stitching Unit",
+      "type_of_indicator": "Gender",
+      "number_of_projects_": 1,
+      "amount": 8220000
+    },
+    {
+      "_s__no_": "Total",
+      "name_of_the_district___department": "Karur",
+      "name_of_the_backward_blocks": "Total",
+      "name_of_the_project": "Total Project",
+      "type_of_indicator": "Total",
+      "number_of_projects_": 1,
+      "amount": 8220000
+    },
+    {
+      "_s__no_": "131",
+      "name_of_the_district___department": "Madurai",
+      "name_of_the_backward_blocks": "Kallikudi",
+      "name_of_the_project": "Behavioral Change Communication for Anemia Control among Pregnant Women and Adolescent girls",
+      "type_of_indicator": "Gender",
+      "number_of_projects_": 1,
+      "amount": 1471250
+    },
+    {
+      "_s__no_": "132",
+      "name_of_the_district___department": "Madurai",
+      "name_of_the_backward_blocks": "Kallikudi",
+      "name_of_the_project": "Construction of Seed Storage Units (2 x 100 mt)",
+      "type_of_indicator": "Income",
+      "number_of_projects_": 1,
+      "amount": 1100000
+    },
+    {
+      "_s__no_": "133",
+      "name_of_the_district___department": "Madurai",
+      "name_of_the_backward_blocks": "Kallikudi",
+      "name_of_the_project": "Behavioral Change Communication for Anemia Control among Pregnant Women and Adolescent girls",
+      "type_of_indicator": "Income",
+      "number_of_projects_": 1,
+      "amount": 2205000
+    },
+    {
+      "_s__no_": "134",
+      "name_of_the_district___department": "Madurai",
+      "name_of_the_backward_blocks": "Sedapatti",
+      "name_of_the_project": "Behavioral Change Communication for Anemia Control among Pregnant Women and Adolescent girls",
+      "type_of_indicator": "Gender",
+      "number_of_projects_": 1,
+      "amount": 1471250
+    },
+    {
+      "_s__no_": "135",
+      "name_of_the_district___department": "Madurai",
+      "name_of_the_backward_blocks": "Sedapatti",
+      "name_of_the_project": "Construction of Seed Storage Units (2 x 100 mt)",
+      "type_of_indicator": "Income",
+      "number_of_projects_": 1,
+      "amount": 1100000
+    },
+    {
+      "_s__no_": "136",
+      "name_of_the_district___department": "Madurai",
+      "name_of_the_backward_blocks": "T. Kallupatti",
+      "name_of_the_project": "Behavioral Change Communication for Anemia Control among Pregnant Women and Adolescent girls",
+      "type_of_indicator": "Gender",
+      "number_of_projects_": 1,
+      "amount": 1471250
+    },
+    {
+      "_s__no_": "137",
+      "name_of_the_district___department": "Madurai",
+      "name_of_the_backward_blocks": "Vadipatti",
+      "name_of_the_project": "Behavioral Change Communication for Anemia Control among Pregnant Women and Adolescent girls",
+      "type_of_indicator": "Gender",
+      "number_of_projects_": 1,
+      "amount": 1471250
+    },
+    {
+      "_s__no_": "Total",
+      "name_of_the_district___department": "Madurai",
+      "name_of_the_backward_blocks": "Total",
+      "name_of_the_project": "Total Project",
+      "type_of_indicator": "Total",
+      "number_of_projects_": 7,
+      "amount": 10290000
+    },
+    {
+      "_s__no_": "138",
+      "name_of_the_district___department": "Namakkal",
+      "name_of_the_backward_blocks": "Kolli Hills",
+      "name_of_the_project": "Health and Nutrition Intervention towards Healthy Generation for Tribals of Kolli Hills in Namakkal",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 825000
+    },
+    {
+      "_s__no_": "139",
+      "name_of_the_district___department": "Namakkal",
+      "name_of_the_backward_blocks": "Kolli Hills",
+      "name_of_the_project": "Livelihood Intervention towards Enhancing Farmers Income",
+      "type_of_indicator": "Poverty",
+      "number_of_projects_": 1,
+      "amount": 1233000
+    },
+    {
+      "_s__no_": "140",
+      "name_of_the_district___department": "Namakkal",
+      "name_of_the_backward_blocks": "Kolli Hills",
+      "name_of_the_project": "Providing Remedial Education towards Primary Education for Tribals",
+      "type_of_indicator": "Education",
+      "number_of_projects_": 1,
+      "amount": 1120000
+    },
+    {
+      "_s__no_": "141",
+      "name_of_the_district___department": "Namakkal",
+      "name_of_the_backward_blocks": "Mallasamudram",
+      "name_of_the_project": "Reviving Buffalo Farming for Drought Prone Area for Year around Income",
+      "type_of_indicator": "Income",
+      "number_of_projects_": 1,
+      "amount": 5000000
+    },
+    {
+      "_s__no_": "Total",
+      "name_of_the_district___department": "Namakkal",
+      "name_of_the_backward_blocks": "Total",
+      "name_of_the_project": "Total Project",
+      "type_of_indicator": "Total",
+      "number_of_projects_": 4,
+      "amount": 8178000
+    },
+    {
+      "_s__no_": "142",
+      "name_of_the_district___department": "Pudukkottai",
+      "name_of_the_backward_blocks": "Annavasal",
+      "name_of_the_project": "Community Shadenet Nursery for Raising Hybrid Vegetables",
+      "type_of_indicator": "Income",
+      "number_of_projects_": 1,
+      "amount": 1620000
+    },
+    {
+      "_s__no_": "143",
+      "name_of_the_district___department": "Pudukkottai",
+      "name_of_the_backward_blocks": "Annavasal",
+      "name_of_the_project": "IFS Villages",
+      "type_of_indicator": "Income",
+      "number_of_projects_": 1,
+      "amount": 6976000
+    },
+    {
+      "_s__no_": "144",
+      "name_of_the_district___department": "Pudukkottai",
+      "name_of_the_backward_blocks": "Annavasal",
+      "name_of_the_project": "Mushroom Cultivation in Thatched Shed and Shadenet house",
+      "type_of_indicator": "Employment",
+      "number_of_projects_": 1,
+      "amount": 450000
+    },
+    {
+      "_s__no_": "145",
+      "name_of_the_district___department": "Pudukkottai",
+      "name_of_the_backward_blocks": "Gandarvakkottai",
+      "name_of_the_project": "Construction of Classrooms, Science Lab, Library, Art and Craft lab, Office Room and HM Room to the Government Higher Secondary school, Veladippatti, Gandharvakottai",
+      "type_of_indicator": "Education",
+      "number_of_projects_": 1,
+      "amount": 11010000
+    },
+    {
+      "_s__no_": "146",
+      "name_of_the_district___department": "Pudukkottai",
+      "name_of_the_backward_blocks": "Karambakkudi",
+      "name_of_the_project": "Community Shadenet Nursery for Raising Hybrid Vegetables Seedlings",
+      "type_of_indicator": "Income",
+      "number_of_projects_": 1,
+      "amount": 1620000
+    },
+    {
+      "_s__no_": "Total",
+      "name_of_the_district___department": "Pudukottai",
+      "name_of_the_backward_blocks": "Total",
+      "name_of_the_project": "Total Project",
+      "type_of_indicator": "Total",
+      "number_of_projects_": 5,
+      "amount": 21676000
+    },
+    {
+      "_s__no_": "147",
+      "name_of_the_district___department": "Perambalur",
+      "name_of_the_backward_blocks": "Alathur",
+      "name_of_the_project": "Additional Health Equipments",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 4400000
+    },
+    {
+      "_s__no_": "148",
+      "name_of_the_district___department": "Perambalur",
+      "name_of_the_backward_blocks": "Alathur",
+      "name_of_the_project": "Common Facility Center",
+      "type_of_indicator": "Employment",
+      "number_of_projects_": 1,
+      "amount": 12000000
+    },
+    {
+      "_s__no_": "149",
+      "name_of_the_district___department": "Perambalur",
+      "name_of_the_backward_blocks": "Alathur",
+      "name_of_the_project": "Farmer Facilitation Center",
+      "type_of_indicator": "Employment",
+      "number_of_projects_": 1,
+      "amount": 5250000
+    },
+    {
+      "_s__no_": "150",
+      "name_of_the_district___department": "Perambalur",
+      "name_of_the_backward_blocks": "Alathur",
+      "name_of_the_project": "Skill Development and Training Centre",
+      "type_of_indicator": "Employment",
+      "number_of_projects_": 1,
+      "amount": 3000000
+    },
+    {
+      "_s__no_": "151",
+      "name_of_the_district___department": "Perambalur",
+      "name_of_the_backward_blocks": "Veppanthattai",
+      "name_of_the_project": "Additional Health Equipments",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 4400000
+    },
+    {
+      "_s__no_": "152",
+      "name_of_the_district___department": "Perambalur",
+      "name_of_the_backward_blocks": "Veppanthattai",
+      "name_of_the_project": "Skill Development and Training Centre",
+      "type_of_indicator": "Employment",
+      "number_of_projects_": 1,
+      "amount": 3000000
+    },
+    {
+      "_s__no_": "153",
+      "name_of_the_district___department": "Perambalur",
+      "name_of_the_backward_blocks": "Veppur",
+      "name_of_the_project": "Additional Health Equipments",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 4400000
+    },
+    {
+      "_s__no_": "154",
+      "name_of_the_district___department": "Perambalur",
+      "name_of_the_backward_blocks": "Veppur",
+      "name_of_the_project": "Farmer Facilitation Center",
+      "type_of_indicator": "Employment",
+      "number_of_projects_": 1,
+      "amount": 5250000
+    },
+    {
+      "_s__no_": "155",
+      "name_of_the_district___department": "Perambalur",
+      "name_of_the_backward_blocks": "Veppur",
+      "name_of_the_project": "Skill Development and Training Centre",
+      "type_of_indicator": "Employment",
+      "number_of_projects_": 1,
+      "amount": 3000000
+    },
+    {
+      "_s__no_": "156",
+      "name_of_the_district___department": "Perambalur",
+      "name_of_the_backward_blocks": "Veppur",
+      "name_of_the_project": "Upgradation of 4 Nos., of Existing Looming Centres",
+      "type_of_indicator": "Poverty",
+      "number_of_projects_": 1,
+      "amount": 11200000
+    },
+    {
+      "_s__no_": "Total",
+      "name_of_the_district___department": "Perambalur",
+      "name_of_the_backward_blocks": "Total",
+      "name_of_the_project": "Total Project",
+      "type_of_indicator": "Total",
+      "number_of_projects_": 10,
+      "amount": 55900000
+    },
+    {
+      "_s__no_": "157",
+      "name_of_the_district___department": "Ramnathapuram",
+      "name_of_the_backward_blocks": "Kadaladi",
+      "name_of_the_project": "Anemia Control Programme",
+      "type_of_indicator": "Gender",
+      "number_of_projects_": 1,
+      "amount": 3450000
+    },
+    {
+      "_s__no_": "158",
+      "name_of_the_district___department": "Ramnathapuram",
+      "name_of_the_backward_blocks": "Kadaladi",
+      "name_of_the_project": "Block level Coaching for Outstanding Students",
+      "type_of_indicator": "Education",
+      "number_of_projects_": 1,
+      "amount": 1875000
+    },
+    {
+      "_s__no_": "159",
+      "name_of_the_district___department": "Ramnathapuram",
+      "name_of_the_backward_blocks": "Kadaladi",
+      "name_of_the_project": "Gampuchia Fish Hatcheries Units",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 7500000
+    },
+    {
+      "_s__no_": "160",
+      "name_of_the_district___department": "Ramnathapuram",
+      "name_of_the_backward_blocks": "Kadaladi",
+      "name_of_the_project": "Provision of (10 X 5 m) Tarpaulin Sheets",
+      "type_of_indicator": "Income",
+      "number_of_projects_": 1,
+      "amount": 1250000
+    },
+    {
+      "_s__no_": "161",
+      "name_of_the_district___department": "Ramnathapuram",
+      "name_of_the_backward_blocks": "Kadaladi",
+      "name_of_the_project": "Provision of Community based Chilli Dryers",
+      "type_of_indicator": "Income",
+      "number_of_projects_": 1,
+      "amount": 1250000
+    },
+    {
+      "_s__no_": "162",
+      "name_of_the_district___department": "Ramnathapuram",
+      "name_of_the_backward_blocks": "Kamuthi",
+      "name_of_the_project": "Anemia Control Programme",
+      "type_of_indicator": "Gender",
+      "number_of_projects_": 1,
+      "amount": 3450000
+    },
+    {
+      "_s__no_": "163",
+      "name_of_the_district___department": "Ramnathapuram",
+      "name_of_the_backward_blocks": "Kamuthi",
+      "name_of_the_project": "Provision of (10 X 5 m) Tarpaulin Sheets",
+      "type_of_indicator": "Income",
+      "number_of_projects_": 1,
+      "amount": 1250000
+    },
+    {
+      "_s__no_": "164",
+      "name_of_the_district___department": "Ramnathapuram",
+      "name_of_the_backward_blocks": "Kamuthi",
+      "name_of_the_project": "Provision of Community based Chilli Dryers",
+      "type_of_indicator": "Income",
+      "number_of_projects_": 1,
+      "amount": 1250000
+    },
+    {
+      "_s__no_": "165",
+      "name_of_the_district___department": "Ramnathapuram",
+      "name_of_the_backward_blocks": "Mudukulathur",
+      "name_of_the_project": "Appointment of Part Time Teachers",
+      "type_of_indicator": "Education",
+      "number_of_projects_": 1,
+      "amount": 1026000
+    },
+    {
+      "_s__no_": "166",
+      "name_of_the_district___department": "Ramnathapuram",
+      "name_of_the_backward_blocks": "Mudukulathur",
+      "name_of_the_project": "Establishment of 2 Poultry Incubators in Mudhukulathur Block through Vattara Magamai of Pudhu Vaazhvu Project",
+      "type_of_indicator": "Poverty",
+      "number_of_projects_": 1,
+      "amount": 391680
+    },
+    {
+      "_s__no_": "167",
+      "name_of_the_district___department": "Ramnathapuram",
+      "name_of_the_backward_blocks": "Mudukulathur",
+      "name_of_the_project": "Provision of Transport Facilities for Remote Villages of Mudukulathur Block through Trained Youths of Village Poverty Reduction Committees",
+      "type_of_indicator": "Poverty",
+      "number_of_projects_": 1,
+      "amount": 3950000
+    },
+    {
+      "_s__no_": "Total",
+      "name_of_the_district___department": "Ramnathapuram",
+      "name_of_the_backward_blocks": "Total",
+      "name_of_the_project": "Total Project",
+      "type_of_indicator": "Total",
+      "number_of_projects_": 11,
+      "amount": 26642680
+    },
+    {
+      "_s__no_": "168",
+      "name_of_the_district___department": "Sivaganga",
+      "name_of_the_backward_blocks": "Ilayangudi",
+      "name_of_the_project": "Distribution of Silpaulin Sheets for Drying Chillies",
+      "type_of_indicator": "Income",
+      "number_of_projects_": 1,
+      "amount": 1789200
+    },
+    {
+      "_s__no_": "169",
+      "name_of_the_district___department": "Sivaganga",
+      "name_of_the_backward_blocks": "Ilayangudi",
+      "name_of_the_project": "Neo - natal Ambulance",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 3000000
+    },
+    {
+      "_s__no_": "170",
+      "name_of_the_district___department": "Sivaganga",
+      "name_of_the_backward_blocks": "Ilayangudi",
+      "name_of_the_project": "Sustained Agriculture by Introducing Irrigation Infrastructure",
+      "type_of_indicator": "Income",
+      "number_of_projects_": 1,
+      "amount": 2700000
+    },
+    {
+      "_s__no_": "171",
+      "name_of_the_district___department": "Sivaganga",
+      "name_of_the_backward_blocks": "Kalayarkoil",
+      "name_of_the_project": "The Proposal for Sericulture Development Project",
+      "type_of_indicator": "Employment",
+      "number_of_projects_": 1,
+      "amount": 808650
+    },
+    {
+      "_s__no_": "172",
+      "name_of_the_district___department": "Sivaganga",
+      "name_of_the_backward_blocks": "Kannankudi",
+      "name_of_the_project": "Construction and Rejuvenation of Community Bore - Wells",
+      "type_of_indicator": "Employment",
+      "number_of_projects_": 1,
+      "amount": 1087500
+    },
+    {
+      "_s__no_": "173",
+      "name_of_the_district___department": "Sivaganga",
+      "name_of_the_backward_blocks": "Kannankudi",
+      "name_of_the_project": "HIV/AIDS Awareness Programme in Rural Area",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 388333.33
+    },
+    {
+      "_s__no_": "174",
+      "name_of_the_district___department": "Sivaganga",
+      "name_of_the_backward_blocks": "S.Pudur",
+      "name_of_the_project": "Community Sowing of Millets and Fodder Crops for Increasing the Crop Productivity in Agriculturally Backward 'S.Pudur block'",
+      "type_of_indicator": "Income",
+      "number_of_projects_": 1,
+      "amount": 690000
+    },
+    {
+      "_s__no_": "175",
+      "name_of_the_district___department": "Sivaganga",
+      "name_of_the_backward_blocks": "S.Pudur",
+      "name_of_the_project": "Construction and Rejuvenation of Community Bore - Wells",
+      "type_of_indicator": "Employment",
+      "number_of_projects_": 1,
+      "amount": 1087500
+    },
+    {
+      "_s__no_": "176",
+      "name_of_the_district___department": "Sivaganga",
+      "name_of_the_backward_blocks": "S.Pudur",
+      "name_of_the_project": "Custom Hiring based Mechnaization for Increasing the Groundnut Productivity in Agriculturally Backward 'S.Pudur block'",
+      "type_of_indicator": "Income",
+      "number_of_projects_": 1,
+      "amount": 1630000
+    },
+    {
+      "_s__no_": "177",
+      "name_of_the_district___department": "Sivaganga",
+      "name_of_the_backward_blocks": "S.Pudur",
+      "name_of_the_project": "HIV/AIDS Awareness Programme in Rural Area",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 388333.33
+    },
+    {
+      "_s__no_": "178",
+      "name_of_the_district___department": "Sivaganga",
+      "name_of_the_backward_blocks": "S.Pudur",
+      "name_of_the_project": "Introduction of Improved Practice to Utilise Community Well for the Expansion of Agricultural Area in 'S.Pudur block'",
+      "type_of_indicator": "Employment",
+      "number_of_projects_": 1,
+      "amount": 181800
+    },
+    {
+      "_s__no_": "179",
+      "name_of_the_district___department": "Sivaganga",
+      "name_of_the_backward_blocks": "S.Pudur",
+      "name_of_the_project": "Productivity Improvement in Mango Production",
+      "type_of_indicator": "Income",
+      "number_of_projects_": 1,
+      "amount": 384000
+    },
+    {
+      "_s__no_": "180",
+      "name_of_the_district___department": "Sivaganga",
+      "name_of_the_backward_blocks": "S.Pudur",
+      "name_of_the_project": "The Proposal for Sericulture Development Project",
+      "type_of_indicator": "Employment",
+      "number_of_projects_": 1,
+      "amount": 808650
+    },
+    {
+      "_s__no_": "181",
+      "name_of_the_district___department": "Sivaganga",
+      "name_of_the_backward_blocks": "Singampuneri",
+      "name_of_the_project": "Community Sowing of Millets and Fodder Crops for Increasing the Crop Productivity in Agriculturally Backward 'Singampuneri Block'",
+      "type_of_indicator": "Income",
+      "number_of_projects_": 1,
+      "amount": 957500
+    },
+    {
+      "_s__no_": "182",
+      "name_of_the_district___department": "Sivaganga",
+      "name_of_the_backward_blocks": "Singampuneri",
+      "name_of_the_project": "Custom Hiring based Mechnaization for Increasing the Groundnut Productivity in Agriculturally Backward 'Singampunari Block'",
+      "type_of_indicator": "Income",
+      "number_of_projects_": 1,
+      "amount": 1675000
+    },
+    {
+      "_s__no_": "183",
+      "name_of_the_district___department": "Sivaganga",
+      "name_of_the_backward_blocks": "Singampuneri",
+      "name_of_the_project": "HIV/AIDS Awareness Programme in Rural Area",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 388333.33
+    },
+    {
+      "_s__no_": "184",
+      "name_of_the_district___department": "Sivaganga",
+      "name_of_the_backward_blocks": "Singampuneri",
+      "name_of_the_project": "Introduction of Improved Practice to Utilise Community Well for the Expansion of Agricultural Area",
+      "type_of_indicator": "Employment",
+      "number_of_projects_": 1,
+      "amount": 653760
+    },
+    {
+      "_s__no_": "185",
+      "name_of_the_district___department": "Sivaganga",
+      "name_of_the_backward_blocks": "Singampuneri",
+      "name_of_the_project": "The Proposal for Sericulture Development Project",
+      "type_of_indicator": "Employment",
+      "number_of_projects_": 1,
+      "amount": 808650
+    },
+    {
+      "_s__no_": "186",
+      "name_of_the_district___department": "Sivaganga",
+      "name_of_the_backward_blocks": "Sivaganga",
+      "name_of_the_project": "The Proposal for Sericulture Development Project",
+      "type_of_indicator": "Employment",
+      "number_of_projects_": 1,
+      "amount": 808650
+    },
+    {
+      "_s__no_": "Total",
+      "name_of_the_district___department": "Sivaganga",
+      "name_of_the_backward_blocks": "Total",
+      "name_of_the_project": "Total Project",
+      "type_of_indicator": "Total",
+      "number_of_projects_": 19,
+      "amount": 20235860
+    },
+    {
+      "_s__no_": "187",
+      "name_of_the_district___department": "Tirunelveli",
+      "name_of_the_backward_blocks": "Kurivikulam",
+      "name_of_the_project": "Ornamental Fish Culture",
+      "type_of_indicator": "Employment",
+      "number_of_projects_": 1,
+      "amount": 452500
+    },
+    {
+      "_s__no_": "188",
+      "name_of_the_district___department": "Tirunelveli",
+      "name_of_the_backward_blocks": "Melaneelithanallur",
+      "name_of_the_project": "Comprehensive Programme for MMR and IMR Reduction",
+      "type_of_indicator": "Gender",
+      "number_of_projects_": 1,
+      "amount": 4631000
+    },
+    {
+      "_s__no_": "189",
+      "name_of_the_district___department": "Tirunelveli",
+      "name_of_the_backward_blocks": "Melaneelithanallur",
+      "name_of_the_project": "Ornamental Fish Culture",
+      "type_of_indicator": "Employment",
+      "number_of_projects_": 1,
+      "amount": 452500
+    },
+    {
+      "_s__no_": "Total",
+      "name_of_the_district___department": "Tirunelveli",
+      "name_of_the_backward_blocks": "Total",
+      "name_of_the_project": "Total Project",
+      "type_of_indicator": "Total",
+      "number_of_projects_": 3,
+      "amount": 5536000
+    },
+    {
+      "_s__no_": "190",
+      "name_of_the_district___department": "Tiruchirappalli",
+      "name_of_the_backward_blocks": "Thuraiyur",
+      "name_of_the_project": "Construction of BT road and Cross Drainage Works - Kinathur, Silaiyur, Nesakulam and Vallam",
+      "type_of_indicator": "Poverty",
+      "number_of_projects_": 1,
+      "amount": 12950000
+    },
+    {
+      "_s__no_": "Total",
+      "name_of_the_district___department": "Tiruchirappalli",
+      "name_of_the_backward_blocks": "Total",
+      "name_of_the_project": "Total Project",
+      "type_of_indicator": "Total",
+      "number_of_projects_": 1,
+      "amount": 12950000
+    },
+    {
+      "_s__no_": "191",
+      "name_of_the_district___department": "Tiruppur",
+      "name_of_the_backward_blocks": "Kundadam",
+      "name_of_the_project": "Construction of Blood Bank",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1500000
+    },
+    {
+      "_s__no_": "192",
+      "name_of_the_district___department": "Tiruppur",
+      "name_of_the_backward_blocks": "Kundadam",
+      "name_of_the_project": "Construction of Major Check Dam at Eragampatti Village",
+      "type_of_indicator": "Income",
+      "number_of_projects_": 1,
+      "amount": 820000
+    },
+    {
+      "_s__no_": "193",
+      "name_of_the_district___department": "Tiruppur",
+      "name_of_the_backward_blocks": "Kundadam",
+      "name_of_the_project": "Construction of Major Check Dam at Kundadam Village",
+      "type_of_indicator": "Income",
+      "number_of_projects_": 1,
+      "amount": 450000
+    },
+    {
+      "_s__no_": "Total",
+      "name_of_the_district___department": "Tiruppur",
+      "name_of_the_backward_blocks": "Total",
+      "name_of_the_project": "Total Project",
+      "type_of_indicator": "Total",
+      "number_of_projects_": 3,
+      "amount": 2770000
+    },
+    {
+      "_s__no_": "194",
+      "name_of_the_district___department": "Tiruvarur",
+      "name_of_the_backward_blocks": "Koradacheri",
+      "name_of_the_project": "Fodder Cultiviation - Koradacheri Block",
+      "type_of_indicator": "Poverty",
+      "number_of_projects_": 1,
+      "amount": 552000
+    },
+    {
+      "_s__no_": "195",
+      "name_of_the_district___department": "Tiruvarur",
+      "name_of_the_backward_blocks": "Koradacheri",
+      "name_of_the_project": "Goat Rearing Activity through Stall Feed Method - Koradacheri Block",
+      "type_of_indicator": "Poverty",
+      "number_of_projects_": 1,
+      "amount": 5780000
+    },
+    {
+      "_s__no_": "196",
+      "name_of_the_district___department": "Tiruvarur",
+      "name_of_the_backward_blocks": "Kottur",
+      "name_of_the_project": "Coir based Activity - Kottur Block",
+      "type_of_indicator": "Poverty",
+      "number_of_projects_": 1,
+      "amount": 2364580
+    },
+    {
+      "_s__no_": "197",
+      "name_of_the_district___department": "Tiruvarur",
+      "name_of_the_backward_blocks": "Kottur",
+      "name_of_the_project": "Fish Culture in Tanks (Inland Fishing) Kottur and Koradacherry",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 192000
+    },
+    {
+      "_s__no_": "198",
+      "name_of_the_district___department": "Tiruvarur",
+      "name_of_the_backward_blocks": "Kottur",
+      "name_of_the_project": "Purchase of Semi Auto Analiser to PHC - Kottur and Koradacheri Block",
+      "type_of_indicator": "Poverty",
+      "number_of_projects_": 1,
+      "amount": 265350
+    },
+    {
+      "_s__no_": "199",
+      "name_of_the_district___department": "Tiruvarur",
+      "name_of_the_backward_blocks": "Kottur",
+      "name_of_the_project": "Vegetable Cultivation - Kottur Block",
+      "type_of_indicator": "Poverty",
+      "number_of_projects_": 1,
+      "amount": 252000
+    },
+    {
+      "_s__no_": "Total",
+      "name_of_the_district___department": "Tiruvarur",
+      "name_of_the_backward_blocks": "Total",
+      "name_of_the_project": "Total Project",
+      "type_of_indicator": "Total",
+      "number_of_projects_": 6,
+      "amount": 9405930
+    },
+    {
+      "_s__no_": "200",
+      "name_of_the_district___department": "Thoothukudi",
+      "name_of_the_backward_blocks": "Kayatharu",
+      "name_of_the_project": "Anaemia Control Programme",
+      "type_of_indicator": "Gender",
+      "number_of_projects_": 1,
+      "amount": 6925000
+    },
+    {
+      "_s__no_": "201",
+      "name_of_the_district___department": "Thoothukudi",
+      "name_of_the_backward_blocks": "Kayatharu",
+      "name_of_the_project": "Construction of Advanced Poly House for Vegetables (Cucumber, Brinjal etc)",
+      "type_of_indicator": "Income",
+      "number_of_projects_": 1,
+      "amount": 7572000
+    },
+    {
+      "_s__no_": "202",
+      "name_of_the_district___department": "Thoothukudi",
+      "name_of_the_backward_blocks": "Kayatharu",
+      "name_of_the_project": "Intensive Campaign for HOB Reduction",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 449000
+    },
+    {
+      "_s__no_": "203",
+      "name_of_the_district___department": "Thoothukudi",
+      "name_of_the_backward_blocks": "Kovilpatti",
+      "name_of_the_project": "Common Facility Centre for the Manufacture of Match Boxes",
+      "type_of_indicator": "Employment",
+      "number_of_projects_": 1,
+      "amount": 4500000
+    },
+    {
+      "_s__no_": "204",
+      "name_of_the_district___department": "Thoothukudi",
+      "name_of_the_backward_blocks": "Kovilpatti",
+      "name_of_the_project": "Construction of Women Shelter in Kovil Patti",
+      "type_of_indicator": "Gender",
+      "number_of_projects_": 1,
+      "amount": 8590000
+    },
+    {
+      "_s__no_": "205",
+      "name_of_the_district___department": "Thoothukudi",
+      "name_of_the_backward_blocks": "Kovilpatti",
+      "name_of_the_project": "Establishment of Cattle Feed Production unit at Sivanthipatti Village in Kovilpatti",
+      "type_of_indicator": "Income",
+      "number_of_projects_": 1,
+      "amount": 2827000
+    },
+    {
+      "_s__no_": "206",
+      "name_of_the_district___department": "Thoothukudi",
+      "name_of_the_backward_blocks": "Kovilpatti",
+      "name_of_the_project": "IFS Villages",
+      "type_of_indicator": "Income",
+      "number_of_projects_": 1,
+      "amount": 2187500
+    },
+    {
+      "_s__no_": "207",
+      "name_of_the_district___department": "Thoothukudi",
+      "name_of_the_backward_blocks": "Ottapidaram",
+      "name_of_the_project": "IFS Villages",
+      "type_of_indicator": "Income",
+      "number_of_projects_": 1,
+      "amount": 2187500
+    },
+    {
+      "_s__no_": "208",
+      "name_of_the_district___department": "Thoothukudi",
+      "name_of_the_backward_blocks": "Pudur",
+      "name_of_the_project": "Construction of Road in Sennampatti village",
+      "type_of_indicator": "Income",
+      "number_of_projects_": 1,
+      "amount": 16000000
+    },
+    {
+      "_s__no_": "209",
+      "name_of_the_district___department": "Thoothukudi",
+      "name_of_the_backward_blocks": "Pudur",
+      "name_of_the_project": "IFS Villages",
+      "type_of_indicator": "Income",
+      "number_of_projects_": 1,
+      "amount": 2187500
+    },
+    {
+      "_s__no_": "210",
+      "name_of_the_district___department": "Thoothukudi",
+      "name_of_the_backward_blocks": "Sathankulam",
+      "name_of_the_project": "Enhancement of Coconut Productivity and Production",
+      "type_of_indicator": "Income",
+      "number_of_projects_": 1,
+      "amount": 3971000
+    },
+    {
+      "_s__no_": "211",
+      "name_of_the_district___department": "Thoothukudi",
+      "name_of_the_backward_blocks": "Vilathikulam",
+      "name_of_the_project": "IFS Villages",
+      "type_of_indicator": "Income",
+      "number_of_projects_": 1,
+      "amount": 2187500
+    },
+    {
+      "_s__no_": "Total",
+      "name_of_the_district___department": "Thoothukudi",
+      "name_of_the_backward_blocks": "Total",
+      "name_of_the_project": "Total Project",
+      "type_of_indicator": "Total",
+      "number_of_projects_": 12,
+      "amount": 59584000
+    },
+    {
+      "_s__no_": "212",
+      "name_of_the_district___department": "Tiruvannamalai",
+      "name_of_the_backward_blocks": "Jawathu Hills",
+      "name_of_the_project": "Health and Nutrition Intervention towards Healthy Generation for Tribals of Javadhu Hills",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 825000
+    },
+    {
+      "_s__no_": "213",
+      "name_of_the_district___department": "Tiruvannamalai",
+      "name_of_the_backward_blocks": "Jawathu Hills",
+      "name_of_the_project": "Livelihood Intervention towards Enhancing Farmers Income",
+      "type_of_indicator": "Poverty",
+      "number_of_projects_": 1,
+      "amount": 1233000
+    },
+    {
+      "_s__no_": "214",
+      "name_of_the_district___department": "Tiruvannamalai",
+      "name_of_the_backward_blocks": "Jawathu Hills",
+      "name_of_the_project": "Providing Remedial Education towards Primary Education for Tribals of Javadhu Hills",
+      "type_of_indicator": "Education",
+      "number_of_projects_": 1,
+      "amount": 1120000
+    },
+    {
+      "_s__no_": "Total",
+      "name_of_the_district___department": "Tiruvannamalai",
+      "name_of_the_backward_blocks": "Total",
+      "name_of_the_project": "Total Project",
+      "type_of_indicator": "Total",
+      "number_of_projects_": 3,
+      "amount": 3178000
+    },
+    {
+      "_s__no_": "215",
+      "name_of_the_district___department": "Vellore",
+      "name_of_the_backward_blocks": "Alangayam",
+      "name_of_the_project": "Enhancement of livelihood to Tamarind Value Addition - Alangayam Block",
+      "type_of_indicator": "Poverty",
+      "number_of_projects_": 1,
+      "amount": 520500
+    },
+    {
+      "_s__no_": "216",
+      "name_of_the_district___department": "Vellore",
+      "name_of_the_backward_blocks": "Alangayam",
+      "name_of_the_project": "Estabilishment of Samai Mini Mill - Alangayam Block",
+      "type_of_indicator": "Poverty",
+      "number_of_projects_": 1,
+      "amount": 600000
+    },
+    {
+      "_s__no_": "217",
+      "name_of_the_district___department": "Vellore",
+      "name_of_the_backward_blocks": "Alangayam",
+      "name_of_the_project": "Establishment of Nurseries for Vegetable Cultivation - Alangayam Block",
+      "type_of_indicator": "Income",
+      "number_of_projects_": 1,
+      "amount": 375000
+    },
+    {
+      "_s__no_": "218",
+      "name_of_the_district___department": "Vellore",
+      "name_of_the_backward_blocks": "Alangayam",
+      "name_of_the_project": "Establishment of Solar Tunnel Copra Dryers - Alangayam Block",
+      "type_of_indicator": "Income",
+      "number_of_projects_": 1,
+      "amount": 1400000
+    },
+    {
+      "_s__no_": "219",
+      "name_of_the_district___department": "Vellore",
+      "name_of_the_backward_blocks": "Kandili",
+      "name_of_the_project": "Establishment of Poly Green House for Capsicum Cultivation - Kandili Block",
+      "type_of_indicator": "Income",
+      "number_of_projects_": 1,
+      "amount": 1405000
+    },
+    {
+      "_s__no_": "220",
+      "name_of_the_district___department": "Vellore",
+      "name_of_the_backward_blocks": "Timiri",
+      "name_of_the_project": "Establishment of Community Storage Godown - Timiri Block",
+      "type_of_indicator": "Income",
+      "number_of_projects_": 1,
+      "amount": 6286000
+    },
+    {
+      "_s__no_": "Total",
+      "name_of_the_district___department": "Vellore",
+      "name_of_the_backward_blocks": "Total",
+      "name_of_the_project": "Total Project",
+      "type_of_indicator": "Total",
+      "number_of_projects_": 6,
+      "amount": 10586500
+    },
+    {
+      "_s__no_": "221",
+      "name_of_the_district___department": "Virudhunagar",
+      "name_of_the_backward_blocks": "Narikudi",
+      "name_of_the_project": "Construction of Additional Class Room, Furniture and Compound Walls",
+      "type_of_indicator": "Education",
+      "number_of_projects_": 1,
+      "amount": 1250000
+    },
+    {
+      "_s__no_": "222",
+      "name_of_the_district___department": "Virudhunagar",
+      "name_of_the_backward_blocks": "Narikudi",
+      "name_of_the_project": "Neonatal Ambulance Services with Medical Equipments",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 1596000
+    },
+    {
+      "_s__no_": "223",
+      "name_of_the_district___department": "Virudhunagar",
+      "name_of_the_backward_blocks": "Narikudi",
+      "name_of_the_project": "Sustained Agriculture by Introducing Improvement of Digging of Borewell with Solar Powered Pumping System",
+      "type_of_indicator": "Income",
+      "number_of_projects_": 1,
+      "amount": 1569000
+    },
+    {
+      "_s__no_": "224",
+      "name_of_the_district___department": "Virudhunagar",
+      "name_of_the_backward_blocks": "Narikudi",
+      "name_of_the_project": "Sustained Agriculture by Introducing Improvement of Dry Land",
+      "type_of_indicator": "Income",
+      "number_of_projects_": 1,
+      "amount": 1568000
+    },
+    {
+      "_s__no_": "225",
+      "name_of_the_district___department": "Virudhunagar",
+      "name_of_the_backward_blocks": "Sattur",
+      "name_of_the_project": "A Project Proposal for a Plastic Shredding Unit at Padanthal Village, Virudhunagar District",
+      "type_of_indicator": "Employment",
+      "number_of_projects_": 1,
+      "amount": 1265000
+    },
+    {
+      "_s__no_": "226",
+      "name_of_the_district___department": "Virudhunagar",
+      "name_of_the_backward_blocks": "Sattur",
+      "name_of_the_project": "Creation of a Common Facility Centre for Turning the Periyaodaipatti (NALLI) Garment Cluster into a Productive Company",
+      "type_of_indicator": "Employment",
+      "number_of_projects_": 1,
+      "amount": 2230000
+    },
+    {
+      "_s__no_": "227",
+      "name_of_the_district___department": "Virudhunagar",
+      "name_of_the_backward_blocks": "Srivilliputhur",
+      "name_of_the_project": "Construction of Additional Class Room, Furniture and Compound Walls",
+      "type_of_indicator": "Education",
+      "number_of_projects_": 1,
+      "amount": 1250000
+    },
+    {
+      "_s__no_": "Total",
+      "name_of_the_district___department": "Virudhunagar",
+      "name_of_the_backward_blocks": "Total",
+      "name_of_the_project": "Total Project",
+      "type_of_indicator": "Total",
+      "number_of_projects_": 7,
+      "amount": 10728000
+    },
+    {
+      "_s__no_": "228",
+      "name_of_the_district___department": "Villupuram",
+      "name_of_the_backward_blocks": "Kalrayan Hills",
+      "name_of_the_project": "Blood Storage Centre",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 723000
+    },
+    {
+      "_s__no_": "229",
+      "name_of_the_district___department": "Villupuram",
+      "name_of_the_backward_blocks": "Kalrayan Hills",
+      "name_of_the_project": "Construction of Recharge Shafts and Checkdam",
+      "type_of_indicator": "Income",
+      "number_of_projects_": 1,
+      "amount": 8700000
+    },
+    {
+      "_s__no_": "230",
+      "name_of_the_district___department": "Villupuram",
+      "name_of_the_backward_blocks": "Kalrayan Hills",
+      "name_of_the_project": "Demonstration Plots (200 farmers), Distribution of Silver Oak Seedlings for 750 Farmers, Exposure visit, Tapioca Cutter (for 500 farmers), Agriculture Information Centre",
+      "type_of_indicator": "Poverty",
+      "number_of_projects_": 1,
+      "amount": 6250000
+    },
+    {
+      "_s__no_": "231",
+      "name_of_the_district___department": "Villupuram",
+      "name_of_the_backward_blocks": "Kalrayan Hills",
+      "name_of_the_project": "Drinking Water, Toilet, Additional Building, New Buildings and Compound Wall to GTR Schools at Kalrayan Hills",
+      "type_of_indicator": "Education",
+      "number_of_projects_": 1,
+      "amount": 43945000
+    },
+    {
+      "_s__no_": "232",
+      "name_of_the_district___department": "Villupuram",
+      "name_of_the_backward_blocks": "Kalrayan Hills",
+      "name_of_the_project": "Formation and Improvement to Sirukkalur Falls Road km. 0/0 - 5/5",
+      "type_of_indicator": "Poverty",
+      "number_of_projects_": 1,
+      "amount": 16000000
+    },
+    {
+      "_s__no_": "233",
+      "name_of_the_district___department": "Villupuram",
+      "name_of_the_backward_blocks": "Kalrayan Hills",
+      "name_of_the_project": "Formation and Improvements to Eluthur to Chinnathurupathi Road in km 0/0 - 22/0",
+      "type_of_indicator": "Poverty",
+      "number_of_projects_": 1,
+      "amount": 120000000
+    },
+    {
+      "_s__no_": "234",
+      "name_of_the_district___department": "Villupuram",
+      "name_of_the_backward_blocks": "Kalrayan Hills",
+      "name_of_the_project": "Formation and Improvements to Karunelliupiuriviu to Manapachi Road in km 0/0 - 13/0",
+      "type_of_indicator": "Poverty",
+      "number_of_projects_": 1,
+      "amount": 65000000
+    },
+    {
+      "_s__no_": "235",
+      "name_of_the_district___department": "Villupuram",
+      "name_of_the_backward_blocks": "Kalrayan Hills",
+      "name_of_the_project": "Health and Nutrition Intervention Towards Healthy Generation for Kalrayan Hills",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 825000
+    },
+    {
+      "_s__no_": "236",
+      "name_of_the_district___department": "Villupuram",
+      "name_of_the_backward_blocks": "Kalrayan Hills",
+      "name_of_the_project": "Hospital Workers Quarters (8 No's)",
+      "type_of_indicator": "Poverty",
+      "number_of_projects_": 1,
+      "amount": 8000000
+    },
+    {
+      "_s__no_": "237",
+      "name_of_the_district___department": "Villupuram",
+      "name_of_the_backward_blocks": "Kalrayan Hills",
+      "name_of_the_project": "Improvemennt to Mel vazhapadi to Megam - Falls Road",
+      "type_of_indicator": "Poverty",
+      "number_of_projects_": 1,
+      "amount": 25000000
+    },
+    {
+      "_s__no_": "238",
+      "name_of_the_district___department": "Villupuram",
+      "name_of_the_backward_blocks": "Kalrayan Hills",
+      "name_of_the_project": "Livelihood Intervention Towards Enhancing Farmers Income",
+      "type_of_indicator": "Poverty",
+      "number_of_projects_": 1,
+      "amount": 1233000
+    },
+    {
+      "_s__no_": "239",
+      "name_of_the_district___department": "Villupuram",
+      "name_of_the_backward_blocks": "Kalrayan Hills",
+      "name_of_the_project": "Medical Officers Quarters at 3 PHCs and 1 CHC (11)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 22000000
+    },
+    {
+      "_s__no_": "240",
+      "name_of_the_district___department": "Villupuram",
+      "name_of_the_backward_blocks": "Kalrayan Hills",
+      "name_of_the_project": "Milk Collection Centres",
+      "type_of_indicator": "Poverty",
+      "number_of_projects_": 1,
+      "amount": 9245000
+    },
+    {
+      "_s__no_": "241",
+      "name_of_the_district___department": "Villupuram",
+      "name_of_the_backward_blocks": "Kalrayan Hills",
+      "name_of_the_project": "Millet Processing Unit (4 regions)",
+      "type_of_indicator": "Income",
+      "number_of_projects_": 1,
+      "amount": 3706000
+    },
+    {
+      "_s__no_": "242",
+      "name_of_the_district___department": "Villupuram",
+      "name_of_the_backward_blocks": "Kalrayan Hills",
+      "name_of_the_project": "Providing Remedial Education Towards Primary Education for All",
+      "type_of_indicator": "Education",
+      "number_of_projects_": 1,
+      "amount": 1120000
+    },
+    {
+      "_s__no_": "243",
+      "name_of_the_district___department": "Villupuram",
+      "name_of_the_backward_blocks": "Kalrayan Hills",
+      "name_of_the_project": "Purchase of 3 No's of Four Wheeler Vehicles for Mobility Support in Immunization, Outreach Camps and Other Activities",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 2500000
+    },
+    {
+      "_s__no_": "244",
+      "name_of_the_district___department": "Villupuram",
+      "name_of_the_backward_blocks": "Kalrayan Hills",
+      "name_of_the_project": "Skill Development for Youth",
+      "type_of_indicator": "Employment",
+      "number_of_projects_": 1,
+      "amount": 4451000
+    },
+    {
+      "_s__no_": "245",
+      "name_of_the_district___department": "Villupuram",
+      "name_of_the_backward_blocks": "Kalrayan Hills",
+      "name_of_the_project": "Staff Nurse Quarters (6 No's)",
+      "type_of_indicator": "Health",
+      "number_of_projects_": 1,
+      "amount": 19500000
+    },
+    {
+      "_s__no_": "246",
+      "name_of_the_district___department": "Villupuram",
+      "name_of_the_backward_blocks": "Kandamangalam",
+      "name_of_the_project": "Construction of Bulk Milk Cooler",
+      "type_of_indicator": "Income",
+      "number_of_projects_": 1,
+      "amount": 2644800
+    },
+    {
+      "_s__no_": "Total",
+      "name_of_the_district___department": "Villupuram",
+      "name_of_the_backward_blocks": "Total",
+      "name_of_the_project": "Total Project",
+      "type_of_indicator": "Total",
+      "number_of_projects_": 19,
+      "amount": 360842800
+    },
+    {
+      "_s__no_": "Total",
+      "name_of_the_district___department": "District / Department Total",
+      "name_of_the_backward_blocks": "All Backward Blocks",
+      "name_of_the_project": "Total All Projects",
+      "type_of_indicator": "Grand Total",
+      "number_of_projects_": 246,
+      "amount": 838857270
+    }
+  ]
+}

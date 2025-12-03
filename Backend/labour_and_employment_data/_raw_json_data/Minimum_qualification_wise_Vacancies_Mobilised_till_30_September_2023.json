@@ -1,0 +1,128 @@
+{
+  "index_name": "2b626094-54f8-45ad-a7a4-ecdac222334d",
+  "title": "Minimum qualification wise Vacancies Mobilised till 30 June 2022",
+  "desc": "Minimum qualification wise Vacancies Mobilised till 30 June 2022",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Labour and Employment"
+  ],
+  "sector": [
+    "Labour and Employment"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "11f7723c-ea55-4ad6-b2b9-9cd7e2a0e46f",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1694766644,
+  "updated": 1694769167,
+  "created_date": "2023-09-15T10:30:44Z",
+  "updated_date": "2023-09-15T14:42:47Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "11f7723c-ea55-4ad6-b2b9-9cd7e2a0e46f",
+    "field": "2b626094-54f8-45ad-a7a4-ecdac222334d"
+  },
+  "field": [
+    {
+      "id": "minimum_qualification",
+      "name": "Minimum Qualification",
+      "type": "keyword"
+    },
+    {
+      "id": "sum_of_total_no__of_vacancies",
+      "name": "Sum of Total No. of Vacancies",
+      "type": "double"
+    },
+    {
+      "id": "data_upto",
+      "name": "Data Upto",
+      "type": "date"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 15,
+  "count": 15,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "minimum_qualification": "10th Pass",
+      "sum_of_total_no__of_vacancies": 1024461,
+      "data_upto": "2022-06-30T10:31:04Z"
+    },
+    {
+      "minimum_qualification": "11th",
+      "sum_of_total_no__of_vacancies": 1285,
+      "data_upto": "2022-06-30T10:31:04Z"
+    },
+    {
+      "minimum_qualification": "12th Pass",
+      "sum_of_total_no__of_vacancies": 2103107,
+      "data_upto": "2022-06-30T10:31:04Z"
+    },
+    {
+      "minimum_qualification": "Diploma After 10th",
+      "sum_of_total_no__of_vacancies": 359637,
+      "data_upto": "2022-06-30T10:31:04Z"
+    },
+    {
+      "minimum_qualification": "Diploma After 12th",
+      "sum_of_total_no__of_vacancies": 548025,
+      "data_upto": "2022-06-30T10:31:04Z"
+    },
+    {
+      "minimum_qualification": "Graduate",
+      "sum_of_total_no__of_vacancies": 4213675,
+      "data_upto": "2022-06-30T10:31:04Z"
+    },
+    {
+      "minimum_qualification": "ITI",
+      "sum_of_total_no__of_vacancies": 95895,
+      "data_upto": "2022-06-30T10:31:04Z"
+    },
+    {
+      "minimum_qualification": "No Schooling",
+      "sum_of_total_no__of_vacancies": 696079,
+      "data_upto": "2022-06-30T10:31:04Z"
+    },
+    {
+      "minimum_qualification": "NotSpecified",
+      "sum_of_total_no__of_vacancies": 196856,
+      "data_upto": "2022-06-30T10:31:04Z"
+    },
+    {
+      "minimum_qualification": "PG Diploma",
+      "sum_of_total_no__of_vacancies": 3940,
+      "data_upto": "2022-06-30T10:31:04Z"
+    },
+    {
+      "minimum_qualification": "PHD / Super Specialist",
+      "sum_of_total_no__of_vacancies": 31699,
+      "data_upto": "2022-06-30T10:31:04Z"
+    },
+    {
+      "minimum_qualification": "Post Graduate",
+      "sum_of_total_no__of_vacancies": 498350,
+      "data_upto": "2022-06-30T10:31:04Z"
+    },
+    {
+      "minimum_qualification": "Upto 8th",
+      "sum_of_total_no__of_vacancies": 136721,
+      "data_upto": "2022-06-30T10:31:04Z"
+    },
+    {
+      "minimum_qualification": "Upto 9th",
+      "sum_of_total_no__of_vacancies": 140129,
+      "data_upto": "2022-06-30T10:31:04Z"
+    },
+    {
+      "minimum_qualification": "Grand Total",
+      "sum_of_total_no__of_vacancies": 10049859,
+      "data_upto": "2022-06-30T10:31:04Z"
+    }
+  ]
+}

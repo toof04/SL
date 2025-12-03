@@ -1,0 +1,83 @@
+{
+  "index_name": "41c5169c-3fe8-4c3e-8084-e7b2af034dde",
+  "title": "Age Group wise Jobseeker Registration till 30 June 2022",
+  "desc": "Age Group wise Jobseeker Registration till 30 June 2022",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Labour and Employment"
+  ],
+  "sector": [
+    "Labour and Employment"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "11f7723c-ea55-4ad6-b2b9-9cd7e2a0e46f",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1694766601,
+  "updated": 1694769165,
+  "created_date": "2023-09-15T10:30:01Z",
+  "updated_date": "2023-09-15T14:42:45Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "11f7723c-ea55-4ad6-b2b9-9cd7e2a0e46f",
+    "field": "41c5169c-3fe8-4c3e-8084-e7b2af034dde"
+  },
+  "field": [
+    {
+      "id": "age_group",
+      "name": "Age Group",
+      "type": "keyword"
+    },
+    {
+      "id": "total_jobseeker_registration",
+      "name": "Total jobseeker Registration",
+      "type": "double"
+    },
+    {
+      "id": "data_upto",
+      "name": "Data Upto",
+      "type": "date"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 6,
+  "count": 6,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "age_group": "15-18",
+      "total_jobseeker_registration": 6577911,
+      "data_upto": "2022-06-30T10:30:23Z"
+    },
+    {
+      "age_group": "25-34",
+      "total_jobseeker_registration": 13710110,
+      "data_upto": "2022-06-30T10:30:23Z"
+    },
+    {
+      "age_group": "35-44",
+      "total_jobseeker_registration": 4016767,
+      "data_upto": "2022-06-30T10:30:23Z"
+    },
+    {
+      "age_group": "45-54",
+      "total_jobseeker_registration": 1227644,
+      "data_upto": "2022-06-30T10:30:23Z"
+    },
+    {
+      "age_group": "55-64",
+      "total_jobseeker_registration": 301772,
+      "data_upto": "2022-06-30T10:30:23Z"
+    },
+    {
+      "age_group": "65 & Above",
+      "total_jobseeker_registration": 99877,
+      "data_upto": "2022-06-30T10:30:23Z"
+    }
+  ]
+}

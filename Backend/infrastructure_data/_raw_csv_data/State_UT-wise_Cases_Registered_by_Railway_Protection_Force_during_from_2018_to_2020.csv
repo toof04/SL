@@ -1,0 +1,40 @@
+"Si. No (Col. 1)","Category ","State/UT (Col. 2)","2018 - (Col. 3)","2019 - (Col. 4)","2020 - (Col. 5)","Mid-Year Projected Population (in Lakhs) (2020) - (Col. 6)","Rate of Cognizable Crimes (2020) - (Col. 7)"
+1,State,"Andhra Pradesh",74654,59821,13596,526,25.8
+2,State,"Arunachal Pradesh",0,0,0,15.2,0
+3,State,Assam,8698,8819,2101,347.9,6
+4,State,Bihar,41400,29553,8666,1219,7.1
+5,State,Chhattisgarh,23987,21461,4897,292.4,16.7
+6,State,Goa,464,661,109,15.5,7
+7,State,Gujarat,74214,72469,19651,691.7,28.4
+8,State,Haryana,14950,13187,3495,292.1,12
+9,State,"Himachal Pradesh",323,268,41,73.6,0.6
+10,State,Jharkhand,25715,19958,5094,381.2,13.4
+11,State,Karnataka,34396,30575,8917,665,13.4
+12,State,Kerala,28458,35197,7997,353.7,22.6
+13,State,"Madhya Pradesh",89036,61748,19099,837.6,22.8
+14,State,Maharashtra,223289,244866,68215,1236.8,55.2
+15,State,Manipur,0,0,0,31.4,0
+16,State,Meghalaya,0,0,0,32.6,0
+17,State,Mizoram,0,0,0,12.1,0
+18,State,Nagaland,214,384,109,21.8,5
+19,State,Odisha,41897,32173,6416,454.7,14.1
+20,State,Punjab,20967,19231,3621,301.8,12
+21,State,Rajasthan,66487,50627,17812,786.1,22.7
+22,State,Sikkim,0,0,0,6.7,0
+23,State,"Tamil Nadu",79383,56652,12036,761.7,15.8
+24,State,Telangana,16839,11602,3070,375.4,8.2
+25,State,Tripura,83,152,63,40.4,1.6
+26,State,"Uttar Pradesh",140386,111431,28753,2289.3,12.6
+27,State,Uttarakhand,6225,5206,1339,113.1,11.8
+28,State,"West Bengal",54107,47817,13932,977.2,14.3
+"Total State(s)","Total State(s)","Total State(s)",1066172,933858,249029,13151.8,18.9
+29,"Union Territories","A & N Islands",0,0,0,4,0
+30,"Union Territories",Chandigarh,1124,755,76,12,6.3
+31,"Union Territories","D & N Haveli and Daman & Diu",0,0,0,10.4,0
+32,"Union Territories",Delhi,24432,13045,4758,203.2,23.4
+33,"Union Territories","Jammu & Kashmir",2661,1783,706,133.4,5.3
+34,"Union Territories",Ladakh,0,0,0,3,0
+35,"Union Territories",Lakshadweep,0,0,0,0.7,0
+36,"Union Territories",Puducherry,295,254,67,15.5,4.3
+"Total UT(s)","Total UT(s)","Total UT(s)",28512,15837,5607,382.1,14.7
+"Total All India","Total All India","Total All India",1094684,949695,254636,13533.9,18.8

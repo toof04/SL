@@ -1,0 +1,213 @@
+{
+  "index_name": "1817e9a6-98a3-4e2a-a05d-c2c7b047f6a0",
+  "title": "Occupation-wise number of registrations of unorganised workers till 23-02-2023",
+  "desc": "Occupation-wise number of registrations of unorganised workers till 23-02-2023",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Labour and Employment"
+  ],
+  "sector": [
+    "Labour and Employment"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "a2553f9a-62f2-4f6c-9d5f-d4ae0942ddfa",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1680072464,
+  "updated": 1680072978,
+  "created_date": "2023-03-29T08:47:44Z",
+  "updated_date": "2023-03-29T12:26:18Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "a2553f9a-62f2-4f6c-9d5f-d4ae0942ddfa",
+    "field": "1817e9a6-98a3-4e2a-a05d-c2c7b047f6a0"
+  },
+  "field": [
+    {
+      "id": "primary_occupation",
+      "name": "Primary_Occupation",
+      "type": "keyword"
+    },
+    {
+      "id": "registration_count",
+      "name": "Registration_Count",
+      "type": "double"
+    },
+    {
+      "id": "last_updated",
+      "name": "Last_Updated",
+      "type": "date"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 32,
+  "count": 32,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "primary_occupation": "AGRICULTURE",
+      "registration_count": 149939978,
+      "last_updated": "2023-02-23T08:48:18Z"
+    },
+    {
+      "primary_occupation": "APPAREL",
+      "registration_count": 17892024,
+      "last_updated": "2023-02-23T08:48:18Z"
+    },
+    {
+      "primary_occupation": "AUTOMOBILE & TRANSPORTATION",
+      "registration_count": 8006221,
+      "last_updated": "2023-02-23T08:48:18Z"
+    },
+    {
+      "primary_occupation": "BEAUTY & WELLNESS",
+      "registration_count": 1889448,
+      "last_updated": "2023-02-23T08:48:18Z"
+    },
+    {
+      "primary_occupation": "BFSI",
+      "registration_count": 40996,
+      "last_updated": "2023-02-23T08:48:18Z"
+    },
+    {
+      "primary_occupation": "CAPITAL GOODS & MANUFACTURING",
+      "registration_count": 6732308,
+      "last_updated": "2023-02-23T08:48:18Z"
+    },
+    {
+      "primary_occupation": "CONSTRUCTION",
+      "registration_count": 25983686,
+      "last_updated": "2023-02-23T08:48:18Z"
+    },
+    {
+      "primary_occupation": "DOMESTIC AND HOUSEHOLD WORKERS",
+      "registration_count": 27922613,
+      "last_updated": "2023-02-23T08:48:18Z"
+    },
+    {
+      "primary_occupation": "EDUCATION",
+      "registration_count": 4858604,
+      "last_updated": "2023-02-23T08:48:18Z"
+    },
+    {
+      "primary_occupation": "ELECTRONICS & HW",
+      "registration_count": 4732986,
+      "last_updated": "2023-02-23T08:48:18Z"
+    },
+    {
+      "primary_occupation": "FOOD INDUSTRY",
+      "registration_count": 950338,
+      "last_updated": "2023-02-23T08:48:18Z"
+    },
+    {
+      "primary_occupation": "GEM & JEWELLERY",
+      "registration_count": 647147,
+      "last_updated": "2023-02-23T08:48:18Z"
+    },
+    {
+      "primary_occupation": "GLASS & CERAMICS",
+      "registration_count": 58532,
+      "last_updated": "2023-02-23T08:48:18Z"
+    },
+    {
+      "primary_occupation": "HANDICRAFTS & CARPETS",
+      "registration_count": 2164079,
+      "last_updated": "2023-02-23T08:48:18Z"
+    },
+    {
+      "primary_occupation": "HEALTHCARE",
+      "registration_count": 3093220,
+      "last_updated": "2023-02-23T08:48:18Z"
+    },
+    {
+      "primary_occupation": "LEATHER INDUSTRY WORKS",
+      "registration_count": 5581598,
+      "last_updated": "2023-02-23T08:48:18Z"
+    },
+    {
+      "primary_occupation": "MINING",
+      "registration_count": 430977,
+      "last_updated": "2023-02-23T08:48:18Z"
+    },
+    {
+      "primary_occupation": "MISCELLANEOUS",
+      "registration_count": 12207857,
+      "last_updated": "2023-02-23T08:48:18Z"
+    },
+    {
+      "primary_occupation": "MUSICAL INSTRUMENTS",
+      "registration_count": 95054,
+      "last_updated": "2023-02-23T08:48:18Z"
+    },
+    {
+      "primary_occupation": "NOT PROVIDED",
+      "registration_count": 77198,
+      "last_updated": "2023-02-23T08:48:18Z"
+    },
+    {
+      "primary_occupation": "OFFICE ADMINISTRATION & FACILITY MANAGEMENT",
+      "registration_count": 2205735,
+      "last_updated": "2023-02-23T08:48:18Z"
+    },
+    {
+      "primary_occupation": "ORGANISED RETAIL",
+      "registration_count": 81707,
+      "last_updated": "2023-02-23T08:48:18Z"
+    },
+    {
+      "primary_occupation": "OTHERS",
+      "registration_count": 107,
+      "last_updated": "2023-02-23T08:48:18Z"
+    },
+    {
+      "primary_occupation": "PRINTING",
+      "registration_count": 461382,
+      "last_updated": "2023-02-23T08:48:18Z"
+    },
+    {
+      "primary_occupation": "PRIVATE SECURITY",
+      "registration_count": 418663,
+      "last_updated": "2023-02-23T08:48:18Z"
+    },
+    {
+      "primary_occupation": "PROFESSIONALS",
+      "registration_count": 756506,
+      "last_updated": "2023-02-23T08:48:18Z"
+    },
+    {
+      "primary_occupation": "RETAIL",
+      "registration_count": 2236565,
+      "last_updated": "2023-02-23T08:48:18Z"
+    },
+    {
+      "primary_occupation": "SERVICE",
+      "registration_count": 263955,
+      "last_updated": "2023-02-23T08:48:18Z"
+    },
+    {
+      "primary_occupation": "TEXTILE & HANDLOOM",
+      "registration_count": 192400,
+      "last_updated": "2023-02-23T08:48:18Z"
+    },
+    {
+      "primary_occupation": "TOBACCO INDUSTRY",
+      "registration_count": 2131060,
+      "last_updated": "2023-02-23T08:48:18Z"
+    },
+    {
+      "primary_occupation": "TOURISM & HOSPITALITY",
+      "registration_count": 3812473,
+      "last_updated": "2023-02-23T08:48:18Z"
+    },
+    {
+      "primary_occupation": "WOOD & CARPENTRY",
+      "registration_count": 174104,
+      "last_updated": "2023-02-23T08:48:18Z"
+    }
+  ]
+}

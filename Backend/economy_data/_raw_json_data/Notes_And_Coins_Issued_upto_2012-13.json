@@ -1,0 +1,329 @@
+{
+  "created": 1496986509,
+  "updated": 1543531886,
+  "title": "Notes And Coins Issued upto 2012-13",
+  "source": "data.gov.in",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Statistics and Programme Implementation"
+  ],
+  "sector": [
+    "Economy",
+    "Statistics"
+  ],
+  "visualizable": "1",
+  "index_name": "54cb74cb-cebf-4011-a22a-c96a84c2700b",
+  "catalog_uuid": "10473643-9e0a-4f09-af6c-967cf70a55a7",
+  "status": "ok",
+  "field": [
+    {
+      "id": "_year",
+      "name": "Year",
+      "type": "keyword"
+    },
+    {
+      "id": "small_coins",
+      "name": "Small Coins",
+      "type": "double"
+    },
+    {
+      "id": "rs_1_notes",
+      "name": "Rs. 1 Notes",
+      "type": "double"
+    },
+    {
+      "id": "rs_1_coins",
+      "name": "Rs. 1 Coins",
+      "type": "double"
+    },
+    {
+      "id": "rs_2_coins",
+      "name": "Rs. 2 Coins",
+      "type": "double"
+    },
+    {
+      "id": "rs_5_coins",
+      "name": "Rs. 5 Coins",
+      "type": "double"
+    },
+    {
+      "id": "rs_10_coins",
+      "name": "Rs. 10 Coins",
+      "type": "double"
+    },
+    {
+      "id": "rs_2_notes",
+      "name": "Rs. 2 Notes",
+      "type": "double"
+    },
+    {
+      "id": "rs_5_notes",
+      "name": "Rs. 5 Notes",
+      "type": "double"
+    },
+    {
+      "id": "rs_10_notes",
+      "name": "Rs. 10 Notes",
+      "type": "double"
+    },
+    {
+      "id": "rs_20_notes",
+      "name": "Rs. 20 Notes",
+      "type": "double"
+    },
+    {
+      "id": "rs_50_notes",
+      "name": "Rs. 50 Notes",
+      "type": "double"
+    },
+    {
+      "id": "rs_100_notes",
+      "name": "Rs. 100 Notes",
+      "type": "double"
+    },
+    {
+      "id": "rs_500_notes",
+      "name": "Rs. 500 Notes",
+      "type": "double"
+    },
+    {
+      "id": "rs_1000_notes",
+      "name": "Rs. 1000 Notes",
+      "type": "double"
+    }
+  ],
+  "created_date": "2017-06-09T05:35:09Z",
+  "updated_date": "2018-11-30T04:21:26Z",
+  "active": "1",
+  "external_ws_url": "",
+  "external_ws": "0",
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "total": 13,
+  "count": 13,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "_year": "2000-01",
+      "small_coins": "13",
+      "rs_1_notes": "3.07",
+      "rs_1_coins": "13.93",
+      "rs_2_coins": "8.140000000000001",
+      "rs_5_coins": "15.44",
+      "rs_10_coins": "NA",
+      "rs_2_notes": "4.71",
+      "rs_5_notes": "10.16",
+      "rs_10_notes": "123.36",
+      "rs_20_notes": "10.12",
+      "rs_50_notes": "328.18",
+      "rs_100_notes": "1081.41",
+      "rs_500_notes": "529.47",
+      "rs_1000_notes": "37.19"
+    },
+    {
+      "_year": "2001-02",
+      "small_coins": "13.28",
+      "rs_1_notes": "3.08",
+      "rs_1_coins": "15.47",
+      "rs_2_coins": "10.62",
+      "rs_5_coins": "20.25",
+      "rs_10_coins": "NA",
+      "rs_2_notes": "5.38",
+      "rs_5_notes": "12.64",
+      "rs_10_notes": "119.89",
+      "rs_20_notes": "15.31",
+      "rs_50_notes": "356.01",
+      "rs_100_notes": "1180.41",
+      "rs_500_notes": "685.12",
+      "rs_1000_notes": "71.79000000000001"
+    },
+    {
+      "_year": "2002-03",
+      "small_coins": "13.46",
+      "rs_1_notes": "3.05",
+      "rs_1_coins": "16.92",
+      "rs_2_coins": "12.1",
+      "rs_5_coins": "24.19",
+      "rs_10_coins": "NA",
+      "rs_2_notes": "4.83",
+      "rs_5_notes": "17.39",
+      "rs_10_notes": "90.88",
+      "rs_20_notes": "34.25",
+      "rs_50_notes": "351.91",
+      "rs_100_notes": "1153.86",
+      "rs_500_notes": "938.13",
+      "rs_1000_notes": "159.71"
+    },
+    {
+      "_year": "2003-04",
+      "small_coins": "13.53",
+      "rs_1_notes": "2.99",
+      "rs_1_coins": "17.57",
+      "rs_2_coins": "12.55",
+      "rs_5_coins": "25.35",
+      "rs_10_coins": "NA",
+      "rs_2_notes": "4.72",
+      "rs_5_notes": "22.76",
+      "rs_10_notes": "77.5",
+      "rs_20_notes": "43.83",
+      "rs_50_notes": "330.27",
+      "rs_100_notes": "1214.42",
+      "rs_500_notes": "1229.38",
+      "rs_1000_notes": "274.73"
+    },
+    {
+      "_year": "2004-05",
+      "small_coins": "13.53",
+      "rs_1_notes": "2.99",
+      "rs_1_coins": "17.9",
+      "rs_2_coins": "12.9",
+      "rs_5_coins": "26.19",
+      "rs_10_coins": "NA",
+      "rs_2_notes": "4.62",
+      "rs_5_notes": "20.86",
+      "rs_10_notes": "67.7",
+      "rs_20_notes": "38.76",
+      "rs_50_notes": "299.41",
+      "rs_100_notes": "1232.82",
+      "rs_500_notes": "1527.28",
+      "rs_1000_notes": "420.82"
+    },
+    {
+      "_year": "2005-06",
+      "small_coins": "13.58",
+      "rs_1_notes": "2.99",
+      "rs_1_coins": "18.94",
+      "rs_2_coins": "13.65",
+      "rs_5_coins": "27.35",
+      "rs_10_coins": "NA",
+      "rs_2_notes": "4.51",
+      "rs_5_notes": "19.8",
+      "rs_10_notes": "62.74",
+      "rs_20_notes": "40.77",
+      "rs_50_notes": "278.42",
+      "rs_100_notes": "1346.37",
+      "rs_500_notes": "1823.32",
+      "rs_1000_notes": "643.46"
+    },
+    {
+      "_year": "2006-07",
+      "small_coins": "13.64",
+      "rs_1_notes": "3.01",
+      "rs_1_coins": "20.29",
+      "rs_2_coins": "14.88",
+      "rs_5_coins": "28.8",
+      "rs_10_coins": "NA",
+      "rs_2_notes": "4.47",
+      "rs_5_notes": "18.87",
+      "rs_10_notes": "71.55",
+      "rs_20_notes": "41.78",
+      "rs_50_notes": "279.51",
+      "rs_100_notes": "1354.44",
+      "rs_500_notes": "2254",
+      "rs_1000_notes": "936.76"
+    },
+    {
+      "_year": "2007-08",
+      "small_coins": "14.55",
+      "rs_1_notes": "3",
+      "rs_1_coins": "22.14",
+      "rs_2_coins": "19.07",
+      "rs_5_coins": "32.49",
+      "rs_10_coins": "NA",
+      "rs_2_notes": "6.36",
+      "rs_5_notes": "21.11",
+      "rs_10_notes": "93.33",
+      "rs_20_notes": "41.08",
+      "rs_50_notes": "265.08",
+      "rs_100_notes": "1345.75",
+      "rs_500_notes": "2631.08",
+      "rs_1000_notes": "1412.19"
+    },
+    {
+      "_year": "2008-09",
+      "small_coins": "14.55",
+      "rs_1_notes": "3",
+      "rs_1_coins": "23.96",
+      "rs_2_coins": "22.36",
+      "rs_5_coins": "35.7",
+      "rs_10_coins": "NA",
+      "rs_2_notes": "6.65",
+      "rs_5_notes": "22.71",
+      "rs_10_notes": "122.22",
+      "rs_20_notes": "43.99",
+      "rs_50_notes": "244.4",
+      "rs_100_notes": "1370.28",
+      "rs_500_notes": "3083.04",
+      "rs_1000_notes": "1917.84"
+    },
+    {
+      "_year": "2009-10",
+      "small_coins": "14.55",
+      "rs_1_notes": "2.99",
+      "rs_1_coins": "26.47",
+      "rs_2_coins": "26.4",
+      "rs_5_coins": "38.8",
+      "rs_10_coins": "1.49",
+      "rs_2_notes": "6.98",
+      "rs_5_notes": "22.33",
+      "rs_10_notes": "185.36",
+      "rs_20_notes": "46.81",
+      "rs_50_notes": "210.57",
+      "rs_100_notes": "1383.64",
+      "rs_500_notes": "3644.79",
+      "rs_1000_notes": "2382.52"
+    },
+    {
+      "_year": "2010-11",
+      "small_coins": "14.58",
+      "rs_1_notes": "2.99",
+      "rs_1_coins": "29.68",
+      "rs_2_coins": "30.68",
+      "rs_5_coins": "45.35",
+      "rs_10_coins": "3",
+      "rs_2_notes": "8.51",
+      "rs_5_notes": "34.3",
+      "rs_10_notes": "212.88",
+      "rs_20_notes": "60.4",
+      "rs_50_notes": "159.8",
+      "rs_100_notes": "1402.43",
+      "rs_500_notes": "4453.11",
+      "rs_1000_notes": "3027.13"
+    },
+    {
+      "_year": "2011-12",
+      "small_coins": "7.39",
+      "rs_1_notes": "2.99",
+      "rs_1_coins": "31.42",
+      "rs_2_coins": "36.4",
+      "rs_5_coins": "49.9",
+      "rs_10_coins": "6.48",
+      "rs_2_notes": "8.51",
+      "rs_5_notes": "36.43",
+      "rs_10_notes": "230.02",
+      "rs_20_notes": "70.2",
+      "rs_50_notes": "174.38",
+      "rs_100_notes": "1411.88",
+      "rs_500_notes": "5128.07",
+      "rs_1000_notes": "3468.81"
+    },
+    {
+      "_year": "2012-13",
+      "small_coins": "7",
+      "rs_1_notes": "2.99",
+      "rs_1_coins": "32.89",
+      "rs_2_coins": "44.23",
+      "rs_5_coins": "53.38",
+      "rs_10_coins": "12.67",
+      "rs_2_notes": "8.51",
+      "rs_5_notes": "36.87",
+      "rs_10_notes": "251.68",
+      "rs_20_notes": "76.5",
+      "rs_50_notes": "173.05",
+      "rs_100_notes": "1442.1",
+      "rs_500_notes": "5359.5",
+      "rs_1000_notes": "4299"
+    }
+  ]
+}

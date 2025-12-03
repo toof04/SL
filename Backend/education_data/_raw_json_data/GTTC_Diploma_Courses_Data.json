@@ -1,0 +1,103 @@
+{
+  "index_name": "5e972c52-81b1-429b-9868-219aba04d0dd",
+  "title": "GTTC Diploma Courses Data",
+  "desc": "GTTC Diploma Courses Data",
+  "org_type": "State",
+  "org": [
+    "Karnataka",
+    "Department of Skill Development Entrepreneurship and Livelihood",
+    "Government Tool Room And Training Center(GTTC)"
+  ],
+  "sector": [
+    "Education",
+    "Secondary"
+  ],
+  "source": "karnataka.data.gov.in",
+  "catalog_uuid": "09921263-82fa-4c3b-b55a-6be679c169d6",
+  "visualizable": "0",
+  "active": "1",
+  "created": 1759234092,
+  "updated": 1759234092,
+  "created_date": "2025-09-30T14:08:12Z",
+  "updated_date": "2025-09-30T14:08:12Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "09921263-82fa-4c3b-b55a-6be679c169d6",
+    "field": "5e972c52-81b1-429b-9868-219aba04d0dd"
+  },
+  "field": [
+    {
+      "id": "sl_no",
+      "name": "Sl.No",
+      "type": "double"
+    },
+    {
+      "id": "course",
+      "name": "Course",
+      "type": "keyword"
+    },
+    {
+      "id": "_2021_22",
+      "name": "2021-22",
+      "type": "double"
+    },
+    {
+      "id": "_2020_21",
+      "name": "2020-21",
+      "type": "double"
+    },
+    {
+      "id": "_2019_20",
+      "name": "2019-20",
+      "type": "double"
+    },
+    {
+      "id": "_total",
+      "name": "Total",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 4,
+  "count": 4,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "sl_no": 1,
+      "course": "Diploma inTool & Die Making",
+      "_2021_22": 862,
+      "_2020_21": 1320,
+      "_2019_20": 669,
+      "_total": 2851
+    },
+    {
+      "sl_no": 2,
+      "course": "Diploma in Precision Manufacturing",
+      "_2021_22": 96,
+      "_2020_21": 122,
+      "_2019_20": 97,
+      "_total": 315
+    },
+    {
+      "sl_no": 3,
+      "course": "Diploma in Mechatronics",
+      "_2021_22": 64,
+      "_2020_21": 34,
+      "_2019_20": 42,
+      "_total": 140
+    },
+    {
+      "sl_no": 4,
+      "course": "Diploma in Electronics & Communication",
+      "_2021_22": 18,
+      "_2020_21": 39,
+      "_2019_20": 34,
+      "_total": 91
+    }
+  ]
+}

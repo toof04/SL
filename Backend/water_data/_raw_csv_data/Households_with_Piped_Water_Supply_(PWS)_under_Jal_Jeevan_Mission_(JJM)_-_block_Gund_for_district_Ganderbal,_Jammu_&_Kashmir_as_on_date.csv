@@ -1,0 +1,67 @@
+state_name,district_name,block_name,panchayat_name,villagen_name,habitation_name,habitation_id,households,house_connection_by_pws,ispws,gen_current_pop,sc_current_pop,st_current_pop,total_current_pop,water_quality_contamination,update_date
+"Jammu & Kashmir",Ganderbal,Gund,"Ganiwan A",NA,Takyabal,0000351411,90,90,Yes,216,0,410,626,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,Sumbal,NA,"Bugnu Patti",0000351416,49,49,Yes,78,0,226,304,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,"Kullan B",NA,"Bota Kolan (batpora, Mudpora)",0000351432,77,77,Yes,309,0,123,432,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,"Sonamarg B",NA,"Gagangir (tunnel Pati, Sheikh Mohalla,herpor)",0000351433,94,94,Yes,321,0,288,609,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,"Sonamarg C",NA,"Zirpora Gohipora (nagbal Pati)",0000351437,51,51,Yes,220,0,162,382,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,"Sonamarg A",NA,Nilagrar,0000351440,59,59,Yes,200,0,263,463,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,"Fraw Haknar B",NA,"Hilal Bagh Haknar (kunari Mohalla)",0000351447,30,30,Yes,80,0,160,240,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,"Saraf Raw A",NA,"Neel Patti (khatan Patti)",0000351456,47,47,Yes,117,0,162,279,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,"Saraf Raw A",NA,"Bagadi Mohalla (gujjar Patti)",0000351458,88,88,Yes,215,0,300,515,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,"Saraf Raw A",NA,"Bagh-i-sarafraw (bagh Patti 1&)",0000351459,88,88,Yes,215,0,300,515,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,"Sonamarg B",NA,"Gujjar Baste",0001752244,68,68,Yes,238,0,213,451,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,Sumbal,NA,"Bogdapatti Sumbal (dhakhan Bokdapati)",0001761842,49,49,Yes,88,0,248,336,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,"Gund Sarsing B",NA,"Hajam Mohalla",0001814922,20,20,Yes,60,0,0,60,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,"Gund Sarsing B",NA,"New Colony",0001814930,12,12,Yes,45,0,0,45,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,"Ganiwan B",NA,"Rezui Patti",0001859848,51,51,Yes,0,0,300,300,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,"Ganiwan B",NA,"Boktari Mohalla",0001859852,38,38,Yes,230,0,45,275,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,"Kullan B",NA,"Famda Pati",0001860046,20,20,Yes,0,0,70,70,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,"Saraf Raw B",NA,"Syed Basti (incld Gas Gund)",0001860854,82,82,Yes,202,0,281,483,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,"Ganiwan A",NA,"Hari Ganiwan (ganie Mohalla)",0000351410,208,208,Yes,559,0,980,1539,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,"Sonamarg A",NA,Sarbal,0000351441,48,48,Yes,142,0,220,362,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,"Fraw Haknar B",NA,"Haknar (famda Pati, Raina Pati, Hill Pati, Alamdar",0000351446,122,122,Yes,360,0,545,905,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,"Saraf Raw A",NA,"Boni Deji Chopan Mohalla",0000351460,41,41,Yes,106,0,147,253,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,"Saraf Raw A",NA,"Chak Patti",0000351462,64,64,Yes,155,0,216,371,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,Rayil,NA,Bigadipatti,0001752216,34,34,Yes,169,0,93,262,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,Rayil,NA,"Asthan Mohalla",0001752223,34,34,Yes,158,0,93,251,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,Rayil,NA,"Tullali Patti",0001752226,30,30,Yes,220,0,82,302,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,"Kulan A",NA,"Gujjar Baste",0001752230,92,92,Yes,371,0,147,518,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,"Kulan A",NA,"Shah Mohalla",0001752239,82,82,Yes,328,0,131,459,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,"Ganiwan B",NA,"Chichi Mohalla",0001859821,20,20,Yes,0,0,120,120,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,"Saraf Raw B",NA,"Neel Patti(incl Khatana Patti)",0001860853,47,47,Yes,117,0,162,279,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,"Kulan A",NA,"Kulan (wani Mohalla, Baba Mohalla, Sheikh Mohalla,",0000351431,267,267,Yes,1110,0,441,1551,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,"Sonamarg B",NA,"Barpadan (pathri Bal Bonpora)",0000351435,30,30,Yes,108,0,97,205,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,"Fraw Haknar A",NA,"Kals Patti",0000351443,52,52,Yes,110,0,320,430,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,"Saraf Raw A",NA,"Syed Basti",0000351457,82,82,Yes,202,0,281,483,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,"Fraw Haknar B",NA,"Paswal Basti",0001752192,40,40,Yes,80,0,160,240,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,Rayil,NA,"New Colony",0001752222,34,34,Yes,173,0,88,261,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,"Sonamarg C",NA,"Famda Patti",0001860079,10,10,Yes,0,0,66,66,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,"Saraf Raw B",NA,"Ball Daji (yarra Dajji)",0001860855,41,41,Yes,107,0,149,256,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,"Ganiwan A",NA,"New Colony Ganiwan",0000351412,128,128,Yes,640,0,0,640,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,"Ganiwan A",NA,"Molvi Patti (gurud, Tunnel Patti, Rezupati)",0000351413,87,87,Yes,190,0,360,550,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,"Sonamarg B",NA,Chunniraj,0000351434,55,55,Yes,183,0,165,348,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,"Sonamarg A",NA,"Sonamarg (sheikh Mohall, Raina Mohalla, Raina Patt",0000351438,61,61,Yes,425,0,6,431,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,"Sonamarg A",NA,Shatikari,0000351439,36,36,Yes,346,0,3,349,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,"Fraw Haknar A",NA,"Ganaie Mohalla",0000351444,26,26,Yes,60,0,80,140,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,"Fraw Haknar A",NA,"Aawan Basti (gujjar Pati)",0000351445,30,30,Yes,85,0,180,265,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,"Gund Sarsing A",NA,"Malik Mohalla (pomposh Colony)",0000351449,81,81,Yes,408,0,161,569,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,"Gund Sarsing A",NA,"Doe Patti",0000351451,51,51,Yes,274,0,111,385,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,Rayil,NA,"Rayil Khud (patheribal)",0000351454,19,19,Yes,140,0,47,187,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,"Fraw Haknar A",NA,"Chopan Basti",0001752191,43,43,Yes,210,0,129,339,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,Rayil,NA,"Mudpra Balti Basti",0001752220,30,30,Yes,210,0,83,293,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,"Sonamarg B",NA,"Nayak Mohalla",0001752245,47,47,Yes,154,0,138,292,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,"Ganiwan B",NA,Bondeji,0001859823,42,42,Yes,100,0,40,140,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,"Ganiwan B",NA,"Kasana Pati",0001859837,56,56,Yes,240,0,100,340,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,Sumbal,NA,"Sumbal Bala (bhat Mohalla, Numberdar Mohalla, Kanv",0000351414,149,149,Yes,258,0,746,1004,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,"Sonamarg C",NA,"Rezan (haerpora, Isbandar Gousia Colony)",0000351436,77,77,Yes,370,0,240,610,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,Rayil,NA,"Kalas Patti (n.d.b)",0000351453,41,41,Yes,220,0,112,332,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,"Saraf Raw A",NA,"Saraf Raw (mukhdoom Mohalla, Hairpora, Bunpora, Ne",0000351455,141,141,Yes,351,0,488,839,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,"Saraf Raw A",NA,"Ball Daji (yarra Dajji)",0000351461,41,41,Yes,107,0,149,256,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,Rayil,NA,"Akhoon Mohalla (ganie Mohalla)",0001752218,41,41,Yes,210,0,104,314,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,Rayil,NA,"Shukthung Mohalla",0001752225,41,41,Yes,210,0,104,314,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,"Ganiwan A",NA,"Kralpatti (kachpathri)",0001762368,76,76,Yes,218,0,463,681,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,"Ganiwan A",NA,"Jharapati (theckrey Patti)",0001762370,50,50,Yes,73,0,227,300,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,"Saraf Raw B",NA,"Chak Patti",0001814931,64,64,Yes,155,0,216,371,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,"Ganiwan B",NA,"Sheikh Mohalla",0001859834,48,48,Yes,90,0,200,290,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,"Ganiwan B",NA,"Thakery Pati",0001860021,10,10,Yes,0,0,55,55,NA,2024-06-07
+"Jammu & Kashmir",Ganderbal,Gund,"Kullan B",NA,Zerpora,0001860043,45,45,Yes,220,0,50,270,NA,2024-06-07

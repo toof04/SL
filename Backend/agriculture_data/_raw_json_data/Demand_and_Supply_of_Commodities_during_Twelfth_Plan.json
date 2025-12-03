@@ -1,0 +1,189 @@
+{
+  "index_name": "27ac86aa-0352-4c13-8711-23d4720d82ea",
+  "title": "Demand and Supply of Commodities during Twelfth  Plan",
+  "desc": "Demand and Supply of Commodities during Twelfth  Plan",
+  "org_type": "Central",
+  "org": [
+    "NITI Aayog"
+  ],
+  "sector": [
+    "Agriculture",
+    "Agricultural Produces"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "878ac4b7-385a-49ee-a501-4954453a56b2",
+  "visualizable": "0",
+  "active": "1",
+  "created": 1757777909,
+  "updated": 1757777909,
+  "created_date": "2025-09-13T17:38:29Z",
+  "updated_date": "2025-09-13T17:38:29Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "878ac4b7-385a-49ee-a501-4954453a56b2",
+    "field": "27ac86aa-0352-4c13-8711-23d4720d82ea"
+  },
+  "field": [
+    {
+      "id": "crop_group_of_crops",
+      "name": "Crop/Group of Crops",
+      "type": "keyword"
+    },
+    {
+      "id": "projected_demand__by_financial_year_2016_17",
+      "name": "Projected Demand  by Financial Year 2016-17",
+      "type": "double"
+    },
+    {
+      "id": "projected_demand__by_financial_year_2020_21",
+      "name": "Projected Demand  by Financial Year 2020-21",
+      "type": "double"
+    },
+    {
+      "id": "projected_supply__by_financial_year_2016_17",
+      "name": "Projected Supply  by Financial Year 2016-17",
+      "type": "keyword"
+    },
+    {
+      "id": "actual_production__for_financial_year_2006_07",
+      "name": "Actual Production  for Financial Year 2006-07",
+      "type": "double"
+    },
+    {
+      "id": "actual_production__for_financial_year_2011_12",
+      "name": "Actual Production  for Financial Year 2011-12",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 15,
+  "count": 15,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "crop_group_of_crops": "Rice",
+      "projected_demand__by_financial_year_2016_17": 110,
+      "projected_demand__by_financial_year_2020_21": 117,
+      "projected_supply__by_financial_year_2016_17": "98-106",
+      "actual_production__for_financial_year_2006_07": 93,
+      "actual_production__for_financial_year_2011_12": 104
+    },
+    {
+      "crop_group_of_crops": "Wheat",
+      "projected_demand__by_financial_year_2016_17": 89,
+      "projected_demand__by_financial_year_2020_21": 98,
+      "projected_supply__by_financial_year_2016_17": "93-104",
+      "actual_production__for_financial_year_2006_07": 76,
+      "actual_production__for_financial_year_2011_12": 94
+    },
+    {
+      "crop_group_of_crops": "Maize",
+      "projected_demand__by_financial_year_2016_17": 19,
+      "projected_demand__by_financial_year_2020_21": 22,
+      "projected_supply__by_financial_year_2016_17": "NA",
+      "actual_production__for_financial_year_2006_07": 15,
+      "actual_production__for_financial_year_2011_12": 22
+    },
+    {
+      "crop_group_of_crops": "Coarse Cereals",
+      "projected_demand__by_financial_year_2016_17": 36,
+      "projected_demand__by_financial_year_2020_21": 38,
+      "projected_supply__by_financial_year_2016_17": "42-48",
+      "actual_production__for_financial_year_2006_07": 34,
+      "actual_production__for_financial_year_2011_12": 42
+    },
+    {
+      "crop_group_of_crops": "Cereals",
+      "projected_demand__by_financial_year_2016_17": 235,
+      "projected_demand__by_financial_year_2020_21": 253,
+      "projected_supply__by_financial_year_2016_17": "240-251",
+      "actual_production__for_financial_year_2006_07": 203,
+      "actual_production__for_financial_year_2011_12": 240
+    },
+    {
+      "crop_group_of_crops": "Pulses",
+      "projected_demand__by_financial_year_2016_17": 22,
+      "projected_demand__by_financial_year_2020_21": 25,
+      "projected_supply__by_financial_year_2016_17": "18-21",
+      "actual_production__for_financial_year_2006_07": 14,
+      "actual_production__for_financial_year_2011_12": 17
+    },
+    {
+      "crop_group_of_crops": "Food grains",
+      "projected_demand__by_financial_year_2016_17": 257,
+      "projected_demand__by_financial_year_2020_21": 277,
+      "projected_supply__by_financial_year_2016_17": "258-272",
+      "actual_production__for_financial_year_2006_07": 217,
+      "actual_production__for_financial_year_2011_12": 257
+    },
+    {
+      "crop_group_of_crops": "Oilseeds/ Edible Oils",
+      "projected_demand__by_financial_year_2016_17": 59,
+      "projected_demand__by_financial_year_2020_21": 71,
+      "projected_supply__by_financial_year_2016_17": "33-41",
+      "actual_production__for_financial_year_2006_07": 24,
+      "actual_production__for_financial_year_2011_12": 30
+    },
+    {
+      "crop_group_of_crops": "Sugarcane/ Sugar",
+      "projected_demand__by_financial_year_2016_17": 279,
+      "projected_demand__by_financial_year_2020_21": 312,
+      "projected_supply__by_financial_year_2016_17": "365-411",
+      "actual_production__for_financial_year_2006_07": 355,
+      "actual_production__for_financial_year_2011_12": 358
+    },
+    {
+      "crop_group_of_crops": "Vegetables",
+      "projected_demand__by_financial_year_2016_17": 161,
+      "projected_demand__by_financial_year_2020_21": 189,
+      "projected_supply__by_financial_year_2016_17": "NA",
+      "actual_production__for_financial_year_2006_07": 116,
+      "actual_production__for_financial_year_2011_12": 147
+    },
+    {
+      "crop_group_of_crops": "Fruits",
+      "projected_demand__by_financial_year_2016_17": 97,
+      "projected_demand__by_financial_year_2020_21": 124,
+      "projected_supply__by_financial_year_2016_17": "NA",
+      "actual_production__for_financial_year_2006_07": 59,
+      "actual_production__for_financial_year_2011_12": 75
+    },
+    {
+      "crop_group_of_crops": "Milk",
+      "projected_demand__by_financial_year_2016_17": 141,
+      "projected_demand__by_financial_year_2020_21": 173,
+      "projected_supply__by_financial_year_2016_17": "NA",
+      "actual_production__for_financial_year_2006_07": 103,
+      "actual_production__for_financial_year_2011_12": 122
+    },
+    {
+      "crop_group_of_crops": "Fish",
+      "projected_demand__by_financial_year_2016_17": 11,
+      "projected_demand__by_financial_year_2020_21": 14,
+      "projected_supply__by_financial_year_2016_17": "NA",
+      "actual_production__for_financial_year_2006_07": 6.9,
+      "actual_production__for_financial_year_2011_12": 8.3
+    },
+    {
+      "crop_group_of_crops": "Meat, other than poultry",
+      "projected_demand__by_financial_year_2016_17": 3.7,
+      "projected_demand__by_financial_year_2020_21": 5,
+      "projected_supply__by_financial_year_2016_17": "NA",
+      "actual_production__for_financial_year_2006_07": 2.3,
+      "actual_production__for_financial_year_2011_12": 2.7
+    },
+    {
+      "crop_group_of_crops": "Poultry Meat",
+      "projected_demand__by_financial_year_2016_17": 3.3,
+      "projected_demand__by_financial_year_2020_21": 4.3,
+      "projected_supply__by_financial_year_2016_17": "NA",
+      "actual_production__for_financial_year_2006_07": "NA",
+      "actual_production__for_financial_year_2011_12": 2.2
+    }
+  ]
+}

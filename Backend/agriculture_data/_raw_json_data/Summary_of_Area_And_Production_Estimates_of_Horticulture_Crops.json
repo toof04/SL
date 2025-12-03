@@ -1,0 +1,508 @@
+{
+  "index_name": "12e7661e-1b97-4f8c-a901-33844fa5412d",
+  "title": "Summary of Area And Production Estimates of Horticulture Crops",
+  "desc": "Summary of Area And Production Estimates of Horticulture Crops",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Statistics and Programme Implementation"
+  ],
+  "sector": [
+    "Agriculture",
+    "Horticulture",
+    "Statistics"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "ffc250b5-e12f-43d8-af97-3b08615c90bd",
+  "visualizable": "0",
+  "active": "1",
+  "created": 1759233511,
+  "updated": 1759233511,
+  "created_date": "2025-09-30T13:58:31Z",
+  "updated_date": "2025-09-30T13:58:31Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "ffc250b5-e12f-43d8-af97-3b08615c90bd",
+    "field": "12e7661e-1b97-4f8c-a901-33844fa5412d"
+  },
+  "field": [
+    {
+      "id": "crops",
+      "name": "Crops",
+      "type": "keyword"
+    },
+    {
+      "id": "_2007_08_area___in__000__hectare__",
+      "name": "2007-08 Area ( In '000' hectare )",
+      "type": "double"
+    },
+    {
+      "id": "_2007_08_production___in__000__tonne_",
+      "name": "2007-08 Production ( In '000' tonne)",
+      "type": "double"
+    },
+    {
+      "id": "_2008_09_area___in__000__hectare__",
+      "name": "2008-09 Area ( In '000' hectare )",
+      "type": "double"
+    },
+    {
+      "id": "_2008_09_production___in__000__tonne_",
+      "name": "2008-09 Production ( In '000' tonne)",
+      "type": "double"
+    },
+    {
+      "id": "_2009_10__area___in__000__hectare__",
+      "name": "2009-10  Area ( In '000' hectare )",
+      "type": "double"
+    },
+    {
+      "id": "_2009_10__production___in__000__tonne_",
+      "name": "2009-10  Production ( In '000' tonne)",
+      "type": "double"
+    },
+    {
+      "id": "_2010_11__area___in__000__hectare__",
+      "name": "2010-11  Area ( In '000' hectare )",
+      "type": "double"
+    },
+    {
+      "id": "_2010_11__production___in__000__tonne_",
+      "name": "2010-11  Production ( In '000' tonne)",
+      "type": "double"
+    },
+    {
+      "id": "_",
+      "name": "",
+      "type": "keyword"
+    },
+    {
+      "id": "_",
+      "name": "",
+      "type": "keyword"
+    },
+    {
+      "id": "_",
+      "name": "",
+      "type": "keyword"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 34,
+  "count": 34,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "crops": "Banana",
+      "_2007_08_area___in__000__hectare__": 658,
+      "_2007_08_production___in__000__tonne_": 23823,
+      "_2008_09_area___in__000__hectare__": 709,
+      "_2008_09_production___in__000__tonne_": 26217,
+      "_2009_10__area___in__000__hectare__": 770,
+      "_2009_10__production___in__000__tonne_": 26470,
+      "_2010_11__area___in__000__hectare__": 830,
+      "_2010_11__production___in__000__tonne_": 29780,
+      "_": "NA"
+    },
+    {
+      "crops": "Mango",
+      "_2007_08_area___in__000__hectare__": 2201,
+      "_2007_08_production___in__000__tonne_": 13997,
+      "_2008_09_area___in__000__hectare__": 2309,
+      "_2008_09_production___in__000__tonne_": 12750,
+      "_2009_10__area___in__000__hectare__": 2312,
+      "_2009_10__production___in__000__tonne_": 15027,
+      "_2010_11__area___in__000__hectare__": 2297,
+      "_2010_11__production___in__000__tonne_": 15188,
+      "_": "NA"
+    },
+    {
+      "crops": "Citrus",
+      "_2007_08_area___in__000__hectare__": 867,
+      "_2007_08_production___in__000__tonne_": 8015,
+      "_2008_09_area___in__000__hectare__": 924,
+      "_2008_09_production___in__000__tonne_": 8623,
+      "_2009_10__area___in__000__hectare__": 987,
+      "_2009_10__production___in__000__tonne_": 9638,
+      "_2010_11__area___in__000__hectare__": 846,
+      "_2010_11__production___in__000__tonne_": 7464,
+      "_": "NA"
+    },
+    {
+      "crops": "Papaya",
+      "_2007_08_area___in__000__hectare__": 83,
+      "_2007_08_production___in__000__tonne_": 2909,
+      "_2008_09_area___in__000__hectare__": 98,
+      "_2008_09_production___in__000__tonne_": 3629,
+      "_2009_10__area___in__000__hectare__": 96,
+      "_2009_10__production___in__000__tonne_": 3913,
+      "_2010_11__area___in__000__hectare__": 106,
+      "_2010_11__production___in__000__tonne_": 4196,
+      "_": "NA"
+    },
+    {
+      "crops": "Guava",
+      "_2007_08_area___in__000__hectare__": 179,
+      "_2007_08_production___in__000__tonne_": 1981,
+      "_2008_09_area___in__000__hectare__": 204,
+      "_2008_09_production___in__000__tonne_": 2270,
+      "_2009_10__area___in__000__hectare__": 220,
+      "_2009_10__production___in__000__tonne_": 2572,
+      "_2010_11__area___in__000__hectare__": 205,
+      "_2010_11__production___in__000__tonne_": 2462,
+      "_": "NA"
+    },
+    {
+      "crops": "Apple",
+      "_2007_08_area___in__000__hectare__": 264,
+      "_2007_08_production___in__000__tonne_": 2001,
+      "_2008_09_area___in__000__hectare__": 274,
+      "_2008_09_production___in__000__tonne_": 1985,
+      "_2009_10__area___in__000__hectare__": 283,
+      "_2009_10__production___in__000__tonne_": 1777,
+      "_2010_11__area___in__000__hectare__": 289,
+      "_2010_11__production___in__000__tonne_": 2891,
+      "_": "NA"
+    },
+    {
+      "crops": "Pineapple",
+      "_2007_08_area___in__000__hectare__": 80,
+      "_2007_08_production___in__000__tonne_": 1245,
+      "_2008_09_area___in__000__hectare__": 84,
+      "_2008_09_production___in__000__tonne_": 1341,
+      "_2009_10__area___in__000__hectare__": 92,
+      "_2009_10__production___in__000__tonne_": 1387,
+      "_2010_11__area___in__000__hectare__": 89,
+      "_2010_11__production___in__000__tonne_": 1415,
+      "_": "NA"
+    },
+    {
+      "crops": "Sapota",
+      "_2007_08_area___in__000__hectare__": 152,
+      "_2007_08_production___in__000__tonne_": 1258,
+      "_2008_09_area___in__000__hectare__": 156,
+      "_2008_09_production___in__000__tonne_": 1308,
+      "_2009_10__area___in__000__hectare__": 159,
+      "_2009_10__production___in__000__tonne_": 1347,
+      "_2010_11__area___in__000__hectare__": 160,
+      "_2010_11__production___in__000__tonne_": 1424,
+      "_": "NA"
+    },
+    {
+      "crops": "Grapes",
+      "_2007_08_area___in__000__hectare__": 68,
+      "_2007_08_production___in__000__tonne_": 1735,
+      "_2008_09_area___in__000__hectare__": 80,
+      "_2008_09_production___in__000__tonne_": 1878,
+      "_2009_10__area___in__000__hectare__": 106,
+      "_2009_10__production___in__000__tonne_": 881,
+      "_2010_11__area___in__000__hectare__": 111,
+      "_2010_11__production___in__000__tonne_": 1235,
+      "_": "NA"
+    },
+    {
+      "crops": "Pomegranate",
+      "_2007_08_area___in__000__hectare__": 124,
+      "_2007_08_production___in__000__tonne_": 884,
+      "_2008_09_area___in__000__hectare__": 109,
+      "_2008_09_production___in__000__tonne_": 807,
+      "_2009_10__area___in__000__hectare__": 125,
+      "_2009_10__production___in__000__tonne_": 820,
+      "_2010_11__area___in__000__hectare__": 107,
+      "_2010_11__production___in__000__tonne_": 743,
+      "_": "NA"
+    },
+    {
+      "crops": "Litchi",
+      "_2007_08_area___in__000__hectare__": 69,
+      "_2007_08_production___in__000__tonne_": 418,
+      "_2008_09_area___in__000__hectare__": 72,
+      "_2008_09_production___in__000__tonne_": 423,
+      "_2009_10__area___in__000__hectare__": 74,
+      "_2009_10__production___in__000__tonne_": 483,
+      "_2010_11__area___in__000__hectare__": 78,
+      "_2010_11__production___in__000__tonne_": 497,
+      "_": "NA"
+    },
+    {
+      "crops": "Others",
+      "_2007_08_area___in__000__hectare__": 1112,
+      "_2007_08_production___in__000__tonne_": 7321,
+      "_2008_09_area___in__000__hectare__": 1083,
+      "_2008_09_production___in__000__tonne_": 7234,
+      "_2009_10__area___in__000__hectare__": 1105,
+      "_2009_10__production___in__000__tonne_": 7201,
+      "_2010_11__area___in__000__hectare__": 1265,
+      "_2010_11__production___in__000__tonne_": 7583,
+      "_": "NA"
+    },
+    {
+      "crops": "Fruits Total",
+      "_2007_08_area___in__000__hectare__": 5857,
+      "_2007_08_production___in__000__tonne_": 65587,
+      "_2008_09_area___in__000__hectare__": 6101,
+      "_2008_09_production___in__000__tonne_": 68466,
+      "_2009_10__area___in__000__hectare__": 6329,
+      "_2009_10__production___in__000__tonne_": 71516,
+      "_2010_11__area___in__000__hectare__": 6383,
+      "_2010_11__production___in__000__tonne_": 74878,
+      "_": "NA"
+    },
+    {
+      "crops": "Potato",
+      "_2007_08_area___in__000__hectare__": 1795,
+      "_2007_08_production___in__000__tonne_": 34658,
+      "_2008_09_area___in__000__hectare__": 1828,
+      "_2008_09_production___in__000__tonne_": 34391,
+      "_2009_10__area___in__000__hectare__": 1835,
+      "_2009_10__production___in__000__tonne_": 36577,
+      "_2010_11__area___in__000__hectare__": 1863,
+      "_2010_11__production___in__000__tonne_": 42339,
+      "_": "NA"
+    },
+    {
+      "crops": "Tomato",
+      "_2007_08_area___in__000__hectare__": 566,
+      "_2007_08_production___in__000__tonne_": 10303,
+      "_2008_09_area___in__000__hectare__": 599,
+      "_2008_09_production___in__000__tonne_": 11149,
+      "_2009_10__area___in__000__hectare__": 634,
+      "_2009_10__production___in__000__tonne_": 12433,
+      "_2010_11__area___in__000__hectare__": 865,
+      "_2010_11__production___in__000__tonne_": 16526,
+      "_": "NA"
+    },
+    {
+      "crops": "Onion",
+      "_2007_08_area___in__000__hectare__": 821,
+      "_2007_08_production___in__000__tonne_": 13900,
+      "_2008_09_area___in__000__hectare__": 834,
+      "_2008_09_production___in__000__tonne_": 13565,
+      "_2009_10__area___in__000__hectare__": 756,
+      "_2009_10__production___in__000__tonne_": 12159,
+      "_2010_11__area___in__000__hectare__": 1064,
+      "_2010_11__production___in__000__tonne_": 15118,
+      "_": "NA"
+    },
+    {
+      "crops": "Brinjal",
+      "_2007_08_area___in__000__hectare__": 561,
+      "_2007_08_production___in__000__tonne_": 9678,
+      "_2008_09_area___in__000__hectare__": 600,
+      "_2008_09_production___in__000__tonne_": 10378,
+      "_2009_10__area___in__000__hectare__": 612,
+      "_2009_10__production___in__000__tonne_": 10563,
+      "_2010_11__area___in__000__hectare__": 680,
+      "_2010_11__production___in__000__tonne_": 11896,
+      "_": "NA"
+    },
+    {
+      "crops": "Tapioca",
+      "_2007_08_area___in__000__hectare__": 270,
+      "_2007_08_production___in__000__tonne_": 9056,
+      "_2008_09_area___in__000__hectare__": 280,
+      "_2008_09_production___in__000__tonne_": 9623,
+      "_2009_10__area___in__000__hectare__": 232,
+      "_2009_10__production___in__000__tonne_": 8060,
+      "_2010_11__area___in__000__hectare__": 221,
+      "_2010_11__production___in__000__tonne_": 8076,
+      "_": "NA"
+    },
+    {
+      "crops": "Cabbage",
+      "_2007_08_area___in__000__hectare__": 266,
+      "_2007_08_production___in__000__tonne_": 5910,
+      "_2008_09_area___in__000__hectare__": 310,
+      "_2008_09_production___in__000__tonne_": 6870,
+      "_2009_10__area___in__000__hectare__": 331,
+      "_2009_10__production___in__000__tonne_": 7281,
+      "_2010_11__area___in__000__hectare__": 369,
+      "_2010_11__production___in__000__tonne_": 7949,
+      "_": "NA"
+    },
+    {
+      "crops": "Cauliflower",
+      "_2007_08_area___in__000__hectare__": 312,
+      "_2007_08_production___in__000__tonne_": 5777,
+      "_2008_09_area___in__000__hectare__": 349,
+      "_2008_09_production___in__000__tonne_": 6532,
+      "_2009_10__area___in__000__hectare__": 348,
+      "_2009_10__production___in__000__tonne_": 6569,
+      "_2010_11__area___in__000__hectare__": 369,
+      "_2010_11__production___in__000__tonne_": 6745,
+      "_": "NA"
+    },
+    {
+      "crops": "Okra",
+      "_2007_08_area___in__000__hectare__": 407,
+      "_2007_08_production___in__000__tonne_": 4179,
+      "_2008_09_area___in__000__hectare__": 432,
+      "_2008_09_production___in__000__tonne_": 4528,
+      "_2009_10__area___in__000__hectare__": 452,
+      "_2009_10__production___in__000__tonne_": 4803,
+      "_2010_11__area___in__000__hectare__": 498,
+      "_2010_11__production___in__000__tonne_": 5784,
+      "_": "NA"
+    },
+    {
+      "crops": "Peas",
+      "_2007_08_area___in__000__hectare__": 313,
+      "_2007_08_production___in__000__tonne_": 2491,
+      "_2008_09_area___in__000__hectare__": 348,
+      "_2008_09_production___in__000__tonne_": 2916,
+      "_2009_10__area___in__000__hectare__": 365,
+      "_2009_10__production___in__000__tonne_": 3029,
+      "_2010_11__area___in__000__hectare__": 370,
+      "_2010_11__production___in__000__tonne_": 3517,
+      "_": "NA"
+    },
+    {
+      "crops": "Sweet Potato",
+      "_2007_08_area___in__000__hectare__": 123,
+      "_2007_08_production___in__000__tonne_": 1094,
+      "_2008_09_area___in__000__hectare__": 124,
+      "_2008_09_production___in__000__tonne_": 1120,
+      "_2009_10__area___in__000__hectare__": 119,
+      "_2009_10__production___in__000__tonne_": 1095,
+      "_2010_11__area___in__000__hectare__": 113,
+      "_2010_11__production___in__000__tonne_": 1047,
+      "_": "NA"
+    },
+    {
+      "crops": "Others",
+      "_2007_08_area___in__000__hectare__": 2414,
+      "_2007_08_production___in__000__tonne_": 31402,
+      "_2008_09_area___in__000__hectare__": 2275,
+      "_2008_09_production___in__000__tonne_": 28006,
+      "_2009_10__area___in__000__hectare__": 2300,
+      "_2009_10__production___in__000__tonne_": 31168,
+      "_2010_11__area___in__000__hectare__": 2083,
+      "_2010_11__production___in__000__tonne_": 27557,
+      "_": "NA"
+    },
+    {
+      "crops": "Vegetables Total",
+      "_2007_08_area___in__000__hectare__": 7848,
+      "_2007_08_production___in__000__tonne_": 128449,
+      "_2008_09_area___in__000__hectare__": 7981,
+      "_2008_09_production___in__000__tonne_": 129077,
+      "_2009_10__area___in__000__hectare__": 7985,
+      "_2009_10__production___in__000__tonne_": 133738,
+      "_2010_11__area___in__000__hectare__": 8495,
+      "_2010_11__production___in__000__tonne_": 146554,
+      "_": "NA"
+    },
+    {
+      "crops": "Aromatic",
+      "_2007_08_area___in__000__hectare__": 397,
+      "_2007_08_production___in__000__tonne_": 396,
+      "_2008_09_area___in__000__hectare__": 430,
+      "_2008_09_production___in__000__tonne_": 430,
+      "_2009_10__area___in__000__hectare__": 509,
+      "_2009_10__production___in__000__tonne_": 573,
+      "_2010_11__area___in__000__hectare__": 510,
+      "_2010_11__production___in__000__tonne_": 605,
+      "_": "NA"
+    },
+    {
+      "crops": "Almond/Walnut",
+      "_2007_08_area___in__000__hectare__": 132,
+      "_2007_08_production___in__000__tonne_": 177,
+      "_2008_09_area___in__000__hectare__": 136,
+      "_2008_09_production___in__000__tonne_": 173,
+      "_2009_10__area___in__000__hectare__": 142,
+      "_2009_10__production___in__000__tonne_": 193,
+      "_2010_11__area___in__000__hectare__": "NA",
+      "_2010_11__production___in__000__tonne_": "NA",
+      "_": "NA"
+    },
+    {
+      "crops": "Flowers Loose",
+      "_2007_08_area___in__000__hectare__": 166,
+      "_2007_08_production___in__000__tonne_": 868,
+      "_2008_09_area___in__000__hectare__": 167,
+      "_2008_09_production___in__000__tonne_": 987,
+      "_2009_10__area___in__000__hectare__": 183,
+      "_2009_10__production___in__000__tonne_": 1021,
+      "_2010_11__area___in__000__hectare__": 191,
+      "_2010_11__production___in__000__tonne_": 1031,
+      "_": "NA"
+    },
+    {
+      "crops": "Flowers Cut*",
+      "_2007_08_area___in__000__hectare__": "NA",
+      "_2007_08_production___in__000__tonne_": 43644,
+      "_2008_09_area___in__000__hectare__": "NA",
+      "_2008_09_production___in__000__tonne_": 47942,
+      "_2009_10__area___in__000__hectare__": "NA",
+      "_2009_10__production___in__000__tonne_": 66671,
+      "_2010_11__area___in__000__hectare__": "NA",
+      "_2010_11__production___in__000__tonne_": 69027,
+      "_": "NA"
+    },
+    {
+      "crops": "Plantation Crops",
+      "_2007_08_area___in__000__hectare__": 3190,
+      "_2007_08_production___in__000__tonne_": 11300,
+      "_2008_09_area___in__000__hectare__": 3217,
+      "_2008_09_production___in__000__tonne_": 11336,
+      "_2009_10__area___in__000__hectare__": 3265,
+      "_2009_10__production___in__000__tonne_": 11928,
+      "_2010_11__area___in__000__hectare__": 3306,
+      "_2010_11__production___in__000__tonne_": 12007,
+      "_": "NA"
+    },
+    {
+      "crops": "Mushroom",
+      "_2007_08_area___in__000__hectare__": "NA",
+      "_2007_08_production___in__000__tonne_": 37,
+      "_2008_09_area___in__000__hectare__": "NA",
+      "_2008_09_production___in__000__tonne_": 37,
+      "_2009_10__area___in__000__hectare__": "NA",
+      "_2009_10__production___in__000__tonne_": 41,
+      "_2010_11__area___in__000__hectare__": "NA",
+      "_2010_11__production___in__000__tonne_": 41,
+      "_": "NA"
+    },
+    {
+      "crops": "Honey",
+      "_2007_08_area___in__000__hectare__": "NA",
+      "_2007_08_production___in__000__tonne_": 65,
+      "_2008_09_area___in__000__hectare__": "NA",
+      "_2008_09_production___in__000__tonne_": 65,
+      "_2009_10__area___in__000__hectare__": "NA",
+      "_2009_10__production___in__000__tonne_": 65,
+      "_2010_11__area___in__000__hectare__": "NA",
+      "_2010_11__production___in__000__tonne_": 65,
+      "_": "NA"
+    },
+    {
+      "crops": "Spices",
+      "_2007_08_area___in__000__hectare__": 2617,
+      "_2007_08_production___in__000__tonne_": 4357,
+      "_2008_09_area___in__000__hectare__": 2629,
+      "_2008_09_production___in__000__tonne_": 4145,
+      "_2009_10__area___in__000__hectare__": 2464,
+      "_2009_10__production___in__000__tonne_": 4016,
+      "_2010_11__area___in__000__hectare__": 2940,
+      "_2010_11__production___in__000__tonne_": 5350,
+      "_": "NA"
+    },
+    {
+      "crops": "Grand Total",
+      "_2007_08_area___in__000__hectare__": 20207,
+      "_2007_08_production___in__000__tonne_": 211235,
+      "_2008_09_area___in__000__hectare__": 20662,
+      "_2008_09_production___in__000__tonne_": 214716,
+      "_2009_10__area___in__000__hectare__": 20876,
+      "_2009_10__production___in__000__tonne_": 223089,
+      "_2010_11__area___in__000__hectare__": 21825,
+      "_2010_11__production___in__000__tonne_": 240531,
+      "_": "NA"
+    }
+  ]
+}

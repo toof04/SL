@@ -1,0 +1,196 @@
+{
+  "index_name": "0afae399-e96f-43a8-bca0-9ce6c51b20bd",
+  "title": "Details of Ongoing Railway Electrification Projects in North Eastern Railway from 2015-16 to 2019-20 (From: Ministry of Railways)",
+  "desc": "Details of Ongoing Railway Electrification Projects in North Eastern Railway from 2015-16 to 2019-20 (From: Ministry of Railways)",
+  "org_type": "Central",
+  "org": [
+    "Rajya Sabha"
+  ],
+  "sector": [
+    "All"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "1400fec4-27a0-4ffa-a29f-8369be1ea16c",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1602753656,
+  "updated": 1603105206,
+  "created_date": "2020-10-15T11:20:56Z",
+  "updated_date": "2020-10-19T16:30:06Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "1400fec4-27a0-4ffa-a29f-8369be1ea16c",
+    "field": "0afae399-e96f-43a8-bca0-9ce6c51b20bd"
+  },
+  "field": [
+    {
+      "id": "section",
+      "name": "Section",
+      "type": "keyword"
+    },
+    {
+      "id": "year_of_sanction",
+      "name": "Year of Sanction",
+      "type": "keyword"
+    },
+    {
+      "id": "route_kilometer",
+      "name": "Route kilometer",
+      "type": "double"
+    },
+    {
+      "id": "latest_anticipated_cost__rs__in_crore_",
+      "name": "Latest Anticipated Cost (Rs. in Crore)",
+      "type": "double"
+    },
+    {
+      "id": "expenditure_upto_march__2019__rs__in_crore_",
+      "name": "Expenditure upto March, 2019 (Rs. in Crore)",
+      "type": "double"
+    },
+    {
+      "id": "budget_outlay_2019_20__rs__in_crore_",
+      "name": "Budget Outlay 2019-20 (Rs. in Crore)",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 16,
+  "count": 16,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "section": "Mathura-Kasganj-Kalyanpur",
+      "year_of_sanction": "2016-17",
+      "route_kilometer": 338,
+      "latest_anticipated_cost__rs__in_crore_": 432.99,
+      "expenditure_upto_march__2019__rs__in_crore_": 294.09,
+      "budget_outlay_2019_20__rs__in_crore_": 138.9
+    },
+    {
+      "section": "Kaptanganj-Thawe-Khairah-ChhapraKacheri",
+      "year_of_sanction": "2017-18",
+      "route_kilometer": 206,
+      "latest_anticipated_cost__rs__in_crore_": 204.97,
+      "expenditure_upto_march__2019__rs__in_crore_": 62.27,
+      "budget_outlay_2019_20__rs__in_crore_": 77.94
+    },
+    {
+      "section": "Kasganj-Bareilly, Bhojipura-Daliganj",
+      "year_of_sanction": "2017-18",
+      "route_kilometer": 401,
+      "latest_anticipated_cost__rs__in_crore_": 448.01,
+      "expenditure_upto_march__2019__rs__in_crore_": 66.43,
+      "budget_outlay_2019_20__rs__in_crore_": 100
+    },
+    {
+      "section": "Ghazipur - Aunrihar - Manduadih -2nd Line",
+      "year_of_sanction": "2015-16",
+      "route_kilometer": 78,
+      "latest_anticipated_cost__rs__in_crore_": 43.33,
+      "expenditure_upto_march__2019__rs__in_crore_": "0",
+      "budget_outlay_2019_20__rs__in_crore_": 14.64
+    },
+    {
+      "section": "Bhatni - Aunrihar",
+      "year_of_sanction": "2016-17",
+      "route_kilometer": 125,
+      "latest_anticipated_cost__rs__in_crore_": 155,
+      "expenditure_upto_march__2019__rs__in_crore_": 0.14,
+      "budget_outlay_2019_20__rs__in_crore_": 50
+    },
+    {
+      "section": "Phephna-Indara, Mau-Shahganj",
+      "year_of_sanction": "2016-17",
+      "route_kilometer": 150,
+      "latest_anticipated_cost__rs__in_crore_": 180,
+      "expenditure_upto_march__2019__rs__in_crore_": "0",
+      "budget_outlay_2019_20__rs__in_crore_": 55
+    },
+    {
+      "section": "MandhanaJn-Brahmavard",
+      "year_of_sanction": "2018-19",
+      "route_kilometer": 8,
+      "latest_anticipated_cost__rs__in_crore_": 6.98,
+      "expenditure_upto_march__2019__rs__in_crore_": "0",
+      "budget_outlay_2019_20__rs__in_crore_": 2.79
+    },
+    {
+      "section": "Duraundha-Maharajganj-Masrakh",
+      "year_of_sanction": "2018-19",
+      "route_kilometer": 41,
+      "latest_anticipated_cost__rs__in_crore_": 38.19,
+      "expenditure_upto_march__2019__rs__in_crore_": "0",
+      "budget_outlay_2019_20__rs__in_crore_": 7.64
+    },
+    {
+      "section": "Salempur-Barhaj Bazar existing BG line",
+      "year_of_sanction": "2018-19",
+      "route_kilometer": 20,
+      "latest_anticipated_cost__rs__in_crore_": 13.11,
+      "expenditure_upto_march__2019__rs__in_crore_": "0",
+      "budget_outlay_2019_20__rs__in_crore_": 3.93
+    },
+    {
+      "section": "Gonda- Bahraich",
+      "year_of_sanction": "2018-19",
+      "route_kilometer": 60,
+      "latest_anticipated_cost__rs__in_crore_": 81.33,
+      "expenditure_upto_march__2019__rs__in_crore_": "0",
+      "budget_outlay_2019_20__rs__in_crore_": 0.01
+    },
+    {
+      "section": "Shahanjahanpur-Pilibhit, Pilibhit-Tanakpur",
+      "year_of_sanction": "2018-19",
+      "route_kilometer": 145,
+      "latest_anticipated_cost__rs__in_crore_": 176.09,
+      "expenditure_upto_march__2019__rs__in_crore_": "0",
+      "budget_outlay_2019_20__rs__in_crore_": 0.01
+    },
+    {
+      "section": "Gorakhpur-AnandNagar-Gonda&Anand Nagar-Nautanwa",
+      "year_of_sanction": "2018-19",
+      "route_kilometer": 262,
+      "latest_anticipated_cost__rs__in_crore_": 202.94,
+      "expenditure_upto_march__2019__rs__in_crore_": "0",
+      "budget_outlay_2019_20__rs__in_crore_": 0.01
+    },
+    {
+      "section": "Moradabad-Kashipur-Ramnagar, Rampur-Lalkua-Kathgodam incl. Lalkua-Kashipur and Bareilly-Lalkua",
+      "year_of_sanction": "2018-19",
+      "route_kilometer": 309,
+      "latest_anticipated_cost__rs__in_crore_": 263.73,
+      "expenditure_upto_march__2019__rs__in_crore_": "0",
+      "budget_outlay_2019_20__rs__in_crore_": 47.35
+    },
+    {
+      "section": "Paniahwa - Chhitauni - Tamkuhi Road",
+      "year_of_sanction": "2018-19",
+      "route_kilometer": 68,
+      "latest_anticipated_cost__rs__in_crore_": 61.1,
+      "expenditure_upto_march__2019__rs__in_crore_": "0",
+      "budget_outlay_2019_20__rs__in_crore_": 0.01
+    },
+    {
+      "section": "Hathua-Bathua Bazar- Bhatni New line",
+      "year_of_sanction": "2018-19",
+      "route_kilometer": 80,
+      "latest_anticipated_cost__rs__in_crore_": 70.35,
+      "expenditure_upto_march__2019__rs__in_crore_": "0",
+      "budget_outlay_2019_20__rs__in_crore_": 0.01
+    },
+    {
+      "section": "Total",
+      "year_of_sanction": "Total",
+      "route_kilometer": 2291,
+      "latest_anticipated_cost__rs__in_crore_": 2378.12,
+      "expenditure_upto_march__2019__rs__in_crore_": 422.93,
+      "budget_outlay_2019_20__rs__in_crore_": 498.24
+    }
+  ]
+}

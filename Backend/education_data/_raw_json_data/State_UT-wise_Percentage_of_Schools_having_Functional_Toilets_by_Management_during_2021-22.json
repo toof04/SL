@@ -1,0 +1,533 @@
+{
+  "index_name": "40c05e9d-8191-4125-ae77-421ee125866a",
+  "title": "State/UT-wise Percentage of Schools having Functional Toilets by Management during 2021-22",
+  "desc": "State/UT-wise Percentage of Schools having Functional Toilets by Management during 2021-22",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Education",
+    "Department of School Education and Literacy"
+  ],
+  "sector": [
+    "Education"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "80eac310-edaf-4462-b0b3-afcb24cbec59",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1742195084,
+  "updated": 1742195084,
+  "created_date": "2025-03-17T08:04:44Z",
+  "updated_date": "2025-03-17T08:04:44Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api_new_2025",
+    "type": "80eac310-edaf-4462-b0b3-afcb24cbec59",
+    "field": "40c05e9d-8191-4125-ae77-421ee125866a"
+  },
+  "field": [
+    {
+      "id": "state",
+      "name": "India/ State/ UT",
+      "type": "keyword"
+    },
+    {
+      "id": "management",
+      "name": "All Management",
+      "type": "double"
+    },
+    {
+      "id": "government_total",
+      "name": "Government - Total",
+      "type": "double"
+    },
+    {
+      "id": "government_kvs",
+      "name": "Government - KVS",
+      "type": "double"
+    },
+    {
+      "id": "government_nvs",
+      "name": "Government - NVS",
+      "type": "double"
+    },
+    {
+      "id": "government_other_central",
+      "name": "Government - Other Central Government",
+      "type": "double"
+    },
+    {
+      "id": "government_state_government",
+      "name": "Government - State Government",
+      "type": "double"
+    },
+    {
+      "id": "government_aided",
+      "name": "Government Aided",
+      "type": "double"
+    },
+    {
+      "id": "private_unaided_recognized",
+      "name": "Private Unaided Recognized",
+      "type": "double"
+    },
+    {
+      "id": "others",
+      "name": "Others",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 37,
+  "count": 37,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "state": "India",
+      "management": 96.5,
+      "government_total": 96.2,
+      "government_kvs": 100,
+      "government_nvs": 100,
+      "government_other_central": 99.6,
+      "government_state_government": 96.2,
+      "government_aided": 95.1,
+      "private_unaided_recognized": 98.4,
+      "others": 89.9
+    },
+    {
+      "state": "Andaman and Nicobar Islands",
+      "management": 100,
+      "government_total": 100,
+      "government_kvs": 100,
+      "government_nvs": 100,
+      "government_other_central": "0",
+      "government_state_government": 100,
+      "government_aided": 100,
+      "private_unaided_recognized": 100,
+      "others": "0"
+    },
+    {
+      "state": "Andhra Pradesh",
+      "management": 98.1,
+      "government_total": 97.6,
+      "government_kvs": 100,
+      "government_nvs": 100,
+      "government_other_central": 100,
+      "government_state_government": 97.6,
+      "government_aided": 96.4,
+      "private_unaided_recognized": 99.9,
+      "others": 99.5
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "management": 74.6,
+      "government_total": 69.8,
+      "government_kvs": 100,
+      "government_nvs": 100,
+      "government_other_central": 100,
+      "government_state_government": 69.4,
+      "government_aided": 100,
+      "private_unaided_recognized": 97.4,
+      "others": 95.7
+    },
+    {
+      "state": "Assam",
+      "management": 86.9,
+      "government_total": 94.9,
+      "government_kvs": 100,
+      "government_nvs": 100,
+      "government_other_central": 100,
+      "government_state_government": 94.9,
+      "government_aided": 58.6,
+      "private_unaided_recognized": 92.8,
+      "others": 35.2
+    },
+    {
+      "state": "Bihar",
+      "management": 99.3,
+      "government_total": 99.2,
+      "government_kvs": 100,
+      "government_nvs": 100,
+      "government_other_central": 100,
+      "government_state_government": 99.2,
+      "government_aided": 99.2,
+      "private_unaided_recognized": 99.9,
+      "others": 99.7
+    },
+    {
+      "state": "Chandigarh",
+      "management": 100,
+      "government_total": 100,
+      "government_kvs": 100,
+      "government_nvs": 100,
+      "government_other_central": 100,
+      "government_state_government": 100,
+      "government_aided": 100,
+      "private_unaided_recognized": 100,
+      "others": 100
+    },
+    {
+      "state": "Chhattisgarh",
+      "management": 98.5,
+      "government_total": 98.3,
+      "government_kvs": 100,
+      "government_nvs": 100,
+      "government_other_central": 100,
+      "government_state_government": 98.3,
+      "government_aided": 99.3,
+      "private_unaided_recognized": 99.8,
+      "others": 99.7
+    },
+    {
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "management": 100,
+      "government_total": 100,
+      "government_kvs": 100,
+      "government_nvs": 100,
+      "government_other_central": "0",
+      "government_state_government": 100,
+      "government_aided": 100,
+      "private_unaided_recognized": 100,
+      "others": 100
+    },
+    {
+      "state": "Delhi",
+      "management": 100,
+      "government_total": 100,
+      "government_kvs": 100,
+      "government_nvs": 100,
+      "government_other_central": "0",
+      "government_state_government": 100,
+      "government_aided": 100,
+      "private_unaided_recognized": 100,
+      "others": "0"
+    },
+    {
+      "state": "Goa",
+      "management": 100,
+      "government_total": 100,
+      "government_kvs": 100,
+      "government_nvs": 100,
+      "government_other_central": "0",
+      "government_state_government": 100,
+      "government_aided": 100,
+      "private_unaided_recognized": 100,
+      "others": "0"
+    },
+    {
+      "state": "Gujarat",
+      "management": 99.1,
+      "government_total": 98.6,
+      "government_kvs": 100,
+      "government_nvs": 100,
+      "government_other_central": 100,
+      "government_state_government": 98.6,
+      "government_aided": 99.9,
+      "private_unaided_recognized": 100,
+      "others": 100
+    },
+    {
+      "state": "Haryana",
+      "management": 98.9,
+      "government_total": 98.3,
+      "government_kvs": 100,
+      "government_nvs": 100,
+      "government_other_central": 100,
+      "government_state_government": 98.3,
+      "government_aided": 100,
+      "private_unaided_recognized": 99.9,
+      "others": 99.7
+    },
+    {
+      "state": "Himachal Pradesh",
+      "management": 99.2,
+      "government_total": 99.2,
+      "government_kvs": 100,
+      "government_nvs": 100,
+      "government_other_central": 100,
+      "government_state_government": 99.2,
+      "government_aided": "0",
+      "private_unaided_recognized": 99.7,
+      "others": 100
+    },
+    {
+      "state": "Jammu and Kashmir",
+      "management": 90.4,
+      "government_total": 88.2,
+      "government_kvs": 100,
+      "government_nvs": 100,
+      "government_other_central": "0",
+      "government_state_government": 88.2,
+      "government_aided": 100,
+      "private_unaided_recognized": 99.6,
+      "others": 98.1
+    },
+    {
+      "state": "Jharkhand",
+      "management": 97.6,
+      "government_total": 97.6,
+      "government_kvs": 100,
+      "government_nvs": 100,
+      "government_other_central": 100,
+      "government_state_government": 97.6,
+      "government_aided": 88.8,
+      "private_unaided_recognized": 99.6,
+      "others": 98.2
+    },
+    {
+      "state": "Karnataka",
+      "management": 98.9,
+      "government_total": 98.4,
+      "government_kvs": 100,
+      "government_nvs": 100,
+      "government_other_central": 100,
+      "government_state_government": 98.4,
+      "government_aided": 99.9,
+      "private_unaided_recognized": 99.8,
+      "others": 100
+    },
+    {
+      "state": "Kerala",
+      "management": 99.9,
+      "government_total": 99.7,
+      "government_kvs": 100,
+      "government_nvs": 100,
+      "government_other_central": 100,
+      "government_state_government": 99.7,
+      "government_aided": 100,
+      "private_unaided_recognized": 100,
+      "others": 99.9
+    },
+    {
+      "state": "Ladakh",
+      "management": 98,
+      "government_total": 97.6,
+      "government_kvs": 100,
+      "government_nvs": 100,
+      "government_other_central": 100,
+      "government_state_government": 97.6,
+      "government_aided": 100,
+      "private_unaided_recognized": 100,
+      "others": "0"
+    },
+    {
+      "state": "Lakshadweep",
+      "management": 100,
+      "government_total": 100,
+      "government_kvs": 100,
+      "government_nvs": 100,
+      "government_other_central": "0",
+      "government_state_government": 100,
+      "government_aided": "0",
+      "private_unaided_recognized": "0",
+      "others": "0"
+    },
+    {
+      "state": "Madhya Pradesh",
+      "management": 97.9,
+      "government_total": 97.5,
+      "government_kvs": 100,
+      "government_nvs": 100,
+      "government_other_central": 100,
+      "government_state_government": 97.5,
+      "government_aided": 98.9,
+      "private_unaided_recognized": 99,
+      "others": 97.3
+    },
+    {
+      "state": "Maharashtra",
+      "management": 96.5,
+      "government_total": 94.5,
+      "government_kvs": 100,
+      "government_nvs": 100,
+      "government_other_central": 100,
+      "government_state_government": 94.5,
+      "government_aided": 99.5,
+      "private_unaided_recognized": 99.1,
+      "others": 100
+    },
+    {
+      "state": "Manipur",
+      "management": 83,
+      "government_total": 80.1,
+      "government_kvs": 100,
+      "government_nvs": 100,
+      "government_other_central": 100,
+      "government_state_government": 80,
+      "government_aided": 65,
+      "private_unaided_recognized": 99.5,
+      "others": 97.8
+    },
+    {
+      "state": "Meghalaya",
+      "management": 76.3,
+      "government_total": 80.4,
+      "government_kvs": 100,
+      "government_nvs": 100,
+      "government_other_central": "0",
+      "government_state_government": 80.3,
+      "government_aided": 75.1,
+      "private_unaided_recognized": 67.2,
+      "others": 62.5
+    },
+    {
+      "state": "Mizoram",
+      "management": 92.3,
+      "government_total": 90.4,
+      "government_kvs": 100,
+      "government_nvs": 100,
+      "government_other_central": 100,
+      "government_state_government": 90.3,
+      "government_aided": 95.2,
+      "private_unaided_recognized": 96.3,
+      "others": 91.7
+    },
+    {
+      "state": "Nagaland",
+      "management": 80.3,
+      "government_total": 74.2,
+      "government_kvs": 100,
+      "government_nvs": 100,
+      "government_other_central": 100,
+      "government_state_government": 74,
+      "government_aided": "0",
+      "private_unaided_recognized": 96,
+      "others": 100
+    },
+    {
+      "state": "Odisha",
+      "management": 95.9,
+      "government_total": 96.4,
+      "government_kvs": 100,
+      "government_nvs": 100,
+      "government_other_central": 100,
+      "government_state_government": 96.4,
+      "government_aided": 88.4,
+      "private_unaided_recognized": 98.7,
+      "others": 97.1
+    },
+    {
+      "state": "Puducherry",
+      "management": 100,
+      "government_total": 100,
+      "government_kvs": 100,
+      "government_nvs": 100,
+      "government_other_central": "0",
+      "government_state_government": 100,
+      "government_aided": 100,
+      "private_unaided_recognized": 100,
+      "others": "0"
+    },
+    {
+      "state": "Punjab",
+      "management": 99.8,
+      "government_total": 99.7,
+      "government_kvs": 100,
+      "government_nvs": 100,
+      "government_other_central": 100,
+      "government_state_government": 99.7,
+      "government_aided": 100,
+      "private_unaided_recognized": 100,
+      "others": 100
+    },
+    {
+      "state": "Rajasthan",
+      "management": 93.7,
+      "government_total": 93.7,
+      "government_kvs": 100,
+      "government_nvs": 100,
+      "government_other_central": 100,
+      "government_state_government": 93.7,
+      "government_aided": "0",
+      "private_unaided_recognized": 94.2,
+      "others": 86.8
+    },
+    {
+      "state": "Sikkim",
+      "management": 99.8,
+      "government_total": 99.8,
+      "government_kvs": 100,
+      "government_nvs": 100,
+      "government_other_central": 100,
+      "government_state_government": 99.8,
+      "government_aided": 100,
+      "private_unaided_recognized": 100,
+      "others": "0"
+    },
+    {
+      "state": "Tamil Nadu",
+      "management": 100,
+      "government_total": 100,
+      "government_kvs": 100,
+      "government_nvs": "0",
+      "government_other_central": 100,
+      "government_state_government": 100,
+      "government_aided": 100,
+      "private_unaided_recognized": 100,
+      "others": 100
+    },
+    {
+      "state": "Telangana",
+      "management": 82.8,
+      "government_total": 76.1,
+      "government_kvs": 100,
+      "government_nvs": 100,
+      "government_other_central": 87.5,
+      "government_state_government": 76.1,
+      "government_aided": 85.9,
+      "private_unaided_recognized": 98.9,
+      "others": 98.2
+    },
+    {
+      "state": "Tripura",
+      "management": 82.5,
+      "government_total": 82.3,
+      "government_kvs": 100,
+      "government_nvs": 100,
+      "government_other_central": "0",
+      "government_state_government": 82.2,
+      "government_aided": 100,
+      "private_unaided_recognized": 95.9,
+      "others": 64.8
+    },
+    {
+      "state": "Uttar Pradesh",
+      "management": 98,
+      "government_total": 97.4,
+      "government_kvs": 100,
+      "government_nvs": 100,
+      "government_other_central": 100,
+      "government_state_government": 97.4,
+      "government_aided": 98.7,
+      "private_unaided_recognized": 98.7,
+      "others": 98.2
+    },
+    {
+      "state": "Uttarakhand",
+      "management": 95.1,
+      "government_total": 93.7,
+      "government_kvs": 100,
+      "government_nvs": 100,
+      "government_other_central": 100,
+      "government_state_government": 93.7,
+      "government_aided": 97.2,
+      "private_unaided_recognized": 98.8,
+      "others": 96.8
+    },
+    {
+      "state": "West Bengal",
+      "management": 99.9,
+      "government_total": 100,
+      "government_kvs": 100,
+      "government_nvs": 100,
+      "government_other_central": 100,
+      "government_state_government": 100,
+      "government_aided": 98.9,
+      "private_unaided_recognized": 99.7,
+      "others": 98.4
+    }
+  ]
+}

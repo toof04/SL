@@ -1,0 +1,275 @@
+{
+  "index_name": "7c4969d4-1601-4b77-8014-2d5cc0195aa5",
+  "title": "Drug - Head-wise Seizures under Narcotic Drugs and Psychotropic Substances NDPS Act during 2021",
+  "desc": "Drug - Head-wise Seizures under Narcotic Drugs and Psychotropic Substances NDPS Act during 2021",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Home Affairs",
+    "Department of States",
+    "National Crime Records Bureau (NCRB)"
+  ],
+  "sector": [
+    "Police"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "83a258f3-6fd1-4a9a-911b-5207a0cfa136",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1679236460,
+  "updated": 1679286931,
+  "created_date": "2023-03-19T15:34:20Z",
+  "updated_date": "2023-03-20T10:05:31Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "83a258f3-6fd1-4a9a-911b-5207a0cfa136",
+    "field": "7c4969d4-1601-4b77-8014-2d5cc0195aa5"
+  },
+  "field": [
+    {
+      "id": "sl__no_",
+      "name": "Sl. No.",
+      "type": "keyword"
+    },
+    {
+      "id": "drug___head",
+      "name": "Drug - head",
+      "type": "keyword"
+    },
+    {
+      "id": "in_kilogram",
+      "name": "in Kilogram",
+      "type": "double"
+    },
+    {
+      "id": "in_numbers",
+      "name": "In Numbers",
+      "type": "double"
+    },
+    {
+      "id": "in_liters",
+      "name": "In Liters",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 30,
+  "count": 30,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "sl__no_": "1",
+      "drug___head": "Opium Based Drugs",
+      "in_kilogram": 333312.543,
+      "in_numbers": "0",
+      "in_liters": "0"
+    },
+    {
+      "sl__no_": "1.1",
+      "drug___head": "Opium",
+      "in_kilogram": 17438.316,
+      "in_numbers": "0",
+      "in_liters": "0"
+    },
+    {
+      "sl__no_": "1.2",
+      "drug___head": "Morphine (In Kg)",
+      "in_kilogram": 46.673,
+      "in_numbers": "0",
+      "in_liters": "0"
+    },
+    {
+      "sl__no_": "1.3",
+      "drug___head": "Heroin(In Kg)",
+      "in_kilogram": 68219.917,
+      "in_numbers": "0",
+      "in_liters": "0"
+    },
+    {
+      "sl__no_": "1.3.1",
+      "drug___head": "Heroin",
+      "in_kilogram": 67056.79,
+      "in_numbers": "0",
+      "in_liters": "0"
+    },
+    {
+      "sl__no_": "1.3.2",
+      "drug___head": "Smack",
+      "in_kilogram": 1163.127,
+      "in_numbers": "0",
+      "in_liters": "0"
+    },
+    {
+      "sl__no_": "1.4",
+      "drug___head": "Poppy Husk",
+      "in_kilogram": 247607.637,
+      "in_numbers": "0",
+      "in_liters": "0"
+    },
+    {
+      "sl__no_": "2",
+      "drug___head": "Canabis Based Drugs",
+      "in_kilogram": 796080.805,
+      "in_numbers": "0",
+      "in_liters": "0"
+    },
+    {
+      "sl__no_": "2.1",
+      "drug___head": "Ganja(In Kg)",
+      "in_kilogram": 777082.037,
+      "in_numbers": "0",
+      "in_liters": "0"
+    },
+    {
+      "sl__no_": "2.1.1",
+      "drug___head": "Ganja",
+      "in_kilogram": 768579.708,
+      "in_numbers": "0",
+      "in_liters": "0"
+    },
+    {
+      "sl__no_": "2.1.2",
+      "drug___head": "Bhang",
+      "in_kilogram": 8440.614,
+      "in_numbers": "0",
+      "in_liters": "0"
+    },
+    {
+      "sl__no_": "2.1.3",
+      "drug___head": "Sulfa",
+      "in_kilogram": 61.715,
+      "in_numbers": "0",
+      "in_liters": "0"
+    },
+    {
+      "sl__no_": "2.2",
+      "drug___head": "Hashish",
+      "in_kilogram": 108.881,
+      "in_numbers": "0",
+      "in_liters": "0"
+    },
+    {
+      "sl__no_": "2.3",
+      "drug___head": "Charas",
+      "in_kilogram": 18889.887,
+      "in_numbers": "0",
+      "in_liters": "0"
+    },
+    {
+      "sl__no_": "3",
+      "drug___head": "Cocaine(In Kg)",
+      "in_kilogram": 2220.49,
+      "in_numbers": "0",
+      "in_liters": "0"
+    },
+    {
+      "sl__no_": "4",
+      "drug___head": "Psychotropic Substances",
+      "in_kilogram": 1457.439,
+      "in_numbers": "0",
+      "in_liters": "0"
+    },
+    {
+      "sl__no_": "4.1",
+      "drug___head": "Methaqualone(In Kg)",
+      "in_kilogram": 9.166,
+      "in_numbers": "0",
+      "in_liters": "0"
+    },
+    {
+      "sl__no_": "4.2",
+      "drug___head": "Ephedrine/Psuedo Ephedrine",
+      "in_kilogram": 0.24,
+      "in_numbers": "0",
+      "in_liters": "0"
+    },
+    {
+      "sl__no_": "4.3",
+      "drug___head": "L.S.D.(in KG)",
+      "in_kilogram": 1.97,
+      "in_numbers": "0",
+      "in_liters": "0"
+    },
+    {
+      "sl__no_": "4.4",
+      "drug___head": "Amphetamine/Methamphetamine",
+      "in_kilogram": 1437.408,
+      "in_numbers": "0",
+      "in_liters": "0"
+    },
+    {
+      "sl__no_": "4.5",
+      "drug___head": "Ketamine",
+      "in_kilogram": 0.005,
+      "in_numbers": "0",
+      "in_liters": "0"
+    },
+    {
+      "sl__no_": "4.6",
+      "drug___head": "ATS",
+      "in_kilogram": 8.65,
+      "in_numbers": "0",
+      "in_liters": "0"
+    },
+    {
+      "sl__no_": "5",
+      "drug___head": "Medicinal Preparations",
+      "in_kilogram": 51299.887,
+      "in_numbers": 44578576,
+      "in_liters": 682129.967
+    },
+    {
+      "sl__no_": "5.1",
+      "drug___head": "Phensidyl/Cough Syrup",
+      "in_kilogram": "0",
+      "in_numbers": "0",
+      "in_liters": 629251.301
+    },
+    {
+      "sl__no_": "5.2",
+      "drug___head": "Injection Vials",
+      "in_kilogram": "0",
+      "in_numbers": 179630,
+      "in_liters": "0"
+    },
+    {
+      "sl__no_": "5.3",
+      "drug___head": "Pills/Capsules",
+      "in_kilogram": "0",
+      "in_numbers": 43415653,
+      "in_liters": "0"
+    },
+    {
+      "sl__no_": "5.4",
+      "drug___head": "Other Medicinal Preparations",
+      "in_kilogram": 51299.887,
+      "in_numbers": 983293,
+      "in_liters": 52878.666
+    },
+    {
+      "sl__no_": "6",
+      "drug___head": "Drug Precursor - Acetic Anhydride",
+      "in_kilogram": "0",
+      "in_numbers": "0",
+      "in_liters": "0"
+    },
+    {
+      "sl__no_": "7",
+      "drug___head": "Other Drugs",
+      "in_kilogram": 17415.976,
+      "in_numbers": 3834111,
+      "in_liters": 213496.37
+    },
+    {
+      "sl__no_": "Total",
+      "drug___head": "Total",
+      "in_kilogram": 1201787.14,
+      "in_numbers": 48412687,
+      "in_liters": 895626.337
+    }
+  ]
+}

@@ -1,0 +1,1703 @@
+{
+  "index_name": "f1939962-ec47-4f34-829c-9f1a286a154a",
+  "title": "Gram Panchayat-wise Rural Sanitation Coverage in Supaul District of Bihar as on date",
+  "desc": "Gram Panchayat-wise Rural Sanitation Coverage in Supaul District of Bihar as on date",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Jal Shakti",
+    "Department of Drinking Water and Sanitation"
+  ],
+  "sector": [
+    "Water and Sanitation"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1688360301,
+  "updated": 1688364918,
+  "created_date": "2023-07-03T06:58:21Z",
+  "updated_date": "2023-07-03T11:45:18Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "sbm",
+    "type": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+    "field": "f1939962-ec47-4f34-829c-9f1a286a154a"
+  },
+  "field": [
+    {
+      "id": "statename",
+      "name": "StateName",
+      "type": "keyword"
+    },
+    {
+      "id": "districtname",
+      "name": "DistrictName",
+      "type": "keyword"
+    },
+    {
+      "id": "blockname",
+      "name": "BlockName",
+      "type": "keyword"
+    },
+    {
+      "id": "grampanchayatname",
+      "name": "GramPanchayatName",
+      "type": "keyword"
+    },
+    {
+      "id": "ihhltotalasperdetails",
+      "name": "IHHLTotalAsPerDetails",
+      "type": "double"
+    },
+    {
+      "id": "ihhltotalach",
+      "name": "IHHLTotalAch",
+      "type": "double"
+    },
+    {
+      "id": "date",
+      "name": "Date",
+      "type": "keyword"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 181,
+  "count": 181,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "BASANTPUR",
+      "grampanchayatname": "BALBHADARPUR",
+      "ihhltotalasperdetails": 2927,
+      "ihhltotalach": 2927,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "BASANTPUR",
+      "grampanchayatname": "BANAILI PATTI",
+      "ihhltotalasperdetails": 2610,
+      "ihhltotalach": 2610,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "BASANTPUR",
+      "grampanchayatname": "BASANTPUR",
+      "ihhltotalasperdetails": 2979,
+      "ihhltotalach": 2979,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "BASANTPUR",
+      "grampanchayatname": "BHAGWANPUR",
+      "ihhltotalasperdetails": 2628,
+      "ihhltotalach": 2628,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "BASANTPUR",
+      "grampanchayatname": "BHIMNAGAR",
+      "ihhltotalasperdetails": 2333,
+      "ihhltotalach": 2333,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "BASANTPUR",
+      "grampanchayatname": "BISHANPUR SHIWRAM",
+      "ihhltotalasperdetails": 2915,
+      "ihhltotalach": 2915,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "BASANTPUR",
+      "grampanchayatname": "DENBANDHE",
+      "ihhltotalasperdetails": 2837,
+      "ihhltotalach": 2837,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "BASANTPUR",
+      "grampanchayatname": "HIRDAY NAGAR",
+      "ihhltotalasperdetails": 3118,
+      "ihhltotalach": 3118,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "BASANTPUR",
+      "grampanchayatname": "KOCHGAWAN",
+      "ihhltotalasperdetails": 2851,
+      "ihhltotalach": 2851,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "BASANTPUR",
+      "grampanchayatname": "KUSAHAR",
+      "ihhltotalasperdetails": 2644,
+      "ihhltotalach": 2644,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "BASANTPUR",
+      "grampanchayatname": "NIRMALI",
+      "ihhltotalasperdetails": 2665,
+      "ihhltotalach": 2665,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "BASANTPUR",
+      "grampanchayatname": "PARMANANDPUR",
+      "ihhltotalasperdetails": 3007,
+      "ihhltotalach": 3007,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "BASANTPUR",
+      "grampanchayatname": "RATANPUR",
+      "ihhltotalasperdetails": 3130,
+      "ihhltotalach": 3130,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "BASANTPUR",
+      "grampanchayatname": "SATAN PATTI",
+      "ihhltotalasperdetails": 2792,
+      "ihhltotalach": 2792,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "CHHATAPUR",
+      "grampanchayatname": "BALUA",
+      "ihhltotalasperdetails": 2603,
+      "ihhltotalach": 2603,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "CHHATAPUR",
+      "grampanchayatname": "BHIMPUR",
+      "ihhltotalasperdetails": 1703,
+      "ihhltotalach": 1703,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "CHHATAPUR",
+      "grampanchayatname": "CHARNA",
+      "ihhltotalasperdetails": 1390,
+      "ihhltotalach": 1390,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "CHHATAPUR",
+      "grampanchayatname": "CHATAPUR",
+      "ihhltotalasperdetails": 3035,
+      "ihhltotalach": 3035,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "CHHATAPUR",
+      "grampanchayatname": "CHUNNI",
+      "ihhltotalasperdetails": 2344,
+      "ihhltotalach": 2344,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "CHHATAPUR",
+      "grampanchayatname": "DEHARIA",
+      "ihhltotalasperdetails": 2516,
+      "ihhltotalach": 2516,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "CHHATAPUR",
+      "grampanchayatname": "GHIBAHA",
+      "ihhltotalasperdetails": 1721,
+      "ihhltotalach": 1721,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "CHHATAPUR",
+      "grampanchayatname": "GUWALPARA",
+      "ihhltotalasperdetails": 2920,
+      "ihhltotalach": 2920,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "CHHATAPUR",
+      "grampanchayatname": "JHAKHAR GARH",
+      "ihhltotalasperdetails": 2190,
+      "ihhltotalach": 2190,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "CHHATAPUR",
+      "grampanchayatname": "JIBACHH PUR",
+      "ihhltotalasperdetails": 2080,
+      "ihhltotalach": 2080,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "CHHATAPUR",
+      "grampanchayatname": "KATHARA",
+      "ihhltotalasperdetails": 2383,
+      "ihhltotalach": 2383,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "CHHATAPUR",
+      "grampanchayatname": "LALGANJ",
+      "ihhltotalasperdetails": 3123,
+      "ihhltotalach": 3123,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "CHHATAPUR",
+      "grampanchayatname": "LAXAMINIA",
+      "ihhltotalasperdetails": 2854,
+      "ihhltotalach": 2854,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "CHHATAPUR",
+      "grampanchayatname": "LAXAMIPUR KHUTI",
+      "ihhltotalasperdetails": 1524,
+      "ihhltotalach": 1524,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "CHHATAPUR",
+      "grampanchayatname": "MADHOPUR",
+      "ihhltotalasperdetails": 3166,
+      "ihhltotalach": 3166,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "CHHATAPUR",
+      "grampanchayatname": "MADHUBANI",
+      "ihhltotalasperdetails": 2242,
+      "ihhltotalach": 2242,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "CHHATAPUR",
+      "grampanchayatname": "MOHAMAD GANJ",
+      "ihhltotalasperdetails": 2772,
+      "ihhltotalach": 2772,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "CHHATAPUR",
+      "grampanchayatname": "RAJESHWARI EAST",
+      "ihhltotalasperdetails": 2525,
+      "ihhltotalach": 2525,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "CHHATAPUR",
+      "grampanchayatname": "RAJESHWARI WEST",
+      "ihhltotalasperdetails": 1814,
+      "ihhltotalach": 1814,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "CHHATAPUR",
+      "grampanchayatname": "RAMPUR",
+      "ihhltotalasperdetails": 3463,
+      "ihhltotalach": 3463,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "CHHATAPUR",
+      "grampanchayatname": "SOHATHA",
+      "ihhltotalasperdetails": 1334,
+      "ihhltotalach": 1334,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "CHHATAPUR",
+      "grampanchayatname": "THUTHI",
+      "ihhltotalasperdetails": 2856,
+      "ihhltotalach": 2856,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "CHHATAPUR",
+      "grampanchayatname": "UDHAMPUR",
+      "ihhltotalasperdetails": 2039,
+      "ihhltotalach": 2039,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "KISHANPUR",
+      "grampanchayatname": "ANDAULEE",
+      "ihhltotalasperdetails": 3495,
+      "ihhltotalach": 3495,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "KISHANPUR",
+      "grampanchayatname": "BOURAHA",
+      "ihhltotalasperdetails": 1375,
+      "ihhltotalach": 1375,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "KISHANPUR",
+      "grampanchayatname": "DUBIYAHI",
+      "ihhltotalasperdetails": 1091,
+      "ihhltotalach": 1091,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "KISHANPUR",
+      "grampanchayatname": "KADAMPURA",
+      "ihhltotalasperdetails": 1632,
+      "ihhltotalach": 1632,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "KISHANPUR",
+      "grampanchayatname": "KARAI HIYA",
+      "ihhltotalasperdetails": 2087,
+      "ihhltotalach": 2087,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "KISHANPUR",
+      "grampanchayatname": "KISHANPUR NORTH",
+      "ihhltotalasperdetails": 2318,
+      "ihhltotalach": 2318,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "KISHANPUR",
+      "grampanchayatname": "KISHANPUR SOUTH",
+      "ihhltotalasperdetails": 2217,
+      "ihhltotalach": 2217,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "KISHANPUR",
+      "grampanchayatname": "MALADH",
+      "ihhltotalasperdetails": 2218,
+      "ihhltotalach": 2218,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "KISHANPUR",
+      "grampanchayatname": "MEHA SIMAR",
+      "ihhltotalasperdetails": 2206,
+      "ihhltotalach": 2206,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "KISHANPUR",
+      "grampanchayatname": "MOUJAHA",
+      "ihhltotalasperdetails": 2015,
+      "ihhltotalach": 2015,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "KISHANPUR",
+      "grampanchayatname": "NOWA BAKHER",
+      "ihhltotalasperdetails": 2175,
+      "ihhltotalach": 2175,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "KISHANPUR",
+      "grampanchayatname": "PARSA MABHO",
+      "ihhltotalasperdetails": 1665,
+      "ihhltotalach": 1665,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "KISHANPUR",
+      "grampanchayatname": "RAJPUR",
+      "ihhltotalasperdetails": 2464,
+      "ihhltotalach": 2464,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "KISHANPUR",
+      "grampanchayatname": "SHIVPURI",
+      "ihhltotalasperdetails": 2281,
+      "ihhltotalach": 2281,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "KISHANPUR",
+      "grampanchayatname": "SUKHASAN",
+      "ihhltotalasperdetails": 3050,
+      "ihhltotalach": 3050,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "KISHANPUR",
+      "grampanchayatname": "TULAPATTI",
+      "ihhltotalasperdetails": 2248,
+      "ihhltotalach": 2248,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "MARAUNA",
+      "grampanchayatname": "BARHERA",
+      "ihhltotalasperdetails": 2236,
+      "ihhltotalach": 2236,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "MARAUNA",
+      "grampanchayatname": "BELHI",
+      "ihhltotalasperdetails": 2102,
+      "ihhltotalach": 2102,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "MARAUNA",
+      "grampanchayatname": "GANOURA",
+      "ihhltotalasperdetails": 1598,
+      "ihhltotalach": 1598,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "MARAUNA",
+      "grampanchayatname": "GHOGHARARIA",
+      "ihhltotalasperdetails": 1824,
+      "ihhltotalach": 1824,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "MARAUNA",
+      "grampanchayatname": "HARRI",
+      "ihhltotalasperdetails": 1585,
+      "ihhltotalach": 1585,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "MARAUNA",
+      "grampanchayatname": "KADMAHA",
+      "ihhltotalasperdetails": 2130,
+      "ihhltotalach": 2130,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "MARAUNA",
+      "grampanchayatname": "KAMRAIL",
+      "ihhltotalasperdetails": 1570,
+      "ihhltotalach": 1570,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "MARAUNA",
+      "grampanchayatname": "LALMINIYA",
+      "ihhltotalasperdetails": 2264,
+      "ihhltotalach": 2264,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "MARAUNA",
+      "grampanchayatname": "MARAUNA NORTH",
+      "ihhltotalasperdetails": 1722,
+      "ihhltotalach": 1722,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "MARAUNA",
+      "grampanchayatname": "MARAUNA SOUTH",
+      "ihhltotalasperdetails": 1515,
+      "ihhltotalach": 1515,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "MARAUNA",
+      "grampanchayatname": "PARIKOCH",
+      "ihhltotalasperdetails": 1497,
+      "ihhltotalach": 1497,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "MARAUNA",
+      "grampanchayatname": "SAROZA BELA",
+      "ihhltotalasperdetails": 1473,
+      "ihhltotalach": 1473,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "MARAUNA",
+      "grampanchayatname": "SISONEE",
+      "ihhltotalasperdetails": 1701,
+      "ihhltotalach": 1701,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "NIRMALI",
+      "grampanchayatname": "BELA SINGAR MOTI",
+      "ihhltotalasperdetails": 1937,
+      "ihhltotalach": 1937,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "NIRMALI",
+      "grampanchayatname": "DAGMARA",
+      "ihhltotalasperdetails": 3617,
+      "ihhltotalach": 3617,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "NIRMALI",
+      "grampanchayatname": "DIGHIYA",
+      "ihhltotalasperdetails": 1843,
+      "ihhltotalach": 1843,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "NIRMALI",
+      "grampanchayatname": "HARYAHI",
+      "ihhltotalasperdetails": 1717,
+      "ihhltotalach": 1717,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "NIRMALI",
+      "grampanchayatname": "KAMALPUR",
+      "ihhltotalasperdetails": 2769,
+      "ihhltotalach": 2769,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "NIRMALI",
+      "grampanchayatname": "KUNAOLEE",
+      "ihhltotalasperdetails": 2795,
+      "ihhltotalach": 2795,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "NIRMALI",
+      "grampanchayatname": "MAJARI",
+      "ihhltotalasperdetails": 1696,
+      "ihhltotalach": 1696,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "PIPRA",
+      "grampanchayatname": "AMAHA",
+      "ihhltotalasperdetails": 2180,
+      "ihhltotalach": 2180,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "PIPRA",
+      "grampanchayatname": "BASAHA",
+      "ihhltotalasperdetails": 2829,
+      "ihhltotalach": 2829,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "PIPRA",
+      "grampanchayatname": "DINAPATTI",
+      "ihhltotalasperdetails": 2927,
+      "ihhltotalach": 2927,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "PIPRA",
+      "grampanchayatname": "DUBIAHI",
+      "ihhltotalasperdetails": 3033,
+      "ihhltotalach": 3033,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "PIPRA",
+      "grampanchayatname": "KATAIA MAHE",
+      "ihhltotalasperdetails": 2529,
+      "ihhltotalach": 2529,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "PIPRA",
+      "grampanchayatname": "MAHESH PUR",
+      "ihhltotalasperdetails": 2393,
+      "ihhltotalach": 2393,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "PIPRA",
+      "grampanchayatname": "NIRMALI",
+      "ihhltotalasperdetails": 2261,
+      "ihhltotalach": 2261,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "PIPRA",
+      "grampanchayatname": "PATHRA NOURTH",
+      "ihhltotalasperdetails": 1998,
+      "ihhltotalach": 1998,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "PIPRA",
+      "grampanchayatname": "PATHRA SOUTH",
+      "ihhltotalasperdetails": 1460,
+      "ihhltotalach": 1460,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "PIPRA",
+      "grampanchayatname": "PIPRA",
+      "ihhltotalasperdetails": 2301,
+      "ihhltotalach": 2301,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "PIPRA",
+      "grampanchayatname": "RAM NAGAR",
+      "ihhltotalasperdetails": 3107,
+      "ihhltotalach": 3107,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "PIPRA",
+      "grampanchayatname": "RAMPUR RAJPUR",
+      "ihhltotalasperdetails": 1974,
+      "ihhltotalach": 1974,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "PIPRA",
+      "grampanchayatname": "RATOULI",
+      "ihhltotalasperdetails": 3057,
+      "ihhltotalach": 3057,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "PIPRA",
+      "grampanchayatname": "THARHI BHAWANIPUR",
+      "ihhltotalasperdetails": 2084,
+      "ihhltotalach": 2084,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "PIPRA",
+      "grampanchayatname": "THUMHA",
+      "ihhltotalasperdetails": 2418,
+      "ihhltotalach": 2418,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "PIPRA",
+      "grampanchayatname": "TULAPATTI",
+      "ihhltotalasperdetails": 1689,
+      "ihhltotalach": 1689,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "PRATAPGANJ",
+      "grampanchayatname": "BHAWANI PUR SOUTH",
+      "ihhltotalasperdetails": 2946,
+      "ihhltotalach": 2946,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "PRATAPGANJ",
+      "grampanchayatname": "BHAWANIPUR NORTH",
+      "ihhltotalasperdetails": 2588,
+      "ihhltotalach": 2588,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "PRATAPGANJ",
+      "grampanchayatname": "CHILAUNI SOUTH",
+      "ihhltotalasperdetails": 2373,
+      "ihhltotalach": 2373,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "PRATAPGANJ",
+      "grampanchayatname": "CHILAUNI UTTAR",
+      "ihhltotalasperdetails": 2937,
+      "ihhltotalach": 2937,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "PRATAPGANJ",
+      "grampanchayatname": "GOBINDPUR",
+      "ihhltotalasperdetails": 2679,
+      "ihhltotalach": 2679,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "PRATAPGANJ",
+      "grampanchayatname": "SRIPUR",
+      "ihhltotalasperdetails": 1881,
+      "ihhltotalach": 1881,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "PRATAPGANJ",
+      "grampanchayatname": "SUKHA NAGAR",
+      "ihhltotalasperdetails": 2468,
+      "ihhltotalach": 2468,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "PRATAPGANJ",
+      "grampanchayatname": "SURAJ PUR",
+      "ihhltotalasperdetails": 1991,
+      "ihhltotalach": 1991,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "PRATAPGANJ",
+      "grampanchayatname": "TEKUNA",
+      "ihhltotalasperdetails": 1806,
+      "ihhltotalach": 1806,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "RAGHOPUR",
+      "grampanchayatname": "BAURAHA",
+      "ihhltotalasperdetails": 1754,
+      "ihhltotalach": 1754,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "RAGHOPUR",
+      "grampanchayatname": "BAYASI",
+      "ihhltotalasperdetails": 2216,
+      "ihhltotalach": 2216,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "RAGHOPUR",
+      "grampanchayatname": "BISANPUR DAULAT",
+      "ihhltotalasperdetails": 2551,
+      "ihhltotalach": 2551,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "RAGHOPUR",
+      "grampanchayatname": "CHAMPA NAGAR",
+      "ihhltotalasperdetails": 1541,
+      "ihhltotalach": 1541,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "RAGHOPUR",
+      "grampanchayatname": "DEWIPUR",
+      "ihhltotalasperdetails": 2555,
+      "ihhltotalach": 2555,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "RAGHOPUR",
+      "grampanchayatname": "DHARAHARA",
+      "ihhltotalasperdetails": 2520,
+      "ihhltotalach": 2520,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "RAGHOPUR",
+      "grampanchayatname": "DUMARI",
+      "ihhltotalasperdetails": 1827,
+      "ihhltotalach": 1827,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "RAGHOPUR",
+      "grampanchayatname": "FINGLASH",
+      "ihhltotalasperdetails": 2150,
+      "ihhltotalach": 2150,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "RAGHOPUR",
+      "grampanchayatname": "HARIPUR",
+      "ihhltotalasperdetails": 1725,
+      "ihhltotalach": 1725,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "RAGHOPUR",
+      "grampanchayatname": "HARIRAHA",
+      "ihhltotalasperdetails": 2187,
+      "ihhltotalach": 2187,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "RAGHOPUR",
+      "grampanchayatname": "HULASH",
+      "ihhltotalasperdetails": 2714,
+      "ihhltotalach": 2714,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "RAGHOPUR",
+      "grampanchayatname": "KARJAIN",
+      "ihhltotalasperdetails": 2519,
+      "ihhltotalach": 2519,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "RAGHOPUR",
+      "grampanchayatname": "MOTIPUR",
+      "ihhltotalasperdetails": 1961,
+      "ihhltotalach": 1961,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "RAGHOPUR",
+      "grampanchayatname": "PERMANAND PUR",
+      "ihhltotalasperdetails": 2244,
+      "ihhltotalach": 2244,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "RAGHOPUR",
+      "grampanchayatname": "PIPARAHI",
+      "ihhltotalasperdetails": 2623,
+      "ihhltotalach": 2623,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "RAGHOPUR",
+      "grampanchayatname": "RAGHOPUR",
+      "ihhltotalasperdetails": 2683,
+      "ihhltotalach": 2683,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "RAGHOPUR",
+      "grampanchayatname": "RAM BISHANPUR",
+      "ihhltotalasperdetails": 1491,
+      "ihhltotalach": 1491,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "RAGHOPUR",
+      "grampanchayatname": "SIMARAHI",
+      "ihhltotalasperdetails": 2852,
+      "ihhltotalach": 2852,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "SARAIGARH BHAPTIYAHI",
+      "grampanchayatname": "BANAI NIYA",
+      "ihhltotalasperdetails": 2401,
+      "ihhltotalach": 2401,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "SARAIGARH BHAPTIYAHI",
+      "grampanchayatname": "BHAPTIYAHEE",
+      "ihhltotalasperdetails": 1725,
+      "ihhltotalach": 1725,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "SARAIGARH BHAPTIYAHI",
+      "grampanchayatname": "CHANDPIPER",
+      "ihhltotalasperdetails": 1787,
+      "ihhltotalach": 1787,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "SARAIGARH BHAPTIYAHI",
+      "grampanchayatname": "CHHIRHI HANUMANNAGAR",
+      "ihhltotalasperdetails": 2629,
+      "ihhltotalach": 2629,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "SARAIGARH BHAPTIYAHI",
+      "grampanchayatname": "DHOLI",
+      "ihhltotalasperdetails": 1886,
+      "ihhltotalach": 1886,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "SARAIGARH BHAPTIYAHI",
+      "grampanchayatname": "JHALA DUMRI",
+      "ihhltotalasperdetails": 2829,
+      "ihhltotalach": 2829,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "SARAIGARH BHAPTIYAHI",
+      "grampanchayatname": "LALGANG BEGWA TENGRAHA",
+      "ihhltotalasperdetails": 1563,
+      "ihhltotalach": 1563,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "SARAIGARH BHAPTIYAHI",
+      "grampanchayatname": "LOKHA",
+      "ihhltotalasperdetails": 1710,
+      "ihhltotalach": 1710,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "SARAIGARH BHAPTIYAHI",
+      "grampanchayatname": "MURLI",
+      "ihhltotalasperdetails": 1555,
+      "ihhltotalach": 1555,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "SARAIGARH BHAPTIYAHI",
+      "grampanchayatname": "PIPRA KHURD",
+      "ihhltotalasperdetails": 1631,
+      "ihhltotalach": 1631,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "SARAIGARH BHAPTIYAHI",
+      "grampanchayatname": "SARIAGARH",
+      "ihhltotalasperdetails": 2492,
+      "ihhltotalach": 2492,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "SARAIGARH BHAPTIYAHI",
+      "grampanchayatname": "SHAHPUR PRITHI BIPATI",
+      "ihhltotalasperdetails": 1704,
+      "ihhltotalach": 1704,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "SUPAUL",
+      "grampanchayatname": "AMHA",
+      "ihhltotalasperdetails": 2294,
+      "ihhltotalach": 2294,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "SUPAUL",
+      "grampanchayatname": "BAIRIYA",
+      "ihhltotalasperdetails": 2176,
+      "ihhltotalach": 2176,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "SUPAUL",
+      "grampanchayatname": "BAIRO",
+      "ihhltotalasperdetails": 2208,
+      "ihhltotalach": 2208,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "SUPAUL",
+      "grampanchayatname": "BAKAUR",
+      "ihhltotalasperdetails": 2019,
+      "ihhltotalach": 2019,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "SUPAUL",
+      "grampanchayatname": "BALHA",
+      "ihhltotalasperdetails": 2940,
+      "ihhltotalach": 2940,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "SUPAUL",
+      "grampanchayatname": "BALWA",
+      "ihhltotalasperdetails": 837,
+      "ihhltotalach": 837,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "SUPAUL",
+      "grampanchayatname": "BARUARI",
+      "ihhltotalasperdetails": 2726,
+      "ihhltotalach": 2726,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "SUPAUL",
+      "grampanchayatname": "BASBITTI",
+      "ihhltotalasperdetails": 1649,
+      "ihhltotalach": 1649,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "SUPAUL",
+      "grampanchayatname": "BINA",
+      "ihhltotalasperdetails": 2600,
+      "ihhltotalach": 2600,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "SUPAUL",
+      "grampanchayatname": "CHAIN SINGH PATTI",
+      "ihhltotalasperdetails": 2594,
+      "ihhltotalach": 2594,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "SUPAUL",
+      "grampanchayatname": "EKMA",
+      "ihhltotalasperdetails": 2510,
+      "ihhltotalach": 2510,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "SUPAUL",
+      "grampanchayatname": "GHURAN",
+      "ihhltotalasperdetails": 500,
+      "ihhltotalach": 500,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "SUPAUL",
+      "grampanchayatname": "GOPALPUR SIRE",
+      "ihhltotalasperdetails": 1077,
+      "ihhltotalach": 1077,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "SUPAUL",
+      "grampanchayatname": "GOTH BARUARY",
+      "ihhltotalasperdetails": 2624,
+      "ihhltotalach": 2624,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "SUPAUL",
+      "grampanchayatname": "HARDI  WEST",
+      "ihhltotalasperdetails": 2386,
+      "ihhltotalach": 2386,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "SUPAUL",
+      "grampanchayatname": "HARDI EAST",
+      "ihhltotalasperdetails": 2207,
+      "ihhltotalach": 2207,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "SUPAUL",
+      "grampanchayatname": "KARIHO",
+      "ihhltotalasperdetails": 2326,
+      "ihhltotalach": 2326,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "SUPAUL",
+      "grampanchayatname": "KARNPUR",
+      "ihhltotalasperdetails": 1937,
+      "ihhltotalach": 1937,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "SUPAUL",
+      "grampanchayatname": "LAUKAHA",
+      "ihhltotalasperdetails": 2048,
+      "ihhltotalach": 2048,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "SUPAUL",
+      "grampanchayatname": "LOURDH",
+      "ihhltotalasperdetails": 2332,
+      "ihhltotalach": 2332,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "SUPAUL",
+      "grampanchayatname": "MALHANI",
+      "ihhltotalasperdetails": 2111,
+      "ihhltotalach": 2111,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "SUPAUL",
+      "grampanchayatname": "PASARNA-PARSONI",
+      "ihhltotalasperdetails": 2062,
+      "ihhltotalach": 2062,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "SUPAUL",
+      "grampanchayatname": "PIPRA KHURD",
+      "ihhltotalasperdetails": 2553,
+      "ihhltotalach": 2553,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "SUPAUL",
+      "grampanchayatname": "RAMDATT PATTI",
+      "ihhltotalasperdetails": 2355,
+      "ihhltotalach": 2355,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "SUPAUL",
+      "grampanchayatname": "SUKHPUR-SOLHANI",
+      "ihhltotalasperdetails": 2296,
+      "ihhltotalach": 2296,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "SUPAUL",
+      "grampanchayatname": "TELWA",
+      "ihhltotalasperdetails": 1481,
+      "ihhltotalach": 1481,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "TRIBENIGANJ",
+      "grampanchayatname": "BABHANGAMA",
+      "ihhltotalasperdetails": 2415,
+      "ihhltotalach": 2415,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "TRIBENIGANJ",
+      "grampanchayatname": "BAGHELY",
+      "ihhltotalasperdetails": 2577,
+      "ihhltotalach": 2577,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "TRIBENIGANJ",
+      "grampanchayatname": "BARHAKURBA",
+      "ihhltotalasperdetails": 2018,
+      "ihhltotalach": 2018,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "TRIBENIGANJ",
+      "grampanchayatname": "DAPARKHA",
+      "ihhltotalasperdetails": 2213,
+      "ihhltotalach": 2213,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "TRIBENIGANJ",
+      "grampanchayatname": "GONHA",
+      "ihhltotalasperdetails": 2362,
+      "ihhltotalach": 2362,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "TRIBENIGANJ",
+      "grampanchayatname": "GURIA",
+      "ihhltotalasperdetails": 2018,
+      "ihhltotalach": 2018,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "TRIBENIGANJ",
+      "grampanchayatname": "HARIHAR PATTI",
+      "ihhltotalasperdetails": 2040,
+      "ihhltotalach": 2040,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "TRIBENIGANJ",
+      "grampanchayatname": "JADIA",
+      "ihhltotalasperdetails": 3094,
+      "ihhltotalach": 3094,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "TRIBENIGANJ",
+      "grampanchayatname": "KARHARWA",
+      "ihhltotalasperdetails": 1590,
+      "ihhltotalach": 1590,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "TRIBENIGANJ",
+      "grampanchayatname": "KORIA PATTI EAST",
+      "ihhltotalasperdetails": 2207,
+      "ihhltotalach": 2207,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "TRIBENIGANJ",
+      "grampanchayatname": "KORIA PATTI WEST",
+      "ihhltotalasperdetails": 1998,
+      "ihhltotalach": 1998,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "TRIBENIGANJ",
+      "grampanchayatname": "KUSHAHA",
+      "ihhltotalasperdetails": 2335,
+      "ihhltotalach": 2335,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "TRIBENIGANJ",
+      "grampanchayatname": "LATONA NOYRTH",
+      "ihhltotalasperdetails": 2205,
+      "ihhltotalach": 2205,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "TRIBENIGANJ",
+      "grampanchayatname": "LATONA SOUTH",
+      "ihhltotalasperdetails": 1778,
+      "ihhltotalach": 1778,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "TRIBENIGANJ",
+      "grampanchayatname": "MAHESHUWA",
+      "ihhltotalasperdetails": 2365,
+      "ihhltotalach": 2365,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "TRIBENIGANJ",
+      "grampanchayatname": "MANGANJ EAST",
+      "ihhltotalasperdetails": 1742,
+      "ihhltotalach": 1742,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "TRIBENIGANJ",
+      "grampanchayatname": "MANGANJ WEST",
+      "ihhltotalasperdetails": 1930,
+      "ihhltotalach": 1930,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "TRIBENIGANJ",
+      "grampanchayatname": "MIRJAWA",
+      "ihhltotalasperdetails": 2262,
+      "ihhltotalach": 2262,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "TRIBENIGANJ",
+      "grampanchayatname": "NANDANA",
+      "ihhltotalasperdetails": 926,
+      "ihhltotalach": 926,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "TRIBENIGANJ",
+      "grampanchayatname": "ORLAHA",
+      "ihhltotalasperdetails": 2388,
+      "ihhltotalach": 2388,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "TRIBENIGANJ",
+      "grampanchayatname": "PARSA GHARHI SOUTH",
+      "ihhltotalasperdetails": 1797,
+      "ihhltotalach": 1797,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "TRIBENIGANJ",
+      "grampanchayatname": "PARSAGARHI NORTH",
+      "ihhltotalasperdetails": 1651,
+      "ihhltotalach": 1651,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "TRIBENIGANJ",
+      "grampanchayatname": "PATHARAGOUR DHOE",
+      "ihhltotalasperdetails": 2117,
+      "ihhltotalach": 2117,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "TRIBENIGANJ",
+      "grampanchayatname": "PILUWAHA",
+      "ihhltotalasperdetails": 1901,
+      "ihhltotalach": 1901,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "TRIBENIGANJ",
+      "grampanchayatname": "SIMARIA",
+      "ihhltotalasperdetails": 1639,
+      "ihhltotalach": 1639,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "TRIBENIGANJ",
+      "grampanchayatname": "THALHAGARHIA NORTH",
+      "ihhltotalasperdetails": 1542,
+      "ihhltotalach": 1542,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "SUPAUL",
+      "blockname": "TRIBENIGANJ",
+      "grampanchayatname": "THALHAGARHIA SOUTH",
+      "ihhltotalasperdetails": 1985,
+      "ihhltotalach": 1985,
+      "date": "5/19/2020 12:00:00 AM"
+    }
+  ]
+}

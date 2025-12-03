@@ -1,0 +1,118 @@
+{
+  "index_name": "9e355151-7632-4757-aa7d-320874773009",
+  "title": "Qualification wise Jobseeker Registration till 30 June 2022",
+  "desc": "Qualification wise Jobseeker Registration till 30 June 2022",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Labour and Employment"
+  ],
+  "sector": [
+    "Labour and Employment"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "11f7723c-ea55-4ad6-b2b9-9cd7e2a0e46f",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1694766577,
+  "updated": 1694769164,
+  "created_date": "2023-09-15T10:29:37Z",
+  "updated_date": "2023-09-15T14:42:44Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "11f7723c-ea55-4ad6-b2b9-9cd7e2a0e46f",
+    "field": "9e355151-7632-4757-aa7d-320874773009"
+  },
+  "field": [
+    {
+      "id": "minimum_qualification",
+      "name": "Minimum Qualification",
+      "type": "keyword"
+    },
+    {
+      "id": "total_jobseeker_registration",
+      "name": "Total jobseeker Registration",
+      "type": "double"
+    },
+    {
+      "id": "data_upto",
+      "name": "Data Upto",
+      "type": "date"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 13,
+  "count": 13,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "minimum_qualification": "No Schooling",
+      "total_jobseeker_registration": 1015600,
+      "data_upto": "2022-06-30T10:30:01Z"
+    },
+    {
+      "minimum_qualification": "Upto 8th",
+      "total_jobseeker_registration": 147431,
+      "data_upto": "2022-06-30T10:30:01Z"
+    },
+    {
+      "minimum_qualification": "Upto 9th",
+      "total_jobseeker_registration": 1891074,
+      "data_upto": "2022-06-30T10:30:01Z"
+    },
+    {
+      "minimum_qualification": "10th Pass",
+      "total_jobseeker_registration": 6953906,
+      "data_upto": "2022-06-30T10:30:01Z"
+    },
+    {
+      "minimum_qualification": "11th",
+      "total_jobseeker_registration": 130363,
+      "data_upto": "2022-06-30T10:30:01Z"
+    },
+    {
+      "minimum_qualification": "12th Pass",
+      "total_jobseeker_registration": 5224991,
+      "data_upto": "2022-06-30T10:30:01Z"
+    },
+    {
+      "minimum_qualification": "ITI",
+      "total_jobseeker_registration": 245668,
+      "data_upto": "2022-06-30T10:30:01Z"
+    },
+    {
+      "minimum_qualification": "Diploma After 10th",
+      "total_jobseeker_registration": 553322,
+      "data_upto": "2022-06-30T10:30:01Z"
+    },
+    {
+      "minimum_qualification": "Diploma After 12th",
+      "total_jobseeker_registration": 421248,
+      "data_upto": "2022-06-30T10:30:01Z"
+    },
+    {
+      "minimum_qualification": "Graduate",
+      "total_jobseeker_registration": 5686473,
+      "data_upto": "2022-06-30T10:30:01Z"
+    },
+    {
+      "minimum_qualification": "PG Diploma",
+      "total_jobseeker_registration": 28605,
+      "data_upto": "2022-06-30T10:30:01Z"
+    },
+    {
+      "minimum_qualification": "PHD / Super Specialist",
+      "total_jobseeker_registration": 101263,
+      "data_upto": "2022-06-30T10:30:01Z"
+    },
+    {
+      "minimum_qualification": "Post Graduate",
+      "total_jobseeker_registration": 1178635,
+      "data_upto": "2022-06-30T10:30:01Z"
+    }
+  ]
+}

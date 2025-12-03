@@ -1,0 +1,196 @@
+{
+  "index_name": "add5f974-c872-4d58-9b36-f1da25eceaa7",
+  "title": "Zonal Railway-wise Number of Cases of Crimes Registered in Trains and in Railway Premises during 2019 (From: Ministry of Railways)",
+  "desc": "Zonal Railway-wise Number of Cases of Crimes Registered in Trains and in Railway Premises during 2019 (From: Ministry of Railways)",
+  "org_type": "Central",
+  "org": [
+    "Rajya Sabha"
+  ],
+  "sector": [
+    "All"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "1400fec4-27a0-4ffa-a29f-8369be1ea16c",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1602755276,
+  "updated": 1603106382,
+  "created_date": "2020-10-15T11:47:56Z",
+  "updated_date": "2020-10-19T16:49:42Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "1400fec4-27a0-4ffa-a29f-8369be1ea16c",
+    "field": "add5f974-c872-4d58-9b36-f1da25eceaa7"
+  },
+  "field": [
+    {
+      "id": "zonal_railway",
+      "name": "Zonal Railway",
+      "type": "keyword"
+    },
+    {
+      "id": "theft_of_passenger_s_belongings",
+      "name": "Theft of Passenger's belongings",
+      "type": "double"
+    },
+    {
+      "id": "robbery",
+      "name": "Robbery",
+      "type": "double"
+    },
+    {
+      "id": "dacoity",
+      "name": "Dacoity",
+      "type": "double"
+    },
+    {
+      "id": "crime_against_women_passengers",
+      "name": "Crime against Women Passengers",
+      "type": "double"
+    },
+    {
+      "id": "other_crimes",
+      "name": "Other Crimes",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 16,
+  "count": 16,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "zonal_railway": "Central",
+      "theft_of_passenger_s_belongings": 24672,
+      "robbery": 900,
+      "dacoity": 7,
+      "crime_against_women_passengers": 127,
+      "other_crimes": 588
+    },
+    {
+      "zonal_railway": "Eastern",
+      "theft_of_passenger_s_belongings": 323,
+      "robbery": 9,
+      "dacoity": 1,
+      "crime_against_women_passengers": 13,
+      "other_crimes": 24
+    },
+    {
+      "zonal_railway": "East Central",
+      "theft_of_passenger_s_belongings": 1085,
+      "robbery": 6,
+      "dacoity": 6,
+      "crime_against_women_passengers": 13,
+      "other_crimes": 15
+    },
+    {
+      "zonal_railway": "East Coast",
+      "theft_of_passenger_s_belongings": 683,
+      "robbery": 23,
+      "dacoity": 2,
+      "crime_against_women_passengers": 6,
+      "other_crimes": 28
+    },
+    {
+      "zonal_railway": "Northern",
+      "theft_of_passenger_s_belongings": 1736,
+      "robbery": 33,
+      "dacoity": 7,
+      "crime_against_women_passengers": 43,
+      "other_crimes": 4075
+    },
+    {
+      "zonal_railway": "North Central",
+      "theft_of_passenger_s_belongings": 1853,
+      "robbery": 19,
+      "dacoity": 2,
+      "crime_against_women_passengers": 31,
+      "other_crimes": 36
+    },
+    {
+      "zonal_railway": "North Eastern",
+      "theft_of_passenger_s_belongings": 212,
+      "robbery": 13,
+      "dacoity": "0",
+      "crime_against_women_passengers": 6,
+      "other_crimes": 5
+    },
+    {
+      "zonal_railway": "Northeast Frontier",
+      "theft_of_passenger_s_belongings": 127,
+      "robbery": "0",
+      "dacoity": "0",
+      "crime_against_women_passengers": 6,
+      "other_crimes": 19
+    },
+    {
+      "zonal_railway": "North Western",
+      "theft_of_passenger_s_belongings": 717,
+      "robbery": 3,
+      "dacoity": "0",
+      "crime_against_women_passengers": 20,
+      "other_crimes": 72
+    },
+    {
+      "zonal_railway": "Southern",
+      "theft_of_passenger_s_belongings": 3795,
+      "robbery": 168,
+      "dacoity": 2,
+      "crime_against_women_passengers": 132,
+      "other_crimes": 836
+    },
+    {
+      "zonal_railway": "South Central",
+      "theft_of_passenger_s_belongings": 2498,
+      "robbery": 45,
+      "dacoity": 2,
+      "crime_against_women_passengers": 24,
+      "other_crimes": 42
+    },
+    {
+      "zonal_railway": "South Eastern",
+      "theft_of_passenger_s_belongings": 538,
+      "robbery": 21,
+      "dacoity": 1,
+      "crime_against_women_passengers": 10,
+      "other_crimes": 16
+    },
+    {
+      "zonal_railway": "South East Central",
+      "theft_of_passenger_s_belongings": 1004,
+      "robbery": 1,
+      "dacoity": 1,
+      "crime_against_women_passengers": 9,
+      "other_crimes": 70
+    },
+    {
+      "zonal_railway": "South Western",
+      "theft_of_passenger_s_belongings": 491,
+      "robbery": 7,
+      "dacoity": 2,
+      "crime_against_women_passengers": 2,
+      "other_crimes": 5
+    },
+    {
+      "zonal_railway": "Western",
+      "theft_of_passenger_s_belongings": 10566,
+      "robbery": 419,
+      "dacoity": 1,
+      "crime_against_women_passengers": 57,
+      "other_crimes": 96
+    },
+    {
+      "zonal_railway": "West Central",
+      "theft_of_passenger_s_belongings": 3153,
+      "robbery": 18,
+      "dacoity": "0",
+      "crime_against_women_passengers": 18,
+      "other_crimes": 147
+    }
+  ]
+}

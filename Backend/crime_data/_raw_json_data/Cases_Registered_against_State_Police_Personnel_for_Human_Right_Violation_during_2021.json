@@ -1,0 +1,186 @@
+{
+  "index_name": "f3ea8c03-90fd-4460-b116-447831ea2ad3",
+  "title": "Cases Registered against State Police Personnel for Human Right Violation during 2021",
+  "desc": "Cases Registered against State Police Personnel for Human Right Violation during 2021",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Home Affairs",
+    "Department of States",
+    "National Crime Records Bureau (NCRB)"
+  ],
+  "sector": [
+    "Police"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "83a258f3-6fd1-4a9a-911b-5207a0cfa136",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1679237132,
+  "updated": 1679286949,
+  "created_date": "2023-03-19T15:45:32Z",
+  "updated_date": "2023-03-20T10:05:49Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "83a258f3-6fd1-4a9a-911b-5207a0cfa136",
+    "field": "f3ea8c03-90fd-4460-b116-447831ea2ad3"
+  },
+  "field": [
+    {
+      "id": "sl__no_",
+      "name": "Sl. No.",
+      "type": "keyword"
+    },
+    {
+      "id": "incidence_of",
+      "name": "Incidence of",
+      "type": "keyword"
+    },
+    {
+      "id": "number_of_cases___registered",
+      "name": "Number of Cases - Registered",
+      "type": "double"
+    },
+    {
+      "id": "number_of_cases___final_reports_submitted",
+      "name": "Number of Cases - Final Reports Submitted",
+      "type": "double"
+    },
+    {
+      "id": "number_of_cases___charge_sheeted",
+      "name": "Number of Cases - Charge-Sheeted",
+      "type": "double"
+    },
+    {
+      "id": "number_of_cases___convicted",
+      "name": "Number of Cases - Convicted",
+      "type": "double"
+    },
+    {
+      "id": "number_of_cases___acquitted__discharged",
+      "name": "Number of Cases - Acquitted/ Discharged",
+      "type": "double"
+    },
+    {
+      "id": "number_of_policemen___arrested",
+      "name": "Number of Policemen - Arrested",
+      "type": "double"
+    },
+    {
+      "id": "number_of_policemen___charge_sheeted",
+      "name": "Number of Policemen - Charge-Sheeted",
+      "type": "double"
+    },
+    {
+      "id": "number_of_policemen___convicted",
+      "name": "Number of Policemen - Convicted",
+      "type": "double"
+    },
+    {
+      "id": "number_of_policemen___acquitted__discharged",
+      "name": "Number of Policemen - Acquitted/ Discharged",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 7,
+  "count": 7,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "sl__no_": "1",
+      "incidence_of": "Encounter Killing",
+      "number_of_cases___registered": 6,
+      "number_of_cases___final_reports_submitted": 3,
+      "number_of_cases___charge_sheeted": "0",
+      "number_of_cases___convicted": "0",
+      "number_of_cases___acquitted__discharged": "0",
+      "number_of_policemen___arrested": "0",
+      "number_of_policemen___charge_sheeted": "0",
+      "number_of_policemen___convicted": "0",
+      "number_of_policemen___acquitted__discharged": "0"
+    },
+    {
+      "sl__no_": "2",
+      "incidence_of": "Deaths in Custody",
+      "number_of_cases___registered": 7,
+      "number_of_cases___final_reports_submitted": "0",
+      "number_of_cases___charge_sheeted": 2,
+      "number_of_cases___convicted": "0",
+      "number_of_cases___acquitted__discharged": "0",
+      "number_of_policemen___arrested": 10,
+      "number_of_policemen___charge_sheeted": "0",
+      "number_of_policemen___convicted": "0",
+      "number_of_policemen___acquitted__discharged": "0"
+    },
+    {
+      "sl__no_": "3",
+      "incidence_of": "Illegal Detention",
+      "number_of_cases___registered": "0",
+      "number_of_cases___final_reports_submitted": "0",
+      "number_of_cases___charge_sheeted": "0",
+      "number_of_cases___convicted": "0",
+      "number_of_cases___acquitted__discharged": "0",
+      "number_of_policemen___arrested": "0",
+      "number_of_policemen___charge_sheeted": "0",
+      "number_of_policemen___convicted": "0",
+      "number_of_policemen___acquitted__discharged": "0"
+    },
+    {
+      "sl__no_": "4",
+      "incidence_of": "Torture/Causing Hurt/Injury",
+      "number_of_cases___registered": 3,
+      "number_of_cases___final_reports_submitted": 2,
+      "number_of_cases___charge_sheeted": "0",
+      "number_of_cases___convicted": "0",
+      "number_of_cases___acquitted__discharged": "0",
+      "number_of_policemen___arrested": 1,
+      "number_of_policemen___charge_sheeted": "0",
+      "number_of_policemen___convicted": "0",
+      "number_of_policemen___acquitted__discharged": "0"
+    },
+    {
+      "sl__no_": "5",
+      "incidence_of": "Extortion",
+      "number_of_cases___registered": 2,
+      "number_of_cases___final_reports_submitted": 2,
+      "number_of_cases___charge_sheeted": "0",
+      "number_of_cases___convicted": "0",
+      "number_of_cases___acquitted__discharged": "0",
+      "number_of_policemen___arrested": 1,
+      "number_of_policemen___charge_sheeted": 1,
+      "number_of_policemen___convicted": "0",
+      "number_of_policemen___acquitted__discharged": "0"
+    },
+    {
+      "sl__no_": "6",
+      "incidence_of": "Other",
+      "number_of_cases___registered": 8,
+      "number_of_cases___final_reports_submitted": 2,
+      "number_of_cases___charge_sheeted": "0",
+      "number_of_cases___convicted": "0",
+      "number_of_cases___acquitted__discharged": "0",
+      "number_of_policemen___arrested": 4,
+      "number_of_policemen___charge_sheeted": 1,
+      "number_of_policemen___convicted": "0",
+      "number_of_policemen___acquitted__discharged": "0"
+    },
+    {
+      "sl__no_": "Total Human Rights Violation by Police",
+      "incidence_of": "Total Human Rights Violation by Police",
+      "number_of_cases___registered": 26,
+      "number_of_cases___final_reports_submitted": 9,
+      "number_of_cases___charge_sheeted": 2,
+      "number_of_cases___convicted": "0",
+      "number_of_cases___acquitted__discharged": "0",
+      "number_of_policemen___arrested": 16,
+      "number_of_policemen___charge_sheeted": 2,
+      "number_of_policemen___convicted": "0",
+      "number_of_policemen___acquitted__discharged": "0"
+    }
+  ]
+}

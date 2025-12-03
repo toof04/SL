@@ -1,0 +1,41 @@
+"S. No","NIC 2004 *",Description,"Number of Enterprises (Lakhs)","Employment (Lakhs)","Original Value of Plant & Machinery (Value In Crore)","Market Value of Fixed Assets (Value In Crore)","Gross Output (Value In Crore)","Total Input (Value In Crore)","Gross Value Added (Value In Crore)","Net Worth (Value In Crore)"
+1,1,"Agriculture, Hunting And Related Service Activities",0.05,0.13,20.06,15.31,36.71,12.5,24.21,18.78
+2,5,"Fishing, Aquaculture And Service Activities Incidental To Fishing",0.01,0.03,0.47,0.95,0.71,0.26,0.45,1.18
+3,15,"Manufacture Of Food Products And Beverages",22.89,48.31,14430.85,31105.78,51561.24,30264.49,21296.76,36804.76
+4,16,"Manufacture Of Tobacco Products",1.58,4.71,308.38,1867.82,2049.16,774.87,1274.29,1267.56
+5,17,"Manufacture Of Textiles",7.36,25.66,3821.59,8983.98,23436.83,12442.91,10993.92,17568.61
+6,18,"Manufacture Of Wearing Apparel; Dressing And Dyeing Of Fur",29.52,51.05,5284.32,15673.78,27633.41,8920.32,18713.08,18357.51
+7,19,"Tanning And Dressing Of Leather; Manufacture Of Luggage, Handbags, Saddlery Harness And Footwear.",1.23,2.66,583.78,1307.42,2908.34,1701.92,1206.42,1971.58
+8,20,"Manufacture Of Wood And Of Products Of Wood And Cork, Except Furniture; Manufacture Of Articles Of Straw And Plaiting Materials.",5.85,12.35,2292.15,7038.12,9290.14,3935.97,5354.17,7901.63
+9,21,"Manufacture Of Paper And Paper Products",0.33,1.04,380.85,1059.18,1649.57,1109.87,539.71,1099
+10,22,"Publishing, Printing And Reproduction Of Recorde3D Meida",1.37,3.79,1632.33,3696.09,3608.31,1584.1,2024.21,3724.77
+11,23,"Manufacture Of Coke, Refined Petroleum Products And Neclear Fuel",0.09,0.28,88.07,310.8,526.94,307.26,219.68,271.37
+12,24,"Manufacture Of Chemicals And Chemical Products",1.9,4.75,2183.2,5082.52,7467.22,3751.52,3715.69,4515.19
+13,25,"Manufacture Of Rubber And Plastics Products",2.06,4.86,1893.41,4835.62,31931.65,27579.22,4352.43,5892.48
+14,26,"Manufacture Of Other Non-Metallic Mineral Products",2.95,17.08,3191.32,7312.12,16317.68,8952.19,7365.49,9964.21
+15,27,"Manufacture Of Basic Metals",0.65,2.19,1029.79,3083.35,6485.78,5382.21,1103.57,3294.95
+16,28,"Manufacture Of Fabricated Metal Products, Except Machinery And Equipment",7.02,18.62,6032.7,13347.92,20123.51,11216.56,8906.95,15550.27
+17,29,"Manufacture Of Machinery And Equipment N.E.C.",3.43,7.09,1694.11,4226.35,6318.85,2952.22,3366.64,5337.92
+18,30,"Manufacture Of Office, Accounting And Computing Machinery",0.27,0.39,196.14,290.04,275.32,109.3,166.02,283.15
+19,31,"Manufacture Of Electrical Machinery And Apparatus N.E.C.",2.61,4.63,1015.15,3012.97,7028.75,4260.87,2767.87,3266.36
+20,32,"Manufacture Of Radio, Television And Communication Equipment And Apparatus",1.25,2.03,357.72,929.97,1271.75,310.18,961.57,1178.92
+21,33,"Manufacture Of Medical, Precision And Optical Instruments, Watches And Clocks.",0.49,0.96,364.58,940.4,1057.43,453.81,603.62,950.65
+22,34,"Manufacture Of Motor Vehicles, Trailers And Semi-Trailers.",0.25,0.83,446.81,577.18,1491.45,898.21,593.24,430.89
+23,35,"Manufacture Of Other Transport Equipment",0.72,1.22,205.33,724.35,977.25,301.86,675.39,791.59
+24,36,"Manufacture Of Furniture; Manufacturing N.E.C.",10.62,24.55,4180.91,12120.81,27982.07,15356.43,12625.64,17048.83
+25,37,Recycling,0.01,0.01,2.76,4.97,15.27,7.4,7.87,11.5
+26,40,"Electricity, Gas, Steam And Hot Water Supply",0.55,1.09,2311.04,3093.87,2863.17,756.36,2106.81,3210.86
+27,41,"Collection, Purification And Distribution Of Water",0.13,0.4,148.7,370.15,458.14,41.35,416.79,408.41
+28,45,Construction,0.28,0.49,121.78,327.96,207.39,61.34,146.05,151.72
+29,50,"Sale, Maintenance And Repair Of Motor Vehicles And Motorcycles; Retail Sale Of Automotive Fuel",12.34,28.32,8028.78,20162.6,20051.7,6338.87,13712.84,22057.14
+30,52,"Retail Trade, Except Of Motor Vehicles And Motorcycles; Repair Of Personal And Household Goods.",30.06,46.25,5627.49,20058.16,28266.53,7930.55,20335.98,23580.82
+31,63,"Supporting And Auxiliary Transport Activities; Activities Of Travel Agencies",0.02,0.13,460.33,783.85,735.72,169.17,566.55,156.53
+32,64,"Post And Telecommunications",8.21,11.81,3024.66,9515.85,7405.54,1906.91,5498.63,9901.63
+33,70,"Real Estate Activities",0.31,0.85,327.53,1096.85,1243.56,409.35,834.21,1182.79
+34,71,"Renting Of Amchinery And Equipment Without Operator And Of Personal And Household Goods",1.77,5.69,2662.31,5187.9,3277.04,622.83,2654.2,4995.9
+35,72,"Computer And Related Activities",4.33,9.74,4257.91,10271.12,8698.04,2724.03,5974.01,10980.43
+36,73,"Research And Development",0,0,0.15,0.15,2.11,1.23,0.87,2.2
+37,74,"Other Business Activities",12.69,25.16,10440.25,24211.13,22523.93,7618.61,14905.31,25179.34
+38,92,"Recreational, Cultural And Sporting Activities",1.19,2.25,1024.52,2624.98,3089.09,1164.35,1924.74,2880.43
+39,93,"Other Service Activities",22.34,37.43,4567.38,15564.11,19435.29,4833.86,14601.43,17342.1
+NA,NA,Total,198.74,408.84,94639.6,240816.46,369702.59,177165.27,192537.32,279533.97

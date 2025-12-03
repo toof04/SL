@@ -1,0 +1,2126 @@
+{
+  "index_name": "5997dbf4-fc73-4281-a040-427c43df9f5d",
+  "title": "Gram Panchayat-wise Rural Sanitation Coverage in Bhojpur District of Bihar as on date",
+  "desc": "Gram Panchayat-wise Rural Sanitation Coverage in Bhojpur District of Bihar as on date",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Jal Shakti",
+    "Department of Drinking Water and Sanitation"
+  ],
+  "sector": [
+    "Water and Sanitation"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1688360245,
+  "updated": 1688364904,
+  "created_date": "2023-07-03T06:57:25Z",
+  "updated_date": "2023-07-03T11:45:04Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "sbm",
+    "type": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+    "field": "5997dbf4-fc73-4281-a040-427c43df9f5d"
+  },
+  "field": [
+    {
+      "id": "statename",
+      "name": "StateName",
+      "type": "keyword"
+    },
+    {
+      "id": "districtname",
+      "name": "DistrictName",
+      "type": "keyword"
+    },
+    {
+      "id": "blockname",
+      "name": "BlockName",
+      "type": "keyword"
+    },
+    {
+      "id": "grampanchayatname",
+      "name": "GramPanchayatName",
+      "type": "keyword"
+    },
+    {
+      "id": "ihhltotalasperdetails",
+      "name": "IHHLTotalAsPerDetails",
+      "type": "double"
+    },
+    {
+      "id": "ihhltotalach",
+      "name": "IHHLTotalAch",
+      "type": "double"
+    },
+    {
+      "id": "date",
+      "name": "Date",
+      "type": "keyword"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 228,
+  "count": 228,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "AGIAON",
+      "grampanchayatname": "AGIAON",
+      "ihhltotalasperdetails": 3792,
+      "ihhltotalach": 3792,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "AGIAON",
+      "grampanchayatname": "BADGAON",
+      "ihhltotalasperdetails": 1436,
+      "ihhltotalach": 1436,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "AGIAON",
+      "grampanchayatname": "BARUNA",
+      "ihhltotalasperdetails": 1077,
+      "ihhltotalach": 1077,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "AGIAON",
+      "grampanchayatname": "CHASI",
+      "ihhltotalasperdetails": 1628,
+      "ihhltotalach": 1628,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "AGIAON",
+      "grampanchayatname": "DILIYAN",
+      "ihhltotalasperdetails": 1969,
+      "ihhltotalach": 1969,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "AGIAON",
+      "grampanchayatname": "KARBASIN",
+      "ihhltotalasperdetails": 2229,
+      "ihhltotalach": 2229,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "AGIAON",
+      "grampanchayatname": "KHOPIRA",
+      "ihhltotalasperdetails": 1893,
+      "ihhltotalach": 1893,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "AGIAON",
+      "grampanchayatname": "KIRKIRI",
+      "ihhltotalasperdetails": 2346,
+      "ihhltotalach": 2346,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "AGIAON",
+      "grampanchayatname": "NANOUR",
+      "ihhltotalasperdetails": 856,
+      "ihhltotalach": 856,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "AGIAON",
+      "grampanchayatname": "NARAYAN PUR",
+      "ihhltotalasperdetails": 1264,
+      "ihhltotalach": 1264,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "AGIAON",
+      "grampanchayatname": "PAWANA",
+      "ihhltotalasperdetails": 2010,
+      "ihhltotalach": 2010,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "AGIAON",
+      "grampanchayatname": "PAWAR",
+      "ihhltotalasperdetails": 2147,
+      "ihhltotalach": 2147,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "AGIAON",
+      "grampanchayatname": "POSWAN",
+      "ihhltotalasperdetails": 1759,
+      "ihhltotalach": 1759,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "AGIAON",
+      "grampanchayatname": "RATNARH",
+      "ihhltotalasperdetails": 1779,
+      "ihhltotalach": 1779,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "AGIAON",
+      "grampanchayatname": "SEWATHA",
+      "ihhltotalasperdetails": 1723,
+      "ihhltotalach": 1723,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "ARA",
+      "grampanchayatname": "AGARSANDA",
+      "ihhltotalasperdetails": 2955,
+      "ihhltotalach": 2955,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "ARA",
+      "grampanchayatname": "BAGHIPAKAR",
+      "ihhltotalasperdetails": 1664,
+      "ihhltotalach": 1664,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "ARA",
+      "grampanchayatname": "BASANTPUR",
+      "ihhltotalasperdetails": 1524,
+      "ihhltotalach": 1524,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "ARA",
+      "grampanchayatname": "BHKURA",
+      "ihhltotalasperdetails": 1560,
+      "ihhltotalach": 1560,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "ARA",
+      "grampanchayatname": "DAULATPUR",
+      "ihhltotalasperdetails": 1150,
+      "ihhltotalach": 1150,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "ARA",
+      "grampanchayatname": "DHAMAR",
+      "ihhltotalasperdetails": 923,
+      "ihhltotalach": 923,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "ARA",
+      "grampanchayatname": "GANGHAR",
+      "ihhltotalasperdetails": 2374,
+      "ihhltotalach": 2374,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "ARA",
+      "grampanchayatname": "GOTHAHULA",
+      "ihhltotalasperdetails": 2442,
+      "ihhltotalach": 2442,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "ARA",
+      "grampanchayatname": "IJARI",
+      "ihhltotalasperdetails": 2130,
+      "ihhltotalach": 2130,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "ARA",
+      "grampanchayatname": "JAMIRA",
+      "ihhltotalasperdetails": 1912,
+      "ihhltotalach": 1912,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "ARA",
+      "grampanchayatname": "KAJURIA",
+      "ihhltotalasperdetails": 2730,
+      "ihhltotalach": 2730,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "ARA",
+      "grampanchayatname": "KARARI",
+      "ihhltotalasperdetails": 1647,
+      "ihhltotalach": 1647,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "ARA",
+      "grampanchayatname": "MAHULI",
+      "ihhltotalasperdetails": 3315,
+      "ihhltotalach": 3315,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "ARA",
+      "grampanchayatname": "MAKHDUMPUR DUMRA",
+      "ihhltotalasperdetails": 1607,
+      "ihhltotalach": 1607,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "ARA",
+      "grampanchayatname": "PIPRAHIA",
+      "ihhltotalasperdetails": 2877,
+      "ihhltotalach": 2877,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "ARA",
+      "grampanchayatname": "PIROUTA",
+      "ihhltotalasperdetails": 3868,
+      "ihhltotalach": 3868,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "ARA",
+      "grampanchayatname": "RAMAPUR SANDIA",
+      "ihhltotalasperdetails": 1696,
+      "ihhltotalach": 1696,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "ARA",
+      "grampanchayatname": "RATANPUR",
+      "ihhltotalasperdetails": 600,
+      "ihhltotalach": 600,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "ARA",
+      "grampanchayatname": "SUNDARPUR BARJA",
+      "ihhltotalasperdetails": 2750,
+      "ihhltotalach": 2750,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "BARHARA",
+      "grampanchayatname": "AKAUNA",
+      "ihhltotalasperdetails": 1113,
+      "ihhltotalach": 1113,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "BARHARA",
+      "grampanchayatname": "BABHANGAWA",
+      "ihhltotalasperdetails": 1078,
+      "ihhltotalach": 1078,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "BARHARA",
+      "grampanchayatname": "BABURA     EAST",
+      "ihhltotalasperdetails": 4649,
+      "ihhltotalach": 4649,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "BARHARA",
+      "grampanchayatname": "BABURA  WEST",
+      "ihhltotalasperdetails": 412,
+      "ihhltotalach": 412,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "BARHARA",
+      "grampanchayatname": "BAKHORA PUR",
+      "ihhltotalasperdetails": 1955,
+      "ihhltotalach": 1955,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "BARHARA",
+      "grampanchayatname": "BALUA",
+      "ihhltotalasperdetails": 1797,
+      "ihhltotalach": 1797,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "BARHARA",
+      "grampanchayatname": "BARHARA",
+      "ihhltotalasperdetails": 1878,
+      "ihhltotalach": 1878,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "BARHARA",
+      "grampanchayatname": "BISHUN PUR",
+      "ihhltotalasperdetails": 2202,
+      "ihhltotalach": 2202,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "BARHARA",
+      "grampanchayatname": "FARNA",
+      "ihhltotalasperdetails": 1510,
+      "ihhltotalach": 1510,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "BARHARA",
+      "grampanchayatname": "GAZIA PUR",
+      "ihhltotalasperdetails": 1741,
+      "ihhltotalach": 1741,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "BARHARA",
+      "grampanchayatname": "GUNDI  EAST",
+      "ihhltotalasperdetails": 910,
+      "ihhltotalach": 910,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "BARHARA",
+      "grampanchayatname": "GUNDI  WEST",
+      "ihhltotalasperdetails": 3708,
+      "ihhltotalach": 3708,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "BARHARA",
+      "grampanchayatname": "KHAWAS PUR",
+      "ihhltotalasperdetails": 2142,
+      "ihhltotalach": 2142,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "BARHARA",
+      "grampanchayatname": "MATUK PUR",
+      "ihhltotalasperdetails": 2504,
+      "ihhltotalach": 2504,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "BARHARA",
+      "grampanchayatname": "NARGADA",
+      "ihhltotalasperdetails": 2075,
+      "ihhltotalach": 2075,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "BARHARA",
+      "grampanchayatname": "NATHMAL PUR",
+      "ihhltotalasperdetails": 2817,
+      "ihhltotalach": 2817,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "BARHARA",
+      "grampanchayatname": "NEKHAM TOLA",
+      "ihhltotalasperdetails": 1591,
+      "ihhltotalach": 1591,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "BARHARA",
+      "grampanchayatname": "PAKRI",
+      "ihhltotalasperdetails": 2421,
+      "ihhltotalach": 2421,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "BARHARA",
+      "grampanchayatname": "SARAIYA",
+      "ihhltotalasperdetails": 2120,
+      "ihhltotalach": 2120,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "BARHARA",
+      "grampanchayatname": "SEMARIA PARARIA",
+      "ihhltotalasperdetails": 2444,
+      "ihhltotalach": 2444,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "BARHARA",
+      "grampanchayatname": "SINHA",
+      "ihhltotalasperdetails": 1705,
+      "ihhltotalach": 1705,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "BARHARA",
+      "grampanchayatname": "SOHRA",
+      "ihhltotalasperdetails": 2252,
+      "ihhltotalach": 2252,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "BEHEA",
+      "grampanchayatname": "CHAKAWATH",
+      "ihhltotalasperdetails": 1282,
+      "ihhltotalach": 1282,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "BEHEA",
+      "grampanchayatname": "DOGHARA",
+      "ihhltotalasperdetails": 1306,
+      "ihhltotalach": 1306,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "BEHEA",
+      "grampanchayatname": "FINGI",
+      "ihhltotalasperdetails": 1349,
+      "ihhltotalach": 1349,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "BEHEA",
+      "grampanchayatname": "GHAGHA",
+      "ihhltotalasperdetails": 1267,
+      "ihhltotalach": 1267,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "BEHEA",
+      "grampanchayatname": "GODHAR RUDRA NAGAR",
+      "ihhltotalasperdetails": 929,
+      "ihhltotalach": 929,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "BEHEA",
+      "grampanchayatname": "KALYANPUR",
+      "ihhltotalasperdetails": 1651,
+      "ihhltotalach": 1651,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "BEHEA",
+      "grampanchayatname": "KAMARIYAWN",
+      "ihhltotalasperdetails": 1164,
+      "ihhltotalach": 1164,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "BEHEA",
+      "grampanchayatname": "KATEYA",
+      "ihhltotalasperdetails": 1088,
+      "ihhltotalach": 1088,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "BEHEA",
+      "grampanchayatname": "MAJHAWLI",
+      "ihhltotalasperdetails": 1845,
+      "ihhltotalach": 1845,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "BEHEA",
+      "grampanchayatname": "OSAI",
+      "ihhltotalasperdetails": 1740,
+      "ihhltotalach": 1740,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "BEHEA",
+      "grampanchayatname": "PIPRA JAGDIS",
+      "ihhltotalasperdetails": 2055,
+      "ihhltotalach": 2055,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "BEHEA",
+      "grampanchayatname": "RANISAGAR",
+      "ihhltotalasperdetails": 2080,
+      "ihhltotalach": 2080,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "BEHEA",
+      "grampanchayatname": "SHIOPUR",
+      "ihhltotalasperdetails": 1798,
+      "ihhltotalach": 1798,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "BEHEA",
+      "grampanchayatname": "TIYAR",
+      "ihhltotalasperdetails": 1395,
+      "ihhltotalach": 1395,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "CHARPOKHARI",
+      "grampanchayatname": "BABU BANDH",
+      "ihhltotalasperdetails": 1261,
+      "ihhltotalach": 1261,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "CHARPOKHARI",
+      "grampanchayatname": "KOEL",
+      "ihhltotalasperdetails": 1750,
+      "ihhltotalach": 1750,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "CHARPOKHARI",
+      "grampanchayatname": "MAJHIYA AWAN",
+      "ihhltotalasperdetails": 1380,
+      "ihhltotalach": 1380,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "CHARPOKHARI",
+      "grampanchayatname": "MALAUR",
+      "ihhltotalasperdetails": 1637,
+      "ihhltotalach": 1637,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "CHARPOKHARI",
+      "grampanchayatname": "MUKUND PUR",
+      "ihhltotalasperdetails": 1711,
+      "ihhltotalach": 1711,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "CHARPOKHARI",
+      "grampanchayatname": "NAGARI",
+      "ihhltotalasperdetails": 2178,
+      "ihhltotalach": 2178,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "CHARPOKHARI",
+      "grampanchayatname": "PASAUR",
+      "ihhltotalasperdetails": 2339,
+      "ihhltotalach": 2339,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "CHARPOKHARI",
+      "grampanchayatname": "SEMRAWAN",
+      "ihhltotalasperdetails": 1727,
+      "ihhltotalach": 1727,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "CHARPOKHARI",
+      "grampanchayatname": "SIYADIH",
+      "ihhltotalasperdetails": 1506,
+      "ihhltotalach": 1506,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "CHARPOKHARI",
+      "grampanchayatname": "SONBERSA",
+      "ihhltotalasperdetails": 1978,
+      "ihhltotalach": 1978,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "CHARPOKHARI",
+      "grampanchayatname": "THAKURI",
+      "ihhltotalasperdetails": 1746,
+      "ihhltotalach": 1746,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "GARHANI",
+      "grampanchayatname": "BAGAWA",
+      "ihhltotalasperdetails": 2073,
+      "ihhltotalach": 2073,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "GARHANI",
+      "grampanchayatname": "BALI GAWAN",
+      "ihhltotalasperdetails": 1913,
+      "ihhltotalach": 1913,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "GARHANI",
+      "grampanchayatname": "BARAP",
+      "ihhltotalasperdetails": 1962,
+      "ihhltotalach": 1962,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "GARHANI",
+      "grampanchayatname": "BARAURA",
+      "ihhltotalasperdetails": 2261,
+      "ihhltotalach": 2261,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "GARHANI",
+      "grampanchayatname": "ECHARI",
+      "ihhltotalasperdetails": 2489,
+      "ihhltotalach": 2489,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "GARHANI",
+      "grampanchayatname": "GARAHANI",
+      "ihhltotalasperdetails": 3289,
+      "ihhltotalach": 3289,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "GARHANI",
+      "grampanchayatname": "HARPUR",
+      "ihhltotalasperdetails": 1818,
+      "ihhltotalach": 1818,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "GARHANI",
+      "grampanchayatname": "KAUP",
+      "ihhltotalasperdetails": 1825,
+      "ihhltotalach": 1825,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "GARHANI",
+      "grampanchayatname": "KURKURI",
+      "ihhltotalasperdetails": 2375,
+      "ihhltotalach": 2375,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "JAGDISHPUR",
+      "grampanchayatname": "BABHNIYAWN",
+      "ihhltotalasperdetails": 1805,
+      "ihhltotalach": 1805,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "JAGDISHPUR",
+      "grampanchayatname": "BARNAON",
+      "ihhltotalasperdetails": 1778,
+      "ihhltotalach": 1778,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "JAGDISHPUR",
+      "grampanchayatname": "BASAUNA",
+      "ihhltotalasperdetails": 1072,
+      "ihhltotalach": 1072,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "JAGDISHPUR",
+      "grampanchayatname": "BICHLA JANGALMAHAL",
+      "ihhltotalasperdetails": 1925,
+      "ihhltotalach": 1925,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "JAGDISHPUR",
+      "grampanchayatname": "BIMAWAN",
+      "ihhltotalasperdetails": 1296,
+      "ihhltotalach": 1296,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "JAGDISHPUR",
+      "grampanchayatname": "CHAKWA",
+      "ihhltotalasperdetails": 2019,
+      "ihhltotalach": 2019,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "JAGDISHPUR",
+      "grampanchayatname": "DALIP PUR",
+      "ihhltotalasperdetails": 1565,
+      "ihhltotalach": 1565,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "JAGDISHPUR",
+      "grampanchayatname": "DAWAN",
+      "ihhltotalasperdetails": 3514,
+      "ihhltotalach": 3514,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "JAGDISHPUR",
+      "grampanchayatname": "EAST  AYAR",
+      "ihhltotalasperdetails": 1434,
+      "ihhltotalach": 1434,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "JAGDISHPUR",
+      "grampanchayatname": "HARDIYA",
+      "ihhltotalasperdetails": 1586,
+      "ihhltotalach": 1586,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "JAGDISHPUR",
+      "grampanchayatname": "HARI GAON",
+      "ihhltotalasperdetails": 1638,
+      "ihhltotalach": 1638,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "JAGDISHPUR",
+      "grampanchayatname": "HETAM PUR",
+      "ihhltotalasperdetails": 1448,
+      "ihhltotalach": 1448,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "JAGDISHPUR",
+      "grampanchayatname": "KAKILA",
+      "ihhltotalasperdetails": 2518,
+      "ihhltotalach": 2518,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "JAGDISHPUR",
+      "grampanchayatname": "KAURA",
+      "ihhltotalasperdetails": 1954,
+      "ihhltotalach": 1954,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "JAGDISHPUR",
+      "grampanchayatname": "PARASIYA",
+      "ihhltotalasperdetails": 1568,
+      "ihhltotalach": 1568,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "JAGDISHPUR",
+      "grampanchayatname": "SHIV PUR",
+      "ihhltotalasperdetails": 907,
+      "ihhltotalach": 907,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "JAGDISHPUR",
+      "grampanchayatname": "SIYARUWA",
+      "ihhltotalasperdetails": 1379,
+      "ihhltotalach": 1379,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "JAGDISHPUR",
+      "grampanchayatname": "UTARWARI JANGAL MAHAL",
+      "ihhltotalasperdetails": 2256,
+      "ihhltotalach": 2256,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "JAGDISHPUR",
+      "grampanchayatname": "UTTAR DAHA",
+      "ihhltotalasperdetails": 1385,
+      "ihhltotalach": 1385,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "JAGDISHPUR",
+      "grampanchayatname": "WEST AYAR",
+      "ihhltotalasperdetails": 2065,
+      "ihhltotalach": 2065,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "KOILWAR",
+      "grampanchayatname": "BHADWAR",
+      "ihhltotalasperdetails": 2432,
+      "ihhltotalach": 2432,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "KOILWAR",
+      "grampanchayatname": "BIRAMPUR",
+      "ihhltotalasperdetails": 2031,
+      "ihhltotalach": 2031,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "KOILWAR",
+      "grampanchayatname": "CHANDA",
+      "ihhltotalasperdetails": 2985,
+      "ihhltotalach": 2985,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "KOILWAR",
+      "grampanchayatname": "DAULATPUR",
+      "ihhltotalasperdetails": 2210,
+      "ihhltotalach": 2210,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "KOILWAR",
+      "grampanchayatname": "DHANDIHA",
+      "ihhltotalasperdetails": 2303,
+      "ihhltotalach": 2303,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "KOILWAR",
+      "grampanchayatname": "GIDHA",
+      "ihhltotalasperdetails": 2234,
+      "ihhltotalach": 2234,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "KOILWAR",
+      "grampanchayatname": "GOPALPUR",
+      "ihhltotalasperdetails": 1288,
+      "ihhltotalach": 1288,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "KOILWAR",
+      "grampanchayatname": "JALPURA    TAPA",
+      "ihhltotalasperdetails": 1355,
+      "ihhltotalach": 1355,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "KOILWAR",
+      "grampanchayatname": "JOCTA",
+      "ihhltotalasperdetails": 1147,
+      "ihhltotalach": 1147,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "KOILWAR",
+      "grampanchayatname": "KAYAM NAGAR",
+      "ihhltotalasperdetails": 2016,
+      "ihhltotalach": 2016,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "KOILWAR",
+      "grampanchayatname": "KHANGAON",
+      "ihhltotalasperdetails": 2750,
+      "ihhltotalach": 2750,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "KOILWAR",
+      "grampanchayatname": "KHESRAHIYA",
+      "ihhltotalasperdetails": 2715,
+      "ihhltotalach": 2715,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "KOILWAR",
+      "grampanchayatname": "KULHARIYA",
+      "ihhltotalasperdetails": 1478,
+      "ihhltotalach": 1478,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "KOILWAR",
+      "grampanchayatname": "MATHURAPUR",
+      "ihhltotalasperdetails": 1382,
+      "ihhltotalach": 1382,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "KOILWAR",
+      "grampanchayatname": "NARBIRPUR",
+      "ihhltotalasperdetails": 1801,
+      "ihhltotalach": 1801,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "KOILWAR",
+      "grampanchayatname": "RAJAPUR",
+      "ihhltotalasperdetails": 2598,
+      "ihhltotalach": 2598,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "KOILWAR",
+      "grampanchayatname": "SAKADDI",
+      "ihhltotalasperdetails": 1623,
+      "ihhltotalach": 1623,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "PIRO",
+      "grampanchayatname": "AGIAON",
+      "ihhltotalasperdetails": 1525,
+      "ihhltotalach": 1525,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "PIRO",
+      "grampanchayatname": "AKRUHA N",
+      "ihhltotalasperdetails": 2157,
+      "ihhltotalach": 2157,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "PIRO",
+      "grampanchayatname": "AMAI",
+      "ihhltotalasperdetails": 2306,
+      "ihhltotalach": 2306,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "PIRO",
+      "grampanchayatname": "AMEHATA",
+      "ihhltotalasperdetails": 1928,
+      "ihhltotalach": 1928,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "PIRO",
+      "grampanchayatname": "AYAR",
+      "ihhltotalasperdetails": 1267,
+      "ihhltotalach": 1267,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "PIRO",
+      "grampanchayatname": "BACHRI",
+      "ihhltotalasperdetails": 1446,
+      "ihhltotalach": 1446,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "PIRO",
+      "grampanchayatname": "BARNAW",
+      "ihhltotalasperdetails": 1466,
+      "ihhltotalach": 1466,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "PIRO",
+      "grampanchayatname": "BHADSAR",
+      "ihhltotalasperdetails": 1251,
+      "ihhltotalach": 1251,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "PIRO",
+      "grampanchayatname": "CHHAURAHI JANGAL MAHAL",
+      "ihhltotalasperdetails": 2462,
+      "ihhltotalach": 2462,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "PIRO",
+      "grampanchayatname": "JAMUAON",
+      "ihhltotalasperdetails": 1190,
+      "ihhltotalach": 1190,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "PIRO",
+      "grampanchayatname": "JITAURA JANALGAL MALAHAL",
+      "ihhltotalasperdetails": 1583,
+      "ihhltotalach": 1583,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "PIRO",
+      "grampanchayatname": "KAHANI KALA",
+      "ihhltotalasperdetails": 1844,
+      "ihhltotalach": 1844,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "PIRO",
+      "grampanchayatname": "KATAR",
+      "ihhltotalasperdetails": 3519,
+      "ihhltotalach": 3519,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "PIRO",
+      "grampanchayatname": "KATARIYA",
+      "ihhltotalasperdetails": 2000,
+      "ihhltotalach": 2000,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "PIRO",
+      "grampanchayatname": "KOTHUA",
+      "ihhltotalasperdetails": 1108,
+      "ihhltotalach": 1108,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "PIRO",
+      "grampanchayatname": "LAHTHAN",
+      "ihhltotalasperdetails": 1967,
+      "ihhltotalach": 1967,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "PIRO",
+      "grampanchayatname": "NARAYANPUR",
+      "ihhltotalasperdetails": 1274,
+      "ihhltotalach": 1274,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "PIRO",
+      "grampanchayatname": "NEAKTAL JANGAL MAHAL",
+      "ihhltotalasperdetails": 1429,
+      "ihhltotalach": 1429,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "PIRO",
+      "grampanchayatname": "NONAR",
+      "ihhltotalasperdetails": 1707,
+      "ihhltotalach": 1707,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "PIRO",
+      "grampanchayatname": "RAJEYA",
+      "ihhltotalasperdetails": 1980,
+      "ihhltotalach": 1980,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "PIRO",
+      "grampanchayatname": "SUKHRIAULI",
+      "ihhltotalasperdetails": 1128,
+      "ihhltotalach": 1128,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "PIRO",
+      "grampanchayatname": "TAR",
+      "ihhltotalasperdetails": 1472,
+      "ihhltotalach": 1472,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "PIRO",
+      "grampanchayatname": "TILATH",
+      "ihhltotalasperdetails": 921,
+      "ihhltotalach": 921,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "SAHAR",
+      "grampanchayatname": "AMHARUA",
+      "ihhltotalasperdetails": 1981,
+      "ihhltotalach": 1981,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "SAHAR",
+      "grampanchayatname": "ANDHARI",
+      "ihhltotalasperdetails": 2055,
+      "ihhltotalach": 2055,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "SAHAR",
+      "grampanchayatname": "BARUHI",
+      "ihhltotalasperdetails": 2804,
+      "ihhltotalach": 2804,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "SAHAR",
+      "grampanchayatname": "CHOURI",
+      "ihhltotalasperdetails": 2015,
+      "ihhltotalach": 2015,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "SAHAR",
+      "grampanchayatname": "DHANCHHUHAN",
+      "ihhltotalasperdetails": 1197,
+      "ihhltotalach": 1197,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "SAHAR",
+      "grampanchayatname": "EKWARI",
+      "ihhltotalasperdetails": 2431,
+      "ihhltotalach": 2431,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "SAHAR",
+      "grampanchayatname": "GULJARPUR",
+      "ihhltotalasperdetails": 2535,
+      "ihhltotalach": 2535,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "SAHAR",
+      "grampanchayatname": "KHARAON CHATURBHUJ",
+      "ihhltotalasperdetails": 3026,
+      "ihhltotalach": 3026,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "SAHAR",
+      "grampanchayatname": "KOLODIHARI",
+      "ihhltotalasperdetails": 1523,
+      "ihhltotalach": 1523,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "SAHAR",
+      "grampanchayatname": "KORAN DIHARI",
+      "ihhltotalasperdetails": 1334,
+      "ihhltotalach": 1334,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "SAHAR",
+      "grampanchayatname": "PERHAP",
+      "ihhltotalasperdetails": 2651,
+      "ihhltotalach": 2651,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "SAHAR",
+      "grampanchayatname": "SAHAR",
+      "ihhltotalasperdetails": 1963,
+      "ihhltotalach": 1963,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "SANDESH",
+      "grampanchayatname": "AHPURA",
+      "ihhltotalasperdetails": 1441,
+      "ihhltotalach": 1441,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "SANDESH",
+      "grampanchayatname": "AKHGAON",
+      "ihhltotalasperdetails": 2444,
+      "ihhltotalach": 2444,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "SANDESH",
+      "grampanchayatname": "BAGA",
+      "ihhltotalasperdetails": 1342,
+      "ihhltotalach": 1342,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "SANDESH",
+      "grampanchayatname": "CHILHAUS",
+      "ihhltotalasperdetails": 2544,
+      "ihhltotalach": 2544,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "SANDESH",
+      "grampanchayatname": "DIHRA",
+      "ihhltotalasperdetails": 1603,
+      "ihhltotalach": 1603,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "SANDESH",
+      "grampanchayatname": "JAMUAON",
+      "ihhltotalasperdetails": 1559,
+      "ihhltotalach": 1559,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "SANDESH",
+      "grampanchayatname": "KHANDAUL",
+      "ihhltotalasperdetails": 2223,
+      "ihhltotalach": 2223,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "SANDESH",
+      "grampanchayatname": "KORI",
+      "ihhltotalasperdetails": 2377,
+      "ihhltotalach": 2377,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "SANDESH",
+      "grampanchayatname": "PARURA",
+      "ihhltotalasperdetails": 2493,
+      "ihhltotalach": 2493,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "SANDESH",
+      "grampanchayatname": "RAMASHAND",
+      "ihhltotalasperdetails": 2190,
+      "ihhltotalach": 2190,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "SANDESH",
+      "grampanchayatname": "SANDESH",
+      "ihhltotalasperdetails": 1707,
+      "ihhltotalach": 1707,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "SHAHPUR",
+      "grampanchayatname": "BAHORANPUR",
+      "ihhltotalasperdetails": 2480,
+      "ihhltotalach": 2480,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "SHAHPUR",
+      "grampanchayatname": "BARISWAN",
+      "ihhltotalasperdetails": 1791,
+      "ihhltotalach": 1791,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "SHAHPUR",
+      "grampanchayatname": "BHARAULI",
+      "ihhltotalasperdetails": 2684,
+      "ihhltotalach": 2684,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "SHAHPUR",
+      "grampanchayatname": "BILAUTI",
+      "ihhltotalasperdetails": 1309,
+      "ihhltotalach": 1309,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "SHAHPUR",
+      "grampanchayatname": "DAMODARPUR",
+      "ihhltotalasperdetails": 2084,
+      "ihhltotalach": 2084,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "SHAHPUR",
+      "grampanchayatname": "DEOMALPUR BAHUDRI",
+      "ihhltotalasperdetails": 3675,
+      "ihhltotalach": 3675,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "SHAHPUR",
+      "grampanchayatname": "DUMARIYA",
+      "ihhltotalasperdetails": 1072,
+      "ihhltotalach": 1072,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "SHAHPUR",
+      "grampanchayatname": "GAURA",
+      "ihhltotalasperdetails": 3253,
+      "ihhltotalach": 3253,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "SHAHPUR",
+      "grampanchayatname": "HARIHARPUR",
+      "ihhltotalasperdetails": 2860,
+      "ihhltotalach": 2860,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "SHAHPUR",
+      "grampanchayatname": "ISHARPURA",
+      "ihhltotalasperdetails": 1236,
+      "ihhltotalach": 1236,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "SHAHPUR",
+      "grampanchayatname": "JHAUA BELBAHIYA",
+      "ihhltotalasperdetails": 2292,
+      "ihhltotalach": 2292,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "SHAHPUR",
+      "grampanchayatname": "KARJA",
+      "ihhltotalasperdetails": 1447,
+      "ihhltotalach": 1447,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "SHAHPUR",
+      "grampanchayatname": "KHUTHA",
+      "ihhltotalasperdetails": 574,
+      "ihhltotalach": 574,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "SHAHPUR",
+      "grampanchayatname": "LACHATOLA BERSINGHA",
+      "ihhltotalasperdetails": 2820,
+      "ihhltotalach": 2820,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "SHAHPUR",
+      "grampanchayatname": "LALU KA DERA",
+      "ihhltotalasperdetails": 3001,
+      "ihhltotalach": 3001,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "SHAHPUR",
+      "grampanchayatname": "PARSONDA",
+      "ihhltotalasperdetails": 1207,
+      "ihhltotalach": 1207,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "SHAHPUR",
+      "grampanchayatname": "SAHJAULI",
+      "ihhltotalasperdetails": 2206,
+      "ihhltotalach": 2206,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "SHAHPUR",
+      "grampanchayatname": "SARNA",
+      "ihhltotalasperdetails": 1006,
+      "ihhltotalach": 1006,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "SHAHPUR",
+      "grampanchayatname": "SIMARIYA",
+      "ihhltotalasperdetails": 1487,
+      "ihhltotalach": 1487,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "SHAHPUR",
+      "grampanchayatname": "SUHIYA",
+      "ihhltotalasperdetails": 2750,
+      "ihhltotalach": 2750,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "TARARI",
+      "grampanchayatname": "BADKA GAON",
+      "ihhltotalasperdetails": 1945,
+      "ihhltotalach": 1945,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "TARARI",
+      "grampanchayatname": "BAGAR",
+      "ihhltotalasperdetails": 1694,
+      "ihhltotalach": 1694,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "TARARI",
+      "grampanchayatname": "BASOORI",
+      "ihhltotalasperdetails": 1737,
+      "ihhltotalach": 1737,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "TARARI",
+      "grampanchayatname": "BHAKURA",
+      "ihhltotalasperdetails": 2402,
+      "ihhltotalach": 2402,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "TARARI",
+      "grampanchayatname": "BIHTA",
+      "ihhltotalasperdetails": 1531,
+      "ihhltotalach": 1531,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "TARARI",
+      "grampanchayatname": "CHAKIYA",
+      "ihhltotalasperdetails": 1948,
+      "ihhltotalach": 1948,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "TARARI",
+      "grampanchayatname": "DEO",
+      "ihhltotalasperdetails": 1624,
+      "ihhltotalach": 1624,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "TARARI",
+      "grampanchayatname": "DUMARIYAN",
+      "ihhltotalasperdetails": 732,
+      "ihhltotalach": 732,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "TARARI",
+      "grampanchayatname": "IMAD PUR",
+      "ihhltotalasperdetails": 2430,
+      "ihhltotalach": 2430,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "TARARI",
+      "grampanchayatname": "JETHWAR",
+      "ihhltotalasperdetails": 1293,
+      "ihhltotalach": 1293,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "TARARI",
+      "grampanchayatname": "KARATH",
+      "ihhltotalasperdetails": 2025,
+      "ihhltotalach": 2025,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "TARARI",
+      "grampanchayatname": "KURMURI",
+      "ihhltotalasperdetails": 1476,
+      "ihhltotalach": 1476,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "TARARI",
+      "grampanchayatname": "MOAP KALA",
+      "ihhltotalasperdetails": 2431,
+      "ihhltotalach": 2431,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "TARARI",
+      "grampanchayatname": "MOAP KHURD",
+      "ihhltotalasperdetails": 2061,
+      "ihhltotalach": 2061,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "TARARI",
+      "grampanchayatname": "PANWARI",
+      "ihhltotalasperdetails": 564,
+      "ihhltotalach": 564,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "TARARI",
+      "grampanchayatname": "SEDHAN",
+      "ihhltotalasperdetails": 1315,
+      "ihhltotalach": 1315,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "TARARI",
+      "grampanchayatname": "SHANKAR DIH",
+      "ihhltotalasperdetails": 1471,
+      "ihhltotalach": 1471,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "TARARI",
+      "grampanchayatname": "SIKARHATTA",
+      "ihhltotalasperdetails": 882,
+      "ihhltotalach": 882,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "TARARI",
+      "grampanchayatname": "TARARI",
+      "ihhltotalasperdetails": 1496,
+      "ihhltotalach": 1496,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "UDWANTNAGAR",
+      "grampanchayatname": "AROURA",
+      "ihhltotalasperdetails": 1620,
+      "ihhltotalach": 1620,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "UDWANTNAGAR",
+      "grampanchayatname": "ASHANI",
+      "ihhltotalasperdetails": 1828,
+      "ihhltotalach": 1828,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "UDWANTNAGAR",
+      "grampanchayatname": "BAKRI",
+      "ihhltotalasperdetails": 1687,
+      "ihhltotalach": 1687,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "UDWANTNAGAR",
+      "grampanchayatname": "BAMPALI",
+      "ihhltotalasperdetails": 1279,
+      "ihhltotalach": 1279,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "UDWANTNAGAR",
+      "grampanchayatname": "BELAUR",
+      "ihhltotalasperdetails": 1839,
+      "ihhltotalach": 1839,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "UDWANTNAGAR",
+      "grampanchayatname": "CHOTI  SASARAM",
+      "ihhltotalasperdetails": 2042,
+      "ihhltotalach": 2042,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "UDWANTNAGAR",
+      "grampanchayatname": "EKAWANA",
+      "ihhltotalasperdetails": 2228,
+      "ihhltotalach": 2228,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "UDWANTNAGAR",
+      "grampanchayatname": "KARISATH",
+      "ihhltotalasperdetails": 1578,
+      "ihhltotalach": 1578,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "UDWANTNAGAR",
+      "grampanchayatname": "KASAP",
+      "ihhltotalasperdetails": 1391,
+      "ihhltotalach": 1391,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "UDWANTNAGAR",
+      "grampanchayatname": "KUSUMHA",
+      "ihhltotalasperdetails": 1436,
+      "ihhltotalach": 1436,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "UDWANTNAGAR",
+      "grampanchayatname": "MASADH",
+      "ihhltotalasperdetails": 1422,
+      "ihhltotalach": 1422,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "UDWANTNAGAR",
+      "grampanchayatname": "NAWADA BEN",
+      "ihhltotalasperdetails": 2158,
+      "ihhltotalach": 2158,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "UDWANTNAGAR",
+      "grampanchayatname": "PIANIA",
+      "ihhltotalasperdetails": 1939,
+      "ihhltotalach": 1939,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "UDWANTNAGAR",
+      "grampanchayatname": "SARTHUA",
+      "ihhltotalasperdetails": 1820,
+      "ihhltotalach": 1820,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "UDWANTNAGAR",
+      "grampanchayatname": "SONPURA",
+      "ihhltotalasperdetails": 1791,
+      "ihhltotalach": 1791,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Bihar",
+      "districtname": "BHOJPUR",
+      "blockname": "UDWANTNAGAR",
+      "grampanchayatname": "UDWANTNAGAR",
+      "ihhltotalasperdetails": 2478,
+      "ihhltotalach": 2478,
+      "date": "5/19/2020 12:00:00 AM"
+    }
+  ]
+}

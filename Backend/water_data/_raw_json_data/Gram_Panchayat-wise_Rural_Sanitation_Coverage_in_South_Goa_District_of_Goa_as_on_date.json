@@ -1,0 +1,875 @@
+{
+  "index_name": "5fe0bfe6-0626-438e-b8b4-aa0e219ae359",
+  "title": "Gram Panchayat-wise Rural Sanitation Coverage in South Goa District of Goa as on date",
+  "desc": "Gram Panchayat-wise Rural Sanitation Coverage in South Goa District of Goa as on date",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Jal Shakti",
+    "Department of Drinking Water and Sanitation"
+  ],
+  "sector": [
+    "Water and Sanitation"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1688360376,
+  "updated": 1688364936,
+  "created_date": "2023-07-03T06:59:36Z",
+  "updated_date": "2023-07-03T11:45:36Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "sbm",
+    "type": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+    "field": "5fe0bfe6-0626-438e-b8b4-aa0e219ae359"
+  },
+  "field": [
+    {
+      "id": "statename",
+      "name": "StateName",
+      "type": "keyword"
+    },
+    {
+      "id": "districtname",
+      "name": "DistrictName",
+      "type": "keyword"
+    },
+    {
+      "id": "blockname",
+      "name": "BlockName",
+      "type": "keyword"
+    },
+    {
+      "id": "grampanchayatname",
+      "name": "GramPanchayatName",
+      "type": "keyword"
+    },
+    {
+      "id": "ihhltotalasperdetails",
+      "name": "IHHLTotalAsPerDetails",
+      "type": "double"
+    },
+    {
+      "id": "ihhltotalach",
+      "name": "IHHLTotalAch",
+      "type": "double"
+    },
+    {
+      "id": "date",
+      "name": "Date",
+      "type": "keyword"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 89,
+  "count": 89,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "CANACONA",
+      "grampanchayatname": "AGONDA",
+      "ihhltotalasperdetails": 328,
+      "ihhltotalach": 328,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "CANACONA",
+      "grampanchayatname": "COLA",
+      "ihhltotalasperdetails": 964,
+      "ihhltotalach": 964,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "CANACONA",
+      "grampanchayatname": "COTIGAO",
+      "ihhltotalasperdetails": 704,
+      "ihhltotalach": 704,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "CANACONA",
+      "grampanchayatname": "GAONDONGRI",
+      "ihhltotalasperdetails": 651,
+      "ihhltotalach": 651,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "CANACONA",
+      "grampanchayatname": "LOLIEM-POLEM",
+      "ihhltotalasperdetails": 2162,
+      "ihhltotalach": 2162,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "CANACONA",
+      "grampanchayatname": "POINGUINIM",
+      "ihhltotalasperdetails": 1155,
+      "ihhltotalach": 1155,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "CANACONA",
+      "grampanchayatname": "SHRISTHAL",
+      "ihhltotalasperdetails": 1147,
+      "ihhltotalach": 1147,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "DHARBANDORA",
+      "grampanchayatname": "COLEM",
+      "ihhltotalasperdetails": 1995,
+      "ihhltotalach": 1995,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "DHARBANDORA",
+      "grampanchayatname": "DHARBANDORA",
+      "ihhltotalasperdetails": 1164,
+      "ihhltotalach": 1164,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "DHARBANDORA",
+      "grampanchayatname": "KIRLAPAL-DABHAL",
+      "ihhltotalasperdetails": 1093,
+      "ihhltotalach": 1093,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "DHARBANDORA",
+      "grampanchayatname": "MOLLEM",
+      "ihhltotalasperdetails": 383,
+      "ihhltotalach": 383,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "DHARBANDORA",
+      "grampanchayatname": "SANCORDEM",
+      "ihhltotalasperdetails": 825,
+      "ihhltotalach": 825,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "MORMUGAO",
+      "grampanchayatname": "CHICALIM",
+      "ihhltotalasperdetails": 417,
+      "ihhltotalach": 417,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "MORMUGAO",
+      "grampanchayatname": "CHICOLNA-BOGMALO",
+      "ihhltotalasperdetails": 597,
+      "ihhltotalach": 597,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "MORMUGAO",
+      "grampanchayatname": "CORTALIM",
+      "ihhltotalasperdetails": 802,
+      "ihhltotalach": 802,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "MORMUGAO",
+      "grampanchayatname": "CUELIM-CANSAULIM",
+      "ihhltotalasperdetails": 978,
+      "ihhltotalach": 978,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "MORMUGAO",
+      "grampanchayatname": "MAJORDA",
+      "ihhltotalasperdetails": 532,
+      "ihhltotalach": 532,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "MORMUGAO",
+      "grampanchayatname": "NAGOA",
+      "ihhltotalasperdetails": 584,
+      "ihhltotalach": 584,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "MORMUGAO",
+      "grampanchayatname": "QUELOSSIM",
+      "ihhltotalasperdetails": 67,
+      "ihhltotalach": 67,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "MORMUGAO",
+      "grampanchayatname": "SANCOALE",
+      "ihhltotalasperdetails": 510,
+      "ihhltotalach": 510,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "MORMUGAO",
+      "grampanchayatname": "VELSAO-PALE",
+      "ihhltotalasperdetails": 424,
+      "ihhltotalach": 424,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "MORMUGAO",
+      "grampanchayatname": "VERNA",
+      "ihhltotalasperdetails": 1811,
+      "ihhltotalach": 1811,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "PONDA",
+      "grampanchayatname": "BANDORA",
+      "ihhltotalasperdetails": 2287,
+      "ihhltotalach": 2287,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "PONDA",
+      "grampanchayatname": "BETORA-NIRANCAL",
+      "ihhltotalasperdetails": 1179,
+      "ihhltotalach": 1179,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "PONDA",
+      "grampanchayatname": "BETQUI, CANDOLA",
+      "ihhltotalasperdetails": 1207,
+      "ihhltotalach": 1207,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "PONDA",
+      "grampanchayatname": "BHOMA-ADCOLNA",
+      "ihhltotalasperdetails": 525,
+      "ihhltotalach": 525,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "PONDA",
+      "grampanchayatname": "BORIM",
+      "ihhltotalasperdetails": 1381,
+      "ihhltotalach": 1381,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "PONDA",
+      "grampanchayatname": "CURTI-KHANDEPAR",
+      "ihhltotalasperdetails": 3126,
+      "ihhltotalach": 3126,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "PONDA",
+      "grampanchayatname": "DURBHAT",
+      "ihhltotalasperdetails": 688,
+      "ihhltotalach": 688,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "PONDA",
+      "grampanchayatname": "KUNDAIM",
+      "ihhltotalasperdetails": 903,
+      "ihhltotalach": 903,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "PONDA",
+      "grampanchayatname": "MARCAIM",
+      "ihhltotalasperdetails": 634,
+      "ihhltotalach": 634,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "PONDA",
+      "grampanchayatname": "PANCHAWADI",
+      "ihhltotalasperdetails": 1121,
+      "ihhltotalach": 1121,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "PONDA",
+      "grampanchayatname": "QUELA",
+      "ihhltotalasperdetails": 694,
+      "ihhltotalach": 694,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "PONDA",
+      "grampanchayatname": "QUERIM",
+      "ihhltotalasperdetails": 678,
+      "ihhltotalach": 678,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "PONDA",
+      "grampanchayatname": "SHIRODA",
+      "ihhltotalasperdetails": 2925,
+      "ihhltotalach": 2925,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "PONDA",
+      "grampanchayatname": "TALAULIM",
+      "ihhltotalasperdetails": 721,
+      "ihhltotalach": 721,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "PONDA",
+      "grampanchayatname": "TIVREM-ORGAO",
+      "ihhltotalasperdetails": 1228,
+      "ihhltotalach": 1228,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "PONDA",
+      "grampanchayatname": "USGAO-GANJEM",
+      "ihhltotalasperdetails": 1824,
+      "ihhltotalach": 1824,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "PONDA",
+      "grampanchayatname": "VELING-PRIOL",
+      "ihhltotalasperdetails": 2300,
+      "ihhltotalach": 2300,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "PONDA",
+      "grampanchayatname": "VEREM-VAGHURME",
+      "ihhltotalasperdetails": 938,
+      "ihhltotalach": 938,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "PONDA",
+      "grampanchayatname": "VOLVOI",
+      "ihhltotalasperdetails": 459,
+      "ihhltotalach": 459,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "QUEPEM",
+      "grampanchayatname": "AMBAULIM",
+      "ihhltotalasperdetails": 571,
+      "ihhltotalach": 571,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "QUEPEM",
+      "grampanchayatname": "ASSOLDA",
+      "ihhltotalasperdetails": 556,
+      "ihhltotalach": 556,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "QUEPEM",
+      "grampanchayatname": "AVEDEM-COTOMBI",
+      "ihhltotalasperdetails": 987,
+      "ihhltotalach": 987,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "QUEPEM",
+      "grampanchayatname": "BALLI-ADNEM",
+      "ihhltotalasperdetails": 1651,
+      "ihhltotalach": 1651,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "QUEPEM",
+      "grampanchayatname": "BARCEM",
+      "ihhltotalasperdetails": 907,
+      "ihhltotalach": 907,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "QUEPEM",
+      "grampanchayatname": "CAUREM",
+      "ihhltotalasperdetails": 917,
+      "ihhltotalach": 917,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "QUEPEM",
+      "grampanchayatname": "FATORPA-QUITOL",
+      "ihhltotalasperdetails": 961,
+      "ihhltotalach": 961,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "QUEPEM",
+      "grampanchayatname": "MOLCORNEM",
+      "ihhltotalasperdetails": 747,
+      "ihhltotalach": 747,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "QUEPEM",
+      "grampanchayatname": "MORPIRLA",
+      "ihhltotalasperdetails": 1331,
+      "ihhltotalach": 1331,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "QUEPEM",
+      "grampanchayatname": "NAQUERI-BETUL",
+      "ihhltotalasperdetails": 538,
+      "ihhltotalach": 538,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "QUEPEM",
+      "grampanchayatname": "XELDEM",
+      "ihhltotalasperdetails": 3348,
+      "ihhltotalach": 3348,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "SALCETE",
+      "grampanchayatname": "AMBELIM",
+      "ihhltotalasperdetails": 943,
+      "ihhltotalach": 943,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "SALCETE",
+      "grampanchayatname": "AQUEM BAIXO",
+      "ihhltotalasperdetails": 1194,
+      "ihhltotalach": 1194,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "SALCETE",
+      "grampanchayatname": "ASSOLNA",
+      "ihhltotalasperdetails": 706,
+      "ihhltotalach": 706,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "SALCETE",
+      "grampanchayatname": "BENAULIM",
+      "ihhltotalasperdetails": 575,
+      "ihhltotalach": 575,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "SALCETE",
+      "grampanchayatname": "BETALBATIM",
+      "ihhltotalasperdetails": 472,
+      "ihhltotalach": 472,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "SALCETE",
+      "grampanchayatname": "CAMURLIM",
+      "ihhltotalasperdetails": 313,
+      "ihhltotalach": 313,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "SALCETE",
+      "grampanchayatname": "CARMONA",
+      "ihhltotalasperdetails": 517,
+      "ihhltotalach": 517,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "SALCETE",
+      "grampanchayatname": "CAVELOSSIM",
+      "ihhltotalasperdetails": 406,
+      "ihhltotalach": 406,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "SALCETE",
+      "grampanchayatname": "CHANDOR-CAVORIM",
+      "ihhltotalasperdetails": 526,
+      "ihhltotalach": 526,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "SALCETE",
+      "grampanchayatname": "CHINCHINIM- DEUSSA",
+      "ihhltotalasperdetails": 1226,
+      "ihhltotalach": 1226,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "SALCETE",
+      "grampanchayatname": "COLVA",
+      "ihhltotalasperdetails": 767,
+      "ihhltotalach": 767,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "SALCETE",
+      "grampanchayatname": "CURTORIM",
+      "ihhltotalasperdetails": 2530,
+      "ihhltotalach": 2530,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "SALCETE",
+      "grampanchayatname": "DAVORLIM SIRLIM",
+      "ihhltotalasperdetails": 541,
+      "ihhltotalach": 541,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "SALCETE",
+      "grampanchayatname": "DRAMAPUR",
+      "ihhltotalasperdetails": 509,
+      "ihhltotalach": 509,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "SALCETE",
+      "grampanchayatname": "GUIRDOLIM",
+      "ihhltotalasperdetails": 158,
+      "ihhltotalach": 158,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "SALCETE",
+      "grampanchayatname": "LOUTULIM",
+      "ihhltotalasperdetails": 1241,
+      "ihhltotalach": 1241,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "SALCETE",
+      "grampanchayatname": "MACASANA",
+      "ihhltotalasperdetails": 972,
+      "ihhltotalach": 972,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "SALCETE",
+      "grampanchayatname": "NAVELIM SALCETE",
+      "ihhltotalasperdetails": 1304,
+      "ihhltotalach": 1304,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "SALCETE",
+      "grampanchayatname": "NUVEM",
+      "ihhltotalasperdetails": 367,
+      "ihhltotalach": 367,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "SALCETE",
+      "grampanchayatname": "ORLIM",
+      "ihhltotalasperdetails": 273,
+      "ihhltotalach": 273,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "SALCETE",
+      "grampanchayatname": "PARODA",
+      "ihhltotalasperdetails": 272,
+      "ihhltotalach": 272,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "SALCETE",
+      "grampanchayatname": "RACHOL",
+      "ihhltotalasperdetails": 207,
+      "ihhltotalach": 207,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "SALCETE",
+      "grampanchayatname": "RAIA",
+      "ihhltotalasperdetails": 1292,
+      "ihhltotalach": 1292,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "SALCETE",
+      "grampanchayatname": "RUMDAMOL-DAVORLIM",
+      "ihhltotalasperdetails": 1222,
+      "ihhltotalach": 1222,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "SALCETE",
+      "grampanchayatname": "SARZORA",
+      "ihhltotalasperdetails": 25,
+      "ihhltotalach": 25,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "SALCETE",
+      "grampanchayatname": "SERAULIM",
+      "ihhltotalasperdetails": 470,
+      "ihhltotalach": 470,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "SALCETE",
+      "grampanchayatname": "ST. JOSE-DE-AREAL",
+      "ihhltotalasperdetails": 1042,
+      "ihhltotalach": 1042,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "SALCETE",
+      "grampanchayatname": "TELAULIM",
+      "ihhltotalasperdetails": 462,
+      "ihhltotalach": 462,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "SALCETE",
+      "grampanchayatname": "VARCA",
+      "ihhltotalasperdetails": 729,
+      "ihhltotalach": 729,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "SALCETE",
+      "grampanchayatname": "VELIM",
+      "ihhltotalasperdetails": 1037,
+      "ihhltotalach": 1037,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "SANGUEM",
+      "grampanchayatname": "BHATI",
+      "ihhltotalasperdetails": 755,
+      "ihhltotalach": 755,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "SANGUEM",
+      "grampanchayatname": "CURDI",
+      "ihhltotalasperdetails": 822,
+      "ihhltotalach": 822,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "SANGUEM",
+      "grampanchayatname": "KALAY(KALEM)",
+      "ihhltotalasperdetails": 1104,
+      "ihhltotalach": 1104,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "SANGUEM",
+      "grampanchayatname": "NETURLIM",
+      "ihhltotalasperdetails": 773,
+      "ihhltotalach": 773,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "SANGUEM",
+      "grampanchayatname": "RIVONA",
+      "ihhltotalasperdetails": 1022,
+      "ihhltotalach": 1022,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "SANGUEM",
+      "grampanchayatname": "SANVORDEM",
+      "ihhltotalasperdetails": 845,
+      "ihhltotalach": 845,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Goa",
+      "districtname": "SOUTH GOA",
+      "blockname": "SANGUEM",
+      "grampanchayatname": "UGUEM",
+      "ihhltotalasperdetails": 823,
+      "ihhltotalach": 823,
+      "date": "5/19/2020 12:00:00 AM"
+    }
+  ]
+}

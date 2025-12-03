@@ -1,0 +1,214 @@
+{
+  "index_name": "c2d3f4b9-a5c3-4fe1-805b-e73150657855",
+  "title": "State/Ut-wise Length of National Highways in India as on 31st March, 2013",
+  "desc": "State/Ut-wise Length of National Highways in India as on 31st March, 2013",
+  "created": 1499331462,
+  "updated": 1527233774,
+  "visualizable": "1",
+  "source": "data.gov.in",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Road Transport and Highways"
+  ],
+  "sector": [
+    "Road Transport",
+    "Roads"
+  ],
+  "catalog_uuid": "b7faf63a-6898-41eb-9625-1bfce2d8657a",
+  "status": "ok",
+  "field": [
+    {
+      "id": "category",
+      "name": "Category",
+      "type": "keyword"
+    },
+    {
+      "id": "states_uts",
+      "name": "States/UTs",
+      "type": "keyword"
+    },
+    {
+      "id": "length_of_nh",
+      "name": "Length of NH",
+      "type": "double"
+    }
+  ],
+  "created_date": "2017-07-06T08:57:42Z",
+  "updated_date": "2018-05-25T13:06:14Z",
+  "active": "1",
+  "external_ws_url": "",
+  "external_ws": "0",
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "total": 33,
+  "count": 33,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "category": "States",
+      "states_uts": "Andhra Pradesh",
+      "length_of_nh": "5022"
+    },
+    {
+      "category": "States",
+      "states_uts": "Arunachal Pradesh",
+      "length_of_nh": "2027"
+    },
+    {
+      "category": "States",
+      "states_uts": "Assam",
+      "length_of_nh": "2940"
+    },
+    {
+      "category": "States",
+      "states_uts": "Bihar",
+      "length_of_nh": "4168"
+    },
+    {
+      "category": "States",
+      "states_uts": "Chhattisgarh",
+      "length_of_nh": "2289"
+    },
+    {
+      "category": "States",
+      "states_uts": "Goa",
+      "length_of_nh": "269"
+    },
+    {
+      "category": "States",
+      "states_uts": "Gujarat",
+      "length_of_nh": "3828"
+    },
+    {
+      "category": "States",
+      "states_uts": "Haryana",
+      "length_of_nh": "1633"
+    },
+    {
+      "category": "States",
+      "states_uts": "Himachal Pradesh",
+      "length_of_nh": "1506"
+    },
+    {
+      "category": "States",
+      "states_uts": "Jammu & Kashmir",
+      "length_of_nh": "1695"
+    },
+    {
+      "category": "States",
+      "states_uts": "Jharkhand",
+      "length_of_nh": "2374"
+    },
+    {
+      "category": "States",
+      "states_uts": "Karnataka",
+      "length_of_nh": "4642"
+    },
+    {
+      "category": "States",
+      "states_uts": "Kerala",
+      "length_of_nh": "1457"
+    },
+    {
+      "category": "States",
+      "states_uts": "Madhya Pradesh",
+      "length_of_nh": "5116"
+    },
+    {
+      "category": "States",
+      "states_uts": "Maharashtra",
+      "length_of_nh": "4498"
+    },
+    {
+      "category": "States",
+      "states_uts": "Manipur",
+      "length_of_nh": "1317"
+    },
+    {
+      "category": "States",
+      "states_uts": "Meghalaya",
+      "length_of_nh": "1171"
+    },
+    {
+      "category": "States",
+      "states_uts": "Mizoram",
+      "length_of_nh": "1027"
+    },
+    {
+      "category": "States",
+      "states_uts": "Nagaland",
+      "length_of_nh": "494"
+    },
+    {
+      "category": "States",
+      "states_uts": "Odisha",
+      "length_of_nh": "4416"
+    },
+    {
+      "category": "States",
+      "states_uts": "Punjab",
+      "length_of_nh": "1557"
+    },
+    {
+      "category": "States",
+      "states_uts": "Rajasthan",
+      "length_of_nh": "7180"
+    },
+    {
+      "category": "States",
+      "states_uts": "Sikkim",
+      "length_of_nh": "149"
+    },
+    {
+      "category": "States",
+      "states_uts": "Tamil Nadu",
+      "length_of_nh": "4943"
+    },
+    {
+      "category": "States",
+      "states_uts": "Tripura",
+      "length_of_nh": "400"
+    },
+    {
+      "category": "States",
+      "states_uts": "Uttarakhand",
+      "length_of_nh": "2042"
+    },
+    {
+      "category": "States",
+      "states_uts": "Uttar Pradesh",
+      "length_of_nh": "7818"
+    },
+    {
+      "category": "States",
+      "states_uts": "West Bengal",
+      "length_of_nh": "2681"
+    },
+    {
+      "category": "Union Territories",
+      "states_uts": "Andaman & Nicobar Islands",
+      "length_of_nh": "300"
+    },
+    {
+      "category": "Union Territories",
+      "states_uts": "Chandigarh",
+      "length_of_nh": "24"
+    },
+    {
+      "category": "Union Territories",
+      "states_uts": "Delhi",
+      "length_of_nh": "80"
+    },
+    {
+      "category": "Union Territories",
+      "states_uts": "Puducherry",
+      "length_of_nh": "53"
+    },
+    {
+      "category": "All India",
+      "states_uts": "All India",
+      "length_of_nh": "79116"
+    }
+  ]
+}

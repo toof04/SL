@@ -1,0 +1,514 @@
+{
+  "index_name": "d0e86fbd-0e3f-44e8-9ac6-c412d5b66221",
+  "title": "State/UT-wise Education Profile of Convicts as on 31st December, 2020",
+  "desc": "State/UT-wise Education Profile of Convicts as on 31st December, 2020",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Home Affairs",
+    "Department of States",
+    "National Crime Records Bureau (NCRB)"
+  ],
+  "sector": [
+    ""
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "227785a5-3f02-4ed0-9422-f12b2951a5cf",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1651039269,
+  "updated": 1651120373,
+  "created_date": "2022-04-27T06:01:09Z",
+  "updated_date": "2022-04-28T10:02:53Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "ncrb",
+    "type": "227785a5-3f02-4ed0-9422-f12b2951a5cf",
+    "field": "d0e86fbd-0e3f-44e8-9ac6-c412d5b66221"
+  },
+  "field": [
+    {
+      "id": "sl__no_",
+      "name": "Sl. No.",
+      "type": "keyword"
+    },
+    {
+      "id": "state_ut",
+      "name": "State/UT",
+      "type": "keyword"
+    },
+    {
+      "id": "educational_standard___illiterate",
+      "name": "Educational Standard - Illiterate",
+      "type": "double"
+    },
+    {
+      "id": "educational_standard___below_class_x",
+      "name": "Educational Standard - Below Class X",
+      "type": "double"
+    },
+    {
+      "id": "educational_standard___class_x___above_but_below_graduation",
+      "name": "Educational Standard - Class X & above but below Graduation",
+      "type": "double"
+    },
+    {
+      "id": "educational_standard___graduate",
+      "name": "Educational Standard - Graduate",
+      "type": "double"
+    },
+    {
+      "id": "educational_standard___holding_tech__degree__diploma",
+      "name": "Educational Standard - Holding Tech. Degree/ Diploma",
+      "type": "double"
+    },
+    {
+      "id": "educational_standard___post_graduate",
+      "name": "Educational Standard - Post Graduate",
+      "type": "double"
+    },
+    {
+      "id": "educational_standard___total",
+      "name": "Educational Standard - Total",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 39,
+  "count": 39,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "sl__no_": "1",
+      "state_ut": "Andhra Pradesh",
+      "educational_standard___illiterate": 616,
+      "educational_standard___below_class_x": 1136,
+      "educational_standard___class_x___above_but_below_graduation": 322,
+      "educational_standard___graduate": 185,
+      "educational_standard___holding_tech__degree__diploma": 53,
+      "educational_standard___post_graduate": 48,
+      "educational_standard___total": 2360
+    },
+    {
+      "sl__no_": "2",
+      "state_ut": "Arunachal Pradesh",
+      "educational_standard___illiterate": 36,
+      "educational_standard___below_class_x": 63,
+      "educational_standard___class_x___above_but_below_graduation": 25,
+      "educational_standard___graduate": 2,
+      "educational_standard___holding_tech__degree__diploma": "0",
+      "educational_standard___post_graduate": "0",
+      "educational_standard___total": 126
+    },
+    {
+      "sl__no_": "3",
+      "state_ut": "Assam",
+      "educational_standard___illiterate": 733,
+      "educational_standard___below_class_x": 1397,
+      "educational_standard___class_x___above_but_below_graduation": 571,
+      "educational_standard___graduate": 70,
+      "educational_standard___holding_tech__degree__diploma": 3,
+      "educational_standard___post_graduate": 5,
+      "educational_standard___total": 2779
+    },
+    {
+      "sl__no_": "4",
+      "state_ut": "Bihar",
+      "educational_standard___illiterate": 2171,
+      "educational_standard___below_class_x": 2629,
+      "educational_standard___class_x___above_but_below_graduation": 2127,
+      "educational_standard___graduate": 677,
+      "educational_standard___holding_tech__degree__diploma": 37,
+      "educational_standard___post_graduate": 100,
+      "educational_standard___total": 7741
+    },
+    {
+      "sl__no_": "5",
+      "state_ut": "Chhattisgarh",
+      "educational_standard___illiterate": 1600,
+      "educational_standard___below_class_x": 3490,
+      "educational_standard___class_x___above_but_below_graduation": 795,
+      "educational_standard___graduate": 174,
+      "educational_standard___holding_tech__degree__diploma": 12,
+      "educational_standard___post_graduate": 31,
+      "educational_standard___total": 6102
+    },
+    {
+      "sl__no_": "6",
+      "state_ut": "Goa",
+      "educational_standard___illiterate": 34,
+      "educational_standard___below_class_x": 22,
+      "educational_standard___class_x___above_but_below_graduation": 38,
+      "educational_standard___graduate": 7,
+      "educational_standard___holding_tech__degree__diploma": 2,
+      "educational_standard___post_graduate": 2,
+      "educational_standard___total": 105
+    },
+    {
+      "sl__no_": "7",
+      "state_ut": "Gujarat",
+      "educational_standard___illiterate": 819,
+      "educational_standard___below_class_x": 2283,
+      "educational_standard___class_x___above_but_below_graduation": 580,
+      "educational_standard___graduate": 94,
+      "educational_standard___holding_tech__degree__diploma": 9,
+      "educational_standard___post_graduate": 68,
+      "educational_standard___total": 3853
+    },
+    {
+      "sl__no_": "8",
+      "state_ut": "Haryana",
+      "educational_standard___illiterate": 707,
+      "educational_standard___below_class_x": 1211,
+      "educational_standard___class_x___above_but_below_graduation": 1012,
+      "educational_standard___graduate": 324,
+      "educational_standard___holding_tech__degree__diploma": 27,
+      "educational_standard___post_graduate": 57,
+      "educational_standard___total": 3338
+    },
+    {
+      "sl__no_": "9",
+      "state_ut": "Himachal Pradesh",
+      "educational_standard___illiterate": 107,
+      "educational_standard___below_class_x": 401,
+      "educational_standard___class_x___above_but_below_graduation": 294,
+      "educational_standard___graduate": 32,
+      "educational_standard___holding_tech__degree__diploma": "0",
+      "educational_standard___post_graduate": 19,
+      "educational_standard___total": 853
+    },
+    {
+      "sl__no_": "10",
+      "state_ut": "Jharkhand",
+      "educational_standard___illiterate": 1158,
+      "educational_standard___below_class_x": 2330,
+      "educational_standard___class_x___above_but_below_graduation": 1238,
+      "educational_standard___graduate": 233,
+      "educational_standard___holding_tech__degree__diploma": 83,
+      "educational_standard___post_graduate": 42,
+      "educational_standard___total": 5084
+    },
+    {
+      "sl__no_": "11",
+      "state_ut": "Karnataka",
+      "educational_standard___illiterate": 1039,
+      "educational_standard___below_class_x": 1080,
+      "educational_standard___class_x___above_but_below_graduation": 1164,
+      "educational_standard___graduate": 220,
+      "educational_standard___holding_tech__degree__diploma": 134,
+      "educational_standard___post_graduate": 51,
+      "educational_standard___total": 3688
+    },
+    {
+      "sl__no_": "12",
+      "state_ut": "Kerala",
+      "educational_standard___illiterate": 169,
+      "educational_standard___below_class_x": 1461,
+      "educational_standard___class_x___above_but_below_graduation": 584,
+      "educational_standard___graduate": 113,
+      "educational_standard___holding_tech__degree__diploma": 74,
+      "educational_standard___post_graduate": 25,
+      "educational_standard___total": 2426
+    },
+    {
+      "sl__no_": "13",
+      "state_ut": "Madhya Pradesh",
+      "educational_standard___illiterate": 3680,
+      "educational_standard___below_class_x": 5728,
+      "educational_standard___class_x___above_but_below_graduation": 2831,
+      "educational_standard___graduate": 982,
+      "educational_standard___holding_tech__degree__diploma": 165,
+      "educational_standard___post_graduate": 266,
+      "educational_standard___total": 13652
+    },
+    {
+      "sl__no_": "14",
+      "state_ut": "Maharashtra",
+      "educational_standard___illiterate": 876,
+      "educational_standard___below_class_x": 2658,
+      "educational_standard___class_x___above_but_below_graduation": 1396,
+      "educational_standard___graduate": 397,
+      "educational_standard___holding_tech__degree__diploma": 134,
+      "educational_standard___post_graduate": 89,
+      "educational_standard___total": 5550
+    },
+    {
+      "sl__no_": "15",
+      "state_ut": "Manipur",
+      "educational_standard___illiterate": 15,
+      "educational_standard___below_class_x": 24,
+      "educational_standard___class_x___above_but_below_graduation": 42,
+      "educational_standard___graduate": 21,
+      "educational_standard___holding_tech__degree__diploma": 3,
+      "educational_standard___post_graduate": "0",
+      "educational_standard___total": 105
+    },
+    {
+      "sl__no_": "16",
+      "state_ut": "Meghalaya",
+      "educational_standard___illiterate": 74,
+      "educational_standard___below_class_x": 86,
+      "educational_standard___class_x___above_but_below_graduation": 15,
+      "educational_standard___graduate": 2,
+      "educational_standard___holding_tech__degree__diploma": 1,
+      "educational_standard___post_graduate": "0",
+      "educational_standard___total": 178
+    },
+    {
+      "sl__no_": "17",
+      "state_ut": "Mizoram",
+      "educational_standard___illiterate": 15,
+      "educational_standard___below_class_x": 308,
+      "educational_standard___class_x___above_but_below_graduation": 93,
+      "educational_standard___graduate": 15,
+      "educational_standard___holding_tech__degree__diploma": 5,
+      "educational_standard___post_graduate": 1,
+      "educational_standard___total": 437
+    },
+    {
+      "sl__no_": "18",
+      "state_ut": "Nagaland",
+      "educational_standard___illiterate": 11,
+      "educational_standard___below_class_x": 59,
+      "educational_standard___class_x___above_but_below_graduation": 22,
+      "educational_standard___graduate": 3,
+      "educational_standard___holding_tech__degree__diploma": "0",
+      "educational_standard___post_graduate": "0",
+      "educational_standard___total": 95
+    },
+    {
+      "sl__no_": "19",
+      "state_ut": "Odisha",
+      "educational_standard___illiterate": 1007,
+      "educational_standard___below_class_x": 1697,
+      "educational_standard___class_x___above_but_below_graduation": 360,
+      "educational_standard___graduate": 148,
+      "educational_standard___holding_tech__degree__diploma": 19,
+      "educational_standard___post_graduate": 14,
+      "educational_standard___total": 3245
+    },
+    {
+      "sl__no_": "20",
+      "state_ut": "Punjab",
+      "educational_standard___illiterate": 823,
+      "educational_standard___below_class_x": 999,
+      "educational_standard___class_x___above_but_below_graduation": 738,
+      "educational_standard___graduate": 165,
+      "educational_standard___holding_tech__degree__diploma": 19,
+      "educational_standard___post_graduate": 35,
+      "educational_standard___total": 2779
+    },
+    {
+      "sl__no_": "21",
+      "state_ut": "Rajasthan",
+      "educational_standard___illiterate": 1312,
+      "educational_standard___below_class_x": 1871,
+      "educational_standard___class_x___above_but_below_graduation": 1228,
+      "educational_standard___graduate": 451,
+      "educational_standard___holding_tech__degree__diploma": 110,
+      "educational_standard___post_graduate": 159,
+      "educational_standard___total": 5131
+    },
+    {
+      "sl__no_": "22",
+      "state_ut": "Sikkim",
+      "educational_standard___illiterate": 33,
+      "educational_standard___below_class_x": 74,
+      "educational_standard___class_x___above_but_below_graduation": 14,
+      "educational_standard___graduate": 3,
+      "educational_standard___holding_tech__degree__diploma": "0",
+      "educational_standard___post_graduate": "0",
+      "educational_standard___total": 124
+    },
+    {
+      "sl__no_": "23",
+      "state_ut": "Tamil Nadu",
+      "educational_standard___illiterate": 1334,
+      "educational_standard___below_class_x": 1677,
+      "educational_standard___class_x___above_but_below_graduation": 598,
+      "educational_standard___graduate": 276,
+      "educational_standard___holding_tech__degree__diploma": 182,
+      "educational_standard___post_graduate": 94,
+      "educational_standard___total": 4161
+    },
+    {
+      "sl__no_": "24",
+      "state_ut": "Telangana",
+      "educational_standard___illiterate": 421,
+      "educational_standard___below_class_x": 817,
+      "educational_standard___class_x___above_but_below_graduation": 441,
+      "educational_standard___graduate": 168,
+      "educational_standard___holding_tech__degree__diploma": 23,
+      "educational_standard___post_graduate": 40,
+      "educational_standard___total": 1910
+    },
+    {
+      "sl__no_": "25",
+      "state_ut": "Tripura",
+      "educational_standard___illiterate": 31,
+      "educational_standard___below_class_x": 297,
+      "educational_standard___class_x___above_but_below_graduation": 44,
+      "educational_standard___graduate": 21,
+      "educational_standard___holding_tech__degree__diploma": "0",
+      "educational_standard___post_graduate": 2,
+      "educational_standard___total": 395
+    },
+    {
+      "sl__no_": "26",
+      "state_ut": "Uttar Pradesh",
+      "educational_standard___illiterate": 8394,
+      "educational_standard___below_class_x": 9718,
+      "educational_standard___class_x___above_but_below_graduation": 5961,
+      "educational_standard___graduate": 1866,
+      "educational_standard___holding_tech__degree__diploma": 177,
+      "educational_standard___post_graduate": 618,
+      "educational_standard___total": 26734
+    },
+    {
+      "sl__no_": "27",
+      "state_ut": "Uttarakhand",
+      "educational_standard___illiterate": 529,
+      "educational_standard___below_class_x": 751,
+      "educational_standard___class_x___above_but_below_graduation": 483,
+      "educational_standard___graduate": 194,
+      "educational_standard___holding_tech__degree__diploma": 25,
+      "educational_standard___post_graduate": 81,
+      "educational_standard___total": 2063
+    },
+    {
+      "sl__no_": "28",
+      "state_ut": "West Bengal",
+      "educational_standard___illiterate": 1982,
+      "educational_standard___below_class_x": 2170,
+      "educational_standard___class_x___above_but_below_graduation": 983,
+      "educational_standard___graduate": 193,
+      "educational_standard___holding_tech__degree__diploma": 10,
+      "educational_standard___post_graduate": 29,
+      "educational_standard___total": 5367
+    },
+    {
+      "sl__no_": "Total (States)",
+      "state_ut": "Total (States)",
+      "educational_standard___illiterate": 29726,
+      "educational_standard___below_class_x": 46437,
+      "educational_standard___class_x___above_but_below_graduation": 23999,
+      "educational_standard___graduate": 7036,
+      "educational_standard___holding_tech__degree__diploma": 1307,
+      "educational_standard___post_graduate": 1876,
+      "educational_standard___total": 110381
+    },
+    {
+      "sl__no_": "29",
+      "state_ut": "A & N Islands",
+      "educational_standard___illiterate": 23,
+      "educational_standard___below_class_x": 98,
+      "educational_standard___class_x___above_but_below_graduation": 13,
+      "educational_standard___graduate": 2,
+      "educational_standard___holding_tech__degree__diploma": "0",
+      "educational_standard___post_graduate": 1,
+      "educational_standard___total": 137
+    },
+    {
+      "sl__no_": "30",
+      "state_ut": "Chandigarh",
+      "educational_standard___illiterate": 73,
+      "educational_standard___below_class_x": 123,
+      "educational_standard___class_x___above_but_below_graduation": 110,
+      "educational_standard___graduate": 28,
+      "educational_standard___holding_tech__degree__diploma": 5,
+      "educational_standard___post_graduate": 10,
+      "educational_standard___total": 349
+    },
+    {
+      "sl__no_": "31",
+      "state_ut": "Dadra and Nagar Haveli and Daman and Diu",
+      "educational_standard___illiterate": 12,
+      "educational_standard___below_class_x": 2,
+      "educational_standard___class_x___above_but_below_graduation": 1,
+      "educational_standard___graduate": "0",
+      "educational_standard___holding_tech__degree__diploma": "0",
+      "educational_standard___post_graduate": "0",
+      "educational_standard___total": 15
+    },
+    {
+      "sl__no_": "32",
+      "state_ut": "Delhi",
+      "educational_standard___illiterate": 297,
+      "educational_standard___below_class_x": 569,
+      "educational_standard___class_x___above_but_below_graduation": 419,
+      "educational_standard___graduate": 141,
+      "educational_standard___holding_tech__degree__diploma": 19,
+      "educational_standard___post_graduate": 25,
+      "educational_standard___total": 1470
+    },
+    {
+      "sl__no_": "33",
+      "state_ut": "Jammu & Kashmir",
+      "educational_standard___illiterate": 57,
+      "educational_standard___below_class_x": 53,
+      "educational_standard___class_x___above_but_below_graduation": 32,
+      "educational_standard___graduate": 12,
+      "educational_standard___holding_tech__degree__diploma": "0",
+      "educational_standard___post_graduate": 5,
+      "educational_standard___total": 159
+    },
+    {
+      "sl__no_": "34",
+      "state_ut": "Ladakh",
+      "educational_standard___illiterate": 2,
+      "educational_standard___below_class_x": 3,
+      "educational_standard___class_x___above_but_below_graduation": "0",
+      "educational_standard___graduate": "0",
+      "educational_standard___holding_tech__degree__diploma": "0",
+      "educational_standard___post_graduate": "0",
+      "educational_standard___total": 5
+    },
+    {
+      "sl__no_": "35",
+      "state_ut": "Lakshadweep",
+      "educational_standard___illiterate": "0",
+      "educational_standard___below_class_x": 1,
+      "educational_standard___class_x___above_but_below_graduation": "0",
+      "educational_standard___graduate": "0",
+      "educational_standard___holding_tech__degree__diploma": "0",
+      "educational_standard___post_graduate": "0",
+      "educational_standard___total": 1
+    },
+    {
+      "sl__no_": "36",
+      "state_ut": "Puducherry",
+      "educational_standard___illiterate": 6,
+      "educational_standard___below_class_x": 32,
+      "educational_standard___class_x___above_but_below_graduation": 22,
+      "educational_standard___graduate": 6,
+      "educational_standard___holding_tech__degree__diploma": 5,
+      "educational_standard___post_graduate": 1,
+      "educational_standard___total": 72
+    },
+    {
+      "sl__no_": "Total (UTs)",
+      "state_ut": "Total (UTs)",
+      "educational_standard___illiterate": 470,
+      "educational_standard___below_class_x": 881,
+      "educational_standard___class_x___above_but_below_graduation": 597,
+      "educational_standard___graduate": 189,
+      "educational_standard___holding_tech__degree__diploma": 29,
+      "educational_standard___post_graduate": 42,
+      "educational_standard___total": 2208
+    },
+    {
+      "sl__no_": "Total (All-India)",
+      "state_ut": "Total (All-India)",
+      "educational_standard___illiterate": 30196,
+      "educational_standard___below_class_x": 47318,
+      "educational_standard___class_x___above_but_below_graduation": 24596,
+      "educational_standard___graduate": 7225,
+      "educational_standard___holding_tech__degree__diploma": 1336,
+      "educational_standard___post_graduate": 1918,
+      "educational_standard___total": 112589
+    }
+  ]
+}

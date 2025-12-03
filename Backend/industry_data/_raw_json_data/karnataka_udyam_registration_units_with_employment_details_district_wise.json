@@ -1,0 +1,215 @@
+{
+  "index_name": "53de5fd2-1273-4f60-8ce1-5d0a6ac04fcc",
+  "title": "karnataka udyam registration units with employment details district wise.",
+  "desc": "karnataka udyam registration units with employment details district wise.",
+  "org_type": "State",
+  "org": [
+    "Karnataka",
+    "Department of Industries and Commerce"
+  ],
+  "sector": [
+    "Industries",
+    "Small Scale"
+  ],
+  "source": "karnataka.data.gov.in",
+  "catalog_uuid": "1acd0295-2e3c-4efa-badb-0da6e87207bc",
+  "visualizable": "0",
+  "active": "1",
+  "created": 1759235282,
+  "updated": 1759235282,
+  "created_date": "2025-09-30T14:28:02Z",
+  "updated_date": "2025-09-30T14:28:02Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "1acd0295-2e3c-4efa-badb-0da6e87207bc",
+    "field": "53de5fd2-1273-4f60-8ce1-5d0a6ac04fcc"
+  },
+  "field": [
+    {
+      "id": "district",
+      "name": "District",
+      "type": "keyword"
+    },
+    {
+      "id": "sum_of_totalemp",
+      "name": "Sum of TotalEmp",
+      "type": "double"
+    },
+    {
+      "id": "units_registered",
+      "name": "Units Registered",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 32,
+  "count": 32,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "district": "BAGALKOT",
+      "sum_of_totalemp": 86614,
+      "units_registered": 912
+    },
+    {
+      "district": "BALLARI",
+      "sum_of_totalemp": 6936,
+      "units_registered": 966
+    },
+    {
+      "district": "BELAGAVI",
+      "sum_of_totalemp": 28945,
+      "units_registered": 2889
+    },
+    {
+      "district": "BENGALURU (RURAL)",
+      "sum_of_totalemp": 11394,
+      "units_registered": 1985
+    },
+    {
+      "district": "BENGALURU (URBAN)",
+      "sum_of_totalemp": 61792,
+      "units_registered": 9595
+    },
+    {
+      "district": "BIDAR",
+      "sum_of_totalemp": 16597,
+      "units_registered": 1073
+    },
+    {
+      "district": "CHAMARAJNAGAR",
+      "sum_of_totalemp": 2754,
+      "units_registered": 463
+    },
+    {
+      "district": "CHIKBALLAPUR",
+      "sum_of_totalemp": 5064,
+      "units_registered": 755
+    },
+    {
+      "district": "CHIKKAMAGALURU",
+      "sum_of_totalemp": 8055,
+      "units_registered": 681
+    },
+    {
+      "district": "CHITRADURGA",
+      "sum_of_totalemp": 4278,
+      "units_registered": 714
+    },
+    {
+      "district": "DAKSHIN KANNAD",
+      "sum_of_totalemp": 6188,
+      "units_registered": 1705
+    },
+    {
+      "district": "DAVANGERE",
+      "sum_of_totalemp": 5259,
+      "units_registered": 974
+    },
+    {
+      "district": "DHARWAD",
+      "sum_of_totalemp": 19040,
+      "units_registered": 1598
+    },
+    {
+      "district": "GADAG",
+      "sum_of_totalemp": 4382,
+      "units_registered": 549
+    },
+    {
+      "district": "HASSAN",
+      "sum_of_totalemp": 10664,
+      "units_registered": 1020
+    },
+    {
+      "district": "HAVERI",
+      "sum_of_totalemp": 4058,
+      "units_registered": 752
+    },
+    {
+      "district": "KALABURAGI",
+      "sum_of_totalemp": 6348,
+      "units_registered": 1081
+    },
+    {
+      "district": "KODAGU",
+      "sum_of_totalemp": 1284,
+      "units_registered": 348
+    },
+    {
+      "district": "KOLAR",
+      "sum_of_totalemp": 4554,
+      "units_registered": 753
+    },
+    {
+      "district": "KOPPAL",
+      "sum_of_totalemp": 3174,
+      "units_registered": 552
+    },
+    {
+      "district": "MANDYA",
+      "sum_of_totalemp": 6456,
+      "units_registered": 936
+    },
+    {
+      "district": "MYSURU",
+      "sum_of_totalemp": 10687,
+      "units_registered": 1979
+    },
+    {
+      "district": "RAICHUR",
+      "sum_of_totalemp": 3980,
+      "units_registered": 1060
+    },
+    {
+      "district": "RAMANAGARA",
+      "sum_of_totalemp": 5326,
+      "units_registered": 689
+    },
+    {
+      "district": "SHIVAMOGGA",
+      "sum_of_totalemp": 7017,
+      "units_registered": 1185
+    },
+    {
+      "district": "TUMAKURU",
+      "sum_of_totalemp": 8471,
+      "units_registered": 1561
+    },
+    {
+      "district": "UDUPI",
+      "sum_of_totalemp": 4487,
+      "units_registered": 1152
+    },
+    {
+      "district": "UTTAR KANNAD",
+      "sum_of_totalemp": 4329,
+      "units_registered": 1157
+    },
+    {
+      "district": "VIJAYANAGAR",
+      "sum_of_totalemp": 6531,
+      "units_registered": 348
+    },
+    {
+      "district": "VIJAYAPURA",
+      "sum_of_totalemp": 9208,
+      "units_registered": 1057
+    },
+    {
+      "district": "YADGIR",
+      "sum_of_totalemp": 14280,
+      "units_registered": 422
+    },
+    {
+      "district": "NA",
+      "sum_of_totalemp": 378152,
+      "units_registered": 40911
+    }
+  ]
+}

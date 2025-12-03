@@ -1,0 +1,3152 @@
+{
+  "index_name": "67784b8a-b4ff-4a65-87ca-d7cbf425e714",
+  "title": "Gram Panchayat-wise Rural Sanitation Coverage in Morbi District of Gujarat as on date",
+  "desc": "Gram Panchayat-wise Rural Sanitation Coverage in Morbi District of Gujarat as on date",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Jal Shakti",
+    "Department of Drinking Water and Sanitation"
+  ],
+  "sector": [
+    "Water and Sanitation"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1688360446,
+  "updated": 1688364948,
+  "created_date": "2023-07-03T07:00:46Z",
+  "updated_date": "2023-07-03T11:45:48Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "sbm",
+    "type": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+    "field": "67784b8a-b4ff-4a65-87ca-d7cbf425e714"
+  },
+  "field": [
+    {
+      "id": "statename",
+      "name": "StateName",
+      "type": "keyword"
+    },
+    {
+      "id": "districtname",
+      "name": "DistrictName",
+      "type": "keyword"
+    },
+    {
+      "id": "blockname",
+      "name": "BlockName",
+      "type": "keyword"
+    },
+    {
+      "id": "grampanchayatname",
+      "name": "GramPanchayatName",
+      "type": "keyword"
+    },
+    {
+      "id": "ihhltotalasperdetails",
+      "name": "IHHLTotalAsPerDetails",
+      "type": "double"
+    },
+    {
+      "id": "ihhltotalach",
+      "name": "IHHLTotalAch",
+      "type": "double"
+    },
+    {
+      "id": "date",
+      "name": "Date",
+      "type": "keyword"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 342,
+  "count": 342,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "AJITGADH",
+      "ihhltotalasperdetails": 215,
+      "ihhltotalach": 215,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "BHALGAMDA",
+      "ihhltotalasperdetails": 199,
+      "ihhltotalach": 199,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "BUTVADA",
+      "ihhltotalasperdetails": 147,
+      "ihhltotalach": 147,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "CHADADHRA",
+      "ihhltotalasperdetails": 109,
+      "ihhltotalach": 109,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "CHANDRAGADH",
+      "ihhltotalasperdetails": 181,
+      "ihhltotalach": 181,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "CHARADVA",
+      "ihhltotalasperdetails": 1177,
+      "ihhltotalach": 1177,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "CHITRODI",
+      "ihhltotalasperdetails": 255,
+      "ihhltotalach": 255,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "CHUMPANI",
+      "ihhltotalasperdetails": 304,
+      "ihhltotalach": 304,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "DEVIPUR",
+      "ihhltotalasperdetails": 206,
+      "ihhltotalach": 206,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "DHANALA",
+      "ihhltotalasperdetails": 467,
+      "ihhltotalach": 467,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "DHAVANA",
+      "ihhltotalasperdetails": 565,
+      "ihhltotalach": 565,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "DHULKOT",
+      "ihhltotalasperdetails": 133,
+      "ihhltotalach": 133,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "DIGHADIYA",
+      "ihhltotalasperdetails": 375,
+      "ihhltotalach": 375,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "DUNGARPUR",
+      "ihhltotalasperdetails": 365,
+      "ihhltotalach": 365,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "GHANAD",
+      "ihhltotalasperdetails": 210,
+      "ihhltotalach": 210,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "GHANSHYAMNAGAR",
+      "ihhltotalasperdetails": 64,
+      "ihhltotalach": 64,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "GHANSHYAMPUR",
+      "ihhltotalasperdetails": 426,
+      "ihhltotalach": 426,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "GOLASAN",
+      "ihhltotalasperdetails": 328,
+      "ihhltotalach": 328,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "INGORALA",
+      "ihhltotalasperdetails": 120,
+      "ihhltotalach": 120,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "ISANPUR",
+      "ihhltotalasperdetails": 372,
+      "ihhltotalach": 372,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "JOGAD",
+      "ihhltotalasperdetails": 280,
+      "ihhltotalach": 280,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "JUNA AMRAPAR",
+      "ihhltotalasperdetails": 201,
+      "ihhltotalach": 201,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "JUNA DEVALIYA",
+      "ihhltotalasperdetails": 610,
+      "ihhltotalach": 610,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "KADIYANA",
+      "ihhltotalasperdetails": 414,
+      "ihhltotalach": 414,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "KAVADIYA",
+      "ihhltotalasperdetails": 337,
+      "ihhltotalach": 337,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "KEDARIYA",
+      "ihhltotalasperdetails": 226,
+      "ihhltotalach": 226,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "KHETARDI",
+      "ihhltotalasperdetails": 155,
+      "ihhltotalach": 155,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "KHOD",
+      "ihhltotalasperdetails": 127,
+      "ihhltotalach": 127,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "KIDI",
+      "ihhltotalasperdetails": 461,
+      "ihhltotalach": 461,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "KOYBA",
+      "ihhltotalasperdetails": 221,
+      "ihhltotalach": 221,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "MALANIYAD",
+      "ihhltotalasperdetails": 530,
+      "ihhltotalach": 530,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "MANEKWADA",
+      "ihhltotalasperdetails": 130,
+      "ihhltotalach": 130,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "MANGADH",
+      "ihhltotalasperdetails": 144,
+      "ihhltotalach": 144,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "MANGALPUR",
+      "ihhltotalasperdetails": 161,
+      "ihhltotalach": 161,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "MANSAR",
+      "ihhltotalasperdetails": 83,
+      "ihhltotalach": 83,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "MATHAK",
+      "ihhltotalasperdetails": 358,
+      "ihhltotalach": 358,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "MAYAPUR",
+      "ihhltotalasperdetails": 8,
+      "ihhltotalach": 8,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "MAYURNAGAR",
+      "ihhltotalasperdetails": 329,
+      "ihhltotalach": 329,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "MERUPAR",
+      "ihhltotalasperdetails": 158,
+      "ihhltotalach": 158,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "MIYANI",
+      "ihhltotalasperdetails": 197,
+      "ihhltotalach": 197,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "NAVA AMRAPAR",
+      "ihhltotalasperdetails": 217,
+      "ihhltotalach": 217,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "NAVA DEVALIYA",
+      "ihhltotalasperdetails": 154,
+      "ihhltotalach": 154,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "NAVA ESANPUR",
+      "ihhltotalasperdetails": 54,
+      "ihhltotalach": 54,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "NAVA GHANSHYAMGADH",
+      "ihhltotalasperdetails": 130,
+      "ihhltotalach": 130,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "NAVA GHATILA",
+      "ihhltotalasperdetails": 65,
+      "ihhltotalach": 65,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "NAVA MALANIYAD",
+      "ihhltotalasperdetails": 59,
+      "ihhltotalach": 59,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "NAVA VEGADVAD",
+      "ihhltotalasperdetails": 21,
+      "ihhltotalach": 21,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "PALASAN",
+      "ihhltotalasperdetails": 156,
+      "ihhltotalach": 156,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "PANDATIRATH",
+      "ihhltotalasperdetails": 193,
+      "ihhltotalach": 193,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "PRATAPAGADH",
+      "ihhltotalasperdetails": 107,
+      "ihhltotalach": 107,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "RANCHHODGADH",
+      "ihhltotalasperdetails": 413,
+      "ihhltotalach": 413,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "RANEKPAR",
+      "ihhltotalasperdetails": 242,
+      "ihhltotalach": 242,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "RANJITGADH",
+      "ihhltotalasperdetails": 106,
+      "ihhltotalach": 106,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "RANMALPUR",
+      "ihhltotalasperdetails": 248,
+      "ihhltotalach": 248,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "RATABHE",
+      "ihhltotalasperdetails": 464,
+      "ihhltotalach": 464,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "RAYDHRA",
+      "ihhltotalasperdetails": 163,
+      "ihhltotalach": 163,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "RAYSANGPAR",
+      "ihhltotalasperdetails": 449,
+      "ihhltotalach": 449,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "SAMLI",
+      "ihhltotalasperdetails": 154,
+      "ihhltotalach": 154,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "SAPKADA",
+      "ihhltotalasperdetails": 671,
+      "ihhltotalach": 671,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "SARAMBHADA",
+      "ihhltotalasperdetails": 144,
+      "ihhltotalach": 144,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "SHIROI",
+      "ihhltotalasperdetails": 93,
+      "ihhltotalach": 93,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "SHIVPUR",
+      "ihhltotalasperdetails": 13,
+      "ihhltotalach": 13,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "SUKHPAR",
+      "ihhltotalasperdetails": 280,
+      "ihhltotalach": 280,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "SUNDARGADH",
+      "ihhltotalasperdetails": 330,
+      "ihhltotalach": 330,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "SUNDARI",
+      "ihhltotalasperdetails": 359,
+      "ihhltotalach": 359,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "SURVADAR",
+      "ihhltotalasperdetails": 365,
+      "ihhltotalach": 365,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "SUSVAV",
+      "ihhltotalasperdetails": 285,
+      "ihhltotalach": 285,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "TIKAR",
+      "ihhltotalasperdetails": 415,
+      "ihhltotalach": 415,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "VANKIYA",
+      "ihhltotalasperdetails": 45,
+      "ihhltotalach": 45,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "HALVAD",
+      "grampanchayatname": "VEGADVAV",
+      "ihhltotalasperdetails": 529,
+      "ihhltotalach": 529,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MALIYA",
+      "grampanchayatname": "BAGASARA",
+      "ihhltotalasperdetails": 175,
+      "ihhltotalach": 175,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MALIYA",
+      "grampanchayatname": "BHAVPAR",
+      "ihhltotalasperdetails": 522,
+      "ihhltotalach": 522,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MALIYA",
+      "grampanchayatname": "BODKI / NAVALAKHI",
+      "ihhltotalasperdetails": 237,
+      "ihhltotalach": 237,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MALIYA",
+      "grampanchayatname": "CHAMANPAR",
+      "ihhltotalasperdetails": 107,
+      "ihhltotalach": 107,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MALIYA",
+      "grampanchayatname": "CHANCHAVADARDA",
+      "ihhltotalasperdetails": 277,
+      "ihhltotalach": 277,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MALIYA",
+      "grampanchayatname": "CHIKHLI / VADDASAR",
+      "ihhltotalasperdetails": 33,
+      "ihhltotalach": 33,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MALIYA",
+      "grampanchayatname": "DAHISARA NANA",
+      "ihhltotalasperdetails": 352,
+      "ihhltotalach": 352,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MALIYA",
+      "grampanchayatname": "DERALA",
+      "ihhltotalasperdetails": 378,
+      "ihhltotalach": 378,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MALIYA",
+      "grampanchayatname": "FATEPAR/HARIPAR /SONGADH",
+      "ihhltotalasperdetails": 609,
+      "ihhltotalach": 609,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MALIYA",
+      "grampanchayatname": "GHANTILA",
+      "ihhltotalasperdetails": 493,
+      "ihhltotalach": 493,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MALIYA",
+      "grampanchayatname": "JAJASAR",
+      "ihhltotalasperdetails": 344,
+      "ihhltotalach": 344,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MALIYA",
+      "grampanchayatname": "JASAPAR",
+      "ihhltotalasperdetails": 504,
+      "ihhltotalach": 504,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MALIYA",
+      "grampanchayatname": "KAJARDA",
+      "ihhltotalasperdetails": 389,
+      "ihhltotalach": 389,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MALIYA",
+      "grampanchayatname": "KHAKHRECHI",
+      "ihhltotalasperdetails": 729,
+      "ihhltotalach": 729,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MALIYA",
+      "grampanchayatname": "KHIRAI",
+      "ihhltotalasperdetails": 435,
+      "ihhltotalach": 435,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MALIYA",
+      "grampanchayatname": "KHIRSARA",
+      "ihhltotalasperdetails": 241,
+      "ihhltotalach": 241,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MALIYA",
+      "grampanchayatname": "KUMBHARIYA",
+      "ihhltotalasperdetails": 264,
+      "ihhltotalach": 264,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MALIYA",
+      "grampanchayatname": "KUNTASI",
+      "ihhltotalasperdetails": 388,
+      "ihhltotalach": 388,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MALIYA",
+      "grampanchayatname": "LAXMIVAS",
+      "ihhltotalasperdetails": 241,
+      "ihhltotalach": 241,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MALIYA",
+      "grampanchayatname": "MAHENDRAGADH",
+      "ihhltotalasperdetails": 346,
+      "ihhltotalach": 346,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MALIYA",
+      "grampanchayatname": "MANABA",
+      "ihhltotalasperdetails": 251,
+      "ihhltotalach": 251,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MALIYA",
+      "grampanchayatname": "MANDARKI",
+      "ihhltotalasperdetails": 174,
+      "ihhltotalach": 174,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MALIYA",
+      "grampanchayatname": "MEGHPAR",
+      "ihhltotalasperdetails": 174,
+      "ihhltotalach": 174,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MALIYA",
+      "grampanchayatname": "MOTA BHELA",
+      "ihhltotalasperdetails": 458,
+      "ihhltotalach": 458,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MALIYA",
+      "grampanchayatname": "MOTA DAHISARA",
+      "ihhltotalasperdetails": 283,
+      "ihhltotalach": 283,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MALIYA",
+      "grampanchayatname": "MOTI BARAR",
+      "ihhltotalasperdetails": 472,
+      "ihhltotalach": 472,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MALIYA",
+      "grampanchayatname": "NANA BHELA",
+      "ihhltotalasperdetails": 248,
+      "ihhltotalach": 248,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MALIYA",
+      "grampanchayatname": "NANI BARAR",
+      "ihhltotalasperdetails": 188,
+      "ihhltotalach": 188,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MALIYA",
+      "grampanchayatname": "NAVAGAM",
+      "ihhltotalasperdetails": 230,
+      "ihhltotalach": 230,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MALIYA",
+      "grampanchayatname": "RASANGPAR",
+      "ihhltotalasperdetails": 326,
+      "ihhltotalach": 326,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MALIYA",
+      "grampanchayatname": "ROHISHALA",
+      "ihhltotalasperdetails": 194,
+      "ihhltotalach": 194,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MALIYA",
+      "grampanchayatname": "SARVAD",
+      "ihhltotalasperdetails": 341,
+      "ihhltotalach": 341,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MALIYA",
+      "grampanchayatname": "SONGADH",
+      "ihhltotalasperdetails": 8,
+      "ihhltotalach": 8,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MALIYA",
+      "grampanchayatname": "SULTANPUR",
+      "ihhltotalasperdetails": 287,
+      "ihhltotalach": 287,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MALIYA",
+      "grampanchayatname": "TARGHARI",
+      "ihhltotalasperdetails": 209,
+      "ihhltotalach": 209,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MALIYA",
+      "grampanchayatname": "VADHARVA",
+      "ihhltotalasperdetails": 228,
+      "ihhltotalach": 228,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MALIYA",
+      "grampanchayatname": "VARSAMEDI",
+      "ihhltotalasperdetails": 197,
+      "ihhltotalach": 197,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MALIYA",
+      "grampanchayatname": "VAVANIYA",
+      "ihhltotalasperdetails": 494,
+      "ihhltotalach": 494,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MALIYA",
+      "grampanchayatname": "VEJALPAR",
+      "ihhltotalasperdetails": 356,
+      "ihhltotalach": 356,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MALIYA",
+      "grampanchayatname": "VENASAR",
+      "ihhltotalasperdetails": 200,
+      "ihhltotalach": 200,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MALIYA",
+      "grampanchayatname": "VIRVADARKA",
+      "ihhltotalasperdetails": 303,
+      "ihhltotalach": 303,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "ADEPAR",
+      "ihhltotalasperdetails": 148,
+      "ihhltotalach": 148,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "AMARNAGAR",
+      "ihhltotalasperdetails": 80,
+      "ihhltotalach": 80,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "AMRAN",
+      "ihhltotalasperdetails": 293,
+      "ihhltotalach": 293,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "AMRAPAR NAG",
+      "ihhltotalasperdetails": 139,
+      "ihhltotalach": 139,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "AMRELI -1 /AMRELI-2",
+      "ihhltotalasperdetails": 123,
+      "ihhltotalach": 123,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "ANDARNA",
+      "ihhltotalasperdetails": 428,
+      "ihhltotalach": 428,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "ANIYARI",
+      "ihhltotalasperdetails": 183,
+      "ihhltotalach": 183,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "BADANPAR (AMRAN)",
+      "ihhltotalasperdetails": 150,
+      "ihhltotalach": 150,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "BAGATHALA",
+      "ihhltotalasperdetails": 772,
+      "ihhltotalach": 772,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "BAHADURGADH",
+      "ihhltotalasperdetails": 180,
+      "ihhltotalach": 180,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "BARVALA",
+      "ihhltotalasperdetails": 407,
+      "ihhltotalach": 407,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "BELA",
+      "ihhltotalasperdetails": 164,
+      "ihhltotalach": 164,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "BELA RANGPAR",
+      "ihhltotalasperdetails": 478,
+      "ihhltotalach": 478,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "BHADIYAD -1 /  BHADIYAD -2",
+      "ihhltotalasperdetails": 695,
+      "ihhltotalach": 695,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "BHAKTINAGAR",
+      "ihhltotalasperdetails": 13,
+      "ihhltotalach": 13,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "BHARATNAGAR",
+      "ihhltotalasperdetails": 146,
+      "ihhltotalach": 146,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "BILIYA",
+      "ihhltotalasperdetails": 310,
+      "ihhltotalach": 310,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "CHAKAMPAR",
+      "ihhltotalasperdetails": 402,
+      "ihhltotalach": 402,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "CHANCHAPAR",
+      "ihhltotalasperdetails": 428,
+      "ihhltotalach": 428,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "DHARAMPUR",
+      "ihhltotalasperdetails": 276,
+      "ihhltotalach": 276,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "DHUDKOT",
+      "ihhltotalasperdetails": 160,
+      "ihhltotalach": 160,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "FADSAR",
+      "ihhltotalasperdetails": 2,
+      "ihhltotalach": 2,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "FATSAR",
+      "ihhltotalasperdetails": 154,
+      "ihhltotalach": 154,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "GALA",
+      "ihhltotalasperdetails": 307,
+      "ihhltotalach": 307,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "GANDHINAGAR",
+      "ihhltotalasperdetails": 2,
+      "ihhltotalach": 2,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "GHUNADA SAJANPAR",
+      "ihhltotalasperdetails": 553,
+      "ihhltotalach": 553,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "GHUNTU",
+      "ihhltotalasperdetails": 1209,
+      "ihhltotalach": 1209,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "GIDACH",
+      "ihhltotalasperdetails": 67,
+      "ihhltotalach": 67,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "GOR KHIJADIA",
+      "ihhltotalasperdetails": 255,
+      "ihhltotalach": 255,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "GUNGAN",
+      "ihhltotalasperdetails": 95,
+      "ihhltotalach": 95,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "HAJNALI",
+      "ihhltotalasperdetails": 229,
+      "ihhltotalach": 229,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "HARIPAR",
+      "ihhltotalasperdetails": 183,
+      "ihhltotalach": 183,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "JAMBUDIYA",
+      "ihhltotalasperdetails": 548,
+      "ihhltotalach": 548,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "JASMATGADH",
+      "ihhltotalasperdetails": 129,
+      "ihhltotalach": 129,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "JEPUR",
+      "ihhltotalasperdetails": 167,
+      "ihhltotalach": 167,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "JETPAR",
+      "ihhltotalasperdetails": 943,
+      "ihhltotalach": 943,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "JIVAPAR",
+      "ihhltotalasperdetails": 143,
+      "ihhltotalach": 143,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "JIVAPAR CHAKAMPAR",
+      "ihhltotalasperdetails": 407,
+      "ihhltotalach": 407,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "JODHPUR NADI",
+      "ihhltotalasperdetails": 372,
+      "ihhltotalach": 372,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "JUNA NAGDAVAS",
+      "ihhltotalasperdetails": 337,
+      "ihhltotalach": 337,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "JUNA SADULKA",
+      "ihhltotalasperdetails": 210,
+      "ihhltotalach": 210,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "KALIKANAGAR",
+      "ihhltotalasperdetails": 112,
+      "ihhltotalach": 112,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "KANTIPUR",
+      "ihhltotalasperdetails": 136,
+      "ihhltotalach": 136,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "KERALA",
+      "ihhltotalasperdetails": 223,
+      "ihhltotalach": 223,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "KERALI",
+      "ihhltotalasperdetails": 46,
+      "ihhltotalach": 46,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "KHAKHRALA",
+      "ihhltotalasperdetails": 417,
+      "ihhltotalach": 417,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "KHANPAR",
+      "ihhltotalasperdetails": 706,
+      "ihhltotalach": 706,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "KHARACHIYA",
+      "ihhltotalasperdetails": 75,
+      "ihhltotalach": 75,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "KHAREDA",
+      "ihhltotalasperdetails": 552,
+      "ihhltotalach": 552,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "KHEVALIYA",
+      "ihhltotalasperdetails": 451,
+      "ihhltotalach": 451,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "KOYLI",
+      "ihhltotalasperdetails": 135,
+      "ihhltotalach": 135,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "KRISHNANAGAR",
+      "ihhltotalasperdetails": 35,
+      "ihhltotalach": 35,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "LAKHDHIRNAGAR",
+      "ihhltotalasperdetails": 262,
+      "ihhltotalach": 262,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "LAKHDHIRPUR",
+      "ihhltotalasperdetails": 129,
+      "ihhltotalach": 129,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "LALPAR",
+      "ihhltotalasperdetails": 344,
+      "ihhltotalach": 344,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "LAXMINAGAR",
+      "ihhltotalasperdetails": 342,
+      "ihhltotalach": 342,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "LILAPAR",
+      "ihhltotalasperdetails": 262,
+      "ihhltotalach": 262,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "LUTAVADAR",
+      "ihhltotalasperdetails": 340,
+      "ihhltotalach": 340,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "MAHENDRANAGAR-1, 2",
+      "ihhltotalasperdetails": 1463,
+      "ihhltotalach": 1463,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "MAKANSAR",
+      "ihhltotalasperdetails": 1081,
+      "ihhltotalach": 1081,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "MANEKVADA",
+      "ihhltotalasperdetails": 269,
+      "ihhltotalach": 269,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "MANSAR",
+      "ihhltotalasperdetails": 282,
+      "ihhltotalach": 282,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "MODPAR",
+      "ihhltotalasperdetails": 380,
+      "ihhltotalach": 380,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "MOTI VAVDI",
+      "ihhltotalasperdetails": 116,
+      "ihhltotalach": 116,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "NAGALPAR",
+      "ihhltotalasperdetails": 63,
+      "ihhltotalach": 63,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "NANI VAVDI",
+      "ihhltotalasperdetails": 981,
+      "ihhltotalach": 981,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "NARANKA",
+      "ihhltotalasperdetails": 119,
+      "ihhltotalach": 119,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "NAVA NAGDAVAS",
+      "ihhltotalasperdetails": 135,
+      "ihhltotalach": 135,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "NAVA SADULKA",
+      "ihhltotalasperdetails": 345,
+      "ihhltotalach": 345,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "NICHI MANDAL",
+      "ihhltotalasperdetails": 536,
+      "ihhltotalach": 536,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "PANCHASAR",
+      "ihhltotalasperdetails": 463,
+      "ihhltotalach": 463,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "PANELI",
+      "ihhltotalasperdetails": 643,
+      "ihhltotalach": 643,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "PILUDI",
+      "ihhltotalasperdetails": 173,
+      "ihhltotalach": 173,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "PIPALI",
+      "ihhltotalasperdetails": 533,
+      "ihhltotalach": 533,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "PIPALIYA",
+      "ihhltotalasperdetails": 253,
+      "ihhltotalach": 253,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "RAJPAR",
+      "ihhltotalasperdetails": 419,
+      "ihhltotalach": 419,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "RAJPAR",
+      "ihhltotalasperdetails": 80,
+      "ihhltotalach": 80,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "RAMPAR (PADABEKAD)",
+      "ihhltotalasperdetails": 48,
+      "ihhltotalach": 48,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "RANGPAR",
+      "ihhltotalasperdetails": 415,
+      "ihhltotalach": 415,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "RAPAR",
+      "ihhltotalasperdetails": 152,
+      "ihhltotalach": 152,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "RAPAR NADI",
+      "ihhltotalasperdetails": 12,
+      "ihhltotalach": 12,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "RAVAPAR",
+      "ihhltotalasperdetails": 149,
+      "ihhltotalach": 149,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "SANALA (TALAVIYA)",
+      "ihhltotalasperdetails": 163,
+      "ihhltotalach": 163,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "SAPAR",
+      "ihhltotalasperdetails": 172,
+      "ihhltotalach": 172,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "SOKHDA",
+      "ihhltotalasperdetails": 52,
+      "ihhltotalach": 52,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "THORALA",
+      "ihhltotalasperdetails": 268,
+      "ihhltotalach": 268,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "TIMBDI",
+      "ihhltotalasperdetails": 312,
+      "ihhltotalach": 312,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "TRAJPAR",
+      "ihhltotalasperdetails": 1804,
+      "ihhltotalach": 1804,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "UNCHI MANDAL",
+      "ihhltotalasperdetails": 288,
+      "ihhltotalach": 288,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "UNTBET-SHAMPAR",
+      "ihhltotalasperdetails": 50,
+      "ihhltotalach": 50,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "VAGHPAR",
+      "ihhltotalasperdetails": 385,
+      "ihhltotalach": 385,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "VANALIYA",
+      "ihhltotalasperdetails": 311,
+      "ihhltotalach": 311,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "VANKDA",
+      "ihhltotalasperdetails": 235,
+      "ihhltotalach": 235,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "VIRPARDA",
+      "ihhltotalasperdetails": 253,
+      "ihhltotalach": 253,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "ZINKIYALI",
+      "ihhltotalasperdetails": 249,
+      "ihhltotalach": 249,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "MORVI",
+      "grampanchayatname": "ZINZUDA",
+      "ihhltotalasperdetails": 178,
+      "ihhltotalach": 178,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "TANKARA",
+      "grampanchayatname": "AMRAPAR (TOL)",
+      "ihhltotalasperdetails": 163,
+      "ihhltotalach": 163,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "TANKARA",
+      "grampanchayatname": "BANGAVADI",
+      "ihhltotalasperdetails": 491,
+      "ihhltotalach": 491,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "TANKARA",
+      "grampanchayatname": "BHUTKOTDA",
+      "ihhltotalasperdetails": 91,
+      "ihhltotalach": 91,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "TANKARA",
+      "grampanchayatname": "CHHATTAR",
+      "ihhltotalasperdetails": 384,
+      "ihhltotalach": 384,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "TANKARA",
+      "grampanchayatname": "DEVALIYA",
+      "ihhltotalasperdetails": 115,
+      "ihhltotalach": 115,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "TANKARA",
+      "grampanchayatname": "DHROLIYA",
+      "ihhltotalasperdetails": 82,
+      "ihhltotalach": 82,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "TANKARA",
+      "grampanchayatname": "GAJDI",
+      "ihhltotalasperdetails": 181,
+      "ihhltotalach": 181,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "TANKARA",
+      "grampanchayatname": "GANESHPAR",
+      "ihhltotalasperdetails": 190,
+      "ihhltotalach": 190,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "TANKARA",
+      "grampanchayatname": "GHUNADA KHANPAR",
+      "ihhltotalasperdetails": 387,
+      "ihhltotalach": 387,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "TANKARA",
+      "grampanchayatname": "HADMATIYA",
+      "ihhltotalasperdetails": 492,
+      "ihhltotalach": 492,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "TANKARA",
+      "grampanchayatname": "HAMIRPAR",
+      "ihhltotalasperdetails": 319,
+      "ihhltotalach": 319,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "TANKARA",
+      "grampanchayatname": "HARBATIYALI",
+      "ihhltotalasperdetails": 332,
+      "ihhltotalach": 332,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "TANKARA",
+      "grampanchayatname": "HARIPAR",
+      "ihhltotalasperdetails": 136,
+      "ihhltotalach": 136,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "TANKARA",
+      "grampanchayatname": "HIRAPAR",
+      "ihhltotalasperdetails": 202,
+      "ihhltotalach": 202,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "TANKARA",
+      "grampanchayatname": "JABALPUR",
+      "ihhltotalasperdetails": 360,
+      "ihhltotalach": 360,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "TANKARA",
+      "grampanchayatname": "JIVAPARTANKARA",
+      "ihhltotalasperdetails": 205,
+      "ihhltotalach": 205,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "TANKARA",
+      "grampanchayatname": "JODHPAR (ZALA)",
+      "ihhltotalasperdetails": 190,
+      "ihhltotalach": 190,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "TANKARA",
+      "grampanchayatname": "KALYANPUR",
+      "ihhltotalasperdetails": 206,
+      "ihhltotalach": 206,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "TANKARA",
+      "grampanchayatname": "KHAKHRA",
+      "ihhltotalasperdetails": 84,
+      "ihhltotalach": 84,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "TANKARA",
+      "grampanchayatname": "LAJAI",
+      "ihhltotalasperdetails": 634,
+      "ihhltotalach": 634,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "TANKARA",
+      "grampanchayatname": "LAKHDHIR GADH",
+      "ihhltotalasperdetails": 179,
+      "ihhltotalach": 179,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "TANKARA",
+      "grampanchayatname": "MAHENDRAPUR",
+      "ihhltotalasperdetails": 195,
+      "ihhltotalach": 195,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "TANKARA",
+      "grampanchayatname": "MEGHPAR ZALA",
+      "ihhltotalasperdetails": 290,
+      "ihhltotalach": 290,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "TANKARA",
+      "grampanchayatname": "MITANA",
+      "ihhltotalasperdetails": 680,
+      "ihhltotalach": 680,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "TANKARA",
+      "grampanchayatname": "MOTA KHIJADIYA",
+      "ihhltotalasperdetails": 308,
+      "ihhltotalach": 308,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "TANKARA",
+      "grampanchayatname": "NANA KHIJADIYA",
+      "ihhltotalasperdetails": 590,
+      "ihhltotalach": 590,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "TANKARA",
+      "grampanchayatname": "NANA RAMPAR",
+      "ihhltotalasperdetails": 174,
+      "ihhltotalach": 174,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "TANKARA",
+      "grampanchayatname": "NASITPAR",
+      "ihhltotalasperdetails": 492,
+      "ihhltotalach": 492,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "TANKARA",
+      "grampanchayatname": "NEKNAM",
+      "ihhltotalasperdetails": 744,
+      "ihhltotalach": 744,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "TANKARA",
+      "grampanchayatname": "NESDA KHANPAR",
+      "ihhltotalasperdetails": 360,
+      "ihhltotalach": 360,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "TANKARA",
+      "grampanchayatname": "NESDA SURJI",
+      "ihhltotalasperdetails": 405,
+      "ihhltotalach": 405,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "TANKARA",
+      "grampanchayatname": "OTALA",
+      "ihhltotalasperdetails": 431,
+      "ihhltotalach": 431,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "TANKARA",
+      "grampanchayatname": "RAJAVAD",
+      "ihhltotalasperdetails": 161,
+      "ihhltotalach": 161,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "TANKARA",
+      "grampanchayatname": "ROHISHALA",
+      "ihhltotalasperdetails": 301,
+      "ihhltotalach": 301,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "TANKARA",
+      "grampanchayatname": "SAJANPAR",
+      "ihhltotalasperdetails": 548,
+      "ihhltotalach": 548,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "TANKARA",
+      "grampanchayatname": "SAKHPAR",
+      "ihhltotalasperdetails": 105,
+      "ihhltotalach": 105,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "TANKARA",
+      "grampanchayatname": "SARAYA",
+      "ihhltotalasperdetails": 309,
+      "ihhltotalach": 309,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "TANKARA",
+      "grampanchayatname": "SAVDI",
+      "ihhltotalasperdetails": 434,
+      "ihhltotalach": 434,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "TANKARA",
+      "grampanchayatname": "TANKARA",
+      "ihhltotalasperdetails": 1645,
+      "ihhltotalach": 1645,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "TANKARA",
+      "grampanchayatname": "TOL",
+      "ihhltotalasperdetails": 286,
+      "ihhltotalach": 286,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "TANKARA",
+      "grampanchayatname": "UMIYANAGAR",
+      "ihhltotalasperdetails": 182,
+      "ihhltotalach": 182,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "TANKARA",
+      "grampanchayatname": "VACHHAKPAR",
+      "ihhltotalasperdetails": 191,
+      "ihhltotalach": 191,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "TANKARA",
+      "grampanchayatname": "VAGHGADH",
+      "ihhltotalasperdetails": 120,
+      "ihhltotalach": 120,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "TANKARA",
+      "grampanchayatname": "VIRPAR",
+      "ihhltotalasperdetails": 409,
+      "ihhltotalach": 409,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "TANKARA",
+      "grampanchayatname": "VIRVAV",
+      "ihhltotalasperdetails": 306,
+      "ihhltotalach": 306,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "ADEPAR/GUNDAKHADA",
+      "ihhltotalasperdetails": 358,
+      "ihhltotalach": 358,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "AMARSAR",
+      "ihhltotalasperdetails": 338,
+      "ihhltotalach": 338,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "ANANDPAR",
+      "ihhltotalasperdetails": 131,
+      "ihhltotalach": 131,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "ARNI TIMBA",
+      "ihhltotalasperdetails": 436,
+      "ihhltotalach": 436,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "BHALGAM",
+      "ihhltotalasperdetails": 277,
+      "ihhltotalach": 277,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "BHERDA",
+      "ihhltotalasperdetails": 224,
+      "ihhltotalach": 224,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "BHIMGUDA",
+      "ihhltotalasperdetails": 364,
+      "ihhltotalach": 364,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "BHOJPARA",
+      "ihhltotalasperdetails": 344,
+      "ihhltotalach": 344,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "CHANDRAPUR",
+      "ihhltotalasperdetails": 1739,
+      "ihhltotalach": 1739,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "CHARMNAGAR",
+      "ihhltotalasperdetails": 50,
+      "ihhltotalach": 50,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "CHITRAKHADA",
+      "ihhltotalasperdetails": 258,
+      "ihhltotalach": 258,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "DALDI",
+      "ihhltotalasperdetails": 274,
+      "ihhltotalach": 274,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "DERALA",
+      "ihhltotalasperdetails": 212,
+      "ihhltotalach": 212,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "DHAMALPAR",
+      "ihhltotalasperdetails": 412,
+      "ihhltotalach": 412,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "DHUVA",
+      "ihhltotalasperdetails": 592,
+      "ihhltotalach": 592,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "DIGHALIYA",
+      "ihhltotalasperdetails": 277,
+      "ihhltotalach": 277,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "GANGIYAVADAR",
+      "ihhltotalasperdetails": 248,
+      "ihhltotalach": 248,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "GARIDA",
+      "ihhltotalasperdetails": 156,
+      "ihhltotalach": 156,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "GARIYA",
+      "ihhltotalasperdetails": 379,
+      "ihhltotalach": 379,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "GHIYAVAD/VANJARA",
+      "ihhltotalasperdetails": 363,
+      "ihhltotalach": 363,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "HASANPAR",
+      "ihhltotalasperdetails": 730,
+      "ihhltotalach": 730,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "HOLMADH",
+      "ihhltotalasperdetails": 256,
+      "ihhltotalach": 256,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "JALI",
+      "ihhltotalasperdetails": 280,
+      "ihhltotalach": 280,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "JALIDA",
+      "ihhltotalasperdetails": 185,
+      "ihhltotalach": 185,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "JALSIKA  / VASUNDHARA",
+      "ihhltotalasperdetails": 231,
+      "ihhltotalach": 231,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "JAMBUDIYA BHAYATI",
+      "ihhltotalasperdetails": 142,
+      "ihhltotalach": 142,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "JAMBUDIYA VIDI",
+      "ihhltotalasperdetails": 165,
+      "ihhltotalach": 165,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "JAMSAR / NAGALPAR",
+      "ihhltotalasperdetails": 288,
+      "ihhltotalach": 288,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "JEPUR",
+      "ihhltotalasperdetails": 259,
+      "ihhltotalach": 259,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "JETPARDA",
+      "ihhltotalasperdetails": 236,
+      "ihhltotalach": 236,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "JODHPAR",
+      "ihhltotalasperdetails": 462,
+      "ihhltotalach": 462,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "KACHHIYAGALA",
+      "ihhltotalasperdetails": 352,
+      "ihhltotalach": 352,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "KALAVADI JUNI",
+      "ihhltotalasperdetails": 104,
+      "ihhltotalach": 104,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "KALAVADI NAVI",
+      "ihhltotalasperdetails": 156,
+      "ihhltotalach": 156,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "KANKOT",
+      "ihhltotalasperdetails": 383,
+      "ihhltotalach": 383,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "KANPAR",
+      "ihhltotalasperdetails": 119,
+      "ihhltotalach": 119,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "KASHIPAR / CHANCHADIA",
+      "ihhltotalasperdetails": 264,
+      "ihhltotalach": 264,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "KERALA",
+      "ihhltotalasperdetails": 375,
+      "ihhltotalach": 375,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "KHAKHANA",
+      "ihhltotalasperdetails": 293,
+      "ihhltotalach": 293,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "KHANPAR",
+      "ihhltotalasperdetails": 121,
+      "ihhltotalach": 121,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "KHERVA",
+      "ihhltotalasperdetails": 250,
+      "ihhltotalach": 250,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "KHIJADIYA / PIPARDI",
+      "ihhltotalasperdetails": 601,
+      "ihhltotalach": 601,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "KOTDA NAYANI",
+      "ihhltotalasperdetails": 496,
+      "ihhltotalach": 496,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "KOTHARIYA",
+      "ihhltotalasperdetails": 507,
+      "ihhltotalach": 507,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "KOTHI",
+      "ihhltotalasperdetails": 620,
+      "ihhltotalach": 620,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "LAKADDHAR",
+      "ihhltotalasperdetails": 196,
+      "ihhltotalach": 196,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "LALPAR",
+      "ihhltotalasperdetails": 136,
+      "ihhltotalach": 136,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "LIMBALA",
+      "ihhltotalasperdetails": 334,
+      "ihhltotalach": 334,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "LUNASARIYA / BOKADTHA",
+      "ihhltotalasperdetails": 320,
+      "ihhltotalach": 320,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "LUNSAR",
+      "ihhltotalasperdetails": 715,
+      "ihhltotalach": 715,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "MAHIKA",
+      "ihhltotalasperdetails": 628,
+      "ihhltotalach": 628,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "MATEL",
+      "ihhltotalasperdetails": 625,
+      "ihhltotalach": 625,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "MESARIYA",
+      "ihhltotalasperdetails": 504,
+      "ihhltotalach": 504,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "OL",
+      "ihhltotalasperdetails": 376,
+      "ihhltotalach": 376,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "PADDHARA",
+      "ihhltotalasperdetails": 152,
+      "ihhltotalach": 152,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "PAJ",
+      "ihhltotalasperdetails": 138,
+      "ihhltotalach": 138,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "PALANS",
+      "ihhltotalasperdetails": 231,
+      "ihhltotalach": 231,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "PALANSDI",
+      "ihhltotalasperdetails": 160,
+      "ihhltotalach": 160,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "PANCH DWARKA",
+      "ihhltotalasperdetails": 475,
+      "ihhltotalach": 475,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "PANCHASAR",
+      "ihhltotalasperdetails": 464,
+      "ihhltotalach": 464,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "PANCHASIYA",
+      "ihhltotalasperdetails": 755,
+      "ihhltotalach": 755,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "PIPALIYA AGABHI",
+      "ihhltotalasperdetails": 297,
+      "ihhltotalach": 297,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "PIPALIYARAJ",
+      "ihhltotalasperdetails": 743,
+      "ihhltotalach": 743,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "PRATAPGADH",
+      "ihhltotalasperdetails": 147,
+      "ihhltotalach": 147,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "RAJAVADLA",
+      "ihhltotalasperdetails": 784,
+      "ihhltotalach": 784,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "RAJGADH",
+      "ihhltotalasperdetails": 81,
+      "ihhltotalach": 81,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "RAJTHALI",
+      "ihhltotalasperdetails": 158,
+      "ihhltotalach": 158,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "RANEKPAR",
+      "ihhltotalasperdetails": 301,
+      "ihhltotalach": 301,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "RANGPAR",
+      "ihhltotalasperdetails": 157,
+      "ihhltotalach": 157,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "RASIKGADH",
+      "ihhltotalasperdetails": 136,
+      "ihhltotalach": 136,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "RATADIYA",
+      "ihhltotalasperdetails": 211,
+      "ihhltotalach": 211,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "RATAVIRDA",
+      "ihhltotalasperdetails": 259,
+      "ihhltotalach": 259,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "RATI DEVLI",
+      "ihhltotalasperdetails": 800,
+      "ihhltotalach": 800,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "RUPAVATI",
+      "ihhltotalasperdetails": 246,
+      "ihhltotalach": 246,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "SAMADHIALA",
+      "ihhltotalasperdetails": 248,
+      "ihhltotalach": 248,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "SAMTHERVA / MAKTANPAR",
+      "ihhltotalasperdetails": 351,
+      "ihhltotalach": 351,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "SARDHARKA",
+      "ihhltotalasperdetails": 397,
+      "ihhltotalach": 397,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "SARTANPAR",
+      "ihhltotalasperdetails": 224,
+      "ihhltotalach": 224,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "SATAPAR",
+      "ihhltotalasperdetails": 140,
+      "ihhltotalach": 140,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "SHEKHARDI",
+      "ihhltotalasperdetails": 178,
+      "ihhltotalach": 178,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "SINDHAVADAR / BHOJAPARA VIDI",
+      "ihhltotalasperdetails": 1008,
+      "ihhltotalach": 1008,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "TARAKIYA",
+      "ihhltotalasperdetails": 176,
+      "ihhltotalach": 176,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "THIKARIYALA",
+      "ihhltotalasperdetails": 308,
+      "ihhltotalach": 308,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "TITHAVA",
+      "ihhltotalasperdetails": 1137,
+      "ihhltotalach": 1137,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "VAGHASIA",
+      "ihhltotalasperdetails": 403,
+      "ihhltotalach": 403,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "VALASAN",
+      "ihhltotalasperdetails": 457,
+      "ihhltotalach": 457,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "VANKIYA",
+      "ihhltotalasperdetails": 191,
+      "ihhltotalach": 191,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "VARDUSAR",
+      "ihhltotalasperdetails": 242,
+      "ihhltotalach": 242,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "VINAYGADH/VITHALGATH",
+      "ihhltotalasperdetails": 150,
+      "ihhltotalach": 150,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Gujarat",
+      "districtname": "MORBI",
+      "blockname": "WANKANER",
+      "grampanchayatname": "VITHALPAR",
+      "ihhltotalasperdetails": 127,
+      "ihhltotalach": 127,
+      "date": "5/19/2020 12:00:00 AM"
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "index_name": "56d8f4e1-098d-46ed-b1e8-4e9b054d08c6",
+  "title": "Nature of Property-wise Value of Property Stolen & Recovered (in Crores) and Percentage Recovery during 2021",
+  "desc": "Nature of Property-wise Value of Property Stolen & Recovered (in Crores) and Percentage Recovery during 2021",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Home Affairs",
+    "Department of States",
+    "National Crime Records Bureau (NCRB)"
+  ],
+  "sector": [
+    "Police"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "83a258f3-6fd1-4a9a-911b-5207a0cfa136",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1679236568,
+  "updated": 1679286933,
+  "created_date": "2023-03-19T15:36:08Z",
+  "updated_date": "2023-03-20T10:05:33Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "83a258f3-6fd1-4a9a-911b-5207a0cfa136",
+    "field": "56d8f4e1-098d-46ed-b1e8-4e9b054d08c6"
+  },
+  "field": [
+    {
+      "id": "sl__no__col___1_",
+      "name": "Sl. No. Col. (1)",
+      "type": "keyword"
+    },
+    {
+      "id": "nature_of_property_col___2_",
+      "name": "Nature of Property Col. (2)",
+      "type": "keyword"
+    },
+    {
+      "id": "number_of_cases_in_which_property___stolen___col___3_",
+      "name": "Number of Cases in which Property - Stolen - Col. (3)",
+      "type": "double"
+    },
+    {
+      "id": "number_of_cases_in_which_property___percentage_share_to_total_stolen___col___4_",
+      "name": "Number of Cases in which Property - Percentage Share to Total Stolen - Col. (4)",
+      "type": "double"
+    },
+    {
+      "id": "number_of_cases_in_which_property___recovered___col___5_",
+      "name": "Number of Cases in which Property - Recovered - Col. (5)",
+      "type": "double"
+    },
+    {
+      "id": "percentage_detection__col_5_col_3____100___col___6_",
+      "name": "Percentage Detection (Col.5/Col.3) * 100 - Col. (6)",
+      "type": "double"
+    },
+    {
+      "id": "value_of_property___stolen___col___7_",
+      "name": "Value of Property - Stolen - Col. (7)",
+      "type": "double"
+    },
+    {
+      "id": "value_of_property___percentage_share_to_total_stolen___col___8_",
+      "name": "Value of Property - Percentage Share to Total Stolen - Col. (8)",
+      "type": "double"
+    },
+    {
+      "id": "value_of_property___recovered___col___9_",
+      "name": "Value of Property - Recovered - Col. (9)",
+      "type": "double"
+    },
+    {
+      "id": "percentage_recovery__col_9_col_7____100___col___10_",
+      "name": "Percentage Recovery (Col.9/Col.7) * 100 - Col. (10)",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 18,
+  "count": 18,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "sl__no__col___1_": "1",
+      "nature_of_property_col___2_": "Motor Vehicles",
+      "number_of_cases_in_which_property___stolen___col___3_": 242158,
+      "number_of_cases_in_which_property___percentage_share_to_total_stolen___col___4_": 33.6,
+      "number_of_cases_in_which_property___recovered___col___5_": 66081,
+      "percentage_detection__col_5_col_3____100___col___6_": 27.3,
+      "value_of_property___stolen___col___7_": 1654,
+      "value_of_property___percentage_share_to_total_stolen___col___8_": 32,
+      "value_of_property___recovered___col___9_": 494.1,
+      "percentage_recovery__col_9_col_7____100___col___10_": 29.9
+    },
+    {
+      "sl__no__col___1_": "1.1",
+      "nature_of_property_col___2_": "Motor cycles/scooters",
+      "number_of_cases_in_which_property___stolen___col___3_": 209960,
+      "number_of_cases_in_which_property___percentage_share_to_total_stolen___col___4_": 29.1,
+      "number_of_cases_in_which_property___recovered___col___5_": 56509,
+      "percentage_detection__col_5_col_3____100___col___6_": 26.9,
+      "value_of_property___stolen___col___7_": 881.9,
+      "value_of_property___percentage_share_to_total_stolen___col___8_": 17,
+      "value_of_property___recovered___col___9_": 222,
+      "percentage_recovery__col_9_col_7____100___col___10_": 25.2
+    },
+    {
+      "sl__no__col___1_": "1.2",
+      "nature_of_property_col___2_": "LMV Light Motor Vehicles(Cars/Jeeps etc)",
+      "number_of_cases_in_which_property___stolen___col___3_": 17490,
+      "number_of_cases_in_which_property___percentage_share_to_total_stolen___col___4_": 2.4,
+      "number_of_cases_in_which_property___recovered___col___5_": 4407,
+      "percentage_detection__col_5_col_3____100___col___6_": 25.2,
+      "value_of_property___stolen___col___7_": 400.9,
+      "value_of_property___percentage_share_to_total_stolen___col___8_": 7.7,
+      "value_of_property___recovered___col___9_": 137.1,
+      "percentage_recovery__col_9_col_7____100___col___10_": 34.2
+    },
+    {
+      "sl__no__col___1_": "1.3",
+      "nature_of_property_col___2_": "Goods Carrying Vehicles (Trucks etc)",
+      "number_of_cases_in_which_property___stolen___col___3_": 3543,
+      "number_of_cases_in_which_property___percentage_share_to_total_stolen___col___4_": 0.5,
+      "number_of_cases_in_which_property___recovered___col___5_": 1341,
+      "percentage_detection__col_5_col_3____100___col___6_": 37.8,
+      "value_of_property___stolen___col___7_": 204.1,
+      "value_of_property___percentage_share_to_total_stolen___col___8_": 3.9,
+      "value_of_property___recovered___col___9_": 86.9,
+      "percentage_recovery__col_9_col_7____100___col___10_": 42.6
+    },
+    {
+      "sl__no__col___1_": "1.4",
+      "nature_of_property_col___2_": "Public Transport (Bus etc)",
+      "number_of_cases_in_which_property___stolen___col___3_": 190,
+      "number_of_cases_in_which_property___percentage_share_to_total_stolen___col___4_": "0",
+      "number_of_cases_in_which_property___recovered___col___5_": 104,
+      "percentage_detection__col_5_col_3____100___col___6_": 54.7,
+      "value_of_property___stolen___col___7_": 15.3,
+      "value_of_property___percentage_share_to_total_stolen___col___8_": 0.3,
+      "value_of_property___recovered___col___9_": 6.1,
+      "percentage_recovery__col_9_col_7____100___col___10_": 39.7
+    },
+    {
+      "sl__no__col___1_": "1.5",
+      "nature_of_property_col___2_": "Three Wheelers",
+      "number_of_cases_in_which_property___stolen___col___3_": 5845,
+      "number_of_cases_in_which_property___percentage_share_to_total_stolen___col___4_": 0.8,
+      "number_of_cases_in_which_property___recovered___col___5_": 2336,
+      "percentage_detection__col_5_col_3____100___col___6_": 40,
+      "value_of_property___stolen___col___7_": 51,
+      "value_of_property___percentage_share_to_total_stolen___col___8_": 1,
+      "value_of_property___recovered___col___9_": 17.8,
+      "percentage_recovery__col_9_col_7____100___col___10_": 34.9
+    },
+    {
+      "sl__no__col___1_": "1.6",
+      "nature_of_property_col___2_": "Other Motor Vehicles",
+      "number_of_cases_in_which_property___stolen___col___3_": 5130,
+      "number_of_cases_in_which_property___percentage_share_to_total_stolen___col___4_": 0.7,
+      "number_of_cases_in_which_property___recovered___col___5_": 1384,
+      "percentage_detection__col_5_col_3____100___col___6_": 27,
+      "value_of_property___stolen___col___7_": 100.8,
+      "value_of_property___percentage_share_to_total_stolen___col___8_": 1.9,
+      "value_of_property___recovered___col___9_": 24.1,
+      "percentage_recovery__col_9_col_7____100___col___10_": 23.9
+    },
+    {
+      "sl__no__col___1_": "2",
+      "nature_of_property_col___2_": "Electronic Gadgets",
+      "number_of_cases_in_which_property___stolen___col___3_": 163787,
+      "number_of_cases_in_which_property___percentage_share_to_total_stolen___col___4_": 22.7,
+      "number_of_cases_in_which_property___recovered___col___5_": 38589,
+      "percentage_detection__col_5_col_3____100___col___6_": 23.6,
+      "value_of_property___stolen___col___7_": 272.8,
+      "value_of_property___percentage_share_to_total_stolen___col___8_": 5.3,
+      "value_of_property___recovered___col___9_": 88,
+      "percentage_recovery__col_9_col_7____100___col___10_": 32.2
+    },
+    {
+      "sl__no__col___1_": "2.1",
+      "nature_of_property_col___2_": "Mobile Phones",
+      "number_of_cases_in_which_property___stolen___col___3_": 135597,
+      "number_of_cases_in_which_property___percentage_share_to_total_stolen___col___4_": 18.8,
+      "number_of_cases_in_which_property___recovered___col___5_": 31381,
+      "percentage_detection__col_5_col_3____100___col___6_": 23.1,
+      "value_of_property___stolen___col___7_": 158.2,
+      "value_of_property___percentage_share_to_total_stolen___col___8_": 3.1,
+      "value_of_property___recovered___col___9_": 52,
+      "percentage_recovery__col_9_col_7____100___col___10_": 32.9
+    },
+    {
+      "sl__no__col___1_": "2.2",
+      "nature_of_property_col___2_": "Laptops/Computers",
+      "number_of_cases_in_which_property___stolen___col___3_": 8940,
+      "number_of_cases_in_which_property___percentage_share_to_total_stolen___col___4_": 1.2,
+      "number_of_cases_in_which_property___recovered___col___5_": 2162,
+      "percentage_detection__col_5_col_3____100___col___6_": 24.2,
+      "value_of_property___stolen___col___7_": 40.6,
+      "value_of_property___percentage_share_to_total_stolen___col___8_": 0.8,
+      "value_of_property___recovered___col___9_": 10.1,
+      "percentage_recovery__col_9_col_7____100___col___10_": 24.9
+    },
+    {
+      "sl__no__col___1_": "2.3",
+      "nature_of_property_col___2_": "Other Electronic Components",
+      "number_of_cases_in_which_property___stolen___col___3_": 19250,
+      "number_of_cases_in_which_property___percentage_share_to_total_stolen___col___4_": 2.7,
+      "number_of_cases_in_which_property___recovered___col___5_": 5046,
+      "percentage_detection__col_5_col_3____100___col___6_": 26.2,
+      "value_of_property___stolen___col___7_": 74.1,
+      "value_of_property___percentage_share_to_total_stolen___col___8_": 1.4,
+      "value_of_property___recovered___col___9_": 25.8,
+      "percentage_recovery__col_9_col_7____100___col___10_": 34.9
+    },
+    {
+      "sl__no__col___1_": "3",
+      "nature_of_property_col___2_": "Cash/Jewellery",
+      "number_of_cases_in_which_property___stolen___col___3_": 112270,
+      "number_of_cases_in_which_property___percentage_share_to_total_stolen___col___4_": 15.6,
+      "number_of_cases_in_which_property___recovered___col___5_": 43511,
+      "percentage_detection__col_5_col_3____100___col___6_": 38.8,
+      "value_of_property___stolen___col___7_": 1838.8,
+      "value_of_property___percentage_share_to_total_stolen___col___8_": 35.5,
+      "value_of_property___recovered___col___9_": 460.1,
+      "percentage_recovery__col_9_col_7____100___col___10_": 25
+    },
+    {
+      "sl__no__col___1_": "4",
+      "nature_of_property_col___2_": "Household Articles/Furniture",
+      "number_of_cases_in_which_property___stolen___col___3_": 35229,
+      "number_of_cases_in_which_property___percentage_share_to_total_stolen___col___4_": 4.9,
+      "number_of_cases_in_which_property___recovered___col___5_": 10463,
+      "percentage_detection__col_5_col_3____100___col___6_": 29.7,
+      "value_of_property___stolen___col___7_": 198.4,
+      "value_of_property___percentage_share_to_total_stolen___col___8_": 3.8,
+      "value_of_property___recovered___col___9_": 52.9,
+      "percentage_recovery__col_9_col_7____100___col___10_": 26.7
+    },
+    {
+      "sl__no__col___1_": "5",
+      "nature_of_property_col___2_": "Cultural Property including Antiques",
+      "number_of_cases_in_which_property___stolen___col___3_": 651,
+      "number_of_cases_in_which_property___percentage_share_to_total_stolen___col___4_": 0.1,
+      "number_of_cases_in_which_property___recovered___col___5_": 258,
+      "percentage_detection__col_5_col_3____100___col___6_": 39.6,
+      "value_of_property___stolen___col___7_": 3.8,
+      "value_of_property___percentage_share_to_total_stolen___col___8_": 0.1,
+      "value_of_property___recovered___col___9_": 2.2,
+      "percentage_recovery__col_9_col_7____100___col___10_": 58.6
+    },
+    {
+      "sl__no__col___1_": "6",
+      "nature_of_property_col___2_": "Cattle/other Animals",
+      "number_of_cases_in_which_property___stolen___col___3_": 9079,
+      "number_of_cases_in_which_property___percentage_share_to_total_stolen___col___4_": 1.3,
+      "number_of_cases_in_which_property___recovered___col___5_": 4285,
+      "percentage_detection__col_5_col_3____100___col___6_": 47.2,
+      "value_of_property___stolen___col___7_": 44.2,
+      "value_of_property___percentage_share_to_total_stolen___col___8_": 0.9,
+      "value_of_property___recovered___col___9_": 15.9,
+      "percentage_recovery__col_9_col_7____100___col___10_": 36.1
+    },
+    {
+      "sl__no__col___1_": "7",
+      "nature_of_property_col___2_": "Cycles",
+      "number_of_cases_in_which_property___stolen___col___3_": 5059,
+      "number_of_cases_in_which_property___percentage_share_to_total_stolen___col___4_": 0.7,
+      "number_of_cases_in_which_property___recovered___col___5_": 1542,
+      "percentage_detection__col_5_col_3____100___col___6_": 30.5,
+      "value_of_property___stolen___col___7_": 4,
+      "value_of_property___percentage_share_to_total_stolen___col___8_": 0.1,
+      "value_of_property___recovered___col___9_": 1.3,
+      "percentage_recovery__col_9_col_7____100___col___10_": 33.1
+    },
+    {
+      "sl__no__col___1_": "8",
+      "nature_of_property_col___2_": "Other Kinds of Property Stolen",
+      "number_of_cases_in_which_property___stolen___col___3_": 152358,
+      "number_of_cases_in_which_property___percentage_share_to_total_stolen___col___4_": 21.1,
+      "number_of_cases_in_which_property___recovered___col___5_": 49628,
+      "percentage_detection__col_5_col_3____100___col___6_": 32.6,
+      "value_of_property___stolen___col___7_": 1157.1,
+      "value_of_property___percentage_share_to_total_stolen___col___8_": 22.4,
+      "value_of_property___recovered___col___9_": 446.5,
+      "percentage_recovery__col_9_col_7____100___col___10_": 38.6
+    },
+    {
+      "sl__no__col___1_": "Total",
+      "nature_of_property_col___2_": "Total",
+      "number_of_cases_in_which_property___stolen___col___3_": 720591,
+      "number_of_cases_in_which_property___percentage_share_to_total_stolen___col___4_": 100,
+      "number_of_cases_in_which_property___recovered___col___5_": 214357,
+      "percentage_detection__col_5_col_3____100___col___6_": 29.7,
+      "value_of_property___stolen___col___7_": 5173.2,
+      "value_of_property___percentage_share_to_total_stolen___col___8_": 100,
+      "value_of_property___recovered___col___9_": 1561,
+      "percentage_recovery__col_9_col_7____100___col___10_": 30.2
+    }
+  ]
+}

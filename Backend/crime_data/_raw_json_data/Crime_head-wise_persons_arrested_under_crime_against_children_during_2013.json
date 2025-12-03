@@ -1,0 +1,2534 @@
+{
+  "index_name": "11626229-2afb-4950-8000-69d309c4269c",
+  "title": "Crime head-wise persons arrested under crime against children during 2013",
+  "desc": "Crime head-wise persons arrested under crime against children during 2013",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Home Affairs",
+    "Ministry of Home Affairs",
+    "Ministry of Home Affairs",
+    "Department of States",
+    "Department of States",
+    "Department of States",
+    "National Crime Records Bureau (NCRB)",
+    "National Crime Records Bureau (NCRB)",
+    "National Crime Records Bureau (NCRB)"
+  ],
+  "sector": [
+    "Police",
+    "Home Affairs and Enforcement",
+    "Statistics",
+    "Police",
+    "Home Affairs and Enforcement",
+    "Statistics",
+    "Police",
+    "Home Affairs and Enforcement",
+    "Statistics"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "82598b0e-b69d-4f95-8e80-30524790500f",
+  "visualizable": "1",
+  "active": "1",
+  "field": [
+    {
+      "id": "state_ut",
+      "name": "STATE/UT",
+      "type": "keyword"
+    },
+    {
+      "id": "crime_head",
+      "name": "CRIME HEAD",
+      "type": "keyword"
+    },
+    {
+      "id": "_2013",
+      "name": "2013",
+      "type": "double"
+    }
+  ],
+  "updated": 1535437548,
+  "updated_date": "2018-08-28T11:55:48Z",
+  "external_ws_url": "",
+  "external_ws": "0",
+  "created": "1535437548",
+  "created_date": "2018-08-28T11:55:48Z",
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 494,
+  "count": 494,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "state_ut": "Andhra Pradesh",
+      "crime_head": "Abetment of Suicide",
+      "_2013": "25"
+    },
+    {
+      "state_ut": "Arunachal Pradesh",
+      "crime_head": "Abetment of Suicide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Assam",
+      "crime_head": "Abetment of Suicide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Bihar",
+      "crime_head": "Abetment of Suicide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Chhattisgarh",
+      "crime_head": "Abetment of Suicide",
+      "_2013": "7"
+    },
+    {
+      "state_ut": "Goa",
+      "crime_head": "Abetment of Suicide",
+      "_2013": "1"
+    },
+    {
+      "state_ut": "Gujarat",
+      "crime_head": "Abetment of Suicide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Haryana",
+      "crime_head": "Abetment of Suicide",
+      "_2013": "4"
+    },
+    {
+      "state_ut": "Himachal Pradesh",
+      "crime_head": "Abetment of Suicide",
+      "_2013": "1"
+    },
+    {
+      "state_ut": "Jammu & Kashmir",
+      "crime_head": "Abetment of Suicide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Jharkhand",
+      "crime_head": "Abetment of Suicide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Karnataka",
+      "crime_head": "Abetment of Suicide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Kerala",
+      "crime_head": "Abetment of Suicide",
+      "_2013": "8"
+    },
+    {
+      "state_ut": "Madhya Pradesh",
+      "crime_head": "Abetment of Suicide",
+      "_2013": "40"
+    },
+    {
+      "state_ut": "Maharashtra",
+      "crime_head": "Abetment of Suicide",
+      "_2013": "40"
+    },
+    {
+      "state_ut": "Manipur",
+      "crime_head": "Abetment of Suicide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Meghalaya",
+      "crime_head": "Abetment of Suicide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Mizoram",
+      "crime_head": "Abetment of Suicide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Nagaland",
+      "crime_head": "Abetment of Suicide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Odisha",
+      "crime_head": "Abetment of Suicide",
+      "_2013": "4"
+    },
+    {
+      "state_ut": "Punjab",
+      "crime_head": "Abetment of Suicide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Rajasthan",
+      "crime_head": "Abetment of Suicide",
+      "_2013": "1"
+    },
+    {
+      "state_ut": "Sikkim",
+      "crime_head": "Abetment of Suicide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Tamil Nadu",
+      "crime_head": "Abetment of Suicide",
+      "_2013": "1"
+    },
+    {
+      "state_ut": "Tripura",
+      "crime_head": "Abetment of Suicide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Uttar Pradesh",
+      "crime_head": "Abetment of Suicide",
+      "_2013": "104"
+    },
+    {
+      "state_ut": "Uttarakhand",
+      "crime_head": "Abetment of Suicide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "West Bengal",
+      "crime_head": "Abetment of Suicide",
+      "_2013": "5"
+    },
+    {
+      "state_ut": "Total (State)",
+      "crime_head": "Abetment of Suicide",
+      "_2013": "241"
+    },
+    {
+      "state_ut": "A&N Islands",
+      "crime_head": "Abetment of Suicide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Chandigarh",
+      "crime_head": "Abetment of Suicide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "D&N Haveli",
+      "crime_head": "Abetment of Suicide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Daman & Diu",
+      "crime_head": "Abetment of Suicide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Delhi UT",
+      "crime_head": "Abetment of Suicide",
+      "_2013": "1"
+    },
+    {
+      "state_ut": "Lakshadweep",
+      "crime_head": "Abetment of Suicide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Puducherry",
+      "crime_head": "Abetment of Suicide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Total (UTs)",
+      "crime_head": "Abetment of Suicide",
+      "_2013": "1"
+    },
+    {
+      "state_ut": "Total (All-India)",
+      "crime_head": "Abetment of Suicide",
+      "_2013": "242"
+    },
+    {
+      "state_ut": "Andhra Pradesh",
+      "crime_head": "Buying of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Arunachal Pradesh",
+      "crime_head": "Buying of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Assam",
+      "crime_head": "Buying of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Bihar",
+      "crime_head": "Buying of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Chhattisgarh",
+      "crime_head": "Buying of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Goa",
+      "crime_head": "Buying of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Gujarat",
+      "crime_head": "Buying of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Haryana",
+      "crime_head": "Buying of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Himachal Pradesh",
+      "crime_head": "Buying of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Jammu & Kashmir",
+      "crime_head": "Buying of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Jharkhand",
+      "crime_head": "Buying of Girls for Prostitution",
+      "_2013": "2"
+    },
+    {
+      "state_ut": "Karnataka",
+      "crime_head": "Buying of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Kerala",
+      "crime_head": "Buying of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Madhya Pradesh",
+      "crime_head": "Buying of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Maharashtra",
+      "crime_head": "Buying of Girls for Prostitution",
+      "_2013": "2"
+    },
+    {
+      "state_ut": "Manipur",
+      "crime_head": "Buying of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Meghalaya",
+      "crime_head": "Buying of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Mizoram",
+      "crime_head": "Buying of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Nagaland",
+      "crime_head": "Buying of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Odisha",
+      "crime_head": "Buying of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Punjab",
+      "crime_head": "Buying of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Rajasthan",
+      "crime_head": "Buying of Girls for Prostitution",
+      "_2013": "4"
+    },
+    {
+      "state_ut": "Sikkim",
+      "crime_head": "Buying of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Tamil Nadu",
+      "crime_head": "Buying of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Tripura",
+      "crime_head": "Buying of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Uttar Pradesh",
+      "crime_head": "Buying of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Uttarakhand",
+      "crime_head": "Buying of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "West Bengal",
+      "crime_head": "Buying of Girls for Prostitution",
+      "_2013": "1"
+    },
+    {
+      "state_ut": "Total (State)",
+      "crime_head": "Buying of Girls for Prostitution",
+      "_2013": "9"
+    },
+    {
+      "state_ut": "A&N Islands",
+      "crime_head": "Buying of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Chandigarh",
+      "crime_head": "Buying of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "D&N Haveli",
+      "crime_head": "Buying of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Daman & Diu",
+      "crime_head": "Buying of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Delhi UT",
+      "crime_head": "Buying of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Lakshadweep",
+      "crime_head": "Buying of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Puducherry",
+      "crime_head": "Buying of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Total (UTs)",
+      "crime_head": "Buying of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Total (All-India)",
+      "crime_head": "Buying of Girls for Prostitution",
+      "_2013": "9"
+    },
+    {
+      "state_ut": "Andhra Pradesh",
+      "crime_head": "Exposure and Abandonment",
+      "_2013": "15"
+    },
+    {
+      "state_ut": "Arunachal Pradesh",
+      "crime_head": "Exposure and Abandonment",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Assam",
+      "crime_head": "Exposure and Abandonment",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Bihar",
+      "crime_head": "Exposure and Abandonment",
+      "_2013": "2"
+    },
+    {
+      "state_ut": "Chhattisgarh",
+      "crime_head": "Exposure and Abandonment",
+      "_2013": "1"
+    },
+    {
+      "state_ut": "Goa",
+      "crime_head": "Exposure and Abandonment",
+      "_2013": "1"
+    },
+    {
+      "state_ut": "Gujarat",
+      "crime_head": "Exposure and Abandonment",
+      "_2013": "7"
+    },
+    {
+      "state_ut": "Haryana",
+      "crime_head": "Exposure and Abandonment",
+      "_2013": "1"
+    },
+    {
+      "state_ut": "Himachal Pradesh",
+      "crime_head": "Exposure and Abandonment",
+      "_2013": "1"
+    },
+    {
+      "state_ut": "Jammu & Kashmir",
+      "crime_head": "Exposure and Abandonment",
+      "_2013": "1"
+    },
+    {
+      "state_ut": "Jharkhand",
+      "crime_head": "Exposure and Abandonment",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Karnataka",
+      "crime_head": "Exposure and Abandonment",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Kerala",
+      "crime_head": "Exposure and Abandonment",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Madhya Pradesh",
+      "crime_head": "Exposure and Abandonment",
+      "_2013": "10"
+    },
+    {
+      "state_ut": "Maharashtra",
+      "crime_head": "Exposure and Abandonment",
+      "_2013": "62"
+    },
+    {
+      "state_ut": "Manipur",
+      "crime_head": "Exposure and Abandonment",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Meghalaya",
+      "crime_head": "Exposure and Abandonment",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Mizoram",
+      "crime_head": "Exposure and Abandonment",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Nagaland",
+      "crime_head": "Exposure and Abandonment",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Odisha",
+      "crime_head": "Exposure and Abandonment",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Punjab",
+      "crime_head": "Exposure and Abandonment",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Rajasthan",
+      "crime_head": "Exposure and Abandonment",
+      "_2013": "16"
+    },
+    {
+      "state_ut": "Sikkim",
+      "crime_head": "Exposure and Abandonment",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Tamil Nadu",
+      "crime_head": "Exposure and Abandonment",
+      "_2013": "1"
+    },
+    {
+      "state_ut": "Tripura",
+      "crime_head": "Exposure and Abandonment",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Uttar Pradesh",
+      "crime_head": "Exposure and Abandonment",
+      "_2013": "2"
+    },
+    {
+      "state_ut": "Uttarakhand",
+      "crime_head": "Exposure and Abandonment",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "West Bengal",
+      "crime_head": "Exposure and Abandonment",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Total (State)",
+      "crime_head": "Exposure and Abandonment",
+      "_2013": "120"
+    },
+    {
+      "state_ut": "A&N Islands",
+      "crime_head": "Exposure and Abandonment",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Chandigarh",
+      "crime_head": "Exposure and Abandonment",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "D&N Haveli",
+      "crime_head": "Exposure and Abandonment",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Daman & Diu",
+      "crime_head": "Exposure and Abandonment",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Delhi UT",
+      "crime_head": "Exposure and Abandonment",
+      "_2013": "2"
+    },
+    {
+      "state_ut": "Lakshadweep",
+      "crime_head": "Exposure and Abandonment",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Puducherry",
+      "crime_head": "Exposure and Abandonment",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Total (UTs)",
+      "crime_head": "Exposure and Abandonment",
+      "_2013": "2"
+    },
+    {
+      "state_ut": "Total (All-India)",
+      "crime_head": "Exposure and Abandonment",
+      "_2013": "122"
+    },
+    {
+      "state_ut": "Andhra Pradesh",
+      "crime_head": "Foeticide",
+      "_2013": "2"
+    },
+    {
+      "state_ut": "Arunachal Pradesh",
+      "crime_head": "Foeticide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Assam",
+      "crime_head": "Foeticide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Bihar",
+      "crime_head": "Foeticide",
+      "_2013": "2"
+    },
+    {
+      "state_ut": "Chhattisgarh",
+      "crime_head": "Foeticide",
+      "_2013": "9"
+    },
+    {
+      "state_ut": "Goa",
+      "crime_head": "Foeticide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Gujarat",
+      "crime_head": "Foeticide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Haryana",
+      "crime_head": "Foeticide",
+      "_2013": "6"
+    },
+    {
+      "state_ut": "Himachal Pradesh",
+      "crime_head": "Foeticide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Jammu & Kashmir",
+      "crime_head": "Foeticide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Jharkhand",
+      "crime_head": "Foeticide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Karnataka",
+      "crime_head": "Foeticide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Kerala",
+      "crime_head": "Foeticide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Madhya Pradesh",
+      "crime_head": "Foeticide",
+      "_2013": "10"
+    },
+    {
+      "state_ut": "Maharashtra",
+      "crime_head": "Foeticide",
+      "_2013": "10"
+    },
+    {
+      "state_ut": "Manipur",
+      "crime_head": "Foeticide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Meghalaya",
+      "crime_head": "Foeticide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Mizoram",
+      "crime_head": "Foeticide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Nagaland",
+      "crime_head": "Foeticide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Odisha",
+      "crime_head": "Foeticide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Punjab",
+      "crime_head": "Foeticide",
+      "_2013": "1"
+    },
+    {
+      "state_ut": "Rajasthan",
+      "crime_head": "Foeticide",
+      "_2013": "13"
+    },
+    {
+      "state_ut": "Sikkim",
+      "crime_head": "Foeticide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Tamil Nadu",
+      "crime_head": "Foeticide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Tripura",
+      "crime_head": "Foeticide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Uttar Pradesh",
+      "crime_head": "Foeticide",
+      "_2013": "36"
+    },
+    {
+      "state_ut": "Uttarakhand",
+      "crime_head": "Foeticide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "West Bengal",
+      "crime_head": "Foeticide",
+      "_2013": "5"
+    },
+    {
+      "state_ut": "Total (State)",
+      "crime_head": "Foeticide",
+      "_2013": "94"
+    },
+    {
+      "state_ut": "A&N Islands",
+      "crime_head": "Foeticide",
+      "_2013": "1"
+    },
+    {
+      "state_ut": "Chandigarh",
+      "crime_head": "Foeticide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "D&N Haveli",
+      "crime_head": "Foeticide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Daman & Diu",
+      "crime_head": "Foeticide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Delhi UT",
+      "crime_head": "Foeticide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Lakshadweep",
+      "crime_head": "Foeticide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Puducherry",
+      "crime_head": "Foeticide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Total (UTs)",
+      "crime_head": "Foeticide",
+      "_2013": "1"
+    },
+    {
+      "state_ut": "Total (All-India)",
+      "crime_head": "Foeticide",
+      "_2013": "95"
+    },
+    {
+      "state_ut": "Andhra Pradesh",
+      "crime_head": "Infanticide",
+      "_2013": "6"
+    },
+    {
+      "state_ut": "Arunachal Pradesh",
+      "crime_head": "Infanticide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Assam",
+      "crime_head": "Infanticide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Bihar",
+      "crime_head": "Infanticide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Chhattisgarh",
+      "crime_head": "Infanticide",
+      "_2013": "3"
+    },
+    {
+      "state_ut": "Goa",
+      "crime_head": "Infanticide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Gujarat",
+      "crime_head": "Infanticide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Haryana",
+      "crime_head": "Infanticide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Himachal Pradesh",
+      "crime_head": "Infanticide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Jammu & Kashmir",
+      "crime_head": "Infanticide",
+      "_2013": "1"
+    },
+    {
+      "state_ut": "Jharkhand",
+      "crime_head": "Infanticide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Karnataka",
+      "crime_head": "Infanticide",
+      "_2013": "1"
+    },
+    {
+      "state_ut": "Kerala",
+      "crime_head": "Infanticide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Madhya Pradesh",
+      "crime_head": "Infanticide",
+      "_2013": "1"
+    },
+    {
+      "state_ut": "Maharashtra",
+      "crime_head": "Infanticide",
+      "_2013": "2"
+    },
+    {
+      "state_ut": "Manipur",
+      "crime_head": "Infanticide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Meghalaya",
+      "crime_head": "Infanticide",
+      "_2013": "1"
+    },
+    {
+      "state_ut": "Mizoram",
+      "crime_head": "Infanticide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Nagaland",
+      "crime_head": "Infanticide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Odisha",
+      "crime_head": "Infanticide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Punjab",
+      "crime_head": "Infanticide",
+      "_2013": "1"
+    },
+    {
+      "state_ut": "Rajasthan",
+      "crime_head": "Infanticide",
+      "_2013": "1"
+    },
+    {
+      "state_ut": "Sikkim",
+      "crime_head": "Infanticide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Tamil Nadu",
+      "crime_head": "Infanticide",
+      "_2013": "4"
+    },
+    {
+      "state_ut": "Tripura",
+      "crime_head": "Infanticide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Uttar Pradesh",
+      "crime_head": "Infanticide",
+      "_2013": "20"
+    },
+    {
+      "state_ut": "Uttarakhand",
+      "crime_head": "Infanticide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "West Bengal",
+      "crime_head": "Infanticide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Total (State)",
+      "crime_head": "Infanticide",
+      "_2013": "41"
+    },
+    {
+      "state_ut": "A&N Islands",
+      "crime_head": "Infanticide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Chandigarh",
+      "crime_head": "Infanticide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "D&N Haveli",
+      "crime_head": "Infanticide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Daman & Diu",
+      "crime_head": "Infanticide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Delhi UT",
+      "crime_head": "Infanticide",
+      "_2013": "1"
+    },
+    {
+      "state_ut": "Lakshadweep",
+      "crime_head": "Infanticide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Puducherry",
+      "crime_head": "Infanticide",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Total (UTs)",
+      "crime_head": "Infanticide",
+      "_2013": "1"
+    },
+    {
+      "state_ut": "Total (All-India)",
+      "crime_head": "Infanticide",
+      "_2013": "42"
+    },
+    {
+      "state_ut": "Andhra Pradesh",
+      "crime_head": "Kidnapping & Abduction of Children",
+      "_2013": "1012"
+    },
+    {
+      "state_ut": "Arunachal Pradesh",
+      "crime_head": "Kidnapping & Abduction of Children",
+      "_2013": "32"
+    },
+    {
+      "state_ut": "Assam",
+      "crime_head": "Kidnapping & Abduction of Children",
+      "_2013": "75"
+    },
+    {
+      "state_ut": "Bihar",
+      "crime_head": "Kidnapping & Abduction of Children",
+      "_2013": "1577"
+    },
+    {
+      "state_ut": "Chhattisgarh",
+      "crime_head": "Kidnapping & Abduction of Children",
+      "_2013": "435"
+    },
+    {
+      "state_ut": "Goa",
+      "crime_head": "Kidnapping & Abduction of Children",
+      "_2013": "34"
+    },
+    {
+      "state_ut": "Gujarat",
+      "crime_head": "Kidnapping & Abduction of Children",
+      "_2013": "1496"
+    },
+    {
+      "state_ut": "Haryana",
+      "crime_head": "Kidnapping & Abduction of Children",
+      "_2013": "488"
+    },
+    {
+      "state_ut": "Himachal Pradesh",
+      "crime_head": "Kidnapping & Abduction of Children",
+      "_2013": "81"
+    },
+    {
+      "state_ut": "Jammu & Kashmir",
+      "crime_head": "Kidnapping & Abduction of Children",
+      "_2013": "40"
+    },
+    {
+      "state_ut": "Jharkhand",
+      "crime_head": "Kidnapping & Abduction of Children",
+      "_2013": "34"
+    },
+    {
+      "state_ut": "Karnataka",
+      "crime_head": "Kidnapping & Abduction of Children",
+      "_2013": "379"
+    },
+    {
+      "state_ut": "Kerala",
+      "crime_head": "Kidnapping & Abduction of Children",
+      "_2013": "155"
+    },
+    {
+      "state_ut": "Madhya Pradesh",
+      "crime_head": "Kidnapping & Abduction of Children",
+      "_2013": "1165"
+    },
+    {
+      "state_ut": "Maharashtra",
+      "crime_head": "Kidnapping & Abduction of Children",
+      "_2013": "1495"
+    },
+    {
+      "state_ut": "Manipur",
+      "crime_head": "Kidnapping & Abduction of Children",
+      "_2013": "6"
+    },
+    {
+      "state_ut": "Meghalaya",
+      "crime_head": "Kidnapping & Abduction of Children",
+      "_2013": "17"
+    },
+    {
+      "state_ut": "Mizoram",
+      "crime_head": "Kidnapping & Abduction of Children",
+      "_2013": "2"
+    },
+    {
+      "state_ut": "Nagaland",
+      "crime_head": "Kidnapping & Abduction of Children",
+      "_2013": "8"
+    },
+    {
+      "state_ut": "Odisha",
+      "crime_head": "Kidnapping & Abduction of Children",
+      "_2013": "250"
+    },
+    {
+      "state_ut": "Punjab",
+      "crime_head": "Kidnapping & Abduction of Children",
+      "_2013": "493"
+    },
+    {
+      "state_ut": "Rajasthan",
+      "crime_head": "Kidnapping & Abduction of Children",
+      "_2013": "709"
+    },
+    {
+      "state_ut": "Sikkim",
+      "crime_head": "Kidnapping & Abduction of Children",
+      "_2013": "25"
+    },
+    {
+      "state_ut": "Tamil Nadu",
+      "crime_head": "Kidnapping & Abduction of Children",
+      "_2013": "506"
+    },
+    {
+      "state_ut": "Tripura",
+      "crime_head": "Kidnapping & Abduction of Children",
+      "_2013": "20"
+    },
+    {
+      "state_ut": "Uttar Pradesh",
+      "crime_head": "Kidnapping & Abduction of Children",
+      "_2013": "12978"
+    },
+    {
+      "state_ut": "Uttarakhand",
+      "crime_head": "Kidnapping & Abduction of Children",
+      "_2013": "31"
+    },
+    {
+      "state_ut": "West Bengal",
+      "crime_head": "Kidnapping & Abduction of Children",
+      "_2013": "739"
+    },
+    {
+      "state_ut": "Total (State)",
+      "crime_head": "Kidnapping & Abduction of Children",
+      "_2013": "24282"
+    },
+    {
+      "state_ut": "A&N Islands",
+      "crime_head": "Kidnapping & Abduction of Children",
+      "_2013": "3"
+    },
+    {
+      "state_ut": "Chandigarh",
+      "crime_head": "Kidnapping & Abduction of Children",
+      "_2013": "55"
+    },
+    {
+      "state_ut": "D&N Haveli",
+      "crime_head": "Kidnapping & Abduction of Children",
+      "_2013": "2"
+    },
+    {
+      "state_ut": "Daman & Diu",
+      "crime_head": "Kidnapping & Abduction of Children",
+      "_2013": "1"
+    },
+    {
+      "state_ut": "Delhi UT",
+      "crime_head": "Kidnapping & Abduction of Children",
+      "_2013": "603"
+    },
+    {
+      "state_ut": "Lakshadweep",
+      "crime_head": "Kidnapping & Abduction of Children",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Puducherry",
+      "crime_head": "Kidnapping & Abduction of Children",
+      "_2013": "5"
+    },
+    {
+      "state_ut": "Total (UTs)",
+      "crime_head": "Kidnapping & Abduction of Children",
+      "_2013": "669"
+    },
+    {
+      "state_ut": "Total (All-India)",
+      "crime_head": "Kidnapping & Abduction of Children",
+      "_2013": "24951"
+    },
+    {
+      "state_ut": "Andhra Pradesh",
+      "crime_head": "Other Crimes against Children",
+      "_2013": "748"
+    },
+    {
+      "state_ut": "Arunachal Pradesh",
+      "crime_head": "Other Crimes against Children",
+      "_2013": "7"
+    },
+    {
+      "state_ut": "Assam",
+      "crime_head": "Other Crimes against Children",
+      "_2013": "67"
+    },
+    {
+      "state_ut": "Bihar",
+      "crime_head": "Other Crimes against Children",
+      "_2013": "10"
+    },
+    {
+      "state_ut": "Chhattisgarh",
+      "crime_head": "Other Crimes against Children",
+      "_2013": "1413"
+    },
+    {
+      "state_ut": "Goa",
+      "crime_head": "Other Crimes against Children",
+      "_2013": "123"
+    },
+    {
+      "state_ut": "Gujarat",
+      "crime_head": "Other Crimes against Children",
+      "_2013": "241"
+    },
+    {
+      "state_ut": "Haryana",
+      "crime_head": "Other Crimes against Children",
+      "_2013": "245"
+    },
+    {
+      "state_ut": "Himachal Pradesh",
+      "crime_head": "Other Crimes against Children",
+      "_2013": "91"
+    },
+    {
+      "state_ut": "Jammu & Kashmir",
+      "crime_head": "Other Crimes against Children",
+      "_2013": "10"
+    },
+    {
+      "state_ut": "Jharkhand",
+      "crime_head": "Other Crimes against Children",
+      "_2013": "20"
+    },
+    {
+      "state_ut": "Karnataka",
+      "crime_head": "Other Crimes against Children",
+      "_2013": "144"
+    },
+    {
+      "state_ut": "Kerala",
+      "crime_head": "Other Crimes against Children",
+      "_2013": "1073"
+    },
+    {
+      "state_ut": "Madhya Pradesh",
+      "crime_head": "Other Crimes against Children",
+      "_2013": "4677"
+    },
+    {
+      "state_ut": "Maharashtra",
+      "crime_head": "Other Crimes against Children",
+      "_2013": "2845"
+    },
+    {
+      "state_ut": "Manipur",
+      "crime_head": "Other Crimes against Children",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Meghalaya",
+      "crime_head": "Other Crimes against Children",
+      "_2013": "12"
+    },
+    {
+      "state_ut": "Mizoram",
+      "crime_head": "Other Crimes against Children",
+      "_2013": "15"
+    },
+    {
+      "state_ut": "Nagaland",
+      "crime_head": "Other Crimes against Children",
+      "_2013": "1"
+    },
+    {
+      "state_ut": "Odisha",
+      "crime_head": "Other Crimes against Children",
+      "_2013": "168"
+    },
+    {
+      "state_ut": "Punjab",
+      "crime_head": "Other Crimes against Children",
+      "_2013": "99"
+    },
+    {
+      "state_ut": "Rajasthan",
+      "crime_head": "Other Crimes against Children",
+      "_2013": "200"
+    },
+    {
+      "state_ut": "Sikkim",
+      "crime_head": "Other Crimes against Children",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Tamil Nadu",
+      "crime_head": "Other Crimes against Children",
+      "_2013": "173"
+    },
+    {
+      "state_ut": "Tripura",
+      "crime_head": "Other Crimes against Children",
+      "_2013": "48"
+    },
+    {
+      "state_ut": "Uttar Pradesh",
+      "crime_head": "Other Crimes against Children",
+      "_2013": "3040"
+    },
+    {
+      "state_ut": "Uttarakhand",
+      "crime_head": "Other Crimes against Children",
+      "_2013": "93"
+    },
+    {
+      "state_ut": "West Bengal",
+      "crime_head": "Other Crimes against Children",
+      "_2013": "109"
+    },
+    {
+      "state_ut": "Total (State)",
+      "crime_head": "Other Crimes against Children",
+      "_2013": "15672"
+    },
+    {
+      "state_ut": "A&N Islands",
+      "crime_head": "Other Crimes against Children",
+      "_2013": "18"
+    },
+    {
+      "state_ut": "Chandigarh",
+      "crime_head": "Other Crimes against Children",
+      "_2013": "24"
+    },
+    {
+      "state_ut": "D&N Haveli",
+      "crime_head": "Other Crimes against Children",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Daman & Diu",
+      "crime_head": "Other Crimes against Children",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Delhi UT",
+      "crime_head": "Other Crimes against Children",
+      "_2013": "555"
+    },
+    {
+      "state_ut": "Lakshadweep",
+      "crime_head": "Other Crimes against Children",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Puducherry",
+      "crime_head": "Other Crimes against Children",
+      "_2013": "2"
+    },
+    {
+      "state_ut": "Total (UTs)",
+      "crime_head": "Other Crimes against Children",
+      "_2013": "599"
+    },
+    {
+      "state_ut": "Total (All-India)",
+      "crime_head": "Other Crimes against Children",
+      "_2013": "16271"
+    },
+    {
+      "state_ut": "Andhra Pradesh",
+      "crime_head": "Other Murder of Children",
+      "_2013": "97"
+    },
+    {
+      "state_ut": "Arunachal Pradesh",
+      "crime_head": "Other Murder of Children",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Assam",
+      "crime_head": "Other Murder of Children",
+      "_2013": "19"
+    },
+    {
+      "state_ut": "Bihar",
+      "crime_head": "Other Murder of Children",
+      "_2013": "128"
+    },
+    {
+      "state_ut": "Chhattisgarh",
+      "crime_head": "Other Murder of Children",
+      "_2013": "54"
+    },
+    {
+      "state_ut": "Goa",
+      "crime_head": "Other Murder of Children",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Gujarat",
+      "crime_head": "Other Murder of Children",
+      "_2013": "63"
+    },
+    {
+      "state_ut": "Haryana",
+      "crime_head": "Other Murder of Children",
+      "_2013": "110"
+    },
+    {
+      "state_ut": "Himachal Pradesh",
+      "crime_head": "Other Murder of Children",
+      "_2013": "8"
+    },
+    {
+      "state_ut": "Jammu & Kashmir",
+      "crime_head": "Other Murder of Children",
+      "_2013": "10"
+    },
+    {
+      "state_ut": "Jharkhand",
+      "crime_head": "Other Murder of Children",
+      "_2013": "8"
+    },
+    {
+      "state_ut": "Karnataka",
+      "crime_head": "Other Murder of Children",
+      "_2013": "107"
+    },
+    {
+      "state_ut": "Kerala",
+      "crime_head": "Other Murder of Children",
+      "_2013": "39"
+    },
+    {
+      "state_ut": "Madhya Pradesh",
+      "crime_head": "Other Murder of Children",
+      "_2013": "163"
+    },
+    {
+      "state_ut": "Maharashtra",
+      "crime_head": "Other Murder of Children",
+      "_2013": "221"
+    },
+    {
+      "state_ut": "Manipur",
+      "crime_head": "Other Murder of Children",
+      "_2013": "1"
+    },
+    {
+      "state_ut": "Meghalaya",
+      "crime_head": "Other Murder of Children",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Mizoram",
+      "crime_head": "Other Murder of Children",
+      "_2013": "1"
+    },
+    {
+      "state_ut": "Nagaland",
+      "crime_head": "Other Murder of Children",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Odisha",
+      "crime_head": "Other Murder of Children",
+      "_2013": "50"
+    },
+    {
+      "state_ut": "Punjab",
+      "crime_head": "Other Murder of Children",
+      "_2013": "35"
+    },
+    {
+      "state_ut": "Rajasthan",
+      "crime_head": "Other Murder of Children",
+      "_2013": "60"
+    },
+    {
+      "state_ut": "Sikkim",
+      "crime_head": "Other Murder of Children",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Tamil Nadu",
+      "crime_head": "Other Murder of Children",
+      "_2013": "103"
+    },
+    {
+      "state_ut": "Tripura",
+      "crime_head": "Other Murder of Children",
+      "_2013": "8"
+    },
+    {
+      "state_ut": "Uttar Pradesh",
+      "crime_head": "Other Murder of Children",
+      "_2013": "938"
+    },
+    {
+      "state_ut": "Uttarakhand",
+      "crime_head": "Other Murder of Children",
+      "_2013": "9"
+    },
+    {
+      "state_ut": "West Bengal",
+      "crime_head": "Other Murder of Children",
+      "_2013": "64"
+    },
+    {
+      "state_ut": "Total (State)",
+      "crime_head": "Other Murder of Children",
+      "_2013": "2296"
+    },
+    {
+      "state_ut": "A&N Islands",
+      "crime_head": "Other Murder of Children",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Chandigarh",
+      "crime_head": "Other Murder of Children",
+      "_2013": "3"
+    },
+    {
+      "state_ut": "D&N Haveli",
+      "crime_head": "Other Murder of Children",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Daman & Diu",
+      "crime_head": "Other Murder of Children",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Delhi UT",
+      "crime_head": "Other Murder of Children",
+      "_2013": "71"
+    },
+    {
+      "state_ut": "Lakshadweep",
+      "crime_head": "Other Murder of Children",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Puducherry",
+      "crime_head": "Other Murder of Children",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Total (UTs)",
+      "crime_head": "Other Murder of Children",
+      "_2013": "74"
+    },
+    {
+      "state_ut": "Total (All-India)",
+      "crime_head": "Other Murder of Children",
+      "_2013": "2370"
+    },
+    {
+      "state_ut": "Andhra Pradesh",
+      "crime_head": "Procuration of Minor Girls",
+      "_2013": "64"
+    },
+    {
+      "state_ut": "Arunachal Pradesh",
+      "crime_head": "Procuration of Minor Girls",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Assam",
+      "crime_head": "Procuration of Minor Girls",
+      "_2013": "129"
+    },
+    {
+      "state_ut": "Bihar",
+      "crime_head": "Procuration of Minor Girls",
+      "_2013": "202"
+    },
+    {
+      "state_ut": "Chhattisgarh",
+      "crime_head": "Procuration of Minor Girls",
+      "_2013": "32"
+    },
+    {
+      "state_ut": "Goa",
+      "crime_head": "Procuration of Minor Girls",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Gujarat",
+      "crime_head": "Procuration of Minor Girls",
+      "_2013": "2"
+    },
+    {
+      "state_ut": "Haryana",
+      "crime_head": "Procuration of Minor Girls",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Himachal Pradesh",
+      "crime_head": "Procuration of Minor Girls",
+      "_2013": "3"
+    },
+    {
+      "state_ut": "Jammu & Kashmir",
+      "crime_head": "Procuration of Minor Girls",
+      "_2013": "1"
+    },
+    {
+      "state_ut": "Jharkhand",
+      "crime_head": "Procuration of Minor Girls",
+      "_2013": "10"
+    },
+    {
+      "state_ut": "Karnataka",
+      "crime_head": "Procuration of Minor Girls",
+      "_2013": "49"
+    },
+    {
+      "state_ut": "Kerala",
+      "crime_head": "Procuration of Minor Girls",
+      "_2013": "14"
+    },
+    {
+      "state_ut": "Madhya Pradesh",
+      "crime_head": "Procuration of Minor Girls",
+      "_2013": "28"
+    },
+    {
+      "state_ut": "Maharashtra",
+      "crime_head": "Procuration of Minor Girls",
+      "_2013": "61"
+    },
+    {
+      "state_ut": "Manipur",
+      "crime_head": "Procuration of Minor Girls",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Meghalaya",
+      "crime_head": "Procuration of Minor Girls",
+      "_2013": "4"
+    },
+    {
+      "state_ut": "Mizoram",
+      "crime_head": "Procuration of Minor Girls",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Nagaland",
+      "crime_head": "Procuration of Minor Girls",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Odisha",
+      "crime_head": "Procuration of Minor Girls",
+      "_2013": "54"
+    },
+    {
+      "state_ut": "Punjab",
+      "crime_head": "Procuration of Minor Girls",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Rajasthan",
+      "crime_head": "Procuration of Minor Girls",
+      "_2013": "34"
+    },
+    {
+      "state_ut": "Sikkim",
+      "crime_head": "Procuration of Minor Girls",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Tamil Nadu",
+      "crime_head": "Procuration of Minor Girls",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Tripura",
+      "crime_head": "Procuration of Minor Girls",
+      "_2013": "1"
+    },
+    {
+      "state_ut": "Uttar Pradesh",
+      "crime_head": "Procuration of Minor Girls",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Uttarakhand",
+      "crime_head": "Procuration of Minor Girls",
+      "_2013": "1"
+    },
+    {
+      "state_ut": "West Bengal",
+      "crime_head": "Procuration of Minor Girls",
+      "_2013": "377"
+    },
+    {
+      "state_ut": "Total (State)",
+      "crime_head": "Procuration of Minor Girls",
+      "_2013": "1066"
+    },
+    {
+      "state_ut": "A&N Islands",
+      "crime_head": "Procuration of Minor Girls",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Chandigarh",
+      "crime_head": "Procuration of Minor Girls",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "D&N Haveli",
+      "crime_head": "Procuration of Minor Girls",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Daman & Diu",
+      "crime_head": "Procuration of Minor Girls",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Delhi UT",
+      "crime_head": "Procuration of Minor Girls",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Lakshadweep",
+      "crime_head": "Procuration of Minor Girls",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Puducherry",
+      "crime_head": "Procuration of Minor Girls",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Total (UTs)",
+      "crime_head": "Procuration of Minor Girls",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Total (All-India)",
+      "crime_head": "Procuration of Minor Girls",
+      "_2013": "1066"
+    },
+    {
+      "state_ut": "Andhra Pradesh",
+      "crime_head": "Prohibition of Child Marriage Act, 2006",
+      "_2013": "44"
+    },
+    {
+      "state_ut": "Arunachal Pradesh",
+      "crime_head": "Prohibition of Child Marriage Act, 2006",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Assam",
+      "crime_head": "Prohibition of Child Marriage Act, 2006",
+      "_2013": "1"
+    },
+    {
+      "state_ut": "Bihar",
+      "crime_head": "Prohibition of Child Marriage Act, 2006",
+      "_2013": "2"
+    },
+    {
+      "state_ut": "Chhattisgarh",
+      "crime_head": "Prohibition of Child Marriage Act, 2006",
+      "_2013": "1"
+    },
+    {
+      "state_ut": "Goa",
+      "crime_head": "Prohibition of Child Marriage Act, 2006",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Gujarat",
+      "crime_head": "Prohibition of Child Marriage Act, 2006",
+      "_2013": "60"
+    },
+    {
+      "state_ut": "Haryana",
+      "crime_head": "Prohibition of Child Marriage Act, 2006",
+      "_2013": "25"
+    },
+    {
+      "state_ut": "Himachal Pradesh",
+      "crime_head": "Prohibition of Child Marriage Act, 2006",
+      "_2013": "7"
+    },
+    {
+      "state_ut": "Jammu & Kashmir",
+      "crime_head": "Prohibition of Child Marriage Act, 2006",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Jharkhand",
+      "crime_head": "Prohibition of Child Marriage Act, 2006",
+      "_2013": "1"
+    },
+    {
+      "state_ut": "Karnataka",
+      "crime_head": "Prohibition of Child Marriage Act, 2006",
+      "_2013": "74"
+    },
+    {
+      "state_ut": "Kerala",
+      "crime_head": "Prohibition of Child Marriage Act, 2006",
+      "_2013": "16"
+    },
+    {
+      "state_ut": "Madhya Pradesh",
+      "crime_head": "Prohibition of Child Marriage Act, 2006",
+      "_2013": "23"
+    },
+    {
+      "state_ut": "Maharashtra",
+      "crime_head": "Prohibition of Child Marriage Act, 2006",
+      "_2013": "106"
+    },
+    {
+      "state_ut": "Manipur",
+      "crime_head": "Prohibition of Child Marriage Act, 2006",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Meghalaya",
+      "crime_head": "Prohibition of Child Marriage Act, 2006",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Mizoram",
+      "crime_head": "Prohibition of Child Marriage Act, 2006",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Nagaland",
+      "crime_head": "Prohibition of Child Marriage Act, 2006",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Odisha",
+      "crime_head": "Prohibition of Child Marriage Act, 2006",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Punjab",
+      "crime_head": "Prohibition of Child Marriage Act, 2006",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Rajasthan",
+      "crime_head": "Prohibition of Child Marriage Act, 2006",
+      "_2013": "21"
+    },
+    {
+      "state_ut": "Sikkim",
+      "crime_head": "Prohibition of Child Marriage Act, 2006",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Tamil Nadu",
+      "crime_head": "Prohibition of Child Marriage Act, 2006",
+      "_2013": "182"
+    },
+    {
+      "state_ut": "Tripura",
+      "crime_head": "Prohibition of Child Marriage Act, 2006",
+      "_2013": "5"
+    },
+    {
+      "state_ut": "Uttar Pradesh",
+      "crime_head": "Prohibition of Child Marriage Act, 2006",
+      "_2013": "25"
+    },
+    {
+      "state_ut": "Uttarakhand",
+      "crime_head": "Prohibition of Child Marriage Act, 2006",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "West Bengal",
+      "crime_head": "Prohibition of Child Marriage Act, 2006",
+      "_2013": "68"
+    },
+    {
+      "state_ut": "Total (State)",
+      "crime_head": "Prohibition of Child Marriage Act, 2006",
+      "_2013": "661"
+    },
+    {
+      "state_ut": "A&N Islands",
+      "crime_head": "Prohibition of Child Marriage Act, 2006",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Chandigarh",
+      "crime_head": "Prohibition of Child Marriage Act, 2006",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "D&N Haveli",
+      "crime_head": "Prohibition of Child Marriage Act, 2006",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Daman & Diu",
+      "crime_head": "Prohibition of Child Marriage Act, 2006",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Delhi UT",
+      "crime_head": "Prohibition of Child Marriage Act, 2006",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Lakshadweep",
+      "crime_head": "Prohibition of Child Marriage Act, 2006",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Puducherry",
+      "crime_head": "Prohibition of Child Marriage Act, 2006",
+      "_2013": "1"
+    },
+    {
+      "state_ut": "Total (UTs)",
+      "crime_head": "Prohibition of Child Marriage Act, 2006",
+      "_2013": "1"
+    },
+    {
+      "state_ut": "Total (All-India)",
+      "crime_head": "Prohibition of Child Marriage Act, 2006",
+      "_2013": "662"
+    },
+    {
+      "state_ut": "Andhra Pradesh",
+      "crime_head": "Rape of Children",
+      "_2013": "820"
+    },
+    {
+      "state_ut": "Arunachal Pradesh",
+      "crime_head": "Rape of Children",
+      "_2013": "33"
+    },
+    {
+      "state_ut": "Assam",
+      "crime_head": "Rape of Children",
+      "_2013": "223"
+    },
+    {
+      "state_ut": "Bihar",
+      "crime_head": "Rape of Children",
+      "_2013": "96"
+    },
+    {
+      "state_ut": "Chhattisgarh",
+      "crime_head": "Rape of Children",
+      "_2013": "682"
+    },
+    {
+      "state_ut": "Goa",
+      "crime_head": "Rape of Children",
+      "_2013": "63"
+    },
+    {
+      "state_ut": "Gujarat",
+      "crime_head": "Rape of Children",
+      "_2013": "314"
+    },
+    {
+      "state_ut": "Haryana",
+      "crime_head": "Rape of Children",
+      "_2013": "477"
+    },
+    {
+      "state_ut": "Himachal Pradesh",
+      "crime_head": "Rape of Children",
+      "_2013": "205"
+    },
+    {
+      "state_ut": "Jammu & Kashmir",
+      "crime_head": "Rape of Children",
+      "_2013": "25"
+    },
+    {
+      "state_ut": "Jharkhand",
+      "crime_head": "Rape of Children",
+      "_2013": "10"
+    },
+    {
+      "state_ut": "Karnataka",
+      "crime_head": "Rape of Children",
+      "_2013": "330"
+    },
+    {
+      "state_ut": "Kerala",
+      "crime_head": "Rape of Children",
+      "_2013": "703"
+    },
+    {
+      "state_ut": "Madhya Pradesh",
+      "crime_head": "Rape of Children",
+      "_2013": "2538"
+    },
+    {
+      "state_ut": "Maharashtra",
+      "crime_head": "Rape of Children",
+      "_2013": "1932"
+    },
+    {
+      "state_ut": "Manipur",
+      "crime_head": "Rape of Children",
+      "_2013": "3"
+    },
+    {
+      "state_ut": "Meghalaya",
+      "crime_head": "Rape of Children",
+      "_2013": "99"
+    },
+    {
+      "state_ut": "Mizoram",
+      "crime_head": "Rape of Children",
+      "_2013": "56"
+    },
+    {
+      "state_ut": "Nagaland",
+      "crime_head": "Rape of Children",
+      "_2013": "3"
+    },
+    {
+      "state_ut": "Odisha",
+      "crime_head": "Rape of Children",
+      "_2013": "479"
+    },
+    {
+      "state_ut": "Punjab",
+      "crime_head": "Rape of Children",
+      "_2013": "520"
+    },
+    {
+      "state_ut": "Rajasthan",
+      "crime_head": "Rape of Children",
+      "_2013": "902"
+    },
+    {
+      "state_ut": "Sikkim",
+      "crime_head": "Rape of Children",
+      "_2013": "43"
+    },
+    {
+      "state_ut": "Tamil Nadu",
+      "crime_head": "Rape of Children",
+      "_2013": "505"
+    },
+    {
+      "state_ut": "Tripura",
+      "crime_head": "Rape of Children",
+      "_2013": "68"
+    },
+    {
+      "state_ut": "Uttar Pradesh",
+      "crime_head": "Rape of Children",
+      "_2013": "2143"
+    },
+    {
+      "state_ut": "Uttarakhand",
+      "crime_head": "Rape of Children",
+      "_2013": "39"
+    },
+    {
+      "state_ut": "West Bengal",
+      "crime_head": "Rape of Children",
+      "_2013": "354"
+    },
+    {
+      "state_ut": "Total (State)",
+      "crime_head": "Rape of Children",
+      "_2013": "13665"
+    },
+    {
+      "state_ut": "A&N Islands",
+      "crime_head": "Rape of Children",
+      "_2013": "29"
+    },
+    {
+      "state_ut": "Chandigarh",
+      "crime_head": "Rape of Children",
+      "_2013": "27"
+    },
+    {
+      "state_ut": "D&N Haveli",
+      "crime_head": "Rape of Children",
+      "_2013": "4"
+    },
+    {
+      "state_ut": "Daman & Diu",
+      "crime_head": "Rape of Children",
+      "_2013": "4"
+    },
+    {
+      "state_ut": "Delhi UT",
+      "crime_head": "Rape of Children",
+      "_2013": "804"
+    },
+    {
+      "state_ut": "Lakshadweep",
+      "crime_head": "Rape of Children",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Puducherry",
+      "crime_head": "Rape of Children",
+      "_2013": "14"
+    },
+    {
+      "state_ut": "Total (UTs)",
+      "crime_head": "Rape of Children",
+      "_2013": "882"
+    },
+    {
+      "state_ut": "Total (All-India)",
+      "crime_head": "Rape of Children",
+      "_2013": "14547"
+    },
+    {
+      "state_ut": "Andhra Pradesh",
+      "crime_head": "Selling of Girls for Prostitution",
+      "_2013": "5"
+    },
+    {
+      "state_ut": "Arunachal Pradesh",
+      "crime_head": "Selling of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Assam",
+      "crime_head": "Selling of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Bihar",
+      "crime_head": "Selling of Girls for Prostitution",
+      "_2013": "6"
+    },
+    {
+      "state_ut": "Chhattisgarh",
+      "crime_head": "Selling of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Goa",
+      "crime_head": "Selling of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Gujarat",
+      "crime_head": "Selling of Girls for Prostitution",
+      "_2013": "2"
+    },
+    {
+      "state_ut": "Haryana",
+      "crime_head": "Selling of Girls for Prostitution",
+      "_2013": "1"
+    },
+    {
+      "state_ut": "Himachal Pradesh",
+      "crime_head": "Selling of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Jammu & Kashmir",
+      "crime_head": "Selling of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Jharkhand",
+      "crime_head": "Selling of Girls for Prostitution",
+      "_2013": "4"
+    },
+    {
+      "state_ut": "Karnataka",
+      "crime_head": "Selling of Girls for Prostitution",
+      "_2013": "3"
+    },
+    {
+      "state_ut": "Kerala",
+      "crime_head": "Selling of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Madhya Pradesh",
+      "crime_head": "Selling of Girls for Prostitution",
+      "_2013": "6"
+    },
+    {
+      "state_ut": "Maharashtra",
+      "crime_head": "Selling of Girls for Prostitution",
+      "_2013": "29"
+    },
+    {
+      "state_ut": "Manipur",
+      "crime_head": "Selling of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Meghalaya",
+      "crime_head": "Selling of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Mizoram",
+      "crime_head": "Selling of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Nagaland",
+      "crime_head": "Selling of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Odisha",
+      "crime_head": "Selling of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Punjab",
+      "crime_head": "Selling of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Rajasthan",
+      "crime_head": "Selling of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Sikkim",
+      "crime_head": "Selling of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Tamil Nadu",
+      "crime_head": "Selling of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Tripura",
+      "crime_head": "Selling of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Uttar Pradesh",
+      "crime_head": "Selling of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Uttarakhand",
+      "crime_head": "Selling of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "West Bengal",
+      "crime_head": "Selling of Girls for Prostitution",
+      "_2013": "78"
+    },
+    {
+      "state_ut": "Total (State)",
+      "crime_head": "Selling of Girls for Prostitution",
+      "_2013": "134"
+    },
+    {
+      "state_ut": "A&N Islands",
+      "crime_head": "Selling of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Chandigarh",
+      "crime_head": "Selling of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "D&N Haveli",
+      "crime_head": "Selling of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Daman & Diu",
+      "crime_head": "Selling of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Delhi UT",
+      "crime_head": "Selling of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Lakshadweep",
+      "crime_head": "Selling of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Puducherry",
+      "crime_head": "Selling of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Total (UTs)",
+      "crime_head": "Selling of Girls for Prostitution",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Total (All-India)",
+      "crime_head": "Selling of Girls for Prostitution",
+      "_2013": "134"
+    },
+    {
+      "state_ut": "Andhra Pradesh",
+      "crime_head": "Total Crimes against Children",
+      "_2013": "2838"
+    },
+    {
+      "state_ut": "Arunachal Pradesh",
+      "crime_head": "Total Crimes against Children",
+      "_2013": "72"
+    },
+    {
+      "state_ut": "Assam",
+      "crime_head": "Total Crimes against Children",
+      "_2013": "514"
+    },
+    {
+      "state_ut": "Bihar",
+      "crime_head": "Total Crimes against Children",
+      "_2013": "2025"
+    },
+    {
+      "state_ut": "Chhattisgarh",
+      "crime_head": "Total Crimes against Children",
+      "_2013": "2637"
+    },
+    {
+      "state_ut": "Goa",
+      "crime_head": "Total Crimes against Children",
+      "_2013": "222"
+    },
+    {
+      "state_ut": "Gujarat",
+      "crime_head": "Total Crimes against Children",
+      "_2013": "2185"
+    },
+    {
+      "state_ut": "Haryana",
+      "crime_head": "Total Crimes against Children",
+      "_2013": "1357"
+    },
+    {
+      "state_ut": "Himachal Pradesh",
+      "crime_head": "Total Crimes against Children",
+      "_2013": "397"
+    },
+    {
+      "state_ut": "Jammu & Kashmir",
+      "crime_head": "Total Crimes against Children",
+      "_2013": "88"
+    },
+    {
+      "state_ut": "Jharkhand",
+      "crime_head": "Total Crimes against Children",
+      "_2013": "89"
+    },
+    {
+      "state_ut": "Karnataka",
+      "crime_head": "Total Crimes against Children",
+      "_2013": "1087"
+    },
+    {
+      "state_ut": "Kerala",
+      "crime_head": "Total Crimes against Children",
+      "_2013": "2008"
+    },
+    {
+      "state_ut": "Madhya Pradesh",
+      "crime_head": "Total Crimes against Children",
+      "_2013": "8661"
+    },
+    {
+      "state_ut": "Maharashtra",
+      "crime_head": "Total Crimes against Children",
+      "_2013": "6805"
+    },
+    {
+      "state_ut": "Manipur",
+      "crime_head": "Total Crimes against Children",
+      "_2013": "10"
+    },
+    {
+      "state_ut": "Meghalaya",
+      "crime_head": "Total Crimes against Children",
+      "_2013": "133"
+    },
+    {
+      "state_ut": "Mizoram",
+      "crime_head": "Total Crimes against Children",
+      "_2013": "74"
+    },
+    {
+      "state_ut": "Nagaland",
+      "crime_head": "Total Crimes against Children",
+      "_2013": "12"
+    },
+    {
+      "state_ut": "Odisha",
+      "crime_head": "Total Crimes against Children",
+      "_2013": "1005"
+    },
+    {
+      "state_ut": "Punjab",
+      "crime_head": "Total Crimes against Children",
+      "_2013": "1149"
+    },
+    {
+      "state_ut": "Rajasthan",
+      "crime_head": "Total Crimes against Children",
+      "_2013": "1961"
+    },
+    {
+      "state_ut": "Sikkim",
+      "crime_head": "Total Crimes against Children",
+      "_2013": "68"
+    },
+    {
+      "state_ut": "Tamil Nadu",
+      "crime_head": "Total Crimes against Children",
+      "_2013": "1475"
+    },
+    {
+      "state_ut": "Tripura",
+      "crime_head": "Total Crimes against Children",
+      "_2013": "150"
+    },
+    {
+      "state_ut": "Uttar Pradesh",
+      "crime_head": "Total Crimes against Children",
+      "_2013": "19286"
+    },
+    {
+      "state_ut": "Uttarakhand",
+      "crime_head": "Total Crimes against Children",
+      "_2013": "173"
+    },
+    {
+      "state_ut": "West Bengal",
+      "crime_head": "Total Crimes against Children",
+      "_2013": "1800"
+    },
+    {
+      "state_ut": "Total (State)",
+      "crime_head": "Total Crimes against Children",
+      "_2013": "58281"
+    },
+    {
+      "state_ut": "A&N Islands",
+      "crime_head": "Total Crimes against Children",
+      "_2013": "51"
+    },
+    {
+      "state_ut": "Chandigarh",
+      "crime_head": "Total Crimes against Children",
+      "_2013": "109"
+    },
+    {
+      "state_ut": "D&N Haveli",
+      "crime_head": "Total Crimes against Children",
+      "_2013": "6"
+    },
+    {
+      "state_ut": "Daman & Diu",
+      "crime_head": "Total Crimes against Children",
+      "_2013": "5"
+    },
+    {
+      "state_ut": "Delhi UT",
+      "crime_head": "Total Crimes against Children",
+      "_2013": "2037"
+    },
+    {
+      "state_ut": "Lakshadweep",
+      "crime_head": "Total Crimes against Children",
+      "_2013": "0"
+    },
+    {
+      "state_ut": "Puducherry",
+      "crime_head": "Total Crimes against Children",
+      "_2013": "22"
+    },
+    {
+      "state_ut": "Total (UTs)",
+      "crime_head": "Total Crimes against Children",
+      "_2013": "2230"
+    },
+    {
+      "state_ut": "Total (All-India)",
+      "crime_head": "Total Crimes against Children",
+      "_2013": "60511"
+    }
+  ]
+}

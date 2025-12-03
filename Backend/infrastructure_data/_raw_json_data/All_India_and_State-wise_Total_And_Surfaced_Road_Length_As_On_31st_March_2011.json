@@ -1,0 +1,206 @@
+{
+  "index_name": "63996d4a-e5ff-489c-9fb6-9e5118f377c0",
+  "title": "All India and State-wise Total And Surfaced Road Length As On 31st March 2011",
+  "desc": "All India and State-wise Total And Surfaced Road Length As On 31st March 2011",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Statistics and Programme Implementation"
+  ],
+  "sector": [
+    "Statistics",
+    "Transport",
+    "Road Transport"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "a182e300-7c30-4fff-a615-ebb54bf42b88",
+  "visualizable": "0",
+  "active": "1",
+  "created": 1759235113,
+  "updated": 1759235113,
+  "created_date": "2025-09-30T14:25:13Z",
+  "updated_date": "2025-09-30T14:25:13Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "a182e300-7c30-4fff-a615-ebb54bf42b88",
+    "field": "63996d4a-e5ff-489c-9fb6-9e5118f377c0"
+  },
+  "field": [
+    {
+      "id": "year",
+      "name": "Year",
+      "type": "double"
+    },
+    {
+      "id": "_total",
+      "name": "Total",
+      "type": "double"
+    },
+    {
+      "id": "surfaced",
+      "name": "Surfaced",
+      "type": "double"
+    },
+    {
+      "id": "highways___total",
+      "name": "Highways - Total",
+      "type": "double"
+    },
+    {
+      "id": "highways___surfaced",
+      "name": "Highways - Surfaced",
+      "type": "double"
+    },
+    {
+      "id": "urban_roads___total",
+      "name": "Urban Roads - Total",
+      "type": "double"
+    },
+    {
+      "id": "urban_roads___surfaced",
+      "name": "Urban Roads - Surfaced",
+      "type": "double"
+    },
+    {
+      "id": "project_roads___total",
+      "name": "Project Roads - Total",
+      "type": "double"
+    },
+    {
+      "id": "project_roads___surfaced",
+      "name": "Project Roads - Surfaced",
+      "type": "double"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 11,
+  "count": 11,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "year": 2001,
+      "_total": 2469524,
+      "surfaced": 1414547,
+      "highways___total": 1993858,
+      "highways___surfaced": 1166209,
+      "urban_roads___total": 252001,
+      "urban_roads___surfaced": 191797,
+      "project_roads___total": 223665,
+      "project_roads___surfaced": 56541
+    },
+    {
+      "year": 2002,
+      "_total": 2499906,
+      "surfaced": 1451656,
+      "highways___total": 2025487,
+      "highways___surfaced": 1200102,
+      "urban_roads___total": 250295,
+      "urban_roads___surfaced": 190252,
+      "project_roads___total": 224124,
+      "project_roads___surfaced": 61302
+    },
+    {
+      "year": 2003,
+      "_total": 2601957,
+      "surfaced": 1491359,
+      "highways___total": 2045370,
+      "highways___surfaced": 1207578,
+      "urban_roads___total": 297259,
+      "urban_roads___surfaced": 214951,
+      "project_roads___total": 259328,
+      "project_roads___surfaced": 68830
+    },
+    {
+      "year": 2004,
+      "_total": 2669996,
+      "surfaced": 1526055,
+      "highways___total": 2107061,
+      "highways___surfaced": 1238306,
+      "urban_roads___total": 301310,
+      "urban_roads___surfaced": 218361,
+      "project_roads___total": 261625,
+      "project_roads___surfaced": 69388
+    },
+    {
+      "year": 2005,
+      "_total": 2962463,
+      "surfaced": 1596451,
+      "highways___total": 2415941,
+      "highways___surfaced": 1334875,
+      "urban_roads___total": 286707,
+      "urban_roads___surfaced": 195277,
+      "project_roads___total": 259815,
+      "project_roads___surfaced": 66299
+    },
+    {
+      "year": 2006,
+      "_total": 3014063,
+      "surfaced": 1637723,
+      "highways___total": 2459886,
+      "highways___surfaced": 1370932,
+      "urban_roads___total": 291991,
+      "urban_roads___surfaced": 200210,
+      "project_roads___total": 262186,
+      "project_roads___surfaced": 66581
+    },
+    {
+      "year": 2007,
+      "_total": 3119923,
+      "surfaced": 1693500,
+      "highways___total": 2550838,
+      "highways___surfaced": 1417409,
+      "urban_roads___total": 300580,
+      "urban_roads___surfaced": 207052,
+      "project_roads___total": 268505,
+      "project_roads___surfaced": 69039
+    },
+    {
+      "year": 2008,
+      "_total": 3174620,
+      "surfaced": 1745271,
+      "highways___total": 2600104,
+      "highways___surfaced": 1458341,
+      "urban_roads___total": 304327,
+      "urban_roads___surfaced": 212750,
+      "project_roads___total": 270189,
+      "project_roads___surfaced": 74180
+    },
+    {
+      "year": 2009,
+      "_total": 3571509,
+      "surfaced": 2141301,
+      "highways___total": 2921091,
+      "highways___surfaced": 1809644,
+      "urban_roads___total": 373801,
+      "urban_roads___surfaced": 258279,
+      "project_roads___total": 276617,
+      "project_roads___surfaced": 73378
+    },
+    {
+      "year": 2010,
+      "_total": 3682436,
+      "surfaced": 2243312,
+      "highways___total": 3001055,
+      "highways___surfaced": 1889294,
+      "urban_roads___total": 402448,
+      "urban_roads___surfaced": 279715,
+      "project_roads___total": 278933,
+      "project_roads___surfaced": 74303
+    },
+    {
+      "year": 2011,
+      "_total": 3790344,
+      "surfaced": 2341479,
+      "highways___total": 3089966,
+      "highways___surfaced": 1972740,
+      "urban_roads___total": 411839,
+      "urban_roads___surfaced": 291894,
+      "project_roads___total": 288539,
+      "project_roads___surfaced": 76845
+    }
+  ]
+}

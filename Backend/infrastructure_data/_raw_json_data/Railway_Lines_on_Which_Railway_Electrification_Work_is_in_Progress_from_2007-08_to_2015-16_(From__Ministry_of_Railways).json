@@ -1,0 +1,476 @@
+{
+  "index_name": "d64c36a0-1178-4367-b31c-9a3e09b533e6",
+  "title": "Railway Lines on Which Railway Electrification Work is in Progress from 2007-08 to 2015-16 (From: Ministry of Railways)",
+  "desc": "Railway Lines on Which Railway Electrification Work is in Progress from 2007-08 to 2015-16 (From: Ministry of Railways)",
+  "org_type": "Central",
+  "org": [
+    "Rajya Sabha"
+  ],
+  "sector": [
+    "All"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "a9717039-f79b-4436-ba54-08f2fdc67841",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1701970187,
+  "updated": 1702009000,
+  "created_date": "2023-12-07T18:29:47Z",
+  "updated_date": "2023-12-08T09:46:40Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "a9717039-f79b-4436-ba54-08f2fdc67841",
+    "field": "d64c36a0-1178-4367-b31c-9a3e09b533e6"
+  },
+  "field": [
+    {
+      "id": "s_no_",
+      "name": "S.No.",
+      "type": "double"
+    },
+    {
+      "id": "name_of_project",
+      "name": "Name of Project",
+      "type": "keyword"
+    },
+    {
+      "id": "year_of_inclusion_in_pink_book",
+      "name": "Year of Inclusion in Pink Book",
+      "type": "keyword"
+    },
+    {
+      "id": "route_kilometre",
+      "name": "Route Kilometre",
+      "type": "double"
+    },
+    {
+      "id": "railway",
+      "name": "Railway",
+      "type": "keyword"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 59,
+  "count": 59,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "s_no_": 1,
+      "name_of_project": "Barabanki-Gorakhpur-Barauni; incl Siwan-Thawe",
+      "year_of_inclusion_in_pink_book": "2007-08",
+      "route_kilometre": 757,
+      "railway": "North Eastern & East Central"
+    },
+    {
+      "s_no_": 2,
+      "name_of_project": "Jalandhar-Jammu Tawi incl Jammu Tawi-Udhampur",
+      "year_of_inclusion_in_pink_book": "2007-08",
+      "route_kilometre": 275,
+      "railway": "Northern"
+    },
+    {
+      "s_no_": 3,
+      "name_of_project": "Laksar-Dehradun (Material Modification of Ambala-Moradabad)",
+      "year_of_inclusion_in_pink_book": "2011-12",
+      "route_kilometre": 79,
+      "railway": "Northern"
+    },
+    {
+      "s_no_": 4,
+      "name_of_project": "Barauni-Katihar-Guwahati incl Katihar-Barsoi",
+      "year_of_inclusion_in_pink_book": "2008-09",
+      "route_kilometre": 836,
+      "railway": "East Central & Northeast Frontier"
+    },
+    {
+      "s_no_": 5,
+      "name_of_project": "Shoranur-Mangalore-Penambur",
+      "year_of_inclusion_in_pink_book": "2010-11",
+      "route_kilometre": 328,
+      "railway": "Southern"
+    },
+    {
+      "s_no_": 6,
+      "name_of_project": "Rohtak-Bhatinda-Lehra Muhabat",
+      "year_of_inclusion_in_pink_book": "2010-11",
+      "route_kilometre": 252,
+      "railway": "Northern"
+    },
+    {
+      "s_no_": 7,
+      "name_of_project": "Gondia-Balharshah",
+      "year_of_inclusion_in_pink_book": "2010-11",
+      "route_kilometre": 250,
+      "railway": "South East Central"
+    },
+    {
+      "s_no_": 8,
+      "name_of_project": "Daund-Manmad incl. Puntamba - Shirdi",
+      "year_of_inclusion_in_pink_book": "2010-11",
+      "route_kilometre": 255,
+      "railway": "Central"
+    },
+    {
+      "s_no_": 9,
+      "name_of_project": "Pandabeswar-Sainthia-Pakur incl. Khana-Sainthia",
+      "year_of_inclusion_in_pink_book": "2010-11",
+      "route_kilometre": 205,
+      "railway": "Eastern"
+    },
+    {
+      "s_no_": 10,
+      "name_of_project": "Yelahanka - Dharmavaram - Gooty incl Penukonda-Dharmavaram via Sri Satya Sai Prashanthi Nilayam",
+      "year_of_inclusion_in_pink_book": "2010-11",
+      "route_kilometre": 306,
+      "railway": "South Central & South Western"
+    },
+    {
+      "s_no_": 11,
+      "name_of_project": "Rosa-Sitapur-Burhwal",
+      "year_of_inclusion_in_pink_book": "2011-12",
+      "route_kilometre": 181,
+      "railway": "Northern & North Eastern"
+    },
+    {
+      "s_no_": 12,
+      "name_of_project": "Vizianagaram - Rayagada - Titlagarh - Raipur",
+      "year_of_inclusion_in_pink_book": "2011-12",
+      "route_kilometre": 465,
+      "railway": "East Coast"
+    },
+    {
+      "s_no_": 13,
+      "name_of_project": "Alwar - Rewari",
+      "year_of_inclusion_in_pink_book": "2011-12",
+      "route_kilometre": 82,
+      "railway": "North Central"
+    },
+    {
+      "s_no_": 14,
+      "name_of_project": "Kumedpur - Malda - Singhabad & Pakur - Malda",
+      "year_of_inclusion_in_pink_book": "2012-13",
+      "route_kilometre": 153,
+      "railway": "Eastern & Northeast Frontier"
+    },
+    {
+      "s_no_": 15,
+      "name_of_project": "Jharsuguda - Sambalpur - Titlagarh & Jharsuguda - Ib Bypass",
+      "year_of_inclusion_in_pink_book": "2012-13",
+      "route_kilometre": 238,
+      "railway": "East Coast"
+    },
+    {
+      "s_no_": 16,
+      "name_of_project": "Manheru - Hissar",
+      "year_of_inclusion_in_pink_book": "2012-13",
+      "route_kilometre": 74,
+      "railway": "North Western"
+    },
+    {
+      "s_no_": 17,
+      "name_of_project": "Nallapadu - Guntakal incl. Gooty - Pendekallu",
+      "year_of_inclusion_in_pink_book": "2012-13",
+      "route_kilometre": 426,
+      "railway": "South Central"
+    },
+    {
+      "s_no_": 18,
+      "name_of_project": "Andal - Sitarampur via Jamunia - Ikra & Sripur with Kajoragram -Sonachara bypass line with 6 colliery sidings",
+      "year_of_inclusion_in_pink_book": "2012-13",
+      "route_kilometre": 57,
+      "railway": "Eastern"
+    },
+    {
+      "s_no_": 19,
+      "name_of_project": "Guntakal - Bellary - Hospet incl. Tornagallu - Ranjitpura Branch Line",
+      "year_of_inclusion_in_pink_book": "2012-13",
+      "route_kilometre": 138,
+      "railway": "South Central & South Western"
+    },
+    {
+      "s_no_": 20,
+      "name_of_project": "Amla - Chhindwara - Kalumna",
+      "year_of_inclusion_in_pink_book": "2012-13",
+      "route_kilometre": 257,
+      "railway": "Central & South East Central"
+    },
+    {
+      "s_no_": 21,
+      "name_of_project": "Itarsi - Katni - Manikpur incl Satna - Rewa and Manikpur - Chheoki",
+      "year_of_inclusion_in_pink_book": "2012-13",
+      "route_kilometre": 653,
+      "railway": "Noth Central & West Central"
+    },
+    {
+      "s_no_": 22,
+      "name_of_project": "Sambalpur - Angul",
+      "year_of_inclusion_in_pink_book": "2012-13",
+      "route_kilometre": 156,
+      "railway": "East Coast"
+    },
+    {
+      "s_no_": 23,
+      "name_of_project": "Garwa Road - Chopan - Singrauli",
+      "year_of_inclusion_in_pink_book": "2012-13",
+      "route_kilometre": 257,
+      "railway": "East Central"
+    },
+    {
+      "s_no_": 24,
+      "name_of_project": "Delhi Sarai Rohilla - Rewari - Palanpur - Ahmedabad, incl. Kalol -Gandhinagar - Khodiyar and Alwar - Bandikui - Jaipur - Phulera",
+      "year_of_inclusion_in_pink_book": "2013-14",
+      "route_kilometre": 1087,
+      "railway": "Northern, North Western & Western"
+    },
+    {
+      "s_no_": 25,
+      "name_of_project": "Jakhal - Hisar",
+      "year_of_inclusion_in_pink_book": "2013-14",
+      "route_kilometre": 79,
+      "railway": "Northern"
+    },
+    {
+      "s_no_": 26,
+      "name_of_project": "Rajpura - Dhuri - Lehra Mohabat",
+      "year_of_inclusion_in_pink_book": "2013-14",
+      "route_kilometre": 151,
+      "railway": "Northern"
+    },
+    {
+      "s_no_": 27,
+      "name_of_project": "Jakhal - Dhuri - Ludhiana",
+      "year_of_inclusion_in_pink_book": "2013-14",
+      "route_kilometre": 123,
+      "railway": "Northern"
+    },
+    {
+      "s_no_": 28,
+      "name_of_project": "Singapur Road - Damanjodi",
+      "year_of_inclusion_in_pink_book": "2013-14",
+      "route_kilometre": 152,
+      "railway": "East Coast"
+    },
+    {
+      "s_no_": 29,
+      "name_of_project": "Katwa-Azimganj-Nalhati & Azimganj-Tildanga/New Farakka incl. Nalhati & Azimganj bypass line",
+      "year_of_inclusion_in_pink_book": "2013-14 (S)",
+      "route_kilometre": 200,
+      "railway": "Eastern"
+    },
+    {
+      "s_no_": 30,
+      "name_of_project": "Manpur-Tilaiya-Bakhtiarpur",
+      "year_of_inclusion_in_pink_book": "2014-15",
+      "route_kilometre": 132,
+      "railway": "East Central"
+    },
+    {
+      "s_no_": 31,
+      "name_of_project": "Chhapra-Ballia-Ghazipur-Varanasi-Allahabad",
+      "year_of_inclusion_in_pink_book": "2014-15",
+      "route_kilometre": 330,
+      "railway": "North Eastern"
+    },
+    {
+      "s_no_": 32,
+      "name_of_project": "Singrauli-Katni",
+      "year_of_inclusion_in_pink_book": "2015-16",
+      "route_kilometre": 260,
+      "railway": "West Central"
+    },
+    {
+      "s_no_": 33,
+      "name_of_project": "Ahmedabad-Rajkot",
+      "year_of_inclusion_in_pink_book": "2015-16",
+      "route_kilometre": 233,
+      "railway": "Western"
+    },
+    {
+      "s_no_": 34,
+      "name_of_project": "Mehsana-Viramgam-Samakhiyali",
+      "year_of_inclusion_in_pink_book": "2015-16",
+      "route_kilometre": 292,
+      "railway": "Western"
+    },
+    {
+      "s_no_": 35,
+      "name_of_project": "Erode-Karur-Tiruchchirapalli & Salem-Karur-Dindigul",
+      "year_of_inclusion_in_pink_book": "2015-16",
+      "route_kilometre": 300,
+      "railway": "Southern"
+    },
+    {
+      "s_no_": 36,
+      "name_of_project": "Ratlam - Nimach - Chanderia - Kota",
+      "year_of_inclusion_in_pink_book": "2015-16",
+      "route_kilometre": 348,
+      "railway": "West Central & Western"
+    },
+    {
+      "s_no_": 37,
+      "name_of_project": "Una Himachal-Amb Andaura",
+      "year_of_inclusion_in_pink_book": "2015-16",
+      "route_kilometre": 25,
+      "railway": "Northern"
+    },
+    {
+      "s_no_": 38,
+      "name_of_project": "Koderma - Hazaribagh - Barkakana - Ranchi",
+      "year_of_inclusion_in_pink_book": "2015-16",
+      "route_kilometre": 203,
+      "railway": "East Central"
+    },
+    {
+      "s_no_": 39,
+      "name_of_project": "Guntakal-Kalluru",
+      "year_of_inclusion_in_pink_book": "2015-16",
+      "route_kilometre": 40,
+      "railway": "South Central"
+    },
+    {
+      "s_no_": 40,
+      "name_of_project": "Indore - Mhow",
+      "year_of_inclusion_in_pink_book": "2015-16",
+      "route_kilometre": 21,
+      "railway": "Western"
+    },
+    {
+      "s_no_": 41,
+      "name_of_project": "Ghazipur - Aunrihar - Manduadih",
+      "year_of_inclusion_in_pink_book": "2015-16",
+      "route_kilometre": 78,
+      "railway": "North Eastern"
+    },
+    {
+      "s_no_": 42,
+      "name_of_project": "Utretia - Rae Bareli - Amethi - Janghai",
+      "year_of_inclusion_in_pink_book": "2015-16",
+      "route_kilometre": 214,
+      "railway": "Northern"
+    },
+    {
+      "s_no_": 43,
+      "name_of_project": "Kiul - Tilaya",
+      "year_of_inclusion_in_pink_book": "2015-16",
+      "route_kilometre": 87,
+      "railway": "East Central"
+    },
+    {
+      "s_no_": 44,
+      "name_of_project": "Paddapalli - Lingampet - Jagtiyal",
+      "year_of_inclusion_in_pink_book": "2015-16",
+      "route_kilometre": 83,
+      "railway": "South Central"
+    },
+    {
+      "s_no_": 45,
+      "name_of_project": "Panvel - Pen - Thal",
+      "year_of_inclusion_in_pink_book": "2015-16",
+      "route_kilometre": 75,
+      "railway": "Central"
+    },
+    {
+      "s_no_": 46,
+      "name_of_project": "Tiruchchirappalli - Nagapattinam - Karaikkal Port",
+      "year_of_inclusion_in_pink_book": "2015-16",
+      "route_kilometre": 153,
+      "railway": "Southern"
+    },
+    {
+      "s_no_": 47,
+      "name_of_project": "Idgah - Achnera - Mathura & Achnera - Bharatpur",
+      "year_of_inclusion_in_pink_book": "2015-16",
+      "route_kilometre": 87,
+      "railway": "North Central"
+    },
+    {
+      "s_no_": 48,
+      "name_of_project": "Bonidanga Link Cabin / Bonidanga - Barharwa - Sahibganj - Kiul incl. Tinpahar - Rajmahal",
+      "year_of_inclusion_in_pink_book": "2015-16",
+      "route_kilometre": 247,
+      "railway": "Eastern"
+    },
+    {
+      "s_no_": 49,
+      "name_of_project": "Pagidipalli - Nallapadu",
+      "year_of_inclusion_in_pink_book": "2015-16",
+      "route_kilometre": 285,
+      "railway": "South Central"
+    },
+    {
+      "s_no_": 50,
+      "name_of_project": "Hissar - Bhatinda - Suratgarh - Phalodi - Jodhpur - Bhildi incl Phalodi -Jaisalmer",
+      "year_of_inclusion_in_pink_book": "2015-16",
+      "route_kilometre": 1230,
+      "railway": "North Western"
+    },
+    {
+      "s_no_": 51,
+      "name_of_project": "Valmiki Nagar - Narkatiaganj - Sugauli - Muzaffarpur incl Sugauli -Raxaul",
+      "year_of_inclusion_in_pink_book": "2015-16",
+      "route_kilometre": 240,
+      "railway": "East Central"
+    },
+    {
+      "s_no_": 52,
+      "name_of_project": "Jhansi - Manikpur incl Khairar - Bhimsen",
+      "year_of_inclusion_in_pink_book": "2015-16",
+      "route_kilometre": 409,
+      "railway": "North Central"
+    },
+    {
+      "s_no_": 53,
+      "name_of_project": "Ajmer - Berach - Mavli - Udaipur",
+      "year_of_inclusion_in_pink_book": "2015-16",
+      "route_kilometre": 294,
+      "railway": "North Western"
+    },
+    {
+      "s_no_": 54,
+      "name_of_project": "Rohtak - Bhiwani",
+      "year_of_inclusion_in_pink_book": "2015-16",
+      "route_kilometre": 48,
+      "railway": "North Western"
+    },
+    {
+      "s_no_": 55,
+      "name_of_project": "Manmad - Mudkhed - Dhone",
+      "year_of_inclusion_in_pink_book": "2015-16",
+      "route_kilometre": 868,
+      "railway": "South Central"
+    },
+    {
+      "s_no_": 56,
+      "name_of_project": "Hospet - Hubli - Vasco da Gama",
+      "year_of_inclusion_in_pink_book": "2015-16",
+      "route_kilometre": 346,
+      "railway": "South Western"
+    },
+    {
+      "s_no_": 57,
+      "name_of_project": "Zafrabad - Akbarpur - Tanda",
+      "year_of_inclusion_in_pink_book": "2015-16",
+      "route_kilometre": 101,
+      "railway": "Northern"
+    },
+    {
+      "s_no_": 58,
+      "name_of_project": "Lalitpur - Udaipura",
+      "year_of_inclusion_in_pink_book": "2015-16",
+      "route_kilometre": 32,
+      "railway": "North Central"
+    },
+    {
+      "s_no_": 59,
+      "name_of_project": "Jasai - Jawaharlal Nehru Port Trust",
+      "year_of_inclusion_in_pink_book": "2015-16",
+      "route_kilometre": 9,
+      "railway": "Central"
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "index_name": "6de4f0bd-8514-4fa3-a86f-e240a2d26eeb",
+  "title": "State Wise Vacancies Mobilised till 30 June 2022",
+  "desc": "State Wise Vacancies Mobilised till 30 June 2022",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Labour and Employment"
+  ],
+  "sector": [
+    "Labour and Employment"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "11f7723c-ea55-4ad6-b2b9-9cd7e2a0e46f",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1694766623,
+  "updated": 1694769166,
+  "created_date": "2023-09-15T10:30:23Z",
+  "updated_date": "2023-09-15T14:42:46Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "api",
+    "type": "11f7723c-ea55-4ad6-b2b9-9cd7e2a0e46f",
+    "field": "6de4f0bd-8514-4fa3-a86f-e240a2d26eeb"
+  },
+  "field": [
+    {
+      "id": "states",
+      "name": "States",
+      "type": "keyword"
+    },
+    {
+      "id": "mobilised_vacancies",
+      "name": "Mobilised Vacancies",
+      "type": "double"
+    },
+    {
+      "id": "data_upto",
+      "name": "Data Upto",
+      "type": "date"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 40,
+  "count": 40,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "states": "Andaman and Nicobar Islands",
+      "mobilised_vacancies": 1592,
+      "data_upto": "2022-06-30T10:30:44Z"
+    },
+    {
+      "states": "Andhra Pradesh",
+      "mobilised_vacancies": 115153,
+      "data_upto": "2022-06-30T10:30:44Z"
+    },
+    {
+      "states": "Arunachal Pradesh",
+      "mobilised_vacancies": 4714,
+      "data_upto": "2022-06-30T10:30:44Z"
+    },
+    {
+      "states": "Assam",
+      "mobilised_vacancies": 39727,
+      "data_upto": "2022-06-30T10:30:44Z"
+    },
+    {
+      "states": "Bihar",
+      "mobilised_vacancies": 157727,
+      "data_upto": "2022-06-30T10:30:44Z"
+    },
+    {
+      "states": "Chandigarh",
+      "mobilised_vacancies": 80293,
+      "data_upto": "2022-06-30T10:30:44Z"
+    },
+    {
+      "states": "Chhattisgarh",
+      "mobilised_vacancies": 53198,
+      "data_upto": "2022-06-30T10:30:44Z"
+    },
+    {
+      "states": "Dadra and Nagar Haveli",
+      "mobilised_vacancies": 131,
+      "data_upto": "2022-06-30T10:30:44Z"
+    },
+    {
+      "states": "Daman and Diu",
+      "mobilised_vacancies": 621,
+      "data_upto": "2022-06-30T10:30:44Z"
+    },
+    {
+      "states": "Delhi",
+      "mobilised_vacancies": 279217,
+      "data_upto": "2022-06-30T10:30:44Z"
+    },
+    {
+      "states": "Goa",
+      "mobilised_vacancies": 21245,
+      "data_upto": "2022-06-30T10:30:44Z"
+    },
+    {
+      "states": "Gujarat",
+      "mobilised_vacancies": 244586,
+      "data_upto": "2022-06-30T10:30:44Z"
+    },
+    {
+      "states": "Haryana",
+      "mobilised_vacancies": 196127,
+      "data_upto": "2022-06-30T10:30:44Z"
+    },
+    {
+      "states": "Himachal Pradesh",
+      "mobilised_vacancies": 31222,
+      "data_upto": "2022-06-30T10:30:44Z"
+    },
+    {
+      "states": "Jammu and Kashmir",
+      "mobilised_vacancies": 38043,
+      "data_upto": "2022-06-30T10:30:44Z"
+    },
+    {
+      "states": "Jharkhand",
+      "mobilised_vacancies": 126733,
+      "data_upto": "2022-06-30T10:30:44Z"
+    },
+    {
+      "states": "Karnataka",
+      "mobilised_vacancies": 914759,
+      "data_upto": "2022-06-30T10:30:44Z"
+    },
+    {
+      "states": "Kerala",
+      "mobilised_vacancies": 79804,
+      "data_upto": "2022-06-30T10:30:44Z"
+    },
+    {
+      "states": "Ladakh",
+      "mobilised_vacancies": 42,
+      "data_upto": "2022-06-30T10:30:44Z"
+    },
+    {
+      "states": "Lakshadweep",
+      "mobilised_vacancies": 1367,
+      "data_upto": "2022-06-30T10:30:44Z"
+    },
+    {
+      "states": "Madhya Pradesh",
+      "mobilised_vacancies": 116832,
+      "data_upto": "2022-06-30T10:30:44Z"
+    },
+    {
+      "states": "Maharashtra",
+      "mobilised_vacancies": 917244,
+      "data_upto": "2022-06-30T10:30:44Z"
+    },
+    {
+      "states": "Manipur",
+      "mobilised_vacancies": 2096,
+      "data_upto": "2022-06-30T10:30:44Z"
+    },
+    {
+      "states": "Meghalaya",
+      "mobilised_vacancies": 1011,
+      "data_upto": "2022-06-30T10:30:44Z"
+    },
+    {
+      "states": "Mizoram",
+      "mobilised_vacancies": 694,
+      "data_upto": "2022-06-30T10:30:44Z"
+    },
+    {
+      "states": "Multiple States",
+      "mobilised_vacancies": 1251259,
+      "data_upto": "2022-06-30T10:30:44Z"
+    },
+    {
+      "states": "Nagaland",
+      "mobilised_vacancies": 992,
+      "data_upto": "2022-06-30T10:30:44Z"
+    },
+    {
+      "states": "Odisha",
+      "mobilised_vacancies": 75383,
+      "data_upto": "2022-06-30T10:30:44Z"
+    },
+    {
+      "states": "Puducherry",
+      "mobilised_vacancies": 4835,
+      "data_upto": "2022-06-30T10:30:44Z"
+    },
+    {
+      "states": "Punjab",
+      "mobilised_vacancies": 89815,
+      "data_upto": "2022-06-30T10:30:44Z"
+    },
+    {
+      "states": "Rajasthan",
+      "mobilised_vacancies": 189270,
+      "data_upto": "2022-06-30T10:30:44Z"
+    },
+    {
+      "states": "Sikkim",
+      "mobilised_vacancies": 1619,
+      "data_upto": "2022-06-30T10:30:44Z"
+    },
+    {
+      "states": "Tamil Nadu",
+      "mobilised_vacancies": 664304,
+      "data_upto": "2022-06-30T10:30:44Z"
+    },
+    {
+      "states": "Telangana",
+      "mobilised_vacancies": 414600,
+      "data_upto": "2022-06-30T10:30:44Z"
+    },
+    {
+      "states": "Tripura",
+      "mobilised_vacancies": 8999,
+      "data_upto": "2022-06-30T10:30:44Z"
+    },
+    {
+      "states": "Uttar Pradesh",
+      "mobilised_vacancies": 732185,
+      "data_upto": "2022-06-30T10:30:44Z"
+    },
+    {
+      "states": "Uttarakhand",
+      "mobilised_vacancies": 124790,
+      "data_upto": "2022-06-30T10:30:44Z"
+    },
+    {
+      "states": "West Bengal",
+      "mobilised_vacancies": 701413,
+      "data_upto": "2022-06-30T10:30:44Z"
+    },
+    {
+      "states": "Pan India",
+      "mobilised_vacancies": 2366217,
+      "data_upto": "2022-06-30T10:30:44Z"
+    },
+    {
+      "states": "Grand Total",
+      "mobilised_vacancies": 10049859,
+      "data_upto": "2022-06-30T10:30:44Z"
+    }
+  ]
+}

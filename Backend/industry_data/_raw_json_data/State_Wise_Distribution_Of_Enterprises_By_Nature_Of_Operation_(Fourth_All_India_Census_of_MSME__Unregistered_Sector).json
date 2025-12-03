@@ -1,0 +1,399 @@
+{
+  "index_name": "38af0182-4329-4145-9ae0-d2135f287eb1",
+  "title": "State Wise Distribution Of Enterprises By Nature Of Operation (Fourth All India Census of MSME: Unregistered Sector)",
+  "desc": "State Wise Distribution Of Enterprises By Nature Of Operation (Fourth All India Census of MSME: Unregistered Sector)",
+  "created": 1565004803,
+  "updated": 1565004803,
+  "created_date": "2019-08-05T17:03:23Z",
+  "updated_date": "2019-08-05T17:03:23Z",
+  "active": "1",
+  "visualizable": "1",
+  "catalog_uuid": "3fb4ce90-2f08-4a80-92a5-aaeec8082cd9",
+  "source": "data.gov.in",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Micro, Small and Medium Enterprises"
+  ],
+  "sector": [
+    "Industries",
+    "Micro",
+    "Small Scale"
+  ],
+  "field": [
+    {
+      "id": "sl_no",
+      "name": "Sl. No",
+      "type": "double"
+    },
+    {
+      "id": "state_ut_",
+      "name": "State/UT ",
+      "type": "keyword"
+    },
+    {
+      "id": "perennial_number_in_lakhs_",
+      "name": "Perennial (Number in Lakhs)",
+      "type": "double"
+    },
+    {
+      "id": "seasonal_number_in_lakhs_",
+      "name": "Seasonal (Number in Lakhs)",
+      "type": "double"
+    },
+    {
+      "id": "casual_number_in_lakhs_",
+      "name": "Casual (Number in Lakhs)",
+      "type": "double"
+    },
+    {
+      "id": "not_recorded_number_in_lakhs_",
+      "name": "Not Recorded (Number in Lakhs)",
+      "type": "double"
+    },
+    {
+      "id": "total_number_in_lakhs_",
+      "name": "Total (Number in Lakhs)",
+      "type": "double"
+    }
+  ],
+  "target_bucket": {
+    "index": "api",
+    "type": "3fb4ce90-2f08-4a80-92a5-aaeec8082cd9",
+    "field": "38af0182-4329-4145-9ae0-d2135f287eb1"
+  },
+  "external_ws_url": "",
+  "external_ws": "0",
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 36,
+  "count": 36,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "sl_no": 1,
+      "state_ut_": "Jammu and Kashmir",
+      "perennial_number_in_lakhs_": 1.14,
+      "seasonal_number_in_lakhs_": 0.02,
+      "casual_number_in_lakhs_": 0.02,
+      "not_recorded_number_in_lakhs_": 0,
+      "total_number_in_lakhs_": 1.18
+    },
+    {
+      "sl_no": 2,
+      "state_ut_": "Himachal Pradesh",
+      "perennial_number_in_lakhs_": 1.4,
+      "seasonal_number_in_lakhs_": 0.12,
+      "casual_number_in_lakhs_": 0.09,
+      "not_recorded_number_in_lakhs_": 0,
+      "total_number_in_lakhs_": 1.6
+    },
+    {
+      "sl_no": 3,
+      "state_ut_": "Punjab",
+      "perennial_number_in_lakhs_": 9.07,
+      "seasonal_number_in_lakhs_": 0.2,
+      "casual_number_in_lakhs_": 0.34,
+      "not_recorded_number_in_lakhs_": 0.05,
+      "total_number_in_lakhs_": 9.66
+    },
+    {
+      "sl_no": 4,
+      "state_ut_": "Chandigarh",
+      "perennial_number_in_lakhs_": 0,
+      "seasonal_number_in_lakhs_": 0,
+      "casual_number_in_lakhs_": 0,
+      "not_recorded_number_in_lakhs_": 0.28,
+      "total_number_in_lakhs_": 0.28
+    },
+    {
+      "sl_no": 5,
+      "state_ut_": "Uttarakhand",
+      "perennial_number_in_lakhs_": 1.74,
+      "seasonal_number_in_lakhs_": 0.18,
+      "casual_number_in_lakhs_": 0.07,
+      "not_recorded_number_in_lakhs_": 0,
+      "total_number_in_lakhs_": 2
+    },
+    {
+      "sl_no": 6,
+      "state_ut_": "Haryana",
+      "perennial_number_in_lakhs_": 4.77,
+      "seasonal_number_in_lakhs_": 0.07,
+      "casual_number_in_lakhs_": 0.02,
+      "not_recorded_number_in_lakhs_": 0.01,
+      "total_number_in_lakhs_": 4.87
+    },
+    {
+      "sl_no": 7,
+      "state_ut_": "Delhi",
+      "perennial_number_in_lakhs_": 1.59,
+      "seasonal_number_in_lakhs_": 0,
+      "casual_number_in_lakhs_": 0.01,
+      "not_recorded_number_in_lakhs_": 0.15,
+      "total_number_in_lakhs_": 1.75
+    },
+    {
+      "sl_no": 8,
+      "state_ut_": "Rajasthan",
+      "perennial_number_in_lakhs_": 8.92,
+      "seasonal_number_in_lakhs_": 0.13,
+      "casual_number_in_lakhs_": 0.08,
+      "not_recorded_number_in_lakhs_": 0.01,
+      "total_number_in_lakhs_": 9.14
+    },
+    {
+      "sl_no": 9,
+      "state_ut_": "Uttar Pradesh",
+      "perennial_number_in_lakhs_": 21.17,
+      "seasonal_number_in_lakhs_": 1.03,
+      "casual_number_in_lakhs_": 0.1,
+      "not_recorded_number_in_lakhs_": 0.05,
+      "total_number_in_lakhs_": 22.34
+    },
+    {
+      "sl_no": 10,
+      "state_ut_": "Bihar",
+      "perennial_number_in_lakhs_": 6.78,
+      "seasonal_number_in_lakhs_": 0.42,
+      "casual_number_in_lakhs_": 0.21,
+      "not_recorded_number_in_lakhs_": 0.06,
+      "total_number_in_lakhs_": 7.48
+    },
+    {
+      "sl_no": 11,
+      "state_ut_": "Sikkim",
+      "perennial_number_in_lakhs_": 0,
+      "seasonal_number_in_lakhs_": 0,
+      "casual_number_in_lakhs_": 0,
+      "not_recorded_number_in_lakhs_": 0.06,
+      "total_number_in_lakhs_": 0.06
+    },
+    {
+      "sl_no": 12,
+      "state_ut_": "Arunachal Pradesh",
+      "perennial_number_in_lakhs_": 0.21,
+      "seasonal_number_in_lakhs_": 0.03,
+      "casual_number_in_lakhs_": 0,
+      "not_recorded_number_in_lakhs_": 0,
+      "total_number_in_lakhs_": 0.25
+    },
+    {
+      "sl_no": 13,
+      "state_ut_": "Nagaland",
+      "perennial_number_in_lakhs_": 0.13,
+      "seasonal_number_in_lakhs_": 0.02,
+      "casual_number_in_lakhs_": 0.02,
+      "not_recorded_number_in_lakhs_": 0,
+      "total_number_in_lakhs_": 0.16
+    },
+    {
+      "sl_no": 14,
+      "state_ut_": "Manipur",
+      "perennial_number_in_lakhs_": 0.11,
+      "seasonal_number_in_lakhs_": 0.01,
+      "casual_number_in_lakhs_": 0,
+      "not_recorded_number_in_lakhs_": 0.33,
+      "total_number_in_lakhs_": 0.44
+    },
+    {
+      "sl_no": 15,
+      "state_ut_": "Mizoram",
+      "perennial_number_in_lakhs_": 0.03,
+      "seasonal_number_in_lakhs_": 0,
+      "casual_number_in_lakhs_": 0,
+      "not_recorded_number_in_lakhs_": 0.06,
+      "total_number_in_lakhs_": 0.1
+    },
+    {
+      "sl_no": 16,
+      "state_ut_": "Tripura",
+      "perennial_number_in_lakhs_": 0.26,
+      "seasonal_number_in_lakhs_": 0,
+      "casual_number_in_lakhs_": 0,
+      "not_recorded_number_in_lakhs_": 0,
+      "total_number_in_lakhs_": 0.26
+    },
+    {
+      "sl_no": 17,
+      "state_ut_": "Meghalaya",
+      "perennial_number_in_lakhs_": 0.37,
+      "seasonal_number_in_lakhs_": 0.04,
+      "casual_number_in_lakhs_": 0.06,
+      "not_recorded_number_in_lakhs_": 0,
+      "total_number_in_lakhs_": 0.47
+    },
+    {
+      "sl_no": 18,
+      "state_ut_": "Assam",
+      "perennial_number_in_lakhs_": 2.06,
+      "seasonal_number_in_lakhs_": 0.02,
+      "casual_number_in_lakhs_": 0,
+      "not_recorded_number_in_lakhs_": 0.05,
+      "total_number_in_lakhs_": 2.14
+    },
+    {
+      "sl_no": 19,
+      "state_ut_": "West Bengal",
+      "perennial_number_in_lakhs_": 19.9,
+      "seasonal_number_in_lakhs_": 0.29,
+      "casual_number_in_lakhs_": 0.1,
+      "not_recorded_number_in_lakhs_": 0.51,
+      "total_number_in_lakhs_": 20.8
+    },
+    {
+      "sl_no": 20,
+      "state_ut_": "Jharkhand",
+      "perennial_number_in_lakhs_": 4.16,
+      "seasonal_number_in_lakhs_": 0.07,
+      "casual_number_in_lakhs_": 0.02,
+      "not_recorded_number_in_lakhs_": 0,
+      "total_number_in_lakhs_": 4.25
+    },
+    {
+      "sl_no": 21,
+      "state_ut_": "Orissa",
+      "perennial_number_in_lakhs_": 9.18,
+      "seasonal_number_in_lakhs_": 0.36,
+      "casual_number_in_lakhs_": 0.21,
+      "not_recorded_number_in_lakhs_": 0.02,
+      "total_number_in_lakhs_": 9.77
+    },
+    {
+      "sl_no": 22,
+      "state_ut_": "Chhattisgarh",
+      "perennial_number_in_lakhs_": 2.63,
+      "seasonal_number_in_lakhs_": 0.11,
+      "casual_number_in_lakhs_": 0.03,
+      "not_recorded_number_in_lakhs_": 0.01,
+      "total_number_in_lakhs_": 2.78
+    },
+    {
+      "sl_no": 23,
+      "state_ut_": "Madhya Pradesh",
+      "perennial_number_in_lakhs_": 10.79,
+      "seasonal_number_in_lakhs_": 0.55,
+      "casual_number_in_lakhs_": 0.14,
+      "not_recorded_number_in_lakhs_": 0.02,
+      "total_number_in_lakhs_": 11.5
+    },
+    {
+      "sl_no": 24,
+      "state_ut_": "Gujarat",
+      "perennial_number_in_lakhs_": 12.81,
+      "seasonal_number_in_lakhs_": 0.13,
+      "casual_number_in_lakhs_": 0.09,
+      "not_recorded_number_in_lakhs_": 0,
+      "total_number_in_lakhs_": 13.03
+    },
+    {
+      "sl_no": 25,
+      "state_ut_": "Daman & Diu",
+      "perennial_number_in_lakhs_": 0.01,
+      "seasonal_number_in_lakhs_": 0,
+      "casual_number_in_lakhs_": 0,
+      "not_recorded_number_in_lakhs_": 0,
+      "total_number_in_lakhs_": 0.01
+    },
+    {
+      "sl_no": 26,
+      "state_ut_": "Dadar and Nagar Haveli",
+      "perennial_number_in_lakhs_": 0.04,
+      "seasonal_number_in_lakhs_": 0,
+      "casual_number_in_lakhs_": 0,
+      "not_recorded_number_in_lakhs_": 0,
+      "total_number_in_lakhs_": 0.04
+    },
+    {
+      "sl_no": 27,
+      "state_ut_": "Maharashtra",
+      "perennial_number_in_lakhs_": 13.5,
+      "seasonal_number_in_lakhs_": 0.76,
+      "casual_number_in_lakhs_": 0.17,
+      "not_recorded_number_in_lakhs_": 0.03,
+      "total_number_in_lakhs_": 14.45
+    },
+    {
+      "sl_no": 28,
+      "state_ut_": "Andhra Pradesh",
+      "perennial_number_in_lakhs_": 13.09,
+      "seasonal_number_in_lakhs_": 0.34,
+      "casual_number_in_lakhs_": 1.39,
+      "not_recorded_number_in_lakhs_": 0.08,
+      "total_number_in_lakhs_": 14.9
+    },
+    {
+      "sl_no": 29,
+      "state_ut_": "Karnataka",
+      "perennial_number_in_lakhs_": 9.92,
+      "seasonal_number_in_lakhs_": 0.68,
+      "casual_number_in_lakhs_": 0.5,
+      "not_recorded_number_in_lakhs_": 0.01,
+      "total_number_in_lakhs_": 11.12
+    },
+    {
+      "sl_no": 30,
+      "state_ut_": "Goa",
+      "perennial_number_in_lakhs_": 0.56,
+      "seasonal_number_in_lakhs_": 0,
+      "casual_number_in_lakhs_": 0,
+      "not_recorded_number_in_lakhs_": 0,
+      "total_number_in_lakhs_": 0.56
+    },
+    {
+      "sl_no": 31,
+      "state_ut_": "Lakshadweep",
+      "perennial_number_in_lakhs_": 0,
+      "seasonal_number_in_lakhs_": 0,
+      "casual_number_in_lakhs_": 0,
+      "not_recorded_number_in_lakhs_": 0.01,
+      "total_number_in_lakhs_": 0.01
+    },
+    {
+      "sl_no": 32,
+      "state_ut_": "Kerala",
+      "perennial_number_in_lakhs_": 12.59,
+      "seasonal_number_in_lakhs_": 0.3,
+      "casual_number_in_lakhs_": 0.03,
+      "not_recorded_number_in_lakhs_": 0.02,
+      "total_number_in_lakhs_": 12.94
+    },
+    {
+      "sl_no": 33,
+      "state_ut_": "Tamil Nadu",
+      "perennial_number_in_lakhs_": 17.12,
+      "seasonal_number_in_lakhs_": 0.53,
+      "casual_number_in_lakhs_": 0.54,
+      "not_recorded_number_in_lakhs_": 0.02,
+      "total_number_in_lakhs_": 18.21
+    },
+    {
+      "sl_no": 34,
+      "state_ut_": "Puducherry",
+      "perennial_number_in_lakhs_": 0.12,
+      "seasonal_number_in_lakhs_": 0,
+      "casual_number_in_lakhs_": 0,
+      "not_recorded_number_in_lakhs_": 0,
+      "total_number_in_lakhs_": 0.13
+    },
+    {
+      "sl_no": 35,
+      "state_ut_": "Andaman and Nicobar Islands",
+      "perennial_number_in_lakhs_": 0.07,
+      "seasonal_number_in_lakhs_": 0,
+      "casual_number_in_lakhs_": 0,
+      "not_recorded_number_in_lakhs_": 0,
+      "total_number_in_lakhs_": 0.07
+    },
+    {
+      "sl_no": "NA",
+      "state_ut_": "All India",
+      "perennial_number_in_lakhs_": 186.24,
+      "seasonal_number_in_lakhs_": 6.42,
+      "casual_number_in_lakhs_": 4.23,
+      "not_recorded_number_in_lakhs_": 1.85,
+      "total_number_in_lakhs_": 198.74
+    }
+  ]
+}

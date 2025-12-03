@@ -1,0 +1,297 @@
+{
+  "index_name": "f20d7d45-e3d8-4603-bc79-15a3d0db1f9a",
+  "title": " Production of Different Crops during 2019-20",
+  "desc": " Production of Different Crops during 2019-20",
+  "created": "1657252822546",
+  "updated": 1657252862,
+  "created_date": "2022-07-08T09:30:57Z",
+  "updated_date": "2022-07-08T09:31:02Z",
+  "active": "1",
+  "visualizable": "1",
+  "catalog_uuid": "9493de35-55bd-477f-97e8-71d6b543041f",
+  "source": "data.gov.in",
+  "org_type": "Central",
+  "org": [
+    "Himachal Pradesh",
+    "Economics and Statistics Department, Himachal Pradesh"
+  ],
+  "sector": [
+    "Agriculture"
+  ],
+  "field": [
+    {
+      "id": "state",
+      "name": "State",
+      "type": "keyword"
+    },
+    {
+      "id": "district",
+      "name": "District",
+      "type": "keyword"
+    },
+    {
+      "id": "wheat_in_metric_tonnes_",
+      "name": "Wheat ( in Metric Tonnes)",
+      "type": "double"
+    },
+    {
+      "id": "maize_in_metric_tonnes_",
+      "name": "Maize ( in Metric Tonnes)",
+      "type": "double"
+    },
+    {
+      "id": "rice_in_metric_tonnes_",
+      "name": "Rice ( in Metric Tonnes)",
+      "type": "double"
+    },
+    {
+      "id": "barley_in_metric_tonnes_",
+      "name": "Barley ( in Metric Tonnes)",
+      "type": "double"
+    },
+    {
+      "id": "ragi_in_metric_tonnes_",
+      "name": "Ragi ( in Metric Tonnes)",
+      "type": "double"
+    },
+    {
+      "id": "pulses_in_metric_tonnes_",
+      "name": "Pulses ( in Metric Tonnes)",
+      "type": "double"
+    },
+    {
+      "id": "common_millets_in_metric_tonnes_",
+      "name": "Common millets ( in Metric Tonnes)",
+      "type": "double"
+    },
+    {
+      "id": "total_food_grains_in_metric_tonnes_",
+      "name": "Total Food grains ( in Metric Tonnes)",
+      "type": "double"
+    },
+    {
+      "id": "chillies_in_metric_tonnes_",
+      "name": "Chillies ( in Metric Tonnes)",
+      "type": "double"
+    },
+    {
+      "id": "ginger_in_metric_tonnes_",
+      "name": "Ginger ( in Metric Tonnes)",
+      "type": "double"
+    },
+    {
+      "id": "oil_seeds_in_metric_tonnes_",
+      "name": "Oil  seeds ( in Metric Tonnes)",
+      "type": "double"
+    }
+  ],
+  "target_bucket": {
+    "index": "api",
+    "type": "9493de35-55bd-477f-97e8-71d6b543041f",
+    "field": "f20d7d45-e3d8-4603-bc79-15a3d0db1f9a"
+  },
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 13,
+  "count": 13,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "state": "Himachal Pradesh",
+      "district": "Bilaspur",
+      "wheat_in_metric_tonnes_": 48096,
+      "maize_in_metric_tonnes_": 54634,
+      "rice_in_metric_tonnes_": 2851,
+      "barley_in_metric_tonnes_": 231,
+      "ragi_in_metric_tonnes_": 6,
+      "pulses_in_metric_tonnes_": 141,
+      "common_millets_in_metric_tonnes_": 0,
+      "total_food_grains_in_metric_tonnes_": 105959,
+      "chillies_in_metric_tonnes_": 2,
+      "ginger_in_metric_tonnes_": 361,
+      "oil_seeds_in_metric_tonnes_": 159
+    },
+    {
+      "state": "Himachal Pradesh",
+      "district": "Chamba",
+      "wheat_in_metric_tonnes_": 41545,
+      "maize_in_metric_tonnes_": 68768,
+      "rice_in_metric_tonnes_": 4485,
+      "barley_in_metric_tonnes_": 7726,
+      "ragi_in_metric_tonnes_": 22,
+      "pulses_in_metric_tonnes_": 8227,
+      "common_millets_in_metric_tonnes_": 1029,
+      "total_food_grains_in_metric_tonnes_": 131802,
+      "chillies_in_metric_tonnes_": 21,
+      "ginger_in_metric_tonnes_": 15,
+      "oil_seeds_in_metric_tonnes_": 1176
+    },
+    {
+      "state": "Himachal Pradesh",
+      "district": "Hamirpur",
+      "wheat_in_metric_tonnes_": 58886,
+      "maize_in_metric_tonnes_": 88041,
+      "rice_in_metric_tonnes_": 2907,
+      "barley_in_metric_tonnes_": 167,
+      "ragi_in_metric_tonnes_": 0,
+      "pulses_in_metric_tonnes_": 34,
+      "common_millets_in_metric_tonnes_": 0,
+      "total_food_grains_in_metric_tonnes_": 150035,
+      "chillies_in_metric_tonnes_": 5,
+      "ginger_in_metric_tonnes_": 30,
+      "oil_seeds_in_metric_tonnes_": 33
+    },
+    {
+      "state": "Himachal Pradesh",
+      "district": "Kangra",
+      "wheat_in_metric_tonnes_": 190519,
+      "maize_in_metric_tonnes_": 136597,
+      "rice_in_metric_tonnes_": 52824,
+      "barley_in_metric_tonnes_": 4205,
+      "ragi_in_metric_tonnes_": 4,
+      "pulses_in_metric_tonnes_": 7674,
+      "common_millets_in_metric_tonnes_": 93,
+      "total_food_grains_in_metric_tonnes_": 391916,
+      "chillies_in_metric_tonnes_": 3,
+      "ginger_in_metric_tonnes_": 86,
+      "oil_seeds_in_metric_tonnes_": 1992
+    },
+    {
+      "state": "Himachal Pradesh",
+      "district": "Kinnaur",
+      "wheat_in_metric_tonnes_": 196,
+      "maize_in_metric_tonnes_": 217,
+      "rice_in_metric_tonnes_": 15,
+      "barley_in_metric_tonnes_": 1325,
+      "ragi_in_metric_tonnes_": 10,
+      "pulses_in_metric_tonnes_": 716,
+      "common_millets_in_metric_tonnes_": 874,
+      "total_food_grains_in_metric_tonnes_": 3353,
+      "chillies_in_metric_tonnes_": 0,
+      "ginger_in_metric_tonnes_": 0,
+      "oil_seeds_in_metric_tonnes_": 0
+    },
+    {
+      "state": "Himachal Pradesh",
+      "district": "Kullu",
+      "wheat_in_metric_tonnes_": 21992,
+      "maize_in_metric_tonnes_": 42826,
+      "rice_in_metric_tonnes_": 1763,
+      "barley_in_metric_tonnes_": 3694,
+      "ragi_in_metric_tonnes_": 216,
+      "pulses_in_metric_tonnes_": 7760,
+      "common_millets_in_metric_tonnes_": 133,
+      "total_food_grains_in_metric_tonnes_": 78384,
+      "chillies_in_metric_tonnes_": 40,
+      "ginger_in_metric_tonnes_": 336,
+      "oil_seeds_in_metric_tonnes_": 167
+    },
+    {
+      "state": "Himachal Pradesh",
+      "district": "Lahaul-spiti",
+      "wheat_in_metric_tonnes_": 125,
+      "maize_in_metric_tonnes_": 69,
+      "rice_in_metric_tonnes_": 0,
+      "barley_in_metric_tonnes_": 988,
+      "ragi_in_metric_tonnes_": 0,
+      "pulses_in_metric_tonnes_": 923,
+      "common_millets_in_metric_tonnes_": 29,
+      "total_food_grains_in_metric_tonnes_": 2134,
+      "chillies_in_metric_tonnes_": 4,
+      "ginger_in_metric_tonnes_": 0,
+      "oil_seeds_in_metric_tonnes_": 8
+    },
+    {
+      "state": "Himachal Pradesh",
+      "district": "Mandi",
+      "wheat_in_metric_tonnes_": 117665,
+      "maize_in_metric_tonnes_": 128742,
+      "rice_in_metric_tonnes_": 29216,
+      "barley_in_metric_tonnes_": 6054,
+      "ragi_in_metric_tonnes_": 744,
+      "pulses_in_metric_tonnes_": 9460,
+      "common_millets_in_metric_tonnes_": 815,
+      "total_food_grains_in_metric_tonnes_": 292696,
+      "chillies_in_metric_tonnes_": 0,
+      "ginger_in_metric_tonnes_": 0,
+      "oil_seeds_in_metric_tonnes_": 986
+    },
+    {
+      "state": "Himachal Pradesh",
+      "district": "Shimla",
+      "wheat_in_metric_tonnes_": 13819,
+      "maize_in_metric_tonnes_": 23058,
+      "rice_in_metric_tonnes_": 780,
+      "barley_in_metric_tonnes_": 4558,
+      "ragi_in_metric_tonnes_": 647,
+      "pulses_in_metric_tonnes_": 9128,
+      "common_millets_in_metric_tonnes_": 1611,
+      "total_food_grains_in_metric_tonnes_": 53601,
+      "chillies_in_metric_tonnes_": 52,
+      "ginger_in_metric_tonnes_": 188,
+      "oil_seeds_in_metric_tonnes_": 175
+    },
+    {
+      "state": "Himachal Pradesh",
+      "district": "Sirmaur",
+      "wheat_in_metric_tonnes_": 40567,
+      "maize_in_metric_tonnes_": 55159,
+      "rice_in_metric_tonnes_": 7932,
+      "barley_in_metric_tonnes_": 3890,
+      "ragi_in_metric_tonnes_": 411,
+      "pulses_in_metric_tonnes_": 9030,
+      "common_millets_in_metric_tonnes_": 73,
+      "total_food_grains_in_metric_tonnes_": 117062,
+      "chillies_in_metric_tonnes_": 21,
+      "ginger_in_metric_tonnes_": 8803,
+      "oil_seeds_in_metric_tonnes_": 611
+    },
+    {
+      "state": "Himachal Pradesh",
+      "district": "Solan",
+      "wheat_in_metric_tonnes_": 43236,
+      "maize_in_metric_tonnes_": 59453,
+      "rice_in_metric_tonnes_": 9985,
+      "barley_in_metric_tonnes_": 2575,
+      "ragi_in_metric_tonnes_": 0,
+      "pulses_in_metric_tonnes_": 2007,
+      "common_millets_in_metric_tonnes_": 0,
+      "total_food_grains_in_metric_tonnes_": 117256,
+      "chillies_in_metric_tonnes_": 121,
+      "ginger_in_metric_tonnes_": 840,
+      "oil_seeds_in_metric_tonnes_": 373
+    },
+    {
+      "state": "Himachal Pradesh",
+      "district": "Una",
+      "wheat_in_metric_tonnes_": 43043,
+      "maize_in_metric_tonnes_": 87039,
+      "rice_in_metric_tonnes_": 4121,
+      "barley_in_metric_tonnes_": 0,
+      "ragi_in_metric_tonnes_": 0,
+      "pulses_in_metric_tonnes_": 128,
+      "common_millets_in_metric_tonnes_": 0,
+      "total_food_grains_in_metric_tonnes_": 134331,
+      "chillies_in_metric_tonnes_": 7,
+      "ginger_in_metric_tonnes_": 16,
+      "oil_seeds_in_metric_tonnes_": 764
+    },
+    {
+      "state": "Himachal Pradesh",
+      "district": "Total",
+      "wheat_in_metric_tonnes_": 619689,
+      "maize_in_metric_tonnes_": 744603,
+      "rice_in_metric_tonnes_": 116879,
+      "barley_in_metric_tonnes_": 35413,
+      "ragi_in_metric_tonnes_": 2060,
+      "pulses_in_metric_tonnes_": 55228,
+      "common_millets_in_metric_tonnes_": 4657,
+      "total_food_grains_in_metric_tonnes_": 1578529,
+      "chillies_in_metric_tonnes_": 276,
+      "ginger_in_metric_tonnes_": 10675,
+      "oil_seeds_in_metric_tonnes_": 6444
+    }
+  ]
+}

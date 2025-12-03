@@ -1,0 +1,3224 @@
+{
+  "index_name": "2c1a261f-d705-4b9e-a2b8-9137fbdde825",
+  "title": "Gram Panchayat-wise Rural Sanitation Coverage in Mungeli District of Chhattisgarh as on date",
+  "desc": "Gram Panchayat-wise Rural Sanitation Coverage in Mungeli District of Chhattisgarh as on date",
+  "org_type": "Central",
+  "org": [
+    "Ministry of Jal Shakti",
+    "Department of Drinking Water and Sanitation"
+  ],
+  "sector": [
+    "Water and Sanitation"
+  ],
+  "source": "data.gov.in",
+  "catalog_uuid": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+  "visualizable": "1",
+  "active": "1",
+  "created": 1688360359,
+  "updated": 1688364931,
+  "created_date": "2023-07-03T06:59:19Z",
+  "updated_date": "2023-07-03T11:45:31Z",
+  "external_ws": 0,
+  "external_ws_url": "",
+  "target_bucket": {
+    "index": "sbm",
+    "type": "dbcf1dec-ba15-4d07-a2b4-e55aa2149c4c",
+    "field": "2c1a261f-d705-4b9e-a2b8-9137fbdde825"
+  },
+  "field": [
+    {
+      "id": "statename",
+      "name": "StateName",
+      "type": "keyword"
+    },
+    {
+      "id": "districtname",
+      "name": "DistrictName",
+      "type": "keyword"
+    },
+    {
+      "id": "blockname",
+      "name": "BlockName",
+      "type": "keyword"
+    },
+    {
+      "id": "grampanchayatname",
+      "name": "GramPanchayatName",
+      "type": "keyword"
+    },
+    {
+      "id": "ihhltotalasperdetails",
+      "name": "IHHLTotalAsPerDetails",
+      "type": "double"
+    },
+    {
+      "id": "ihhltotalach",
+      "name": "IHHLTotalAch",
+      "type": "double"
+    },
+    {
+      "id": "date",
+      "name": "Date",
+      "type": "keyword"
+    }
+  ],
+  "message": "Resource lists",
+  "version": "2.2.0",
+  "status": "ok",
+  "total": 350,
+  "count": 350,
+  "limit": "999",
+  "offset": "0",
+  "records": [
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "ACHANAKMAR",
+      "ihhltotalasperdetails": 469,
+      "ihhltotalach": 469,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "ACHHIDONGARI",
+      "ihhltotalasperdetails": 193,
+      "ihhltotalach": 193,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "AKHARAR",
+      "ihhltotalasperdetails": 916,
+      "ihhltotalach": 916,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "AMALDIHI",
+      "ihhltotalasperdetails": 175,
+      "ihhltotalach": 175,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "AURABANDHA",
+      "ihhltotalasperdetails": 573,
+      "ihhltotalach": 573,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "BAGHANI BHANWAR",
+      "ihhltotalasperdetails": 437,
+      "ihhltotalach": 437,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "BAGHMAR",
+      "ihhltotalasperdetails": 233,
+      "ihhltotalach": 233,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "BAIGAKAPA",
+      "ihhltotalasperdetails": 300,
+      "ihhltotalach": 300,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "BAIJALPUR",
+      "ihhltotalasperdetails": 129,
+      "ihhltotalach": 129,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "BANDHA",
+      "ihhltotalasperdetails": 247,
+      "ihhltotalach": 247,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "BANDHAWA",
+      "ihhltotalasperdetails": 165,
+      "ihhltotalach": 165,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "BARAMPUR",
+      "ihhltotalasperdetails": 611,
+      "ihhltotalach": 611,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "BHALUKHODRA",
+      "ihhltotalasperdetails": 308,
+      "ihhltotalach": 308,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "BHASKARA",
+      "ihhltotalasperdetails": 344,
+      "ihhltotalach": 344,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "BHATHA",
+      "ihhltotalasperdetails": 310,
+      "ihhltotalach": 310,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "BICHARPUR",
+      "ihhltotalasperdetails": 523,
+      "ihhltotalach": 523,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "BIJRA KACHHAR",
+      "ihhltotalasperdetails": 357,
+      "ihhltotalach": 357,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "BIJRAKAPA KALA",
+      "ihhltotalasperdetails": 431,
+      "ihhltotalach": 431,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "BIJRAKAPA KHURD",
+      "ihhltotalasperdetails": 465,
+      "ihhltotalach": 465,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "BODTARA KALA",
+      "ihhltotalasperdetails": 584,
+      "ihhltotalach": 584,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "BOIRAHA",
+      "ihhltotalasperdetails": 319,
+      "ihhltotalach": 319,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "BOIRPARA",
+      "ihhltotalasperdetails": 446,
+      "ihhltotalach": 446,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "BUDHWARA",
+      "ihhltotalasperdetails": 465,
+      "ihhltotalach": 465,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "CHACHANDIH",
+      "ihhltotalasperdetails": 471,
+      "ihhltotalach": 471,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "CHAKLA",
+      "ihhltotalasperdetails": 310,
+      "ihhltotalach": 310,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "CHANDLI",
+      "ihhltotalasperdetails": 357,
+      "ihhltotalach": 357,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "CHHAPARWA",
+      "ihhltotalasperdetails": 434,
+      "ihhltotalach": 434,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "CHILFI",
+      "ihhltotalasperdetails": 417,
+      "ihhltotalach": 417,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "DARWAJA",
+      "ihhltotalasperdetails": 446,
+      "ihhltotalach": 446,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "DAUKAPA",
+      "ihhltotalasperdetails": 214,
+      "ihhltotalach": 214,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "DEVARHAT",
+      "ihhltotalasperdetails": 722,
+      "ihhltotalach": 722,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "DHANIYADOLI",
+      "ihhltotalasperdetails": 275,
+      "ihhltotalach": 275,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "DHARAMPURA",
+      "ihhltotalasperdetails": 659,
+      "ihhltotalach": 659,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "DHOBGHATTI",
+      "ihhltotalasperdetails": 643,
+      "ihhltotalach": 643,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "DHOLGI",
+      "ihhltotalasperdetails": 448,
+      "ihhltotalach": 448,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "DHOURABHATA",
+      "ihhltotalasperdetails": 421,
+      "ihhltotalach": 421,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "DINDOL",
+      "ihhltotalasperdetails": 567,
+      "ihhltotalach": 567,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "DINDORI",
+      "ihhltotalasperdetails": 685,
+      "ihhltotalach": 685,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "DINDOURI (CH)",
+      "ihhltotalasperdetails": 359,
+      "ihhltotalach": 359,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "DONGARIGARH",
+      "ihhltotalasperdetails": 384,
+      "ihhltotalach": 384,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "DONGRIYA",
+      "ihhltotalasperdetails": 417,
+      "ihhltotalach": 417,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "FULJHAR",
+      "ihhltotalasperdetails": 547,
+      "ihhltotalach": 547,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "FULWARI  (F)",
+      "ihhltotalasperdetails": 435,
+      "ihhltotalach": 435,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "FULWARIKALA",
+      "ihhltotalasperdetails": 348,
+      "ihhltotalach": 348,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "GADATOLA",
+      "ihhltotalasperdetails": 417,
+      "ihhltotalach": 417,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "GAINJEE",
+      "ihhltotalasperdetails": 296,
+      "ihhltotalach": 296,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "GATAPAR",
+      "ihhltotalasperdetails": 385,
+      "ihhltotalach": 385,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "GHANAGHAT",
+      "ihhltotalasperdetails": 593,
+      "ihhltotalach": 593,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "GHATOLI",
+      "ihhltotalasperdetails": 364,
+      "ihhltotalach": 364,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "GODKHAMHI",
+      "ihhltotalasperdetails": 629,
+      "ihhltotalach": 629,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "GORAKHPUR",
+      "ihhltotalasperdetails": 403,
+      "ihhltotalach": 403,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "GURVAIDABRI",
+      "ihhltotalasperdetails": 310,
+      "ihhltotalach": 310,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "HARDI",
+      "ihhltotalasperdetails": 316,
+      "ihhltotalach": 316,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "HARDI BANDH",
+      "ihhltotalasperdetails": 386,
+      "ihhltotalach": 386,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "HARNACHAKA",
+      "ihhltotalasperdetails": 155,
+      "ihhltotalach": 155,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "JHAJHPURIKALA",
+      "ihhltotalasperdetails": 770,
+      "ihhltotalach": 770,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "JHALRI",
+      "ihhltotalasperdetails": 475,
+      "ihhltotalach": 475,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "JHAPHAL",
+      "ihhltotalasperdetails": 963,
+      "ihhltotalach": 963,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "JHIRIYA",
+      "ihhltotalasperdetails": 371,
+      "ihhltotalach": 371,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "JOTPUR",
+      "ihhltotalasperdetails": 280,
+      "ihhltotalach": 280,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "KALMIDIH",
+      "ihhltotalasperdetails": 92,
+      "ihhltotalach": 92,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "KARANKAPA",
+      "ihhltotalasperdetails": 336,
+      "ihhltotalach": 336,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "KARIDONGARI",
+      "ihhltotalasperdetails": 339,
+      "ihhltotalach": 339,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "KATAMI",
+      "ihhltotalasperdetails": 312,
+      "ihhltotalach": 312,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "KATHOTIYA",
+      "ihhltotalasperdetails": 506,
+      "ihhltotalach": 506,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "KHAIRWAR KHURD",
+      "ihhltotalasperdetails": 469,
+      "ihhltotalach": 469,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "KHAPRIKALA",
+      "ihhltotalasperdetails": 521,
+      "ihhltotalach": 521,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "KHEKTARA",
+      "ihhltotalasperdetails": 404,
+      "ihhltotalach": 404,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "KHUDIYA",
+      "ihhltotalasperdetails": 480,
+      "ihhltotalach": 480,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "KODWA MAHANT",
+      "ihhltotalasperdetails": 332,
+      "ihhltotalach": 332,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "KOILARI",
+      "ihhltotalasperdetails": 328,
+      "ihhltotalach": 328,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "KOSABADI",
+      "ihhltotalasperdetails": 355,
+      "ihhltotalach": 355,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "KOSAMTARA",
+      "ihhltotalasperdetails": 599,
+      "ihhltotalach": 599,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "KOTRI",
+      "ihhltotalasperdetails": 370,
+      "ihhltotalach": 370,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "KUMHROULI",
+      "ihhltotalasperdetails": 390,
+      "ihhltotalach": 390,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "KUNDHURTAL",
+      "ihhltotalasperdetails": 539,
+      "ihhltotalach": 539,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "LACHHANPUR",
+      "ihhltotalasperdetails": 322,
+      "ihhltotalach": 322,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "LAGARA",
+      "ihhltotalasperdetails": 474,
+      "ihhltotalach": 474,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "LAKHASAR",
+      "ihhltotalasperdetails": 453,
+      "ihhltotalach": 453,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "LALPUR  KALA",
+      "ihhltotalasperdetails": 578,
+      "ihhltotalach": 578,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "LALPUR THANA",
+      "ihhltotalasperdetails": 548,
+      "ihhltotalach": 548,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "LAMNI",
+      "ihhltotalasperdetails": 445,
+      "ihhltotalach": 445,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "LAPTI",
+      "ihhltotalasperdetails": 508,
+      "ihhltotalach": 508,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "LILAPUR",
+      "ihhltotalasperdetails": 518,
+      "ihhltotalach": 518,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "MAHAMAYI",
+      "ihhltotalasperdetails": 486,
+      "ihhltotalach": 486,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "MANKI",
+      "ihhltotalasperdetails": 442,
+      "ihhltotalach": 442,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "MANOHARPUR",
+      "ihhltotalasperdetails": 535,
+      "ihhltotalach": 535,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "MASNA",
+      "ihhltotalasperdetails": 443,
+      "ihhltotalach": 443,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "MOHANPUR",
+      "ihhltotalasperdetails": 386,
+      "ihhltotalach": 386,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "MOHDANDA",
+      "ihhltotalasperdetails": 367,
+      "ihhltotalach": 367,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "MOHTARA KURMI",
+      "ihhltotalasperdetails": 344,
+      "ihhltotalach": 344,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "MOHTARATELI",
+      "ihhltotalasperdetails": 399,
+      "ihhltotalach": 399,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "MUCHHEL",
+      "ihhltotalasperdetails": 591,
+      "ihhltotalach": 591,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "NARAYANPUR",
+      "ihhltotalasperdetails": 543,
+      "ihhltotalach": 543,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "NATHALAPARA",
+      "ihhltotalasperdetails": 511,
+      "ihhltotalach": 511,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "NAVAGAON (D)",
+      "ihhltotalasperdetails": 465,
+      "ihhltotalach": 465,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "NAVAGAON BENKAT",
+      "ihhltotalasperdetails": 434,
+      "ihhltotalach": 434,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "NAVAGAON DHELKA",
+      "ihhltotalasperdetails": 179,
+      "ihhltotalach": 179,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "NAVRANGPUR",
+      "ihhltotalasperdetails": 406,
+      "ihhltotalach": 406,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "NIWAS KHAR",
+      "ihhltotalasperdetails": 253,
+      "ihhltotalach": 253,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "PAIJANIYA",
+      "ihhltotalasperdetails": 493,
+      "ihhltotalach": 493,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "PARASWARA",
+      "ihhltotalasperdetails": 277,
+      "ihhltotalach": 277,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "PARSAKAPA",
+      "ihhltotalasperdetails": 245,
+      "ihhltotalach": 245,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "PATHARRA",
+      "ihhltotalasperdetails": 471,
+      "ihhltotalach": 471,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "PATHARRI",
+      "ihhltotalasperdetails": 366,
+      "ihhltotalach": 366,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "PENDRI TALAB (N)",
+      "ihhltotalasperdetails": 279,
+      "ihhltotalach": 279,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "PENDRITALAB",
+      "ihhltotalasperdetails": 307,
+      "ihhltotalach": 307,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "PIPARKHUTA",
+      "ihhltotalasperdetails": 237,
+      "ihhltotalach": 237,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "PIPARKHUTI",
+      "ihhltotalasperdetails": 826,
+      "ihhltotalach": 826,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "RABELI",
+      "ihhltotalasperdetails": 364,
+      "ihhltotalach": 364,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "RAHANGI",
+      "ihhltotalasperdetails": 412,
+      "ihhltotalach": 412,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "RAJPALPUR",
+      "ihhltotalasperdetails": 329,
+      "ihhltotalach": 329,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "RAJPUR",
+      "ihhltotalasperdetails": 253,
+      "ihhltotalach": 253,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "RAMHEPUR (J)",
+      "ihhltotalasperdetails": 337,
+      "ihhltotalach": 337,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "RAMHEPUR (N)",
+      "ihhltotalasperdetails": 247,
+      "ihhltotalach": 247,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "SALHEGHORI",
+      "ihhltotalasperdetails": 883,
+      "ihhltotalach": 883,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "SALHEGHORI (REI)",
+      "ihhltotalasperdetails": 269,
+      "ihhltotalach": 269,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "SARAIPATERA",
+      "ihhltotalasperdetails": 401,
+      "ihhltotalach": 401,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "SARDHA",
+      "ihhltotalasperdetails": 861,
+      "ihhltotalach": 861,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "SARISTAL",
+      "ihhltotalasperdetails": 517,
+      "ihhltotalach": 517,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "SAVANTPUR",
+      "ihhltotalasperdetails": 433,
+      "ihhltotalach": 433,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "SEMARIYA",
+      "ihhltotalasperdetails": 431,
+      "ihhltotalach": 431,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "SEMARSAL",
+      "ihhltotalasperdetails": 752,
+      "ihhltotalach": 752,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "SENGUDA",
+      "ihhltotalasperdetails": 328,
+      "ihhltotalach": 328,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "SINGHANPURI",
+      "ihhltotalasperdetails": 511,
+      "ihhltotalach": 511,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "SUKLI",
+      "ihhltotalasperdetails": 544,
+      "ihhltotalach": 544,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "SURAHI",
+      "ihhltotalasperdetails": 449,
+      "ihhltotalach": 449,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "SURAJPURA",
+      "ihhltotalasperdetails": 325,
+      "ihhltotalach": 325,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "TELIKHAMHI",
+      "ihhltotalasperdetails": 465,
+      "ihhltotalach": 465,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "TELIYAPURAN",
+      "ihhltotalasperdetails": 346,
+      "ihhltotalach": 346,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "TILAKPUR",
+      "ihhltotalasperdetails": 507,
+      "ihhltotalach": 507,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "UJIYARPUR",
+      "ihhltotalasperdetails": 326,
+      "ihhltotalach": 326,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "LORMI",
+      "grampanchayatname": "URAIKACHHAR",
+      "ihhltotalasperdetails": 345,
+      "ihhltotalach": 345,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "AMALIDIH",
+      "ihhltotalasperdetails": 461,
+      "ihhltotalach": 461,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "BAIHAKAPA",
+      "ihhltotalasperdetails": 367,
+      "ihhltotalach": 367,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "BALODI",
+      "ihhltotalasperdetails": 513,
+      "ihhltotalach": 513,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "BANKI",
+      "ihhltotalasperdetails": 494,
+      "ihhltotalach": 494,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "BARDULI",
+      "ihhltotalasperdetails": 487,
+      "ihhltotalach": 487,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "BARELA",
+      "ihhltotalasperdetails": 1305,
+      "ihhltotalach": 1305,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "BHALAPUR",
+      "ihhltotalasperdetails": 467,
+      "ihhltotalach": 467,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "BHARUWAGUDA",
+      "ihhltotalasperdetails": 514,
+      "ihhltotalach": 514,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "BHATHARI",
+      "ihhltotalasperdetails": 945,
+      "ihhltotalach": 945,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "BHATLIKALA",
+      "ihhltotalasperdetails": 397,
+      "ihhltotalach": 397,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "BHIMPURI",
+      "ihhltotalasperdetails": 430,
+      "ihhltotalach": 430,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "BIJATARAI",
+      "ihhltotalasperdetails": 643,
+      "ihhltotalach": 643,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "BIRGAHANI",
+      "ihhltotalasperdetails": 66,
+      "ihhltotalach": 66,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "BIRGAON",
+      "ihhltotalasperdetails": 701,
+      "ihhltotalach": 701,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "BODA",
+      "ihhltotalasperdetails": 519,
+      "ihhltotalach": 519,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "BODHAPARA",
+      "ihhltotalasperdetails": 290,
+      "ihhltotalach": 290,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "BUNDELI",
+      "ihhltotalasperdetails": 129,
+      "ihhltotalach": 129,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "CHAKARBHATHA",
+      "ihhltotalasperdetails": 823,
+      "ihhltotalach": 823,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "CHAMARI",
+      "ihhltotalasperdetails": 362,
+      "ihhltotalach": 362,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "CHARBHATA",
+      "ihhltotalasperdetails": 556,
+      "ihhltotalach": 556,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "CHATARKHAR",
+      "ihhltotalasperdetails": 426,
+      "ihhltotalach": 426,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "CHHATA",
+      "ihhltotalasperdetails": 284,
+      "ihhltotalach": 284,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "CHHATAN",
+      "ihhltotalasperdetails": 664,
+      "ihhltotalach": 664,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "CHHATONA",
+      "ihhltotalasperdetails": 631,
+      "ihhltotalach": 631,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "CHIRHULA",
+      "ihhltotalasperdetails": 372,
+      "ihhltotalach": 372,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "DABAHA",
+      "ihhltotalasperdetails": 531,
+      "ihhltotalach": 531,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "DABO",
+      "ihhltotalasperdetails": 515,
+      "ihhltotalach": 515,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "DAMAPUR (CHH)",
+      "ihhltotalasperdetails": 491,
+      "ihhltotalach": 491,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "DASRANGPUR",
+      "ihhltotalasperdetails": 432,
+      "ihhltotalach": 432,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "DAUKAPA",
+      "ihhltotalasperdetails": 713,
+      "ihhltotalach": 713,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "DEVARI",
+      "ihhltotalasperdetails": 833,
+      "ihhltotalach": 833,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "DEVARI (K)",
+      "ihhltotalasperdetails": 218,
+      "ihhltotalach": 218,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "DEVGAON",
+      "ihhltotalasperdetails": 469,
+      "ihhltotalach": 469,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "DHANGAON (CHA)",
+      "ihhltotalasperdetails": 643,
+      "ihhltotalach": 643,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "DHANGAON (GO)",
+      "ihhltotalasperdetails": 681,
+      "ihhltotalach": 681,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "DHAPAI",
+      "ihhltotalasperdetails": 217,
+      "ihhltotalach": 217,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "DHARAMPURA",
+      "ihhltotalasperdetails": 772,
+      "ihhltotalach": 772,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "DODA",
+      "ihhltotalasperdetails": 389,
+      "ihhltotalach": 389,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "DOMANPUR",
+      "ihhltotalasperdetails": 274,
+      "ihhltotalach": 274,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "DULLAPUR (SO)",
+      "ihhltotalasperdetails": 446,
+      "ihhltotalach": 446,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "FANDWANI",
+      "ihhltotalasperdetails": 672,
+      "ihhltotalach": 672,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "FARHADA",
+      "ihhltotalasperdetails": 547,
+      "ihhltotalach": 547,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "FULWARI",
+      "ihhltotalasperdetails": 741,
+      "ihhltotalach": 741,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "GASTIKAPA",
+      "ihhltotalasperdetails": 375,
+      "ihhltotalach": 375,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "GHORPURA",
+      "ihhltotalasperdetails": 232,
+      "ihhltotalach": 232,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "GHUNDUKAPA",
+      "ihhltotalasperdetails": 220,
+      "ihhltotalach": 220,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "GHUTHELI",
+      "ihhltotalasperdetails": 187,
+      "ihhltotalach": 187,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "GIDHA",
+      "ihhltotalasperdetails": 223,
+      "ihhltotalach": 223,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "GOPATPUR",
+      "ihhltotalasperdetails": 175,
+      "ihhltotalach": 175,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "HARIHARPUR",
+      "ihhltotalasperdetails": 343,
+      "ihhltotalach": 343,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "HEDASPUR",
+      "ihhltotalasperdetails": 420,
+      "ihhltotalach": 420,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "JALLI",
+      "ihhltotalasperdetails": 408,
+      "ihhltotalach": 408,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "JAMKOR",
+      "ihhltotalasperdetails": 495,
+      "ihhltotalach": 495,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "JARHAGAON",
+      "ihhltotalasperdetails": 1010,
+      "ihhltotalach": 1010,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "JHAJHPURIKHURD",
+      "ihhltotalasperdetails": 736,
+      "ihhltotalach": 736,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "JHALIYAPUR",
+      "ihhltotalasperdetails": 469,
+      "ihhltotalach": 469,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "KANTELI",
+      "ihhltotalasperdetails": 722,
+      "ihhltotalach": 722,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "KARAHI (DHA)",
+      "ihhltotalasperdetails": 575,
+      "ihhltotalach": 575,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "KARESARA",
+      "ihhltotalasperdetails": 420,
+      "ihhltotalach": 420,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "KARHI",
+      "ihhltotalasperdetails": 509,
+      "ihhltotalach": 509,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "KARUPAN",
+      "ihhltotalasperdetails": 342,
+      "ihhltotalach": 342,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "KESALIKALA",
+      "ihhltotalasperdetails": 439,
+      "ihhltotalach": 439,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "KESHRWADIH",
+      "ihhltotalasperdetails": 551,
+      "ihhltotalach": 551,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "KHAIRWAR (BEI)",
+      "ihhltotalasperdetails": 151,
+      "ihhltotalach": 151,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "KHAMHIKURMI",
+      "ihhltotalasperdetails": 472,
+      "ihhltotalach": 472,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "KHAMHRIYA",
+      "ihhltotalasperdetails": 540,
+      "ihhltotalach": 540,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "KHEDHA",
+      "ihhltotalasperdetails": 538,
+      "ihhltotalach": 538,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "KHUJHA",
+      "ihhltotalasperdetails": 198,
+      "ihhltotalach": 198,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "KHURSI",
+      "ihhltotalasperdetails": 646,
+      "ihhltotalach": 646,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "KIRNA",
+      "ihhltotalasperdetails": 289,
+      "ihhltotalach": 289,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "KODUKAPA",
+      "ihhltotalasperdetails": 172,
+      "ihhltotalach": 172,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "KODWABANI",
+      "ihhltotalasperdetails": 816,
+      "ihhltotalach": 816,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "KOHDIYA",
+      "ihhltotalasperdetails": 405,
+      "ihhltotalach": 405,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "KONA",
+      "ihhltotalasperdetails": 326,
+      "ihhltotalach": 326,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "KOSMA",
+      "ihhltotalasperdetails": 527,
+      "ihhltotalach": 527,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "KUNWAGAON",
+      "ihhltotalasperdetails": 544,
+      "ihhltotalach": 544,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "KURANKAPA",
+      "ihhltotalasperdetails": 168,
+      "ihhltotalach": 168,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "LACHHANPUR (A)",
+      "ihhltotalasperdetails": 513,
+      "ihhltotalach": 513,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "LACHHANPUR (KI)",
+      "ihhltotalasperdetails": 376,
+      "ihhltotalach": 376,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "LAIKDUM",
+      "ihhltotalasperdetails": 171,
+      "ihhltotalach": 171,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "LALAKAPA",
+      "ihhltotalasperdetails": 510,
+      "ihhltotalach": 510,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "LILWAKAPA",
+      "ihhltotalasperdetails": 418,
+      "ihhltotalach": 418,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "LIMHA",
+      "ihhltotalasperdetails": 490,
+      "ihhltotalach": 490,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "LOHADIYA",
+      "ihhltotalasperdetails": 346,
+      "ihhltotalach": 346,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "MANPUR",
+      "ihhltotalasperdetails": 433,
+      "ihhltotalach": 433,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "MUDPAR",
+      "ihhltotalasperdetails": 551,
+      "ihhltotalach": 551,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "NAGOPAHARI",
+      "ihhltotalasperdetails": 519,
+      "ihhltotalach": 519,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "NARAYANPUR",
+      "ihhltotalasperdetails": 326,
+      "ihhltotalach": 326,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "NAVAGAON (CHI)",
+      "ihhltotalasperdetails": 474,
+      "ihhltotalach": 474,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "NAVAGAON (GHU)",
+      "ihhltotalasperdetails": 446,
+      "ihhltotalach": 446,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "NAWAGAON (TE)",
+      "ihhltotalasperdetails": 199,
+      "ihhltotalach": 199,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "NEVASPUR",
+      "ihhltotalasperdetails": 378,
+      "ihhltotalach": 378,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "NIRJAM",
+      "ihhltotalasperdetails": 606,
+      "ihhltotalach": 606,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "PADAMPUR",
+      "ihhltotalasperdetails": 995,
+      "ihhltotalach": 995,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "PALANSARI",
+      "ihhltotalasperdetails": 266,
+      "ihhltotalach": 266,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "PALCHUWA",
+      "ihhltotalasperdetails": 711,
+      "ihhltotalach": 711,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "PANDARBHATTA",
+      "ihhltotalasperdetails": 660,
+      "ihhltotalach": 660,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "PITHAMPUR",
+      "ihhltotalasperdetails": 157,
+      "ihhltotalach": 157,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "POUNI",
+      "ihhltotalasperdetails": 538,
+      "ihhltotalach": 538,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "PRATAPPUR",
+      "ihhltotalasperdetails": 449,
+      "ihhltotalach": 449,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "PURAN",
+      "ihhltotalasperdetails": 455,
+      "ihhltotalach": 455,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "RAHUTA",
+      "ihhltotalasperdetails": 269,
+      "ihhltotalach": 269,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "RAJPUR",
+      "ihhltotalasperdetails": 421,
+      "ihhltotalach": 421,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "RAMGARH",
+      "ihhltotalasperdetails": 558,
+      "ihhltotalach": 558,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "ROHRAKHURD",
+      "ihhltotalasperdetails": 591,
+      "ihhltotalach": 591,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "SAMBALPUR",
+      "ihhltotalasperdetails": 504,
+      "ihhltotalach": 504,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "SANGWAKAPA",
+      "ihhltotalasperdetails": 640,
+      "ihhltotalach": 640,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "SEMARCHUWA",
+      "ihhltotalasperdetails": 446,
+      "ihhltotalach": 446,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "SEMARKONA",
+      "ihhltotalasperdetails": 430,
+      "ihhltotalach": 430,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "SETGANGA",
+      "ihhltotalasperdetails": 745,
+      "ihhltotalach": 745,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "SILLI",
+      "ihhltotalasperdetails": 657,
+      "ihhltotalach": 657,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "SINGARPUR",
+      "ihhltotalasperdetails": 593,
+      "ihhltotalach": 593,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "SINGH BANDHA",
+      "ihhltotalasperdetails": 433,
+      "ihhltotalach": 433,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "SIPAHI",
+      "ihhltotalasperdetails": 131,
+      "ihhltotalach": 131,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "SODHAR",
+      "ihhltotalasperdetails": 747,
+      "ihhltotalach": 747,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "SONPURI (C)",
+      "ihhltotalasperdetails": 311,
+      "ihhltotalach": 311,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "SURDA",
+      "ihhltotalasperdetails": 536,
+      "ihhltotalach": 536,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "SURETHA",
+      "ihhltotalasperdetails": 254,
+      "ihhltotalach": 254,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "SURIGHAT",
+      "ihhltotalasperdetails": 418,
+      "ihhltotalach": 418,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "TARWARPUR",
+      "ihhltotalasperdetails": 413,
+      "ihhltotalach": 413,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "TEDHADHOURA",
+      "ihhltotalasperdetails": 497,
+      "ihhltotalach": 497,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "TEMARI",
+      "ihhltotalasperdetails": 489,
+      "ihhltotalach": 489,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "THAKURIKAPA",
+      "ihhltotalasperdetails": 545,
+      "ihhltotalach": 545,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "MUNGELI",
+      "grampanchayatname": "VICHARPUR",
+      "ihhltotalasperdetails": 544,
+      "ihhltotalach": 544,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "AMALDIHA",
+      "ihhltotalasperdetails": 380,
+      "ihhltotalach": 380,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "AMALIKAPA",
+      "ihhltotalasperdetails": 355,
+      "ihhltotalach": 355,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "AMORA",
+      "ihhltotalasperdetails": 750,
+      "ihhltotalach": 750,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "ANDA",
+      "ihhltotalasperdetails": 332,
+      "ihhltotalach": 332,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "BACHHERA",
+      "ihhltotalasperdetails": 570,
+      "ihhltotalach": 570,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "BADRA (B)",
+      "ihhltotalasperdetails": 245,
+      "ihhltotalach": 245,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "BADRA (THA)",
+      "ihhltotalasperdetails": 383,
+      "ihhltotalach": 383,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "BAGBUDWA",
+      "ihhltotalasperdetails": 688,
+      "ihhltotalach": 688,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "BAIJANA",
+      "ihhltotalasperdetails": 379,
+      "ihhltotalach": 379,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "BARCHHA",
+      "ihhltotalasperdetails": 420,
+      "ihhltotalach": 420,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "BARDULI",
+      "ihhltotalasperdetails": 492,
+      "ihhltotalach": 492,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "BASEEN",
+      "ihhltotalasperdetails": 532,
+      "ihhltotalach": 532,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "BAWALI",
+      "ihhltotalasperdetails": 337,
+      "ihhltotalach": 337,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "BELTUKRI",
+      "ihhltotalasperdetails": 559,
+      "ihhltotalach": 559,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "BHAREWA",
+      "ihhltotalasperdetails": 211,
+      "ihhltotalach": 211,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "BHATGAON",
+      "ihhltotalasperdetails": 916,
+      "ihhltotalach": 916,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "BHILAI",
+      "ihhltotalasperdetails": 654,
+      "ihhltotalach": 654,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "BIDBIDA",
+      "ihhltotalasperdetails": 304,
+      "ihhltotalach": 304,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "BIRKONI",
+      "ihhltotalasperdetails": 180,
+      "ihhltotalach": 180,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "CHANDKHURI",
+      "ihhltotalasperdetails": 447,
+      "ihhltotalach": 447,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "CHANDLI",
+      "ihhltotalasperdetails": 441,
+      "ihhltotalach": 441,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "CHHINDBHOG",
+      "ihhltotalasperdetails": 927,
+      "ihhltotalach": 927,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "CHUNCHUNIYA",
+      "ihhltotalasperdetails": 439,
+      "ihhltotalach": 439,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "DANDGAON",
+      "ihhltotalasperdetails": 672,
+      "ihhltotalach": 672,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "DARUVANKAPA",
+      "ihhltotalasperdetails": 478,
+      "ihhltotalach": 478,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "DHAMNI",
+      "ihhltotalasperdetails": 166,
+      "ihhltotalach": 166,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "DHARDEI",
+      "ihhltotalasperdetails": 478,
+      "ihhltotalach": 478,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "DHOTMA",
+      "ihhltotalasperdetails": 532,
+      "ihhltotalach": 532,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "DHUMA",
+      "ihhltotalasperdetails": 426,
+      "ihhltotalach": 426,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "DIGHORA",
+      "ihhltotalasperdetails": 440,
+      "ihhltotalach": 440,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "DOUNA",
+      "ihhltotalasperdetails": 378,
+      "ihhltotalach": 378,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "GANGDWARI",
+      "ihhltotalasperdetails": 311,
+      "ihhltotalach": 311,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "GHUTHELI",
+      "ihhltotalasperdetails": 221,
+      "ihhltotalach": 221,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "GHUTIYA",
+      "ihhltotalasperdetails": 182,
+      "ihhltotalach": 182,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "GOINDRA",
+      "ihhltotalasperdetails": 489,
+      "ihhltotalach": 489,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "GOINDRI",
+      "ihhltotalasperdetails": 570,
+      "ihhltotalach": 570,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "HATHANIKALA",
+      "ihhltotalasperdetails": 947,
+      "ihhltotalach": 947,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "HATHKERA",
+      "ihhltotalasperdetails": 474,
+      "ihhltotalach": 474,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "HINCHHAPURI",
+      "ihhltotalasperdetails": 425,
+      "ihhltotalach": 425,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "JAGTAKAPA",
+      "ihhltotalasperdetails": 456,
+      "ihhltotalach": 456,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "JARELI",
+      "ihhltotalasperdetails": 495,
+      "ihhltotalach": 495,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "JEVARA",
+      "ihhltotalasperdetails": 403,
+      "ihhltotalach": 403,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "JHULNAKALA",
+      "ihhltotalasperdetails": 586,
+      "ihhltotalach": 586,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "JOTA",
+      "ihhltotalasperdetails": 594,
+      "ihhltotalach": 594,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "JUNWANI",
+      "ihhltotalasperdetails": 677,
+      "ihhltotalach": 677,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "KAKEDI",
+      "ihhltotalasperdetails": 212,
+      "ihhltotalach": 212,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "KALAR JEVARA",
+      "ihhltotalasperdetails": 454,
+      "ihhltotalach": 454,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "KANCHANPUR",
+      "ihhltotalasperdetails": 659,
+      "ihhltotalach": 659,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "KAPUA",
+      "ihhltotalasperdetails": 481,
+      "ihhltotalach": 481,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "KARHI",
+      "ihhltotalasperdetails": 212,
+      "ihhltotalach": 212,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "KHAIRA",
+      "ihhltotalasperdetails": 293,
+      "ihhltotalach": 293,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "KHAPARI",
+      "ihhltotalasperdetails": 495,
+      "ihhltotalach": 495,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "KHUTERA",
+      "ihhltotalasperdetails": 395,
+      "ihhltotalach": 395,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "KIRNA",
+      "ihhltotalasperdetails": 394,
+      "ihhltotalach": 394,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "KOKADHI",
+      "ihhltotalasperdetails": 333,
+      "ihhltotalach": 333,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "KUKUSADA",
+      "ihhltotalasperdetails": 768,
+      "ihhltotalach": 768,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "LAMTI",
+      "ihhltotalasperdetails": 376,
+      "ihhltotalach": 376,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "LOUDA",
+      "ihhltotalasperdetails": 852,
+      "ihhltotalach": 852,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "MADKU",
+      "ihhltotalasperdetails": 217,
+      "ihhltotalach": 217,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "MARRAKONA",
+      "ihhltotalasperdetails": 440,
+      "ihhltotalach": 440,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "MOHBHATTA",
+      "ihhltotalasperdetails": 562,
+      "ihhltotalach": 562,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "MOHBHATTA (SO)",
+      "ihhltotalasperdetails": 249,
+      "ihhltotalach": 249,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "MOHDEE",
+      "ihhltotalasperdetails": 149,
+      "ihhltotalach": 149,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "MOTIMPUR",
+      "ihhltotalasperdetails": 273,
+      "ihhltotalach": 273,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "MUNDA DEVARI",
+      "ihhltotalasperdetails": 659,
+      "ihhltotalach": 659,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "NAGPURA",
+      "ihhltotalasperdetails": 462,
+      "ihhltotalach": 462,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "PAKARIYA",
+      "ihhltotalasperdetails": 306,
+      "ihhltotalach": 306,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "PANDIYAIEN",
+      "ihhltotalasperdetails": 548,
+      "ihhltotalach": 548,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "PARSADA",
+      "ihhltotalasperdetails": 351,
+      "ihhltotalach": 351,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "PARSIYA",
+      "ihhltotalasperdetails": 482,
+      "ihhltotalach": 482,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "PATHARGADHI",
+      "ihhltotalasperdetails": 941,
+      "ihhltotalach": 941,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "PENDRI (S)",
+      "ihhltotalasperdetails": 475,
+      "ihhltotalach": 475,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "PETULKAPA",
+      "ihhltotalasperdetails": 314,
+      "ihhltotalach": 314,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "POUNSARI",
+      "ihhltotalasperdetails": 480,
+      "ihhltotalach": 480,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "PUCHHELI",
+      "ihhltotalasperdetails": 278,
+      "ihhltotalach": 278,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "RAMBOD",
+      "ihhltotalasperdetails": 350,
+      "ihhltotalach": 350,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "RAMTALA",
+      "ihhltotalasperdetails": 241,
+      "ihhltotalach": 241,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "ROHARAKALA",
+      "ihhltotalasperdetails": 241,
+      "ihhltotalach": 241,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "ROUNAKAPA",
+      "ihhltotalasperdetails": 623,
+      "ihhltotalach": 623,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "SAKET",
+      "ihhltotalasperdetails": 680,
+      "ihhltotalach": 680,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "SALFA",
+      "ihhltotalasperdetails": 463,
+      "ihhltotalach": 463,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "SAVATPUR",
+      "ihhltotalasperdetails": 412,
+      "ihhltotalach": 412,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "SAWA",
+      "ihhltotalasperdetails": 717,
+      "ihhltotalach": 717,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "SENDRI",
+      "ihhltotalasperdetails": 275,
+      "ihhltotalach": 275,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "SILDAHA",
+      "ihhltotalasperdetails": 564,
+      "ihhltotalach": 564,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "SILTARA",
+      "ihhltotalasperdetails": 592,
+      "ihhltotalach": 592,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "SODHI (M)",
+      "ihhltotalasperdetails": 363,
+      "ihhltotalach": 363,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "SODHI (NI)",
+      "ihhltotalasperdetails": 160,
+      "ihhltotalach": 160,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "SONPURI",
+      "ihhltotalasperdetails": 438,
+      "ihhltotalach": 438,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "TARKI DIH",
+      "ihhltotalasperdetails": 471,
+      "ihhltotalach": 471,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "TIKETPENDRI",
+      "ihhltotalasperdetails": 453,
+      "ihhltotalach": 453,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "TORLA",
+      "ihhltotalasperdetails": 256,
+      "ihhltotalach": 256,
+      "date": "5/19/2020 12:00:00 AM"
+    },
+    {
+      "statename": "Chhattisgarh",
+      "districtname": "MUNGELI",
+      "blockname": "PATHARIYA",
+      "grampanchayatname": "UMARIYA",
+      "ihhltotalasperdetails": 366,
+      "ihhltotalach": 366,
+      "date": "5/19/2020 12:00:00 AM"
+    }
+  ]
+}
