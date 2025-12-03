@@ -1,4 +1,5 @@
 Directory Structure:
+Backend/ - contains raw data from data.gov.in, as well as code to fetch data from the site
 Plots/  - containing the csvs file split into their respective categorized folders. * Data Visualization code is also stored here *
 static/
       script.js
